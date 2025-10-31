@@ -22,3 +22,11 @@ This multi-source approach ensures the feed reflects real-time developments, str
 
 ## 📅 Latest Updates
 - [Merszac Expands Packaging Capacity – Oct 30, 2025](2025-10-30-merszac-expansion.md)
+
+
+## Navigation
+- [Home](index.md)
+- [APAC Updates](apac.md)
+- [EMEA Updates](emea.md)
+- [AmericasUpdates](americas.md)
+
