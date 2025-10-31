@@ -25,8 +25,5 @@ This multi-source approach ensures the feed reflects real-time developments, str
 
 
 ## Navigation
-- [Home](index.md)
-- [APAC Updates](apac.md)
-- [EMEA Updates](emea.md)
-- [AmericasUpdates](americas.md)
+[Home](index.md) | [APAC Updates](apac.md) | [EMEA Updates](emea.md) | [AmericasUpdates](americas.md)
 
