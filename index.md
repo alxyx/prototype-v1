@@ -1,7 +1,8 @@
+# 🌍 WBG Global Update Feed
+
 ## Navigation
 [Home](index.md) | [APAC Updates](apac.md) | [EMEA Updates](emea.md) | [Americas Updates](americas.md)
 
-# 🌍 WBG Global Update Feed
 ## Overview
 The WBG Global Update Feed is a centralized hub that aggregates information from multiple sources worldwide, ensuring stakeholders have quick access to relevant updates. The feed pulls content from:
 
