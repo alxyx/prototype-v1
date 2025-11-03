@@ -25,14 +25,13 @@ This multi-source approach ensures the feed reflects real-time developments, str
 
 ## 📅 Latest Updates
 
-<div class="feed-item">
+<div class="feed-item" style="border: 1px solid #ccc; padding: 15px; margin: 20px 0; border-radius: 8px;">
   <h3>
-    <a href="https://www.eletimes.ai/emerging-trends-in-wide-band-gap-semiconductors-sic-and-gan-technology-for-automotive-and-energy-saving-app
+    <a href="https://www.eletimes.ai/emerging-trends-in-wide-band-gap-semiconductors-sic-and-gan-technology-for-automotive-and-energy-saving-applications" target="_blank">
       Emerging Trends in Wide Band Gap Semiconductors (SiC and GaN)
     </a>
   </h3>
-  <p>Explore how SiC and GaN technologies are transforming automotive and energy-saving applications.</p>
+  <p><strong>Summary:</strong> Explore how SiC and GaN technologies are transforming automotive and energy-saving applications. This article discusses the latest innovations and market trends in WBG semiconductors.</p>
 </div>
-``
 
 
