@@ -24,5 +24,15 @@ Curated summaries from WBG teams across different regions and business units.
 This multi-source approach ensures the feed reflects real-time developments, strategic initiatives, and market trends, all in one accessible platform.
 
 ## 📅 Latest Updates
-- [Merszac Expands Packaging Capacity – Oct 30, 2025](2025-10-30-merszac-expansion.md)
+
+<div class="feed-item">
+  <h3>
+    <a href="https://www.eletimes.ai/emerging-trends-in-wide-band-gap-semiconductors-sic-and-gan-technology-for-automotive-and-energy-saving-app
+      Emerging Trends in Wide Band Gap Semiconductors (SiC and GaN)
+    </a>
+  </h3>
+  <p>Explore how SiC and GaN technologies are transforming automotive and energy-saving applications.</p>
+</div>
+``
+
 
