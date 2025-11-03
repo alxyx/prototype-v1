@@ -1,7 +1,3 @@
-# <center> 🌍 WBG Global Update Feed 🌍 </center>
-
-[Home](index.md) | [APAC Updates](apac.md) | [EMEA Updates](emea.md) | [Americas Updates](americas.md)
-
 <script>
   // Automatically insert current date as "Last updated"
   document.addEventListener("DOMContentLoaded", function() {
@@ -13,6 +9,10 @@
 </script>
 
 <p id="timestamp"><em>Loading date...</em></p>
+
+# <center> 🌍 WBG Global Update Feed 🌍 </center>
+
+[Home](index.md) | [APAC Updates](apac.md) | [EMEA Updates](emea.md) | [Americas Updates](americas.md)
 
 ## 📅 Latest Updates
 
