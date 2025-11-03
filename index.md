@@ -26,10 +26,6 @@ WBG press releases, semiconductor industry news sites, and regional business pub
 
 Insights from professional forums, LinkedIn groups, and industry-specific discussion boards.
 
-**RSS Feeds & Aggregators**
-
-Automated streams from trusted sources, including technology blogs, financial news, and government announcements.
-
 **Internal Contributions**
 
 Curated summaries from WBG teams across different regions and business units.
