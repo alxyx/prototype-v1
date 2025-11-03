@@ -1,15 +1,3 @@
-<script>
-  // Automatically insert current date as "Last updated"
-  document.addEventListener("DOMContentLoaded", function() {
-    const now = new Date();
-    const options = { year: 'numeric', month: 'long', day: 'numeric' };
-    const formattedDate = now.toLocaleDateString(undefined, options);
-    document.getElementById("timestamp").textContent = "Last updated: " + formattedDate;
-  });
-</script>
-
-<p id="timestamp"><em>Loading date...</em></p>
-
 # <center> 🌍 WBG Global Update Feed 🌍 </center>
 
 [Home](index.md) | [APAC Updates](apac.md) | [EMEA Updates](emea.md) | [Americas Updates](americas.md)
