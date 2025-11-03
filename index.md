@@ -1,4 +1,4 @@
-<h1 align="center"> 🌍 WBG Global Update Feed 🌍 </h1>
+<# align="center"> 🌍 WBG Global Update Feed 🌍 </#>
 
 [Home](index.md) | [APAC Updates](apac.md) | [EMEA Updates](emea.md) | [Americas Updates](americas.md)
 
