@@ -1,4 +1,4 @@
-<center> #🌍 WBG Global Update Feed 🌍 </center>
+# <center> 🌍 WBG Global Update Feed 🌍 </center>
 
 [Home](index.md) | [APAC Updates](apac.md) | [EMEA Updates](emea.md) | [Americas Updates](americas.md)
 
