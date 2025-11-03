@@ -2,8 +2,6 @@
 
 [Home](index.md) | [APAC Updates](apac.md) | [EMEA Updates](emea.md) | [Americas Updates](americas.md)
 
-## 📅 Latest Updates
-
 <script>
   // Automatically insert current date as "Last updated"
   document.addEventListener("DOMContentLoaded", function() {
@@ -15,6 +13,8 @@
 </script>
 
 <p id="timestamp"><em>Loading date...</em></p>
+
+## 📅 Latest Updates
 
 <div class="feed-item" style="border: 1px solid #ccc; padding: 15px; margin: 20px 0; border-radius: 8px;">
   <h3>
