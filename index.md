@@ -4,6 +4,8 @@
 
 ## 📅 Latest Updates
 
+_Last updated: {{ site.time | date: "%B %d, %Y" }}_
+
 <div class="feed-item" style="border: 1px solid #ccc; padding: 15px; margin: 20px 0; border-radius: 8px;">
   <h3>
     <a href="https://www.eletimes.ai/emerging-trends-in-wide-band-gap-semiconductors-sic-and-gan-technology-for-automotive-and-energy-saving-applications" target="_blank">
