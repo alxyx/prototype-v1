@@ -1,8 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-[Home](index.md) | [APAC Updates](WBG_APAC.md) | [EMEA Updates](emea.md) | [Americas Updates](americas.md)
-
-_Last updated: 2025-11-04 05:54 UTC_
+_Last updated: 2025-11-04 06:13 UTC_
 
 ## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
 **Published:** Tue, 04 Nov 2025 02:45:09 +0000
@@ -844,6 +842,14 @@ _Last updated: 2025-11-04 05:54 UTC_
 
 ---
 
+## [Conflux Partners with Airbus to Advance Hydrogen-Powered Aircraft with 3D-Printed Heat Exchangers](https://www.powerelectronicsnews.com/conflux-partners-with-airbus-to-advance-hydrogen-powered-aircraft-with-3d-printed-heat-exchangers/)
+**Published:** Tue, 04 Nov 2025 05:57:27 +0000
+
+<img alt="Conflux Advances Additive Manufacturing for Airbus’ ZEROe Hydrogen Aircraft Program." class="webfeedsFeaturedVisual wp-post-image" height="534" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/ZEROe-fully-electric-hydrogen-powered-four-pod-aircraft_ZeroE_Turboprop_AIB_VCITY2_Re.jpg?fit=950%2C534" style="display: block; margin-bottom: 5px; clear: both;" width="950" /><p>By reinventing the heat exchanger using additive manufacturing, Conflux equips Airbus with a key technology that makes fuel cells practical for use in regional and short-haul aircraft.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/conflux-partners-with-airbus-to-advance-hydrogen-powered-aircraft-with-3d-printed-heat-exchangers/">Conflux Partners with Airbus to Advance Hydrogen-Powered Aircraft with 3D-Printed Heat Exchangers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Powering the Next Generation of Space Systems with Infineon’s Rad-Hard Buck Controller](https://www.powerelectronicsnews.com/powering-the-next-generation-of-space-systems-with-infineons-rad-hard-buck-controller/)
 **Published:** Mon, 03 Nov 2025 08:00:00 +0000
 
@@ -913,14 +919,6 @@ _Last updated: 2025-11-04 05:54 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="352" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/Figure-1.png?fit=604%2C352" style="display: block; margin-bottom: 5px; clear: both;" width="604" /><p>The EPC7030MSH is the latest entry in an expanding rad-hard GaN product line.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/rad-hard-gan-fet-supports-high-power-satellite-and-propulsion-systems/">Rad-Hard GaN FET Supports High-Power Satellite and Propulsion Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [SmartNetics: A Different Approach to Magnetic Design](https://www.powerelectronicsnews.com/smartnetics-a-different-approach-to-magnetic-design/)
-**Published:** Tue, 28 Oct 2025 13:28:02 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="340" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/smt-articulo-340600-1.png?fit=600%2C340" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>Magnetic design is only one of the steps when designing a full converter, so only a limited amount of time and effort can be put into it.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/smartnetics-a-different-approach-to-magnetic-design/">SmartNetics: A Different Approach to Magnetic Design</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
