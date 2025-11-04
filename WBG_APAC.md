@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-04 21:45 UTC_
+_Last updated: 2025-11-04 22:54 UTC_
 
 ## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
 **Published:** Tue, 04 Nov 2025 02:45:09 +0000
@@ -39,6 +39,38 @@ _Last updated: 2025-11-04 21:45 UTC_
 
 <p>Developers can now use the ExecuTorch Runtime for AI applications built to run on Alif Semiconductor's Ensemble MCUs and fusion processors.</p>
 <p>The post <a href="https://www.eetasia.com/alif-semiconductor-mcus-feature-support-for-executorch-runtime/">Alif Semiconductor MCUs Feature Support for ExecuTorch Runtime</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMI Reports Worldwide Silicon Wafer Shipments Increase 3% Year-on-Year in Q3 2025](https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-3-year-on-year-in-q3-2025/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-worldwide-silicon-wafer-shipments-increase-3-year-on-year-in-q3-2025)
+**Published:** Tue, 04 Nov 2025 22:18:06 +0000
+
+<p>The SEMI Silicon Manufacturers Group (SMG) reported today, in its quarterly analysis of the silicon wafer industry, that worldwide silicon wafer shipments increased 3.1% year-on-year to 3,313 million square inches (MSI) from the 3,214 MSI recorded during the same quarter of 2024.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-3-year-on-year-in-q3-2025/">SEMI Reports Worldwide Silicon Wafer Shipments Increase 3% Year-on-Year in Q3 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [EuQlid Emerges from Stealth with Quantum Sensing Platform for 3D Imaging of Semiconductors and Batteries](https://www.semiconductor-digest.com/euqlid-emerges-from-stealth-with-quantum-sensing-platform-for-3d-imaging-of-semiconductors-and-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=euqlid-emerges-from-stealth-with-quantum-sensing-platform-for-3d-imaging-of-semiconductors-and-batteries)
+**Published:** Tue, 04 Nov 2025 21:45:39 +0000
+
+<p>EuQlid, a quantum technology company developing next-generation design and metrology tools, today announced its emergence from stealth mode with $3 million raised from lead investor QDNL Participations with participation from Quantonation, and over $1.5 million in early customer revenue, to deliver a breakthrough 3D imaging solution for semiconductors and batteries. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/euqlid-emerges-from-stealth-with-quantum-sensing-platform-for-3d-imaging-of-semiconductors-and-batteries/">EuQlid Emerges from Stealth with Quantum Sensing Platform for 3D Imaging of Semiconductors and Batteries</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [RAAAM Memory Technologies Announces $17.5M Series A Investment Led by NXP Semiconductors](https://www.semiconductor-digest.com/raaam-memory-technologies-announces-17-5m-series-a-investment-led-by-nxp-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=raaam-memory-technologies-announces-17-5m-series-a-investment-led-by-nxp-semiconductors)
+**Published:** Tue, 04 Nov 2025 21:43:08 +0000
+
+<p>RAAAM Memory Technologies, a startup company which developed the next-generation on-chip memory technology, announced today that it has completed an over-subscribed $17.5M Series A funding round. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/raaam-memory-technologies-announces-17-5m-series-a-investment-led-by-nxp-semiconductors/">RAAAM Memory Technologies Announces $17.5M Series A Investment Led by NXP Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Study Shows Light Can Reshape Atom-Thin Semiconductors for Next-Generation Optical Devices](https://www.semiconductor-digest.com/study-shows-light-can-reshape-atom-thin-semiconductors-for-next-generation-optical-devices/?utm_source=rss&utm_medium=rss&utm_campaign=study-shows-light-can-reshape-atom-thin-semiconductors-for-next-generation-optical-devices)
+**Published:** Tue, 04 Nov 2025 21:36:36 +0000
+
+<p>Rice University researchers studying a class of atom-thin semiconductors known as transition metal dichalcogenides (TMDs) have discovered that light can trigger a physical shift in their atomic lattice, creating a tunable way to adjust the materials’ behavior and properties.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/study-shows-light-can-reshape-atom-thin-semiconductors-for-next-generation-optical-devices/">Study Shows Light Can Reshape Atom-Thin Semiconductors for Next-Generation Optical Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,35 +842,11 @@ _Last updated: 2025-11-04 21:45 UTC_
 
 ---
 
-## [Digital Dynamics Unveils Next-Gen Fusion Control Modules at SEMICON West](https://www.semiconductor-digest.com/digital-dynamics-unveils-next-gen-fusion-control-modules-at-semicon-west/?utm_source=rss&utm_medium=rss&utm_campaign=digital-dynamics-unveils-next-gen-fusion-control-modules-at-semicon-west)
-**Published:** Tue, 07 Oct 2025 19:38:10 +0000
+## [Powering the Future: Inside NoMIS’s Diversification Strategy for Next-Generation SiC Technology](https://www.powerelectronicsnews.com/powering-the-future-inside-nomiss-diversification-strategy-for-next-generation-sic-technology/)
+**Published:** Tue, 04 Nov 2025 22:00:00 +0000
 
-<p>Digital Dynamics Inc. today introduced a suite of powerful new products and capabilities at SEMICON West in Phoenix, Arizona at booth #1283.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/digital-dynamics-unveils-next-gen-fusion-control-modules-at-semicon-west/">Digital Dynamics Unveils Next-Gen Fusion Control Modules at SEMICON West</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ClassOne Technology Launches New 300mm Solstice Max Platform](https://www.semiconductor-digest.com/classone-technology-expands-solstice-single-wafer-portfolio-with-new-300mm-solstice-max-platform-for-advanced-packaging-metallization/?utm_source=rss&utm_medium=rss&utm_campaign=classone-technology-expands-solstice-single-wafer-portfolio-with-new-300mm-solstice-max-platform-for-advanced-packaging-metallization)
-**Published:** Tue, 07 Oct 2025 17:49:25 +0000
-
-<p>Flexible, modular platform combines advanced plating, photoresist strip, and wet etch to improve fab efficiency and cost of ownership.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/classone-technology-expands-solstice-single-wafer-portfolio-with-new-300mm-solstice-max-platform-for-advanced-packaging-metallization/">ClassOne Technology Launches New 300mm Solstice Max Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Show Daily 2025 — Day One](https://www.semiconductor-digest.com/show-daily-2025-day-one/?utm_source=rss&utm_medium=rss&utm_campaign=show-daily-2025-day-one)
-**Published:** Tue, 07 Oct 2025 17:39:20 +0000
-
-<p>View or Download the SEMICON West Show Daily — Day One!</p>
-<p>The post <a href="https://www.semiconductor-digest.com/show-daily-2025-day-one/">Show Daily 2025 — Day One</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IBM Introduces the Spyre Accelerator for Commercial Availability](https://www.semiconductor-digest.com/ibm-introduces-the-spyre-accelerator-for-commercial-availability/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-introduces-the-spyre-accelerator-for-commercial-availability)
-**Published:** Tue, 07 Oct 2025 17:31:03 +0000
-
-<p>IBM today announced the upcoming general availability of the IBM Spyre Accelerator, an AI accelerator enabling low-latency inferencing to support generative and agentic AI use cases while prioritizing the security and resilience of core workloads.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ibm-introduces-the-spyre-accelerator-for-commercial-availability/">IBM Introduces the Spyre Accelerator for Commercial Availability</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="389" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/NoMIS_figure.jpg?fit=1004%2C389" style="display: block; margin-bottom: 5px; clear: both;" width="1004" /><p>NoMIS is advancing silicon carbide (SiC) as a reliable foundation for more efficient and sustainable power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/powering-the-future-inside-nomiss-diversification-strategy-for-next-generation-sic-technology/">Powering the Future: Inside NoMIS’s Diversification Strategy for Next-Generation SiC Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -911,14 +919,6 @@ _Last updated: 2025-11-04 21:45 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="494" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/Screenshot-2025-10-31-085048.jpg?fit=963%2C494" style="display: block; margin-bottom: 5px; clear: both;" width="963" /><p>Ahmad Bahai, Senior Vice President and Chief Technology Officer at Texas Instruments.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/wine-down-friday-with-tis-ahmad-bahai/">Wine Down Friday with TI’s Ahmad Bahai</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Unlocking AI-Driven Battery Performance Through Measurement Accuracy](https://www.powerelectronicsnews.com/unlocking-ai-driven-battery-performance-through-measurement-accuracy/)
-**Published:** Fri, 31 Oct 2025 07:56:18 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="285" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/Figure-3-1.png?fit=616%2C285" style="display: block; margin-bottom: 5px; clear: both;" width="616" /><p>Precision architecture makes measurement the core of trustworthy AI, letting models reflect real battery behavior—not sensor artifacts.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/unlocking-ai-driven-battery-performance-through-measurement-accuracy/">Unlocking AI-Driven Battery Performance Through Measurement Accuracy</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
