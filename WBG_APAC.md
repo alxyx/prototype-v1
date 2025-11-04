@@ -1,6 +1,30 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-03 23:45 UTC_
+_Last updated: 2025-11-04 02:47 UTC_
+
+## [Renesas Next-Gen Power Chips Enable 800V DC AI Data Center Architecture](https://www.eetasia.com/renesas-next-gen-power-chips-enable-800v-dc-ai-data-center-architecture/)
+**Published:** Tue, 04 Nov 2025 02:22:11 +0000
+
+<p>Renesas' GaN-based power solutions are supporting efficient power conversion and distribution for the 800V DC power architecture.</p>
+<p>The post <a href="https://www.eetasia.com/renesas-next-gen-power-chips-enable-800v-dc-ai-data-center-architecture/">Renesas Next-Gen Power Chips Enable 800V DC AI Data Center Architecture</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [NXP Completes Acquisitions of Aviva Links and Kinara](https://www.eetasia.com/nxp-completes-acquisitions-of-aviva-links-and-kinara/)
+**Published:** Tue, 04 Nov 2025 02:13:13 +0000
+
+<p>NXP Semiconductors has completed its acquisitions of in-vehicle connectivity solutions provider Aviva Links and NPU maker Kinara.</p>
+<p>The post <a href="https://www.eetasia.com/nxp-completes-acquisitions-of-aviva-links-and-kinara/">NXP Completes Acquisitions of Aviva Links and Kinara</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [FPT Partners with LAPI ITB, Digital Utama Lestari, to Drive Indonesia’s Digital Economy](https://www.eetasia.com/fpt-partners-with-lapi-itb-digital-utama-lestari-to-drive-indonesias-digital-economy/)
+**Published:** Tue, 04 Nov 2025 01:58:11 +0000
+
+<p>The collaboration extends to emerging domains such as AI, cloud, cybersecurity, high-performance computing, and semiconductors.</p>
+<p>The post <a href="https://www.eetasia.com/fpt-partners-with-lapi-itb-digital-utama-lestari-to-drive-indonesias-digital-economy/">FPT Partners with LAPI ITB, Digital Utama Lestari, to Drive Indonesia&#8217;s Digital Economy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Alif Semiconductor MCUs Feature Support for ExecuTorch Runtime](https://www.eetasia.com/alif-semiconductor-mcus-feature-support-for-executorch-runtime/)
 **Published:** Fri, 31 Oct 2025 09:58:23 +0000
