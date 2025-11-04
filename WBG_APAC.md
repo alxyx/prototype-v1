@@ -1,5 +1,7 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
+[Home](index.md) | [APAC Updates](WBG_APAC.md) | [EMEA Updates](emea.md) | [Americas Updates](americas.md)
+
 _Last updated: 2025-11-04 05:54 UTC_
 
 ## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
