@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-04 17:48 UTC_
+_Last updated: 2025-11-04 19:06 UTC_
 
 ## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
 **Published:** Tue, 04 Nov 2025 02:45:09 +0000
@@ -39,6 +39,14 @@ _Last updated: 2025-11-04 17:48 UTC_
 
 <p>Developers can now use the ExecuTorch Runtime for AI applications built to run on Alif Semiconductor's Ensemble MCUs and fusion processors.</p>
 <p>The post <a href="https://www.eetasia.com/alif-semiconductor-mcus-feature-support-for-executorch-runtime/">Alif Semiconductor MCUs Feature Support for ExecuTorch Runtime</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Advanced Process Solutions Honored with a 2024 Texas Instruments Supplier Excellence Award](https://www.semiconductor-digest.com/advanced-process-solutions-honored-with-a-2024-texas-instruments-supplier-excellence-award/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-process-solutions-honored-with-a-2024-texas-instruments-supplier-excellence-award)
+**Published:** Tue, 04 Nov 2025 18:41:59 +0000
+
+<p>Advanced Process Solutions (APS), an industry leader in precision manufacturing and process technology solutions, serving the semiconductor, electronics, and industrial markets, announced that it has received a 2024 Supplier Excellence Award from Texas Instruments (TI)—one of the highest honors bestowed upon TI’s supply chain partners.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/advanced-process-solutions-honored-with-a-2024-texas-instruments-supplier-excellence-award/">Advanced Process Solutions Honored with a 2024 Texas Instruments Supplier Excellence Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -831,14 +839,6 @@ _Last updated: 2025-11-04 17:48 UTC_
 
 <p>IBM today announced the upcoming general availability of the IBM Spyre Accelerator, an AI accelerator enabling low-latency inferencing to support generative and agentic AI use cases while prioritizing the security and resilience of core workloads.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ibm-introduces-the-spyre-accelerator-for-commercial-availability/">IBM Introduces the Spyre Accelerator for Commercial Availability</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Driving Yield at Scale: Fabtex Yield Optimizer Improves Processes for High-Volume Manufacturing](https://www.semiconductor-digest.com/driving-yield-at-scale-fabtex-yield-optimizer-improves-processes-for-high-volume-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=driving-yield-at-scale-fabtex-yield-optimizer-improves-processes-for-high-volume-manufacturing)
-**Published:** Tue, 07 Oct 2025 17:27:14 +0000
-
-<p>Fabtex Yield Optimizer is a new Semiverse Solutions software solution specifically designed to improve yield for high volume manufacturing (HVM) at fabs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/driving-yield-at-scale-fabtex-yield-optimizer-improves-processes-for-high-volume-manufacturing/">Driving Yield at Scale: Fabtex Yield Optimizer Improves Processes for High-Volume Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
