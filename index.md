@@ -1,6 +1,10 @@
 # <center> 🌍 WBG Global Update Feed 🌍 </center>
 
-<p align="center"> [Home](index.md) | [APAC Updates](WBG_APAC.md) | [EMEA Updates](emea.md) | [Americas Updates](americas.md) </p>
+<div style="text-align: center;">
+
+[Home](index.md) | [APAC Updates](WBG_APAC.md) | [EMEA Updates](emea.md) | [Americas Updates](americas.md)
+
+</div>
 
 ## 📅 Latest Updates
 
