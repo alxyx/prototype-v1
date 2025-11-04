@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-04 09:56 UTC_
+_Last updated: 2025-11-04 11:02 UTC_
 
 ## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
 **Published:** Tue, 04 Nov 2025 02:45:09 +0000
@@ -933,7 +933,7 @@ _Last updated: 2025-11-04 09:56 UTC_
 ## [Silicon Catalyst Japan founded](https://www.electronicsweekly.com/news/business/silicon-catalyst-japan-founded-2025-11/)
 **Published:** Tue, 04 Nov 2025 06:00:06 +0000
 
-<p>Silicon Catalyst has set up  Silicon Catalyst Japan,  dedicated to accelerating semiconductor and microtechnology startups across Japan and Korea. The organisation is being led by  Kay Enjoji (pictured); who serves ...</p>
+<p>Silicon Catalyst has set up Silicon Catalyst Japan, dedicated to accelerating semiconductor and microtechnology startups across Japan and Korea. The organisation is being led by Kay Enjoji (pictured); who serves ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/silicon-catalyst-japan-founded-2025-11/">Silicon Catalyst Japan founded</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
@@ -943,14 +943,6 @@ _Last updated: 2025-11-04 09:56 UTC_
 
 <p>Valens Semiconductor has appointed Yoram Salinger as CEO, succeeding Gideon Ben-Zvi who has led Valens since 2020, and will remain on the board. &#8220;I&#8217;d also like to thank Gideon Ben-Zvi ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/ceo-change-at-velens-2025-11/">CEO change at Velens</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [DMASS cautiously optimistic for European component market](https://www.electronicsweekly.com/market-sectors/power/dmass-cautiously-optimistic-for-european-component-market-2025-10/)
-**Published:** Fri, 31 Oct 2025 17:10:25 +0000
-
-<p>The latest research from DMASS Europe, the European components distribution body, shows a slight upturn in semiconductors, interconnect, passive and electromechanical (IPE) sectors. DMASS Europe&#8216;s chairman, Hermann Reiter, said that ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/market-sectors/power/dmass-cautiously-optimistic-for-european-component-market-2025-10/">DMASS cautiously optimistic for European component market</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
