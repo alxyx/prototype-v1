@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-04 07:09 UTC_
+_Last updated: 2025-11-04 07:48 UTC_
 
 ## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
 **Published:** Tue, 04 Nov 2025 02:45:09 +0000
@@ -959,27 +959,6 @@ _Last updated: 2025-11-04 07:09 UTC_
 
 <p>The latest research from DMASS Europe, the European components distribution body, shows a slight upturn in semiconductors, interconnect, passive and electromechanical (IPE) sectors. DMASS Europe&#8216;s chairman, Hermann Reiter, said that ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/market-sectors/power/dmass-cautiously-optimistic-for-european-component-market-2025-10/">DMASS cautiously optimistic for European component market</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Freezing Helps Understand Defects In Chip-Making Process](https://www.electronicsforu.com/news/freezing-helps-understand-defects-in-chip-making-process)
-**Published:** Mon, 03 Nov 2025 06:47:30 +0000
-
-<img alt="Representative image of a microchip being manufactured." class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/China-microchip-defects-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers use freezing technology to find how micro-sized particles cause defects in the chip-making process and design better methods to prevent them.  One of the biggest challenges in semiconductor fabrication is preventing microscopic defects that form during the lithography process. Even a particle a few nanometres wide can disrupt a circuit and render an entire [&#8230;]
-
----
-
-## [Thin-Film Analogue IC For Smaller And Faster Electronics](https://www.electronicsforu.com/news/thin-film-analogue-ic-for-smaller-and-faster-electronics)
-**Published:** Mon, 03 Nov 2025 06:18:39 +0000
-
-<img alt="Thin-film 3D analog integrated circuits developed by Oki Electric Industry Co. and Nisshinbo Micro Devices could find applications in AI, IoT devices, and autonomous vehicles" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/a-close-up-of-a-thin-film-3d-analog-integrated-circuit-against-a-geometric-background-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Engineers are developing ultra-thin analogue chips that can be stacked in 3D to deliver high performance in smaller semiconductor devices.  Oki Electric Industry and Nisshinbo Micro Devices in Tokyo are collaborating to develop a new type of thin-film 3D analogue IC. These chips are designed to make electronic devices smaller, faster, and cheaper to produce.&#160; [&#8230;]
-
----
-
-## [Integrated Gate Driver For SiC And IGBT Designs](https://www.electronicsforu.com/news/integrated-gate-driver-for-sic-and-igbt-designs)
-**Published:** Mon, 03 Nov 2025 05:17:04 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/nplittlefuse-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new automotive-grade gate driver simplifies power-switching design by embedding an adjustable negative bias, eliminating external circuitry and boosting reliability in high-efficiency SiC and IGBT systems for EVs and industrial power platforms. Littelfuse has introduced a new automotive-qualified low-side gate driver IC, the IX4352NEAU, targeting modern high-performance power-switching applications in EVs, DC-DC converters and drivetrains. [&#8230;]
 
 ---
 
