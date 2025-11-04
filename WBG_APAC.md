@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-04 19:42 UTC_
+_Last updated: 2025-11-04 20:55 UTC_
 
 ## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
 **Published:** Tue, 04 Nov 2025 02:45:09 +0000
@@ -842,6 +842,14 @@ _Last updated: 2025-11-04 19:42 UTC_
 
 ---
 
+## [Toshiba Expands Zener Diode Portfolio with New High-Reliability CMZBxxA Series](https://www.powerelectronicsnews.com/toshiba-expands-zener-diode-portfolio-with-new-high-reliability-cmzbxxa-series/)
+**Published:** Tue, 04 Nov 2025 20:45:00 +0000
+
+<img alt="Toshiba Expands Zener Diode Portfolio with New High-Reliability CMZBxxA Series." class="webfeedsFeaturedVisual wp-post-image" height="360" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/7645_LR.jpg?fit=504%2C360" style="display: block; margin-bottom: 5px; clear: both;" width="504" /><p>The use of a planar structure contributes to a lower reverse leakage current and increased device reliability.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/toshiba-expands-zener-diode-portfolio-with-new-high-reliability-cmzbxxa-series/">Toshiba Expands Zener Diode Portfolio with New High-Reliability CMZBxxA Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Conflux Partners with Airbus to Advance Hydrogen-Powered Aircraft with 3D-Printed Heat Exchangers](https://www.powerelectronicsnews.com/conflux-partners-with-airbus-to-advance-hydrogen-powered-aircraft-with-3d-printed-heat-exchangers/)
 **Published:** Tue, 04 Nov 2025 05:57:27 +0000
 
@@ -911,14 +919,6 @@ _Last updated: 2025-11-04 19:42 UTC_
 
 <img alt="Equivalent model for some EMS tests." class="webfeedsFeaturedVisual wp-post-image" height="966" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Figure-4-Equivalent-Model-for-Some-EMS-Tests.jpg?fit=1952%2C966" style="display: block; margin-bottom: 5px; clear: both;" width="1952" /><p>The NSI7258 calculates and monitor the insulation resistance between the positive bus-to-ground and negative bus-to-ground of the battery.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/application-of-solid-state-relay-nsi7258-in-insulation-monitoring-for-high-reliability-bms/">Application of Solid-State Relay NSI7258 in Insulation Monitoring for High-Reliability BMS</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Rad-Hard GaN FET Supports High-Power Satellite and Propulsion Systems](https://www.powerelectronicsnews.com/rad-hard-gan-fet-supports-high-power-satellite-and-propulsion-systems/)
-**Published:** Wed, 29 Oct 2025 08:37:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="352" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/Figure-1.png?fit=604%2C352" style="display: block; margin-bottom: 5px; clear: both;" width="604" /><p>The EPC7030MSH is the latest entry in an expanding rad-hard GaN product line.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/rad-hard-gan-fet-supports-high-power-satellite-and-propulsion-systems/">Rad-Hard GaN FET Supports High-Power Satellite and Propulsion Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
