@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-04 07:48 UTC_
+_Last updated: 2025-11-04 09:08 UTC_
 
 ## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
 **Published:** Tue, 04 Nov 2025 02:45:09 +0000
@@ -919,14 +919,6 @@ _Last updated: 2025-11-04 07:48 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="352" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/Figure-1.png?fit=604%2C352" style="display: block; margin-bottom: 5px; clear: both;" width="604" /><p>The EPC7030MSH is the latest entry in an expanding rad-hard GaN product line.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/rad-hard-gan-fet-supports-high-power-satellite-and-propulsion-systems/">Rad-Hard GaN FET Supports High-Power Satellite and Propulsion Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Northern Poland: Building Europe’s Next Semiconductor and Mobility Hub](https://www.eetimes.com/northern-poland-building-europes-next-semiconductor-and-mobility-hub/)
-**Published:** Fri, 31 Oct 2025 13:00:00 +0000
-
-<p>Pomerania in Northern Poland is emerging as Europe’s next semiconductor and mobility hub, driven by talent, clean energy, and strategic collaboration.</p>
-<p>The post <a href="https://www.eetimes.com/northern-poland-building-europes-next-semiconductor-and-mobility-hub/">Northern Poland: Building Europe’s Next Semiconductor and Mobility Hub </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
