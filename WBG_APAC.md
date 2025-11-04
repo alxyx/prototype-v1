@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-04 06:13 UTC_
+_Last updated: 2025-11-04 07:09 UTC_
 
 ## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
 **Published:** Tue, 04 Nov 2025 02:45:09 +0000
@@ -930,6 +930,22 @@ _Last updated: 2025-11-04 06:13 UTC_
 
 ---
 
+## [Qnity makes its debut](https://www.electronicsweekly.com/news/business/qnity-makes-its-debut-2025-11/)
+**Published:** Tue, 04 Nov 2025 06:25:22 +0000
+
+<p>Du Pont has spun off its semiconductor industry support business as a separately quoted company with a $20 billion market cap called Qnity Electronics. Qnity supplies materials and chemicals for ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/qnity-makes-its-debut-2025-11/">Qnity makes its debut</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Silicon Catalyst Japan founded](https://www.electronicsweekly.com/news/business/silicon-catalyst-japan-founded-2025-11/)
+**Published:** Tue, 04 Nov 2025 06:00:06 +0000
+
+<p>Silicon Catalyst has set up  Silicon Catalyst Japan,  dedicated to accelerating semiconductor and microtechnology startups across Japan and Korea. The organisation is being led by  Kay Enjoji (pictured); who serves ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/silicon-catalyst-japan-founded-2025-11/">Silicon Catalyst Japan founded</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [CEO change at Velens](https://www.electronicsweekly.com/news/business/ceo-change-at-velens-2025-11/)
 **Published:** Mon, 03 Nov 2025 17:07:07 +0000
 
@@ -943,14 +959,6 @@ _Last updated: 2025-11-04 06:13 UTC_
 
 <p>The latest research from DMASS Europe, the European components distribution body, shows a slight upturn in semiconductors, interconnect, passive and electromechanical (IPE) sectors. DMASS Europe&#8216;s chairman, Hermann Reiter, said that ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/market-sectors/power/dmass-cautiously-optimistic-for-european-component-market-2025-10/">DMASS cautiously optimistic for European component market</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Flexlets – configurable chiplets – introduced](https://www.electronicsweekly.com/news/business/socionext-introduced-flexlets-configurable-chiplets-2025-10/)
-**Published:** Fri, 31 Oct 2025 06:27:45 +0000
-
-<p>Socionext has introduced a new semiconductor product class of configurable chiplets which it calls Flexlets. As traditional monolithic SoC designs face physical and economic limits &#8211; reticle size constraints, yield ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/socionext-introduced-flexlets-configurable-chiplets-2025-10/">Flexlets &#8211; configurable chiplets &#8211; introduced</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
