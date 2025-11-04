@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-04 02:47 UTC_
+_Last updated: 2025-11-04 03:08 UTC_
+
+## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
+**Published:** Tue, 04 Nov 2025 02:45:09 +0000
+
+<p>Nordic Semiconductor is bringing Bluetooth Channel Sounding to its open-source Android app nRF Toolbox.</p>
+<p>The post <a href="https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/">Nordic Brings Bluetooth Channel Sounding to Android</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Renesas Next-Gen Power Chips Enable 800V DC AI Data Center Architecture](https://www.eetasia.com/renesas-next-gen-power-chips-enable-800v-dc-ai-data-center-architecture/)
 **Published:** Tue, 04 Nov 2025 02:22:11 +0000
