@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-04 20:55 UTC_
+_Last updated: 2025-11-04 21:45 UTC_
 
 ## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
 **Published:** Tue, 04 Nov 2025 02:45:09 +0000
@@ -842,6 +842,22 @@ _Last updated: 2025-11-04 20:55 UTC_
 
 ---
 
+## [Solderstar to Introduce WaveShuttle O₂ for Comprehensive Wave Soldering Verification at Productronica 2025](https://www.powerelectronicsnews.com/solderstar-to-introduce-waveshuttle-o%e2%82%82-for-comprehensive-wave-soldering-verification-at-productronica-2025/)
+**Published:** Tue, 04 Nov 2025 21:45:00 +0000
+
+<img alt="Solderstar to Introduce WaveShuttle O₂ for Comprehensive Wave Soldering Verification at Productronica 2025." class="webfeedsFeaturedVisual wp-post-image" height="1400" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/solderstar-o2-wave-7x5-1.jpg?fit=2100%2C1400" style="display: block; margin-bottom: 5px; clear: both;" width="2100" /><p>The WaveShuttle O₂ captures data for seven essential variables, including temperature profile, wave contact, wave height, line speed, inclination angle, process vibration, and oxygen concentration.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/solderstar-to-introduce-waveshuttle-o%e2%82%82-for-comprehensive-wave-soldering-verification-at-productronica-2025/">Solderstar to Introduce WaveShuttle O₂ for Comprehensive Wave Soldering Verification at Productronica 2025</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [VTT Completes Major Upgrade to 200 mm Cleanroom Manufacturing Capability](https://www.powerelectronicsnews.com/vtt-completes-major-upgrade-to-200-mm-cleanroom-manufacturing-capability/)
+**Published:** Tue, 04 Nov 2025 21:15:00 +0000
+
+<img alt="VTT Completes Major Upgrade to 200 mm Cleanroom Manufacturing Capability." class="webfeedsFeaturedVisual wp-post-image" height="533" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/a007f5935e5f22ef_800x800ar.png?fit=800%2C533" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>This represents a substantial undertaking, where the former 150 mm manufacturing tools were converted or upgraded to operate with 200 mm wafers.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vtt-completes-major-upgrade-to-200-mm-cleanroom-manufacturing-capability/">VTT Completes Major Upgrade to 200 mm Cleanroom Manufacturing Capability</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Toshiba Expands Zener Diode Portfolio with New High-Reliability CMZBxxA Series](https://www.powerelectronicsnews.com/toshiba-expands-zener-diode-portfolio-with-new-high-reliability-cmzbxxa-series/)
 **Published:** Tue, 04 Nov 2025 20:45:00 +0000
 
@@ -903,22 +919,6 @@ _Last updated: 2025-11-04 20:55 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="285" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/Figure-3-1.png?fit=616%2C285" style="display: block; margin-bottom: 5px; clear: both;" width="616" /><p>Precision architecture makes measurement the core of trustworthy AI, letting models reflect real battery behavior—not sensor artifacts.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/unlocking-ai-driven-battery-performance-through-measurement-accuracy/">Unlocking AI-Driven Battery Performance Through Measurement Accuracy</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [onsemi Introduces Vertical GaN Power Semiconductors for the AI and Electrification Era](https://www.powerelectronicsnews.com/onsemi-introduces-vertical-gan-power-semiconductors-for-the-ai-and-electrification-era/)
-**Published:** Thu, 30 Oct 2025 19:50:00 +0000
-
-<img alt="onsemi Introduces Vertical GaN Power Semiconductors for the AI and Electrification Era." class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/vGaN-onsemi-GBG-1920x1080-01-C.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>The GaN-on-GaN structure enables vertical current flow at elevated voltage levels, supporting higher switching speeds and increased power density in compact layouts.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/onsemi-introduces-vertical-gan-power-semiconductors-for-the-ai-and-electrification-era/">onsemi Introduces Vertical GaN Power Semiconductors for the AI and Electrification Era</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Application of Solid-State Relay NSI7258 in Insulation Monitoring for High-Reliability BMS](https://www.powerelectronicsnews.com/application-of-solid-state-relay-nsi7258-in-insulation-monitoring-for-high-reliability-bms/)
-**Published:** Thu, 30 Oct 2025 08:14:00 +0000
-
-<img alt="Equivalent model for some EMS tests." class="webfeedsFeaturedVisual wp-post-image" height="966" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Figure-4-Equivalent-Model-for-Some-EMS-Tests.jpg?fit=1952%2C966" style="display: block; margin-bottom: 5px; clear: both;" width="1952" /><p>The NSI7258 calculates and monitor the insulation resistance between the positive bus-to-ground and negative bus-to-ground of the battery.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/application-of-solid-state-relay-nsi7258-in-insulation-monitoring-for-high-reliability-bms/">Application of Solid-State Relay NSI7258 in Insulation Monitoring for High-Reliability BMS</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
