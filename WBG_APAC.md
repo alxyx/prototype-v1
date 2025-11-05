@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-05 05:54 UTC_
+_Last updated: 2025-11-05 07:08 UTC_
 
 ## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
 **Published:** Tue, 04 Nov 2025 02:45:09 +0000
@@ -15,14 +15,6 @@ _Last updated: 2025-11-05 05:54 UTC_
 
 <p>Renesas' GaN-based power solutions are supporting efficient power conversion and distribution for the 800V DC power architecture.</p>
 <p>The post <a href="https://www.eetasia.com/renesas-next-gen-power-chips-enable-800v-dc-ai-data-center-architecture/">Renesas Next-Gen Power Chips Enable 800V DC AI Data Center Architecture</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [NXP Completes Acquisitions of Aviva Links and Kinara](https://www.eetasia.com/nxp-completes-acquisitions-of-aviva-links-and-kinara/)
-**Published:** Tue, 04 Nov 2025 02:13:13 +0000
-
-<p>NXP Semiconductors has completed its acquisitions of in-vehicle connectivity solutions provider Aviva Links and NPU maker Kinara.</p>
-<p>The post <a href="https://www.eetasia.com/nxp-completes-acquisitions-of-aviva-links-and-kinara/">NXP Completes Acquisitions of Aviva Links and Kinara</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -911,22 +903,6 @@ _Last updated: 2025-11-05 05:54 UTC_
 
 <p>Du Pont has spun off its semiconductor industry support business as a separately quoted company with a $20 billion market cap called Qnity Electronics. Qnity supplies materials and chemicals for ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/qnity-makes-its-debut-2025-11/">Qnity makes its debut</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Silicon Catalyst Japan founded](https://www.electronicsweekly.com/news/business/silicon-catalyst-japan-founded-2025-11/)
-**Published:** Tue, 04 Nov 2025 06:00:06 +0000
-
-<p>Silicon Catalyst has set up Silicon Catalyst Japan, dedicated to accelerating semiconductor and microtechnology startups across Japan and Korea. The organisation is being led by Kay Enjoji (pictured); who serves ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/silicon-catalyst-japan-founded-2025-11/">Silicon Catalyst Japan founded</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [CEO change at Velens](https://www.electronicsweekly.com/news/business/ceo-change-at-velens-2025-11/)
-**Published:** Mon, 03 Nov 2025 17:07:07 +0000
-
-<p>Valens Semiconductor has appointed Yoram Salinger as CEO, succeeding Gideon Ben-Zvi who has led Valens since 2020, and will remain on the board. &#8220;I&#8217;d also like to thank Gideon Ben-Zvi ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/ceo-change-at-velens-2025-11/">CEO change at Velens</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
