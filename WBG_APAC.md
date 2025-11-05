@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-05 20:56 UTC_
+_Last updated: 2025-11-05 21:44 UTC_
 
 ## [QuSecure’s All-in-One Platform for Proactive Post-Quantum Cryptography Migration](https://www.eetasia.com/embeddedblog-qusecures-all-in-one-platform-for-proactive-post-quantum-cryptography-migration/)
 **Published:** Wed, 05 Nov 2025 07:04:28 +0000
@@ -15,6 +15,22 @@ _Last updated: 2025-11-05 20:56 UTC_
 
 <p>Nordic Semiconductor is bringing Bluetooth Channel Sounding to its open-source Android app nRF Toolbox.</p>
 <p>The post <a href="https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/">Nordic Brings Bluetooth Channel Sounding to Android</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Engineering Defects Could Transform the Future of Nanomaterials](https://www.semiconductor-digest.com/engineering-defects-could-transform-the-future-of-nanomaterials/?utm_source=rss&utm_medium=rss&utm_campaign=engineering-defects-could-transform-the-future-of-nanomaterials)
+**Published:** Wed, 05 Nov 2025 20:54:08 +0000
+
+<p>The discovery unlocks new unique properties in ultra-thin materials.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/engineering-defects-could-transform-the-future-of-nanomaterials/">Engineering Defects Could Transform the Future of Nanomaterials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Omdia: Display Glass Revenue Reached a Record High of JPY 270 Billion in 3Q 2025](https://www.semiconductor-digest.com/omdia-display-glass-revenue-reached-a-record-high-of-jpy-270-billion-in-3q-2025/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-display-glass-revenue-reached-a-record-high-of-jpy-270-billion-in-3q-2025)
+**Published:** Wed, 05 Nov 2025 20:46:19 +0000
+
+<p>Display glass revenue reached a record high of JPY 270 billion in the third quarter of 2025, driven by increases in both price and demand, according to new research from Omdia.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-display-glass-revenue-reached-a-record-high-of-jpy-270-billion-in-3q-2025/">Omdia: Display Glass Revenue Reached a Record High of JPY 270 Billion in 3Q 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -802,19 +818,11 @@ _Last updated: 2025-11-05 20:56 UTC_
 
 ---
 
-## [SEMI Reports Global 300mm Fab Equipment Spending Expected to Total $374 Billion Over Next Three Years](https://www.semiconductor-digest.com/semi-reports-global-300mm-fab-equipment-spending-expected-to-total-374-billion-over-next-three-years/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-global-300mm-fab-equipment-spending-expected-to-total-374-billion-over-next-three-years)
-**Published:** Wed, 08 Oct 2025 18:52:10 +0000
+## [Würth Elektronik Expands MagI³C-VDMM Line with Compact High-Efficiency Step-Down MicroModules](https://www.powerelectronicsnews.com/wurth-elektronik-expands-magi%c2%b3c-vdmm-line-with-compact-high-efficiency-step-down-micromodules/)
+**Published:** Wed, 05 Nov 2025 21:15:00 +0000
 
-<p>Global 300mm fab equipment spending is expected to reach $374 billion from 2026 to 2028, SEMI reported today in its latest 300mm Fab Outlook.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-global-300mm-fab-equipment-spending-expected-to-total-374-billion-over-next-three-years/">SEMI Reports Global 300mm Fab Equipment Spending Expected to Total $374 Billion Over Next Three Years</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Multibeam Partners with Marketech](https://www.semiconductor-digest.com/multibeam-partners-with-marketech/?utm_source=rss&utm_medium=rss&utm_campaign=multibeam-partners-with-marketech)
-**Published:** Wed, 08 Oct 2025 18:35:56 +0000
-
-<p>Following the launch of its Japan sales operation earlier this year and with fresh funding from global investors, Multibeam is now moving to fulfill demand for its E-Beam Lithography (EBL) production systems from semiconductor leaders in Taiwan.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/multibeam-partners-with-marketech/">Multibeam Partners with Marketech</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Würth Elektronik Expands MagI³C-VDMM Line with Compact High-Efficiency Step-Down MicroModules." class="webfeedsFeaturedVisual wp-post-image" height="2400" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/wth1pi1745_01.png?fit=2400%2C2400" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The MagI³C-VDMM modules integrate a switching regulator, MOSFETs, controller, compensation, and a shielded inductor into one compact DC-DC power module.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wurth-elektronik-expands-magi%c2%b3c-vdmm-line-with-compact-high-efficiency-step-down-micromodules/">Würth Elektronik Expands MagI³C-VDMM Line with Compact High-Efficiency Step-Down MicroModules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -887,14 +895,6 @@ _Last updated: 2025-11-05 20:56 UTC_
 
 <img alt="Resonac and Tohoku University collaboration for SiC power device manufacturing." class="webfeedsFeaturedVisual wp-post-image" height="586" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Figure-2-SiC-from-CO2-process.jpg?fit=1398%2C586" style="display: block; margin-bottom: 5px; clear: both;" width="1398" /><p>Many device manufacturers and universities are working on methods to lower the environmental impact of manufacturing SiC power devices.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/how-sic-substrate-manufacturers-are-lowering-their-environmental-impact/">How SiC Substrate Manufacturers Are Lowering Their Environmental Impact</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wide Bandgap Monthly Insights – October 2025](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-october-2025/)
-**Published:** Fri, 31 Oct 2025 17:00:00 +0000
-
-<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-october-2025/">Wide Bandgap Monthly Insights &#8211; October 2025</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
