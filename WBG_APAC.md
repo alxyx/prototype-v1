@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-05 19:42 UTC_
+_Last updated: 2025-11-05 20:56 UTC_
 
 ## [QuSecure’s All-in-One Platform for Proactive Post-Quantum Cryptography Migration](https://www.eetasia.com/embeddedblog-qusecures-all-in-one-platform-for-proactive-post-quantum-cryptography-migration/)
 **Published:** Wed, 05 Nov 2025 07:04:28 +0000
@@ -15,6 +15,30 @@ _Last updated: 2025-11-05 19:42 UTC_
 
 <p>Nordic Semiconductor is bringing Bluetooth Channel Sounding to its open-source Android app nRF Toolbox.</p>
 <p>The post <a href="https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/">Nordic Brings Bluetooth Channel Sounding to Android</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Silicon Catalyst Announces Seven Newly Admitted Companies to Semiconductor Industry Accelerator](https://www.semiconductor-digest.com/silicon-catalyst-announces-seven-newly-admitted-companies-to-semiconductor-industry-accelerator/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-catalyst-announces-seven-newly-admitted-companies-to-semiconductor-industry-accelerator)
+**Published:** Wed, 05 Nov 2025 20:40:07 +0000
+
+<p>Silicon Catalyst announces the admission of seven companies into the semiconductor industry’s highly acclaimed program.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/silicon-catalyst-announces-seven-newly-admitted-companies-to-semiconductor-industry-accelerator/">Silicon Catalyst Announces Seven Newly Admitted Companies to Semiconductor Industry Accelerator</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The Northeast Microelectronics Coalition Awards $1.37 Million to 10 Semiconductor Companies](https://www.semiconductor-digest.com/the-northeast-microelectronics-coalition-awards-1-37-million-to-10-semiconductor-companies/?utm_source=rss&utm_medium=rss&utm_campaign=the-northeast-microelectronics-coalition-awards-1-37-million-to-10-semiconductor-companies)
+**Published:** Wed, 05 Nov 2025 20:26:28 +0000
+
+<p>The Northeast Microelectronics Coalition (NEMC) Hub announced $1,371,688 in awards to 10 small businesses and startups through its Powering Regional Opportunities for Prototyping Microelectronics (PROPEL) Program.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-northeast-microelectronics-coalition-awards-1-37-million-to-10-semiconductor-companies/">The Northeast Microelectronics Coalition Awards $1.37 Million to 10 Semiconductor Companies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Entegris Celebrates Grand Opening of Colorado Springs Manufacturing Center of Excellence](https://www.semiconductor-digest.com/entegris-celebrates-grand-opening-of-colorado-springs-manufacturing-center-of-excellence/?utm_source=rss&utm_medium=rss&utm_campaign=entegris-celebrates-grand-opening-of-colorado-springs-manufacturing-center-of-excellence)
+**Published:** Wed, 05 Nov 2025 20:22:56 +0000
+
+<p>New facility solidifies Entegris’ position as a leader in the U.S. semiconductor manufacturing ecosystem and expands domestic supply chain capabilities.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/entegris-celebrates-grand-opening-of-colorado-springs-manufacturing-center-of-excellence/">Entegris Celebrates Grand Opening of Colorado Springs Manufacturing Center of Excellence</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,27 +818,11 @@ _Last updated: 2025-11-05 19:42 UTC_
 
 ---
 
-## [Show Daily 2025 — Day Two](https://www.semiconductor-digest.com/show-daily-2025-day-two/?utm_source=rss&utm_medium=rss&utm_campaign=show-daily-2025-day-two)
-**Published:** Wed, 08 Oct 2025 18:24:28 +0000
+## [Veeco Secures New Propel®300 Order for 300mm GaN Power Semiconductor Production](https://www.powerelectronicsnews.com/veeco-secures-new-propel300-order-for-300mm-gan-power-semiconductor-production/)
+**Published:** Wed, 05 Nov 2025 20:45:00 +0000
 
-<p>View or Download the SEMICON West Show Daily — Day One!</p>
-<p>The post <a href="https://www.semiconductor-digest.com/show-daily-2025-day-two/">Show Daily 2025 — Day Two</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI and Semiconductor Digest Announce 2025 Best of West Award Finalists](https://www.semiconductor-digest.com/semi-and-semiconductor-digest-announce-2025-best-of-west-award-finalists/?utm_source=rss&utm_medium=rss&utm_campaign=semi-and-semiconductor-digest-announce-2025-best-of-west-award-finalists)
-**Published:** Tue, 07 Oct 2025 22:47:36 +0000
-
-<p>SEMI and Semiconductor Digest today announced finalists for the Best of West award to be presented at SEMICON West 2025, October 7-9 at the Phoenix Convention Center (PCC) in Phoenix, Arizona.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-and-semiconductor-digest-announce-2025-best-of-west-award-finalists/">SEMI and Semiconductor Digest Announce 2025 Best of West Award Finalists</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMICON West 2025: A New Era for the U.S. Semiconductor Industry](https://www.semiconductor-digest.com/semicon-west-2025-a-new-era-for-the-u-s-semiconductor-industry/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-west-2025-a-new-era-for-the-u-s-semiconductor-industry)
-**Published:** Tue, 07 Oct 2025 21:19:12 +0000
-
-<p>When SEMICON West opens its doors in Phoenix, it marks more than just a relocation of one of the semiconductor industry’s most important gatherings—it embodies the sector’s extraordinary momentum toward a trillion-dollar future.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semicon-west-2025-a-new-era-for-the-u-s-semiconductor-industry/">SEMICON West 2025: A New Era for the U.S. Semiconductor Industry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="639" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/03/SemiconductorWafer.jpg?fit=1000%2C639" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>It addresses the fast-rising GaN market as power efficiency demands increase across data centers, industrial equipment, and automotive applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/veeco-secures-new-propel300-order-for-300mm-gan-power-semiconductor-production/">Veeco Secures New Propel®300 Order for 300mm GaN Power Semiconductor Production</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -887,14 +895,6 @@ _Last updated: 2025-11-05 19:42 UTC_
 
 <img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-october-2025/">Wide Bandgap Monthly Insights &#8211; October 2025</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Rad-Hard GaN FETs, Magnetic Design, Applications of Solid-State Relay NSI7258: Power Electronics Week Insights](https://www.powerelectronicsnews.com/rad-hard-gan-fets-magnetic-design-applications-of-solid-state-relay-nsi7258-power-electronics-week-insights/)
-**Published:** Fri, 31 Oct 2025 15:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Rad-Hard GaN FETs, Magnetic Design, and Applications of Solid-State Relay NSI7258!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/rad-hard-gan-fets-magnetic-design-applications-of-solid-state-relay-nsi7258-power-electronics-week-insights/">Rad-Hard GaN FETs, Magnetic Design, Applications of Solid-State Relay NSI7258: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
