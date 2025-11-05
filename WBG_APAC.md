@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-05 14:58 UTC_
+_Last updated: 2025-11-05 15:52 UTC_
 
 ## [QuSecure’s All-in-One Platform for Proactive Post-Quantum Cryptography Migration](https://www.eetasia.com/embeddedblog-qusecures-all-in-one-platform-for-proactive-post-quantum-cryptography-migration/)
 **Published:** Wed, 05 Nov 2025 07:04:28 +0000
@@ -895,6 +895,14 @@ _Last updated: 2025-11-05 14:58 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Rad-Hard GaN FETs, Magnetic Design, and Applications of Solid-State Relay NSI7258!</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/rad-hard-gan-fets-magnetic-design-applications-of-solid-state-relay-nsi7258-power-electronics-week-insights/">Rad-Hard GaN FETs, Magnetic Design, Applications of Solid-State Relay NSI7258: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [FeRAM-embedded ASSP Drives Innovation in 1 mm² Smart Contact Lenses](https://www.eetimes.com/feram-embedded-assp-drives-innovation-in-1-mm%c2%b2-smart-contact-lenses/)
+**Published:** Wed, 05 Nov 2025 15:00:00 +0000
+
+<p>Leveraging RF x AD conversion analog technology RAMXEED developed an ultra-small FeRAM chipset measuring just 1.04 mm2. Since this product was designed for SEED&#8217;s smart contact lenses platform, RAMXEED had to meet the rigorous 1 mm2 size requirement by leveraging its advanced design capabilities of combining FeRAM and analog semiconductor technology. What technological innovations made [&#8230;]</p>
+<p>The post <a href="https://www.eetimes.com/feram-embedded-assp-drives-innovation-in-1-mm%c2%b2-smart-contact-lenses/">FeRAM-embedded ASSP Drives Innovation in 1 mm² Smart Contact Lenses</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
