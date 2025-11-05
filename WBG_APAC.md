@@ -1,20 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-05 21:44 UTC_
+_Last updated: 2025-11-05 22:53 UTC_
 
 ## [QuSecure’s All-in-One Platform for Proactive Post-Quantum Cryptography Migration](https://www.eetasia.com/embeddedblog-qusecures-all-in-one-platform-for-proactive-post-quantum-cryptography-migration/)
 **Published:** Wed, 05 Nov 2025 07:04:28 +0000
 
 <p>With integrated discovery, mitigation, and compliance tools, QuProtect R3 seeks to simplify what has often seemed prohibitively complex—enabling organizations to inventory, assess, and modernize encryption infrastructure before quantum threats become an inescapable reality.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-qusecures-all-in-one-platform-for-proactive-post-quantum-cryptography-migration/">QuSecure&#8217;s All-in-One Platform for Proactive Post-Quantum Cryptography Migration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
-**Published:** Tue, 04 Nov 2025 02:45:09 +0000
-
-<p>Nordic Semiconductor is bringing Bluetooth Channel Sounding to its open-source Android app nRF Toolbox.</p>
-<p>The post <a href="https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/">Nordic Brings Bluetooth Channel Sounding to Android</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -818,6 +810,14 @@ _Last updated: 2025-11-05 21:44 UTC_
 
 ---
 
+## [Infineon and SolarEdge Partner to Advance High-Efficiency Power Infrastructure for Next-Gen AI Data Centers](https://www.powerelectronicsnews.com/infineon-and-solaredge-partner-to-advance-high-efficiency-power-infrastructure-for-next-gen-ai-data-centers/)
+**Published:** Wed, 05 Nov 2025 21:45:00 +0000
+
+<img alt="Infineon and SolarEdge Partner to Advance High-Efficiency Power Infrastructure for Next-Gen AI Data Centers." class="webfeedsFeaturedVisual wp-post-image" height="975" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/infineon-cmo-andreas-urschitz.jpg?fit=1500%2C975" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>The partnership focuses on progressing next-generation, high-performance Solid-State Transformer (SST) architectures aimed at meeting the power demands of AI and hyperscale data center environments.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-and-solaredge-partner-to-advance-high-efficiency-power-infrastructure-for-next-gen-ai-data-centers/">Infineon and SolarEdge Partner to Advance High-Efficiency Power Infrastructure for Next-Gen AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Würth Elektronik Expands MagI³C-VDMM Line with Compact High-Efficiency Step-Down MicroModules](https://www.powerelectronicsnews.com/wurth-elektronik-expands-magi%c2%b3c-vdmm-line-with-compact-high-efficiency-step-down-micromodules/)
 **Published:** Wed, 05 Nov 2025 21:15:00 +0000
 
@@ -887,14 +887,6 @@ _Last updated: 2025-11-05 21:44 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="544" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/RIC7084847EVAL1.png?fit=766%2C544" style="display: block; margin-bottom: 5px; clear: both;" width="766" /><p>This launch responds to the rapidly growing power demands of next-generation satellite platforms in the space industry.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/powering-the-next-generation-of-space-systems-with-infineons-rad-hard-buck-controller/">Powering the Next Generation of Space Systems with Infineon&#8217;s Rad-Hard Buck Controller</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [How SiC Substrate Manufacturers Are Lowering Their Environmental Impact](https://www.powerelectronicsnews.com/how-sic-substrate-manufacturers-are-lowering-their-environmental-impact/)
-**Published:** Mon, 03 Nov 2025 07:22:00 +0000
-
-<img alt="Resonac and Tohoku University collaboration for SiC power device manufacturing." class="webfeedsFeaturedVisual wp-post-image" height="586" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Figure-2-SiC-from-CO2-process.jpg?fit=1398%2C586" style="display: block; margin-bottom: 5px; clear: both;" width="1398" /><p>Many device manufacturers and universities are working on methods to lower the environmental impact of manufacturing SiC power devices.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/how-sic-substrate-manufacturers-are-lowering-their-environmental-impact/">How SiC Substrate Manufacturers Are Lowering Their Environmental Impact</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
