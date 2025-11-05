@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-04 23:45 UTC_
+_Last updated: 2025-11-05 03:49 UTC_
 
 ## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
 **Published:** Tue, 04 Nov 2025 02:45:09 +0000
@@ -31,14 +31,6 @@ _Last updated: 2025-11-04 23:45 UTC_
 
 <p>The collaboration extends to emerging domains such as AI, cloud, cybersecurity, high-performance computing, and semiconductors.</p>
 <p>The post <a href="https://www.eetasia.com/fpt-partners-with-lapi-itb-digital-utama-lestari-to-drive-indonesias-digital-economy/">FPT Partners with LAPI ITB, Digital Utama Lestari, to Drive Indonesia&#8217;s Digital Economy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Alif Semiconductor MCUs Feature Support for ExecuTorch Runtime](https://www.eetasia.com/alif-semiconductor-mcus-feature-support-for-executorch-runtime/)
-**Published:** Fri, 31 Oct 2025 09:58:23 +0000
-
-<p>Developers can now use the ExecuTorch Runtime for AI applications built to run on Alif Semiconductor's Ensemble MCUs and fusion processors.</p>
-<p>The post <a href="https://www.eetasia.com/alif-semiconductor-mcus-feature-support-for-executorch-runtime/">Alif Semiconductor MCUs Feature Support for ExecuTorch Runtime</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
