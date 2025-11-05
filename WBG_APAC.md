@@ -1,20 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-05 07:08 UTC_
+_Last updated: 2025-11-05 07:47 UTC_
+
+## [QuSecure’s All-in-One Platform for Proactive Post-Quantum Cryptography Migration](https://www.eetasia.com/embeddedblog-qusecures-all-in-one-platform-for-proactive-post-quantum-cryptography-migration/)
+**Published:** Wed, 05 Nov 2025 07:04:28 +0000
+
+<p>With integrated discovery, mitigation, and compliance tools, QuProtect R3 seeks to simplify what has often seemed prohibitively complex—enabling organizations to inventory, assess, and modernize encryption infrastructure before quantum threats become an inescapable reality.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-qusecures-all-in-one-platform-for-proactive-post-quantum-cryptography-migration/">QuSecure&#8217;s All-in-One Platform for Proactive Post-Quantum Cryptography Migration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Nordic Brings Bluetooth Channel Sounding to Android](https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/)
 **Published:** Tue, 04 Nov 2025 02:45:09 +0000
 
 <p>Nordic Semiconductor is bringing Bluetooth Channel Sounding to its open-source Android app nRF Toolbox.</p>
 <p>The post <a href="https://www.eetasia.com/nordic-brings-bluetooth-channel-sounding-to-android/">Nordic Brings Bluetooth Channel Sounding to Android</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Renesas Next-Gen Power Chips Enable 800V DC AI Data Center Architecture](https://www.eetasia.com/renesas-next-gen-power-chips-enable-800v-dc-ai-data-center-architecture/)
-**Published:** Tue, 04 Nov 2025 02:22:11 +0000
-
-<p>Renesas' GaN-based power solutions are supporting efficient power conversion and distribution for the 800V DC power architecture.</p>
-<p>The post <a href="https://www.eetasia.com/renesas-next-gen-power-chips-enable-800v-dc-ai-data-center-architecture/">Renesas Next-Gen Power Chips Enable 800V DC AI Data Center Architecture</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -818,6 +818,14 @@ _Last updated: 2025-11-05 07:08 UTC_
 
 ---
 
+## [Wide-Input Isolated DC to DC Converter](https://www.powerelectronicsnews.com/wide-input-isolated-dc-to-dc-converter/)
+**Published:** Wed, 05 Nov 2025 07:42:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Fig-5_49e116.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>This project is a reliable and efficient isolated DC-DC converter designed using the Flyback topology.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wide-input-isolated-dc-to-dc-converter/">Wide-Input Isolated DC to DC Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Powering the Future: Inside NoMIS’s Diversification Strategy for Next-Generation SiC Technology](https://www.powerelectronicsnews.com/powering-the-future-inside-nomiss-diversification-strategy-for-next-generation-sic-technology/)
 **Published:** Tue, 04 Nov 2025 22:00:00 +0000
 
@@ -890,19 +898,25 @@ _Last updated: 2025-11-05 07:08 UTC_
 
 ---
 
-## [Wine Down Friday with TI’s Ahmad Bahai](https://www.powerelectronicsnews.com/wine-down-friday-with-tis-ahmad-bahai/)
-**Published:** Fri, 31 Oct 2025 09:55:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="494" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/Screenshot-2025-10-31-085048.jpg?fit=963%2C494" style="display: block; margin-bottom: 5px; clear: both;" width="963" /><p>Ahmad Bahai, Senior Vice President and Chief Technology Officer at Texas Instruments.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wine-down-friday-with-tis-ahmad-bahai/">Wine Down Friday with TI’s Ahmad Bahai</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Qnity makes its debut](https://www.electronicsweekly.com/news/business/qnity-makes-its-debut-2025-11/)
 **Published:** Tue, 04 Nov 2025 06:25:22 +0000
 
 <p>Du Pont has spun off its semiconductor industry support business as a separately quoted company with a $20 billion market cap called Qnity Electronics. Qnity supplies materials and chemicals for ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/qnity-makes-its-debut-2025-11/">Qnity makes its debut</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Can Light Move Atom Inside A Semiconductor?](https://www.electronicsforu.com/news/can-light-move-atom-inside-a-semiconductor)
+**Published:** Wed, 05 Nov 2025 06:31:07 +0000
+
+<img alt="The finding offers a rare glimpse into how light and matter interact at the atomic level." class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/Untitled-design-92-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers uncover how laser beams cause atomic motion in Janus semiconductors, advancing understanding of light–matter interaction for future optical and sensing devices. Electrons move very easily when light hits a material, and that’s the basis of photoelectric and semiconductor effects. However, researchers from Rice University observes a real shift in the positions of atoms within [&#8230;]
+
+---
+
+## [When Semiconductors Turn Superconducting](https://www.electronicsforu.com/news/when-semiconductors-turn-superconducting)
+**Published:** Wed, 05 Nov 2025 05:38:10 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/Josephson-Junction-Structures-1200x675-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />By infusing semiconductors with gallium through atomic-scale precision, the team unlocked zero-resistance conductivity at cryogenic temperatures, opening doors to next-generation quantum chips and ultra-efficient electronics. In an advancement for electronics and quantum technology, researchers from New York University have successfully turned the everyday semiconductor Germanium into a full-fledged superconductor — marking a milestone in material [&#8230;]
 
 ---
 
