@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-06 19:42 UTC_
+_Last updated: 2025-11-06 20:54 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -15,6 +15,30 @@ _Last updated: 2025-11-06 19:42 UTC_
 
 <p>With integrated discovery, mitigation, and compliance tools, QuProtect R3 seeks to simplify what has often seemed prohibitively complex—enabling organizations to inventory, assess, and modernize encryption infrastructure before quantum threats become an inescapable reality.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-qusecures-all-in-one-platform-for-proactive-post-quantum-cryptography-migration/">QuSecure&#8217;s All-in-One Platform for Proactive Post-Quantum Cryptography Migration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [CMP Slurry and Pads Market Set for 6% Growth](https://www.semiconductor-digest.com/cmp-slurry-and-pads-market-set-for-6-growth/?utm_source=rss&utm_medium=rss&utm_campaign=cmp-slurry-and-pads-market-set-for-6-growth)
+**Published:** Thu, 06 Nov 2025 20:07:29 +0000
+
+<p>The CMP slurry and pad market is forecasted to grow 6% in 2025 to approximately $3.6 billion USD, driven by recovery in logic segments and expanding CMP process steps across next generation device technologies and advanced packaging.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cmp-slurry-and-pads-market-set-for-6-growth/">CMP Slurry and Pads Market Set for 6% Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Memories.ai Introduces Large Visual Memory Model 2.0 to Bring AI Visual Memory On-Device, in Collaboration with Qualcomm](https://www.semiconductor-digest.com/memories-ai-introduces-large-visual-memory-model-2-0-to-bring-ai-visual-memory-on-device-in-collaboration-with-qualcomm/?utm_source=rss&utm_medium=rss&utm_campaign=memories-ai-introduces-large-visual-memory-model-2-0-to-bring-ai-visual-memory-on-device-in-collaboration-with-qualcomm)
+**Published:** Thu, 06 Nov 2025 19:56:48 +0000
+
+<p>Starting in 2026, consumers and businesses with Qualcomm-powered phones, cameras, and wearables will be able to turn raw video into searchable and structured memories.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/memories-ai-introduces-large-visual-memory-model-2-0-to-bring-ai-visual-memory-on-device-in-collaboration-with-qualcomm/">Memories.ai Introduces Large Visual Memory Model 2.0 to Bring AI Visual Memory On-Device, in Collaboration with Qualcomm</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Global Semiconductor Alliance Announces 2025 Award Nominees](https://www.semiconductor-digest.com/global-semiconductor-alliance-announces-2025-award-nominees/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-alliance-announces-2025-award-nominees)
+**Published:** Thu, 06 Nov 2025 19:48:44 +0000
+
+<p>The prestigious awards will be presented at GSA’s Awards Celebration on Thursday, Dec. 4, 2025</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-alliance-announces-2025-award-nominees/">Global Semiconductor Alliance Announces 2025 Award Nominees</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,30 +815,6 @@ _Last updated: 2025-11-06 19:42 UTC_
 
 <p>Series B1 round anchored by Pangaea Ventures, PureTerra Ventures, Ecolab Inc., and W. L. Gore &#038; Associates fuels expansion of sustainable wastewater treatment at commercial scale.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/membrion-secures-20m-to-lead-the-future-of-industrial-water-circularity/">Membrion Secures $20M to Lead the Future of Industrial Water Circularity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The 2025 IEEE International Electron Devices Meeting To Showcase Latest Technologies in Microelectronics](https://www.semiconductor-digest.com/the-2025-ieee-international-electron-devices-meeting-to-showcase-latest-technologies-in-microelectronics-under-the-theme-100-years-of-fets-shaping-the-future-of-device-innovations/?utm_source=rss&utm_medium=rss&utm_campaign=the-2025-ieee-international-electron-devices-meeting-to-showcase-latest-technologies-in-microelectronics-under-the-theme-100-years-of-fets-shaping-the-future-of-device-innovations)
-**Published:** Wed, 08 Oct 2025 19:44:13 +0000
-
-<p>The IEEE International Electron Devices Meeting (IEDM) is considered the premier forum where scientists and engineers come together to disclose, discuss and debate the best recent R&#038;D work in electron devices, semiconductors, and microelectronic technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-2025-ieee-international-electron-devices-meeting-to-showcase-latest-technologies-in-microelectronics-under-the-theme-100-years-of-fets-shaping-the-future-of-device-innovations/">The 2025 IEEE International Electron Devices Meeting To Showcase Latest Technologies in Microelectronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Honors EV Group’s Erich Thallner with Inaugural SEMI Americas Catalyst Award](https://www.semiconductor-digest.com/semi-honors-ev-groups-erich-thallner-with-inaugural-semi-americas-catalyst-award/?utm_source=rss&utm_medium=rss&utm_campaign=semi-honors-ev-groups-erich-thallner-with-inaugural-semi-americas-catalyst-award)
-**Published:** Wed, 08 Oct 2025 19:21:22 +0000
-
-<p>This new award will be presented annually to individuals and organizations whose visionary leadership, technical excellence, and collaborative nature have uplifted the semiconductor industry. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-honors-ev-groups-erich-thallner-with-inaugural-semi-americas-catalyst-award/">SEMI Honors EV Group’s Erich Thallner with Inaugural SEMI Americas Catalyst Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Kurtz Ersa Enters the Semiconductor Industry](https://www.semiconductor-digest.com/kurtz-ersa-enters-the-semiconductor-industry/?utm_source=rss&utm_medium=rss&utm_campaign=kurtz-ersa-enters-the-semiconductor-industry)
-**Published:** Wed, 08 Oct 2025 19:05:09 +0000
-
-<p>The Kreuzwertheim-based mechanical engineering group Kurtz Ersa has taken over the business operations of the insolvent equipment manufacturer ATV Technologie GmbH, based in Vaterstetten near Munich, as of September 1, 2025.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kurtz-ersa-enters-the-semiconductor-industry/">Kurtz Ersa Enters the Semiconductor Industry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
