@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-06 17:54 UTC_
+_Last updated: 2025-11-06 19:10 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-11-06 17:54 UTC_
 
 ---
 
+## [ROHM’s EcoGaN™ Power Stage IC Powers Next-Generation MSI Gaming Laptop Adapters Through Collaboration With Delta Electronics](https://www.powerelectronicsnews.com/rohms-ecogan-power-stage-ic-powers-next-generation-msi-gaming-laptop-adapters-through-collaboration-with-delta-electronics/)
+**Published:** Thu, 06 Nov 2025 18:00:00 +0000
+
+<img alt="ROHM’s EcoGaN™ Power Stage IC Powers Next-Generation MSI Gaming Laptop Adapters Through Collaboration With Delta Electronics." class="webfeedsFeaturedVisual wp-post-image" height="479" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/MSI.png?fit=800%2C479" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>The AC adapter designed by Delta Electronics incorporates ROHM’s EcoGaN™ power stage IC BM3G005MUV-LB, noted for its high-speed switching performance and low ON resistance.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/rohms-ecogan-power-stage-ic-powers-next-generation-msi-gaming-laptop-adapters-through-collaboration-with-delta-electronics/">ROHM’s EcoGaN™ Power Stage IC Powers Next-Generation MSI Gaming Laptop Adapters Through Collaboration With Delta Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Dragonfly Energy Secures Patent for Kilowatt-Level Vehicle-to-Trailer Charging Technology](https://www.powerelectronicsnews.com/dragonfly-energy-secures-patent-for-kilowatt-level-vehicle-to-trailer-charging-technology/)
 **Published:** Thu, 06 Nov 2025 08:15:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-11-06 17:54 UTC_
 
 <img alt="Toshiba Expands Zener Diode Portfolio with New High-Reliability CMZBxxA Series." class="webfeedsFeaturedVisual wp-post-image" height="360" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/7645_LR.jpg?fit=504%2C360" style="display: block; margin-bottom: 5px; clear: both;" width="504" /><p>The use of a planar structure contributes to a lower reverse leakage current and increased device reliability.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/toshiba-expands-zener-diode-portfolio-with-new-high-reliability-cmzbxxa-series/">Toshiba Expands Zener Diode Portfolio with New High-Reliability CMZBxxA Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Conflux Partners with Airbus to Advance Hydrogen-Powered Aircraft with 3D-Printed Heat Exchangers](https://www.powerelectronicsnews.com/conflux-partners-with-airbus-to-advance-hydrogen-powered-aircraft-with-3d-printed-heat-exchangers/)
-**Published:** Tue, 04 Nov 2025 05:57:27 +0000
-
-<img alt="Conflux Advances Additive Manufacturing for Airbus’ ZEROe Hydrogen Aircraft Program." class="webfeedsFeaturedVisual wp-post-image" height="534" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/ZEROe-fully-electric-hydrogen-powered-four-pod-aircraft_ZeroE_Turboprop_AIB_VCITY2_Re.jpg?fit=950%2C534" style="display: block; margin-bottom: 5px; clear: both;" width="950" /><p>By reinventing the heat exchanger using additive manufacturing, Conflux equips Airbus with a key technology that makes fuel cells practical for use in regional and short-haul aircraft.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/conflux-partners-with-airbus-to-advance-hydrogen-powered-aircraft-with-3d-printed-heat-exchangers/">Conflux Partners with Airbus to Advance Hydrogen-Powered Aircraft with 3D-Printed Heat Exchangers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
