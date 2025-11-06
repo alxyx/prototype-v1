@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-06 07:12 UTC_
+_Last updated: 2025-11-06 07:46 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -906,17 +906,17 @@ _Last updated: 2025-11-06 07:12 UTC_
 
 ---
 
+## [Wafer-Scale Memristor For Brain-Like AI Chips](https://www.electronicsforu.com/news/wafer-scale-memristor-for-brain-like-ai-chips)
+**Published:** Thu, 06 Nov 2025 05:06:21 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/new-memristor-wafer-in-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new memristor integration could revolutionize AI hardware, enabling ultra-dense, energy-efficient chips that mimic the human brain’s architecture—overcoming long-standing barriers in scale and performance. Researchers at the Daegu Gyeongbuk Institute of Science and Technology (DGIST) have achieved a significant milestone in semiconductor technology by developing a wafer-scale memristor integration process, potentially paving the way for [&#8230;]
+
+---
+
 ## [Can Light Move Atom Inside A Semiconductor?](https://www.electronicsforu.com/news/can-light-move-atom-inside-a-semiconductor)
 **Published:** Wed, 05 Nov 2025 06:31:07 +0000
 
 <img alt="The finding offers a rare glimpse into how light and matter interact at the atomic level." class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/Untitled-design-92-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers uncover how laser beams cause atomic motion in Janus semiconductors, advancing understanding of light–matter interaction for future optical and sensing devices. Electrons move very easily when light hits a material, and that’s the basis of photoelectric and semiconductor effects. However, researchers from Rice University observes a real shift in the positions of atoms within [&#8230;]
-
----
-
-## [When Semiconductors Turn Superconducting](https://www.electronicsforu.com/news/when-semiconductors-turn-superconducting)
-**Published:** Wed, 05 Nov 2025 05:38:10 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/Josephson-Junction-Structures-1200x675-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />By infusing semiconductors with gallium through atomic-scale precision, the team unlocked zero-resistance conductivity at cryogenic temperatures, opening doors to next-generation quantum chips and ultra-efficient electronics. In an advancement for electronics and quantum technology, researchers from New York University have successfully turned the everyday semiconductor Germanium into a full-fledged superconductor — marking a milestone in material [&#8230;]
 
 ---
 
