@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-06 07:46 UTC_
+_Last updated: 2025-11-06 09:07 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-11-06 07:46 UTC_
 
 ---
 
+## [Dragonfly Energy Secures Patent for Kilowatt-Level Vehicle-to-Trailer Charging Technology](https://www.powerelectronicsnews.com/dragonfly-energy-secures-patent-for-kilowatt-level-vehicle-to-trailer-charging-technology/)
+**Published:** Thu, 06 Nov 2025 08:15:00 +0000
+
+<img alt="Examples of a towable RV (left) and a motorized RV (right)." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Dragonfly_RV_image.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The system from Dragonfly Energy enables kilowatt-level, high-voltage power transfer from towing vehicles to trailers.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/dragonfly-energy-secures-patent-for-kilowatt-level-vehicle-to-trailer-charging-technology/">Dragonfly Energy Secures Patent for Kilowatt-Level Vehicle-to-Trailer Charging Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Infineon and SolarEdge Partner to Advance High-Efficiency Power Infrastructure for Next-Gen AI Data Centers](https://www.powerelectronicsnews.com/infineon-and-solaredge-partner-to-advance-high-efficiency-power-infrastructure-for-next-gen-ai-data-centers/)
 **Published:** Wed, 05 Nov 2025 21:45:00 +0000
 
@@ -890,11 +898,11 @@ _Last updated: 2025-11-06 07:46 UTC_
 
 ---
 
-## [Powering the Next Generation of Space Systems with Infineon’s Rad-Hard Buck Controller](https://www.powerelectronicsnews.com/powering-the-next-generation-of-space-systems-with-infineons-rad-hard-buck-controller/)
-**Published:** Mon, 03 Nov 2025 08:00:00 +0000
+## [Physical AI Era: Machines Must Learn to See Before They Can Think](https://www.eetimes.com/physical-ai-era-machines-must-learn-to-see-before-they-can-think/)
+**Published:** Thu, 06 Nov 2025 08:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="544" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/RIC7084847EVAL1.png?fit=766%2C544" style="display: block; margin-bottom: 5px; clear: both;" width="766" /><p>This launch responds to the rapidly growing power demands of next-generation satellite platforms in the space industry.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/powering-the-next-generation-of-space-systems-with-infineons-rad-hard-buck-controller/">Powering the Next Generation of Space Systems with Infineon&#8217;s Rad-Hard Buck Controller</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>The limiting factor of physical AI is no longer intelligence, it is awareness.</p>
+<p>The post <a href="https://www.eetimes.com/physical-ai-era-machines-must-learn-to-see-before-they-can-think/">Physical AI Era: Machines Must Learn to See Before They Can Think</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
