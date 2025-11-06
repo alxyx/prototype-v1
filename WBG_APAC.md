@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-06 15:00 UTC_
+_Last updated: 2025-11-06 15:57 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -911,6 +911,14 @@ _Last updated: 2025-11-06 15:00 UTC_
 
 <p>Leveraging RF x AD conversion analog technology RAMXEED developed an ultra-small FeRAM chipset measuring just 1.04 mm2. Since this product was designed for SEED&#8217;s smart contact lenses platform, RAMXEED had to meet the rigorous 1 mm2 size requirement by leveraging its advanced design capabilities of combining FeRAM and analog semiconductor technology. What technological innovations made [&#8230;]</p>
 <p>The post <a href="https://www.eetimes.com/feram-embedded-assp-drives-innovation-in-1-mm%c2%b2-smart-contact-lenses/">FeRAM-embedded ASSP Drives Innovation in 1 mm² Smart Contact Lenses</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [GaN-based motor driver for robot limb joints.](https://www.electronicsweekly.com/news/design/gan-based-motor-driver-for-robot-limb-joints-2025-11/)
+**Published:** Thu, 06 Nov 2025 14:19:57 +0000
+
+<p>EPC has designed a GaN-based motor driver for robot limb joints. EPC91120, as it is know, is a evaluation board implementing a three-phase brushless dc motor driver in a 32mm ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/design/gan-based-motor-driver-for-robot-limb-joints-2025-11/">GaN-based motor driver for robot limb joints.</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
