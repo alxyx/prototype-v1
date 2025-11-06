@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-06 21:45 UTC_
+_Last updated: 2025-11-06 22:53 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -18,11 +18,11 @@ _Last updated: 2025-11-06 21:45 UTC_
 
 ---
 
-## [CSconnected Celebrates 10 years of Compound Semiconductor Innovation in South Wales](https://www.semiconductor-digest.com/csconnected-celebrates-10-years-of-compound-semiconductor-innovation-in-south-wales/?utm_source=rss&utm_medium=rss&utm_campaign=csconnected-celebrates-10-years-of-compound-semiconductor-innovation-in-south-wales)
+## [CSconnected Celebrates 10 Years of Compound Semiconductor Innovation in South Wales](https://www.semiconductor-digest.com/csconnected-celebrates-10-years-of-compound-semiconductor-innovation-in-south-wales/?utm_source=rss&utm_medium=rss&utm_campaign=csconnected-celebrates-10-years-of-compound-semiconductor-innovation-in-south-wales)
 **Published:** Thu, 06 Nov 2025 21:06:39 +0000
 
 <p>CSconnected, the world’s first compound semiconductor cluster, marks its 10-year anniversary this month with a celebration at the Parkgate Hotel in Cardiff.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/csconnected-celebrates-10-years-of-compound-semiconductor-innovation-in-south-wales/">CSconnected Celebrates 10 years of Compound Semiconductor Innovation in South Wales</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/csconnected-celebrates-10-years-of-compound-semiconductor-innovation-in-south-wales/">CSconnected Celebrates 10 Years of Compound Semiconductor Innovation in South Wales</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
