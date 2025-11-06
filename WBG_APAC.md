@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-06 20:54 UTC_
+_Last updated: 2025-11-06 21:45 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-11-06 20:54 UTC_
 
 <p>With integrated discovery, mitigation, and compliance tools, QuProtect R3 seeks to simplify what has often seemed prohibitively complex—enabling organizations to inventory, assess, and modernize encryption infrastructure before quantum threats become an inescapable reality.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-qusecures-all-in-one-platform-for-proactive-post-quantum-cryptography-migration/">QuSecure&#8217;s All-in-One Platform for Proactive Post-Quantum Cryptography Migration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [CSconnected Celebrates 10 years of Compound Semiconductor Innovation in South Wales](https://www.semiconductor-digest.com/csconnected-celebrates-10-years-of-compound-semiconductor-innovation-in-south-wales/?utm_source=rss&utm_medium=rss&utm_campaign=csconnected-celebrates-10-years-of-compound-semiconductor-innovation-in-south-wales)
+**Published:** Thu, 06 Nov 2025 21:06:39 +0000
+
+<p>CSconnected, the world’s first compound semiconductor cluster, marks its 10-year anniversary this month with a celebration at the Parkgate Hotel in Cardiff.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/csconnected-celebrates-10-years-of-compound-semiconductor-innovation-in-south-wales/">CSconnected Celebrates 10 years of Compound Semiconductor Innovation in South Wales</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-11-06 20:54 UTC_
 
 <p>scia Systems GmbH today announced new capabilities supporting high-precision, high-throughput semiconductor device manufacturing and failure analysis (FA) on its industry-leading scia Mill series of ion beam etching (IBE) systems.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/scia-systems-showcases-new-innovations-at-semicon-west-2025/">scia Systems Showcases New Innovations at SEMICON West 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Membrion Secures $20M to Lead the Future of Industrial Water Circularity](https://www.semiconductor-digest.com/membrion-secures-20m-to-lead-the-future-of-industrial-water-circularity/?utm_source=rss&utm_medium=rss&utm_campaign=membrion-secures-20m-to-lead-the-future-of-industrial-water-circularity)
-**Published:** Wed, 08 Oct 2025 20:57:29 +0000
-
-<p>Series B1 round anchored by Pangaea Ventures, PureTerra Ventures, Ecolab Inc., and W. L. Gore &#038; Associates fuels expansion of sustainable wastewater treatment at commercial scale.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/membrion-secures-20m-to-lead-the-future-of-industrial-water-circularity/">Membrion Secures $20M to Lead the Future of Industrial Water Circularity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
