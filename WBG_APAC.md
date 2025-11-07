@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-07 11:43 UTC_
+_Last updated: 2025-11-07 13:50 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -919,14 +919,6 @@ _Last updated: 2025-11-07 11:43 UTC_
 
 <p>Q3 European semiconductor sales of $14.07 billion were up 7.2% on Q2 and 6% y-o-y, reports the European Semiconductor Industry Association (ESIA). The increase  was mostly driven by a 17.3% ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/european-q3-semi-sales-up-7-2-y-o-y-2025-11/">European Q3 semi sales up 7.2% on Q2</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [GaN-based motor driver for robot limb joints.](https://www.electronicsweekly.com/news/design/gan-based-motor-driver-for-robot-limb-joints-2025-11/)
-**Published:** Thu, 06 Nov 2025 14:19:57 +0000
-
-<p>EPC has designed a GaN-based motor driver for robot limb joints. EPC91120, as it is know, is a evaluation board implementing a three-phase brushless dc motor driver in a 32mm ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/design/gan-based-motor-driver-for-robot-limb-joints-2025-11/">GaN-based motor driver for robot limb joints.</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
