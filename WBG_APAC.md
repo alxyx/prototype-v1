@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-07 07:10 UTC_
+_Last updated: 2025-11-07 07:47 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -930,17 +930,10 @@ _Last updated: 2025-11-07 07:10 UTC_
 
 ---
 
-## [Wafer-Scale Memristor For Brain-Like AI Chips](https://www.electronicsforu.com/news/wafer-scale-memristor-for-brain-like-ai-chips)
-**Published:** Thu, 06 Nov 2025 05:06:21 +0000
+## [Efficient And Compact Power Adapter](https://www.electronicsforu.com/news/efficient-and-compact-power-adapter)
+**Published:** Fri, 07 Nov 2025 06:09:38 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/new-memristor-wafer-in-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new memristor integration could revolutionize AI hardware, enabling ultra-dense, energy-efficient chips that mimic the human brain’s architecture—overcoming long-standing barriers in scale and performance. Researchers at the Daegu Gyeongbuk Institute of Science and Technology (DGIST) have achieved a significant milestone in semiconductor technology by developing a wafer-scale memristor integration process, potentially paving the way for [&#8230;]
-
----
-
-## [Can Light Move Atom Inside A Semiconductor?](https://www.electronicsforu.com/news/can-light-move-atom-inside-a-semiconductor)
-**Published:** Wed, 05 Nov 2025 06:31:07 +0000
-
-<img alt="The finding offers a rare glimpse into how light and matter interact at the atomic level." class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/Untitled-design-92-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers uncover how laser beams cause atomic motion in Janus semiconductors, advancing understanding of light–matter interaction for future optical and sensing devices. Electrons move very easily when light hits a material, and that’s the basis of photoelectric and semiconductor effects. However, researchers from Rice University observes a real shift in the positions of atoms within [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/MSI-01-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An advancement in power design is making laptop chargers smaller, cooler, and more efficient—ushering in a new era of compact, high-output adapters built for today’s performance-driven devices. Power efficiency meets portability as ROHM’s EcoGaN power stage IC makes its debut inside MSI’s latest high-performance laptop adapters, designed by Delta Electronics. The collaboration marks a leap [&#8230;]
 
 ---
 
