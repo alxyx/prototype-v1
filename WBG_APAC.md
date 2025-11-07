@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-07 15:52 UTC_
+_Last updated: 2025-11-07 17:00 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -15,6 +15,30 @@ _Last updated: 2025-11-07 15:52 UTC_
 
 <p>With integrated discovery, mitigation, and compliance tools, QuProtect R3 seeks to simplify what has often seemed prohibitively complex—enabling organizations to inventory, assess, and modernize encryption infrastructure before quantum threats become an inescapable reality.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-qusecures-all-in-one-platform-for-proactive-post-quantum-cryptography-migration/">QuSecure&#8217;s All-in-One Platform for Proactive Post-Quantum Cryptography Migration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [AI Semiconductor Innovator DEEPX Recognized by NYSE and WEF](https://www.semiconductor-digest.com/ai-semiconductor-innovator-deepx-recognized-by-nyse-and-wef-2/?utm_source=rss&utm_medium=rss&utm_campaign=ai-semiconductor-innovator-deepx-recognized-by-nyse-and-wef-2)
+**Published:** Fri, 07 Nov 2025 16:43:06 +0000
+
+<p>As AI begins to sustainably generate tangible value, global AI semiconductor innovator DEEPX (CEO Lokwon Kim) today announced it was recently selected as a ‘Sustainable and Responsible AI Innovation Company’ at the MINDS Awards hosted by the World Economic Forum (WEF) on October 29.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ai-semiconductor-innovator-deepx-recognized-by-nyse-and-wef-2/">AI Semiconductor Innovator DEEPX Recognized by NYSE and WEF</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Ceva Partners with Microchip Technology to Enable AI Acceleration](https://www.semiconductor-digest.com/ceva-partners-with-microchip-technology-to-enable-ai-acceleration/?utm_source=rss&utm_medium=rss&utm_campaign=ceva-partners-with-microchip-technology-to-enable-ai-acceleration)
+**Published:** Fri, 07 Nov 2025 15:55:29 +0000
+
+<p>Ceva, Inc. today announced a long-term partnership with Microchip Technology Inc., a broadline supplier of semiconductors committed to making innovative design easier through total system solutions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ceva-partners-with-microchip-technology-to-enable-ai-acceleration/">Ceva Partners with Microchip Technology to Enable AI Acceleration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Samsung Electro-Mechanics Signs MOU with Sumitomo Chemical Group to Establish a Joint Venture](https://www.semiconductor-digest.com/samsung-electro-mechanics-signs-mou-with-sumitomo-chemical-group-to-establish-a-joint-venture/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-electro-mechanics-signs-mou-with-sumitomo-chemical-group-to-establish-a-joint-venture)
+**Published:** Fri, 07 Nov 2025 15:48:41 +0000
+
+<p>Samsung Electro-Mechanics announced on the 5th that it has signed a memorandum of understanding (MOU) with Sumitomo Chemical Group to establish a joint venture (JV) for manufacturing 'Glass Core,' a key material for next-generation package substrates.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/samsung-electro-mechanics-signs-mou-with-sumitomo-chemical-group-to-establish-a-joint-venture/">Samsung Electro-Mechanics Signs MOU with Sumitomo Chemical Group to Establish a Joint Venture</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,27 +818,11 @@ _Last updated: 2025-11-07 15:52 UTC_
 
 ---
 
-## [Applied Materials and Arizona State University Celebrate Opening of ‘Materials-to-Fab’ Center](https://www.semiconductor-digest.com/applied-materials-and-arizona-state-university-celebrate-opening-of-materials-to-fab-center/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-and-arizona-state-university-celebrate-opening-of-materials-to-fab-center)
-**Published:** Thu, 09 Oct 2025 16:22:05 +0000
+## [Rad-Hard Buck Controller, Hydrogen-Powered Aircraft, Isolated DC/DC Converter: Power Electronics Week Insights](https://www.powerelectronicsnews.com/rad-hard-buck-controller-hydrogen-powered-aircraft-isolated-dc-dc-converter-power-electronics-week-insights/)
+**Published:** Fri, 07 Nov 2025 16:00:00 +0000
 
-<p>A ribbon-cutting event was held at the Center as semiconductor industry leaders from around the globe gathered in nearby Phoenix for the SEMICON West conference.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-and-arizona-state-university-celebrate-opening-of-materials-to-fab-center/">Applied Materials and Arizona State University Celebrate Opening of ‘Materials-to-Fab’ Center</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Malema LFC-7650 Series Ultrasonic Flow Controller Wins 2025 Best of West Award](https://www.semiconductor-digest.com/malema-lfc-7650-series-ultrasonic-flow-controller-wins-2025-best-of-west-award/?utm_source=rss&utm_medium=rss&utm_campaign=malema-lfc-7650-series-ultrasonic-flow-controller-wins-2025-best-of-west-award)
-**Published:** Thu, 09 Oct 2025 16:13:14 +0000
-
-<p>SEMI and Semiconductor Digest today announced that the LFC-7650 Series Ultrasonic Flow Controller from Malema, Part of PSG, a Dover Company (Booth 665) has won the Best of West award to be presented at SEMICON West 2025.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/malema-lfc-7650-series-ultrasonic-flow-controller-wins-2025-best-of-west-award/">Malema LFC-7650 Series Ultrasonic Flow Controller Wins 2025 Best of West Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [A New Approach to the Future of Talent: Introducing the National Network for Microelectronics Education](https://www.semiconductor-digest.com/a-new-approach-to-the-future-of-talent-introducing-the-national-network-for-microelectronics-education/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-approach-to-the-future-of-talent-introducing-the-national-network-for-microelectronics-education)
-**Published:** Wed, 08 Oct 2025 22:16:22 +0000
-
-<p>In a landmark keynote at Semicon West’s CEO Summit, Shari Liss unveiled the National Network for Microelectronics Education (NNME), a bold new initiative aimed at transforming the semiconductor workforce landscape in the United States.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/a-new-approach-to-the-future-of-talent-introducing-the-national-network-for-microelectronics-education/">A New Approach to the Future of Talent: Introducing the National Network for Microelectronics Education</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Rad-Hard Buck Controller, Hydrogen-Powered Aircraft, and Isolated DC/DC Converter!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/rad-hard-buck-controller-hydrogen-powered-aircraft-isolated-dc-dc-converter-power-electronics-week-insights/">Rad-Hard Buck Controller, Hydrogen-Powered Aircraft, Isolated DC/DC Converter: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -887,14 +895,6 @@ _Last updated: 2025-11-07 15:52 UTC_
 
 <img alt="VTT Completes Major Upgrade to 200 mm Cleanroom Manufacturing Capability." class="webfeedsFeaturedVisual wp-post-image" height="533" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/a007f5935e5f22ef_800x800ar.png?fit=800%2C533" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>This represents a substantial undertaking, where the former 150 mm manufacturing tools were converted or upgraded to operate with 200 mm wafers.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/vtt-completes-major-upgrade-to-200-mm-cleanroom-manufacturing-capability/">VTT Completes Major Upgrade to 200 mm Cleanroom Manufacturing Capability</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Toshiba Expands Zener Diode Portfolio with New High-Reliability CMZBxxA Series](https://www.powerelectronicsnews.com/toshiba-expands-zener-diode-portfolio-with-new-high-reliability-cmzbxxa-series/)
-**Published:** Tue, 04 Nov 2025 20:45:00 +0000
-
-<img alt="Toshiba Expands Zener Diode Portfolio with New High-Reliability CMZBxxA Series." class="webfeedsFeaturedVisual wp-post-image" height="360" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/7645_LR.jpg?fit=504%2C360" style="display: block; margin-bottom: 5px; clear: both;" width="504" /><p>The use of a planar structure contributes to a lower reverse leakage current and increased device reliability.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/toshiba-expands-zener-diode-portfolio-with-new-high-reliability-cmzbxxa-series/">Toshiba Expands Zener Diode Portfolio with New High-Reliability CMZBxxA Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
