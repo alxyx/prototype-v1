@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-07 14:55 UTC_
+_Last updated: 2025-11-07 15:52 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-11-07 14:55 UTC_
 
 <p>With integrated discovery, mitigation, and compliance tools, QuProtect R3 seeks to simplify what has often seemed prohibitively complex—enabling organizations to inventory, assess, and modernize encryption infrastructure before quantum threats become an inescapable reality.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-qusecures-all-in-one-platform-for-proactive-post-quantum-cryptography-migration/">QuSecure&#8217;s All-in-One Platform for Proactive Post-Quantum Cryptography Migration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Sivers Semiconductors Partners With POET Technologies](https://www.semiconductor-digest.com/sivers-semiconductors-partners-with-poet-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-partners-with-poet-technologies)
+**Published:** Fri, 07 Nov 2025 15:36:44 +0000
+
+<p> Sivers Semiconductors today announced additional details on the strategic partnership with POET Technologies Inc.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sivers-semiconductors-partners-with-poet-technologies/">Sivers Semiconductors Partners With POET Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-11-07 14:55 UTC_
 
 <p>In a landmark keynote at Semicon West’s CEO Summit, Shari Liss unveiled the National Network for Microelectronics Education (NNME), a bold new initiative aimed at transforming the semiconductor workforce landscape in the United States.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/a-new-approach-to-the-future-of-talent-introducing-the-national-network-for-microelectronics-education/">A New Approach to the Future of Talent: Introducing the National Network for Microelectronics Education</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [scia Systems Showcases New Innovations at SEMICON West 2025](https://www.semiconductor-digest.com/scia-systems-showcases-new-innovations-at-semicon-west-2025/?utm_source=rss&utm_medium=rss&utm_campaign=scia-systems-showcases-new-innovations-at-semicon-west-2025)
-**Published:** Wed, 08 Oct 2025 21:46:38 +0000
-
-<p>scia Systems GmbH today announced new capabilities supporting high-precision, high-throughput semiconductor device manufacturing and failure analysis (FA) on its industry-leading scia Mill series of ion beam etching (IBE) systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/scia-systems-showcases-new-innovations-at-semicon-west-2025/">scia Systems Showcases New Innovations at SEMICON West 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
