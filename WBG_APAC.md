@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-07 19:44 UTC_
+_Last updated: 2025-11-07 20:48 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-11-07 19:44 UTC_
 
 ---
 
+## [EPC Unveils Compact High-Efficiency GaN Motor Drive Inverter Tailored for Humanoid Robotics](https://www.powerelectronicsnews.com/epc-unveils-compact-high-efficiency-gan-motor-drive-inverter-tailored-for-humanoid-robotics/)
+**Published:** Fri, 07 Nov 2025 20:40:00 +0000
+
+<img alt="EPC Unveils Compact High-Efficiency GaN Motor Drive Inverter Tailored for Humanoid Robotics." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/EPC91120-PR-333-250-p-L-97.png?fit=333%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="333" /><p>The EPC91120 combines three EPC23102 GaN half-bridge ICs with a microcontroller, sensing circuitry, encoder interface, and RS485 communication.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/epc-unveils-compact-high-efficiency-gan-motor-drive-inverter-tailored-for-humanoid-robotics/">EPC Unveils Compact High-Efficiency GaN Motor Drive Inverter Tailored for Humanoid Robotics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Rad-Hard Buck Controller, Hydrogen-Powered Aircraft, Isolated DC/DC Converter: Power Electronics Week Insights](https://www.powerelectronicsnews.com/rad-hard-buck-controller-hydrogen-powered-aircraft-isolated-dc-dc-converter-power-electronics-week-insights/)
 **Published:** Fri, 07 Nov 2025 16:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-11-07 19:44 UTC_
 
 <img alt="Solderstar to Introduce WaveShuttle O₂ for Comprehensive Wave Soldering Verification at Productronica 2025." class="webfeedsFeaturedVisual wp-post-image" height="1400" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/solderstar-o2-wave-7x5-1.jpg?fit=2100%2C1400" style="display: block; margin-bottom: 5px; clear: both;" width="2100" /><p>The WaveShuttle O₂ captures data for seven essential variables, including temperature profile, wave contact, wave height, line speed, inclination angle, process vibration, and oxygen concentration.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/solderstar-to-introduce-waveshuttle-o%e2%82%82-for-comprehensive-wave-soldering-verification-at-productronica-2025/">Solderstar to Introduce WaveShuttle O₂ for Comprehensive Wave Soldering Verification at Productronica 2025</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [VTT Completes Major Upgrade to 200 mm Cleanroom Manufacturing Capability](https://www.powerelectronicsnews.com/vtt-completes-major-upgrade-to-200-mm-cleanroom-manufacturing-capability/)
-**Published:** Tue, 04 Nov 2025 21:15:00 +0000
-
-<img alt="VTT Completes Major Upgrade to 200 mm Cleanroom Manufacturing Capability." class="webfeedsFeaturedVisual wp-post-image" height="533" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/a007f5935e5f22ef_800x800ar.png?fit=800%2C533" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>This represents a substantial undertaking, where the former 150 mm manufacturing tools were converted or upgraded to operate with 200 mm wafers.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vtt-completes-major-upgrade-to-200-mm-cleanroom-manufacturing-capability/">VTT Completes Major Upgrade to 200 mm Cleanroom Manufacturing Capability</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
