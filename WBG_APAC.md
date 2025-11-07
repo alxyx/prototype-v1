@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-07 05:54 UTC_
+_Last updated: 2025-11-07 07:10 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -911,6 +911,14 @@ _Last updated: 2025-11-07 05:54 UTC_
 
 <p>Leveraging RF x AD conversion analog technology RAMXEED developed an ultra-small FeRAM chipset measuring just 1.04 mm2. Since this product was designed for SEED&#8217;s smart contact lenses platform, RAMXEED had to meet the rigorous 1 mm2 size requirement by leveraging its advanced design capabilities of combining FeRAM and analog semiconductor technology. What technological innovations made [&#8230;]</p>
 <p>The post <a href="https://www.eetimes.com/feram-embedded-assp-drives-innovation-in-1-mm%c2%b2-smart-contact-lenses/">FeRAM-embedded ASSP Drives Innovation in 1 mm² Smart Contact Lenses</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [European Q3 semi sales up 7.2% on Q2](https://www.electronicsweekly.com/news/business/european-q3-semi-sales-up-7-2-y-o-y-2025-11/)
+**Published:** Fri, 07 Nov 2025 06:11:20 +0000
+
+<p>Q3 European semiconductor sales of $14.07 billion were up 7.2% on Q2 and 6% y-o-y, reports the European Semiconductor Industry Association (ESIA). The increase  was mostly driven by a 17.3% ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/european-q3-semi-sales-up-7-2-y-o-y-2025-11/">European Q3 semi sales up 7.2% on Q2</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
