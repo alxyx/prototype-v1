@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-08 07:03 UTC_
+_Last updated: 2025-11-08 07:43 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -919,6 +919,13 @@ _Last updated: 2025-11-08 07:03 UTC_
 
 <p>Q3 European semiconductor sales of $14.07 billion were up 7.2% on Q2 and 6% y-o-y, reports the European Semiconductor Industry Association (ESIA). The increase  was mostly driven by a 17.3% ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/european-q3-semi-sales-up-7-2-y-o-y-2025-11/">European Q3 semi sales up 7.2% on Q2</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [GaN Inverter Reference Design For Robotics](https://www.electronicsforu.com/electronics-projects/gan-inverter-reference-design-for-robotics)
+**Published:** Fri, 07 Nov 2025 10:54:45 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/Screenshot-2025-11-07-at-4.20.58-PM-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Most robot motors use old IGBTs. They get hot and take up space. A new GaN design consumes less energy, is more compact, and exhibits improved performance. Most servo drives in industrial and collaborative robots face efficiency and size limitations due to the use of IGBT-based inverters. These drives, which usually operate from a single-phase [&#8230;]
 
 ---
 
