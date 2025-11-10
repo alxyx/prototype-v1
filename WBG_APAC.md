@@ -1,20 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-09 23:43 UTC_
+_Last updated: 2025-11-10 03:58 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
 
 <p>Valens Semiconductor has appointed Yoram Salinger as its new CEO and board member.</p>
 <p>The post <a href="https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/">Yoram Salinger Appointed CEO of Valens Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [QuSecure’s All-in-One Platform for Proactive Post-Quantum Cryptography Migration](https://www.eetasia.com/embeddedblog-qusecures-all-in-one-platform-for-proactive-post-quantum-cryptography-migration/)
-**Published:** Wed, 05 Nov 2025 07:04:28 +0000
-
-<p>With integrated discovery, mitigation, and compliance tools, QuProtect R3 seeks to simplify what has often seemed prohibitively complex—enabling organizations to inventory, assess, and modernize encryption infrastructure before quantum threats become an inescapable reality.</p>
-<p>The post <a href="https://www.eetasia.com/embeddedblog-qusecures-all-in-one-platform-for-proactive-post-quantum-cryptography-migration/">QuSecure&#8217;s All-in-One Platform for Proactive Post-Quantum Cryptography Migration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
