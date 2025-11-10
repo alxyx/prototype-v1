@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-10 09:56 UTC_
+_Last updated: 2025-11-10 11:01 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -895,14 +895,6 @@ _Last updated: 2025-11-10 09:56 UTC_
 
 <p>The limiting factor of physical AI is no longer intelligence, it is awareness.</p>
 <p>The post <a href="https://www.eetimes.com/physical-ai-era-machines-must-learn-to-see-before-they-can-think/">Physical AI Era: Machines Must Learn to See Before They Can Think</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [European Q3 semi sales up 7.2% on Q2](https://www.electronicsweekly.com/news/business/european-q3-semi-sales-up-7-2-y-o-y-2025-11/)
-**Published:** Fri, 07 Nov 2025 06:11:20 +0000
-
-<p>Q3 European semiconductor sales of $14.07 billion were up 7.2% on Q2 and 6% y-o-y, reports the European Semiconductor Industry Association (ESIA). The increase  was mostly driven by a 17.3% ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/european-q3-semi-sales-up-7-2-y-o-y-2025-11/">European Q3 semi sales up 7.2% on Q2</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
