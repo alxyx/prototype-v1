@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-10 17:48 UTC_
+_Last updated: 2025-11-10 19:07 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
 
 <p>Valens Semiconductor has appointed Yoram Salinger as its new CEO and board member.</p>
 <p>The post <a href="https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/">Yoram Salinger Appointed CEO of Valens Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [ZEISS Microscopy Spotlights Advanced Failure Analysis Technologies at ISTFA](https://www.semiconductor-digest.com/zeiss-microscopy-spotlights-advanced-failure-analysis-technologies-at-istfa/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-microscopy-spotlights-advanced-failure-analysis-technologies-at-istfa)
+**Published:** Mon, 10 Nov 2025 18:52:39 +0000
+
+<p>ZEISS Microscopy will once again make a strong showing at the 51st annual International Symposium for Testing &#038; Failure Analysis (ISTFA), taking place November 16-20, 2025, at the Pasadena Convention Center, in Pasadena, Calif.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/zeiss-microscopy-spotlights-advanced-failure-analysis-technologies-at-istfa/">ZEISS Microscopy Spotlights Advanced Failure Analysis Technologies at ISTFA</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [GlobalFoundries Licenses GaN Technology from TSMC](https://www.semiconductor-digest.com/globalfoundries-licenses-gan-technology-from-tsmc/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-licenses-gan-technology-from-tsmc)
+**Published:** Mon, 10 Nov 2025 18:11:32 +0000
+
+<p>Technology licensing agreement will advance development of GF’s next generation GaN technologies with products available in late 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-licenses-gan-technology-from-tsmc/">GlobalFoundries Licenses GaN Technology from TSMC</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,22 +807,6 @@ _Last updated: 2025-11-10 17:48 UTC_
 
 <p>Pragmatic Semiconductor Ltd. today announced the appointment of Peter Herweck as Chair to its Board of Directors, effective immediately.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/pragmatic-semiconductor-appoints-peter-herweck-as-chair-to-board-of-directors/">Pragmatic Semiconductor Appoints Peter Herweck as Chair to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New Report Highlights Urgent Need to Strengthen Semiconductor Skills in Wales](https://www.semiconductor-digest.com/new-report-highlights-urgent-need-to-strengthen-semiconductor-skills-in-wales/?utm_source=rss&utm_medium=rss&utm_campaign=new-report-highlights-urgent-need-to-strengthen-semiconductor-skills-in-wales)
-**Published:** Thu, 09 Oct 2025 17:03:06 +0000
-
-<p>A new report published by the Welsh Economy Research Unit at Cardiff University, as part of the CSconnected Strength in Places Fund (SIPF) programme, funded by UKRI highlights the urgent need for regionally responsive skills development to secure the future of the UK’s semiconductor industry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-report-highlights-urgent-need-to-strengthen-semiconductor-skills-in-wales/">New Report Highlights Urgent Need to Strengthen Semiconductor Skills in Wales</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Show Daily 2025 — Day Three](https://www.semiconductor-digest.com/show-daily-2025-day-three/?utm_source=rss&utm_medium=rss&utm_campaign=show-daily-2025-day-three)
-**Published:** Thu, 09 Oct 2025 16:26:20 +0000
-
-<p>View or Download the SEMICON West Show Daily — Day One!</p>
-<p>The post <a href="https://www.semiconductor-digest.com/show-daily-2025-day-three/">Show Daily 2025 — Day Three</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
