@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-10 19:41 UTC_
+_Last updated: 2025-11-10 20:56 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
 
 <p>Valens Semiconductor has appointed Yoram Salinger as its new CEO and board member.</p>
 <p>The post <a href="https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/">Yoram Salinger Appointed CEO of Valens Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [First 2D Semiconductor FPGA Achieves Wafer-Scale Integration Peer-Reviewed Publication](https://www.semiconductor-digest.com/first-2d-semiconductor-fpga-achieves-wafer-scale-integration-peer-reviewed-publication/?utm_source=rss&utm_medium=rss&utm_campaign=first-2d-semiconductor-fpga-achieves-wafer-scale-integration-peer-reviewed-publication)
+**Published:** Mon, 10 Nov 2025 20:10:19 +0000
+
+<p>The global integrated circuit (IC) industry is confronting the physical limitations of Moore's Law.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/first-2d-semiconductor-fpga-achieves-wafer-scale-integration-peer-reviewed-publication/">First 2D Semiconductor FPGA Achieves Wafer-Scale Integration Peer-Reviewed Publication</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [HPE and Partners Launch Quantum Scaling Alliance to Accelerate Quantum Computing Breakthroughs](https://www.semiconductor-digest.com/hpe-and-partners-launch-quantum-scaling-alliance-to-accelerate-quantum-computing-breakthroughs/?utm_source=rss&utm_medium=rss&utm_campaign=hpe-and-partners-launch-quantum-scaling-alliance-to-accelerate-quantum-computing-breakthroughs)
+**Published:** Mon, 10 Nov 2025 19:42:09 +0000
+
+<p>Team combines deep expertise in quantum with leadership in supercomputing and semiconductor design and manufacturing to drive quantum technology into mainstream adoption.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hpe-and-partners-launch-quantum-scaling-alliance-to-accelerate-quantum-computing-breakthroughs/">HPE and Partners Launch Quantum Scaling Alliance to Accelerate Quantum Computing Breakthroughs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,19 +810,11 @@ _Last updated: 2025-11-10 19:41 UTC_
 
 ---
 
-## [A Prototype LED as Thin as Wallpaper — That Glows Like the Sun](https://www.semiconductor-digest.com/a-prototype-led-as-thin-as-wallpaper-that-glows-like-the-sun/?utm_source=rss&utm_medium=rss&utm_campaign=a-prototype-led-as-thin-as-wallpaper-that-glows-like-the-sun)
-**Published:** Fri, 10 Oct 2025 18:48:01 +0000
+## [GlobalFoundries Secures TSMC GaN Technology License to Boost U.S. Power Semiconductor Production](https://www.powerelectronicsnews.com/globalfoundries-secures-tsmc-gan-technology-license-to-boost-u-s-power-semiconductor-production/)
+**Published:** Mon, 10 Nov 2025 20:00:00 +0000
 
-<p>Researchers report in ACS Applied Materials &#038; Interfaces that they have created a paper-thin LED that gives off a warm, sun-like glow.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/a-prototype-led-as-thin-as-wallpaper-that-glows-like-the-sun/">A Prototype LED as Thin as Wallpaper — That Glows Like the Sun</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Pragmatic Semiconductor Appoints Peter Herweck as Chair to Board of Directors](https://www.semiconductor-digest.com/pragmatic-semiconductor-appoints-peter-herweck-as-chair-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=pragmatic-semiconductor-appoints-peter-herweck-as-chair-to-board-of-directors)
-**Published:** Thu, 09 Oct 2025 17:21:21 +0000
-
-<p>Pragmatic Semiconductor Ltd. today announced the appointment of Peter Herweck as Chair to its Board of Directors, effective immediately.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/pragmatic-semiconductor-appoints-peter-herweck-as-chair-to-board-of-directors/">Pragmatic Semiconductor Appoints Peter Herweck as Chair to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="639" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/03/SemiconductorWafer.jpg?fit=1000%2C639" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The licensing arrangement will support the development of GF’s future GaN technology portfolio, with products anticipated to reach the market in late 2026.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/globalfoundries-secures-tsmc-gan-technology-license-to-boost-u-s-power-semiconductor-production/">GlobalFoundries Secures TSMC GaN Technology License to Boost U.S. Power Semiconductor Production</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -879,14 +887,6 @@ _Last updated: 2025-11-10 19:41 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Fig-5_49e116.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>This project is a reliable and efficient isolated DC-DC converter designed using the Flyback topology.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/wide-input-isolated-dc-to-dc-converter/">Wide-Input Isolated DC to DC Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Powering the Future: Inside NoMIS’s Diversification Strategy for Next-Generation SiC Technology](https://www.powerelectronicsnews.com/powering-the-future-inside-nomiss-diversification-strategy-for-next-generation-sic-technology/)
-**Published:** Tue, 04 Nov 2025 22:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="389" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/NoMIS_figure.jpg?fit=1004%2C389" style="display: block; margin-bottom: 5px; clear: both;" width="1004" /><p>NoMIS is advancing silicon carbide (SiC) as a reliable foundation for more efficient and sustainable power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/powering-the-future-inside-nomiss-diversification-strategy-for-next-generation-sic-technology/">Powering the Future: Inside NoMIS’s Diversification Strategy for Next-Generation SiC Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
