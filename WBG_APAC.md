@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-10 07:11 UTC_
+_Last updated: 2025-11-10 07:47 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -914,17 +914,17 @@ _Last updated: 2025-11-10 07:11 UTC_
 
 ---
 
+## [High-Capacity Storage For AI Video Systems](https://www.electronicsforu.com/news/high-capacity-storage-for-ai-video-systems)
+**Published:** Mon, 10 Nov 2025 06:40:18 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/storage-20251104-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Too much AI video data? This storage handles many cameras, records nonstop, and delivers results for real-time analysis. Organizations using AI-driven surveillance face major challenges like massive volumes of video data, continuous recording demands, and the need for fast, reliable AI analysis. Standard storage solutions can struggle with these workloads, slowing video retrieval and real-time [&#8230;]
+
+---
+
 ## [GaN Inverter Reference Design For Robotics](https://www.electronicsforu.com/electronics-projects/gan-inverter-reference-design-for-robotics)
 **Published:** Fri, 07 Nov 2025 10:54:45 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/Screenshot-2025-11-07-at-4.20.58-PM-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Most robot motors use old IGBTs. They get hot and take up space. A new GaN design consumes less energy, is more compact, and exhibits improved performance. Most servo drives in industrial and collaborative robots face efficiency and size limitations due to the use of IGBT-based inverters. These drives, which usually operate from a single-phase [&#8230;]
-
----
-
-## [Efficient And Compact Power Adapter](https://www.electronicsforu.com/news/efficient-and-compact-power-adapter)
-**Published:** Fri, 07 Nov 2025 06:09:38 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/MSI-01-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An advancement in power design is making laptop chargers smaller, cooler, and more efficient—ushering in a new era of compact, high-output adapters built for today’s performance-driven devices. Power efficiency meets portability as ROHM’s EcoGaN power stage IC makes its debut inside MSI’s latest high-performance laptop adapters, designed by Delta Electronics. The collaboration marks a leap [&#8230;]
 
 ---
 
