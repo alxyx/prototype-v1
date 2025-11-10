@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-10 07:47 UTC_
+_Last updated: 2025-11-10 09:07 UTC_
 
 ## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
 **Published:** Wed, 05 Nov 2025 23:20:55 +0000
@@ -810,6 +810,14 @@ _Last updated: 2025-11-10 07:47 UTC_
 
 ---
 
+## [Micromirror-Based Maskless Lithography Targets Advanced Packaging](https://www.powerelectronicsnews.com/micromirror-based-maskless-lithography-targets-advanced-packaging/)
+**Published:** Mon, 10 Nov 2025 08:49:37 +0000
+
+<img alt="Micromirror-Based Maskless Lithography Targets Advanced Packaging." class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/ti-dlp-technology-digital-lithography.jpg?fit=3840%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="3840" /><p>Maskless lithography enables pattern formation directly on a surface—such as a printed circuit board or an advanced packaging substrate—without the need to produce photomasks.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/micromirror-based-maskless-lithography-targets-advanced-packaging/">Micromirror-Based Maskless Lithography Targets Advanced Packaging</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [EPC Unveils Compact High-Efficiency GaN Motor Drive Inverter Tailored for Humanoid Robotics](https://www.powerelectronicsnews.com/epc-unveils-compact-high-efficiency-gan-motor-drive-inverter-tailored-for-humanoid-robotics/)
 **Published:** Fri, 07 Nov 2025 20:40:00 +0000
 
@@ -882,27 +890,11 @@ _Last updated: 2025-11-10 07:47 UTC_
 
 ---
 
-## [Solderstar to Introduce WaveShuttle O₂ for Comprehensive Wave Soldering Verification at Productronica 2025](https://www.powerelectronicsnews.com/solderstar-to-introduce-waveshuttle-o%e2%82%82-for-comprehensive-wave-soldering-verification-at-productronica-2025/)
-**Published:** Tue, 04 Nov 2025 21:45:00 +0000
-
-<img alt="Solderstar to Introduce WaveShuttle O₂ for Comprehensive Wave Soldering Verification at Productronica 2025." class="webfeedsFeaturedVisual wp-post-image" height="1400" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/solderstar-o2-wave-7x5-1.jpg?fit=2100%2C1400" style="display: block; margin-bottom: 5px; clear: both;" width="2100" /><p>The WaveShuttle O₂ captures data for seven essential variables, including temperature profile, wave contact, wave height, line speed, inclination angle, process vibration, and oxygen concentration.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/solderstar-to-introduce-waveshuttle-o%e2%82%82-for-comprehensive-wave-soldering-verification-at-productronica-2025/">Solderstar to Introduce WaveShuttle O₂ for Comprehensive Wave Soldering Verification at Productronica 2025</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Physical AI Era: Machines Must Learn to See Before They Can Think](https://www.eetimes.com/physical-ai-era-machines-must-learn-to-see-before-they-can-think/)
 **Published:** Thu, 06 Nov 2025 08:00:00 +0000
 
 <p>The limiting factor of physical AI is no longer intelligence, it is awareness.</p>
 <p>The post <a href="https://www.eetimes.com/physical-ai-era-machines-must-learn-to-see-before-they-can-think/">Physical AI Era: Machines Must Learn to See Before They Can Think</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [FeRAM-embedded ASSP Drives Innovation in 1 mm² Smart Contact Lenses](https://www.eetimes.com/feram-embedded-assp-drives-innovation-in-1-mm%c2%b2-smart-contact-lenses/)
-**Published:** Wed, 05 Nov 2025 15:00:00 +0000
-
-<p>Leveraging RF x AD conversion analog technology RAMXEED developed an ultra-small FeRAM chipset measuring just 1.04 mm2. Since this product was designed for SEED&#8217;s smart contact lenses platform, RAMXEED had to meet the rigorous 1 mm2 size requirement by leveraging its advanced design capabilities of combining FeRAM and analog semiconductor technology. What technological innovations made [&#8230;]</p>
-<p>The post <a href="https://www.eetimes.com/feram-embedded-assp-drives-innovation-in-1-mm%c2%b2-smart-contact-lenses/">FeRAM-embedded ASSP Drives Innovation in 1 mm² Smart Contact Lenses</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
