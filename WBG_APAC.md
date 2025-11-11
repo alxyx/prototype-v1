@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-11 09:06 UTC_
+_Last updated: 2025-11-11 09:53 UTC_
 
 ## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
 **Published:** Tue, 11 Nov 2025 02:40:50 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-11-11 09:06 UTC_
 
 ---
 
+## [Ferroelectric Innovation Shatters Performance Barriers in GaN Power Electronics](https://www.powerelectronicsnews.com/ferroelectric-innovation-shatters-performance-barriers-in-gan-power-electronics/)
+**Published:** Tue, 11 Nov 2025 09:17:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/09/shutterstock_716849587-1.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Negative capacitance has the potential to improve GaN device performance and open new possibilities in power electronics and telecommunications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ferroelectric-innovation-shatters-performance-barriers-in-gan-power-electronics/">Ferroelectric Innovation Shatters Performance Barriers in GaN Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [GlobalFoundries Secures TSMC GaN Technology License to Boost U.S. Power Semiconductor Production](https://www.powerelectronicsnews.com/globalfoundries-secures-tsmc-gan-technology-license-to-boost-u-s-power-semiconductor-production/)
 **Published:** Mon, 10 Nov 2025 20:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-11-11 09:06 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="639" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/03/SemiconductorWafer.jpg?fit=1000%2C639" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>It addresses the fast-rising GaN market as power efficiency demands increase across data centers, industrial equipment, and automotive applications.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/veeco-secures-new-propel300-order-for-300mm-gan-power-semiconductor-production/">Veeco Secures New Propel®300 Order for 300mm GaN Power Semiconductor Production</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wide-Input Isolated DC to DC Converter](https://www.powerelectronicsnews.com/wide-input-isolated-dc-to-dc-converter/)
-**Published:** Wed, 05 Nov 2025 07:42:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Fig-5_49e116.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>This project is a reliable and efficient isolated DC-DC converter designed using the Flyback topology.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wide-input-isolated-dc-to-dc-converter/">Wide-Input Isolated DC to DC Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
