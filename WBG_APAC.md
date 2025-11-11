@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-11 07:09 UTC_
+_Last updated: 2025-11-11 07:48 UTC_
 
 ## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
 **Published:** Tue, 11 Nov 2025 02:40:50 +0000
@@ -914,17 +914,17 @@ _Last updated: 2025-11-11 07:09 UTC_
 
 ---
 
-## [High-Capacity Storage For AI Video Systems](https://www.electronicsforu.com/news/high-capacity-storage-for-ai-video-systems)
-**Published:** Mon, 10 Nov 2025 06:40:18 +0000
+## [AI For Detecting Hidden Structural Defects](https://www.electronicsforu.com/news/ai-for-detecting-hidden-structural-defects)
+**Published:** Tue, 11 Nov 2025 07:01:03 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/storage-20251104-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Too much AI video data? This storage handles many cameras, records nonstop, and delivers results for real-time analysis. Organizations using AI-driven surveillance face major challenges like massive volumes of video data, continuous recording demands, and the need for fast, reliable AI analysis. Standard storage solutions can struggle with these workloads, slowing video retrieval and real-time [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/chung-ang-university-r-5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />AI can find hidden cracks inside machines and buildings in real time, helping prevent accidents and keep industries safe. Reliability and safety are crucial in industries like semiconductors, energy, automotive, and steel, where tiny cracks or defects can greatly impact performance. Because these flaws are hidden inside materials, non-destructive testing (NDT) has been used to [&#8230;]
 
 ---
 
-## [GaN Inverter Reference Design For Robotics](https://www.electronicsforu.com/electronics-projects/gan-inverter-reference-design-for-robotics)
-**Published:** Fri, 07 Nov 2025 10:54:45 +0000
+## [JOB: Verification & Validation Engineer At Emerson In Pune](https://www.electronicsforu.com/career/verification-validation-engineer-emerson-pune)
+**Published:** Mon, 10 Nov 2025 10:18:21 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/Screenshot-2025-11-07-at-4.20.58-PM-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Most robot motors use old IGBTs. They get hot and take up space. A new GaN design consumes less energy, is more compact, and exhibits improved performance. Most servo drives in industrial and collaborative robots face efficiency and size limitations due to the use of IGBT-based inverters. These drives, which usually operate from a single-phase [&#8230;]
+<img alt="Electrical &amp; Automation Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/Emerson-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Emerson Responsibilities Who Are You You readily take action on challenges, without unnecessary planning. You work cooperatively with others across the organization to achieve shared objectives. You break down objectives into appropriate initiatives and actions. You follow through on commitments. You understand internal and external stakeholder requirements, expectations, and needs. [&#8230;]
 
 ---
 
