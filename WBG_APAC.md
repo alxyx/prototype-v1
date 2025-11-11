@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-11 19:07 UTC_
+_Last updated: 2025-11-11 19:42 UTC_
 
 ## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
 **Published:** Tue, 11 Nov 2025 02:40:50 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-11-11 19:07 UTC_
 
 <p>Seeed Studio has launched a new module series based on Nordic Semiconductor's next generation nRF54L15 ultra-low power wireless SoC.</p>
 <p>The post <a href="https://www.eetasia.com/seeed-studios-latest-modules-integrate-nordic-socs-for-multiprotocol-wireless-connectivity/">Seeed Studio&#8217;s Latest Modules Integrate Nordic SoCs for Multiprotocol Wireless Connectivity</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Blaize Deploys Arteris NoC IP to Power Scalable, Energy-Efficient Edge AI Solutions](https://www.semiconductor-digest.com/blaize-deploys-arteris-noc-ip-to-power-scalable-energy-efficient-edge-ai-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=blaize-deploys-arteris-noc-ip-to-power-scalable-energy-efficient-edge-ai-solutions)
+**Published:** Tue, 11 Nov 2025 19:08:02 +0000
+
+<p>Arteris, Inc. today announced that Blaize has adopted FlexNoC 5 interconnect IP to enhance the performance and scalability of the Blaize AI Platform, a programmable, energy-efficient foundation for hybrid AI deployment models spanning edge and cloud infrastructure.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/blaize-deploys-arteris-noc-ip-to-power-scalable-energy-efficient-edge-ai-solutions/">Blaize Deploys Arteris NoC IP to Power Scalable, Energy-Efficient Edge AI Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-11-11 19:07 UTC_
 
 <p>Amkor Technology, Inc. this week announced the groundbreaking and expanded planned investment of its new state-of-the-art outsourced semiconductor advanced packaging and test campus in Arizona.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/amkor-technology-breaks-ground-on-new-semiconductor-advanced-packaging-and-test-campus-in-arizona/">Amkor Technology Breaks Ground on New Semiconductor Advanced Packaging and Test Campus in Arizona</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University](https://www.semiconductor-digest.com/cadence-giving-foundation-announces-multi-year-commitment-to-expand-the-ai-hub-at-san-jose-state-university/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-giving-foundation-announces-multi-year-commitment-to-expand-the-ai-hub-at-san-jose-state-university)
-**Published:** Fri, 10 Oct 2025 19:10:24 +0000
-
-<p>The Cadence Giving Foundation today announced a multi-year commitment to expand the AI Hub at San José State University (SJSU) to equip students with the skills, hands-on training and experience needed to excel in careers in artificial intelligence (AI).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cadence-giving-foundation-announces-multi-year-commitment-to-expand-the-ai-hub-at-san-jose-state-university/">Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
