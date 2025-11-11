@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-11 11:44 UTC_
+_Last updated: 2025-11-11 13:54 UTC_
 
 ## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
 **Published:** Tue, 11 Nov 2025 02:40:50 +0000
@@ -898,11 +898,11 @@ _Last updated: 2025-11-11 11:44 UTC_
 
 ---
 
-## [Physical AI Era: Machines Must Learn to See Before They Can Think](https://www.eetimes.com/physical-ai-era-machines-must-learn-to-see-before-they-can-think/)
-**Published:** Thu, 06 Nov 2025 08:00:00 +0000
+## [Arm’s DreamBig Acquisition Reignites In-house Chip Prospects](https://www.eetimes.com/arms-dreambig-acquisition-reignites-in-house-chip-prospects/)
+**Published:** Tue, 11 Nov 2025 13:36:35 +0000
 
-<p>The limiting factor of physical AI is no longer intelligence, it is awareness.</p>
-<p>The post <a href="https://www.eetimes.com/physical-ai-era-machines-must-learn-to-see-before-they-can-think/">Physical AI Era: Machines Must Learn to See Before They Can Think</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Arm acquires DreamBig Semiconductor to supercharge its AI chip ambitions.</p>
+<p>The post <a href="https://www.eetimes.com/arms-dreambig-acquisition-reignites-in-house-chip-prospects/">Arm’s DreamBig Acquisition Reignites In-house Chip Prospects</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
