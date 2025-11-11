@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-11 05:55 UTC_
+_Last updated: 2025-11-11 07:09 UTC_
 
 ## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
 **Published:** Tue, 11 Nov 2025 02:40:50 +0000
@@ -903,6 +903,14 @@ _Last updated: 2025-11-11 05:55 UTC_
 
 <p>The limiting factor of physical AI is no longer intelligence, it is awareness.</p>
 <p>The post <a href="https://www.eetimes.com/physical-ai-era-machines-must-learn-to-see-before-they-can-think/">Physical AI Era: Machines Must Learn to See Before They Can Think</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [MIT finds superconductivity in graphene](https://www.electronicsweekly.com/news/business/mit-finds-superconductivity-in-graphene-2025-11/)
+**Published:** Tue, 11 Nov 2025 06:27:23 +0000
+
+<p>MIT physicists have observed unconventional superconductivity in “magic-angle” twisted tri-layer graphene (MATTG) — a material that is made by stacking three atomically-thin sheets of graphene at a specific angle, or ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/mit-finds-superconductivity-in-graphene-2025-11/">MIT finds superconductivity in graphene</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
