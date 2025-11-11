@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-11 19:42 UTC_
+_Last updated: 2025-11-11 20:53 UTC_
 
 ## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
 **Published:** Tue, 11 Nov 2025 02:40:50 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-11-11 19:42 UTC_
 
 <p>Seeed Studio has launched a new module series based on Nordic Semiconductor's next generation nRF54L15 ultra-low power wireless SoC.</p>
 <p>The post <a href="https://www.eetasia.com/seeed-studios-latest-modules-integrate-nordic-socs-for-multiprotocol-wireless-connectivity/">Seeed Studio&#8217;s Latest Modules Integrate Nordic SoCs for Multiprotocol Wireless Connectivity</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [ManpowerGroup and Maricopa Community Colleges Partner to Develop the Next-Generation Semiconductor and Manufacturing Workforce](https://www.semiconductor-digest.com/manpowergroup-and-maricopa-community-colleges-partner-to-develop-the-next-generation-semiconductor-and-manufacturing-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=manpowergroup-and-maricopa-community-colleges-partner-to-develop-the-next-generation-semiconductor-and-manufacturing-workforce)
+**Published:** Tue, 11 Nov 2025 19:59:44 +0000
+
+<p>ManpowerGroup today announced a strategic partnership with Maricopa Community Colleges in Arizona, one of the nation's largest community college systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/manpowergroup-and-maricopa-community-colleges-partner-to-develop-the-next-generation-semiconductor-and-manufacturing-workforce/">ManpowerGroup and Maricopa Community Colleges Partner to Develop the Next-Generation Semiconductor and Manufacturing Workforce</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-11-11 19:42 UTC_
 
 <p>A semiconductor foundry needs to eliminate the risk of wafer loss from un-planned downtime in the sub-fab.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/edwards-vacuum-transforming-the-sub-fab-through-semiconductor-intelligent-service/">Edwards Vacuum: Transforming the Sub-Fab Through Semiconductor Intelligent Service</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Amkor Technology Breaks Ground on New Semiconductor Advanced Packaging and Test Campus in Arizona](https://www.semiconductor-digest.com/amkor-technology-breaks-ground-on-new-semiconductor-advanced-packaging-and-test-campus-in-arizona/?utm_source=rss&utm_medium=rss&utm_campaign=amkor-technology-breaks-ground-on-new-semiconductor-advanced-packaging-and-test-campus-in-arizona)
-**Published:** Sun, 12 Oct 2025 18:54:28 +0000
-
-<p>Amkor Technology, Inc. this week announced the groundbreaking and expanded planned investment of its new state-of-the-art outsourced semiconductor advanced packaging and test campus in Arizona.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/amkor-technology-breaks-ground-on-new-semiconductor-advanced-packaging-and-test-campus-in-arizona/">Amkor Technology Breaks Ground on New Semiconductor Advanced Packaging and Test Campus in Arizona</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
