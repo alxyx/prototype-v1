@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-11 17:52 UTC_
+_Last updated: 2025-11-11 19:07 UTC_
 
 ## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
 **Published:** Tue, 11 Nov 2025 02:40:50 +0000
@@ -15,6 +15,22 @@ _Last updated: 2025-11-11 17:52 UTC_
 
 <p>Seeed Studio has launched a new module series based on Nordic Semiconductor's next generation nRF54L15 ultra-low power wireless SoC.</p>
 <p>The post <a href="https://www.eetasia.com/seeed-studios-latest-modules-integrate-nordic-socs-for-multiprotocol-wireless-connectivity/">Seeed Studio&#8217;s Latest Modules Integrate Nordic SoCs for Multiprotocol Wireless Connectivity</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Omdia: Display Demand Expected to Grow 6% in Area by 2026](https://www.semiconductor-digest.com/omdia-display-demand-expected-to-grow-6-in-area-by-2026/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-display-demand-expected-to-grow-6-in-area-by-2026)
+**Published:** Tue, 11 Nov 2025 18:49:29 +0000
+
+<p>Overall display area demand is projected to grow 6% year-over-year in 2026, according to Omdia’s Display long-term demand forecast tracker.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-display-demand-expected-to-grow-6-in-area-by-2026/">Omdia: Display Demand Expected to Grow 6% in Area by 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Innatera Signs Joya as ODM Customer](https://www.semiconductor-digest.com/innatera-signs-joya-as-odm-customer/?utm_source=rss&utm_medium=rss&utm_campaign=innatera-signs-joya-as-odm-customer)
+**Published:** Tue, 11 Nov 2025 18:42:00 +0000
+
+<p>Partnership will deliver ultra-low-power intelligence for next-gen consumer, IoT, and smart home devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/innatera-signs-joya-as-odm-customer/">Innatera Signs Joya as ODM Customer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2025-11-11 17:52 UTC_
 
 <p>The Cadence Giving Foundation today announced a multi-year commitment to expand the AI Hub at San José State University (SJSU) to equip students with the skills, hands-on training and experience needed to excel in careers in artificial intelligence (AI).</p>
 <p>The post <a href="https://www.semiconductor-digest.com/cadence-giving-foundation-announces-multi-year-commitment-to-expand-the-ai-hub-at-san-jose-state-university/">Cadence Giving Foundation Announces Multi-Year Commitment to Expand the AI Hub at San José State University</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Advanced Design for High‑Performance and AI Chips](https://www.semiconductor-digest.com/advanced-design-for-high%e2%80%91performance-and-ai-chips/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-design-for-high%25e2%2580%2591performance-and-ai-chips)
-**Published:** Fri, 10 Oct 2025 19:05:01 +0000
-
-<p>As artificial intelligence models grow to billions of parameters, traditional computing architectures face mounting challenges in energy efficiency, processing speed, and hardware scalability.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/advanced-design-for-high%e2%80%91performance-and-ai-chips/">Advanced Design for High‑Performance and AI Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [A New Method to Build More Energy-Efficient Memory Devices for a Sustainable Data Future](https://www.semiconductor-digest.com/a-new-method-to-build-more-energy-efficient-memory-devices-for-a-sustainable-data-future/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-method-to-build-more-energy-efficient-memory-devices-for-a-sustainable-data-future)
-**Published:** Fri, 10 Oct 2025 19:00:55 +0000
-
-<p>Kyushu University researchers succeed in developing a method to build memory devices that can provide high-speed, low-power information rewriting at room temperature.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/a-new-method-to-build-more-energy-efficient-memory-devices-for-a-sustainable-data-future/">A New Method to Build More Energy-Efficient Memory Devices for a Sustainable Data Future</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
