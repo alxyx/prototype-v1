@@ -1,12 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-10 23:46 UTC_
+_Last updated: 2025-11-11 03:52 UTC_
 
-## [Yoram Salinger Appointed CEO of Valens Semiconductor](https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/)
-**Published:** Wed, 05 Nov 2025 23:20:55 +0000
+## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
+**Published:** Tue, 11 Nov 2025 02:40:50 +0000
 
-<p>Valens Semiconductor has appointed Yoram Salinger as its new CEO and board member.</p>
-<p>The post <a href="https://www.eetasia.com/yoram-salinger-appointed-ceo-of-valens-semiconductor/">Yoram Salinger Appointed CEO of Valens Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>ST' latest GaN flyback converters simplify designing and building compact, efficient USB-PD chargers, fast battery chargers, and auxiliary power supplies.</p>
+<p>The post <a href="https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/">ST GaN Flyback Converters Simplify Design, Silence Audible Noise</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Seeed Studio’s Latest Modules Integrate Nordic SoCs for Multiprotocol Wireless Connectivity](https://www.eetasia.com/seeed-studios-latest-modules-integrate-nordic-socs-for-multiprotocol-wireless-connectivity/)
+**Published:** Tue, 11 Nov 2025 02:20:23 +0000
+
+<p>Seeed Studio has launched a new module series based on Nordic Semiconductor's next generation nRF54L15 ultra-low power wireless SoC.</p>
+<p>The post <a href="https://www.eetasia.com/seeed-studios-latest-modules-integrate-nordic-socs-for-multiprotocol-wireless-connectivity/">Seeed Studio&#8217;s Latest Modules Integrate Nordic SoCs for Multiprotocol Wireless Connectivity</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
