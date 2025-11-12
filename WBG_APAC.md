@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-12 15:03 UTC_
+_Last updated: 2025-11-12 16:00 UTC_
 
 ## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
 **Published:** Tue, 11 Nov 2025 02:40:50 +0000
@@ -914,11 +914,11 @@ _Last updated: 2025-11-12 15:03 UTC_
 
 ---
 
-## [MIT finds superconductivity in graphene](https://www.electronicsweekly.com/news/business/mit-finds-superconductivity-in-graphene-2025-11/)
-**Published:** Tue, 11 Nov 2025 06:27:23 +0000
+## [GaN mains PSUs cleared for medical and industrial](https://www.electronicsweekly.com/news/products/power-supplies/gan-mains-psus-cleared-for-medical-and-industrial-2025-11/)
+**Published:** Wed, 12 Nov 2025 15:43:36 +0000
 
-<p>MIT physicists have observed unconventional superconductivity in “magic-angle” twisted tri-layer graphene (MATTG) — a material that is made by stacking three atomically-thin sheets of graphene at a specific angle, or ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/mit-finds-superconductivity-in-graphene-2025-11/">MIT finds superconductivity in graphene</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>XP Power has launched a host of GaN-based plug-in ac-dc power supplies rated between 65W and 140W. The basic types are: PGW65 wall-mount 65W (0.37W/cm3 &#8211; 6.06W/in3) PGW100 wall-mount 100W ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/gan-mains-psus-cleared-for-medical-and-industrial-2025-11/">GaN mains PSUs cleared for medical and industrial</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
