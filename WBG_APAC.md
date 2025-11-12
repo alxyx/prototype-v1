@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-12 14:04 UTC_
+_Last updated: 2025-11-12 15:03 UTC_
 
 ## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
 **Published:** Tue, 11 Nov 2025 02:40:50 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-11-12 14:04 UTC_
 
 <p>Seeed Studio has launched a new module series based on Nordic Semiconductor's next generation nRF54L15 ultra-low power wireless SoC.</p>
 <p>The post <a href="https://www.eetasia.com/seeed-studios-latest-modules-integrate-nordic-socs-for-multiprotocol-wireless-connectivity/">Seeed Studio&#8217;s Latest Modules Integrate Nordic SoCs for Multiprotocol Wireless Connectivity</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Through the Glass: Why the Rapid Development of TGV Demands Rigorous Analysis](https://www.semiconductor-digest.com/through-the-glass-why-the-rapid-development-of-tgv-demands-rigorous-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=through-the-glass-why-the-rapid-development-of-tgv-demands-rigorous-analysis)
+**Published:** Wed, 12 Nov 2025 14:07:05 +0000
+
+<p>Unlocking the full potential of glass core substrates and TGVs are not just about having tools; it is about using them in concert to build a process that is robust, repeatable, and yield optimized. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/through-the-glass-why-the-rapid-development-of-tgv-demands-rigorous-analysis/">Through the Glass: Why the Rapid Development of TGV Demands Rigorous Analysis</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-11-12 14:04 UTC_
 
 <p>The back-end equipment market is undergoing rapid transformation, propelled by advanced packaging, chiplet architectures, and surging demand from HPC, AI, automotive, and 5G applications.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/advanced-packaging-fuels-growth-in-the-semiconductor-back-end-equipment-market/">Advanced Packaging Fuels Growth in the Semiconductor Back-end Equipment Market</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Edwards Vacuum: Transforming the Sub-Fab Through Semiconductor Intelligent Service](https://www.semiconductor-digest.com/edwards-vacuum-transforming-the-sub-fab-through-semiconductor-intelligent-service/?utm_source=rss&utm_medium=rss&utm_campaign=edwards-vacuum-transforming-the-sub-fab-through-semiconductor-intelligent-service)
-**Published:** Sun, 12 Oct 2025 19:32:37 +0000
-
-<p>A semiconductor foundry needs to eliminate the risk of wafer loss from un-planned downtime in the sub-fab.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/edwards-vacuum-transforming-the-sub-fab-through-semiconductor-intelligent-service/">Edwards Vacuum: Transforming the Sub-Fab Through Semiconductor Intelligent Service</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
