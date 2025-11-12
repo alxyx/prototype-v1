@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-12 07:26 UTC_
+_Last updated: 2025-11-12 07:47 UTC_
 
 ## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
 **Published:** Tue, 11 Nov 2025 02:40:50 +0000
@@ -914,17 +914,10 @@ _Last updated: 2025-11-12 07:26 UTC_
 
 ---
 
-## [AI For Detecting Hidden Structural Defects](https://www.electronicsforu.com/news/ai-for-detecting-hidden-structural-defects)
-**Published:** Tue, 11 Nov 2025 07:01:03 +0000
+## [Rhodium Material Strengthens Semiconductor Testing](https://www.electronicsforu.com/news/rhodium-material-strengthens-semiconductor-testing)
+**Published:** Wed, 12 Nov 2025 06:34:26 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/chung-ang-university-r-5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />AI can find hidden cracks inside machines and buildings in real time, helping prevent accidents and keep industries safe. Reliability and safety are crucial in industries like semiconductors, energy, automotive, and steel, where tiny cracks or defects can greatly impact performance. Because these flaws are hidden inside materials, non-destructive testing (NDT) has been used to [&#8230;]
-
----
-
-## [JOB: Verification & Validation Engineer At Emerson In Pune](https://www.electronicsforu.com/career/verification-validation-engineer-emerson-pune)
-**Published:** Mon, 10 Nov 2025 10:18:21 +0000
-
-<img alt="Electrical &amp; Automation Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/Emerson-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Emerson Responsibilities Who Are You You readily take action on challenges, without unnecessary planning. You work cooperatively with others across the organization to achieve shared objectives. You break down objectives into appropriate initiatives and actions. You follow through on commitments. You understand internal and external stakeholder requirements, expectations, and needs. [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/2-1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new rhodium-based material combines exceptional strength, elasticity, and conductivity to enhance probe pin performance and extend the life of semiconductor testing systems. As semiconductor devices shrink and integrate more densely packed circuits, testing precision and reliability have become critical at the wafer level. To address the mechanical limits of existing probe pin materials, a [&#8230;]
 
 ---
 
