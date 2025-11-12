@@ -17,7 +17,7 @@ _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 
 <style>
 .scroll-container {
-  width: 400px;          /* Adjust width */
+  width: 1200px;          /* Adjust width */
   height: 150px;         /* Fixed height for scrolling */
   overflow: hidden;      /* Hide scrollbar for smooth effect */
   border: 1px solid #aaa;
