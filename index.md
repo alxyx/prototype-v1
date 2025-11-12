@@ -16,7 +16,7 @@ _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 
 <style>
 .scroll-container {
-  width: 1000px;          /* Adjust width */
+  width: 800px;          /* Adjust width */
   height: 150px;         /* Fixed height for scrolling */
   overflow: hidden;      /* Hide scrollbar for smooth effect */
   border: 1px solid #aaa;
@@ -31,15 +31,27 @@ _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 
 <script>
 const container = document.querySelector('.scroll-container');
-let scrollSpeed = 0.5; // Adjust speed (pixels per frame)
+let scrollSpeed = 0.5; // pixels per frame
+let isPaused = false;
 
 function autoScroll() {
-  container.scrollTop += scrollSpeed;
-  if (container.scrollTop >= container.scrollHeight - container.clientHeight) {
-    container.scrollTop = 0; // Reset to top for continuous loop
+  if (!isPaused) {
+    container.scrollTop += scrollSpeed;
+    if (container.scrollTop >= container.scrollHeight - container.clientHeight) {
+      container.scrollTop = 0; // Reset to top
+    }
   }
   requestAnimationFrame(autoScroll);
 }
+
+// Pause on hover
+container.addEventListener('mouseenter', () => {
+  isPaused = true;
+});
+
+container.addEventListener('mouseleave', () => {
+  isPaused = false;
+});
 
 autoScroll();
 </script>
