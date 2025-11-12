@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-12 08:29 UTC_
+_Last updated: 2025-11-12 08:46 UTC_
 
 ## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
 **Published:** Tue, 11 Nov 2025 02:40:50 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-11-12 08:29 UTC_
 
 ---
 
+## [Understanding Energy Loss Mechanisms in Soft Magnetic Materials](https://www.powerelectronicsnews.com/understanding-energy-loss-mechanisms-in-soft-magnetic-materials/)
+**Published:** Wed, 12 Nov 2025 08:37:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="952" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Cover-Image.png?fit=1664%2C952" style="display: block; margin-bottom: 5px; clear: both;" width="1664" /><p>A research team at at Tokyo University of Science developed a wide-band, high-sensitivity Barkhausen noise measurement system.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/understanding-energy-loss-mechanisms-in-soft-magnetic-materials/">Understanding Energy Loss Mechanisms in Soft Magnetic Materials</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Ferroelectric Innovation Shatters Performance Barriers in GaN Power Electronics](https://www.powerelectronicsnews.com/ferroelectric-innovation-shatters-performance-barriers-in-gan-power-electronics/)
 **Published:** Tue, 11 Nov 2025 09:17:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-11-12 08:29 UTC_
 
 <img alt="Würth Elektronik Expands MagI³C-VDMM Line with Compact High-Efficiency Step-Down MicroModules." class="webfeedsFeaturedVisual wp-post-image" height="2400" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/wth1pi1745_01.png?fit=2400%2C2400" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The MagI³C-VDMM modules integrate a switching regulator, MOSFETs, controller, compensation, and a shielded inductor into one compact DC-DC power module.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/wurth-elektronik-expands-magi%c2%b3c-vdmm-line-with-compact-high-efficiency-step-down-micromodules/">Würth Elektronik Expands MagI³C-VDMM Line with Compact High-Efficiency Step-Down MicroModules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Veeco Secures New Propel®300 Order for 300mm GaN Power Semiconductor Production](https://www.powerelectronicsnews.com/veeco-secures-new-propel300-order-for-300mm-gan-power-semiconductor-production/)
-**Published:** Wed, 05 Nov 2025 20:45:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="639" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/03/SemiconductorWafer.jpg?fit=1000%2C639" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>It addresses the fast-rising GaN market as power efficiency demands increase across data centers, industrial equipment, and automotive applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/veeco-secures-new-propel300-order-for-300mm-gan-power-semiconductor-production/">Veeco Secures New Propel®300 Order for 300mm GaN Power Semiconductor Production</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
