@@ -8,7 +8,13 @@ _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 
 <div class="scroll-container">
   <div class="feed-item" style="border: 1px solid #ccc; padding: 15px; margin: 20px 0; border-radius: 8px;">
-   ## [Emerging Trends in Wide Band Gap Semiconductors](https://www.eletimes.ai/emerging-trends-in-wide-band-gap-semiconductors-sic-and-gan-technology-for-automotive-and-energy-saving-applications)
+
+<h2>
+  https://www.eletimes.ai/emerging-trends-in-wide-band-gap-semiconductors-sic-and-gan-technology-for-automotive-and-energy-saving-applications
+    Emerging Trends in Wide Band Gap Semiconductors
+  </a>
+</h2>
+
     <p><strong>Summary:</strong> Explore how SiC and GaN technologies are transforming automotive and energy-saving applications. This article discusses the latest innovations and market trends in WBG semiconductors.</p>
   </div>
 </div>
