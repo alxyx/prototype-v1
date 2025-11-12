@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-12 19:43 UTC_
+_Last updated: 2025-11-12 20:56 UTC_
 
 ## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
 **Published:** Tue, 11 Nov 2025 02:40:50 +0000
@@ -15,6 +15,30 @@ _Last updated: 2025-11-12 19:43 UTC_
 
 <p>Seeed Studio has launched a new module series based on Nordic Semiconductor's next generation nRF54L15 ultra-low power wireless SoC.</p>
 <p>The post <a href="https://www.eetasia.com/seeed-studios-latest-modules-integrate-nordic-socs-for-multiprotocol-wireless-connectivity/">Seeed Studio&#8217;s Latest Modules Integrate Nordic SoCs for Multiprotocol Wireless Connectivity</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Tower Semiconductor Announces New CPO Foundry Technology](https://www.semiconductor-digest.com/tower-semiconductor-announces-new-cpo-foundry-technology/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-announces-new-cpo-foundry-technology)
+**Published:** Wed, 12 Nov 2025 20:24:37 +0000
+
+<p>Tower’s wafer-scale 3D-IC technology unlocks integration of SiPho and EIC processes for emerging applications such as Co-Packaged Optics, including full support by Cadence design tools to the stacked platform technology.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-announces-new-cpo-foundry-technology/">Tower Semiconductor Announces New CPO Foundry Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SK keyfoundry Accelerates Development of SiC-Based Compound Power Semiconductor Technology](https://www.semiconductor-digest.com/sk-keyfoundry-accelerates-development-of-sic-based-compound-power-semiconductor-technology/?utm_source=rss&utm_medium=rss&utm_campaign=sk-keyfoundry-accelerates-development-of-sic-based-compound-power-semiconductor-technology)
+**Published:** Wed, 12 Nov 2025 20:11:02 +0000
+
+<p>SK keyfoundry, an 8-inch pure-play foundry in Korea, announced that it is accelerating the development of SiC (Silicon Carbide)-based compound power semiconductor technology, bolstering its efforts into the global power semiconductor market.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sk-keyfoundry-accelerates-development-of-sic-based-compound-power-semiconductor-technology/">SK keyfoundry Accelerates Development of SiC-Based Compound Power Semiconductor Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Graphene-Based Solar Cells Used to Power Temperature Sensors](https://www.semiconductor-digest.com/graphene-based-solar-cells-used-to-power-temperature-sensors/?utm_source=rss&utm_medium=rss&utm_campaign=graphene-based-solar-cells-used-to-power-temperature-sensors)
+**Published:** Wed, 12 Nov 2025 20:03:41 +0000
+
+<p>Tests confirm graphene-based energy harvesters can use ambient energy to run ultra-low power sensors — the first hurdle in developing autonomous sensor systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/graphene-based-solar-cells-used-to-power-temperature-sensors/">Graphene-Based Solar Cells Used to Power Temperature Sensors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,30 +815,6 @@ _Last updated: 2025-11-12 19:43 UTC_
 
 <p>University of Missouri researchers use artificial intelligence to detect hidden hardware trojans through a method that’s 97% accurate.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/new-ai-powered-method-helps-protect-global-chip-supply-chains-from-cyber-threats/">New AI-Powered Method Helps Protect Global Chip Supply Chains from Cyber Threats</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Did You Miss a SEMICON West Show Daily?](https://www.semiconductor-digest.com/did-you-miss-a-semicon-west-show-daily/?utm_source=rss&utm_medium=rss&utm_campaign=did-you-miss-a-semicon-west-show-daily)
-**Published:** Tue, 14 Oct 2025 16:38:03 +0000
-
-<p>Each day is filled with news and articles surrounding the Phoenix debut and all the latest industry news!  Catch up on all the issues here.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/did-you-miss-a-semicon-west-show-daily/">Did You Miss a SEMICON West Show Daily?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lam Research Receives 2025 SEMI Award for North America](https://www.semiconductor-digest.com/lam-research-receives-2025-semi-award-for-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-receives-2025-semi-award-for-north-america)
-**Published:** Sun, 12 Oct 2025 20:13:04 +0000
-
-<p>Lam earned the recognition for its cryogenic etch technology, a breakthrough innovation that advances 3D NAND device manufacturing essential for today’s data-intensive AI applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lam-research-receives-2025-semi-award-for-north-america/">Lam Research Receives 2025 SEMI Award for North America</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Advanced Packaging Fuels Growth in the Semiconductor Back-end Equipment Market](https://www.semiconductor-digest.com/advanced-packaging-fuels-growth-in-the-semiconductor-back-end-equipment-market/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-packaging-fuels-growth-in-the-semiconductor-back-end-equipment-market)
-**Published:** Sun, 12 Oct 2025 20:05:20 +0000
-
-<p>The back-end equipment market is undergoing rapid transformation, propelled by advanced packaging, chiplet architectures, and surging demand from HPC, AI, automotive, and 5G applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/advanced-packaging-fuels-growth-in-the-semiconductor-back-end-equipment-market/">Advanced Packaging Fuels Growth in the Semiconductor Back-end Equipment Market</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
