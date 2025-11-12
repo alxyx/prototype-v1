@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-12 11:50 UTC_
+_Last updated: 2025-11-12 14:04 UTC_
 
 ## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
 **Published:** Tue, 11 Nov 2025 02:40:50 +0000
@@ -895,6 +895,14 @@ _Last updated: 2025-11-12 11:50 UTC_
 
 <img alt="Würth Elektronik Expands MagI³C-VDMM Line with Compact High-Efficiency Step-Down MicroModules." class="webfeedsFeaturedVisual wp-post-image" height="2400" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/wth1pi1745_01.png?fit=2400%2C2400" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The MagI³C-VDMM modules integrate a switching regulator, MOSFETs, controller, compensation, and a shielded inductor into one compact DC-DC power module.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/wurth-elektronik-expands-magi%c2%b3c-vdmm-line-with-compact-high-efficiency-step-down-micromodules/">Würth Elektronik Expands MagI³C-VDMM Line with Compact High-Efficiency Step-Down MicroModules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Designing Multi-Phase Converters for High-Current Applications](https://www.eetimes.com/designing-multi-phase-converters-for-high-current-applications/)
+**Published:** Wed, 12 Nov 2025 14:00:00 +0000
+
+<p>High-end FPGAs/ASICs require precise voltage regulation and high current. Multi-phase converters provide precise voltage regulation with high current capabilities. </p>
+<p>The post <a href="https://www.eetimes.com/designing-multi-phase-converters-for-high-current-applications/">Designing Multi-Phase Converters for High-Current Applications</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
