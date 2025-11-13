@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-13 09:06 UTC_
+_Last updated: 2025-11-13 09:54 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-11-13 09:06 UTC_
 
 ---
 
+## [The $1.5 Trillion Bet Reshaping the Semiconductor Industry](https://www.powerelectronicsnews.com/the-1-5-trillion-bet-reshaping-the-semiconductor-industry/)
+**Published:** Thu, 13 Nov 2025 09:42:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="779" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/04/shutterstock_433269313.jpg?fit=1000%2C779" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The investment projection ultimately reflects the semiconductor industry’s role in enabling technological progress across multiple sectors.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-1-5-trillion-bet-reshaping-the-semiconductor-industry/">The $1.5 Trillion Bet Reshaping the Semiconductor Industry</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Understanding Energy Loss Mechanisms in Soft Magnetic Materials](https://www.powerelectronicsnews.com/understanding-energy-loss-mechanisms-in-soft-magnetic-materials/)
 **Published:** Wed, 12 Nov 2025 08:37:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-11-13 09:06 UTC_
 
 <img alt="Infineon and SolarEdge Partner to Advance High-Efficiency Power Infrastructure for Next-Gen AI Data Centers." class="webfeedsFeaturedVisual wp-post-image" height="975" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/infineon-cmo-andreas-urschitz.jpg?fit=1500%2C975" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>The partnership focuses on progressing next-generation, high-performance Solid-State Transformer (SST) architectures aimed at meeting the power demands of AI and hyperscale data center environments.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/infineon-and-solaredge-partner-to-advance-high-efficiency-power-infrastructure-for-next-gen-ai-data-centers/">Infineon and SolarEdge Partner to Advance High-Efficiency Power Infrastructure for Next-Gen AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Würth Elektronik Expands MagI³C-VDMM Line with Compact High-Efficiency Step-Down MicroModules](https://www.powerelectronicsnews.com/wurth-elektronik-expands-magi%c2%b3c-vdmm-line-with-compact-high-efficiency-step-down-micromodules/)
-**Published:** Wed, 05 Nov 2025 21:15:00 +0000
-
-<img alt="Würth Elektronik Expands MagI³C-VDMM Line with Compact High-Efficiency Step-Down MicroModules." class="webfeedsFeaturedVisual wp-post-image" height="2400" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/wth1pi1745_01.png?fit=2400%2C2400" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The MagI³C-VDMM modules integrate a switching regulator, MOSFETs, controller, compensation, and a shielded inductor into one compact DC-DC power module.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wurth-elektronik-expands-magi%c2%b3c-vdmm-line-with-compact-high-efficiency-step-down-micromodules/">Würth Elektronik Expands MagI³C-VDMM Line with Compact High-Efficiency Step-Down MicroModules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
