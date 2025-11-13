@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-13 19:40 UTC_
+_Last updated: 2025-11-13 20:54 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
@@ -18,11 +18,19 @@ _Last updated: 2025-11-13 19:40 UTC_
 
 ---
 
-## [3D-Micromac Introduces Next-Generation Laser Sample Preparation Platform  for Whole Semiconductor Wafer and System-Level Failure Analysis](https://www.semiconductor-digest.com/3d-micromac-introduces-next-generation-laser-sample-preparation-platform-for-whole-semiconductor-wafer-and-system-level-failure-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=3d-micromac-introduces-next-generation-laser-sample-preparation-platform-for-whole-semiconductor-wafer-and-system-level-failure-analysis)
+## [Micron Ships Automotive UFS 4.1, Designed to Unlock Intelligent Mobility With Speed, Safety and Reliability](https://www.semiconductor-digest.com/micron-ships-automotive-ufs-4-1-designed-to-unlock-intelligent-mobility-with-speed-safety-and-reliability/?utm_source=rss&utm_medium=rss&utm_campaign=micron-ships-automotive-ufs-4-1-designed-to-unlock-intelligent-mobility-with-speed-safety-and-reliability)
+**Published:** Thu, 13 Nov 2025 20:14:46 +0000
+
+<p>Micron Technology, Inc. today announced shipping of qualification samples of its automotive universal flash storage (UFS) 4.1 solution to customers worldwide, enabling rapid data access, robust reliability and enhanced safety and security for next-generation vehicles.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-ships-automotive-ufs-4-1-designed-to-unlock-intelligent-mobility-with-speed-safety-and-reliability/">Micron Ships Automotive UFS 4.1, Designed to Unlock Intelligent Mobility With Speed, Safety and Reliability</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [3D-Micromac Introduces Next-Generation Laser Sample Preparation Platform](https://www.semiconductor-digest.com/3d-micromac-introduces-next-generation-laser-sample-preparation-platform-for-whole-semiconductor-wafer-and-system-level-failure-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=3d-micromac-introduces-next-generation-laser-sample-preparation-platform-for-whole-semiconductor-wafer-and-system-level-failure-analysis)
 **Published:** Thu, 13 Nov 2025 19:17:56 +0000
 
 <p>microPREP L delivers unmatched sample size scalability, high throughput and precision, and automation-ready workflows for advanced semiconductor failure analysis.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/3d-micromac-introduces-next-generation-laser-sample-preparation-platform-for-whole-semiconductor-wafer-and-system-level-failure-analysis/">3D-Micromac Introduces Next-Generation Laser Sample Preparation Platform  for Whole Semiconductor Wafer and System-Level Failure Analysis</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/3d-micromac-introduces-next-generation-laser-sample-preparation-platform-for-whole-semiconductor-wafer-and-system-level-failure-analysis/">3D-Micromac Introduces Next-Generation Laser Sample Preparation Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,11 +818,11 @@ _Last updated: 2025-11-13 19:40 UTC_
 
 ---
 
-## [CGD Partners with GlobalFoundries to Supply Single Chip ICeGaN Power Devices](https://www.semiconductor-digest.com/cgd-partners-with-globalfoundries-to-supply-single-chip-icegan-power-devices/?utm_source=rss&utm_medium=rss&utm_campaign=cgd-partners-with-globalfoundries-to-supply-single-chip-icegan-power-devices)
-**Published:** Tue, 14 Oct 2025 20:30:18 +0000
+## [PowerAmerica Institute Launches 2025 Request for Proposals to Advance Wide Bandgap Semiconductor Technologies](https://www.powerelectronicsnews.com/poweramerica-institute-launches-2025-request-for-proposals-to-advance-wide-bandgap-semiconductor-technologies/)
+**Published:** Thu, 13 Nov 2025 20:00:00 +0000
 
-<p>Partnership will support rapidly growing applications to benefit from CGD’s sustainable, energy-efficient ICeGaN technology.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cgd-partners-with-globalfoundries-to-supply-single-chip-icegan-power-devices/">CGD Partners with GlobalFoundries to Supply Single Chip ICeGaN Power Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="PowerAmerica Institute Launches 2025 Request for Proposals to Advance Wide Bandgap Semiconductor Technologies." class="webfeedsFeaturedVisual wp-post-image" height="1157" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/PXL_20250325_174004930-1536x1157-1.jpg?fit=1536%2C1157" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>PowerAmerica Institute has announced its 2025 Request for Proposals (RFP) to accelerate the development and commercialization of wide bandgap (WBG) semiconductor technologies.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/poweramerica-institute-launches-2025-request-for-proposals-to-advance-wide-bandgap-semiconductor-technologies/">PowerAmerica Institute Launches 2025 Request for Proposals to Advance Wide Bandgap Semiconductor Technologies</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -887,14 +895,6 @@ _Last updated: 2025-11-13 19:40 UTC_
 
 <img alt="Examples of a towable RV (left) and a motorized RV (right)." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Dragonfly_RV_image.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The system from Dragonfly Energy enables kilowatt-level, high-voltage power transfer from towing vehicles to trailers.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/dragonfly-energy-secures-patent-for-kilowatt-level-vehicle-to-trailer-charging-technology/">Dragonfly Energy Secures Patent for Kilowatt-Level Vehicle-to-Trailer Charging Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Infineon and SolarEdge Partner to Advance High-Efficiency Power Infrastructure for Next-Gen AI Data Centers](https://www.powerelectronicsnews.com/infineon-and-solaredge-partner-to-advance-high-efficiency-power-infrastructure-for-next-gen-ai-data-centers/)
-**Published:** Wed, 05 Nov 2025 21:45:00 +0000
-
-<img alt="Infineon and SolarEdge Partner to Advance High-Efficiency Power Infrastructure for Next-Gen AI Data Centers." class="webfeedsFeaturedVisual wp-post-image" height="975" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/infineon-cmo-andreas-urschitz.jpg?fit=1500%2C975" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>The partnership focuses on progressing next-generation, high-performance Solid-State Transformer (SST) architectures aimed at meeting the power demands of AI and hyperscale data center environments.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-and-solaredge-partner-to-advance-high-efficiency-power-infrastructure-for-next-gen-ai-data-centers/">Infineon and SolarEdge Partner to Advance High-Efficiency Power Infrastructure for Next-Gen AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
