@@ -1,20 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-12 23:46 UTC_
+_Last updated: 2025-11-13 03:53 UTC_
 
-## [ST GaN Flyback Converters Simplify Design, Silence Audible Noise](https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/)
-**Published:** Tue, 11 Nov 2025 02:40:50 +0000
+## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
+**Published:** Thu, 13 Nov 2025 03:17:46 +0000
 
-<p>ST' latest GaN flyback converters simplify designing and building compact, efficient USB-PD chargers, fast battery chargers, and auxiliary power supplies.</p>
-<p>The post <a href="https://www.eetasia.com/st-gan-flyback-converters-simplify-design-silence-audible-noise/">ST GaN Flyback Converters Simplify Design, Silence Audible Noise</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>SK keyfoundry is accelerating the development of SiC-based compound power semiconductor technology with its acquisition of SK powertech.</p>
+<p>The post <a href="https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/">SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
-## [Seeed Studio’s Latest Modules Integrate Nordic SoCs for Multiprotocol Wireless Connectivity](https://www.eetasia.com/seeed-studios-latest-modules-integrate-nordic-socs-for-multiprotocol-wireless-connectivity/)
-**Published:** Tue, 11 Nov 2025 02:20:23 +0000
+## [Technology Ecosystem Critical for Success of Physical AI](https://www.eetasia.com/technology-ecosystem-critical-for-success-of-physical-ai/)
+**Published:** Thu, 13 Nov 2025 02:39:58 +0000
 
-<p>Seeed Studio has launched a new module series based on Nordic Semiconductor's next generation nRF54L15 ultra-low power wireless SoC.</p>
-<p>The post <a href="https://www.eetasia.com/seeed-studios-latest-modules-integrate-nordic-socs-for-multiprotocol-wireless-connectivity/">Seeed Studio&#8217;s Latest Modules Integrate Nordic SoCs for Multiprotocol Wireless Connectivity</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Robotics is entering the era of physical AI, where smarter, safer machines work alongside humans—driven by advances in AI, safety, and silicon ecosystems.</p>
+<p>The post <a href="https://www.eetasia.com/technology-ecosystem-critical-for-success-of-physical-ai/">Technology Ecosystem Critical for Success of Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
