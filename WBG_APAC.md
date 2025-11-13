@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-13 19:08 UTC_
+_Last updated: 2025-11-13 19:40 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
@@ -15,6 +15,22 @@ _Last updated: 2025-11-13 19:08 UTC_
 
 <p>Robotics is entering the era of physical AI, where smarter, safer machines work alongside humans—driven by advances in AI, safety, and silicon ecosystems.</p>
 <p>The post <a href="https://www.eetasia.com/technology-ecosystem-critical-for-success-of-physical-ai/">Technology Ecosystem Critical for Success of Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [3D-Micromac Introduces Next-Generation Laser Sample Preparation Platform  for Whole Semiconductor Wafer and System-Level Failure Analysis](https://www.semiconductor-digest.com/3d-micromac-introduces-next-generation-laser-sample-preparation-platform-for-whole-semiconductor-wafer-and-system-level-failure-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=3d-micromac-introduces-next-generation-laser-sample-preparation-platform-for-whole-semiconductor-wafer-and-system-level-failure-analysis)
+**Published:** Thu, 13 Nov 2025 19:17:56 +0000
+
+<p>microPREP L delivers unmatched sample size scalability, high throughput and precision, and automation-ready workflows for advanced semiconductor failure analysis.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/3d-micromac-introduces-next-generation-laser-sample-preparation-platform-for-whole-semiconductor-wafer-and-system-level-failure-analysis/">3D-Micromac Introduces Next-Generation Laser Sample Preparation Platform  for Whole Semiconductor Wafer and System-Level Failure Analysis</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Photolithography Materials Market Growth](https://www.semiconductor-digest.com/photolithography-materials-market-growth/?utm_source=rss&utm_medium=rss&utm_campaign=photolithography-materials-market-growth)
+**Published:** Thu, 13 Nov 2025 19:09:49 +0000
+
+<p>Continuing growth of EUV and advanced node demand.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/photolithography-materials-market-growth/">Photolithography Materials Market Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2025-11-13 19:08 UTC_
 
 <p>Partnership will support rapidly growing applications to benefit from CGD’s sustainable, energy-efficient ICeGaN technology.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/cgd-partners-with-globalfoundries-to-supply-single-chip-icegan-power-devices/">CGD Partners with GlobalFoundries to Supply Single Chip ICeGaN Power Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Open Compute Project Expands Open Chiplet Economy Ecosystem](https://www.semiconductor-digest.com/open-compute-project-expands-open-chiplet-economy-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=open-compute-project-expands-open-chiplet-economy-ecosystem)
-**Published:** Tue, 14 Oct 2025 20:22:21 +0000
-
-<p>New contributions to OCP include Foundation Chiplet System Architecture (FCSA) and BoW 2.0 for memory-intensive AI and HPC workloads.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/open-compute-project-expands-open-chiplet-economy-ecosystem/">Open Compute Project Expands Open Chiplet Economy Ecosystem</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New AI-Powered Method Helps Protect Global Chip Supply Chains from Cyber Threats](https://www.semiconductor-digest.com/new-ai-powered-method-helps-protect-global-chip-supply-chains-from-cyber-threats/?utm_source=rss&utm_medium=rss&utm_campaign=new-ai-powered-method-helps-protect-global-chip-supply-chains-from-cyber-threats)
-**Published:** Tue, 14 Oct 2025 20:17:07 +0000
-
-<p>University of Missouri researchers use artificial intelligence to detect hidden hardware trojans through a method that’s 97% accurate.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-ai-powered-method-helps-protect-global-chip-supply-chains-from-cyber-threats/">New AI-Powered Method Helps Protect Global Chip Supply Chains from Cyber Threats</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
