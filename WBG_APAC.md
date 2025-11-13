@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-13 07:09 UTC_
+_Last updated: 2025-11-13 07:48 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
@@ -922,10 +922,17 @@ _Last updated: 2025-11-13 07:09 UTC_
 
 ---
 
-## [Rhodium Material Strengthens Semiconductor Testing](https://www.electronicsforu.com/news/rhodium-material-strengthens-semiconductor-testing)
-**Published:** Wed, 12 Nov 2025 06:34:26 +0000
+## [PyTorch Is Ready, But Is Embedded AI?](https://www.electronicsforu.com/news/pytorch-is-ready-but-is-embedded-ai)
+**Published:** Wed, 12 Nov 2025 13:08:03 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/2-1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new rhodium-based material combines exceptional strength, elasticity, and conductivity to enhance probe pin performance and extend the life of semiconductor testing systems. As semiconductor devices shrink and integrate more densely packed circuits, testing precision and reliability have become critical at the wafer level. To address the mechanical limits of existing probe pin materials, a [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/Screenshot-2025-11-12-183628-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Cloud-scale AI has found its way into the tiniest chips, but the real challenge lies not in training models; it is in running them on devices that cannot rely on cloud power. Here is how an open-source shift led by Meta, Arm, and Alif Semiconductor is redefining what is possible on the edge. AI is [&#8230;]
+
+---
+
+## [JOB: Testing & Validation Engineer – EV At Vecmocon In Pune](https://www.electronicsforu.com/career/testing-validation-engineer-ev-vecmocon-pune)
+**Published:** Wed, 12 Nov 2025 11:29:32 +0000
+
+<img alt="Lead Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/jobs-shutterstock-ubj750-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Vecmocon About The Job The Testing &#38; Validation Engineer will be responsible for testing and integration of electric vehicle sub-systems. The ideal candidate should have strong basics of electrical engineering, as well as hands-on experience with testing them. The engineer will work closely with other members of the R&#38;D team [&#8230;]
 
 ---
 
