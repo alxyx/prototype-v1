@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-13 20:54 UTC_
+_Last updated: 2025-11-13 21:44 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
@@ -15,6 +15,22 @@ _Last updated: 2025-11-13 20:54 UTC_
 
 <p>Robotics is entering the era of physical AI, where smarter, safer machines work alongside humans—driven by advances in AI, safety, and silicon ecosystems.</p>
 <p>The post <a href="https://www.eetasia.com/technology-ecosystem-critical-for-success-of-physical-ai/">Technology Ecosystem Critical for Success of Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [The 2026 IEEE/JSAP Symposium on VLSI Technology & Circuits Announces Call for Workshop Submissions](https://www.semiconductor-digest.com/the-2026-ieee-jsap-symposium-on-vlsi-technology-circuits-announces-call-for-workshop-submissions/?utm_source=rss&utm_medium=rss&utm_campaign=the-2026-ieee-jsap-symposium-on-vlsi-technology-circuits-announces-call-for-workshop-submissions)
+**Published:** Thu, 13 Nov 2025 21:28:22 +0000
+
+<p>The 2026 IEEE/JSAP Symposium on VLSI Technology &#038; Circuits has announced a Call for Workshop topics in support of the conference theme: “Advancing the AI Frontier Through VLSI Innovation.”</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-2026-ieee-jsap-symposium-on-vlsi-technology-circuits-announces-call-for-workshop-submissions/">The 2026 IEEE/JSAP Symposium on VLSI Technology &#038; Circuits Announces Call for Workshop Submissions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [IonQ, AMD and Qualcomm Ventures Join Classiq Strategic Up-Round](https://www.semiconductor-digest.com/ionq-amd-and-qualcomm-ventures-join-classiq-strategic-up-round/?utm_source=rss&utm_medium=rss&utm_campaign=ionq-amd-and-qualcomm-ventures-join-classiq-strategic-up-round)
+**Published:** Thu, 13 Nov 2025 21:25:39 +0000
+
+<p>The additional tens of millions in strategic funding bring Classiq’s total funding to over $200 million, reflecting confidence from global technology and finance leaders in its enterprise-grade quantum software platform.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ionq-amd-and-qualcomm-ventures-join-classiq-strategic-up-round/">IonQ, AMD and Qualcomm Ventures Join Classiq Strategic Up-Round</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2025-11-13 20:54 UTC_
 
 <p>The GEC is a strategic leadership group of SEMI member companies and partners that guides industry-wide initiatives in smart manufacturing.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/inficon-announces-appointment-of-john-behnke-as-co-chair-of-semi-smart-manufacturing-global-executive-committee/">INFICON Announces Appointment of John Behnke as Co-Chair of SEMI Smart Manufacturing Global Executive Committee</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Veeco Receives Multiple Lumina Systems Order from Leading Optical Communications Laser Manufacture](https://www.semiconductor-digest.com/veeco-receives-multiple-lumina-systems-order-from-leading-optical-communications-laser-manufacture/?utm_source=rss&utm_medium=rss&utm_campaign=veeco-receives-multiple-lumina-systems-order-from-leading-optical-communications-laser-manufacture)
-**Published:** Tue, 14 Oct 2025 21:10:27 +0000
-
-<p>Veeco Instruments Inc. today announced that a optical communications laser manufacturer placed an order for multiple Lumina metal organic chemical vapor deposition (MOCVD) systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/veeco-receives-multiple-lumina-systems-order-from-leading-optical-communications-laser-manufacture/">Veeco Receives Multiple Lumina Systems Order from Leading Optical Communications Laser Manufacture</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Foundation, in Partnership with NSF, Opens National RFP for Regional Nodes to Advance Microelectronics Workforce Development](https://www.semiconductor-digest.com/semi-foundation-in-partnership-with-nsf-opens-national-rfp-for-regional-nodes-to-advance-microelectronics-workforce-development/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-in-partnership-with-nsf-opens-national-rfp-for-regional-nodes-to-advance-microelectronics-workforce-development)
-**Published:** Tue, 14 Oct 2025 21:03:43 +0000
-
-<p>The SEMI Foundation today announced the official opening of the Regional Node Request for Proposals (RFP) for the National Network for Microelectronics Education (NNME), a national initiative funded by the U.S. National Science Foundation (NSF) to accelerate, expand, and improve microelectronics talent development across the United States. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-foundation-in-partnership-with-nsf-opens-national-rfp-for-regional-nodes-to-advance-microelectronics-workforce-development/">SEMI Foundation, in Partnership with NSF, Opens National RFP for Regional Nodes to Advance Microelectronics Workforce Development</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
