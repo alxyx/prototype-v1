@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-13 05:55 UTC_
+_Last updated: 2025-11-13 07:09 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
