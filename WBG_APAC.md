@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-13 11:46 UTC_
+_Last updated: 2025-11-13 14:00 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
@@ -911,6 +911,14 @@ _Last updated: 2025-11-13 11:46 UTC_
 
 <p>Arm acquires DreamBig Semiconductor to supercharge its AI chip ambitions.</p>
 <p>The post <a href="https://www.eetimes.com/arms-dreambig-acquisition-reignites-in-house-chip-prospects/">Arm’s DreamBig Acquisition Reignites In-house Chip Prospects</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [DigiKey to stock Silanna Plural ADCs](https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/digikey-to-stock-silanna-plural-adcs-2025-11/)
+**Published:** Thu, 13 Nov 2025 11:39:53 +0000
+
+<p>DigiKey has signed a distribution agreement with Silanna Semiconductor, adding its 10- to 16-bit Plural ADCs to its portfolio. Using a standard base design, the ADCs are factory-configurable using the ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/digikey-to-stock-silanna-plural-adcs-2025-11/">DigiKey to stock Silanna Plural ADCs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
