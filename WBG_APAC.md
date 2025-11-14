@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-14 09:09 UTC_
+_Last updated: 2025-11-14 09:58 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-11-14 09:09 UTC_
 
 ---
 
+## [A Deeper Dive into Diamond in Power Electronics](https://www.powerelectronicsnews.com/a-deeper-dive-into-diamond-in-power-electronics/)
+**Published:** Fri, 14 Nov 2025 09:52:00 +0000
+
+<img alt="Embedded PCB packaging of WBG Power Electronics." class="webfeedsFeaturedVisual wp-post-image" height="577" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/09/Embedded_PCB.jpg?fit=1000%2C577" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Diamond can provide significant theoretical advantages over WBG devices made from SiC or GaN.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/a-deeper-dive-into-diamond-in-power-electronics/">A Deeper Dive into Diamond in Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [PowerAmerica Institute Launches 2025 Request for Proposals to Advance Wide Bandgap Semiconductor Technologies](https://www.powerelectronicsnews.com/poweramerica-institute-launches-2025-request-for-proposals-to-advance-wide-bandgap-semiconductor-technologies/)
 **Published:** Thu, 13 Nov 2025 20:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-11-14 09:09 UTC_
 
 <img alt="ROHM’s EcoGaN™ Power Stage IC Powers Next-Generation MSI Gaming Laptop Adapters Through Collaboration With Delta Electronics." class="webfeedsFeaturedVisual wp-post-image" height="479" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/MSI.png?fit=800%2C479" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>The AC adapter designed by Delta Electronics incorporates ROHM’s EcoGaN™ power stage IC BM3G005MUV-LB, noted for its high-speed switching performance and low ON resistance.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/rohms-ecogan-power-stage-ic-powers-next-generation-msi-gaming-laptop-adapters-through-collaboration-with-delta-electronics/">ROHM’s EcoGaN™ Power Stage IC Powers Next-Generation MSI Gaming Laptop Adapters Through Collaboration With Delta Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Dragonfly Energy Secures Patent for Kilowatt-Level Vehicle-to-Trailer Charging Technology](https://www.powerelectronicsnews.com/dragonfly-energy-secures-patent-for-kilowatt-level-vehicle-to-trailer-charging-technology/)
-**Published:** Thu, 06 Nov 2025 08:15:00 +0000
-
-<img alt="Examples of a towable RV (left) and a motorized RV (right)." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Dragonfly_RV_image.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The system from Dragonfly Energy enables kilowatt-level, high-voltage power transfer from towing vehicles to trailers.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/dragonfly-energy-secures-patent-for-kilowatt-level-vehicle-to-trailer-charging-technology/">Dragonfly Energy Secures Patent for Kilowatt-Level Vehicle-to-Trailer Charging Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
