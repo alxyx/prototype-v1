@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-14 05:54 UTC_
+_Last updated: 2025-11-14 07:08 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
@@ -914,19 +914,27 @@ _Last updated: 2025-11-14 05:54 UTC_
 
 ---
 
+## [£5m for CHERI commercialisation](https://www.electronicsweekly.com/news/business/5m-for-cheri-commercialisation-2025-11/)
+**Published:** Fri, 14 Nov 2025 07:00:57 +0000
+
+<p>EnSilica, the mixed-signal ASIC specialist, has been awarded a £5 million ($6.6m USD) ‘Contract for Innovation’ by the UK Government’s Department for Science, Innovation and Technology (DSIT). The funding furthers ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/5m-for-cheri-commercialisation-2025-11/">£5m for CHERI commercialisation</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Tablets cooling](https://www.electronicsweekly.com/news/business/tablets-cooling-2025-11/)
+**Published:** Fri, 14 Nov 2025 06:11:14 +0000
+
+<p>Following six consecutive quarters of growth the tablet market began to show signs of cooling in Q3 with a y-o-y drop of 4.4% to 38 million units says IDC. Apple ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/tablets-cooling-2025-11/">Tablets cooling</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [DigiKey to stock Silanna Plural ADCs](https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/digikey-to-stock-silanna-plural-adcs-2025-11/)
 **Published:** Thu, 13 Nov 2025 11:39:53 +0000
 
 <p>DigiKey has signed a distribution agreement with Silanna Semiconductor, adding its 10- to 16-bit Plural ADCs to its portfolio. Using a standard base design, the ADCs are factory-configurable using the ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/digikey-to-stock-silanna-plural-adcs-2025-11/">DigiKey to stock Silanna Plural ADCs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [GaN mains PSUs cleared for medical and industrial](https://www.electronicsweekly.com/news/products/power-supplies/gan-mains-psus-cleared-for-medical-and-industrial-2025-11/)
-**Published:** Wed, 12 Nov 2025 15:43:36 +0000
-
-<p>XP Power has launched a host of GaN-based plug-in ac-dc power supplies rated between 65W and 140W. The basic types are: PGW65 wall-mount 65W (0.37W/cm3 &#8211; 6.06W/in3) PGW100 wall-mount 100W ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/gan-mains-psus-cleared-for-medical-and-industrial-2025-11/">GaN mains PSUs cleared for medical and industrial</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
