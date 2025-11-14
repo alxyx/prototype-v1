@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-14 17:05 UTC_
+_Last updated: 2025-11-14 17:50 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
@@ -15,6 +15,38 @@ _Last updated: 2025-11-14 17:05 UTC_
 
 <p>Robotics is entering the era of physical AI, where smarter, safer machines work alongside humans—driven by advances in AI, safety, and silicon ecosystems.</p>
 <p>The post <a href="https://www.eetasia.com/technology-ecosystem-critical-for-success-of-physical-ai/">Technology Ecosystem Critical for Success of Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [yieldWerx and iTest Partner to Deliver Seamless, Real-Time Semiconductor Test Analytics](https://www.semiconductor-digest.com/yieldwerx-and-itest-partner-to-deliver-seamless-real-time-semiconductor-test-analytics/?utm_source=rss&utm_medium=rss&utm_campaign=yieldwerx-and-itest-partner-to-deliver-seamless-real-time-semiconductor-test-analytics)
+**Published:** Fri, 14 Nov 2025 17:16:54 +0000
+
+<p>yieldWerx, a provider of end-to-end semiconductor test data and yield analytics, today announced a strategic collaboration with iTest, a premier independent IC testing laboratory based in Silicon Valley.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/yieldwerx-and-itest-partner-to-deliver-seamless-real-time-semiconductor-test-analytics/">yieldWerx and iTest Partner to Deliver Seamless, Real-Time Semiconductor Test Analytics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Controlling Triple Quantum Dots in a Zinc Oxide Semiconductor](https://www.semiconductor-digest.com/controlling-triple-quantum-dots-in-a-zinc-oxide-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=controlling-triple-quantum-dots-in-a-zinc-oxide-semiconductor)
+**Published:** Fri, 14 Nov 2025 17:05:01 +0000
+
+<p>Quantum computers have the potential to solve certain calculations exponentially faster than a classic computer could, but more research is desperately needed to make their practical use a reality.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/controlling-triple-quantum-dots-in-a-zinc-oxide-semiconductor/">Controlling Triple Quantum Dots in a Zinc Oxide Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [What’s in the November/December Issue?](https://www.semiconductor-digest.com/whats-in-the-november-december-issue-4/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-november-december-issue-4)
+**Published:** Fri, 14 Nov 2025 17:03:58 +0000
+
+<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the November/December issue. If you are attending SEMICON Europa, pick up this issue in print. You can find it at the Tech Arena. We hope to see you there!</p>
+<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-november-december-issue-4/">What&#8217;s in the November/December Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Tescan Expands Semiconductor Workflows with FemtoChisel Laser Technology](https://www.semiconductor-digest.com/tescan-expands-semiconductor-workflows-with-femtochisel-laser-technology/?utm_source=rss&utm_medium=rss&utm_campaign=tescan-expands-semiconductor-workflows-with-femtochisel-laser-technology)
+**Published:** Fri, 14 Nov 2025 16:53:32 +0000
+
+<p>Tescan expands its semiconductor portfolio with FemtoChisel, a next-generation femtosecond laser platform designed to enhance semiconductor sample preparation workflows with exceptional speed, precision, reproducibility, and quality.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tescan-expands-semiconductor-workflows-with-femtochisel-laser-technology/">Tescan Expands Semiconductor Workflows with FemtoChisel Laser Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,38 +815,6 @@ _Last updated: 2025-11-14 17:05 UTC_
 
 <p>TECHCET reported an update on the Wet Chemicals and Specialty Cleans markets showing shipments growth at +5% for 2025 to total 2,706 M Kg, with revenues up +6% to US $5,440M.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/wet-chemicals-specialty-cleans-set-for-6-growth-in-2025/">Wet Chemicals &#038; Specialty Cleans Set for 6% Growth in 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Vertical Semiconductor Raises $11 Million to Deliver the Next Wave of Power for AI Chips and Data Centers](https://www.semiconductor-digest.com/vertical-semiconductor-raises-11-million-to-deliver-the-next-wave-of-power-for-ai-chips-and-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=vertical-semiconductor-raises-11-million-to-deliver-the-next-wave-of-power-for-ai-chips-and-data-centers)
-**Published:** Wed, 15 Oct 2025 19:00:05 +0000
-
-<p>MIT spinout debuts vertical GaN power conversion technology designed to dramatically reduce heat, shrink the footprint of power systems, and lower energy costs in AI infrastructure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/vertical-semiconductor-raises-11-million-to-deliver-the-next-wave-of-power-for-ai-chips-and-data-centers/">Vertical Semiconductor Raises $11 Million to Deliver the Next Wave of Power for AI Chips and Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Servomex Appoints New Senior Global Product Manager](https://www.semiconductor-digest.com/servomex-appoints-new-senior-global-product-manager/?utm_source=rss&utm_medium=rss&utm_campaign=servomex-appoints-new-senior-global-product-manager)
-**Published:** Wed, 15 Oct 2025 18:55:59 +0000
-
-<p>Servomex, international experts in gas analysis, has appointed Giovanni De Dona as its Senior Global Product Manager. He joins the Purity &#038; Specialty (P&#038;S) gases team at the US Technical Center in Woburn, Massachusetts.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/servomex-appoints-new-senior-global-product-manager/">Servomex Appoints New Senior Global Product Manager</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries, Infineon, Silicon Box, STATS ChipPAC, TIER IV Join imec Automotive Chiplet Program](https://www.semiconductor-digest.com/globalfoundries-infineon-silicon-box-stats-chippac-tier-iv-join-imec-automotive-chiplet-program/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-infineon-silicon-box-stats-chippac-tier-iv-join-imec-automotive-chiplet-program)
-**Published:** Wed, 15 Oct 2025 18:50:28 +0000
-
-<p>Today, imec announced that GlobalFoundries (Nasdaq: GFS) (GF) has joined imec’s Automotive Chiplet Program (ACP) as a foundry partner.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-infineon-silicon-box-stats-chippac-tier-iv-join-imec-automotive-chiplet-program/">GlobalFoundries, Infineon, Silicon Box, STATS ChipPAC, TIER IV Join imec Automotive Chiplet Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [xMEMS Appoints Veteran ASIC Leader Dr. Chester Hwang as Chief Technology Officer](https://www.semiconductor-digest.com/xmems-appoints-veteran-asic-leader-dr-chester-hwang-as-chief-technology-officer/?utm_source=rss&utm_medium=rss&utm_campaign=xmems-appoints-veteran-asic-leader-dr-chester-hwang-as-chief-technology-officer)
-**Published:** Wed, 15 Oct 2025 18:47:16 +0000
-
-<p>xMEMS Labs, Inc., the leader in solid-state MEMS speakers and micro-scale thermal management, today announced the appointment of Dr. Chester Hwang as Chief Technology Officer.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/xmems-appoints-veteran-asic-leader-dr-chester-hwang-as-chief-technology-officer/">xMEMS Appoints Veteran ASIC Leader Dr. Chester Hwang as Chief Technology Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
