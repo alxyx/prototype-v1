@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-14 11:48 UTC_
+_Last updated: 2025-11-14 13:58 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
@@ -917,7 +917,7 @@ _Last updated: 2025-11-14 11:48 UTC_
 ## [1,200V SiC mosfet power modules](https://www.electronicsweekly.com/news/products/discretes/1200v-sic-mosfet-power-modules-2025-11/)
 **Published:** Fri, 14 Nov 2025 10:41:05 +0000
 
-<p>SemiQ has created a line of 1,200V SiC mofet SOT-227 modules with Rds(on) at 7.4. 15 or 34mΩ. There are six models, half have &#8216;GCMX&#8217; part numbers and just have ...</p>
+<p>SemiQ has created a line of 1,200V SiC mosfet SOT-227 modules with Rds(on) at 7.4. 15 or 34mΩ. There are six models, half have &#8216;GCMX&#8217; part numbers and just have ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/products/discretes/1200v-sic-mosfet-power-modules-2025-11/">1,200V SiC mosfet power modules</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
