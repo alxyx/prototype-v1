@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-14 07:08 UTC_
+_Last updated: 2025-11-14 07:54 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
@@ -917,7 +917,7 @@ _Last updated: 2025-11-14 07:08 UTC_
 ## [£5m for CHERI commercialisation](https://www.electronicsweekly.com/news/business/5m-for-cheri-commercialisation-2025-11/)
 **Published:** Fri, 14 Nov 2025 07:00:57 +0000
 
-<p>EnSilica, the mixed-signal ASIC specialist, has been awarded a £5 million ($6.6m USD) ‘Contract for Innovation’ by the UK Government’s Department for Science, Innovation and Technology (DSIT). The funding furthers ...</p>
+<p>EnSilica, the mixed-signal ASIC specialist, has been awarded a £5 million ‘Contract for Innovation’ by the UK Government’s Department for Science, Innovation and Technology (DSIT). The funding furthers commercialisation of ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/5m-for-cheri-commercialisation-2025-11/">£5m for CHERI commercialisation</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
@@ -938,17 +938,10 @@ _Last updated: 2025-11-14 07:08 UTC_
 
 ---
 
-## [PyTorch Is Ready, But Is Embedded AI?](https://www.electronicsforu.com/news/pytorch-is-ready-but-is-embedded-ai)
-**Published:** Wed, 12 Nov 2025 13:08:03 +0000
+## [Efficient SiC MOSFETs For Power Systems](https://www.electronicsforu.com/news/efficient-sic-mosfets-for-power-systems)
+**Published:** Fri, 14 Nov 2025 05:59:48 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/Screenshot-2025-11-12-183628-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Cloud-scale AI has found its way into the tiniest chips, but the real challenge lies not in training models; it is in running them on devices that cannot rely on cloud power. Here is how an open-source shift led by Meta, Arm, and Alif Semiconductor is redefining what is possible on the edge. AI is [&#8230;]
-
----
-
-## [JOB: Testing & Validation Engineer – EV At Vecmocon In Pune](https://www.electronicsforu.com/career/testing-validation-engineer-ev-vecmocon-pune)
-**Published:** Wed, 12 Nov 2025 11:29:32 +0000
-
-<img alt="Lead Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/jobs-shutterstock-ubj750-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Vecmocon About The Job The Testing &#38; Validation Engineer will be responsible for testing and integration of electric vehicle sub-systems. The ideal candidate should have strong basics of electrical engineering, as well as hands-on experience with testing them. The engineer will work closely with other members of the R&#38;D team [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/SQPR023ImageSemiQ-SQPR023-New-SOT-227-HR-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />High-power systems often waste energy and overheat. These SiC MOSFET modules make them faster, cooler and more efficient. High-power, medium-voltage applications often struggle with efficiency and thermal management. Systems like battery chargers, photovoltaic inverters, server power supplies, and energy storage setups need components that can handle high currents, switch rapidly, and operate reliably at elevated [&#8230;]
 
 ---
 
