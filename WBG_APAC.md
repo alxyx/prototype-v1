@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-14 15:47 UTC_
+_Last updated: 2025-11-14 17:05 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-11-14 15:47 UTC_
 
 <p>Robotics is entering the era of physical AI, where smarter, safer machines work alongside humans—driven by advances in AI, safety, and silicon ecosystems.</p>
 <p>The post <a href="https://www.eetasia.com/technology-ecosystem-critical-for-success-of-physical-ai/">Technology Ecosystem Critical for Success of Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Semiconductor Chip Market to Grow 16.1% Annually Despite Global Shortage](https://www.semiconductor-digest.com/semiconductor-chip-market-to-grow-16-1-annually-despite-global-shortage/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-chip-market-to-grow-16-1-annually-despite-global-shortage)
+**Published:** Fri, 14 Nov 2025 16:43:54 +0000
+
+<p>According to the latest study from BCC Research, “Semiconductor Chips: Applications and Impact of Shortage" is projected to grow from $737.2 billion in 2025 to $1.6 trillion by the end of 2030.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-chip-market-to-grow-16-1-annually-despite-global-shortage/">Semiconductor Chip Market to Grow 16.1% Annually Despite Global Shortage</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-11-14 15:47 UTC_
 
 <p>xMEMS Labs, Inc., the leader in solid-state MEMS speakers and micro-scale thermal management, today announced the appointment of Dr. Chester Hwang as Chief Technology Officer.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/xmems-appoints-veteran-asic-leader-dr-chester-hwang-as-chief-technology-officer/">xMEMS Appoints Veteran ASIC Leader Dr. Chester Hwang as Chief Technology Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [INFICON Announces Appointment of John Behnke as Co-Chair of SEMI Smart Manufacturing Global Executive Committee](https://www.semiconductor-digest.com/inficon-announces-appointment-of-john-behnke-as-co-chair-of-semi-smart-manufacturing-global-executive-committee/?utm_source=rss&utm_medium=rss&utm_campaign=inficon-announces-appointment-of-john-behnke-as-co-chair-of-semi-smart-manufacturing-global-executive-committee)
-**Published:** Wed, 15 Oct 2025 18:41:06 +0000
-
-<p>The GEC is a strategic leadership group of SEMI member companies and partners that guides industry-wide initiatives in smart manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/inficon-announces-appointment-of-john-behnke-as-co-chair-of-semi-smart-manufacturing-global-executive-committee/">INFICON Announces Appointment of John Behnke as Co-Chair of SEMI Smart Manufacturing Global Executive Committee</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
