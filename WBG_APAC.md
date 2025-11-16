@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-16 07:10 UTC_
+_Last updated: 2025-11-16 07:49 UTC_
 
 ## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
 **Published:** Thu, 13 Nov 2025 03:17:46 +0000
@@ -943,6 +943,13 @@ _Last updated: 2025-11-16 07:10 UTC_
 
 <p>DigiKey has signed a distribution agreement with Silanna Semiconductor, adding its 10- to 16-bit Plural ADCs to its portfolio. Using a standard base design, the ADCs are factory-configurable using the ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/digikey-to-stock-silanna-plural-adcs-2025-11/">DigiKey to stock Silanna Plural ADCs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [TDK India’s Strategic Vision: Insights From Gagan Bansal, President, TDK India](https://www.electronicsforu.com/special/tdk-india-strategic-vision-insights-from-gagan-bansal)
+**Published:** Sat, 15 Nov 2025 12:48:21 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/1664419342903-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From cassette tapes that once defined an era to components driving the future, TDK’s story is one of constant innovation. In this conversation, Gagan Bansal, President of TDK India, shares how the company has evolved to shape today’s electronics and industrial systems, and how their India strategy, partnerships, and innovations reflect their mission to ‘be [&#8230;]
 
 ---
 
