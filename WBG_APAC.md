@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-17 09:58 UTC_
+_Last updated: 2025-11-17 11:02 UTC_
 
 ## [GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers](https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/)
 **Published:** Mon, 17 Nov 2025 02:30:42 +0000
