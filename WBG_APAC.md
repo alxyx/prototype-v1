@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-17 22:52 UTC_
+_Last updated: 2025-11-17 23:46 UTC_
+
+## [The Chip Industry’s Future Equilibrium](https://www.eetasia.com/the-chip-industrys-future-equilibrium/)
+**Published:** Mon, 17 Nov 2025 23:09:58 +0000
+
+<p>The notion of balance between performance and purpose, innovation and sustainability, is fast becoming the defining narrative of the global semiconductor sector.</p>
+<p>The post <a href="https://www.eetasia.com/the-chip-industrys-future-equilibrium/">The Chip Industry&#8217;s Future Equilibrium</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers](https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/)
 **Published:** Mon, 17 Nov 2025 02:30:42 +0000
@@ -15,6 +23,38 @@ _Last updated: 2025-11-17 22:52 UTC_
 
 <p>SK keyfoundry is accelerating the development of SiC-based compound power semiconductor technology with its acquisition of SK powertech.</p>
 <p>The post <a href="https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/">SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Portugal Strengthens its Position in Microelectronics Through the Development of Innovative Products and Technologies](https://www.semiconductor-digest.com/portugal-strengthens-its-position-in-microelectronics-through-the-development-of-innovative-products-and-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=portugal-strengthens-its-position-in-microelectronics-through-the-development-of-innovative-products-and-technologies)
+**Published:** Mon, 17 Nov 2025 23:26:42 +0000
+
+<p>Portugal is reinforcing its position in the European semiconductor and microelectronics landscape through the Microelectronics Agenda, a mobilizing project funded by the Portuguese Recovery and Resilience Plan (PRR) and the European Union’s NextGenerationEU.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/portugal-strengthens-its-position-in-microelectronics-through-the-development-of-innovative-products-and-technologies/">Portugal Strengthens its Position in Microelectronics Through the Development of Innovative Products and Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Atomic Layer Deposition of High Purity AlScN Thin Films Achieved Through Ultrahigh Purity Conditions](https://www.semiconductor-digest.com/atomic-layer-deposition-of-high-purity-alscn-thin-films-achieved-through-ultrahigh-purity-conditions/?utm_source=rss&utm_medium=rss&utm_campaign=atomic-layer-deposition-of-high-purity-alscn-thin-films-achieved-through-ultrahigh-purity-conditions)
+**Published:** Mon, 17 Nov 2025 23:19:39 +0000
+
+<p>As semiconductor and microelectronic devices evolve, requiring atomic-scale manufacturing precision, the purity constraints on materials become extreme.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/atomic-layer-deposition-of-high-purity-alscn-thin-films-achieved-through-ultrahigh-purity-conditions/">Atomic Layer Deposition of High Purity AlScN Thin Films Achieved Through Ultrahigh Purity Conditions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Europe Announces 2025 20 Under 30 Awards](https://www.semiconductor-digest.com/semi-europe-announces-2025-20-under-30-awards/?utm_source=rss&utm_medium=rss&utm_campaign=semi-europe-announces-2025-20-under-30-awards)
+**Published:** Mon, 17 Nov 2025 23:08:24 +0000
+
+<p>SEMI Europe and the SEMI European Advisory Council for Diversity and Inclusion today announced the 2025 20 Under 30 Award recipients, celebrating outstanding young professionals who are shaping the future of the semiconductor industry.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-europe-announces-2025-20-under-30-awards/">SEMI Europe Announces 2025 20 Under 30 Awards</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMICON Europa 2025 to Highlight Global Collaborations for European Economic Resilience](https://www.semiconductor-digest.com/semicon-europa-2025-to-highlight-global-collaborations-for-european-economic-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-europa-2025-to-highlight-global-collaborations-for-european-economic-resilience)
+**Published:** Mon, 17 Nov 2025 23:02:29 +0000
+
+<p>SEMICON Europa 2025, co-located with productronica, will return to Munich from November 18-21 to mark its 50th anniversary, bringing together global industry leaders, innovators, and policymakers to strengthen Europe’s position in the global semiconductor landscape.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semicon-europa-2025-to-highlight-global-collaborations-for-european-economic-resilience/">SEMICON Europa 2025 to Highlight Global Collaborations for European Economic Resilience</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -786,38 +826,6 @@ _Last updated: 2025-11-17 22:52 UTC_
 
 ---
 
-## [KAIST Develops an AI Semiconductor Brain Combining Transformer’s Intelligence and Mamba’s Efficiency​](https://www.semiconductor-digest.com/kaist-develops-an-ai-semiconductor-brain-combining-transformers-intelligence-and-mambas-efficiency/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-develops-an-ai-semiconductor-brain-combining-transformers-intelligence-and-mambas-efficiency)
-**Published:** Fri, 17 Oct 2025 17:48:24 +0000
-
-<p>As recent Artificial Intelligence (AI) models’ capacity to understand and process long, complex sentences grows, the necessity for new semiconductor technologies that can simultaneously boost computation speed and memory efficiency is increasing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kaist-develops-an-ai-semiconductor-brain-combining-transformers-intelligence-and-mambas-efficiency/">KAIST Develops an AI Semiconductor Brain Combining Transformer&#8217;s Intelligence and Mamba&#8217;s Efficiency​</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Scientists Smash Record in Stacking Semiconductor Transistors for Large-Area Electronics](https://www.semiconductor-digest.com/scientists-smash-record-in-stacking-semiconductor-transistors-for-large-area-electronics/?utm_source=rss&utm_medium=rss&utm_campaign=scientists-smash-record-in-stacking-semiconductor-transistors-for-large-area-electronics)
-**Published:** Fri, 17 Oct 2025 17:37:24 +0000
-
-<p>The six stacks of semiconductors for hybrid complementary metal-oxide semiconductor (CMOS) microchips advances miniaturization and topples the previous record of two stack.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/scientists-smash-record-in-stacking-semiconductor-transistors-for-large-area-electronics/">Scientists Smash Record in Stacking Semiconductor Transistors for Large-Area Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Two East Texas Juries Determine Samsung Owes a Combined $524 Million in Patent Infringement Verdicts](https://www.semiconductor-digest.com/two-east-texas-juries-determine-samsung-owes-a-combined-524-million-in-patent-infringement-verdicts/?utm_source=rss&utm_medium=rss&utm_campaign=two-east-texas-juries-determine-samsung-owes-a-combined-524-million-in-patent-infringement-verdicts)
-**Published:** Fri, 17 Oct 2025 17:10:53 +0000
-
-<p>Miller Fair Henry attorneys provided guidance, strategy for significant trials.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/two-east-texas-juries-determine-samsung-owes-a-combined-524-million-in-patent-infringement-verdicts/">Two East Texas Juries Determine Samsung Owes a Combined $524 Million in Patent Infringement Verdicts</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SiTime Appoints Ganesh Moorthy to Board of Directors](https://www.semiconductor-digest.com/sitime-appoints-ganesh-moorthy-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=sitime-appoints-ganesh-moorthy-to-board-of-directors)
-**Published:** Fri, 17 Oct 2025 17:01:49 +0000
-
-<p>SiTime Corporation, the Precision Timing company, today announced that Ganesh Moorthy has been appointed to the company’s Board of Directors, succeeding Tom Yiu.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sitime-appoints-ganesh-moorthy-to-board-of-directors/">SiTime Appoints Ganesh Moorthy to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Power Electronics Course: Part 24 – Cables in Power Electronics](https://www.powerelectronicsnews.com/power-electronics-course-part-24-cables-in-power-electronics/)
 **Published:** Mon, 17 Nov 2025 08:17:00 +0000
 
@@ -895,6 +903,14 @@ _Last updated: 2025-11-17 22:52 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Rad-Hard Buck Controller, Hydrogen-Powered Aircraft, and Isolated DC/DC Converter!</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/rad-hard-buck-controller-hydrogen-powered-aircraft-isolated-dc-dc-converter-power-electronics-week-insights/">Rad-Hard Buck Controller, Hydrogen-Powered Aircraft, Isolated DC/DC Converter: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Europe is Breaking Up with U.S. Cloud](https://www.eetimes.com/europe-breaking-up-cloud-us/)
+**Published:** Mon, 17 Nov 2025 23:00:00 +0000
+
+<p>Geopolitics forces large organizations to abandon hyperscale cloud reliance.</p>
+<p>The post <a href="https://www.eetimes.com/europe-breaking-up-cloud-us/">Europe is Breaking Up with U.S. Cloud</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
