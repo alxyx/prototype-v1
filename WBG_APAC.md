@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-17 13:57 UTC_
+_Last updated: 2025-11-17 14:58 UTC_
 
 ## [GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers](https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/)
 **Published:** Mon, 17 Nov 2025 02:30:42 +0000
@@ -895,6 +895,14 @@ _Last updated: 2025-11-17 13:57 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Rad-Hard Buck Controller, Hydrogen-Powered Aircraft, and Isolated DC/DC Converter!</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/rad-hard-buck-controller-hydrogen-powered-aircraft-isolated-dc-dc-converter-power-electronics-week-insights/">Rad-Hard Buck Controller, Hydrogen-Powered Aircraft, Isolated DC/DC Converter: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [GUC and Ayar Labs Partner to Advance Co- Packaged Optics for Hyperscalers](https://www.eetimes.com/guc-and-ayar-labs-partner-to-advance-co-packaged-optics-for-hyperscalers/)
+**Published:** Mon, 17 Nov 2025 14:00:00 +0000
+
+<p>Global Unichip Corp. (GUC), and Ayar Labs have announced a strategic partnership to integrate CPO into GUC’s advanced ASIC design services. </p>
+<p>The post <a href="https://www.eetimes.com/guc-and-ayar-labs-partner-to-advance-co-packaged-optics-for-hyperscalers/">GUC and Ayar Labs Partner to Advance Co- Packaged Optics for Hyperscalers</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
