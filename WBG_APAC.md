@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-17 07:10 UTC_
+_Last updated: 2025-11-17 07:48 UTC_
 
 ## [GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers](https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/)
 **Published:** Mon, 17 Nov 2025 02:30:42 +0000
@@ -938,17 +938,17 @@ _Last updated: 2025-11-17 07:10 UTC_
 
 ---
 
+## [Osaki Superb Soundbar-Works With JMGO/For Movie/Hisense As: All In One Integrated Music System: Mini Cinma](https://www.electronicsforu.com/press-releases/osaki-superb-soundbar-works-with-jmgo-for-movie-hisense-as-all-in-one-integrated-music-system-mini-cinma)
+**Published:** Mon, 17 Nov 2025 05:23:01 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/superb-mini-CINMA-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />OSAKI mini AUDIO, unveiled a new addition to its CinemaSound Soundbars line-up with front surround SUPERB soundbar-bsst system, designed to complement today’s high definition displays. The SUPERB Soundbar-bsst delivers superior sound quality, provides connectivity to the latest home entertainment devices and are simple to set up and use. For the best possible sound experience the [&#8230;]
+
+---
+
 ## [TDK India’s Strategic Vision: Insights From Gagan Bansal, President, TDK India](https://www.electronicsforu.com/special/tdk-india-strategic-vision-insights-from-gagan-bansal)
 **Published:** Sat, 15 Nov 2025 12:48:21 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/1664419342903-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From cassette tapes that once defined an era to components driving the future, TDK’s story is one of constant innovation. In this conversation, Gagan Bansal, President of TDK India, shares how the company has evolved to shape today’s electronics and industrial systems, and how their India strategy, partnerships, and innovations reflect their mission to ‘be [&#8230;]
-
----
-
-## [Efficient SiC MOSFETs For Power Systems](https://www.electronicsforu.com/news/efficient-sic-mosfets-for-power-systems)
-**Published:** Fri, 14 Nov 2025 05:59:48 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/SQPR023ImageSemiQ-SQPR023-New-SOT-227-HR-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />High-power systems often waste energy and overheat. These SiC MOSFET modules make them faster, cooler and more efficient. High-power, medium-voltage applications often struggle with efficiency and thermal management. Systems like battery chargers, photovoltaic inverters, server power supplies, and energy storage setups need components that can handle high currents, switch rapidly, and operate reliably at elevated [&#8230;]
 
 ---
 
