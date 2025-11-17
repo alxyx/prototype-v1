@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-17 19:06 UTC_
+_Last updated: 2025-11-17 19:42 UTC_
 
 ## [GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers](https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/)
 **Published:** Mon, 17 Nov 2025 02:30:42 +0000
@@ -15,6 +15,22 @@ _Last updated: 2025-11-17 19:06 UTC_
 
 <p>SK keyfoundry is accelerating the development of SiC-based compound power semiconductor technology with its acquisition of SK powertech.</p>
 <p>The post <a href="https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/">SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Onto Innovation Completes Acquisition of Unique Materials Composition and Electrical Analysis Product Lines from Semilab International](https://www.semiconductor-digest.com/onto-innovation-completes-acquisition-of-unique-materials-composition-and-electrical-analysis-product-lines-from-semilab-international/?utm_source=rss&utm_medium=rss&utm_campaign=onto-innovation-completes-acquisition-of-unique-materials-composition-and-electrical-analysis-product-lines-from-semilab-international)
+**Published:** Mon, 17 Nov 2025 19:24:48 +0000
+
+<p>Onto Innovation Inc. today announced the successful closing of its previously announced acquisition of key product lines from the materials analysis business of Semilab International.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/onto-innovation-completes-acquisition-of-unique-materials-composition-and-electrical-analysis-product-lines-from-semilab-international/">Onto Innovation Completes Acquisition of Unique Materials Composition and Electrical Analysis Product Lines from Semilab International</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ACM Research Delivers First Horizontal Panel Electroplating Tool Strengthening Its Leadership in Fan-Out Panel-Level Packaging](https://www.semiconductor-digest.com/acm-research-delivers-first-horizontal-panel-electroplating-tool-strengthening-its-leadership-in-fan-out-panel-level-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-delivers-first-horizontal-panel-electroplating-tool-strengthening-its-leadership-in-fan-out-panel-level-packaging)
+**Published:** Mon, 17 Nov 2025 19:08:01 +0000
+
+<p>ACM’s Ultra ECP ap-p enables next generation device performance amid accelerating market demand for advanced packaging.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/acm-research-delivers-first-horizontal-panel-electroplating-tool-strengthening-its-leadership-in-fan-out-panel-level-packaging/">ACM Research Delivers First Horizontal Panel Electroplating Tool Strengthening Its Leadership in Fan-Out Panel-Level Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2025-11-17 19:06 UTC_
 
 <p>Keysight Technologies, Inc. today announced it has completed its acquisition of Spirent Communications plc.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/keysight-technologies-completes-acquisition-of-spirent-communications-plc/">Keysight Technologies Completes Acquisition of Spirent Communications PLC</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The 2026 IEEE/JSAP Symposium on VLSI Technology & Circuits Announces Call for Papers](https://www.semiconductor-digest.com/the-2026-ieee-jsap-symposium-on-vlsi-technology-circuits-announces-call-for-papers/?utm_source=rss&utm_medium=rss&utm_campaign=the-2026-ieee-jsap-symposium-on-vlsi-technology-circuits-announces-call-for-papers)
-**Published:** Thu, 16 Oct 2025 17:19:25 +0000
-
-<p>The 2026 IEEE/JSAP Symposium on VLSI Technology &#038; Circuits has announced a call for papers on the theme: “Advancing the AI Frontier through VLSI Innovation.”</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-2026-ieee-jsap-symposium-on-vlsi-technology-circuits-announces-call-for-papers/">The 2026 IEEE/JSAP Symposium on VLSI Technology &#038; Circuits Announces Call for Papers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Wet Chemicals & Specialty Cleans Set for 6% Growth in 2025](https://www.semiconductor-digest.com/wet-chemicals-specialty-cleans-set-for-6-growth-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=wet-chemicals-specialty-cleans-set-for-6-growth-in-2025)
-**Published:** Thu, 16 Oct 2025 17:07:34 +0000
-
-<p>TECHCET reported an update on the Wet Chemicals and Specialty Cleans markets showing shipments growth at +5% for 2025 to total 2,706 M Kg, with revenues up +6% to US $5,440M.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/wet-chemicals-specialty-cleans-set-for-6-growth-in-2025/">Wet Chemicals &#038; Specialty Cleans Set for 6% Growth in 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
