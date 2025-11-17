@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-17 17:53 UTC_
+_Last updated: 2025-11-17 19:06 UTC_
 
 ## [GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers](https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/)
 **Published:** Mon, 17 Nov 2025 02:30:42 +0000
@@ -911,14 +911,6 @@ _Last updated: 2025-11-17 17:53 UTC_
 
 <p>High-end FPGAs/ASICs require precise voltage regulation and high current. Multi-phase converters provide precise voltage regulation with high current capabilities. </p>
 <p>The post <a href="https://www.eetimes.com/designing-multi-phase-converters-for-high-current-applications/">Designing Multi-Phase Converters for High-Current Applications</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Arm’s DreamBig Acquisition Reignites In-house Chip Prospects](https://www.eetimes.com/arms-dreambig-acquisition-reignites-in-house-chip-prospects/)
-**Published:** Tue, 11 Nov 2025 13:36:35 +0000
-
-<p>Arm acquires DreamBig Semiconductor to supercharge its AI chip ambitions.</p>
-<p>The post <a href="https://www.eetimes.com/arms-dreambig-acquisition-reignites-in-house-chip-prospects/">Arm’s DreamBig Acquisition Reignites In-house Chip Prospects</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
