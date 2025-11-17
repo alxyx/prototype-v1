@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-17 20:51 UTC_
+_Last updated: 2025-11-17 21:47 UTC_
 
 ## [GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers](https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/)
 **Published:** Mon, 17 Nov 2025 02:30:42 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-11-17 20:51 UTC_
 
 <p>SK keyfoundry is accelerating the development of SiC-based compound power semiconductor technology with its acquisition of SK powertech.</p>
 <p>The post <a href="https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/">SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Cadence Appoints Luc Van den hove to Board of Directors](https://www.semiconductor-digest.com/cadence-appoints-luc-van-den-hove-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-appoints-luc-van-den-hove-to-board-of-directors)
+**Published:** Mon, 17 Nov 2025 21:21:48 +0000
+
+<p>Cadence today announced the appointment of Dr. Luc Van den hove to its board of directors, effective January 1, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cadence-appoints-luc-van-den-hove-to-board-of-directors/">Cadence Appoints Luc Van den hove to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-11-17 20:51 UTC_
 
 <p>Slava Libman, CEO of FTD Solutions Inc., will deliver a keynote address titled “The Hidden Thread: Water as the Lifeblood of the Semiconductor Age” at the inaugural IEEE Device Technologies for Diversified Applications (DTDA) 2025 conference, taking place October 20-22, in Sendai, Japan.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ftd-solutions-ceo-slava-libman-to-deliver-keynote-at-ieee-dtda-2025/">FTD Solutions CEO Slava Libman to Deliver Keynote at IEEE DTDA 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TechInsights Announces 2026 Semiconductor Market Outlook Report Series](https://www.semiconductor-digest.com/techinsights-announces-2026-semiconductor-market-outlook-report-series/?utm_source=rss&utm_medium=rss&utm_campaign=techinsights-announces-2026-semiconductor-market-outlook-report-series)
-**Published:** Thu, 16 Oct 2025 17:27:19 +0000
-
-<p>Reports provide forward-looking insight into the state of the semiconductor sector across a number of technologies and markets.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/techinsights-announces-2026-semiconductor-market-outlook-report-series/">TechInsights Announces 2026 Semiconductor Market Outlook Report Series</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
