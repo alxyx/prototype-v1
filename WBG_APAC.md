@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-17 07:48 UTC_
+_Last updated: 2025-11-17 09:09 UTC_
 
 ## [GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers](https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/)
 **Published:** Mon, 17 Nov 2025 02:30:42 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-11-17 07:48 UTC_
 
 ---
 
+## [Power Electronics Course: Part 24 – Cables in Power Electronics](https://www.powerelectronicsnews.com/power-electronics-course-part-24-cables-in-power-electronics/)
+**Published:** Mon, 17 Nov 2025 08:17:00 +0000
+
+<img alt="Power Electronics Course: Part 24 - Cables in Power Electronics." class="webfeedsFeaturedVisual wp-post-image" height="500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/figure-00-power-20220627.jpg?fit=800%2C500" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>Cable sizing in power electronics is not a mere detail, but the primary design constraint. It determines safety, efficiency, costs, and reliability.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-part-24-cables-in-power-electronics/">Power Electronics Course: Part 24 &#8211; Cables in Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [A Deeper Dive into Diamond in Power Electronics](https://www.powerelectronicsnews.com/a-deeper-dive-into-diamond-in-power-electronics/)
 **Published:** Fri, 14 Nov 2025 09:52:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-11-17 07:48 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Rad-Hard Buck Controller, Hydrogen-Powered Aircraft, and Isolated DC/DC Converter!</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/rad-hard-buck-controller-hydrogen-powered-aircraft-isolated-dc-dc-converter-power-electronics-week-insights/">Rad-Hard Buck Controller, Hydrogen-Powered Aircraft, Isolated DC/DC Converter: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ROHM’s EcoGaN™ Power Stage IC Powers Next-Generation MSI Gaming Laptop Adapters Through Collaboration With Delta Electronics](https://www.powerelectronicsnews.com/rohms-ecogan-power-stage-ic-powers-next-generation-msi-gaming-laptop-adapters-through-collaboration-with-delta-electronics/)
-**Published:** Thu, 06 Nov 2025 18:00:00 +0000
-
-<img alt="ROHM’s EcoGaN™ Power Stage IC Powers Next-Generation MSI Gaming Laptop Adapters Through Collaboration With Delta Electronics." class="webfeedsFeaturedVisual wp-post-image" height="479" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/MSI.png?fit=800%2C479" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>The AC adapter designed by Delta Electronics incorporates ROHM’s EcoGaN™ power stage IC BM3G005MUV-LB, noted for its high-speed switching performance and low ON resistance.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/rohms-ecogan-power-stage-ic-powers-next-generation-msi-gaming-laptop-adapters-through-collaboration-with-delta-electronics/">ROHM’s EcoGaN™ Power Stage IC Powers Next-Generation MSI Gaming Laptop Adapters Through Collaboration With Delta Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
