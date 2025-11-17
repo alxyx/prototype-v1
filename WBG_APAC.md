@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-17 19:42 UTC_
+_Last updated: 2025-11-17 20:51 UTC_
 
 ## [GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers](https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/)
 **Published:** Mon, 17 Nov 2025 02:30:42 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-11-17 19:42 UTC_
 
 <p>SK keyfoundry is accelerating the development of SiC-based compound power semiconductor technology with its acquisition of SK powertech.</p>
 <p>The post <a href="https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/">SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Metalenz and UMC Bring Breakthrough Face Authentication Solution Polar ID to Mass Production](https://www.semiconductor-digest.com/metalenz-and-umc-bring-breakthrough-face-authentication-solution-polar-id-to-mass-production/?utm_source=rss&utm_medium=rss&utm_campaign=metalenz-and-umc-bring-breakthrough-face-authentication-solution-polar-id-to-mass-production)
+**Published:** Mon, 17 Nov 2025 19:28:44 +0000
+
+<p>Metalenz and United Microelectronics Corporation today announced Metalenz’s its breakthrough face authentication solution, Polar ID, is now ready for mass production through UMC.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/metalenz-and-umc-bring-breakthrough-face-authentication-solution-polar-id-to-mass-production/">Metalenz and UMC Bring Breakthrough Face Authentication Solution Polar ID to Mass Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-11-17 19:42 UTC_
 
 <p>Reports provide forward-looking insight into the state of the semiconductor sector across a number of technologies and markets.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/techinsights-announces-2026-semiconductor-market-outlook-report-series/">TechInsights Announces 2026 Semiconductor Market Outlook Report Series</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Keysight Technologies Completes Acquisition of Spirent Communications PLC](https://www.semiconductor-digest.com/keysight-technologies-completes-acquisition-of-spirent-communications-plc/?utm_source=rss&utm_medium=rss&utm_campaign=keysight-technologies-completes-acquisition-of-spirent-communications-plc)
-**Published:** Thu, 16 Oct 2025 17:22:57 +0000
-
-<p>Keysight Technologies, Inc. today announced it has completed its acquisition of Spirent Communications plc.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/keysight-technologies-completes-acquisition-of-spirent-communications-plc/">Keysight Technologies Completes Acquisition of Spirent Communications PLC</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
