@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-17 21:47 UTC_
+_Last updated: 2025-11-17 22:52 UTC_
 
 ## [GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers](https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/)
 **Published:** Mon, 17 Nov 2025 02:30:42 +0000
@@ -15,6 +15,22 @@ _Last updated: 2025-11-17 21:47 UTC_
 
 <p>SK keyfoundry is accelerating the development of SiC-based compound power semiconductor technology with its acquisition of SK powertech.</p>
 <p>The post <a href="https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/">SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Tower Semiconductor and Switch Semiconductor Collaborate to Deliver Efficiency for Next-Generation AI and Server Power Systems](https://www.semiconductor-digest.com/tower-semiconductor-and-switch-semiconductor-collaborate-to-deliver-efficiency-for-next-generation-ai-and-server-power-systems/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-and-switch-semiconductor-collaborate-to-deliver-efficiency-for-next-generation-ai-and-server-power-systems)
+**Published:** Mon, 17 Nov 2025 22:02:34 +0000
+
+<p>Tower Semiconductor and Switch Semiconductor today announced the SW2001, a high-efficiency, monolithic 12-V Point-of-Load (POL) buck regulator designed on Tower’s industry-leading 65nm BCD platform.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-and-switch-semiconductor-collaborate-to-deliver-efficiency-for-next-generation-ai-and-server-power-systems/">Tower Semiconductor and Switch Semiconductor Collaborate to Deliver Efficiency for Next-Generation AI and Server Power Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Applauds Introduction of New Bill to Extend U.S. Tax Credit for Semiconductor Manufacturing Suppliers through 2031](https://www.semiconductor-digest.com/semi-applauds-introduction-of-new-bill-to-extend-u-s-tax-credit-for-semiconductor-manufacturing-suppliers-through-2031/?utm_source=rss&utm_medium=rss&utm_campaign=semi-applauds-introduction-of-new-bill-to-extend-u-s-tax-credit-for-semiconductor-manufacturing-suppliers-through-2031)
+**Published:** Mon, 17 Nov 2025 21:53:42 +0000
+
+<p>SEMI today announced support for the introduction of the Strengthening Essential Manufacturing and Industrial Investment Act (the SEMI Investment Act) in the United States House of Representatives.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-applauds-introduction-of-new-bill-to-extend-u-s-tax-credit-for-semiconductor-manufacturing-suppliers-through-2031/">SEMI Applauds Introduction of New Bill to Extend U.S. Tax Credit for Semiconductor Manufacturing Suppliers through 2031</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -42,11 +58,11 @@ _Last updated: 2025-11-17 21:47 UTC_
 
 ---
 
-## [ACM Research Delivers First Horizontal Panel Electroplating Tool Strengthening Its Leadership in Fan-Out Panel-Level Packaging](https://www.semiconductor-digest.com/acm-research-delivers-first-horizontal-panel-electroplating-tool-strengthening-its-leadership-in-fan-out-panel-level-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-delivers-first-horizontal-panel-electroplating-tool-strengthening-its-leadership-in-fan-out-panel-level-packaging)
+## [ACM Research Delivers First Horizontal Panel Electroplating Tool](https://www.semiconductor-digest.com/acm-research-delivers-first-horizontal-panel-electroplating-tool-strengthening-its-leadership-in-fan-out-panel-level-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-delivers-first-horizontal-panel-electroplating-tool-strengthening-its-leadership-in-fan-out-panel-level-packaging)
 **Published:** Mon, 17 Nov 2025 19:08:01 +0000
 
 <p>ACM’s Ultra ECP ap-p enables next generation device performance amid accelerating market demand for advanced packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/acm-research-delivers-first-horizontal-panel-electroplating-tool-strengthening-its-leadership-in-fan-out-panel-level-packaging/">ACM Research Delivers First Horizontal Panel Electroplating Tool Strengthening Its Leadership in Fan-Out Panel-Level Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/acm-research-delivers-first-horizontal-panel-electroplating-tool-strengthening-its-leadership-in-fan-out-panel-level-packaging/">ACM Research Delivers First Horizontal Panel Electroplating Tool</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2025-11-17 21:47 UTC_
 
 <p>SiTime Corporation, the Precision Timing company, today announced that Ganesh Moorthy has been appointed to the company’s Board of Directors, succeeding Tom Yiu.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/sitime-appoints-ganesh-moorthy-to-board-of-directors/">SiTime Appoints Ganesh Moorthy to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Qnity and SK hynix Sign Long-Term CMP Pad Supply Agreement](https://www.semiconductor-digest.com/qnity-and-sk-hynix-sign-long-term-cmp-pad-supply-agreement/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-and-sk-hynix-sign-long-term-cmp-pad-supply-agreement)
-**Published:** Thu, 16 Oct 2025 20:20:49 +0000
-
-<p>Strategic collaboration to support advanced semiconductor manufacturing with high-performance materials.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/qnity-and-sk-hynix-sign-long-term-cmp-pad-supply-agreement/">Qnity and SK hynix Sign Long-Term CMP Pad Supply Agreement</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [FTD Solutions CEO Slava Libman to Deliver Keynote at IEEE DTDA 2025](https://www.semiconductor-digest.com/ftd-solutions-ceo-slava-libman-to-deliver-keynote-at-ieee-dtda-2025/?utm_source=rss&utm_medium=rss&utm_campaign=ftd-solutions-ceo-slava-libman-to-deliver-keynote-at-ieee-dtda-2025)
-**Published:** Thu, 16 Oct 2025 20:18:03 +0000
-
-<p>Slava Libman, CEO of FTD Solutions Inc., will deliver a keynote address titled “The Hidden Thread: Water as the Lifeblood of the Semiconductor Age” at the inaugural IEEE Device Technologies for Diversified Applications (DTDA) 2025 conference, taking place October 20-22, in Sendai, Japan.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ftd-solutions-ceo-slava-libman-to-deliver-keynote-at-ieee-dtda-2025/">FTD Solutions CEO Slava Libman to Deliver Keynote at IEEE DTDA 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
