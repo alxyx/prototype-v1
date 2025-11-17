@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-17 05:56 UTC_
+_Last updated: 2025-11-17 07:10 UTC_
 
 ## [GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers](https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/)
 **Published:** Mon, 17 Nov 2025 02:30:42 +0000
@@ -914,6 +914,14 @@ _Last updated: 2025-11-17 05:56 UTC_
 
 ---
 
+## [US maintains semi market grip as China builds  integrated IC industry](https://www.electronicsweekly.com/news/business/us-maintains-semi-market-grip-as-china-abuilds-integrated-ic-industry-2025-11/)
+**Published:** Mon, 17 Nov 2025 06:09:36 +0000
+
+<p>Semiconductor revenues are set to reach $743 billion in 2025, up 14% YoY, says Yole, split between: Logic &#38; processors: 40–50% Memory: 20–30% Power, analogue &#38; discretes: 17–23% Optoelectronics &#38; ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/us-maintains-semi-market-grip-as-china-abuilds-integrated-ic-industry-2025-11/">US maintains semi market grip as China builds  integrated IC industry</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [1,200V SiC mosfet power modules](https://www.electronicsweekly.com/news/products/discretes/1200v-sic-mosfet-power-modules-2025-11/)
 **Published:** Fri, 14 Nov 2025 10:41:05 +0000
 
@@ -927,22 +935,6 @@ _Last updated: 2025-11-17 05:56 UTC_
 
 <p>EnSilica, the mixed-signal ASIC specialist, has been awarded a £5 million ‘Contract for Innovation’ by the UK Government’s Department for Science, Innovation and Technology (DSIT). The funding furthers commercialisation of ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/5m-for-cheri-commercialisation-2025-11/">£5m for CHERI commercialisation</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Tablets cooling](https://www.electronicsweekly.com/news/business/tablets-cooling-2025-11/)
-**Published:** Fri, 14 Nov 2025 06:11:14 +0000
-
-<p>Following six consecutive quarters of growth the tablet market began to show signs of cooling in Q3 with a y-o-y drop of 4.4% to 38 million units says IDC. Apple ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/tablets-cooling-2025-11/">Tablets cooling</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [DigiKey to stock Silanna Plural ADCs](https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/digikey-to-stock-silanna-plural-adcs-2025-11/)
-**Published:** Thu, 13 Nov 2025 11:39:53 +0000
-
-<p>DigiKey has signed a distribution agreement with Silanna Semiconductor, adding its 10- to 16-bit Plural ADCs to its portfolio. Using a standard base design, the ADCs are factory-configurable using the ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/digikey-to-stock-silanna-plural-adcs-2025-11/">DigiKey to stock Silanna Plural ADCs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
