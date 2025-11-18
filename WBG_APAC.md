@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-18 05:53 UTC_
+_Last updated: 2025-11-18 07:08 UTC_
 
 ## [IMEC Achieves GaN Breakdown Voltage Exceeding 650V](https://www.eetasia.com/imec-achieves-gan-breakdown-voltage-exceeding-650v/)
 **Published:** Tue, 18 Nov 2025 02:54:31 +0000
@@ -935,14 +935,6 @@ _Last updated: 2025-11-18 05:53 UTC_
 
 <p>Semiconductor revenues are set to reach $743 billion in 2025, up 14% YoY, says Yole, split between: Logic &#38; processors: 40–50% Memory: 20–30% Power, analogue &#38; discretes: 17–23% Optoelectronics &#38; ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/us-maintains-semi-market-grip-as-china-abuilds-integrated-ic-industry-2025-11/">US maintains semi market grip as China builds  integrated IC industry</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [1,200V SiC mosfet power modules](https://www.electronicsweekly.com/news/products/discretes/1200v-sic-mosfet-power-modules-2025-11/)
-**Published:** Fri, 14 Nov 2025 10:41:05 +0000
-
-<p>SemiQ has created a line of 1,200V SiC mosfet SOT-227 modules with Rds(on) at 7.4. 15 or 34mΩ. There are six models, half have &#8216;GCMX&#8217; part numbers and just have ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/discretes/1200v-sic-mosfet-power-modules-2025-11/">1,200V SiC mosfet power modules</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
