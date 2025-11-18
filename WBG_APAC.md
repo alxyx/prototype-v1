@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-18 09:54 UTC_
+_Last updated: 2025-11-18 11:02 UTC_
 
 ## [IMEC Achieves GaN Breakdown Voltage Exceeding 650V](https://www.eetasia.com/imec-achieves-gan-breakdown-voltage-exceeding-650v/)
 **Published:** Tue, 18 Nov 2025 02:54:31 +0000
@@ -927,14 +927,6 @@ _Last updated: 2025-11-18 09:54 UTC_
 
 <p>High-end FPGAs/ASICs require precise voltage regulation and high current. Multi-phase converters provide precise voltage regulation with high current capabilities. </p>
 <p>The post <a href="https://www.eetimes.com/designing-multi-phase-converters-for-high-current-applications/">Designing Multi-Phase Converters for High-Current Applications</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [US maintains semi market grip as China builds  integrated IC industry](https://www.electronicsweekly.com/news/business/us-maintains-semi-market-grip-as-china-abuilds-integrated-ic-industry-2025-11/)
-**Published:** Mon, 17 Nov 2025 06:09:36 +0000
-
-<p>Semiconductor revenues are set to reach $743 billion in 2025, up 14% YoY, says Yole, split between: Logic &#38; processors: 40–50% Memory: 20–30% Power, analogue &#38; discretes: 17–23% Optoelectronics &#38; ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/us-maintains-semi-market-grip-as-china-abuilds-integrated-ic-industry-2025-11/">US maintains semi market grip as China builds  integrated IC industry</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
