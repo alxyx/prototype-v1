@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-18 22:53 UTC_
+_Last updated: 2025-11-18 23:44 UTC_
 
 ## [IMEC Achieves GaN Breakdown Voltage Exceeding 650V](https://www.eetasia.com/imec-achieves-gan-breakdown-voltage-exceeding-650v/)
 **Published:** Tue, 18 Nov 2025 02:54:31 +0000
@@ -903,6 +903,14 @@ _Last updated: 2025-11-18 22:53 UTC_
 
 <img alt="EPC Unveils Compact High-Efficiency GaN Motor Drive Inverter Tailored for Humanoid Robotics." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/EPC91120-PR-333-250-p-L-97.png?fit=333%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="333" /><p>The EPC91120 combines three EPC23102 GaN half-bridge ICs with a microcontroller, sensing circuitry, encoder interface, and RS485 communication.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/epc-unveils-compact-high-efficiency-gan-motor-drive-inverter-tailored-for-humanoid-robotics/">EPC Unveils Compact High-Efficiency GaN Motor Drive Inverter Tailored for Humanoid Robotics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Crypto Mining ASIC Goes Deep Sub-Threshold On 3 nm](https://www.eetimes.com/crypto-mining-asic-goes-deep-sub-threshold-on-3-nm/)
+**Published:** Tue, 18 Nov 2025 23:00:00 +0000
+
+<p>Triple-1 unveils Kamikaze III, a 3-nm Bitcoin mining chip boasting 10.45 J/TH efficiency.</p>
+<p>The post <a href="https://www.eetimes.com/crypto-mining-asic-goes-deep-sub-threshold-on-3-nm/">Crypto Mining ASIC Goes Deep Sub-Threshold On 3 nm</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
