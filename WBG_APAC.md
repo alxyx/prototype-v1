@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-18 19:40 UTC_
+_Last updated: 2025-11-18 22:53 UTC_
 
 ## [IMEC Achieves GaN Breakdown Voltage Exceeding 650V](https://www.eetasia.com/imec-achieves-gan-breakdown-voltage-exceeding-650v/)
 **Published:** Tue, 18 Nov 2025 02:54:31 +0000
@@ -23,6 +23,70 @@ _Last updated: 2025-11-18 19:40 UTC_
 
 <p>Global Unichip and Ayar Labs are partnering to integrate co-packaged optics into GUC's advanced ASIC design services.</p>
 <p>The post <a href="https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/">GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Agileo Automation Launches Agil’SECS-II](https://www.semiconductor-digest.com/agileo-automation-launches-agilsecs-ii/?utm_source=rss&utm_medium=rss&utm_campaign=agileo-automation-launches-agilsecs-ii)
+**Published:** Tue, 18 Nov 2025 21:57:02 +0000
+
+<p>New SECS-II library helps fabs and OEMs integrate semiconductor tools with the MES in hybrid manufacturing sites, ensuring faster time to market and limiting integration costs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/agileo-automation-launches-agilsecs-ii/">Agileo Automation Launches Agil’SECS-II</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [PTW GROUP Showcases Sustainable Lifecycle Solutions at SEMICON Europa](https://www.semiconductor-digest.com/ptw-group-showcases-sustainable-lifecycle-solutions-at-semicon-europa/?utm_source=rss&utm_medium=rss&utm_campaign=ptw-group-showcases-sustainable-lifecycle-solutions-at-semicon-europa)
+**Published:** Tue, 18 Nov 2025 21:48:51 +0000
+
+<p>Extending tool lifetimes, stabilizing production, and reducing operational risk.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ptw-group-showcases-sustainable-lifecycle-solutions-at-semicon-europa/">PTW GROUP Showcases Sustainable Lifecycle Solutions at SEMICON Europa</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Deloitte 2026 Technology, Media & Telecommunications Predictions: Narrowing the Gap Between the Promise of AI and its Reality](https://www.semiconductor-digest.com/deloitte-2026-technology-media-telecommunications-predictions-narrowing-the-gap-between-the-promise-of-ai-and-its-reality/?utm_source=rss&utm_medium=rss&utm_campaign=deloitte-2026-technology-media-telecommunications-predictions-narrowing-the-gap-between-the-promise-of-ai-and-its-reality)
+**Published:** Tue, 18 Nov 2025 21:43:38 +0000
+
+<p>Deloitte today released its annual “Technology, Media &#038; Telecommunications Predictions” report, which highlights how AI is redefining the foundations of hardware, software, telecom, and media.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/deloitte-2026-technology-media-telecommunications-predictions-narrowing-the-gap-between-the-promise-of-ai-and-its-reality/">Deloitte 2026 Technology, Media &#038; Telecommunications Predictions: Narrowing the Gap Between the Promise of AI and its Reality</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [productronica Innovation Award 2025: Winners Announced](https://www.semiconductor-digest.com/productronica-innovation-award-2025-winners-announced/?utm_source=rss&utm_medium=rss&utm_campaign=productronica-innovation-award-2025-winners-announced)
+**Published:** Tue, 18 Nov 2025 21:39:45 +0000
+
+<p>An independent jury has selected the best innovations from among 80 submissions in six categories.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/productronica-innovation-award-2025-winners-announced/">productronica Innovation Award 2025: Winners Announced</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Tablet OLED Display Shipments to Grow 39% YoY in 2026 While LCD Remains Stable](https://www.semiconductor-digest.com/tablet-oled-display-shipments-to-grow-39-yoy-in-2026-while-lcd-remains-stable/?utm_source=rss&utm_medium=rss&utm_campaign=tablet-oled-display-shipments-to-grow-39-yoy-in-2026-while-lcd-remains-stable)
+**Published:** Tue, 18 Nov 2025 20:53:39 +0000
+
+<p>New analysis from Omdia’s Tablet and Notebook Display and OEM Intelligence Service shows that OLED tablet panel shipments are expected to grow by 39% year-on-year (YoY) to 15 million units in 2026, after many years of lower-than-expected growth.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tablet-oled-display-shipments-to-grow-39-yoy-in-2026-while-lcd-remains-stable/">Tablet OLED Display Shipments to Grow 39% YoY in 2026 While LCD Remains Stable</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [CEA-Leti to Launch Multilateral Program to Accelerate AI with MicroLED Data Links](https://www.semiconductor-digest.com/cea-leti-to-launch-multilateral-program-to-accelerate-ai-with-microled-data-links/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-to-launch-multilateral-program-to-accelerate-ai-with-microled-data-links)
+**Published:** Tue, 18 Nov 2025 20:46:30 +0000
+
+<p>CEA-Leti is launching a multilateral program on microLED technology for ultra-fast data transfer, with a particular focus on accelerating artificial intelligence (AI) growth.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-to-launch-multilateral-program-to-accelerate-ai-with-microled-data-links/">CEA-Leti to Launch Multilateral Program to Accelerate AI with MicroLED Data Links</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Nearfield Instruments Signs Multi-Year Development Project to Advance Semiconductor Metrology](https://www.semiconductor-digest.com/nearfield-instruments-signs-multi-year-development-project-to-advance-semiconductor-metrology/?utm_source=rss&utm_medium=rss&utm_campaign=nearfield-instruments-signs-multi-year-development-project-to-advance-semiconductor-metrology)
+**Published:** Tue, 18 Nov 2025 20:43:40 +0000
+
+<p>Nearfield Instruments, the leader in 3D, non-destructive, in-line process control solutions based on scanning probe technology, today announced a strategic development project to accelerate innovation in semiconductor metrology.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nearfield-instruments-signs-multi-year-development-project-to-advance-semiconductor-metrology/">Nearfield Instruments Signs Multi-Year Development Project to Advance Semiconductor Metrology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [GlobalFoundries Acquires Advanced Micro Foundry](https://www.semiconductor-digest.com/globalfoundries-acquires-advanced-micro-foundry/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-acquires-advanced-micro-foundry)
+**Published:** Tue, 18 Nov 2025 20:40:28 +0000
+
+<p>GF now the largest pure-play silicon photonics foundry, expanding global manufacturing capabilities to serve a broader customer base and meet the growing optical communication demands of AI datacenters.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-acquires-advanced-micro-foundry/">GlobalFoundries Acquires Advanced Micro Foundry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -759,70 +823,6 @@ _Last updated: 2025-11-18 19:40 UTC_
 
 <p>RED Semiconductor International Ltd. has launched Ordo1, a new IP core designed for RISC‑V processors, and announced its membership in RISC‑V International. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/red-semiconductor-launches-ordo1-to-accelerate-edge-ai-innovation/">RED Semiconductor Launches Ordo1 to Accelerate Edge AI Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Soitec and CEA Partner to Develop Automotive Cybersecurity With Advanced FD-SOI Technology](https://www.semiconductor-digest.com/soitec-and-cea-partner-to-develop-automotive-cybersecurity-with-advanced-fd-soi-technology/?utm_source=rss&utm_medium=rss&utm_campaign=soitec-and-cea-partner-to-develop-automotive-cybersecurity-with-advanced-fd-soi-technology)
-**Published:** Tue, 21 Oct 2025 20:52:20 +0000
-
-<p>As vehicles become increasingly software-defined and connected, ensuring robust hardware cybersecurity is ever more critical.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/soitec-and-cea-partner-to-develop-automotive-cybersecurity-with-advanced-fd-soi-technology/">Soitec and CEA Partner to Develop Automotive Cybersecurity With Advanced FD-SOI Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Worcester Polytechnic Institute Professor Awarded Prestigious NSF Grant to Develop Sound-Based Navigation for Tiny Robots](https://www.semiconductor-digest.com/worcester-polytechnic-institute-professor-awarded-prestigious-nsf-grant-to-develop-sound-based-navigation-for-tiny-robots/?utm_source=rss&utm_medium=rss&utm_campaign=worcester-polytechnic-institute-professor-awarded-prestigious-nsf-grant-to-develop-sound-based-navigation-for-tiny-robots)
-**Published:** Tue, 21 Oct 2025 20:36:15 +0000
-
-<p>Bio-inspired research draws from bats and birds to help drones navigate where vision fails.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/worcester-polytechnic-institute-professor-awarded-prestigious-nsf-grant-to-develop-sound-based-navigation-for-tiny-robots/">Worcester Polytechnic Institute Professor Awarded Prestigious NSF Grant to Develop Sound-Based Navigation for Tiny Robots</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMICON Japan 2025 to Spotlight Sustainability in AI and Semiconductor Innovation](https://www.semiconductor-digest.com/semicon-japan-2025-to-spotlight-sustainability-in-ai-and-semiconductor-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-japan-2025-to-spotlight-sustainability-in-ai-and-semiconductor-innovation)
-**Published:** Tue, 21 Oct 2025 18:50:55 +0000
-
-<p>SEMICON Japan 2025, the largest gathering of leaders from the microelectronics manufacturing supply chain in Japan, will bring together more than 1,200 exhibitors showcasing semiconductor solutions from December 17-19 at Tokyo Big Sight.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semicon-japan-2025-to-spotlight-sustainability-in-ai-and-semiconductor-innovation/">SEMICON Japan 2025 to Spotlight Sustainability in AI and Semiconductor Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Leaders Recognized for Significant Contributions to Standards Advancing Semiconductor Manufacturing](https://www.semiconductor-digest.com/leaders-recognized-for-significant-contributions-to-standards-advancing-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=leaders-recognized-for-significant-contributions-to-standards-advancing-semiconductor-manufacturing)
-**Published:** Tue, 21 Oct 2025 17:59:17 +0000
-
-<p>SEMI, the industry association serving the global semiconductor and electronics design and manufacturing supply chain, today announced the recipients of the North America Standards International Awards, presented on October 7 at SEMICON West 2025 in Phoenix, Arizona.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/leaders-recognized-for-significant-contributions-to-standards-advancing-semiconductor-manufacturing/">Leaders Recognized for Significant Contributions to Standards Advancing Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [3D Printed Antenna Arrays Developed for Flexible Wireless Systems](https://www.semiconductor-digest.com/3d-printed-antenna-arrays-developed-for-flexible-wireless-systems/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-antenna-arrays-developed-for-flexible-wireless-systems)
-**Published:** Mon, 20 Oct 2025 20:15:04 +0000
-
-<p>Washington State University-led researchers have developed a chip-sized processor and 3D printed antenna arrays that could someday lead to flexible and wearable wireless systems and improved electronic communications in a wide variety of auto, aviation, and space industry applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/3d-printed-antenna-arrays-developed-for-flexible-wireless-systems/">3D Printed Antenna Arrays Developed for Flexible Wireless Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NEXT Semiconductor Announces Availability of its’ Full Waveform Capture Digital LiDAR Processor](https://www.semiconductor-digest.com/next-semiconductor-announces-availability-of-its-full-waveform-capture-digital-lidar-processor/?utm_source=rss&utm_medium=rss&utm_campaign=next-semiconductor-announces-availability-of-its-full-waveform-capture-digital-lidar-processor)
-**Published:** Mon, 20 Oct 2025 20:01:08 +0000
-
-<p>NEXT Semiconductor Technologies has developed a LiDAR Processor System-On-Chip (SoC) component to address the growing market for LiDAR sensors sourcing data for AI-enhanced autonomous vehicles.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/next-semiconductor-announces-availability-of-its-full-waveform-capture-digital-lidar-processor/">NEXT Semiconductor Announces Availability of its&#8217; Full Waveform Capture Digital LiDAR Processor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IBM and Groq Partner to Accelerate Enterprise AI Deployment](https://www.semiconductor-digest.com/ibm-and-groq-partner-to-accelerate-enterprise-ai-deployment/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-and-groq-partner-to-accelerate-enterprise-ai-deployment)
-**Published:** Mon, 20 Oct 2025 19:51:25 +0000
-
-<p>Partnership aims to deliver faster agentic AI capabilities through IBM watsonx Orchestrate and Groq technology, enabling enterprise clients to take immediate action on complex workflows.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ibm-and-groq-partner-to-accelerate-enterprise-ai-deployment/">IBM and Groq Partner to Accelerate Enterprise AI Deployment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Dexerials Joins Silicon Catalyst as a Strategic Partner](https://www.semiconductor-digest.com/dexerials-joins-silicon-catalyst-as-a-strategic-partner/?utm_source=rss&utm_medium=rss&utm_campaign=dexerials-joins-silicon-catalyst-as-a-strategic-partner)
-**Published:** Mon, 20 Oct 2025 19:44:05 +0000
-
-<p>Dexerials Corporation, an innovator in advanced materials and optical semiconductor devices, announced its strategic partnership with Silicon Catalyst, the world’s only accelerator focused on the global semiconductor industry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/dexerials-joins-silicon-catalyst-as-a-strategic-partner/">Dexerials Joins Silicon Catalyst as a Strategic Partner</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
