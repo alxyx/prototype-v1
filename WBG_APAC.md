@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-18 14:56 UTC_
+_Last updated: 2025-11-18 15:57 UTC_
 
 ## [IMEC Achieves GaN Breakdown Voltage Exceeding 650V](https://www.eetasia.com/imec-achieves-gan-breakdown-voltage-exceeding-650v/)
 **Published:** Tue, 18 Nov 2025 02:54:31 +0000
