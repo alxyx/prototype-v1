@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-18 07:47 UTC_
+_Last updated: 2025-11-18 09:07 UTC_
 
 ## [IMEC Achieves GaN Breakdown Voltage Exceeding 650V](https://www.eetasia.com/imec-achieves-gan-breakdown-voltage-exceeding-650v/)
 **Published:** Tue, 18 Nov 2025 02:54:31 +0000
@@ -826,6 +826,14 @@ _Last updated: 2025-11-18 07:47 UTC_
 
 ---
 
+## [Electrical Breakdown in Diamond: Crystallographic Orientation and Stress-Driven Failure Mechanisms](https://www.powerelectronicsnews.com/electrical-breakdown-in-diamond-crystallographic-orientation-and-stress-driven-failure-mechanisms/)
+**Published:** Tue, 18 Nov 2025 09:04:00 +0000
+
+<p>New research exposes the hidden weak points in diamond and opens pathways toward designing more robust diamond-based technologies.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/electrical-breakdown-in-diamond-crystallographic-orientation-and-stress-driven-failure-mechanisms/">Electrical Breakdown in Diamond: Crystallographic Orientation and Stress-Driven Failure Mechanisms</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Power Electronics Course: Part 24 – Cables in Power Electronics](https://www.powerelectronicsnews.com/power-electronics-course-part-24-cables-in-power-electronics/)
 **Published:** Mon, 17 Nov 2025 08:17:00 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2025-11-18 07:47 UTC_
 
 <img alt="EPC Unveils Compact High-Efficiency GaN Motor Drive Inverter Tailored for Humanoid Robotics." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/EPC91120-PR-333-250-p-L-97.png?fit=333%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="333" /><p>The EPC91120 combines three EPC23102 GaN half-bridge ICs with a microcontroller, sensing circuitry, encoder interface, and RS485 communication.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/epc-unveils-compact-high-efficiency-gan-motor-drive-inverter-tailored-for-humanoid-robotics/">EPC Unveils Compact High-Efficiency GaN Motor Drive Inverter Tailored for Humanoid Robotics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Rad-Hard Buck Controller, Hydrogen-Powered Aircraft, Isolated DC/DC Converter: Power Electronics Week Insights](https://www.powerelectronicsnews.com/rad-hard-buck-controller-hydrogen-powered-aircraft-isolated-dc-dc-converter-power-electronics-week-insights/)
-**Published:** Fri, 07 Nov 2025 16:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Rad-Hard Buck Controller, Hydrogen-Powered Aircraft, and Isolated DC/DC Converter!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/rad-hard-buck-controller-hydrogen-powered-aircraft-isolated-dc-dc-converter-power-electronics-week-insights/">Rad-Hard Buck Controller, Hydrogen-Powered Aircraft, Isolated DC/DC Converter: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
