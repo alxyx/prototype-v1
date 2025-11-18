@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-17 23:46 UTC_
+_Last updated: 2025-11-18 03:50 UTC_
+
+## [IMEC Achieves GaN Breakdown Voltage Exceeding 650V](https://www.eetasia.com/imec-achieves-gan-breakdown-voltage-exceeding-650v/)
+**Published:** Tue, 18 Nov 2025 02:54:31 +0000
+
+<p>Shin-Etsu Chemical's QST substrate has been adopted for IMEC’s 300mm GaN power device development program.</p>
+<p>The post <a href="https://www.eetasia.com/imec-achieves-gan-breakdown-voltage-exceeding-650v/">IMEC Achieves GaN Breakdown Voltage Exceeding 650V</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [The Chip Industry’s Future Equilibrium](https://www.eetasia.com/the-chip-industrys-future-equilibrium/)
 **Published:** Mon, 17 Nov 2025 23:09:58 +0000
@@ -15,14 +23,6 @@ _Last updated: 2025-11-17 23:46 UTC_
 
 <p>Global Unichip and Ayar Labs are partnering to integrate co-packaged optics into GUC's advanced ASIC design services.</p>
 <p>The post <a href="https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/">GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities](https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/)
-**Published:** Thu, 13 Nov 2025 03:17:46 +0000
-
-<p>SK keyfoundry is accelerating the development of SiC-based compound power semiconductor technology with its acquisition of SK powertech.</p>
-<p>The post <a href="https://www.eetasia.com/sk-keyfoundry-acquires-sk-powertech-to-strengthen-sic-technology-capabilities/">SK keyfoundry Acquires SK powertech to Strengthen SiC Technology Capabilities</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
