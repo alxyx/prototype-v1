@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-18 11:02 UTC_
+_Last updated: 2025-11-18 11:46 UTC_
 
 ## [IMEC Achieves GaN Breakdown Voltage Exceeding 650V](https://www.eetasia.com/imec-achieves-gan-breakdown-voltage-exceeding-650v/)
 **Published:** Tue, 18 Nov 2025 02:54:31 +0000
@@ -927,13 +927,6 @@ _Last updated: 2025-11-18 11:02 UTC_
 
 <p>High-end FPGAs/ASICs require precise voltage regulation and high current. Multi-phase converters provide precise voltage regulation with high current capabilities. </p>
 <p>The post <a href="https://www.eetimes.com/designing-multi-phase-converters-for-high-current-applications/">Designing Multi-Phase Converters for High-Current Applications</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [JOB: BMS Hardware Engineer At Zeno In Bengaluru](https://www.electronicsforu.com/career/bms-hardware-engineer-zeno-bengaluru)
-**Published:** Mon, 17 Nov 2025 09:12:34 +0000
-
-<img alt="Embedded Application Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/Job-Opportunities-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Zeno The Role Zeno is seeking a BMS Hardware Engineer to design, develop, and validate the Battery Management System hardware for our next-generation electric motorcycles. This role requires strong expertise in power electronics, analog and digital circuit design, and safety-critical automotive hardware development. You will work closely with [&#8230;]
 
 ---
 
