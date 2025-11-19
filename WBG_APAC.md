@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-19 21:41 UTC_
+_Last updated: 2025-11-19 22:52 UTC_
 
 ## [Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC](https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/)
 **Published:** Wed, 19 Nov 2025 01:58:04 +0000
@@ -23,6 +23,22 @@ _Last updated: 2025-11-19 21:41 UTC_
 
 <p>The notion of balance between performance and purpose, innovation and sustainability, is fast becoming the defining narrative of the global semiconductor sector.</p>
 <p>The post <a href="https://www.eetasia.com/the-chip-industrys-future-equilibrium/">The Chip Industry&#8217;s Future Equilibrium</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [X-FAB and Fraunhofer ENAS Sign Strategic Cooperation Agreement to Accelerate Microtechnology Innovations](https://www.semiconductor-digest.com/x-fab-and-fraunhofer-enas-sign-strategic-cooperation-agreement-to-accelerate-microtechnology-innovations/?utm_source=rss&utm_medium=rss&utm_campaign=x-fab-and-fraunhofer-enas-sign-strategic-cooperation-agreement-to-accelerate-microtechnology-innovations)
+**Published:** Wed, 19 Nov 2025 22:37:36 +0000
+
+<p>The Fraunhofer Institute for Electronic Nano Systems ENAS and X-FAB are joining forces in an innovative cooperation model.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/x-fab-and-fraunhofer-enas-sign-strategic-cooperation-agreement-to-accelerate-microtechnology-innovations/">X-FAB and Fraunhofer ENAS Sign Strategic Cooperation Agreement to Accelerate Microtechnology Innovations</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [“From Lab to Fab” – Innovative Front-End and Advanced Packaging Technologies for the Semiconductor Value Chain](https://www.semiconductor-digest.com/from-lab-to-fab-innovative-front-end-and-advanced-packaging-technologies-for-the-semiconductor-value-chain/?utm_source=rss&utm_medium=rss&utm_campaign=from-lab-to-fab-innovative-front-end-and-advanced-packaging-technologies-for-the-semiconductor-value-chain)
+**Published:** Wed, 19 Nov 2025 22:30:16 +0000
+
+<p>The Fraunhofer Center for Advanced CMOS and Heterointegration Saxony (CEASAX) is driving forward the development of pioneering technologies for microelectronics and has established itself as a key player in the European semiconductor value chain.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/from-lab-to-fab-innovative-front-end-and-advanced-packaging-technologies-for-the-semiconductor-value-chain/">“From Lab to Fab” – Innovative Front-End and Advanced Packaging Technologies for the Semiconductor Value Chain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,22 +823,6 @@ _Last updated: 2025-11-19 21:41 UTC_
 
 <p>Global Semiconductor Alliance (GSA) announced it will honor Dr. Tsu-Jae King Liu, President of the National Academy of Engineering with its prestigious Dr. Morris Chang Exemplary Leadership Award at this year’s Annual Awards Celebration on Dec. 4, 2025.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/dr-tsu-jae-king-liu-to-receive-gsas-dr-morris-chang-exemplary-leadership-award/">Dr. Tsu-Jae King Liu to Receive GSA’s Dr. Morris Chang Exemplary Leadership Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [French Government Backs New Technology for Industrial Quantum Chip Production](https://www.semiconductor-digest.com/french-government-backs-new-technology-for-industrial-quantum-chip-production/?utm_source=rss&utm_medium=rss&utm_campaign=french-government-backs-new-technology-for-industrial-quantum-chip-production)
-**Published:** Thu, 23 Oct 2025 17:19:40 +0000
-
-<p>Supported by the AID, Alice &#038; Bob and PLASSYS-BESTEK have partnered to fabricate next-generation fault-tolerant quantum chips.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/french-government-backs-new-technology-for-industrial-quantum-chip-production/">French Government Backs New Technology for Industrial Quantum Chip Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Inova Semiconductors and TactoTek Collaborate to Advance Intelligent, Integrated Lighting Solutions](https://www.semiconductor-digest.com/inova-semiconductors-and-tactotek-collaborate-to-advance-intelligent-integrated-lighting-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=inova-semiconductors-and-tactotek-collaborate-to-advance-intelligent-integrated-lighting-solutions)
-**Published:** Wed, 22 Oct 2025 19:04:32 +0000
-
-<p>Inova Semiconductors and TactoTek are joining forces to accelerate the development of intelligent, space-efficient, conformal lighting solutions for the automotive sector.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/inova-semiconductors-and-tactotek-collaborate-to-advance-intelligent-integrated-lighting-solutions/">Inova Semiconductors and TactoTek Collaborate to Advance Intelligent, Integrated Lighting Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
