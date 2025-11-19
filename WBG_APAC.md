@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-19 20:45 UTC_
+_Last updated: 2025-11-19 21:41 UTC_
 
 ## [Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC](https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/)
 **Published:** Wed, 19 Nov 2025 01:58:04 +0000
@@ -23,6 +23,14 @@ _Last updated: 2025-11-19 20:45 UTC_
 
 <p>The notion of balance between performance and purpose, innovation and sustainability, is fast becoming the defining narrative of the global semiconductor sector.</p>
 <p>The post <a href="https://www.eetasia.com/the-chip-industrys-future-equilibrium/">The Chip Industry&#8217;s Future Equilibrium</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [IBM and University of Dayton Announce Joint Research Collaboration for Next-Generation Semiconductor Technologies](https://www.semiconductor-digest.com/ibm-and-university-of-dayton-announce-joint-research-collaboration-for-next-generation-semiconductor-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-and-university-of-dayton-announce-joint-research-collaboration-for-next-generation-semiconductor-technologies)
+**Published:** Wed, 19 Nov 2025 21:06:16 +0000
+
+<p>IBM and the University of Dayton today announced an agreement for the joint research and development of next-generation semiconductor technologies and materials.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ibm-and-university-of-dayton-announce-joint-research-collaboration-for-next-generation-semiconductor-technologies/">IBM and University of Dayton Announce Joint Research Collaboration for Next-Generation Semiconductor Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -815,14 +823,6 @@ _Last updated: 2025-11-19 20:45 UTC_
 
 <p>Inova Semiconductors and TactoTek are joining forces to accelerate the development of intelligent, space-efficient, conformal lighting solutions for the automotive sector.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/inova-semiconductors-and-tactotek-collaborate-to-advance-intelligent-integrated-lighting-solutions/">Inova Semiconductors and TactoTek Collaborate to Advance Intelligent, Integrated Lighting Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Microchip Adds Highly Integrated Single-Chip Wireless Platform Designed for Advanced Connectivity, Touch and Motor Control](https://www.semiconductor-digest.com/microchip-adds-highly-integrated-single-chip-wireless-platform-designed-for-advanced-connectivity-touch-and-motor-control/?utm_source=rss&utm_medium=rss&utm_campaign=microchip-adds-highly-integrated-single-chip-wireless-platform-designed-for-advanced-connectivity-touch-and-motor-control)
-**Published:** Wed, 22 Oct 2025 18:54:00 +0000
-
-<p>As connectivity standards and market needs evolve, upgradeability has become essential for extending device lifecycles, minimizing redesigns and enabling differentiated features.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/microchip-adds-highly-integrated-single-chip-wireless-platform-designed-for-advanced-connectivity-touch-and-motor-control/">Microchip Adds Highly Integrated Single-Chip Wireless Platform Designed for Advanced Connectivity, Touch and Motor Control</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
