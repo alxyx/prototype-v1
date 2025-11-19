@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-19 22:52 UTC_
+_Last updated: 2025-11-19 23:45 UTC_
 
 ## [Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC](https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/)
 **Published:** Wed, 19 Nov 2025 01:58:04 +0000
@@ -919,14 +919,6 @@ _Last updated: 2025-11-19 22:52 UTC_
 
 <p>Triple-1 unveils Kamikaze III, a 3-nm Bitcoin mining chip boasting 10.45 J/TH efficiency.</p>
 <p>The post <a href="https://www.eetimes.com/crypto-mining-asic-goes-deep-sub-threshold-on-3-nm/">Crypto Mining ASIC Goes Deep Sub-Threshold On 3 nm</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Europe is Breaking Up with U.S. Cloud](https://www.eetimes.com/europe-breaking-up-cloud-us/)
-**Published:** Mon, 17 Nov 2025 23:00:00 +0000
-
-<p>Geopolitics forces large organizations to abandon hyperscale cloud reliance.</p>
-<p>The post <a href="https://www.eetimes.com/europe-breaking-up-cloud-us/">Europe is Breaking Up with U.S. Cloud</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
