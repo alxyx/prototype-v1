@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-19 11:44 UTC_
+_Last updated: 2025-11-19 13:59 UTC_
 
 ## [Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC](https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/)
 **Published:** Wed, 19 Nov 2025 01:58:04 +0000
@@ -927,6 +927,20 @@ _Last updated: 2025-11-19 11:44 UTC_
 
 <p>Geopolitics forces large organizations to abandon hyperscale cloud reliance.</p>
 <p>The post <a href="https://www.eetimes.com/europe-breaking-up-cloud-us/">Europe is Breaking Up with U.S. Cloud</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [JOB: Electronics Assembly & Soldering Technician At PCB CUPID In Bengaluru](https://www.electronicsforu.com/career/electronics-assembly-soldering-technician-pcb-cupid-bengaluru)
+**Published:** Wed, 19 Nov 2025 11:22:39 +0000
+
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Peenya 2nd Stage, Bengaluru, Karnataka 560058 Company: PCB CUPID Role Responsibilities Ideal Candidate
+
+---
+
+## [JOB: Hardware Design Engineer (PCB) At Vecmocon Technologies In Noida](https://www.electronicsforu.com/career/hardware-design-engineer-pcb-vecmocon-technologies-noida)
+**Published:** Wed, 19 Nov 2025 10:59:51 +0000
+
+<img alt="Sr Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job1-1024x768-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: Vecmocon Technologies About The Role We’re seeking a Hardware Design Engineer to lead the design and development of PCBs for chargers used in electric two and three-wheelers. The role requires deep expertise in PCB design, strong hardware fundamentals, component selection skills, and a solid understanding of power electronics and PCB [&#8230;]
 
 ---
 
