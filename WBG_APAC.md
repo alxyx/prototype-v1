@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-19 17:46 UTC_
+_Last updated: 2025-11-19 19:04 UTC_
 
 ## [Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC](https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/)
 **Published:** Wed, 19 Nov 2025 01:58:04 +0000
@@ -23,6 +23,14 @@ _Last updated: 2025-11-19 17:46 UTC_
 
 <p>The notion of balance between performance and purpose, innovation and sustainability, is fast becoming the defining narrative of the global semiconductor sector.</p>
 <p>The post <a href="https://www.eetasia.com/the-chip-industrys-future-equilibrium/">The Chip Industry&#8217;s Future Equilibrium</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [GlobalFoundries and BAE Systems Collaborate on Semiconductors for Space](https://www.semiconductor-digest.com/globalfoundries-and-bae-systems-collaborate-on-semiconductors-for-space/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-bae-systems-collaborate-on-semiconductors-for-space)
+**Published:** Wed, 19 Nov 2025 18:44:56 +0000
+
+<p>GlobalFoundries today announced that BAE Systems will use GF’s advanced FinFET semiconductor technology in a new offering for space applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-bae-systems-collaborate-on-semiconductors-for-space/">GlobalFoundries and BAE Systems Collaborate on Semiconductors for Space</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -815,14 +823,6 @@ _Last updated: 2025-11-19 17:46 UTC_
 
 <p>In an era of unprecedented AI innovation and growth, the entire data center ecosystem is transforming toward more energy-efficient infrastructure to support sustainable growth.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/micron-delivers-industrys-highest-capacity-socamm2-for-low-power-dram-in-the-ai-data-center/">Micron Delivers Industry’s Highest Capacity SOCAMM2 for Low-Power DRAM in the AI Data Center</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [RED Semiconductor Launches Ordo1 to Accelerate Edge AI Innovation](https://www.semiconductor-digest.com/red-semiconductor-launches-ordo1-to-accelerate-edge-ai-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=red-semiconductor-launches-ordo1-to-accelerate-edge-ai-innovation)
-**Published:** Wed, 22 Oct 2025 18:34:13 +0000
-
-<p>RED Semiconductor International Ltd. has launched Ordo1, a new IP core designed for RISC‑V processors, and announced its membership in RISC‑V International. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/red-semiconductor-launches-ordo1-to-accelerate-edge-ai-innovation/">RED Semiconductor Launches Ordo1 to Accelerate Edge AI Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
