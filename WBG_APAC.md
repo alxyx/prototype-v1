@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-19 19:42 UTC_
+_Last updated: 2025-11-19 20:45 UTC_
 
 ## [Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC](https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/)
 **Published:** Wed, 19 Nov 2025 01:58:04 +0000
@@ -23,6 +23,22 @@ _Last updated: 2025-11-19 19:42 UTC_
 
 <p>The notion of balance between performance and purpose, innovation and sustainability, is fast becoming the defining narrative of the global semiconductor sector.</p>
 <p>The post <a href="https://www.eetasia.com/the-chip-industrys-future-equilibrium/">The Chip Industry&#8217;s Future Equilibrium</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [PicoJool Emerges From Stealth With $12 Million to Solve the Bandwidth Gulf of AI Data Centers](https://www.semiconductor-digest.com/picojool-emerges-from-stealth-with-12-million-to-solve-the-bandwidth-gulf-of-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=picojool-emerges-from-stealth-with-12-million-to-solve-the-bandwidth-gulf-of-ai-data-centers)
+**Published:** Wed, 19 Nov 2025 20:19:59 +0000
+
+<p>High-performance, low-cost PicoJool VCSELs to bridge to the photonic future.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/picojool-emerges-from-stealth-with-12-million-to-solve-the-bandwidth-gulf-of-ai-data-centers/">PicoJool Emerges From Stealth With $12 Million to Solve the Bandwidth Gulf of AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Wooptix Launches New Phemet In-line Semiconductor Wafer Metrology Fab Solution with Industry-leading Speed and Resolution](https://www.semiconductor-digest.com/wooptix-launches-new-phemet-in-line-semiconductor-wafer-metrology-fab-solution-with-industry-leading-speed-and-resolution/?utm_source=rss&utm_medium=rss&utm_campaign=wooptix-launches-new-phemet-in-line-semiconductor-wafer-metrology-fab-solution-with-industry-leading-speed-and-resolution)
+**Published:** Wed, 19 Nov 2025 20:14:06 +0000
+
+<p>Phemet captures more than 16 million data points in one second with ultra-high resolution for highly accurate surface measurements of memory and logic devices and advanced packages.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/wooptix-launches-new-phemet-in-line-semiconductor-wafer-metrology-fab-solution-with-industry-leading-speed-and-resolution/">Wooptix Launches New Phemet In-line Semiconductor Wafer Metrology Fab Solution with Industry-leading Speed and Resolution</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,22 +823,6 @@ _Last updated: 2025-11-19 19:42 UTC_
 
 <p>As connectivity standards and market needs evolve, upgradeability has become essential for extending device lifecycles, minimizing redesigns and enabling differentiated features.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/microchip-adds-highly-integrated-single-chip-wireless-platform-designed-for-advanced-connectivity-touch-and-motor-control/">Microchip Adds Highly Integrated Single-Chip Wireless Platform Designed for Advanced Connectivity, Touch and Motor Control</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [VSORA Launches Europe’s Most Powerful AI Inference Chip](https://www.semiconductor-digest.com/vsora-launches-europes-most-powerful-ai-inference-chip/?utm_source=rss&utm_medium=rss&utm_campaign=vsora-launches-europes-most-powerful-ai-inference-chip)
-**Published:** Wed, 22 Oct 2025 18:44:23 +0000
-
-<p>VSORA today announced the production launch of Jotunn8, an artificial intelligence (AI) inference chip engineered to power next-generation data center applications delivering breakthrough efficiency and scalability for large-scale artificial intelligence deployment.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/vsora-launches-europes-most-powerful-ai-inference-chip/">VSORA Launches Europe’s Most Powerful AI Inference Chip</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Micron Delivers Industry’s Highest Capacity SOCAMM2 for Low-Power DRAM in the AI Data Center](https://www.semiconductor-digest.com/micron-delivers-industrys-highest-capacity-socamm2-for-low-power-dram-in-the-ai-data-center/?utm_source=rss&utm_medium=rss&utm_campaign=micron-delivers-industrys-highest-capacity-socamm2-for-low-power-dram-in-the-ai-data-center)
-**Published:** Wed, 22 Oct 2025 18:40:51 +0000
-
-<p>In an era of unprecedented AI innovation and growth, the entire data center ecosystem is transforming toward more energy-efficient infrastructure to support sustainable growth.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-delivers-industrys-highest-capacity-socamm2-for-low-power-dram-in-the-ai-data-center/">Micron Delivers Industry’s Highest Capacity SOCAMM2 for Low-Power DRAM in the AI Data Center</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
