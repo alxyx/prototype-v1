@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-19 07:47 UTC_
+_Last updated: 2025-11-19 09:07 UTC_
 
 ## [Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC](https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/)
 **Published:** Wed, 19 Nov 2025 01:58:04 +0000
@@ -826,6 +826,14 @@ _Last updated: 2025-11-19 07:47 UTC_
 
 ---
 
+## [Impact of AI Systems on Passive Components](https://www.powerelectronicsnews.com/impact-of-ai-systems-on-passive-components/)
+**Published:** Wed, 19 Nov 2025 08:09:35 +0000
+
+<img alt="Impact of AI Systems on Passive Components." class="webfeedsFeaturedVisual wp-post-image" height="675" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/Cover-Image-1.jpg?fit=1200%2C675" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>There is a constant need for passive components to evolve and adapt to the trends in AI systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/impact-of-ai-systems-on-passive-components/">Impact of AI Systems on Passive Components</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Electrical Breakdown in Diamond: Crystallographic Orientation and Stress-Driven Failure Mechanisms](https://www.powerelectronicsnews.com/electrical-breakdown-in-diamond-crystallographic-orientation-and-stress-driven-failure-mechanisms/)
 **Published:** Tue, 18 Nov 2025 09:04:00 +0000
 
@@ -898,11 +906,11 @@ _Last updated: 2025-11-19 07:47 UTC_
 
 ---
 
-## [EPC Unveils Compact High-Efficiency GaN Motor Drive Inverter Tailored for Humanoid Robotics](https://www.powerelectronicsnews.com/epc-unveils-compact-high-efficiency-gan-motor-drive-inverter-tailored-for-humanoid-robotics/)
-**Published:** Fri, 07 Nov 2025 20:40:00 +0000
+## [WeEn SiC MOSFET & SBD Top-Cooling Packages TOLT/TSPAK](https://www.eetimes.com/ween-sic-mosfet-sbd-top-cooling-packages-tolt-tspak/)
+**Published:** Wed, 19 Nov 2025 08:54:55 +0000
 
-<img alt="EPC Unveils Compact High-Efficiency GaN Motor Drive Inverter Tailored for Humanoid Robotics." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/EPC91120-PR-333-250-p-L-97.png?fit=333%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="333" /><p>The EPC91120 combines three EPC23102 GaN half-bridge ICs with a microcontroller, sensing circuitry, encoder interface, and RS485 communication.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/epc-unveils-compact-high-efficiency-gan-motor-drive-inverter-tailored-for-humanoid-robotics/">EPC Unveils Compact High-Efficiency GaN Motor Drive Inverter Tailored for Humanoid Robotics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>WeEn Semiconductors introduces TOLT and TSPAK top-side cooling packages designed for SiC MOSFETs and Schottky barrier diodes. </p>
+<p>The post <a href="https://www.eetimes.com/ween-sic-mosfet-sbd-top-cooling-packages-tolt-tspak/">WeEn SiC MOSFET &amp; SBD Top-Cooling Packages TOLT/TSPAK</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -922,18 +930,10 @@ _Last updated: 2025-11-19 07:47 UTC_
 
 ---
 
-## [GUC and Ayar Labs Partner to Advance Co- Packaged Optics for Hyperscalers](https://www.eetimes.com/guc-and-ayar-labs-partner-to-advance-co-packaged-optics-for-hyperscalers/)
-**Published:** Mon, 17 Nov 2025 14:00:00 +0000
+## [Quantum Processor For Complex Problems](https://www.electronicsforu.com/special/quantum-processor-for-complex-problems)
+**Published:** Wed, 19 Nov 2025 06:14:48 +0000
 
-<p>Global Unichip Corp. (GUC), and Ayar Labs have announced a strategic partnership to integrate CPO into GUC’s advanced ASIC design services. </p>
-<p>The post <a href="https://www.eetimes.com/guc-and-ayar-labs-partner-to-advance-co-packaged-optics-for-hyperscalers/">GUC and Ayar Labs Partner to Advance Co- Packaged Optics for Hyperscalers</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [JOB: Staff Engineer Applications – Power Electronics At Infineon Technologies In Bengaluru](https://www.electronicsforu.com/career/staff-engineer-applications-power-electronics-infineon-technologies-bengaluru)
-**Published:** Tue, 18 Nov 2025 11:20:05 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/05/infinion-technologies-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Infineon Technologies Infineon Technologies at Bangalore is hiring Product Application engineers, talented Power electronics experts with 8+ years of design experience. Your Role Key responsibilities in your new role: Your Profile Qualifications and skills to help you succeed
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/IBM_Quantum_Loon_300mm_1_90ae804d23-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Quantum computers are built on 300 mm wafers. Teams work together to make quantum chips and test them for the future. Scaling quantum computers requires treating quantum chips like leading-edge hardware. That means fabricating them to the highest quality standards comparable to those used for production-scale classical computer chips. IBM now reports that its IBM Quantum [&#8230;]
 
 ---
 
