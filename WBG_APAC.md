@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-19 04:59 UTC_
+_Last updated: 2025-11-19 05:54 UTC_
 
 ## [Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC](https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/)
 **Published:** Wed, 19 Nov 2025 01:58:04 +0000
@@ -934,13 +934,6 @@ _Last updated: 2025-11-19 04:59 UTC_
 **Published:** Tue, 18 Nov 2025 11:20:05 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/05/infinion-technologies-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Infineon Technologies Infineon Technologies at Bangalore is hiring Product Application engineers, talented Power electronics experts with 8+ years of design experience. Your Role Key responsibilities in your new role: Your Profile Qualifications and skills to help you succeed
-
----
-
-## [JOB: Hardware Design Engineer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/hardware-design-engineer-capgemini-bengaluru)
-**Published:** Tue, 18 Nov 2025 09:53:48 +0000
-
-<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs), printed circuit boards (PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment. Job Description [&#8230;]
 
 ---
 
