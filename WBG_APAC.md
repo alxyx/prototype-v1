@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-18 23:44 UTC_
+_Last updated: 2025-11-19 03:49 UTC_
+
+## [Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC](https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/)
+**Published:** Wed, 19 Nov 2025 01:58:04 +0000
+
+<p>QuickLogic's eFPGA Hard IP was selected by Chipus for a datacenter production ASIC that will be fabricated on 12nm process technology.</p>
+<p>The post <a href="https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/">Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [IMEC Achieves GaN Breakdown Voltage Exceeding 650V](https://www.eetasia.com/imec-achieves-gan-breakdown-voltage-exceeding-650v/)
 **Published:** Tue, 18 Nov 2025 02:54:31 +0000
@@ -15,14 +23,6 @@ _Last updated: 2025-11-18 23:44 UTC_
 
 <p>The notion of balance between performance and purpose, innovation and sustainability, is fast becoming the defining narrative of the global semiconductor sector.</p>
 <p>The post <a href="https://www.eetasia.com/the-chip-industrys-future-equilibrium/">The Chip Industry&#8217;s Future Equilibrium</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers](https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/)
-**Published:** Mon, 17 Nov 2025 02:30:42 +0000
-
-<p>Global Unichip and Ayar Labs are partnering to integrate co-packaged optics into GUC's advanced ASIC design services.</p>
-<p>The post <a href="https://www.eetasia.com/guc-and-ayar-labs-collaborate-to-advance-co-packaged-optics-for-hyperscalers/">GUC and Ayar Labs Collaborate to Advance Co-Packaged Optics for Hyperscalers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
