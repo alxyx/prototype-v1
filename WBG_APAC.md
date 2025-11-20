@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-20 22:48 UTC_
+_Last updated: 2025-11-20 23:46 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -23,6 +23,30 @@ _Last updated: 2025-11-20 22:48 UTC_
 
 <p>QuickLogic's eFPGA Hard IP was selected by Chipus for a datacenter production ASIC that will be fabricated on 12nm process technology.</p>
 <p>The post <a href="https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/">Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [memsstar Offers New Vacuum Vapour-Phase Metal-Assisted Chemical Etching Technology](https://www.semiconductor-digest.com/memsstar-offers-new-vacuum-vapour-phase-metal-assisted-chemical-etching-technology/?utm_source=rss&utm_medium=rss&utm_campaign=memsstar-offers-new-vacuum-vapour-phase-metal-assisted-chemical-etching-technology)
+**Published:** Thu, 20 Nov 2025 23:00:09 +0000
+
+<p>memsstar Ltd. today announced it is now offering a breakthrough vacuum vapour-phase metal-assisted chemical etching (MacEtch) technology.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/memsstar-offers-new-vacuum-vapour-phase-metal-assisted-chemical-etching-technology/">memsstar Offers New Vacuum Vapour-Phase Metal-Assisted Chemical Etching Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [U of A Dedicates First-of-Kind Semiconductor Fabrication Facility](https://www.semiconductor-digest.com/u-of-a-dedicates-first-of-kind-semiconductor-fabrication-facility/?utm_source=rss&utm_medium=rss&utm_campaign=u-of-a-dedicates-first-of-kind-semiconductor-fabrication-facility)
+**Published:** Thu, 20 Nov 2025 22:49:55 +0000
+
+<p>National, state, university and industry leaders gathered for the dedication of the University of Arkansas' Multi-User Silicon Carbide Facility (MUSiC), the only openly accessible fabrication facility of its kind in the U.S.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/u-of-a-dedicates-first-of-kind-semiconductor-fabrication-facility/">U of A Dedicates First-of-Kind Semiconductor Fabrication Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [GlobalFoundries and Navitas Semiconductor Partner to Accelerate U.S. GaN Technology and Manufacturing](https://www.semiconductor-digest.com/globalfoundries-and-navitas-semiconductor-partner-to-accelerate-u-s-gan-technology-and-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-navitas-semiconductor-partner-to-accelerate-u-s-gan-technology-and-manufacturing)
+**Published:** Thu, 20 Nov 2025 22:46:19 +0000
+
+<p>GlobalFoundries and Navitas Semiconductor today announced a long-term strategic partnership to strengthen and accelerate U.S.-based gallium nitride (GaN) technology, design and manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-navitas-semiconductor-partner-to-accelerate-u-s-gan-technology-and-manufacturing/">GlobalFoundries and Navitas Semiconductor Partner to Accelerate U.S. GaN Technology and Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,30 +823,6 @@ _Last updated: 2025-11-20 22:48 UTC_
 
 <p>eInfochips, an Arrow Electronics company, and a provider of product engineering services, and NXP Semiconductors, the trusted partner for innovative solutions in the automotive market, today announced a multi-year collaboration focused on software distribution and customer services.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/einfochips-and-nxp-announce-collaboration/">eInfochips and NXP Announce Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ROHM Develops Breakthrough Schottky Barrier Diode Combining Low VF and IR for Advanced Image Sensor Protection](https://www.semiconductor-digest.com/rohm-develops-breakthrough-schottky-barrier-diode-combining-low-vf-and-ir-for-advanced-image-sensor-protection/?utm_source=rss&utm_medium=rss&utm_campaign=rohm-develops-breakthrough-schottky-barrier-diode-combining-low-vf-and-ir-for-advanced-image-sensor-protection)
-**Published:** Fri, 24 Oct 2025 15:18:55 +0000
-
-<p>ROHM Semiconductor today announced the development of an innovative Schottky barrier diode that overcomes the traditional VF / IR trade-off, delivering high reliability protection for a wide range of high-resolution image sensor applications such as ADAS cameras.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rohm-develops-breakthrough-schottky-barrier-diode-combining-low-vf-and-ir-for-advanced-image-sensor-protection/">ROHM Develops Breakthrough Schottky Barrier Diode Combining Low VF and IR for Advanced Image Sensor Protection</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Arteris Selected by Axelera AI to Accelerate Computer Vision for Edge Devices](https://www.semiconductor-digest.com/arteris-selected-by-axelera-ai-to-accelerate-computer-vision-for-edge-devices/?utm_source=rss&utm_medium=rss&utm_campaign=arteris-selected-by-axelera-ai-to-accelerate-computer-vision-for-edge-devices)
-**Published:** Thu, 23 Oct 2025 18:26:58 +0000
-
-<p>The platform is designed to enable high performance in a power-efficient platform supporting everything from computer vision to complex generative AI models.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/arteris-selected-by-axelera-ai-to-accelerate-computer-vision-for-edge-devices/">Arteris Selected by Axelera AI to Accelerate Computer Vision for Edge Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Imec Sets Electro-Optic Performance Record in Thin-Film Strontium Titanate at Cryogenic Temperatures](https://www.semiconductor-digest.com/imec-sets-electro-optic-performance-record-in-thin-film-strontium-titanate-at-cryogenic-temperatures/?utm_source=rss&utm_medium=rss&utm_campaign=imec-sets-electro-optic-performance-record-in-thin-film-strontium-titanate-at-cryogenic-temperatures)
-**Published:** Thu, 23 Oct 2025 18:19:24 +0000
-
-<p>Published today in Science, this breakthrough in material engineering accelerates the roadmap for quantum applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/imec-sets-electro-optic-performance-record-in-thin-film-strontium-titanate-at-cryogenic-temperatures/">Imec Sets Electro-Optic Performance Record in Thin-Film Strontium Titanate at Cryogenic Temperatures</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
