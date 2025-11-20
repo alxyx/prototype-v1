@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-20 03:47 UTC_
+_Last updated: 2025-11-20 04:56 UTC_
+
+## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
+**Published:** Thu, 20 Nov 2025 03:35:57 +0000
+
+<p>Wolfspeed's modules deliver three times more power cycling capability at operating temperature than competing solutions.</p>
+<p>The post <a href="https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/">Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Qualitas Semiconductor Bags 4nm UCIe, PCIe Gen 6.0 IP Licensing Agreement in the U.S.](https://www.eetasia.com/qualitas-semiconductor-bags-4nm-ucie-pcie-gen-6-0-ip-licensing-agreement-in-the-u-s/)
 **Published:** Thu, 20 Nov 2025 03:26:38 +0000
@@ -15,14 +23,6 @@ _Last updated: 2025-11-20 03:47 UTC_
 
 <p>QuickLogic's eFPGA Hard IP was selected by Chipus for a datacenter production ASIC that will be fabricated on 12nm process technology.</p>
 <p>The post <a href="https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/">Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [IMEC Achieves GaN Breakdown Voltage Exceeding 650V](https://www.eetasia.com/imec-achieves-gan-breakdown-voltage-exceeding-650v/)
-**Published:** Tue, 18 Nov 2025 02:54:31 +0000
-
-<p>Shin-Etsu Chemical's QST substrate has been adopted for IMEC’s 300mm GaN power device development program.</p>
-<p>The post <a href="https://www.eetasia.com/imec-achieves-gan-breakdown-voltage-exceeding-650v/">IMEC Achieves GaN Breakdown Voltage Exceeding 650V</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
