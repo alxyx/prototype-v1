@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-20 11:44 UTC_
+_Last updated: 2025-11-20 13:52 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -922,24 +922,10 @@ _Last updated: 2025-11-20 11:44 UTC_
 
 ---
 
-## [JOB: Electronics Assembly & Soldering Technician At PCB CUPID In Bengaluru](https://www.electronicsforu.com/career/electronics-assembly-soldering-technician-pcb-cupid-bengaluru)
-**Published:** Wed, 19 Nov 2025 11:22:39 +0000
+## [Next-Gen Storage Stack Supercharges AI](https://www.electronicsforu.com/news/next-gen-storage-stack-supercharges-ai)
+**Published:** Thu, 20 Nov 2025 07:28:36 +0000
 
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Peenya 2nd Stage, Bengaluru, Karnataka 560058 Company: PCB CUPID Role Responsibilities Ideal Candidate
-
----
-
-## [JOB: Hardware Design Engineer (PCB) At Vecmocon Technologies In Noida](https://www.electronicsforu.com/career/hardware-design-engineer-pcb-vecmocon-technologies-noida)
-**Published:** Wed, 19 Nov 2025 10:59:51 +0000
-
-<img alt="Sr Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job1-1024x768-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: Vecmocon Technologies About The Role We’re seeking a Hardware Design Engineer to lead the design and development of PCBs for chargers used in electric two and three-wheelers. The role requires deep expertise in PCB design, strong hardware fundamentals, component selection skills, and a solid understanding of power electronics and PCB [&#8230;]
-
----
-
-## [Quantum Processor For Complex Problems](https://www.electronicsforu.com/special/quantum-processor-for-complex-problems)
-**Published:** Wed, 19 Nov 2025 06:14:48 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/IBM_Quantum_Loon_300mm_1_90ae804d23-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Quantum computers are built on 300 mm wafers. Teams work together to make quantum chips and test them for the future. Scaling quantum computers requires treating quantum chips like leading-edge hardware. That means fabricating them to the highest quality standards comparable to those used for production-scale classical computer chips. IBM now reports that its IBM Quantum [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/PR-image_Phison-Accelerates-AI-Workloads-with-Expanded-Infrastructure-Portfolio-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new enterprise storage lineup and client-side GPU-assisted acceleration aim to push AI workloads faster from dense cloud clusters to everyday laptops reshaping how organizations deploy and scale AI. Phison’s latest storage and acceleration technologies arrive at a moment when enterprises are scrambling to match infrastructure with soaring AI compute demand. The company’s expanded portfolio [&#8230;]
 
 ---
 
