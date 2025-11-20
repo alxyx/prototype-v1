@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-20 07:47 UTC_
+_Last updated: 2025-11-20 09:07 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -826,6 +826,14 @@ _Last updated: 2025-11-20 07:47 UTC_
 
 ---
 
+## [Power Electronics Course: Part 25 – Overview of Battery Energy Storage Systems (BESS)](https://www.powerelectronicsnews.com/power-electronics-course-part-25-overview-of-battery-energy-storage-systems-bess/)
+**Published:** Thu, 20 Nov 2025 08:34:31 +0000
+
+<img alt="Power Electronics Course: Part 25 - Overview of Battery Energy Storage Systems (BESS)." class="webfeedsFeaturedVisual wp-post-image" height="500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/figure-00-power-20220627-1.jpg?fit=800%2C500" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>Battery Energy Storage Systems (BESS) are fundamental components in the transition to more flexible and sustainable electricity grids. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-part-25-overview-of-battery-energy-storage-systems-bess/">Power Electronics Course: Part 25 &#8211; Overview of Battery Energy Storage Systems (BESS)</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Impact of AI Systems on Passive Components](https://www.powerelectronicsnews.com/impact-of-ai-systems-on-passive-components/)
 **Published:** Wed, 19 Nov 2025 08:09:35 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2025-11-20 07:47 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="639" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/03/SemiconductorWafer.jpg?fit=1000%2C639" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The licensing arrangement will support the development of GF’s future GaN technology portfolio, with products anticipated to reach the market in late 2026.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/globalfoundries-secures-tsmc-gan-technology-license-to-boost-u-s-power-semiconductor-production/">GlobalFoundries Secures TSMC GaN Technology License to Boost U.S. Power Semiconductor Production</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Micromirror-Based Maskless Lithography Targets Advanced Packaging](https://www.powerelectronicsnews.com/micromirror-based-maskless-lithography-targets-advanced-packaging/)
-**Published:** Mon, 10 Nov 2025 08:49:37 +0000
-
-<img alt="Micromirror-Based Maskless Lithography Targets Advanced Packaging." class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/ti-dlp-technology-digital-lithography.jpg?fit=3840%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="3840" /><p>Maskless lithography enables pattern formation directly on a surface—such as a printed circuit board or an advanced packaging substrate—without the need to produce photomasks.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/micromirror-based-maskless-lithography-targets-advanced-packaging/">Micromirror-Based Maskless Lithography Targets Advanced Packaging</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
