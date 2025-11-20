@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-20 21:44 UTC_
+_Last updated: 2025-11-20 22:48 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -23,6 +23,14 @@ _Last updated: 2025-11-20 21:44 UTC_
 
 <p>QuickLogic's eFPGA Hard IP was selected by Chipus for a datacenter production ASIC that will be fabricated on 12nm process technology.</p>
 <p>The post <a href="https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/">Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Dr. Lisa Su, AMD Chair and CEO, Elected Chair of Semiconductor Industry Association](https://www.semiconductor-digest.com/dr-lisa-su-amd-chair-and-ceo-elected-chair-of-semiconductor-industry-association/?utm_source=rss&utm_medium=rss&utm_campaign=dr-lisa-su-amd-chair-and-ceo-elected-chair-of-semiconductor-industry-association)
+**Published:** Thu, 20 Nov 2025 22:26:21 +0000
+
+<p>The Semiconductor Industry Association (SIA) today announced AMD Chair and CEO Dr. Lisa Su has been elected Chair of the SIA Board of Directors.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/dr-lisa-su-amd-chair-and-ceo-elected-chair-of-semiconductor-industry-association/">Dr. Lisa Su, AMD Chair and CEO, Elected Chair of Semiconductor Industry Association</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -815,14 +823,6 @@ _Last updated: 2025-11-20 21:44 UTC_
 
 <p>Published today in Science, this breakthrough in material engineering accelerates the roadmap for quantum applications.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/imec-sets-electro-optic-performance-record-in-thin-film-strontium-titanate-at-cryogenic-temperatures/">Imec Sets Electro-Optic Performance Record in Thin-Film Strontium Titanate at Cryogenic Temperatures</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Dominican Republic and NVIDIA Forge Strategic Alliance to Lead Regional AI Innovation](https://www.semiconductor-digest.com/dominican-republic-and-nvidia-forge-strategic-alliance-to-lead-regional-ai-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=dominican-republic-and-nvidia-forge-strategic-alliance-to-lead-regional-ai-innovation)
-**Published:** Thu, 23 Oct 2025 18:13:40 +0000
-
-<p>In a bold move to accelerate its digital transformation and assert its role as a regional leader in emerging technologies, the Dominican Republic has signed a landmark agreement with NVIDIA, the global leader in artificial intelligence (AI) and accelerated computing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/dominican-republic-and-nvidia-forge-strategic-alliance-to-lead-regional-ai-innovation/">Dominican Republic and NVIDIA Forge Strategic Alliance to Lead Regional AI Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
