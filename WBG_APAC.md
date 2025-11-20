@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-19 23:45 UTC_
+_Last updated: 2025-11-20 03:47 UTC_
+
+## [Qualitas Semiconductor Bags 4nm UCIe, PCIe Gen 6.0 IP Licensing Agreement in the U.S.](https://www.eetasia.com/qualitas-semiconductor-bags-4nm-ucie-pcie-gen-6-0-ip-licensing-agreement-in-the-u-s/)
+**Published:** Thu, 20 Nov 2025 03:26:38 +0000
+
+<p>Qualitas will deliver 4nm UCIe Standard (32Gb/s) PHY and Controller IP, along with its PCIe Gen 6.0 PHY IP.</p>
+<p>The post <a href="https://www.eetasia.com/qualitas-semiconductor-bags-4nm-ucie-pcie-gen-6-0-ip-licensing-agreement-in-the-u-s/">Qualitas Semiconductor Bags 4nm UCIe, PCIe Gen 6.0 IP Licensing Agreement in the U.S.</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC](https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/)
 **Published:** Wed, 19 Nov 2025 01:58:04 +0000
@@ -18,11 +26,19 @@ _Last updated: 2025-11-19 23:45 UTC_
 
 ---
 
-## [The Chip Industry’s Future Equilibrium](https://www.eetasia.com/the-chip-industrys-future-equilibrium/)
-**Published:** Mon, 17 Nov 2025 23:09:58 +0000
+## [Koh Young Unveils Breakthrough Innovations at Productronica and SEMICON Europa 2025](https://www.semiconductor-digest.com/koh-young-unveils-breakthrough-innovations-at-productronica-and-semicon-europa-2025/?utm_source=rss&utm_medium=rss&utm_campaign=koh-young-unveils-breakthrough-innovations-at-productronica-and-semicon-europa-2025)
+**Published:** Wed, 19 Nov 2025 23:53:32 +0000
 
-<p>The notion of balance between performance and purpose, innovation and sustainability, is fast becoming the defining narrative of the global semiconductor sector.</p>
-<p>The post <a href="https://www.eetasia.com/the-chip-industrys-future-equilibrium/">The Chip Industry&#8217;s Future Equilibrium</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Koh Young will showcase a wave of innovations at Productronica and SEMICON Europa 2025, taking place November 18–21 at Messe München, Germany.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/koh-young-unveils-breakthrough-innovations-at-productronica-and-semicon-europa-2025/">Koh Young Unveils Breakthrough Innovations at Productronica and SEMICON Europa 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Brewer Science Participating in the Next-Generation Semiconductor Packaging Consortium “JOINT3”](https://www.semiconductor-digest.com/participating-in-the-next-generation-semiconductor-packaging-consortium-joint3/?utm_source=rss&utm_medium=rss&utm_campaign=participating-in-the-next-generation-semiconductor-packaging-consortium-joint3)
+**Published:** Wed, 19 Nov 2025 23:36:38 +0000
+
+<p>JOINT3 is a co-creation evaluation platform established by Resonac Corporation with the aim of accelerating the development of materials, equipment, and design tools optimized for panel-level organic interposers through collaboration among material, equipment, and design companies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/participating-in-the-next-generation-semiconductor-packaging-consortium-joint3/">Brewer Science Participating in the Next-Generation Semiconductor Packaging Consortium &#8220;JOINT3&#8221;</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,22 +823,6 @@ _Last updated: 2025-11-19 23:45 UTC_
 
 <p>In a bold move to accelerate its digital transformation and assert its role as a regional leader in emerging technologies, the Dominican Republic has signed a landmark agreement with NVIDIA, the global leader in artificial intelligence (AI) and accelerated computing.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/dominican-republic-and-nvidia-forge-strategic-alliance-to-lead-regional-ai-innovation/">Dominican Republic and NVIDIA Forge Strategic Alliance to Lead Regional AI Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NNME Debuts ChipPath as the Central Gateway for U.S. Semiconductor Careers](https://www.semiconductor-digest.com/nnme-debuts-chippath-as-the-central-gateway-for-u-s-semiconductor-careers/?utm_source=rss&utm_medium=rss&utm_campaign=nnme-debuts-chippath-as-the-central-gateway-for-u-s-semiconductor-careers)
-**Published:** Thu, 23 Oct 2025 18:04:52 +0000
-
-<p>To help meet the growing demand for skilled workers in the U.S. semiconductor and microelectronics industry, the National Network for Microelectronics Education (NNME), operated by the SEMI Foundation, today announced the launch of ChipPath.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nnme-debuts-chippath-as-the-central-gateway-for-u-s-semiconductor-careers/">NNME Debuts ChipPath as the Central Gateway for U.S. Semiconductor Careers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Dr. Tsu-Jae King Liu to Receive GSA’s Dr. Morris Chang Exemplary Leadership Award](https://www.semiconductor-digest.com/dr-tsu-jae-king-liu-to-receive-gsas-dr-morris-chang-exemplary-leadership-award/?utm_source=rss&utm_medium=rss&utm_campaign=dr-tsu-jae-king-liu-to-receive-gsas-dr-morris-chang-exemplary-leadership-award)
-**Published:** Thu, 23 Oct 2025 17:42:44 +0000
-
-<p>Global Semiconductor Alliance (GSA) announced it will honor Dr. Tsu-Jae King Liu, President of the National Academy of Engineering with its prestigious Dr. Morris Chang Exemplary Leadership Award at this year’s Annual Awards Celebration on Dec. 4, 2025.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/dr-tsu-jae-king-liu-to-receive-gsas-dr-morris-chang-exemplary-leadership-award/">Dr. Tsu-Jae King Liu to Receive GSA’s Dr. Morris Chang Exemplary Leadership Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
