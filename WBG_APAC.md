@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-21 09:52 UTC_
+_Last updated: 2025-11-21 10:57 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -946,10 +946,10 @@ _Last updated: 2025-11-21 09:52 UTC_
 
 ---
 
-## [JOB: Power Electronics Engineering Trainee At General Electric In Bengaluru](https://www.electronicsforu.com/career/power-electronics-engineering-trainee-general-electric-bengaluru)
-**Published:** Thu, 20 Nov 2025 12:04:58 +0000
+## [JOB: Manager – Power Electronics and Digital Solutions (Firmware) At Schneider Electric In Mumbai](https://www.electronicsforu.com/career/manager-power-electronics-digital-solutions-firmware-schneider-electric-mumbai)
+**Published:** Fri, 21 Nov 2025 09:15:13 +0000
 
-<img alt="General Electrics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/11/General-Electric-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: GE Healthcare Company: Bengaluru Graduate Engineer Trainee (Power Electronics) is primarily responsible for the Design &#38; Development of electronic hardware for High Frequency High Voltage Generators for usage in X-Ray generation applications with a constant eye for Design improvements, Quality, Cost, Productivity &#38; Reliability. This opportunity is in Electrical/Power electronics design and [&#8230;]
+<img alt="Test Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2017/08/Schneider-Electric-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Mumbai Company: Schneider Electric Key Responsibilities/Deliverables Functional Competencies What qualifications will make you successful for this role?
 
 ---
 
