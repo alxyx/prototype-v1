@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-21 07:11 UTC_
+_Last updated: 2025-11-21 07:48 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -919,6 +919,22 @@ _Last updated: 2025-11-21 07:11 UTC_
 
 <p>Triple-1 unveils Kamikaze III, a 3-nm Bitcoin mining chip boasting 10.45 J/TH efficiency.</p>
 <p>The post <a href="https://www.eetimes.com/crypto-mining-asic-goes-deep-sub-threshold-on-3-nm/">Crypto Mining ASIC Goes Deep Sub-Threshold On 3 nm</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [22% semi growth this year, says SI](https://www.electronicsweekly.com/news/business/22-semi-growth-this-year-says-si-2025-11/)
+**Published:** Fri, 21 Nov 2025 06:28:50 +0000
+
+<p>The world semiconductor market was $208 billion in third-quarter 2025, according to WSTS. This marks the first time the market has been above $200 billion, says Semiconductor Intelligence (SI). .3Q ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/22-semi-growth-this-year-says-si-2025-11/">22% semi growth this year, says SI</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Dcubed eyes in-space manufacturing of solar arrays](https://www.electronicsweekly.com/news/dcubed-eyes-in-space-manufacturing-of-solar-arrays-2025-11/)
+**Published:** Fri, 21 Nov 2025 06:06:57 +0000
+
+<p>Dcubed has unveiled plans to demonstrate what it describes as a 2kW in-space manufactured (ISM) solar array, ARAQYS-D3 mission. Basically, a demonstration of space-based energy systems. The system is designed ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/dcubed-eyes-in-space-manufacturing-of-solar-arrays-2025-11/">Dcubed eyes in-space manufacturing of solar arrays</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
