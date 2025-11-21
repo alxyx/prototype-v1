@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-21 19:01 UTC_
+_Last updated: 2025-11-21 19:41 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -23,6 +23,30 @@ _Last updated: 2025-11-21 19:01 UTC_
 
 <p>QuickLogic's eFPGA Hard IP was selected by Chipus for a datacenter production ASIC that will be fabricated on 12nm process technology.</p>
 <p>The post <a href="https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/">Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Strong Signal for the Industry: productronica 2025 Drives Positive Industry Trend](https://www.semiconductor-digest.com/strong-signal-for-the-industry-productronica-2025-drives-positive-industry-trend/?utm_source=rss&utm_medium=rss&utm_campaign=strong-signal-for-the-industry-productronica-2025-drives-positive-industry-trend)
+**Published:** Fri, 21 Nov 2025 19:21:11 +0000
+
+<p>From November 18 to 21, over 1,600 exhibitors from 52 countries met at productronica to present innovations in electronics development and production.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/strong-signal-for-the-industry-productronica-2025-drives-positive-industry-trend/">Strong Signal for the Industry: productronica 2025 Drives Positive Industry Trend</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Semiconductor Startup Sophrosyne Technologies Raises $2M in Seed Round from Bluehill.VC](https://www.semiconductor-digest.com/semiconductor-startup-sophrosyne-technologies-raises-2m-in-seed-round-from-bluehill-vc/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-startup-sophrosyne-technologies-raises-2m-in-seed-round-from-bluehill-vc)
+**Published:** Fri, 21 Nov 2025 19:11:21 +0000
+
+<p>Bengaluru-based semiconductor startup Sophrosyne Technologies has raised $2M in seed round, fully subscribed by Bluehill.VC.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-startup-sophrosyne-technologies-raises-2m-in-seed-round-from-bluehill-vc/">Semiconductor Startup Sophrosyne Technologies Raises $2M in Seed Round from Bluehill.VC</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Lam Research Deepens Investment in Silicon Forest to Accelerate Semiconductor Industry Leadership in the AI Era](https://www.semiconductor-digest.com/lam-research-deepens-investment-in-silicon-forest-to-accelerate-semiconductor-industry-leadership-in-the-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-deepens-investment-in-silicon-forest-to-accelerate-semiconductor-industry-leadership-in-the-ai-era)
+**Published:** Fri, 21 Nov 2025 18:58:05 +0000
+
+<p>In a ribbon-cutting event today at its campus in Tualatin, OR, Lam Research Corp. commemorated the opening of its new, $65 million office building.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lam-research-deepens-investment-in-silicon-forest-to-accelerate-semiconductor-industry-leadership-in-the-ai-era/">Lam Research Deepens Investment in Silicon Forest to Accelerate Semiconductor Industry Leadership in the AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,30 +823,6 @@ _Last updated: 2025-11-21 19:01 UTC_
 
 <p>NXP Semiconductors N.V. has announced the completion of its acquisitions of Aviva Links, and Kinara.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/nxp-completes-acquisitions-of-aviva-links-and-kinara/">NXP Completes Acquisitions of Aviva Links and Kinara</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Skyworks and Qorvo Announce Merger](https://www.semiconductor-digest.com/skyworks-and-qorvo-announce-merger/?utm_source=rss&utm_medium=rss&utm_campaign=skyworks-and-qorvo-announce-merger)
-**Published:** Tue, 28 Oct 2025 17:38:13 +0000
-
-<p>Phil Brace will serve as chief executive officer of the combined company; Bob Bruggeworth will join the Board of Directors of the combined company.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/skyworks-and-qorvo-announce-merger/">Skyworks and Qorvo Announce Merger</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries Plans Billion-Euro Investment to Expand Chip Manufacturing in Germany](https://www.semiconductor-digest.com/globalfoundries-plans-billion-euro-investment-to-expand-chip-manufacturing-in-germany/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-plans-billion-euro-investment-to-expand-chip-manufacturing-in-germany)
-**Published:** Tue, 28 Oct 2025 17:34:38 +0000
-
-<p>€1.1 billion planned investment to scale manufacturing and infrastructure in Dresden and boost Europe’s semiconductor supply chain resilience.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-plans-billion-euro-investment-to-expand-chip-manufacturing-in-germany/">GlobalFoundries Plans Billion-Euro Investment to Expand Chip Manufacturing in Germany</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries Announces Chief Financial Officer Transition](https://www.semiconductor-digest.com/globalfoundries-announces-chief-financial-officer-transition/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-announces-chief-financial-officer-transition)
-**Published:** Mon, 27 Oct 2025 21:14:10 +0000
-
-<p>GlobalFoundries today announced that, effectively immediately, John Hollister, GF’s Chief Financial Officer, is leaving the company for personal reasons.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-announces-chief-financial-officer-transition/">GlobalFoundries Announces Chief Financial Officer Transition</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
