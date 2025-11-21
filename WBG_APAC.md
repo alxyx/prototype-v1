@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-21 05:55 UTC_
+_Last updated: 2025-11-21 07:11 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -934,13 +934,6 @@ _Last updated: 2025-11-21 05:55 UTC_
 **Published:** Thu, 20 Nov 2025 12:04:58 +0000
 
 <img alt="General Electrics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/11/General-Electric-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: GE Healthcare Company: Bengaluru Graduate Engineer Trainee (Power Electronics) is primarily responsible for the Design &#38; Development of electronic hardware for High Frequency High Voltage Generators for usage in X-Ray generation applications with a constant eye for Design improvements, Quality, Cost, Productivity &#38; Reliability. This opportunity is in Electrical/Power electronics design and [&#8230;]
-
----
-
-## [Next-Gen Storage Stack Supercharges AI](https://www.electronicsforu.com/news/next-gen-storage-stack-supercharges-ai)
-**Published:** Thu, 20 Nov 2025 07:28:36 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/PR-image_Phison-Accelerates-AI-Workloads-with-Expanded-Infrastructure-Portfolio-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new enterprise storage lineup and client-side GPU-assisted acceleration aim to push AI workloads faster from dense cloud clusters to everyday laptops reshaping how organizations deploy and scale AI. Phison’s latest storage and acceleration technologies arrive at a moment when enterprises are scrambling to match infrastructure with soaring AI compute demand. The company’s expanded portfolio [&#8230;]
 
 ---
 
