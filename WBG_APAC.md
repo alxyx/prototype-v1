@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-21 19:41 UTC_
+_Last updated: 2025-11-21 20:53 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -23,6 +23,14 @@ _Last updated: 2025-11-21 19:41 UTC_
 
 <p>QuickLogic's eFPGA Hard IP was selected by Chipus for a datacenter production ASIC that will be fabricated on 12nm process technology.</p>
 <p>The post <a href="https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/">Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [VLSI EXPERT Selects Innatera Spiking Neural Processors to Build Industry-Led Neuromorphic Talent Pool](https://www.semiconductor-digest.com/vlsi-expert-selects-innatera-spiking-neural-processors-to-build-industry-led-neuromorphic-talent-pool/?utm_source=rss&utm_medium=rss&utm_campaign=vlsi-expert-selects-innatera-spiking-neural-processors-to-build-industry-led-neuromorphic-talent-pool)
+**Published:** Fri, 21 Nov 2025 19:35:28 +0000
+
+<p>Hands-on courses will be powered by Pulsar microcontrollers across universities and professional programs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/vlsi-expert-selects-innatera-spiking-neural-processors-to-build-industry-led-neuromorphic-talent-pool/">VLSI EXPERT Selects Innatera Spiking Neural Processors to Build Industry-Led Neuromorphic Talent Pool</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -815,14 +823,6 @@ _Last updated: 2025-11-21 19:41 UTC_
 
 <p>Global shipments of silicon wafers are projected to increase 5.4% in 2025 to 12,824 million square inches (MSI) followed by steady growth through 2028 when the market is expected to reach a new industry record of 15,485.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semi-reports-global-silicon-wafer-shipments-to-rebound-5-4-in-2025/">SEMI Reports Global Silicon Wafer Shipments to Rebound 5.4% in 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NXP Completes Acquisitions of Aviva Links and Kinara](https://www.semiconductor-digest.com/nxp-completes-acquisitions-of-aviva-links-and-kinara/?utm_source=rss&utm_medium=rss&utm_campaign=nxp-completes-acquisitions-of-aviva-links-and-kinara)
-**Published:** Tue, 28 Oct 2025 17:44:20 +0000
-
-<p>NXP Semiconductors N.V. has announced the completion of its acquisitions of Aviva Links, and Kinara.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nxp-completes-acquisitions-of-aviva-links-and-kinara/">NXP Completes Acquisitions of Aviva Links and Kinara</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
