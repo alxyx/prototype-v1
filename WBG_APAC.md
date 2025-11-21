@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-21 15:46 UTC_
+_Last updated: 2025-11-21 16:58 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -935,14 +935,6 @@ _Last updated: 2025-11-21 15:46 UTC_
 
 <p>Dcubed has unveiled plans to demonstrate what it describes as a 2kW in-space manufactured (ISM) solar array, ARAQYS-D3 mission. Basically, a demonstration of space-based energy systems. The system is designed ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/dcubed-eyes-in-space-manufacturing-of-solar-arrays-2025-11/">Dcubed eyes in-space manufacturing of solar arrays</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Registration is open now for Microelectronics US 2026](https://www.electronicsweekly.com/news/registration-is-open-now-for-microelectronics-us-2026-2025-11/)
-**Published:** Thu, 20 Nov 2025 14:26:17 +0000
-
-<p>A new event for the electronics industry is heading across the Atlantic to the US. Like its UK counterpart, Microelectronics US will bring together semiconductors, photonics and embedded systems for ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/registration-is-open-now-for-microelectronics-us-2026-2025-11/">Registration is open now for Microelectronics US 2026</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
