@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-21 22:53 UTC_
+_Last updated: 2025-11-21 23:45 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -911,14 +911,6 @@ _Last updated: 2025-11-21 22:53 UTC_
 
 <p>WeEn Semiconductors introduces TOLT and TSPAK top-side cooling packages designed for SiC MOSFETs and Schottky barrier diodes. </p>
 <p>The post <a href="https://www.eetimes.com/ween-sic-mosfet-sbd-top-cooling-packages-tolt-tspak/">WeEn SiC MOSFET &amp; SBD Top-Cooling Packages TOLT/TSPAK</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Crypto Mining ASIC Goes Deep Sub-Threshold On 3 nm](https://www.eetimes.com/crypto-mining-asic-goes-deep-sub-threshold-on-3-nm/)
-**Published:** Tue, 18 Nov 2025 23:00:00 +0000
-
-<p>Triple-1 unveils Kamikaze III, a 3-nm Bitcoin mining chip boasting 10.45 J/TH efficiency.</p>
-<p>The post <a href="https://www.eetimes.com/crypto-mining-asic-goes-deep-sub-threshold-on-3-nm/">Crypto Mining ASIC Goes Deep Sub-Threshold On 3 nm</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
