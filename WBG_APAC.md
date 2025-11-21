@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-20 23:46 UTC_
+_Last updated: 2025-11-21 03:47 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -23,6 +23,54 @@ _Last updated: 2025-11-20 23:46 UTC_
 
 <p>QuickLogic's eFPGA Hard IP was selected by Chipus for a datacenter production ASIC that will be fabricated on 12nm process technology.</p>
 <p>The post <a href="https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/">Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [How to Get Electrical Signals into a Hermetically Sealed Environment?](https://www.semiconductor-digest.com/how-to-get-electrical-signals-into-a-hermetically-sealed-environment/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-electrical-signals-into-a-hermetically-sealed-environment)
+**Published:** Fri, 21 Nov 2025 01:38:19 +0000
+
+<p>How to pass energy, signals and light from outside of a vacuum without leakage into a vacuum chamber? Hermetic sealing technology combines metal and glass to create vacuum-tight electrical connectors or feedthroughs that can be used in a wide range of applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/how-to-get-electrical-signals-into-a-hermetically-sealed-environment/">How to Get Electrical Signals into a Hermetically Sealed Environment?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [A Decade of Discovery: Heidelberg Instruments’ MLA 150 Maskless Aligner Turns 10](https://www.semiconductor-digest.com/a-decade-of-discovery-heidelberg-instruments-mla-150-maskless-aligner-turns-10/?utm_source=rss&utm_medium=rss&utm_campaign=a-decade-of-discovery-heidelberg-instruments-mla-150-maskless-aligner-turns-10)
+**Published:** Fri, 21 Nov 2025 01:31:21 +0000
+
+<p>Heidelberg Instruments proudly celebrates the 10th anniversary of the MLA 150 Maskless Aligner—a breakthrough that has redefined high-resolution lithography in cleanrooms around the world.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/a-decade-of-discovery-heidelberg-instruments-mla-150-maskless-aligner-turns-10/">A Decade of Discovery: Heidelberg Instruments’ MLA 150 Maskless Aligner Turns 10</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Europe Recognizes Owen Guy as the Academia Impact Award Recipient](https://www.semiconductor-digest.com/semi-europe-recognizes-owen-guy-as-the-academia-impact-award-recipient/?utm_source=rss&utm_medium=rss&utm_campaign=semi-europe-recognizes-owen-guy-as-the-academia-impact-award-recipient)
+**Published:** Fri, 21 Nov 2025 01:06:33 +0000
+
+<p>SEMI Europe today announced that Dr. Owen J. Guy, Professor of Chemistry at the Centre for Integrative Semiconductor Materials (CISM), Swansea University, received the prestigious SEMI Academia Impact Award at SEMICON Europa 2025.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-europe-recognizes-owen-guy-as-the-academia-impact-award-recipient/">SEMI Europe Recognizes Owen Guy as the Academia Impact Award Recipient</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Europe Publishes 30 Recommendations for a Forward-Looking European Chips Act](https://www.semiconductor-digest.com/semi-europe-publishes-30-recommendations-for-a-forward-looking-european-chips-act/?utm_source=rss&utm_medium=rss&utm_campaign=semi-europe-publishes-30-recommendations-for-a-forward-looking-european-chips-act)
+**Published:** Fri, 21 Nov 2025 01:02:45 +0000
+
+<p>Following the official approval of the SEMI European Advisory Board, SEMI today announced the publication of the SEMI Europe Chips Act Report a comprehensive assessment of the implementation of the European Chips Act and its impact on Europe’s semiconductor ecosystem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-europe-publishes-30-recommendations-for-a-forward-looking-european-chips-act/">SEMI Europe Publishes 30 Recommendations for a Forward-Looking European Chips Act</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [European Chips Skills Academy Publishes 2025 Skills Strategy Report](https://www.semiconductor-digest.com/european-chips-skills-academy-publishes-2025-skills-strategy-report/?utm_source=rss&utm_medium=rss&utm_campaign=european-chips-skills-academy-publishes-2025-skills-strategy-report)
+**Published:** Fri, 21 Nov 2025 00:59:34 +0000
+
+<p>The European Chips Skills Academy (ECSA), an European Union (EU)-funded initiative coordinated by SEMI Europe, today announced the publication of the Skills Strategy Report 2025 by DECISION Etudes &#038; Conseil.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/european-chips-skills-academy-publishes-2025-skills-strategy-report/">European Chips Skills Academy Publishes 2025 Skills Strategy Report</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Ecolab Strengthens Integrated Cooling Program for Data Centers](https://www.semiconductor-digest.com/ecolab-strengthens-integrated-cooling-program-for-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=ecolab-strengthens-integrated-cooling-program-for-data-centers)
+**Published:** Fri, 21 Nov 2025 00:04:47 +0000
+
+<p>Ecolab Inc. announces the launch of a fully integrated, cutting-edge cooling program to optimize cooling performance at global scale.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ecolab-strengthens-integrated-cooling-program-for-data-centers/">Ecolab Strengthens Integrated Cooling Program for Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -775,54 +823,6 @@ _Last updated: 2025-11-20 23:46 UTC_
 
 <p>GlobalFoundries today announced that, effectively immediately, John Hollister, GF’s Chief Financial Officer, is leaving the company for personal reasons.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-announces-chief-financial-officer-transition/">GlobalFoundries Announces Chief Financial Officer Transition</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [MetaOptics Ltd Wins the “Startup Innovation Award” at the “2025 Taiwan Weeks” Asia Innovation Cup Demo Day](https://www.semiconductor-digest.com/metaoptics-ltd-wins-the-startup-innovation-award-at-the-2025-taiwan-weeks-asia-innovation-cup-demo-day/?utm_source=rss&utm_medium=rss&utm_campaign=metaoptics-ltd-wins-the-startup-innovation-award-at-the-2025-taiwan-weeks-asia-innovation-cup-demo-day)
-**Published:** Mon, 27 Oct 2025 20:20:21 +0000
-
-<p>MetaOptics Ltd (Catalist: 9MT), a leading-edge semiconductor optics company pioneering metalens technology, announced that it has been awarded the "Startup Innovation Award" at the 2025 "Taiwan Weeks" Asia Innovation Cup Demo Day.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/metaoptics-ltd-wins-the-startup-innovation-award-at-the-2025-taiwan-weeks-asia-innovation-cup-demo-day/">MetaOptics Ltd Wins the &#8220;Startup Innovation Award&#8221; at the &#8220;2025 Taiwan Weeks&#8221; Asia Innovation Cup Demo Day</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [HUMAIN and Qualcomm to Deploy AI Infrastructure in Saudi Arabia For Global Inferencing](https://www.semiconductor-digest.com/humain-and-qualcomm-to-deploy-ai-infrastructure-in-saudi-arabia-for-global-inferencing/?utm_source=rss&utm_medium=rss&utm_campaign=humain-and-qualcomm-to-deploy-ai-infrastructure-in-saudi-arabia-for-global-inferencing)
-**Published:** Mon, 27 Oct 2025 20:07:27 +0000
-
-<p>HUMAIN and Qualcomm Technologies, Inc. today announced a transformative collaboration to deploy advanced AI infrastructure in Saudi Arabia ahead of the 9th edition of the Future Investment Initiative (FII) conference.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/humain-and-qualcomm-to-deploy-ai-infrastructure-in-saudi-arabia-for-global-inferencing/">HUMAIN and Qualcomm to Deploy AI Infrastructure in Saudi Arabia For Global Inferencing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ASU Launches Advanced Manufacturing, Robotics Hub](https://www.semiconductor-digest.com/asu-launches-advanced-manufacturing-robotics-hub/?utm_source=rss&utm_medium=rss&utm_campaign=asu-launches-advanced-manufacturing-robotics-hub)
-**Published:** Mon, 27 Oct 2025 16:54:14 +0000
-
-<p>ISTB 12 to accelerate research discovery, career preparation, industry collaboration and regional economic growth.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/asu-launches-advanced-manufacturing-robotics-hub/">ASU Launches Advanced Manufacturing, Robotics Hub</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SUTD Researchers Discover How Pressure Turns Angstrom-Thin Semiconducting Bismuth Into a Metal](https://www.semiconductor-digest.com/sutd-researchers-discover-how-pressure-turns-angstrom-thin-semiconducting-bismuth-into-a-metal/?utm_source=rss&utm_medium=rss&utm_campaign=sutd-researchers-discover-how-pressure-turns-angstrom-thin-semiconducting-bismuth-into-a-metal)
-**Published:** Fri, 24 Oct 2025 17:40:59 +0000
-
-<p>From transistors and flexible display to neuromorphic chips, the future of electronics is expected to be significantly empowered by 2D materials.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sutd-researchers-discover-how-pressure-turns-angstrom-thin-semiconducting-bismuth-into-a-metal/">SUTD Researchers Discover How Pressure Turns Angstrom-Thin Semiconducting Bismuth Into a Metal</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New Research Powers Next-Gen Silicon-Based Batteries for Cheaper, Faster Charging and Longer Range EVs](https://www.semiconductor-digest.com/new-research-powers-next-gen-silicon-based-batteries-for-cheaper-faster-charging-and-longer-range-evs/?utm_source=rss&utm_medium=rss&utm_campaign=new-research-powers-next-gen-silicon-based-batteries-for-cheaper-faster-charging-and-longer-range-evs)
-**Published:** Fri, 24 Oct 2025 17:19:59 +0000
-
-<p>The research, published today (24 October) in Nature Nanotechnology, was led by Dr Xuekun Lu, Senior Lecturer in Green Energy at Queen Mary University of London.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-research-powers-next-gen-silicon-based-batteries-for-cheaper-faster-charging-and-longer-range-evs/">New Research Powers Next-Gen Silicon-Based Batteries for Cheaper, Faster Charging and Longer Range EVs </a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [eInfochips and NXP Announce Collaboration](https://www.semiconductor-digest.com/einfochips-and-nxp-announce-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=einfochips-and-nxp-announce-collaboration)
-**Published:** Fri, 24 Oct 2025 17:07:30 +0000
-
-<p>eInfochips, an Arrow Electronics company, and a provider of product engineering services, and NXP Semiconductors, the trusted partner for innovative solutions in the automotive market, today announced a multi-year collaboration focused on software distribution and customer services.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/einfochips-and-nxp-announce-collaboration/">eInfochips and NXP Announce Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
