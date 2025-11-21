@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-21 11:43 UTC_
+_Last updated: 2025-11-21 13:49 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -925,7 +925,7 @@ _Last updated: 2025-11-21 11:43 UTC_
 ## [22% semi growth this year, says SI](https://www.electronicsweekly.com/news/business/22-semi-growth-this-year-says-si-2025-11/)
 **Published:** Fri, 21 Nov 2025 06:28:50 +0000
 
-<p>The world semiconductor market was $208 billion in third-quarter 2025, according to WSTS. This marks the first time the market has been above $200 billion, says Semiconductor Intelligence (SI). .3Q ...</p>
+<p>The world semiconductor market was $208bn in third-quarter 2025, according to WSTS. This marks the first time the market has been above $200bn, says Semiconductor Intelligence (SI). The 3Q 2025 ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/22-semi-growth-this-year-says-si-2025-11/">22% semi growth this year, says SI</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
