@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-22 09:46 UTC_
+_Last updated: 2025-11-22 10:51 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -927,6 +927,13 @@ _Last updated: 2025-11-22 09:46 UTC_
 
 <p>Dcubed has unveiled plans to demonstrate what it describes as a 2kW in-space manufactured (ISM) solar array, ARAQYS-D3 mission. Basically, a demonstration of space-based energy systems. The system is designed ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/dcubed-eyes-in-space-manufacturing-of-solar-arrays-2025-11/">Dcubed eyes in-space manufacturing of solar arrays</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Why Decay Time And Offset Voltage Are Becoming Critical In ESD-Safe Manufacturing](https://www.electronicsforu.com/technology-trends/why-decay-time-and-offset-voltage-are-becoming-critical-in-esd-safe-manufacturing)
+**Published:** Fri, 21 Nov 2025 11:37:49 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/881bfbe3-eb19-4cc2-bb48-a5e340794b43-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A recent technical webinar by ESD India broke down two misunderstood ionizer performance parameters decay time and offset voltage explaining why both are central to preventing hidden ESD failures across electronics, semiconductor and cleanroom environments. In a manufacturing landscape where even a few volts of electrostatic discharge can silently undermine product reliability, Electrostatic Discharge (ESD) [&#8230;]
 
 ---
 
