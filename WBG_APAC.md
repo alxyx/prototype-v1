@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-23 23:45 UTC_
+_Last updated: 2025-11-24 04:03 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -15,14 +15,6 @@ _Last updated: 2025-11-23 23:45 UTC_
 
 <p>Qualitas will deliver 4nm UCIe Standard (32Gb/s) PHY and Controller IP, along with its PCIe Gen 6.0 PHY IP.</p>
 <p>The post <a href="https://www.eetasia.com/qualitas-semiconductor-bags-4nm-ucie-pcie-gen-6-0-ip-licensing-agreement-in-the-u-s/">Qualitas Semiconductor Bags 4nm UCIe, PCIe Gen 6.0 IP Licensing Agreement in the U.S.</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC](https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/)
-**Published:** Wed, 19 Nov 2025 01:58:04 +0000
-
-<p>QuickLogic's eFPGA Hard IP was selected by Chipus for a datacenter production ASIC that will be fabricated on 12nm process technology.</p>
-<p>The post <a href="https://www.eetasia.com/chipus-taps-quicklogic-efpga-hard-ip-for-12nm-datacenter-asic/">Chipus Taps QuickLogic eFPGA Hard IP for 12nm  Datacenter ASIC</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -826,6 +818,14 @@ _Last updated: 2025-11-23 23:45 UTC_
 
 ---
 
+## [Overcoming the Voltage Wall: 10-kV E-Mode GaN HEMTs Redefine Power Electronics](https://www.powerelectronicsnews.com/overcoming-the-voltage-wall-10-kv-e-mode-gan-hemts-redefine-power-electronics/)
+**Published:** Mon, 24 Nov 2025 03:23:00 +0000
+
+<img alt="Embedded PCB packaging of WBG Power Electronics." class="webfeedsFeaturedVisual wp-post-image" height="577" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/09/Embedded_PCB.jpg?fit=1000%2C577" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>In the race to expand the capabilities of semiconductor materials for power electronics, researchers have increasingly turned to the disruptive properties of GaN HEMTs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/overcoming-the-voltage-wall-10-kv-e-mode-gan-hemts-redefine-power-electronics/">Overcoming the Voltage Wall: 10-kV E-Mode GaN HEMTs Redefine Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Power Electronics Course: Part 25 – Overview of Battery Energy Storage Systems (BESS)](https://www.powerelectronicsnews.com/power-electronics-course-part-25-overview-of-battery-energy-storage-systems-bess/)
 **Published:** Thu, 20 Nov 2025 08:34:31 +0000
 
@@ -895,14 +895,6 @@ _Last updated: 2025-11-23 23:45 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/09/shutterstock_716849587-1.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Negative capacitance has the potential to improve GaN device performance and open new possibilities in power electronics and telecommunications.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/ferroelectric-innovation-shatters-performance-barriers-in-gan-power-electronics/">Ferroelectric Innovation Shatters Performance Barriers in GaN Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [GlobalFoundries Secures TSMC GaN Technology License to Boost U.S. Power Semiconductor Production](https://www.powerelectronicsnews.com/globalfoundries-secures-tsmc-gan-technology-license-to-boost-u-s-power-semiconductor-production/)
-**Published:** Mon, 10 Nov 2025 20:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="639" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/03/SemiconductorWafer.jpg?fit=1000%2C639" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The licensing arrangement will support the development of GF’s future GaN technology portfolio, with products anticipated to reach the market in late 2026.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/globalfoundries-secures-tsmc-gan-technology-license-to-boost-u-s-power-semiconductor-production/">GlobalFoundries Secures TSMC GaN Technology License to Boost U.S. Power Semiconductor Production</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
