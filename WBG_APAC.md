@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-24 22:53 UTC_
+_Last updated: 2025-11-24 23:46 UTC_
 
 ## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
 **Published:** Mon, 24 Nov 2025 08:02:03 +0000
@@ -903,6 +903,14 @@ _Last updated: 2025-11-24 22:53 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="952" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Cover-Image.png?fit=1664%2C952" style="display: block; margin-bottom: 5px; clear: both;" width="1664" /><p>A research team at at Tokyo University of Science developed a wide-band, high-sensitivity Barkhausen noise measurement system.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/understanding-energy-loss-mechanisms-in-soft-magnetic-materials/">Understanding Energy Loss Mechanisms in Soft Magnetic Materials</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [A Power Reshuffle Follows GF, TSMC GaN Tie-Up](https://www.eetimes.com/a-power-reshuffle-follows-gf-tsmc-gan-tie-up/)
+**Published:** Mon, 24 Nov 2025 23:00:00 +0000
+
+<p>TSMC licenses GaN tech to GF as it exits, sparking a U.S. shift in power semiconductors.</p>
+<p>The post <a href="https://www.eetimes.com/a-power-reshuffle-follows-gf-tsmc-gan-tie-up/">A Power Reshuffle Follows GF, TSMC GaN Tie-Up</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
