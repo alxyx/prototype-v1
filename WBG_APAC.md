@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-24 13:59 UTC_
+_Last updated: 2025-11-24 14:59 UTC_
 
 ## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
 **Published:** Mon, 24 Nov 2025 08:02:03 +0000
@@ -23,6 +23,22 @@ _Last updated: 2025-11-24 13:59 UTC_
 
 <p>Qualitas will deliver 4nm UCIe Standard (32Gb/s) PHY and Controller IP, along with its PCIe Gen 6.0 PHY IP.</p>
 <p>The post <a href="https://www.eetasia.com/qualitas-semiconductor-bags-4nm-ucie-pcie-gen-6-0-ip-licensing-agreement-in-the-u-s/">Qualitas Semiconductor Bags 4nm UCIe, PCIe Gen 6.0 IP Licensing Agreement in the U.S.</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Optimizing the Thermal Loop for Semiconductor Wafer Manufacturing](https://www.semiconductor-digest.com/optimizing-the-thermal-loop-for-semiconductor-wafer-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=optimizing-the-thermal-loop-for-semiconductor-wafer-manufacturing)
+**Published:** Mon, 24 Nov 2025 14:24:16 +0000
+
+<p>Proper selection, installation, and maintenance of the components that circulate heat transfer fluid between chillers in the sub-fab and process tools in the fab are key to managing the “thermal loop.”</p>
+<p>The post <a href="https://www.semiconductor-digest.com/optimizing-the-thermal-loop-for-semiconductor-wafer-manufacturing/">Optimizing the Thermal Loop for Semiconductor Wafer Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Atomic-Level Cleanliness in ALD](https://www.semiconductor-digest.com/atomic-level-cleanliness-in-ald/?utm_source=rss&utm_medium=rss&utm_campaign=atomic-level-cleanliness-in-ald)
+**Published:** Mon, 24 Nov 2025 13:46:23 +0000
+
+<p>Overcoming impurity challenges for high-performance, energy-efficient and reliable semiconductor manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/atomic-level-cleanliness-in-ald/">Atomic-Level Cleanliness in ALD</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,22 +826,6 @@ _Last updated: 2025-11-24 13:59 UTC_
 
 ---
 
-## [Manufacturing Strategies for Stretchable Synaptic Transistors](https://www.semiconductor-digest.com/manufacturing-strategies-for-stretchable-synaptic-transistors/?utm_source=rss&utm_medium=rss&utm_campaign=manufacturing-strategies-for-stretchable-synaptic-transistors)
-**Published:** Tue, 28 Oct 2025 18:08:50 +0000
-
-<p>A research team from Seoul National University has established a manufacturing “blueprint” for stretchable synaptic transistors.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/manufacturing-strategies-for-stretchable-synaptic-transistors/">Manufacturing Strategies for Stretchable Synaptic Transistors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Industry Veteran Dr. Helen Song Joins Celera Semiconductor to Lead Product Design](https://www.semiconductor-digest.com/industry-veteran-dr-helen-song-joins-celera-semiconductor-to-lead-product-design/?utm_source=rss&utm_medium=rss&utm_campaign=industry-veteran-dr-helen-song-joins-celera-semiconductor-to-lead-product-design)
-**Published:** Tue, 28 Oct 2025 17:58:39 +0000
-
-<p>Celera Semi expands management team to support rapid growth.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/industry-veteran-dr-helen-song-joins-celera-semiconductor-to-lead-product-design/">Industry Veteran Dr. Helen Song Joins Celera Semiconductor to Lead Product Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Wolfspeed 1200V/700A YM Six-Pack Power Modules](https://www.powerelectronicsnews.com/wolfspeed-1200v-700a-ym-six-pack-power-modules/)
 **Published:** Mon, 24 Nov 2025 08:00:00 +0000
 
@@ -903,6 +903,14 @@ _Last updated: 2025-11-24 13:59 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="952" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Cover-Image.png?fit=1664%2C952" style="display: block; margin-bottom: 5px; clear: both;" width="1664" /><p>A research team at at Tokyo University of Science developed a wide-band, high-sensitivity Barkhausen noise measurement system.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/understanding-energy-loss-mechanisms-in-soft-magnetic-materials/">Understanding Energy Loss Mechanisms in Soft Magnetic Materials</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Smarter Silicon with Menta eFPGA and HW/SW Co-Design](https://www.eetimes.com/smarter-silicon-with-menta-efpga-and-hw-sw-co-design/)
+**Published:** Mon, 24 Nov 2025 14:00:00 +0000
+
+<p>Learn how Menta’s eFPGA and HW/SW Co-Design enable 10–100× performance gains, flexibility, and crypto-agility in modern ASICs and SoCs.</p>
+<p>The post <a href="https://www.eetimes.com/smarter-silicon-with-menta-efpga-and-hw-sw-co-design/">Smarter Silicon with Menta eFPGA and HW/SW Co-Design</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
