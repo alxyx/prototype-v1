@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-24 10:00 UTC_
+_Last updated: 2025-11-24 11:03 UTC_
 
 ## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
 **Published:** Mon, 24 Nov 2025 08:02:03 +0000
@@ -922,17 +922,24 @@ _Last updated: 2025-11-24 10:00 UTC_
 
 ---
 
-## [Why Decay Time And Offset Voltage Are Becoming Critical In ESD-Safe Manufacturing](https://www.electronicsforu.com/technology-trends/why-decay-time-and-offset-voltage-are-becoming-critical-in-esd-safe-manufacturing)
-**Published:** Fri, 21 Nov 2025 11:37:49 +0000
+## [12 kW Power Supply Unit Reference Design](https://www.electronicsforu.com/electronics-projects/12-kw-power-supply-unit-reference-design)
+**Published:** Mon, 24 Nov 2025 09:43:02 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/881bfbe3-eb19-4cc2-bb48-a5e340794b43-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A recent technical webinar by ESD India broke down two misunderstood ionizer performance parameters decay time and offset voltage explaining why both are central to preventing hidden ESD failures across electronics, semiconductor and cleanroom environments. In a manufacturing landscape where even a few volts of electrostatic discharge can silently undermine product reliability, Electrostatic Discharge (ESD) [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/ref-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The design showcases how wide-bandgap devices, multi-level PFC and high-frequency LLC conversion can deliver record efficiency and compactness for next-generation AI servers and data-centre racks. The semiconductor company Infineon Technologies AG has unveiled a new 12 kW high-density power-supply-unit (PSU) reference design aimed squarely at AI-data-centre and high-performance server environments. The design is built to [&#8230;]
 
 ---
 
-## [JOB: Manager – Power Electronics and Digital Solutions (Firmware) At Schneider Electric In Mumbai](https://www.electronicsforu.com/career/manager-power-electronics-digital-solutions-firmware-schneider-electric-mumbai)
-**Published:** Fri, 21 Nov 2025 09:15:13 +0000
+## [Sales Intern – Semiconductor / Embedded At Modernize Chip Solutions (MCS) In Bengaluru](https://www.electronicsforu.com/news/sales-intern-semiconductor-embedded-at-modernize-chip-solutions-mcs-bengaluru)
+**Published:** Mon, 24 Nov 2025 09:29:18 +0000
 
-<img alt="Test Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2017/08/Schneider-Electric-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Mumbai Company: Schneider Electric Key Responsibilities/Deliverables Functional Competencies What qualifications will make you successful for this role?
+<img alt="Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/08/jobs-hiring-help-wanter-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Modernize Chip Solutions (MCS) Modernize Chip Solutions (MCS) is looking for an enthusiastic and proactive Sales Intern (Fresher) to join our growing Semiconductor &#38; Embedded sales team in Bangalore. Requirements 📧 Send your CV to: ananya.ojha@modernchipsolutions.com Apply Now via Google Form
+
+---
+
+## [2D Wafer Bonding For Smaller Electronics](https://www.electronicsforu.com/news/2d-wafer-bonding-for-smaller-electronics)
+**Published:** Mon, 24 Nov 2025 07:19:18 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/a-new-approach-to-bond-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new method bonds 2D semiconductor layers without glue. This could make devices smaller and faster. Read on! Electronics engineers aim to make devices smaller while improving their speed, performance, and efficiency. Two-dimensional 2D semiconductors, ultra-thin single-layer materials with controllable electrical properties, show promise for this goal. Compared with conventional semiconductors, these thin materials could [&#8230;]
 
 ---
 
