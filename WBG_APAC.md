@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-24 14:59 UTC_
+_Last updated: 2025-11-24 15:56 UTC_
 
 ## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
 **Published:** Mon, 24 Nov 2025 08:02:03 +0000
@@ -919,14 +919,6 @@ _Last updated: 2025-11-24 14:59 UTC_
 
 <p>GUC has teamed up with VSORA to offer turnkey ASIC design services, ensuring the tapeout of the Jotunn8 datacenter AI inference processor.</p>
 <p>The post <a href="https://www.eetimes.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/">VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [22% semi growth this year, says SI](https://www.electronicsweekly.com/news/business/22-semi-growth-this-year-says-si-2025-11/)
-**Published:** Fri, 21 Nov 2025 06:28:50 +0000
-
-<p>The world semiconductor market was $208bn in third-quarter 2025, according to WSTS. This marks the first time the market has been above $200bn, says Semiconductor Intelligence (SI). The 3Q 2025 ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/22-semi-growth-this-year-says-si-2025-11/">22% semi growth this year, says SI</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
