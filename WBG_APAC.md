@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-24 05:56 UTC_
+_Last updated: 2025-11-24 07:10 UTC_
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -911,14 +911,6 @@ _Last updated: 2025-11-24 05:56 UTC_
 
 <p>The world semiconductor market was $208bn in third-quarter 2025, according to WSTS. This marks the first time the market has been above $200bn, says Semiconductor Intelligence (SI). The 3Q 2025 ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/22-semi-growth-this-year-says-si-2025-11/">22% semi growth this year, says SI</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Dcubed eyes in-space manufacturing of solar arrays](https://www.electronicsweekly.com/news/dcubed-eyes-in-space-manufacturing-of-solar-arrays-2025-11/)
-**Published:** Fri, 21 Nov 2025 06:06:57 +0000
-
-<p>Dcubed has unveiled plans to demonstrate what it describes as a 2kW in-space manufactured (ISM) solar array, ARAQYS-D3 mission. Basically, a demonstration of space-based energy systems. The system is designed ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/dcubed-eyes-in-space-manufacturing-of-solar-arrays-2025-11/">Dcubed eyes in-space manufacturing of solar arrays</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
