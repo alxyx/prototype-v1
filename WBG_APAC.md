@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-24 19:39 UTC_
+_Last updated: 2025-11-24 20:51 UTC_
 
 ## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
 **Published:** Mon, 24 Nov 2025 08:02:03 +0000
@@ -23,6 +23,22 @@ _Last updated: 2025-11-24 19:39 UTC_
 
 <p>Qualitas will deliver 4nm UCIe Standard (32Gb/s) PHY and Controller IP, along with its PCIe Gen 6.0 PHY IP.</p>
 <p>The post <a href="https://www.eetasia.com/qualitas-semiconductor-bags-4nm-ucie-pcie-gen-6-0-ip-licensing-agreement-in-the-u-s/">Qualitas Semiconductor Bags 4nm UCIe, PCIe Gen 6.0 IP Licensing Agreement in the U.S.</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [RPI and GlobalFoundries Partner on Semiconductor Research, Education, and Workforce Development Initiatives](https://www.semiconductor-digest.com/rpi-and-globalfoundries-partner-on-semiconductor-research-education-and-workforce-development-initiatives/?utm_source=rss&utm_medium=rss&utm_campaign=rpi-and-globalfoundries-partner-on-semiconductor-research-education-and-workforce-development-initiatives)
+**Published:** Mon, 24 Nov 2025 20:22:32 +0000
+
+<p>New strategic partnership to include educational opportunities for RPI students, support for RPI faculty, STEM outreach, talent pipelines, curriculum development, and joint R&#038;D programs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rpi-and-globalfoundries-partner-on-semiconductor-research-education-and-workforce-development-initiatives/">RPI and GlobalFoundries Partner on Semiconductor Research, Education, and Workforce Development Initiatives</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Kneron Launches KL1140 Chip](https://www.semiconductor-digest.com/kneron-launches-kl1140-chip/?utm_source=rss&utm_medium=rss&utm_campaign=kneron-launches-kl1140-chip)
+**Published:** Mon, 24 Nov 2025 20:17:46 +0000
+
+<p>Kneron, the San Diego-based full-stack AI company pioneering neural processing units (NPUs), today announced the launch of its KL1140 chip, marking a major milestone in AI computing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kneron-launches-kl1140-chip/">Kneron Launches KL1140 Chip</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,22 +823,6 @@ _Last updated: 2025-11-24 19:39 UTC_
 
 <p>The breakthrough AI algorithm developed by KRISS rapidly turns cross-sectional microscope images into 3D structures — reducing analysis time and cost to one-eighth while maintaining high accuracy.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/from-cells-to-semiconductors-ai-reconstructs-microscopic-3d-worlds-from-electron-microscopy/">From Cells to Semiconductors: AI Reconstructs Microscopic 3D Worlds From Electron Microscopy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Thermo Fisher Scientific Enables Semiconductor Manufacturers to See the Unseen with Helios MX1 PFIB-SEM](https://www.semiconductor-digest.com/thermo-fisher-scientific-enables-semiconductor-manufacturers-to-see-the-unseen-with-helios-mx1-pfib-sem/?utm_source=rss&utm_medium=rss&utm_campaign=thermo-fisher-scientific-enables-semiconductor-manufacturers-to-see-the-unseen-with-helios-mx1-pfib-sem)
-**Published:** Wed, 29 Oct 2025 18:49:09 +0000
-
-<p>To help chipmakers keep pace and minimize delays, Thermo Fisher Scientific, the world leader in serving science, has introduced the Thermo Scientific Helios MX1 Plasma Focused Ion Beam (PFIB) Scanning Electron Microscope (SEM).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/thermo-fisher-scientific-enables-semiconductor-manufacturers-to-see-the-unseen-with-helios-mx1-pfib-sem/">Thermo Fisher Scientific Enables Semiconductor Manufacturers to See the Unseen with Helios MX1 PFIB-SEM</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [POLYN Technology Announces First Silicon-Implemented NASP Chip](https://www.semiconductor-digest.com/polyn-technology-announces-first-silicon-implemented-nasp-chip/?utm_source=rss&utm_medium=rss&utm_campaign=polyn-technology-announces-first-silicon-implemented-nasp-chip)
-**Published:** Wed, 29 Oct 2025 18:36:33 +0000
-
-<p>POLYN Technology, a pioneer in ultra-low-power neuromorphic computing, today announced the successful manufacturing and testing of the world’s first silicon-proven implementation of its unique NASP (Neuromorphic Analog Signal Processing) technology.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/polyn-technology-announces-first-silicon-implemented-nasp-chip/">POLYN Technology Announces First Silicon-Implemented NASP Chip</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
