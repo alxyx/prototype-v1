@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-24 11:45 UTC_
+_Last updated: 2025-11-24 13:59 UTC_
 
 ## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
 **Published:** Mon, 24 Nov 2025 08:02:03 +0000
@@ -23,6 +23,14 @@ _Last updated: 2025-11-24 11:45 UTC_
 
 <p>Qualitas will deliver 4nm UCIe Standard (32Gb/s) PHY and Controller IP, along with its PCIe Gen 6.0 PHY IP.</p>
 <p>The post <a href="https://www.eetasia.com/qualitas-semiconductor-bags-4nm-ucie-pcie-gen-6-0-ip-licensing-agreement-in-the-u-s/">Qualitas Semiconductor Bags 4nm UCIe, PCIe Gen 6.0 IP Licensing Agreement in the U.S.</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Creating a Thriving Chemical Semiconductor Supply Chain in America](https://www.semiconductor-digest.com/creating-a-thriving-chemical-semiconductor-supply-chain-in-america/?utm_source=rss&utm_medium=rss&utm_campaign=creating-a-thriving-chemical-semiconductor-supply-chain-in-america)
+**Published:** Mon, 24 Nov 2025 13:35:51 +0000
+
+<p>Semiconductors are vital to some of the world’s most important industries. What will it take to ensure US semiconductor manufacturers continue to have the chemical and material inputs they need?</p>
+<p>The post <a href="https://www.semiconductor-digest.com/creating-a-thriving-chemical-semiconductor-supply-chain-in-america/">Creating a Thriving Chemical Semiconductor Supply Chain in America</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -815,14 +823,6 @@ _Last updated: 2025-11-24 11:45 UTC_
 
 <p>Celera Semi expands management team to support rapid growth.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/industry-veteran-dr-helen-song-joins-celera-semiconductor-to-lead-product-design/">Industry Veteran Dr. Helen Song Joins Celera Semiconductor to Lead Product Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Reports Global Silicon Wafer Shipments to Rebound 5.4% in 2025](https://www.semiconductor-digest.com/semi-reports-global-silicon-wafer-shipments-to-rebound-5-4-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-global-silicon-wafer-shipments-to-rebound-5-4-in-2025)
-**Published:** Tue, 28 Oct 2025 17:50:23 +0000
-
-<p>Global shipments of silicon wafers are projected to increase 5.4% in 2025 to 12,824 million square inches (MSI) followed by steady growth through 2028 when the market is expected to reach a new industry record of 15,485.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-global-silicon-wafer-shipments-to-rebound-5-4-in-2025/">SEMI Reports Global Silicon Wafer Shipments to Rebound 5.4% in 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
