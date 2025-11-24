@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-24 07:47 UTC_
+_Last updated: 2025-11-24 09:09 UTC_
+
+## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
+**Published:** Mon, 24 Nov 2025 08:02:03 +0000
+
+<p>GUC has collaborated with VSORA to deliver turnkey ASIC design services supporting the on-schedule tapeout of the Jotunn8 AI chip.</p>
+<p>The post <a href="https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/">VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
 **Published:** Thu, 20 Nov 2025 03:35:57 +0000
@@ -818,6 +826,14 @@ _Last updated: 2025-11-24 07:47 UTC_
 
 ---
 
+## [Wolfspeed 1200V/700A YM Six-Pack Power Modules](https://www.powerelectronicsnews.com/wolfspeed-1200v-700a-ym-six-pack-power-modules/)
+**Published:** Mon, 24 Nov 2025 08:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="470" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/Wolfspeed-YM-power-pack.png?fit=481%2C470" style="display: block; margin-bottom: 5px; clear: both;" width="481" /><p>Wolfspeed recently announced its 1200-V (up to 700-A) SiC six-pack power modules for e-mobility propulsion, such as high-power inverters. Power modules offer extensive design optimizations...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-1200v-700a-ym-six-pack-power-modules/">Wolfspeed 1200V/700A YM Six-Pack Power Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Overcoming the Voltage Wall: 10-kV E-Mode GaN HEMTs Redefine Power Electronics](https://www.powerelectronicsnews.com/overcoming-the-voltage-wall-10-kv-e-mode-gan-hemts-redefine-power-electronics/)
 **Published:** Mon, 24 Nov 2025 03:23:00 +0000
 
@@ -890,19 +906,11 @@ _Last updated: 2025-11-24 07:47 UTC_
 
 ---
 
-## [Ferroelectric Innovation Shatters Performance Barriers in GaN Power Electronics](https://www.powerelectronicsnews.com/ferroelectric-innovation-shatters-performance-barriers-in-gan-power-electronics/)
-**Published:** Tue, 11 Nov 2025 09:17:00 +0000
+## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetimes.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
+**Published:** Mon, 24 Nov 2025 08:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/09/shutterstock_716849587-1.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Negative capacitance has the potential to improve GaN device performance and open new possibilities in power electronics and telecommunications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/ferroelectric-innovation-shatters-performance-barriers-in-gan-power-electronics/">Ferroelectric Innovation Shatters Performance Barriers in GaN Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [WeEn SiC MOSFET & SBD Top-Cooling Packages TOLT/TSPAK](https://www.eetimes.com/ween-sic-mosfet-sbd-top-cooling-packages-tolt-tspak/)
-**Published:** Wed, 19 Nov 2025 08:54:55 +0000
-
-<p>WeEn Semiconductors introduces TOLT and TSPAK top-side cooling packages designed for SiC MOSFETs and Schottky barrier diodes. </p>
-<p>The post <a href="https://www.eetimes.com/ween-sic-mosfet-sbd-top-cooling-packages-tolt-tspak/">WeEn SiC MOSFET &amp; SBD Top-Cooling Packages TOLT/TSPAK</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>GUC has teamed up with VSORA to offer turnkey ASIC design services, ensuring the tapeout of the Jotunn8 datacenter AI inference processor.</p>
+<p>The post <a href="https://www.eetimes.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/">VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
