@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-25 15:07 UTC_
+_Last updated: 2025-11-25 15:57 UTC_
 
 ## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
 **Published:** Mon, 24 Nov 2025 08:02:03 +0000
@@ -861,7 +861,7 @@ _Last updated: 2025-11-25 15:07 UTC_
 ## [Electrical Breakdown in Diamond: Crystallographic Orientation and Stress-Driven Failure Mechanisms](https://www.powerelectronicsnews.com/electrical-breakdown-in-diamond-crystallographic-orientation-and-stress-driven-failure-mechanisms/)
 **Published:** Tue, 18 Nov 2025 09:04:00 +0000
 
-<p>New research exposes the hidden weak points in diamond and opens pathways toward designing more robust diamond-based technologies.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="405" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/Diamond.png?fit=545%2C405" style="display: block; margin-bottom: 5px; clear: both;" width="545" /><p>New research exposes the hidden weak points in diamond and opens pathways toward designing more robust diamond-based technologies.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/electrical-breakdown-in-diamond-crystallographic-orientation-and-stress-driven-failure-mechanisms/">Electrical Breakdown in Diamond: Crystallographic Orientation and Stress-Driven Failure Mechanisms</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
