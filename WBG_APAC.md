@@ -1,28 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-24 23:46 UTC_
+_Last updated: 2025-11-25 03:54 UTC_
 
 ## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
 **Published:** Mon, 24 Nov 2025 08:02:03 +0000
 
 <p>GUC has collaborated with VSORA to deliver turnkey ASIC design services supporting the on-schedule tapeout of the Jotunn8 AI chip.</p>
 <p>The post <a href="https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/">VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems](https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/)
-**Published:** Thu, 20 Nov 2025 03:35:57 +0000
-
-<p>Wolfspeed's modules deliver three times more power cycling capability at operating temperature than competing solutions.</p>
-<p>The post <a href="https://www.eetasia.com/wolfspeed-1200v-sic-power-modules-enable-new-standard-for-e-mobility-propulsion-systems/">Wolfspeed 1200V SiC Power Modules Enable New Standard for E-Mobility Propulsion Systems</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Qualitas Semiconductor Bags 4nm UCIe, PCIe Gen 6.0 IP Licensing Agreement in the U.S.](https://www.eetasia.com/qualitas-semiconductor-bags-4nm-ucie-pcie-gen-6-0-ip-licensing-agreement-in-the-u-s/)
-**Published:** Thu, 20 Nov 2025 03:26:38 +0000
-
-<p>Qualitas will deliver 4nm UCIe Standard (32Gb/s) PHY and Controller IP, along with its PCIe Gen 6.0 PHY IP.</p>
-<p>The post <a href="https://www.eetasia.com/qualitas-semiconductor-bags-4nm-ucie-pcie-gen-6-0-ip-licensing-agreement-in-the-u-s/">Qualitas Semiconductor Bags 4nm UCIe, PCIe Gen 6.0 IP Licensing Agreement in the U.S.</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -826,6 +810,14 @@ _Last updated: 2025-11-24 23:46 UTC_
 
 ---
 
+## [Wafer-Scale Vision: SAL’s Lithium Niobate Breakthrough Accelerates Photonic Commercialization](https://www.powerelectronicsnews.com/wafer-scale-vision-sals-lithium-niobate-breakthrough-accelerates-photonic-commercialization/)
+**Published:** Tue, 25 Nov 2025 03:26:00 +0000
+
+<img alt="SAL’s first 8-inch thin-film lithium niobate wafer for scalable integrated photonics." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/SAL_8inch_picture.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Research hub Silicon Austria Labs has successfully fabricated its first 8-inch thin-film lithium niobate wafer entirely in-house.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wafer-scale-vision-sals-lithium-niobate-breakthrough-accelerates-photonic-commercialization/">Wafer-Scale Vision: SAL’s Lithium Niobate Breakthrough Accelerates Photonic Commercialization</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Wolfspeed 1200V/700A YM Six-Pack Power Modules](https://www.powerelectronicsnews.com/wolfspeed-1200v-700a-ym-six-pack-power-modules/)
 **Published:** Mon, 24 Nov 2025 08:00:00 +0000
 
@@ -895,14 +887,6 @@ _Last updated: 2025-11-24 23:46 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="779" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/04/shutterstock_433269313.jpg?fit=1000%2C779" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The investment projection ultimately reflects the semiconductor industry’s role in enabling technological progress across multiple sectors.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/the-1-5-trillion-bet-reshaping-the-semiconductor-industry/">The $1.5 Trillion Bet Reshaping the Semiconductor Industry</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Understanding Energy Loss Mechanisms in Soft Magnetic Materials](https://www.powerelectronicsnews.com/understanding-energy-loss-mechanisms-in-soft-magnetic-materials/)
-**Published:** Wed, 12 Nov 2025 08:37:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="952" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/Cover-Image.png?fit=1664%2C952" style="display: block; margin-bottom: 5px; clear: both;" width="1664" /><p>A research team at at Tokyo University of Science developed a wide-band, high-sensitivity Barkhausen noise measurement system.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/understanding-energy-loss-mechanisms-in-soft-magnetic-materials/">Understanding Energy Loss Mechanisms in Soft Magnetic Materials</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
