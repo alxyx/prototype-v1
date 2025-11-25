@@ -1,12 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-25 20:55 UTC_
+_Last updated: 2025-11-25 21:46 UTC_
 
 ## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
 **Published:** Mon, 24 Nov 2025 08:02:03 +0000
 
 <p>GUC has collaborated with VSORA to deliver turnkey ASIC design services supporting the on-schedule tapeout of the Jotunn8 AI chip.</p>
 <p>The post <a href="https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/">VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [ASM’s “From Sand to Stars” Exhibition Sparks Semiconductor Curiosity](https://www.semiconductor-digest.com/asms-from-sand-to-stars-exhibition-sparks-semiconductor-curiosity/?utm_source=rss&utm_medium=rss&utm_campaign=asms-from-sand-to-stars-exhibition-sparks-semiconductor-curiosity)
+**Published:** Tue, 25 Nov 2025 21:17:28 +0000
+
+<p>Global semiconductor equipment supplier with a half-century in Arizona, debuted semiconductor science exhibition and funds 50 school field trips.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/asms-from-sand-to-stars-exhibition-sparks-semiconductor-curiosity/">ASM&#8217;s &#8220;From Sand to Stars&#8221; Exhibition Sparks Semiconductor Curiosity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,14 +807,6 @@ _Last updated: 2025-11-25 20:55 UTC_
 
 <p>Built on novel GaN-on-GaN technology, onsemi’s vertical GaN architecture sets a new benchmark for power density, efficiency and ruggedness.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/onsemi-unveils-vertical-gan-semiconductors-a-breakthrough-for-ai-and-electrification/">onsemi Unveils Vertical GaN Semiconductors: A Breakthrough for AI and Electrification</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries and Silicon Labs Expand Partnership](https://www.semiconductor-digest.com/globalfoundries-and-silicon-labs-expand-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-silicon-labs-expand-partnership)
-**Published:** Thu, 30 Oct 2025 17:26:42 +0000
-
-<p>GlobalFoundries and Silicon Labs today announced the expansion of their strategic partnership to advance the development of next-generation, energy-efficient wireless technologies and scale U.S.-based semiconductor manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-silicon-labs-expand-partnership/">GlobalFoundries and Silicon Labs Expand Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
