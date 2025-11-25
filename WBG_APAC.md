@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-25 14:01 UTC_
+_Last updated: 2025-11-25 15:07 UTC_
 
 ## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
 **Published:** Mon, 24 Nov 2025 08:02:03 +0000
 
 <p>GUC has collaborated with VSORA to deliver turnkey ASIC design services supporting the on-schedule tapeout of the Jotunn8 AI chip.</p>
 <p>The post <a href="https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/">VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Bringing the Industry Together](https://www.semiconductor-digest.com/bringing-the-industry-together/?utm_source=rss&utm_medium=rss&utm_campaign=bringing-the-industry-together)
+**Published:** Tue, 25 Nov 2025 14:01:36 +0000
+
+<p>The need for innovation has never been greater, and the opportunity to shape the future has never been more accessible. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/bringing-the-industry-together/">Bringing the Industry Together</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Advanced Engineering Thermoplastics Address Evolving Requirements for Semiconductor Wafer Handling Systems](https://www.semiconductor-digest.com/advanced-engineering-thermoplastics-address-evolving-requirements-for-semiconductor-wafer-handling-systems/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-engineering-thermoplastics-address-evolving-requirements-for-semiconductor-wafer-handling-systems)
+**Published:** Tue, 25 Nov 2025 13:47:19 +0000
+
+<p>From cleaner polymerization processes to tailored formulations and compounding with specialized conductive and lubricating technologies, new improvements can help the industry achieve higher yields and greater profitability.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/advanced-engineering-thermoplastics-address-evolving-requirements-for-semiconductor-wafer-handling-systems/">Advanced Engineering Thermoplastics Address Evolving Requirements for Semiconductor Wafer Handling Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,22 +807,6 @@ _Last updated: 2025-11-25 14:01 UTC_
 
 <p>GlobalFoundries and Silicon Labs today announced the expansion of their strategic partnership to advance the development of next-generation, energy-efficient wireless technologies and scale U.S.-based semiconductor manufacturing.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-silicon-labs-expand-partnership/">GlobalFoundries and Silicon Labs Expand Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [xMEMS Raises $21M Series D to Accelerate Commercial Scale of Breakthrough piezoMEMS Tech](https://www.semiconductor-digest.com/xmems-raises-21m-series-d-to-accelerate-commercial-scale-of-breakthrough-piezomems-tech/?utm_source=rss&utm_medium=rss&utm_campaign=xmems-raises-21m-series-d-to-accelerate-commercial-scale-of-breakthrough-piezomems-tech)
-**Published:** Thu, 30 Oct 2025 17:19:46 +0000
-
-<p>xMEMS Labs, Inc. today announced the closing of a $21 million Series D funding round.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/xmems-raises-21m-series-d-to-accelerate-commercial-scale-of-breakthrough-piezomems-tech/">xMEMS Raises $21M Series D to Accelerate Commercial Scale of Breakthrough piezoMEMS Tech</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [MetaOptics Announces Strategic Expansion into the USA](https://www.semiconductor-digest.com/metaoptics-announces-strategic-expansion-into-the-usa/?utm_source=rss&utm_medium=rss&utm_campaign=metaoptics-announces-strategic-expansion-into-the-usa)
-**Published:** Wed, 29 Oct 2025 19:59:49 +0000
-
-<p>MetaOptics Ltd, a leading-edge semiconductor optics company pioneering metalens technology, announced the establishment of its United States entity, MetaOptics Inc. (USA), registered in Nevada.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/metaoptics-announces-strategic-expansion-into-the-usa/">MetaOptics Announces Strategic Expansion into the USA</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
