@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-25 11:45 UTC_
+_Last updated: 2025-11-25 14:01 UTC_
 
 ## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
 **Published:** Mon, 24 Nov 2025 08:02:03 +0000
 
 <p>GUC has collaborated with VSORA to deliver turnkey ASIC design services supporting the on-schedule tapeout of the Jotunn8 AI chip.</p>
 <p>The post <a href="https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/">VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Higher-Performance Polyimide Materials for Semiconductor Applications](https://www.semiconductor-digest.com/higher-performance-polyimide-materials-for-semiconductor-applications/?utm_source=rss&utm_medium=rss&utm_campaign=higher-performance-polyimide-materials-for-semiconductor-applications)
+**Published:** Tue, 25 Nov 2025 13:39:06 +0000
+
+<p>New high-performance and composite polyimides offer increased mechanical properties, wider temperature capabilities, greater dimensional stability, and enhanced wear performance.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/higher-performance-polyimide-materials-for-semiconductor-applications/">Higher-Performance Polyimide Materials for Semiconductor Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Extending the Life of Legacy Fabs Through Smarter Pendulum Valve Management](https://www.semiconductor-digest.com/extending-the-life-of-legacy-fabs-through-smarter-pendulum-valve-management/?utm_source=rss&utm_medium=rss&utm_campaign=extending-the-life-of-legacy-fabs-through-smarter-pendulum-valve-management)
+**Published:** Tue, 25 Nov 2025 13:24:52 +0000
+
+<p>Reliability in critical components such as pendulum valves can be the difference between meeting output targets and facing costly shutdowns. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/extending-the-life-of-legacy-fabs-through-smarter-pendulum-valve-management/">Extending the Life of Legacy Fabs Through Smarter Pendulum Valve Management</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,22 +807,6 @@ _Last updated: 2025-11-25 11:45 UTC_
 
 <p>MetaOptics Ltd, a leading-edge semiconductor optics company pioneering metalens technology, announced the establishment of its United States entity, MetaOptics Inc. (USA), registered in Nevada.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/metaoptics-announces-strategic-expansion-into-the-usa/">MetaOptics Announces Strategic Expansion into the USA</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Delta to Acquire Noda RF Technologies Co.](https://www.semiconductor-digest.com/delta-to-acquire-noda-rf-technologies-co/?utm_source=rss&utm_medium=rss&utm_campaign=delta-to-acquire-noda-rf-technologies-co)
-**Published:** Wed, 29 Oct 2025 19:33:33 +0000
-
-<p>Delta Electronics, Inc. today announced the acquisition of 90.23% stake of Japan's Noda RF Technologies Co., Ltd. through its subsidiary Delta Electronics (Netherlands) B.V. for JPY 5,024 million (approximately NT$1,034 million).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/delta-to-acquire-noda-rf-technologies-co/">Delta to Acquire Noda RF Technologies Co.</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [From Cells to Semiconductors: AI Reconstructs Microscopic 3D Worlds From Electron Microscopy](https://www.semiconductor-digest.com/from-cells-to-semiconductors-ai-reconstructs-microscopic-3d-worlds-from-electron-microscopy/?utm_source=rss&utm_medium=rss&utm_campaign=from-cells-to-semiconductors-ai-reconstructs-microscopic-3d-worlds-from-electron-microscopy)
-**Published:** Wed, 29 Oct 2025 19:22:12 +0000
-
-<p>The breakthrough AI algorithm developed by KRISS rapidly turns cross-sectional microscope images into 3D structures — reducing analysis time and cost to one-eighth while maintaining high accuracy.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/from-cells-to-semiconductors-ai-reconstructs-microscopic-3d-worlds-from-electron-microscopy/">From Cells to Semiconductors: AI Reconstructs Microscopic 3D Worlds From Electron Microscopy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
