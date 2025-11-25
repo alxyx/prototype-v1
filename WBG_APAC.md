@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-25 07:48 UTC_
+_Last updated: 2025-11-25 09:10 UTC_
 
 ## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
 **Published:** Mon, 24 Nov 2025 08:02:03 +0000
@@ -810,6 +810,14 @@ _Last updated: 2025-11-25 07:48 UTC_
 
 ---
 
+## [STMicroelectronics’ low-side switch IC](https://www.powerelectronicsnews.com/stmicroelectronics-low-side-switch-ic/)
+**Published:** Tue, 25 Nov 2025 08:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/N4736D-Nov-19-2025-IPS1050LQ-intelligent-power-switch_IMAGE.jpg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>STMicroelectronics released the IPS1050LQ single-channel low-side switch IC, offering flexible overcurrent protection.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/stmicroelectronics-low-side-switch-ic/">STMicroelectronics’ low-side switch IC </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Wafer-Scale Vision: SAL’s Lithium Niobate Breakthrough Accelerates Photonic Commercialization](https://www.powerelectronicsnews.com/wafer-scale-vision-sals-lithium-niobate-breakthrough-accelerates-photonic-commercialization/)
 **Published:** Tue, 25 Nov 2025 03:26:00 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2025-11-25 07:48 UTC_
 
 <img alt="PowerAmerica Institute Launches 2025 Request for Proposals to Advance Wide Bandgap Semiconductor Technologies." class="webfeedsFeaturedVisual wp-post-image" height="1157" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/PXL_20250325_174004930-1536x1157-1.jpg?fit=1536%2C1157" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>PowerAmerica Institute has announced its 2025 Request for Proposals (RFP) to accelerate the development and commercialization of wide bandgap (WBG) semiconductor technologies.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/poweramerica-institute-launches-2025-request-for-proposals-to-advance-wide-bandgap-semiconductor-technologies/">PowerAmerica Institute Launches 2025 Request for Proposals to Advance Wide Bandgap Semiconductor Technologies</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [The $1.5 Trillion Bet Reshaping the Semiconductor Industry](https://www.powerelectronicsnews.com/the-1-5-trillion-bet-reshaping-the-semiconductor-industry/)
-**Published:** Thu, 13 Nov 2025 09:42:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="779" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/04/shutterstock_433269313.jpg?fit=1000%2C779" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The investment projection ultimately reflects the semiconductor industry’s role in enabling technological progress across multiple sectors.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-1-5-trillion-bet-reshaping-the-semiconductor-industry/">The $1.5 Trillion Bet Reshaping the Semiconductor Industry</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
