@@ -1,12 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-25 21:46 UTC_
+_Last updated: 2025-11-25 22:54 UTC_
 
 ## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
 **Published:** Mon, 24 Nov 2025 08:02:03 +0000
 
 <p>GUC has collaborated with VSORA to deliver turnkey ASIC design services supporting the on-schedule tapeout of the Jotunn8 AI chip.</p>
 <p>The post <a href="https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/">VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Rising Copper Plating Demand in Semiconductors Driven by Advanced Packaging and FE Interconnects](https://www.semiconductor-digest.com/rising-copper-plating-demand-in-semiconductors-driven-by-advanced-packaging-and-fe-interconnects/?utm_source=rss&utm_medium=rss&utm_campaign=rising-copper-plating-demand-in-semiconductors-driven-by-advanced-packaging-and-fe-interconnects)
+**Published:** Tue, 25 Nov 2025 21:38:48 +0000
+
+<p>The global plating chemicals market is projected to reach US$1,381M in 2025, up 9.3% from 2024.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rising-copper-plating-demand-in-semiconductors-driven-by-advanced-packaging-and-fe-interconnects/">Rising Copper Plating Demand in Semiconductors Driven by Advanced Packaging and FE Interconnects</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,14 +807,6 @@ _Last updated: 2025-11-25 21:46 UTC_
 
 <p>NVIDIA today announced plans with Samsung Electronics to build a new AI factory, representing a new era where intelligent computing and chip manufacturing converge.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/nvidia-and-samsung-build-ai-factory/">NVIDIA and Samsung Build AI Factory</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [onsemi Unveils Vertical GaN Semiconductors: A Breakthrough for AI and Electrification](https://www.semiconductor-digest.com/onsemi-unveils-vertical-gan-semiconductors-a-breakthrough-for-ai-and-electrification/?utm_source=rss&utm_medium=rss&utm_campaign=onsemi-unveils-vertical-gan-semiconductors-a-breakthrough-for-ai-and-electrification)
-**Published:** Thu, 30 Oct 2025 18:02:43 +0000
-
-<p>Built on novel GaN-on-GaN technology, onsemi’s vertical GaN architecture sets a new benchmark for power density, efficiency and ruggedness.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/onsemi-unveils-vertical-gan-semiconductors-a-breakthrough-for-ai-and-electrification/">onsemi Unveils Vertical GaN Semiconductors: A Breakthrough for AI and Electrification</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
