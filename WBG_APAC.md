@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-26 11:44 UTC_
+_Last updated: 2025-11-26 14:02 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -810,6 +810,14 @@ _Last updated: 2025-11-26 11:44 UTC_
 
 ---
 
+## [GlobalFoundries furthering its GaN reach in the U.S.](https://www.powerelectronicsnews.com/globalfoundries-furthering-its-gan-reach-in-the-u-s/)
+**Published:** Wed, 26 Nov 2025 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="519" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/GaN-wafers.png?fit=782%2C519" style="display: block; margin-bottom: 5px; clear: both;" width="782" /><p>GlobalFoundries has further expanded its GaN reach in the U.S. in a long-term partnership with Navitas, announced last week.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/globalfoundries-furthering-its-gan-reach-in-the-u-s/">GlobalFoundries furthering its GaN reach in the U.S.</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Huawei Advances SiC Applications in Thermal and Electromagnetic Management for AI-Era Electronics](https://www.powerelectronicsnews.com/huawei-advances-sic-applications-in-thermal-and-electromagnetic-management-for-ai-era-electronics/)
 **Published:** Wed, 26 Nov 2025 03:30:00 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2025-11-26 11:44 UTC_
 
 <img alt="Power Electronics Course: Part 24 - Cables in Power Electronics." class="webfeedsFeaturedVisual wp-post-image" height="500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/figure-00-power-20220627.jpg?fit=800%2C500" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>Cable sizing in power electronics is not a mere detail, but the primary design constraint. It determines safety, efficiency, costs, and reliability.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-part-24-cables-in-power-electronics/">Power Electronics Course: Part 24 &#8211; Cables in Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [A Deeper Dive into Diamond in Power Electronics](https://www.powerelectronicsnews.com/a-deeper-dive-into-diamond-in-power-electronics/)
-**Published:** Fri, 14 Nov 2025 09:52:00 +0000
-
-<img alt="Embedded PCB packaging of WBG Power Electronics." class="webfeedsFeaturedVisual wp-post-image" height="577" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/09/Embedded_PCB.jpg?fit=1000%2C577" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Diamond can provide significant theoretical advantages over WBG devices made from SiC or GaN.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/a-deeper-dive-into-diamond-in-power-electronics/">A Deeper Dive into Diamond in Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
