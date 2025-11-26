@@ -1,12 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-25 23:46 UTC_
+_Last updated: 2025-11-26 03:52 UTC_
 
-## [VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor](https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/)
-**Published:** Mon, 24 Nov 2025 08:02:03 +0000
+## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
+**Published:** Wed, 26 Nov 2025 02:33:55 +0000
 
-<p>GUC has collaborated with VSORA to deliver turnkey ASIC design services supporting the on-schedule tapeout of the Jotunn8 AI chip.</p>
-<p>The post <a href="https://www.eetasia.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/">VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Infineon's CoolGaN BDS enables significant enhancements in power output, energy efficiency, and system reliability for Enphase's IQ9 Series Microinverters.</p>
+<p>The post <a href="https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/">Infineon GaN Tech Powers Enphase Energy&#8217;s Next-gen Solar Microinverters</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -810,6 +810,14 @@ _Last updated: 2025-11-25 23:46 UTC_
 
 ---
 
+## [Huawei Advances SiC Applications in Thermal and Electromagnetic Management for AI-Era Electronics](https://www.powerelectronicsnews.com/huawei-advances-sic-applications-in-thermal-and-electromagnetic-management-for-ai-era-electronics/)
+**Published:** Wed, 26 Nov 2025 03:30:00 +0000
+
+<img alt="Exposed GPU layout illustrating the complexity of thermal and electromagnetic management in electronics for the AI era." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/Huawei-SiC-composite-image.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The two new patents from Huawei reflect a broader trend: the diversification of SiC applications across the electronics value chain.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/huawei-advances-sic-applications-in-thermal-and-electromagnetic-management-for-ai-era-electronics/">Huawei Advances SiC Applications in Thermal and Electromagnetic Management for AI-Era Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [STMicroelectronics’ low-side switch IC](https://www.powerelectronicsnews.com/stmicroelectronics-low-side-switch-ic/)
 **Published:** Tue, 25 Nov 2025 08:00:00 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2025-11-25 23:46 UTC_
 
 <img alt="Embedded PCB packaging of WBG Power Electronics." class="webfeedsFeaturedVisual wp-post-image" height="577" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/09/Embedded_PCB.jpg?fit=1000%2C577" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Diamond can provide significant theoretical advantages over WBG devices made from SiC or GaN.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/a-deeper-dive-into-diamond-in-power-electronics/">A Deeper Dive into Diamond in Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [PowerAmerica Institute Launches 2025 Request for Proposals to Advance Wide Bandgap Semiconductor Technologies](https://www.powerelectronicsnews.com/poweramerica-institute-launches-2025-request-for-proposals-to-advance-wide-bandgap-semiconductor-technologies/)
-**Published:** Thu, 13 Nov 2025 20:00:00 +0000
-
-<img alt="PowerAmerica Institute Launches 2025 Request for Proposals to Advance Wide Bandgap Semiconductor Technologies." class="webfeedsFeaturedVisual wp-post-image" height="1157" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/PXL_20250325_174004930-1536x1157-1.jpg?fit=1536%2C1157" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>PowerAmerica Institute has announced its 2025 Request for Proposals (RFP) to accelerate the development and commercialization of wide bandgap (WBG) semiconductor technologies.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/poweramerica-institute-launches-2025-request-for-proposals-to-advance-wide-bandgap-semiconductor-technologies/">PowerAmerica Institute Launches 2025 Request for Proposals to Advance Wide Bandgap Semiconductor Technologies</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
