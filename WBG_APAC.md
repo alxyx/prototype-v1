@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-26 05:02 UTC_
+_Last updated: 2025-11-26 05:53 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -914,24 +914,10 @@ _Last updated: 2025-11-26 05:02 UTC_
 
 ---
 
-## [12 kW Power Supply Unit Reference Design](https://www.electronicsforu.com/electronics-projects/12-kw-power-supply-unit-reference-design)
-**Published:** Mon, 24 Nov 2025 09:43:02 +0000
+## [JOB: Hardware Engineer At IBM In Hyderabad, Pune, And Bengaluru](https://www.electronicsforu.com/career/hardware-engineer-ibm-hyderabad-pune-bengaluru)
+**Published:** Tue, 25 Nov 2025 08:29:56 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/ref-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The design showcases how wide-bandgap devices, multi-level PFC and high-frequency LLC conversion can deliver record efficiency and compactness for next-generation AI servers and data-centre racks. The semiconductor company Infineon Technologies AG has unveiled a new 12 kW high-density power-supply-unit (PSU) reference design aimed squarely at AI-data-centre and high-performance server environments. The design is built to [&#8230;]
-
----
-
-## [Sales Intern – Semiconductor / Embedded At Modernize Chip Solutions (MCS) In Bengaluru](https://www.electronicsforu.com/news/sales-intern-semiconductor-embedded-at-modernize-chip-solutions-mcs-bengaluru)
-**Published:** Mon, 24 Nov 2025 09:29:18 +0000
-
-<img alt="Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/08/jobs-hiring-help-wanter-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Modernize Chip Solutions (MCS) Modernize Chip Solutions (MCS) is looking for an enthusiastic and proactive Sales Intern (Fresher) to join our growing Semiconductor &#38; Embedded sales team in Bangalore. Requirements 📧 Send your CV to: ananya.ojha@modernchipsolutions.com Apply Now via Google Form
-
----
-
-## [2D Wafer Bonding For Smaller Electronics](https://www.electronicsforu.com/news/2d-wafer-bonding-for-smaller-electronics)
-**Published:** Mon, 24 Nov 2025 07:19:18 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/a-new-approach-to-bond-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new method bonds 2D semiconductor layers without glue. This could make devices smaller and faster. Read on! Electronics engineers aim to make devices smaller while improving their speed, performance, and efficiency. Two-dimensional 2D semiconductors, ultra-thin single-layer materials with controllable electrical properties, show promise for this goal. Compared with conventional semiconductors, these thin materials could [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/06/IBM-Bangalore-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Locations: Hyderabad, Pune, And Bengaluru Company: IBM The Enterprise Systems Development team in Bangalore is a microcosm of the global Systems Development Lab. As a member of the ESD team, you will have an opportunity to work on the Design/ Verification/Pre-Silicon Validation / Physical design/ EDA / Library/ Memory characterisation/Post-Silicon validation of the [&#8230;]
 
 ---
 
