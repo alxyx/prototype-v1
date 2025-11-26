@@ -1,12 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-26 19:03 UTC_
+_Last updated: 2025-11-26 19:39 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
 
 <p>Infineon's CoolGaN BDS enables significant enhancements in power output, energy efficiency, and system reliability for Enphase's IQ9 Series Microinverters.</p>
 <p>The post <a href="https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/">Infineon GaN Tech Powers Enphase Energy&#8217;s Next-gen Solar Microinverters</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [QSolid Quantum Computer Now Accessible to External Users](https://www.semiconductor-digest.com/qsolid-quantum-computer-now-accessible-to-external-users/?utm_source=rss&utm_medium=rss&utm_campaign=qsolid-quantum-computer-now-accessible-to-external-users)
+**Published:** Wed, 26 Nov 2025 18:50:31 +0000
+
+<p>Scientists at Forschungszentrum Jülich, together with partners from the QSolid consortium, which includes the Fraunhofer Institute for Photonic Microsystems IPMS, have achieved a significant project milestone.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/qsolid-quantum-computer-now-accessible-to-external-users/">QSolid Quantum Computer Now Accessible to External Users</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,14 +807,6 @@ _Last updated: 2025-11-26 19:03 UTC_
 
 <p>Researchers focus on their pathbreaking study on coupling free electrons with nonlinear optical states in integrated photonic microresonators.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ieee-study-reviews-novel-photonics-breakthroughs-of-2024/">IEEE Study Reviews Novel Photonics Breakthroughs of 2024</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NVIDIA, South Korea Government and Industrial Giants Build AI Infrastructure and Ecosystem to Fuel Korea Innovation, Industries and Jobs](https://www.semiconductor-digest.com/nvidia-south-korea-government-and-industrial-giants-build-ai-infrastructure-and-ecosystem-to-fuel-korea-innovation-industries-and-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-south-korea-government-and-industrial-giants-build-ai-infrastructure-and-ecosystem-to-fuel-korea-innovation-industries-and-jobs)
-**Published:** Fri, 31 Oct 2025 18:01:26 +0000
-
-<p>NVIDIA today announced that it is working with South Korea to expand the nation’s AI infrastructure with over a quarter-million NVIDIA GPUs across its sovereign clouds and AI factories.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nvidia-south-korea-government-and-industrial-giants-build-ai-infrastructure-and-ecosystem-to-fuel-korea-innovation-industries-and-jobs/">NVIDIA, South Korea Government and Industrial Giants Build AI Infrastructure and Ecosystem to Fuel Korea Innovation, Industries and Jobs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
