@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-26 07:47 UTC_
+_Last updated: 2025-11-26 09:07 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -911,13 +911,6 @@ _Last updated: 2025-11-26 07:47 UTC_
 
 <p>GUC has teamed up with VSORA to offer turnkey ASIC design services, ensuring the tapeout of the Jotunn8 datacenter AI inference processor.</p>
 <p>The post <a href="https://www.eetimes.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/">VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [JOB: Hardware Engineer At IBM In Hyderabad, Pune, And Bengaluru](https://www.electronicsforu.com/career/hardware-engineer-ibm-hyderabad-pune-bengaluru)
-**Published:** Tue, 25 Nov 2025 08:29:56 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/06/IBM-Bangalore-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Locations: Hyderabad, Pune, And Bengaluru Company: IBM The Enterprise Systems Development team in Bangalore is a microcosm of the global Systems Development Lab. As a member of the ESD team, you will have an opportunity to work on the Design/ Verification/Pre-Silicon Validation / Physical design/ EDA / Library/ Memory characterisation/Post-Silicon validation of the [&#8230;]
 
 ---
 
