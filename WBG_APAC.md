@@ -1,12 +1,36 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-26 14:02 UTC_
+_Last updated: 2025-11-26 14:59 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
 
 <p>Infineon's CoolGaN BDS enables significant enhancements in power output, energy efficiency, and system reliability for Enphase's IQ9 Series Microinverters.</p>
 <p>The post <a href="https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/">Infineon GaN Tech Powers Enphase Energy&#8217;s Next-gen Solar Microinverters</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Beyond Hire-Train-Deploy: Building Resilient Semiconductor Talent Pipelines](https://www.semiconductor-digest.com/beyond-hire-train-deploy-building-resilient-semiconductor-talent-pipelines/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-hire-train-deploy-building-resilient-semiconductor-talent-pipelines)
+**Published:** Wed, 26 Nov 2025 14:07:35 +0000
+
+<p>The industry's growth depends on solving its workforce challenge by taking a new approach to hiring that focuses on aptitude and potential capability to build a sustainable workforce of “learning machines.” </p>
+<p>The post <a href="https://www.semiconductor-digest.com/beyond-hire-train-deploy-building-resilient-semiconductor-talent-pipelines/">Beyond Hire-Train-Deploy: Building Resilient Semiconductor Talent Pipelines</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Accelerating RTL Design Through Multi-Agent AI Collaboration](https://www.semiconductor-digest.com/accelerating-rtl-design-through-multi-agent-ai-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=accelerating-rtl-design-through-multi-agent-ai-collaboration)
+**Published:** Wed, 26 Nov 2025 13:58:58 +0000
+
+<p>Instead of linear workflows where problems get discovered late and are expensive, we're moving toward continuous validation and improvement.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/accelerating-rtl-design-through-multi-agent-ai-collaboration/">Accelerating RTL Design Through Multi-Agent AI Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Specialized Packaging in the Semiconductor Industry: Why Every Micron Matters](https://www.semiconductor-digest.com/specialized-packaging-in-the-semiconductor-industry-why-every-micron-matters/?utm_source=rss&utm_medium=rss&utm_campaign=specialized-packaging-in-the-semiconductor-industry-why-every-micron-matters)
+**Published:** Wed, 26 Nov 2025 13:51:36 +0000
+
+<p>Every cleanroom protocol, every vibration test, every engineered crate is part of a larger mission: to ensure that the most advanced components in the world arrive at their destination in perfect condition.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/specialized-packaging-in-the-semiconductor-industry-why-every-micron-matters/">Specialized Packaging in the Semiconductor Industry: Why Every Micron Matters</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,30 +807,6 @@ _Last updated: 2025-11-26 14:02 UTC_
 
 <p>NVIDIA today announced that it is working with South Korea to expand the nation’s AI infrastructure with over a quarter-million NVIDIA GPUs across its sovereign clouds and AI factories.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/nvidia-south-korea-government-and-industrial-giants-build-ai-infrastructure-and-ecosystem-to-fuel-korea-innovation-industries-and-jobs/">NVIDIA, South Korea Government and Industrial Giants Build AI Infrastructure and Ecosystem to Fuel Korea Innovation, Industries and Jobs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AI Semiconductor Innovator DEEPX Recognized by NYSE and WEF](https://www.semiconductor-digest.com/ai-semiconductor-innovator-deepx-recognized-by-nyse-and-wef/?utm_source=rss&utm_medium=rss&utm_campaign=ai-semiconductor-innovator-deepx-recognized-by-nyse-and-wef)
-**Published:** Fri, 31 Oct 2025 17:47:06 +0000
-
-<p>As AI begins to sustainably generate tangible value, global AI semiconductor innovator DEEPX (CEO Lokwon Kim) today announced it was recently selected as a 'Sustainable and Responsible AI Innovation Company' at the MINDS Awards hosted by the World Economic Forum (WEF) on October 29.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ai-semiconductor-innovator-deepx-recognized-by-nyse-and-wef/">AI Semiconductor Innovator DEEPX Recognized by NYSE and WEF</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Cadence Completes Acquisition of Secure-IC](https://www.semiconductor-digest.com/cadence-completes-acquisition-of-secure-ic/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-completes-acquisition-of-secure-ic)
-**Published:** Fri, 31 Oct 2025 17:26:39 +0000
-
-<p>Cadence today announced it has completed the previously announced acquisition of Secure-IC, a provider of embedded security IP, security solutions and security evaluation tools and services.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cadence-completes-acquisition-of-secure-ic/">Cadence Completes Acquisition of Secure-IC</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NVIDIA and Samsung Build AI Factory](https://www.semiconductor-digest.com/nvidia-and-samsung-build-ai-factory/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-and-samsung-build-ai-factory)
-**Published:** Fri, 31 Oct 2025 17:18:31 +0000
-
-<p>NVIDIA today announced plans with Samsung Electronics to build a new AI factory, representing a new era where intelligent computing and chip manufacturing converge.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nvidia-and-samsung-build-ai-factory/">NVIDIA and Samsung Build AI Factory</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
