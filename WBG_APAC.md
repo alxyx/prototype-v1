@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-26 11:04 UTC_
+_Last updated: 2025-11-26 11:44 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -911,6 +911,14 @@ _Last updated: 2025-11-26 11:04 UTC_
 
 <p>GUC has teamed up with VSORA to offer turnkey ASIC design services, ensuring the tapeout of the Jotunn8 datacenter AI inference processor.</p>
 <p>The post <a href="https://www.eetimes.com/vsora-and-guc-partner-on-jotunn8-datacenter-ai-inference-processor/">VSORA and GUC Partner on Jotunn8 Datacenter AI Inference Processor</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [RANSemi hooks up with TechPhosis on small cells](https://www.electronicsweekly.com/news/business/ransemi-hooks-up-with-techphosis-on-small-cells-2025-11/)
+**Published:** Wed, 26 Nov 2025 10:22:18 +0000
+
+<p>RANsemi, the British wireless semiconductor company specialising in Open RAN baseband technologies, has announced a new collaboration with TechPhosis Private Limited, one of India’s leading 5G CU/DU stack solution providers ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/ransemi-hooks-up-with-techphosis-on-small-cells-2025-11/">RANSemi hooks up with TechPhosis on small cells</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
