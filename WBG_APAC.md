@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-27 13:58 UTC_
+_Last updated: 2025-11-27 14:56 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -810,6 +810,14 @@ _Last updated: 2025-11-27 13:58 UTC_
 
 ---
 
+## [Here’s a roundup of our 5 favorite articles in 2025](https://www.powerelectronicsnews.com/heres-a-roundup-of-our-5-favorite-articles-in-2025/)
+**Published:** Thu, 27 Nov 2025 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="953" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/EUV.png?fit=1682%2C953" style="display: block; margin-bottom: 5px; clear: both;" width="1682" /><p>2025 brought in a stream of steady innovations in semiconductor manufacture and the application of wideband gap (WBG) technology.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/heres-a-roundup-of-our-5-favorite-articles-in-2025/">Here’s a roundup of our 5 favorite articles in 2025</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [GlobalFoundries furthering its GaN reach in the U.S.](https://www.powerelectronicsnews.com/globalfoundries-furthering-its-gan-reach-in-the-u-s/)
 **Published:** Wed, 26 Nov 2025 14:00:00 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2025-11-27 13:58 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="405" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/Diamond.png?fit=545%2C405" style="display: block; margin-bottom: 5px; clear: both;" width="545" /><p>New research exposes the hidden weak points in diamond and opens pathways toward designing more robust diamond-based technologies.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/electrical-breakdown-in-diamond-crystallographic-orientation-and-stress-driven-failure-mechanisms/">Electrical Breakdown in Diamond: Crystallographic Orientation and Stress-Driven Failure Mechanisms</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Electronics Course: Part 24 – Cables in Power Electronics](https://www.powerelectronicsnews.com/power-electronics-course-part-24-cables-in-power-electronics/)
-**Published:** Mon, 17 Nov 2025 08:17:00 +0000
-
-<img alt="Power Electronics Course: Part 24 - Cables in Power Electronics." class="webfeedsFeaturedVisual wp-post-image" height="500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/figure-00-power-20220627.jpg?fit=800%2C500" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>Cable sizing in power electronics is not a mere detail, but the primary design constraint. It determines safety, efficiency, costs, and reliability.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-part-24-cables-in-power-electronics/">Power Electronics Course: Part 24 &#8211; Cables in Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
