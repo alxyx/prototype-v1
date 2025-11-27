@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-27 11:01 UTC_
+_Last updated: 2025-11-27 11:46 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -922,17 +922,10 @@ _Last updated: 2025-11-27 11:01 UTC_
 
 ---
 
-## [What is a MOSFET? It’s Types, Working, Circuit, and Applications](https://www.electronicsforu.com/technology-trends/learn-electronics/mosfet-basics-working-applications)
-**Published:** Wed, 26 Nov 2025 18:23:20 +0000
+## [JOB: Design Engineer 1 – Hardware At Tessolve Semiconductors In Bengaluru](https://www.electronicsforu.com/career/design-engineer-1-hardware-tessolve-semiconductors-bengaluru)
+**Published:** Thu, 27 Nov 2025 09:45:01 +0000
 
-<img alt="MOSFET Types, Structure, and Symbol" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/09/MOSFET-Types-Structure-Mode-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A Metal Oxide Semiconductor Field-effect Transistor (MOSFET, MOS-FET, or MOS FET) is a field-effect transistor (FET with an insulated gate) where the voltage determines the conductivity of the device. It is used for switching or amplifying signals. The ability to change conductivity with the amount of applied voltage can be used for amplifying or switching [&#8230;]
-
----
-
-## [7 Segment Display Pinout, Codes, Working, and Interfacing](https://www.electronicsforu.com/resources/7-segment-display-pinout-understanding)
-**Published:** Wed, 26 Nov 2025 17:38:50 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/feature-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A 7-segment display is commonly used in electronic display devices for decimal numbers from 0 to 9 and in some cases, basic characters. The use of light-emitting diodes (LEDs) in seven-segment displays made it more popular, whereas of late liquid crystal displays (LCD) have also come into use. Electronic devices like microwave ovens, calculators, washing [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/09/Tessolve-semicon-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Tessolve Semiconductors Key Responsibilities About The Role What Is Nice To Have
 
 ---
 
