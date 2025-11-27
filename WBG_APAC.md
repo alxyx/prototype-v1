@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-27 11:46 UTC_
+_Last updated: 2025-11-27 13:58 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -890,6 +890,14 @@ _Last updated: 2025-11-27 11:46 UTC_
 
 ---
 
+## [How Machine-to-Machine Communication Will Power Physical AI](https://www.eetimes.com/how-machine-to-machine-communication-will-power-physical-ai/)
+**Published:** Thu, 27 Nov 2025 13:00:00 +0000
+
+<p>Discover how machine-to-machine communication is making robots autonomous, collaborative and ready to reshape daily life.</p>
+<p>The post <a href="https://www.eetimes.com/how-machine-to-machine-communication-will-power-physical-ai/">How Machine-to-Machine Communication Will Power Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [A Power Reshuffle Follows GF, TSMC GaN Tie-Up](https://www.eetimes.com/a-power-reshuffle-follows-gf-tsmc-gan-tie-up/)
 **Published:** Mon, 24 Nov 2025 23:00:00 +0000
 
@@ -898,27 +906,11 @@ _Last updated: 2025-11-27 11:46 UTC_
 
 ---
 
-## [Smarter Silicon with Menta eFPGA and HW/SW Co-Design](https://www.eetimes.com/smarter-silicon-with-menta-efpga-and-hw-sw-co-design/)
-**Published:** Mon, 24 Nov 2025 14:00:00 +0000
-
-<p>Learn how Menta’s eFPGA and HW/SW Co-Design enable 10–100× performance gains, flexibility, and crypto-agility in modern ASICs and SoCs.</p>
-<p>The post <a href="https://www.eetimes.com/smarter-silicon-with-menta-efpga-and-hw-sw-co-design/">Smarter Silicon with Menta eFPGA and HW/SW Co-Design</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
 ## [Astute Group signs NoMIS Power](https://www.electronicsweekly.com/news/business/__trashed-3-2025-11/)
 **Published:** Thu, 27 Nov 2025 06:12:57 +0000
 
 <p>Astute Group has become an authorised distribution partner for NoMIS Power. Astute Group will distribute NoMIS Power’s SiC semiconductor technology, expanding access to high-performance power solutions with the capabilities to tackle mission-critical applications ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/__trashed-3-2025-11/">Astute Group signs NoMIS Power</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [RANSemi hooks up with TechPhosis on small cells](https://www.electronicsweekly.com/news/business/ransemi-hooks-up-with-techphosis-on-small-cells-2025-11/)
-**Published:** Wed, 26 Nov 2025 10:22:18 +0000
-
-<p>RANsemi, the British wireless semiconductor company specialising in Open RAN baseband technologies, has announced a new collaboration with TechPhosis Private Limited, one of India’s leading 5G CU/DU stack solution providers ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/ransemi-hooks-up-with-techphosis-on-small-cells-2025-11/">RANSemi hooks up with TechPhosis on small cells</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
