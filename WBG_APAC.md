@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-27 05:56 UTC_
+_Last updated: 2025-11-27 07:11 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -903,6 +903,14 @@ _Last updated: 2025-11-27 05:56 UTC_
 
 <p>Learn how Menta’s eFPGA and HW/SW Co-Design enable 10–100× performance gains, flexibility, and crypto-agility in modern ASICs and SoCs.</p>
 <p>The post <a href="https://www.eetimes.com/smarter-silicon-with-menta-efpga-and-hw-sw-co-design/">Smarter Silicon with Menta eFPGA and HW/SW Co-Design</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Astute Group signs NoMIS Power](https://www.electronicsweekly.com/news/business/__trashed-3-2025-11/)
+**Published:** Thu, 27 Nov 2025 06:12:57 +0000
+
+<p>Astute Group has become an authorised distribution partner for NoMIS Power. Astute Group will distribute NoMIS Power’s SiC semiconductor technology, expanding access to high-performance power solutions with the capabilities to tackle mission-critical applications ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/__trashed-3-2025-11/">Astute Group signs NoMIS Power</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
