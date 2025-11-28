@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-28 14:55 UTC_
+_Last updated: 2025-11-28 15:50 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -887,6 +887,14 @@ _Last updated: 2025-11-28 14:55 UTC_
 
 <img alt="Power Electronics Course: Part 25 - Overview of Battery Energy Storage Systems (BESS)." class="webfeedsFeaturedVisual wp-post-image" height="500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/figure-00-power-20220627-1.jpg?fit=800%2C500" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>Battery Energy Storage Systems (BESS) are fundamental components in the transition to more flexible and sustainable electricity grids. </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-part-25-overview-of-battery-energy-storage-systems-bess/">Power Electronics Course: Part 25 &#8211; Overview of Battery Energy Storage Systems (BESS)</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [‘MUSiC’ Fab Aims To Be National Sandbox for Silicon Carbide (SiC)](https://www.eetimes.com/music-fab-aims-to-be-national-sandbox-for-silicon-carbide-sic/)
+**Published:** Fri, 28 Nov 2025 15:45:17 +0000
+
+<p>UA Power Group in Arkansas opens its multi-user silicon carbide facility (MUSiC) open-access SiC fab, dedicated to SiC research, and prototyping.</p>
+<p>The post <a href="https://www.eetimes.com/music-fab-aims-to-be-national-sandbox-for-silicon-carbide-sic/">‘MUSiC’ Fab Aims To Be National Sandbox for Silicon Carbide (SiC)</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
