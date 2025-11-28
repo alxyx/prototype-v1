@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-28 11:45 UTC_
+_Last updated: 2025-11-28 13:55 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -890,6 +890,14 @@ _Last updated: 2025-11-28 11:45 UTC_
 
 ---
 
+## [To Take the Order or Not to Take the Order: That is the Question Now!](https://www.eetimes.com/to-take-the-order-or-not-to-take-the-order-that-is-the-question-now/)
+**Published:** Fri, 28 Nov 2025 13:00:00 +0000
+
+<p>The semiconductor memory market is at a profit–ethics crossroads.</p>
+<p>The post <a href="https://www.eetimes.com/to-take-the-order-or-not-to-take-the-order-that-is-the-question-now/">To Take the Order or Not to Take the Order: That is the Question Now!</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [How Machine-to-Machine Communication Will Power Physical AI](https://www.eetimes.com/how-machine-to-machine-communication-will-power-physical-ai/)
 **Published:** Thu, 27 Nov 2025 13:00:00 +0000
 
@@ -906,10 +914,10 @@ _Last updated: 2025-11-28 11:45 UTC_
 
 ---
 
-## [JOB: Design Engineer 1 – Hardware At Tessolve Semiconductors In Bengaluru](https://www.electronicsforu.com/career/design-engineer-1-hardware-tessolve-semiconductors-bengaluru)
-**Published:** Thu, 27 Nov 2025 09:45:01 +0000
+## [Humanoid Robots Learning To Handle Objects](https://www.electronicsforu.com/news/humanoid-robots-learning-to-handle-objects)
+**Published:** Fri, 28 Nov 2025 06:29:03 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/09/Tessolve-semicon-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Tessolve Semiconductors Key Responsibilities About The Role What Is Nice To Have
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/new-framework-could-al-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Humanoid robots struggle with new tasks. A new approach could help them handle objects reliably in homes, factories, and service settings.&#160; Humanoid Robots Learning to Handle ObjectsHumanoid robots could handle many tasks done by people. These tasks include household chores like cleaning, organizing, and cooking, as well as moving items or assembling products. To perform [&#8230;]
 
 ---
 
