@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-11-28 19:41 UTC_
+_Last updated: 2025-11-28 20:53 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -810,6 +810,14 @@ _Last updated: 2025-11-28 19:41 UTC_
 
 ---
 
+## [Wide Bandgap Monthly Insights – November 2025](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-november-2025/)
+**Published:** Fri, 28 Nov 2025 20:22:33 +0000
+
+<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-november-2025/">Wide Bandgap Monthly Insights &#8211; November 2025</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Tech Fault Lines: How Geopolitics Is Shaping the Digital Risks of 2025](https://www.powerelectronicsnews.com/tech-fault-lines-how-geopolitics-is-shaping-the-digital-risks-of-2025/)
 **Published:** Fri, 28 Nov 2025 14:00:00 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2025-11-28 19:41 UTC_
 
 <img alt="Embedded PCB packaging of WBG Power Electronics." class="webfeedsFeaturedVisual wp-post-image" height="577" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/09/Embedded_PCB.jpg?fit=1000%2C577" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>In the race to expand the capabilities of semiconductor materials for power electronics, researchers have increasingly turned to the disruptive properties of GaN HEMTs.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/overcoming-the-voltage-wall-10-kv-e-mode-gan-hemts-redefine-power-electronics/">Overcoming the Voltage Wall: 10-kV E-Mode GaN HEMTs Redefine Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Electronics Course: Part 25 – Overview of Battery Energy Storage Systems (BESS)](https://www.powerelectronicsnews.com/power-electronics-course-part-25-overview-of-battery-energy-storage-systems-bess/)
-**Published:** Thu, 20 Nov 2025 08:34:31 +0000
-
-<img alt="Power Electronics Course: Part 25 - Overview of Battery Energy Storage Systems (BESS)." class="webfeedsFeaturedVisual wp-post-image" height="500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/figure-00-power-20220627-1.jpg?fit=800%2C500" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>Battery Energy Storage Systems (BESS) are fundamental components in the transition to more flexible and sustainable electricity grids. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-part-25-overview-of-battery-energy-storage-systems-bess/">Power Electronics Course: Part 25 &#8211; Overview of Battery Energy Storage Systems (BESS)</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
