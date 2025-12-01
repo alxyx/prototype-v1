@@ -1,12 +1,36 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-01 21:31 UTC_
+_Last updated: 2025-12-01 22:34 UTC_
 
-## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
-**Published:** Wed, 26 Nov 2025 02:33:55 +0000
+## [Empowering Chip Innovation and Supply Chains for the Semiconductor Frontier](https://www.eetasia.com/empowering-chip-innovation-and-supply-chains-for-the-semiconductor-frontier/)
+**Published:** Mon, 01 Dec 2025 22:06:06 +0000
 
-<p>Infineon's CoolGaN BDS enables significant enhancements in power output, energy efficiency, and system reliability for Enphase's IQ9 Series Microinverters.</p>
-<p>The post <a href="https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/">Infineon GaN Tech Powers Enphase Energy&#8217;s Next-gen Solar Microinverters</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The final day of IIC Shenzhen 2025 spotlights chip innovation, AI and supply chain trends—explore the future of semiconductors now!</p>
+<p>The post <a href="https://www.eetasia.com/empowering-chip-innovation-and-supply-chains-for-the-semiconductor-frontier/">Empowering Chip Innovation and Supply Chains for the Semiconductor Frontier</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Teledyne MEMS Welcomes Strategic Investment in C2MI](https://www.semiconductor-digest.com/teledyne-mems-welcomes-strategic-investment-in-c2mi/?utm_source=rss&utm_medium=rss&utm_campaign=teledyne-mems-welcomes-strategic-investment-in-c2mi)
+**Published:** Mon, 01 Dec 2025 22:15:13 +0000
+
+<p>Teledyne Technologies Incorporated announced today that Teledyne MEMS, a member and partner of the MiQro Innovation Collaborative Center (C2MI), announced the Canadian and Quebec governments’ strategic investment in its expansion into the next project phase, C2MI1.5.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/teledyne-mems-welcomes-strategic-investment-in-c2mi/">Teledyne MEMS Welcomes Strategic Investment in C2MI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Toray Develops Temporary Bonding Material for Uniformly Ultra-Thin Semiconductor Wafers](https://www.semiconductor-digest.com/toray-develops-temporary-bonding-material-for-uniformly-ultra-thin-semiconductor-wafers/?utm_source=rss&utm_medium=rss&utm_campaign=toray-develops-temporary-bonding-material-for-uniformly-ultra-thin-semiconductor-wafers)
+**Published:** Mon, 01 Dec 2025 21:53:04 +0000
+
+<p>Toray Industries, Inc., announced today that it has developed a semiconductor back-end process material that is essential for manufacturing semiconductor wafers 30 micrometers or less in thickness.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/toray-develops-temporary-bonding-material-for-uniformly-ultra-thin-semiconductor-wafers/">Toray Develops Temporary Bonding Material for Uniformly Ultra-Thin Semiconductor Wafers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [CMP Slurry and Pads Market Set for 6% Growth](https://www.semiconductor-digest.com/cmp-slurry-and-pads-market-set-for-6-growth-2/?utm_source=rss&utm_medium=rss&utm_campaign=cmp-slurry-and-pads-market-set-for-6-growth-2)
+**Published:** Mon, 01 Dec 2025 21:45:45 +0000
+
+<p>The CMP slurry and pad market is forecasted to grow 6% in 2025 to approximately $3.6 billion USD, driven by recovery in logic segments and expanding CMP process steps across next generation device technologies and advanced packaging.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cmp-slurry-and-pads-market-set-for-6-growth-2/">CMP Slurry and Pads Market Set for 6% Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,30 +807,6 @@ _Last updated: 2025-12-01 21:31 UTC_
 
 <p>The SEMI Foundation announced it recognized Applied Materials, Inc. with the Excellence in Achievement Award at SEMICON West 2025 in Phoenix, Arizona, honoring the company’s outstanding leadership and collaboration in building the next generation of semiconductor talent.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semi-foundation-honors-applied-materials-at-semicon-west-with-2025-excellence-in-achievement-award/">SEMI Foundation Honors Applied Materials at SEMICON West with 2025 Excellence in Achievement Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Semiconductor Industry Leaders and Last Mile Education Fund Launch First-of-Its-Kind Fund to Tackle U.S. Talent Shortage](https://www.semiconductor-digest.com/semiconductor-industry-leaders-and-last-mile-education-fund-launch-first-of-its-kind-fund-to-tackle-u-s-talent-shortage/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-industry-leaders-and-last-mile-education-fund-launch-first-of-its-kind-fund-to-tackle-u-s-talent-shortage)
-**Published:** Mon, 03 Nov 2025 19:46:57 +0000
-
-<p>The Last Mile Education Fund today announced the launch of the Semiconductor Pathways Fund, an industry-wide initiative to close critical talent gaps in the U.S. semiconductor workforce by enabling financially vulnerable college students to complete their degrees and enter high-demand roles.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-industry-leaders-and-last-mile-education-fund-launch-first-of-its-kind-fund-to-tackle-u-s-talent-shortage/">Semiconductor Industry Leaders and Last Mile Education Fund Launch First-of-Its-Kind Fund to Tackle U.S. Talent Shortage</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Northeast Microelectronics Coalition Hub Launches $1.2 Million POWER Workforce Development Program](https://www.semiconductor-digest.com/northeast-microelectronics-coalition-hub-launches-1-2-million-power-workforce-development-program/?utm_source=rss&utm_medium=rss&utm_campaign=northeast-microelectronics-coalition-hub-launches-1-2-million-power-workforce-development-program)
-**Published:** Mon, 03 Nov 2025 19:39:07 +0000
-
-<p>The Northeast Microelectronics Coalition (NEMC) Hub has launched the POWER Program, a $1.2 million initiative to advance education, training programs and workforce development throughout the Northeast. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/northeast-microelectronics-coalition-hub-launches-1-2-million-power-workforce-development-program/">Northeast Microelectronics Coalition Hub Launches $1.2 Million POWER Workforce Development Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IEEE Study Reviews Novel Photonics Breakthroughs of 2024](https://www.semiconductor-digest.com/ieee-study-reviews-novel-photonics-breakthroughs-of-2024/?utm_source=rss&utm_medium=rss&utm_campaign=ieee-study-reviews-novel-photonics-breakthroughs-of-2024)
-**Published:** Fri, 31 Oct 2025 18:08:05 +0000
-
-<p>Researchers focus on their pathbreaking study on coupling free electrons with nonlinear optical states in integrated photonic microresonators.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ieee-study-reviews-novel-photonics-breakthroughs-of-2024/">IEEE Study Reviews Novel Photonics Breakthroughs of 2024</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
