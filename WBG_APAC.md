@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-01 19:35 UTC_
+_Last updated: 2025-12-01 20:35 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -887,6 +887,14 @@ _Last updated: 2025-12-01 19:35 UTC_
 
 <img alt="SAL’s first 8-inch thin-film lithium niobate wafer for scalable integrated photonics." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/SAL_8inch_picture.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Research hub Silicon Austria Labs has successfully fabricated its first 8-inch thin-film lithium niobate wafer entirely in-house.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/wafer-scale-vision-sals-lithium-niobate-breakthrough-accelerates-photonic-commercialization/">Wafer-Scale Vision: SAL’s Lithium Niobate Breakthrough Accelerates Photonic Commercialization</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Empower Chip Innovation and Supply Chains for the Semiconductor Frontier: IIC SHENZHEN 2025 Concludes Successfully](https://www.eetimes.com/empower-chip-innovation-and-supply-chains-for-the-semiconductor-frontier-iic-shenzhen-2025-concludes-successfully/)
+**Published:** Mon, 01 Dec 2025 19:41:54 +0000
+
+<p>The final day of IIC Shenzhen 2025 spotlights chip innovation, AI and supply chain trends—explore the future of semiconductors now!</p>
+<p>The post <a href="https://www.eetimes.com/empower-chip-innovation-and-supply-chains-for-the-semiconductor-frontier-iic-shenzhen-2025-concludes-successfully/">Empower Chip Innovation and Supply Chains for the Semiconductor Frontier: IIC SHENZHEN 2025 Concludes Successfully</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
