@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-01 22:34 UTC_
+_Last updated: 2025-12-01 23:33 UTC_
+
+## [Tax Refund Strengthens Wolfspeed’s Liquidity Position](https://www.eetasia.com/tax-refund-strengthens-wolfspeeds-liquidity-position/)
+**Published:** Mon, 01 Dec 2025 22:27:04 +0000
+
+<p>The refund positions Wolfspeed with enhanced financial flexibility as it advances the ramp of its 200mm SiC manufacturing footprint.</p>
+<p>The post <a href="https://www.eetasia.com/tax-refund-strengthens-wolfspeeds-liquidity-position/">Tax Refund Strengthens Wolfspeed&#8217;s Liquidity Position</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Empowering Chip Innovation and Supply Chains for the Semiconductor Frontier](https://www.eetasia.com/empowering-chip-innovation-and-supply-chains-for-the-semiconductor-frontier/)
 **Published:** Mon, 01 Dec 2025 22:06:06 +0000
 
 <p>The final day of IIC Shenzhen 2025 spotlights chip innovation, AI and supply chain trends—explore the future of semiconductors now!</p>
 <p>The post <a href="https://www.eetasia.com/empowering-chip-innovation-and-supply-chains-for-the-semiconductor-frontier/">Empowering Chip Innovation and Supply Chains for the Semiconductor Frontier</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SiliconCatalyst.AU Announces New Managing Partners](https://www.semiconductor-digest.com/siliconcatalyst-au-announces-new-managing-partners/?utm_source=rss&utm_medium=rss&utm_campaign=siliconcatalyst-au-announces-new-managing-partners)
+**Published:** Mon, 01 Dec 2025 22:30:29 +0000
+
+<p>SiliconCatalyst.AU, the Australia‑based arm of Silicon Catalyst—the only accelerator focused on the global semiconductor industry, including Chips, Chiplets, Materials, IP and Silicon fabrication-based Photonics, MEMS, Sensors, Life Science and Quantum, announces the appointment of two distinguished industry veterans as Managing Partners in Brisbane: Dr. Michael Harvey and Dr. Anthony Brewer.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siliconcatalyst-au-announces-new-managing-partners/">SiliconCatalyst.AU Announces New Managing Partners</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,14 +815,6 @@ _Last updated: 2025-12-01 22:34 UTC_
 
 <p>Valens Semiconductor today announced the appointment of Yoram Salinger as its new Chief Executive Officer and board member, effective on November 13th, 2025.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-appoints-yoram-salinger-as-chief-executive-officer/">Valens Semiconductor Appoints Yoram Salinger as Chief Executive Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Foundation Honors Applied Materials at SEMICON West with 2025 Excellence in Achievement Award](https://www.semiconductor-digest.com/semi-foundation-honors-applied-materials-at-semicon-west-with-2025-excellence-in-achievement-award/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-honors-applied-materials-at-semicon-west-with-2025-excellence-in-achievement-award)
-**Published:** Mon, 03 Nov 2025 20:03:53 +0000
-
-<p>The SEMI Foundation announced it recognized Applied Materials, Inc. with the Excellence in Achievement Award at SEMICON West 2025 in Phoenix, Arizona, honoring the company’s outstanding leadership and collaboration in building the next generation of semiconductor talent.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-foundation-honors-applied-materials-at-semicon-west-with-2025-excellence-in-achievement-award/">SEMI Foundation Honors Applied Materials at SEMICON West with 2025 Excellence in Achievement Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
