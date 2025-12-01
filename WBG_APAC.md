@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-01 15:36 UTC_
+_Last updated: 2025-12-01 16:43 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -919,6 +919,14 @@ _Last updated: 2025-12-01 15:36 UTC_
 
 <p>Discover how machine-to-machine communication is making robots autonomous, collaborative and ready to reshape daily life.</p>
 <p>The post <a href="https://www.eetimes.com/how-machine-to-machine-communication-will-power-physical-ai/">How Machine-to-Machine Communication Will Power Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [£1.5m grant for Novocomms switchable antenna](https://www.electronicsweekly.com/news/business/manufacturing/1-5m-grant-for-novocomms-switchable-antenna-2025-12/)
+**Published:** Mon, 01 Dec 2025 16:16:00 +0000
+
+<p>Novocomms of Birmingham, UK, has £1.5m of Innovate UK funding to develop 28GHz in-antenna switches. &#8220;The components we are developing are based on addressable low-loss semiconductors which can be used ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/manufacturing/1-5m-grant-for-novocomms-switchable-antenna-2025-12/">£1.5m grant for Novocomms switchable antenna</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
