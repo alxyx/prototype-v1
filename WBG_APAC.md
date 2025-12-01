@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-01 12:57 UTC_
+_Last updated: 2025-12-01 13:49 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -890,6 +890,14 @@ _Last updated: 2025-12-01 12:57 UTC_
 
 ---
 
+## [The Great AI Reallocation](https://www.eetimes.com/the-great-ai-reallocation/)
+**Published:** Mon, 01 Dec 2025 13:00:00 +0000
+
+<p>The threat of 100% tariff on semiconductors is fueling massive investments in U.S. soil.</p>
+<p>The post <a href="https://www.eetimes.com/the-great-ai-reallocation/">The Great AI Reallocation </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [‘MUSiC’ Fab Aims To Be National Sandbox for Silicon Carbide (SiC)](https://www.eetimes.com/music-fab-aims-to-be-national-sandbox-for-silicon-carbide-sic/)
 **Published:** Fri, 28 Nov 2025 15:45:17 +0000
 
@@ -911,14 +919,6 @@ _Last updated: 2025-12-01 12:57 UTC_
 
 <p>Discover how machine-to-machine communication is making robots autonomous, collaborative and ready to reshape daily life.</p>
 <p>The post <a href="https://www.eetimes.com/how-machine-to-machine-communication-will-power-physical-ai/">How Machine-to-Machine Communication Will Power Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [A Power Reshuffle Follows GF, TSMC GaN Tie-Up](https://www.eetimes.com/a-power-reshuffle-follows-gf-tsmc-gan-tie-up/)
-**Published:** Mon, 24 Nov 2025 23:00:00 +0000
-
-<p>TSMC licenses GaN tech to GF as it exits, sparking a U.S. shift in power semiconductors.</p>
-<p>The post <a href="https://www.eetimes.com/a-power-reshuffle-follows-gf-tsmc-gan-tie-up/">A Power Reshuffle Follows GF, TSMC GaN Tie-Up</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
