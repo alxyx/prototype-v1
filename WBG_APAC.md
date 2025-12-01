@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-01 11:32 UTC_
+_Last updated: 2025-12-01 12:57 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -922,10 +922,17 @@ _Last updated: 2025-12-01 11:32 UTC_
 
 ---
 
-## [Humanoid Robots Learning To Handle Objects](https://www.electronicsforu.com/news/humanoid-robots-learning-to-handle-objects)
-**Published:** Fri, 28 Nov 2025 06:29:03 +0000
+## [JOB: Analog Layout Engineer At Digicomm Semiconductor In Indore](https://www.electronicsforu.com/career/analog-layout-engineer-digicomm-semiconductor-indore)
+**Published:** Mon, 01 Dec 2025 09:55:20 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/11/new-framework-could-al-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Humanoid robots struggle with new tasks. A new approach could help them handle objects reliably in homes, factories, and service settings.&#160; Humanoid Robots Learning to Handle ObjectsHumanoid robots could handle many tasks done by people. These tasks include household chores like cleaning, organizing, and cooking, as well as moving items or assembling products. To perform [&#8230;]
+<img alt="Internship" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/lam-job-search-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Indore Company: Digicomm Semiconductor Role Description Qualifications
+
+---
+
+## [JOB: Power Electronics Lead Engineer (P2) At Collins Aerospace In Bengaluru](https://www.electronicsforu.com/career/power-electronics-lead-engineer-p2-collins-aerospace-bengaluru)
+**Published:** Mon, 01 Dec 2025 09:14:36 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/05/collins-aerospace-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Collins Aerospace We are looking for a skilled and hands-on Power Electronics Testing Engineer with experience in high-voltage power converter testing, planar magnetics layout design, and schematic design. The ideal candidate will be responsible for validating power converter hardware in the lab, designing custom magnetic components, and supporting schematic and [&#8230;]
 
 ---
 
