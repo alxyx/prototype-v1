@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-01 13:49 UTC_
+_Last updated: 2025-12-01 14:36 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -810,6 +810,22 @@ _Last updated: 2025-12-01 13:49 UTC_
 
 ---
 
+## [PEN’s Power Predictions for 2025: How Do They Stack Up? — Data Centers](https://www.powerelectronicsnews.com/pens-power-predictions-for-2025-how-do-they-stack-up-data-centers/)
+**Published:** Mon, 01 Dec 2025 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="208" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/PEN-image.png?fit=568%2C208" style="display: block; margin-bottom: 5px; clear: both;" width="568" /><p>Examining the progress toward advanced data center power distribution, in light of power predictions Power Electronics News made for 2025</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/pens-power-predictions-for-2025-how-do-they-stack-up-data-centers/">PEN’s Power Predictions for 2025: How Do They Stack Up? — Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [ST Unveils New GaN-Based Smart Power SiPs for Next-Generation Motor Drives](https://www.powerelectronicsnews.com/st-unveils-new-gan-based-smart-power-sips-for-next-generation-motor-drives/)
+**Published:** Mon, 01 Dec 2025 14:00:00 +0000
+
+<img alt="ST Unveils New GaN-Based Smart Power SiPs for Next-Generation Motor Drives." class="webfeedsFeaturedVisual wp-post-image" height="450" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/P4737D-Nov-24-2025-GaNSPIN-motion-control-platform_IMAGE-LO-RES-1.jpeg?fit=800%2C450" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>Designed for modern motor-drive applications, the high-efficiency GaN power integration solution targets both white goods and factory automation systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-unveils-new-gan-based-smart-power-sips-for-next-generation-motor-drives/">ST Unveils New GaN-Based Smart Power SiPs for Next-Generation Motor Drives</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Wide Bandgap Monthly Insights – November 2025](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-november-2025/)
 **Published:** Fri, 28 Nov 2025 20:22:33 +0000
 
@@ -871,22 +887,6 @@ _Last updated: 2025-12-01 13:49 UTC_
 
 <img alt="SAL’s first 8-inch thin-film lithium niobate wafer for scalable integrated photonics." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/SAL_8inch_picture.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Research hub Silicon Austria Labs has successfully fabricated its first 8-inch thin-film lithium niobate wafer entirely in-house.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/wafer-scale-vision-sals-lithium-niobate-breakthrough-accelerates-photonic-commercialization/">Wafer-Scale Vision: SAL’s Lithium Niobate Breakthrough Accelerates Photonic Commercialization</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wolfspeed 1200V/700A YM Six-Pack Power Modules](https://www.powerelectronicsnews.com/wolfspeed-1200v-700a-ym-six-pack-power-modules/)
-**Published:** Mon, 24 Nov 2025 08:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="470" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/Wolfspeed-YM-power-pack.png?fit=481%2C470" style="display: block; margin-bottom: 5px; clear: both;" width="481" /><p>Wolfspeed recently announced its 1200-V (up to 700-A) SiC six-pack power modules for e-mobility propulsion, such as high-power inverters. Power modules offer extensive design optimizations...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-1200v-700a-ym-six-pack-power-modules/">Wolfspeed 1200V/700A YM Six-Pack Power Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Overcoming the Voltage Wall: 10-kV E-Mode GaN HEMTs Redefine Power Electronics](https://www.powerelectronicsnews.com/overcoming-the-voltage-wall-10-kv-e-mode-gan-hemts-redefine-power-electronics/)
-**Published:** Mon, 24 Nov 2025 03:23:00 +0000
-
-<img alt="Embedded PCB packaging of WBG Power Electronics." class="webfeedsFeaturedVisual wp-post-image" height="577" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/09/Embedded_PCB.jpg?fit=1000%2C577" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>In the race to expand the capabilities of semiconductor materials for power electronics, researchers have increasingly turned to the disruptive properties of GaN HEMTs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/overcoming-the-voltage-wall-10-kv-e-mode-gan-hemts-redefine-power-electronics/">Overcoming the Voltage Wall: 10-kV E-Mode GaN HEMTs Redefine Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
