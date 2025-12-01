@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-01 18:48 UTC_
+_Last updated: 2025-12-01 19:35 UTC_
 
 ## [Infineon GaN Tech Powers Enphase Energy’s Next-gen Solar Microinverters](https://www.eetasia.com/infineon-gan-tech-powers-enphase-energys-next-gen-solar-microinverters/)
 **Published:** Wed, 26 Nov 2025 02:33:55 +0000
@@ -887,6 +887,14 @@ _Last updated: 2025-12-01 18:48 UTC_
 
 <img alt="SAL’s first 8-inch thin-film lithium niobate wafer for scalable integrated photonics." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/SAL_8inch_picture.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Research hub Silicon Austria Labs has successfully fabricated its first 8-inch thin-film lithium niobate wafer entirely in-house.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/wafer-scale-vision-sals-lithium-niobate-breakthrough-accelerates-photonic-commercialization/">Wafer-Scale Vision: SAL’s Lithium Niobate Breakthrough Accelerates Photonic Commercialization</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Chip Innovation for a Smarter Future: Grand Opening of IIC SHENZHEN 2025](https://www.eetimes.com/chip-innovation-for-a-smarter-future-grand-opening-of-iic-shenzhen-2025/)
+**Published:** Mon, 01 Dec 2025 19:33:41 +0000
+
+<p>Discover the latest in semiconductor innovation at IIC Shenzhen 2025—explore breakthroughs and join the conversation on digital embodiment today!</p>
+<p>The post <a href="https://www.eetimes.com/chip-innovation-for-a-smarter-future-grand-opening-of-iic-shenzhen-2025/">Chip Innovation for a Smarter Future: Grand Opening of IIC SHENZHEN 2025</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
