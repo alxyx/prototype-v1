@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-02 19:33 UTC_
+_Last updated: 2025-12-02 20:41 UTC_
 
 ## [Tax Refund Strengthens Wolfspeed’s Liquidity Position](https://www.eetasia.com/tax-refund-strengthens-wolfspeeds-liquidity-position/)
 **Published:** Mon, 01 Dec 2025 22:27:04 +0000
@@ -15,6 +15,22 @@ _Last updated: 2025-12-02 19:33 UTC_
 
 <p>The final day of IIC Shenzhen 2025 spotlights chip innovation, AI and supply chain trends—explore the future of semiconductors now!</p>
 <p>The post <a href="https://www.eetasia.com/empowering-chip-innovation-and-supply-chains-for-the-semiconductor-frontier/">Empowering Chip Innovation and Supply Chains for the Semiconductor Frontier</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Solstice Advanced Materials Breaks Ground on $200M Spokane Expansion](https://www.semiconductor-digest.com/solstice-advanced-materials-breaks-ground-on-200m-spokane-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=solstice-advanced-materials-breaks-ground-on-200m-spokane-expansion)
+**Published:** Tue, 02 Dec 2025 19:26:59 +0000
+
+<p>Facility is expected to double capacity, reduce lead times by 25%, enable circular production for semiconductor materials and strengthen Solstice's U.S. manufacturing footprint.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/solstice-advanced-materials-breaks-ground-on-200m-spokane-expansion/">Solstice Advanced Materials Breaks Ground on $200M Spokane Expansion</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Ricursive Intelligence Launches Frontier AI Lab](https://www.semiconductor-digest.com/ricursive-intelligence-launches-frontier-ai-lab/?utm_source=rss&utm_medium=rss&utm_campaign=ricursive-intelligence-launches-frontier-ai-lab)
+**Published:** Tue, 02 Dec 2025 19:23:55 +0000
+
+<p>Ricursive Intelligence, an AI lab with the mission to transform semiconductor design, launched today and announced its $35 million seed round led by Sequoia Capital at a $750 million final valuation.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ricursive-intelligence-launches-frontier-ai-lab/">Ricursive Intelligence Launches Frontier AI Lab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2025-12-02 19:33 UTC_
 
 <p>EuQlid, a quantum technology company developing next-generation design and metrology tools, today announced its emergence from stealth mode with $3 million raised from lead investor QDNL Participations with participation from Quantonation, and over $1.5 million in early customer revenue, to deliver a breakthrough 3D imaging solution for semiconductors and batteries. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/euqlid-emerges-from-stealth-with-quantum-sensing-platform-for-3d-imaging-of-semiconductors-and-batteries/">EuQlid Emerges from Stealth with Quantum Sensing Platform for 3D Imaging of Semiconductors and Batteries</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [RAAAM Memory Technologies Announces $17.5M Series A Investment Led by NXP Semiconductors](https://www.semiconductor-digest.com/raaam-memory-technologies-announces-17-5m-series-a-investment-led-by-nxp-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=raaam-memory-technologies-announces-17-5m-series-a-investment-led-by-nxp-semiconductors)
-**Published:** Tue, 04 Nov 2025 21:43:08 +0000
-
-<p>RAAAM Memory Technologies, a startup company which developed the next-generation on-chip memory technology, announced today that it has completed an over-subscribed $17.5M Series A funding round. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/raaam-memory-technologies-announces-17-5m-series-a-investment-led-by-nxp-semiconductors/">RAAAM Memory Technologies Announces $17.5M Series A Investment Led by NXP Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Study Shows Light Can Reshape Atom-Thin Semiconductors for Next-Generation Optical Devices](https://www.semiconductor-digest.com/study-shows-light-can-reshape-atom-thin-semiconductors-for-next-generation-optical-devices/?utm_source=rss&utm_medium=rss&utm_campaign=study-shows-light-can-reshape-atom-thin-semiconductors-for-next-generation-optical-devices)
-**Published:** Tue, 04 Nov 2025 21:36:36 +0000
-
-<p>Rice University researchers studying a class of atom-thin semiconductors known as transition metal dichalcogenides (TMDs) have discovered that light can trigger a physical shift in their atomic lattice, creating a tunable way to adjust the materials’ behavior and properties.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/study-shows-light-can-reshape-atom-thin-semiconductors-for-next-generation-optical-devices/">Study Shows Light Can Reshape Atom-Thin Semiconductors for Next-Generation Optical Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
