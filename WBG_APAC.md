@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-02 18:47 UTC_
+_Last updated: 2025-12-02 19:33 UTC_
 
 ## [Tax Refund Strengthens Wolfspeed’s Liquidity Position](https://www.eetasia.com/tax-refund-strengthens-wolfspeeds-liquidity-position/)
 **Published:** Mon, 01 Dec 2025 22:27:04 +0000
@@ -15,6 +15,22 @@ _Last updated: 2025-12-02 18:47 UTC_
 
 <p>The final day of IIC Shenzhen 2025 spotlights chip innovation, AI and supply chain trends—explore the future of semiconductors now!</p>
 <p>The post <a href="https://www.eetasia.com/empowering-chip-innovation-and-supply-chains-for-the-semiconductor-frontier/">Empowering Chip Innovation and Supply Chains for the Semiconductor Frontier</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [UH Engineers Making AI Faster, Reducing Power Consumption](https://www.semiconductor-digest.com/uh-engineers-making-ai-faster-reducing-power-consumption/?utm_source=rss&utm_medium=rss&utm_campaign=uh-engineers-making-ai-faster-reducing-power-consumption)
+**Published:** Tue, 02 Dec 2025 19:13:18 +0000
+
+<p>Team invents new thin film materials based on Nobel Prize winning methods.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/uh-engineers-making-ai-faster-reducing-power-consumption/">UH Engineers Making AI Faster, Reducing Power Consumption</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Vinci Emerges from Stealth to Transform Semiconductor Design and Simulation](https://www.semiconductor-digest.com/vinci-emerges-from-stealth-to-transform-semiconductor-design-and-simulation/?utm_source=rss&utm_medium=rss&utm_campaign=vinci-emerges-from-stealth-to-transform-semiconductor-design-and-simulation)
+**Published:** Tue, 02 Dec 2025 19:06:52 +0000
+
+<p>Validated by early deployments at leading semiconductor companies, Vinci’s physics-driven AI software operates up to 1000x faster than conventional simulation tools, at higher accuracy without needing customer data.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/vinci-emerges-from-stealth-to-transform-semiconductor-design-and-simulation/">Vinci Emerges from Stealth to Transform Semiconductor Design and Simulation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2025-12-02 18:47 UTC_
 
 <p>Rice University researchers studying a class of atom-thin semiconductors known as transition metal dichalcogenides (TMDs) have discovered that light can trigger a physical shift in their atomic lattice, creating a tunable way to adjust the materials’ behavior and properties.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/study-shows-light-can-reshape-atom-thin-semiconductors-for-next-generation-optical-devices/">Study Shows Light Can Reshape Atom-Thin Semiconductors for Next-Generation Optical Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Advanced Process Solutions Honored with a 2024 Texas Instruments Supplier Excellence Award](https://www.semiconductor-digest.com/advanced-process-solutions-honored-with-a-2024-texas-instruments-supplier-excellence-award/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-process-solutions-honored-with-a-2024-texas-instruments-supplier-excellence-award)
-**Published:** Tue, 04 Nov 2025 18:41:59 +0000
-
-<p>Advanced Process Solutions (APS), an industry leader in precision manufacturing and process technology solutions, serving the semiconductor, electronics, and industrial markets, announced that it has received a 2024 Supplier Excellence Award from Texas Instruments (TI)—one of the highest honors bestowed upon TI’s supply chain partners.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/advanced-process-solutions-honored-with-a-2024-texas-instruments-supplier-excellence-award/">Advanced Process Solutions Honored with a 2024 Texas Instruments Supplier Excellence Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Valens Semiconductor Appoints Yoram Salinger as Chief Executive Officer](https://www.semiconductor-digest.com/valens-semiconductor-appoints-yoram-salinger-as-chief-executive-officer/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-appoints-yoram-salinger-as-chief-executive-officer)
-**Published:** Mon, 03 Nov 2025 20:33:49 +0000
-
-<p>Valens Semiconductor today announced the appointment of Yoram Salinger as its new Chief Executive Officer and board member, effective on November 13th, 2025.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-appoints-yoram-salinger-as-chief-executive-officer/">Valens Semiconductor Appoints Yoram Salinger as Chief Executive Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
