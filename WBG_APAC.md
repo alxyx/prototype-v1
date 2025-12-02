@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-01 23:33 UTC_
+_Last updated: 2025-12-02 01:54 UTC_
 
 ## [Tax Refund Strengthens Wolfspeed’s Liquidity Position](https://www.eetasia.com/tax-refund-strengthens-wolfspeeds-liquidity-position/)
 **Published:** Mon, 01 Dec 2025 22:27:04 +0000
