@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-02 22:32 UTC_
+_Last updated: 2025-12-02 23:32 UTC_
 
 ## [ST Boosts Energy Ratings for Motion Control with New GaN IC Platform](https://www.eetasia.com/st-boosts-energy-ratings-for-motion-control-with-new-gan-ic-platform/)
 **Published:** Tue, 02 Dec 2025 21:58:26 +0000
@@ -943,14 +943,6 @@ _Last updated: 2025-12-02 22:32 UTC_
 
 <p>The semiconductor memory market is at a profit–ethics crossroads.</p>
 <p>The post <a href="https://www.eetimes.com/to-take-the-order-or-not-to-take-the-order-that-is-the-question-now/">To Take the Order or Not to Take the Order: That is the Question Now!</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [How Machine-to-Machine Communication Will Power Physical AI](https://www.eetimes.com/how-machine-to-machine-communication-will-power-physical-ai/)
-**Published:** Thu, 27 Nov 2025 13:00:00 +0000
-
-<p>Discover how machine-to-machine communication is making robots autonomous, collaborative and ready to reshape daily life.</p>
-<p>The post <a href="https://www.eetimes.com/how-machine-to-machine-communication-will-power-physical-ai/">How Machine-to-Machine Communication Will Power Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
