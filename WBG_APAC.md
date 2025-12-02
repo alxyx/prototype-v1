@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-02 15:38 UTC_
+_Last updated: 2025-12-02 16:43 UTC_
 
 ## [Tax Refund Strengthens Wolfspeed’s Liquidity Position](https://www.eetasia.com/tax-refund-strengthens-wolfspeeds-liquidity-position/)
 **Published:** Mon, 01 Dec 2025 22:27:04 +0000
@@ -818,11 +818,11 @@ _Last updated: 2025-12-02 15:38 UTC_
 
 ---
 
-## [Bourns new Riedon™ BRF series precision power foil resistors](https://www.powerelectronicsnews.com/bourns-new-riedon-brf-series-precision-power-foil-resistors/)
+## [Bourns new Riedon BRF series precision power foil resistors](https://www.powerelectronicsnews.com/bourns-new-riedon-brf-series-precision-power-foil-resistors/)
 **Published:** Tue, 02 Dec 2025 14:00:00 +0000
 
-<img alt="Bourns Expands High-Performance Portfolio with New Riedon™ BRF Series Precision Power Foil Resistors." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/bourns_brf_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The Riedon™ BRF Series combines high power handling with tightly controlled TCR performance, enabling highly efficient and dependable energy dissipation in precision electronic circuits.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/bourns-new-riedon-brf-series-precision-power-foil-resistors/">Bourns new Riedon™ BRF series precision power foil resistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<img alt="Bourns Expands High-Performance Portfolio with New Riedon™ BRF Series Precision Power Foil Resistors." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/bourns_brf_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The Riedon BRF Series combines high power handling with tightly controlled TCR performance, enabling highly efficient and dependable energy dissipation in precision electronic circuits.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/bourns-new-riedon-brf-series-precision-power-foil-resistors/">Bourns new Riedon BRF series precision power foil resistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
