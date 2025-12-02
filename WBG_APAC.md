@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-02 07:38 UTC_
+_Last updated: 2025-12-02 08:44 UTC_
 
 ## [Tax Refund Strengthens Wolfspeed’s Liquidity Position](https://www.eetasia.com/tax-refund-strengthens-wolfspeeds-liquidity-position/)
 **Published:** Mon, 01 Dec 2025 22:27:04 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-02 07:38 UTC_
 
 ---
 
+## [Enphase IQ9 Commercial Microinverter Opens a New Era in Commercial Solar Technology](https://www.powerelectronicsnews.com/enphase-iq9-commercial-microinverter-opens-a-new-era-in-commercial-solar-technology/)
+**Published:** Tue, 02 Dec 2025 08:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/Figure-1.jpg?fit=2160%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="2160" /><p>IQ9 is Enphase’s first microinverter based on gallium nitride (GaN) technology, specifically designed for three-phase 480Y/277 V grid configurations without requiring external transformers.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/enphase-iq9-commercial-microinverter-opens-a-new-era-in-commercial-solar-technology/">Enphase IQ9 Commercial Microinverter Opens a New Era in Commercial Solar Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [PEN’s Power Predictions for 2025: How Do They Stack Up? — Data Centers](https://www.powerelectronicsnews.com/pens-power-predictions-for-2025-how-do-they-stack-up-data-centers/)
 **Published:** Mon, 01 Dec 2025 14:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-12-02 07:38 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/N4736D-Nov-19-2025-IPS1050LQ-intelligent-power-switch_IMAGE.jpg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>STMicroelectronics released the IPS1050LQ single-channel low-side switch IC, offering flexible overcurrent protection.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/stmicroelectronics-low-side-switch-ic/">STMicroelectronics’ low-side switch IC </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wafer-Scale Vision: SAL’s Lithium Niobate Breakthrough Accelerates Photonic Commercialization](https://www.powerelectronicsnews.com/wafer-scale-vision-sals-lithium-niobate-breakthrough-accelerates-photonic-commercialization/)
-**Published:** Tue, 25 Nov 2025 03:26:00 +0000
-
-<img alt="SAL’s first 8-inch thin-film lithium niobate wafer for scalable integrated photonics." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/SAL_8inch_picture.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Research hub Silicon Austria Labs has successfully fabricated its first 8-inch thin-film lithium niobate wafer entirely in-house.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wafer-scale-vision-sals-lithium-niobate-breakthrough-accelerates-photonic-commercialization/">Wafer-Scale Vision: SAL’s Lithium Niobate Breakthrough Accelerates Photonic Commercialization</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
