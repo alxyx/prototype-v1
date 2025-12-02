@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-02 13:51 UTC_
+_Last updated: 2025-12-02 14:36 UTC_
 
 ## [Tax Refund Strengthens Wolfspeed’s Liquidity Position](https://www.eetasia.com/tax-refund-strengthens-wolfspeeds-liquidity-position/)
 **Published:** Mon, 01 Dec 2025 22:27:04 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-02 13:51 UTC_
 
 ---
 
+## [Bourns new Riedon™ BRF series precision power foil resistors](https://www.powerelectronicsnews.com/bourns-new-riedon-brf-series-precision-power-foil-resistors/)
+**Published:** Tue, 02 Dec 2025 14:00:00 +0000
+
+<img alt="Bourns Expands High-Performance Portfolio with New Riedon™ BRF Series Precision Power Foil Resistors." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/bourns_brf_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The Riedon™ BRF Series combines high power handling with tightly controlled TCR performance, enabling highly efficient and dependable energy dissipation in precision electronic circuits.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/bourns-new-riedon-brf-series-precision-power-foil-resistors/">Bourns new Riedon™ BRF series precision power foil resistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Enphase IQ9 Commercial Microinverter Opens a New Era in Commercial Solar Technology](https://www.powerelectronicsnews.com/enphase-iq9-commercial-microinverter-opens-a-new-era-in-commercial-solar-technology/)
 **Published:** Tue, 02 Dec 2025 08:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-12-02 13:51 UTC_
 
 <img alt="Exposed GPU layout illustrating the complexity of thermal and electromagnetic management in electronics for the AI era." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/Huawei-SiC-composite-image.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The two new patents from Huawei reflect a broader trend: the diversification of SiC applications across the electronics value chain.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/huawei-advances-sic-applications-in-thermal-and-electromagnetic-management-for-ai-era-electronics/">Huawei Advances SiC Applications in Thermal and Electromagnetic Management for AI-Era Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [STMicroelectronics’ low-side switch IC](https://www.powerelectronicsnews.com/stmicroelectronics-low-side-switch-ic/)
-**Published:** Tue, 25 Nov 2025 08:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/N4736D-Nov-19-2025-IPS1050LQ-intelligent-power-switch_IMAGE.jpg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>STMicroelectronics released the IPS1050LQ single-channel low-side switch IC, offering flexible overcurrent protection.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/stmicroelectronics-low-side-switch-ic/">STMicroelectronics’ low-side switch IC </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
