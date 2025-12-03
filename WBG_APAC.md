@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-03 11:32 UTC_
+_Last updated: 2025-12-03 12:58 UTC_
 
 ## [ST Boosts Energy Ratings for Motion Control with New GaN IC Platform](https://www.eetasia.com/st-boosts-energy-ratings-for-motion-control-with-new-gan-ic-platform/)
 **Published:** Tue, 02 Dec 2025 21:58:26 +0000
@@ -951,27 +951,6 @@ _Last updated: 2025-12-03 11:32 UTC_
 
 <p>The use of  glass in semiconductors will nearly triple by 2030, driven by CIS, microfluidics, power, memory/HBM, RF, and AR applications, says Yole Group. Glass wafer revenues are expected to ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/glass-use-in-semis-to-triple-by-2030-2025-12/">Glass use in semis to triple by 2030</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [JOB: Electronics Engineer At QOSMIC In Bengaluru](https://www.electronicsforu.com/career/electronics-engineer-qosmic-bengaluru)
-**Published:** Tue, 02 Dec 2025 10:04:23 +0000
-
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: QOSMIC Join us as an Electronics Engineer to design FPGA-based signal processing systems, laser driver circuits, and control electronics for multi-Gbps optical links. You&#8217;ll work across high-speed digital systems, precision control loops, and ruggedised electronics for both ground stations and satellite payloads. Responsibilities Requirements Nice-to-Have  What We Offer [&#8230;]
-
----
-
-## [JOB: High-Speed Hardware Design Engineers At Capgemini In Bengaluru](https://www.electronicsforu.com/career/high-speed-hardware-design-engineers-capgemini-bengaluru)
-**Published:** Tue, 02 Dec 2025 09:56:34 +0000
-
-<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs), printed circuit boards (PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment. Grade Specific [&#8230;]
-
----
-
-## [JOB: Hardware Engineer – Power Electronics At BluJ Aerospace Private Limited In Hyderabad](https://www.electronicsforu.com/career/hardware-engineer-power-electronics-bluj-aerospace-private-limited-hyderabad)
-**Published:** Tue, 02 Dec 2025 09:27:51 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/bluj-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Hyderabad Company: BluJ Aerospace Private Limited Job Description We are seeking a passionate and talented engineer to join the Electronics &#38; Propulsion team to work on hardware development for various electronic sub-systems. As an engineer in the propulsion team, you will be responsible for overseeing the development of electronics for [&#8230;]
 
 ---
 
