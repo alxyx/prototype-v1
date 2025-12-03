@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-03 07:36 UTC_
+_Last updated: 2025-12-03 08:43 UTC_
 
 ## [ST Boosts Energy Ratings for Motion Control with New GaN IC Platform](https://www.eetasia.com/st-boosts-energy-ratings-for-motion-control-with-new-gan-ic-platform/)
 **Published:** Tue, 02 Dec 2025 21:58:26 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-03 07:36 UTC_
 
 ---
 
+## [The Coming Digital Risk Horizon: Why 2035 Will Test Our Governance of Technology](https://www.powerelectronicsnews.com/the-coming-digital-risk-horizon-why-2035-will-test-our-governance-of-technology/)
+**Published:** Wed, 03 Dec 2025 08:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/world_outlook_image2.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The coming decade will bring a convergence of digital, biological, environmental, and demographic systems that will strain our institutions.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-coming-digital-risk-horizon-why-2035-will-test-our-governance-of-technology/">The Coming Digital Risk Horizon: Why 2035 Will Test Our Governance of Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Bourns new Riedon BRF series precision power foil resistors](https://www.powerelectronicsnews.com/bourns-new-riedon-brf-series-precision-power-foil-resistors/)
 **Published:** Tue, 02 Dec 2025 14:00:00 +0000
 
@@ -890,11 +898,11 @@ _Last updated: 2025-12-03 07:36 UTC_
 
 ---
 
-## [Huawei Advances SiC Applications in Thermal and Electromagnetic Management for AI-Era Electronics](https://www.powerelectronicsnews.com/huawei-advances-sic-applications-in-thermal-and-electromagnetic-management-for-ai-era-electronics/)
-**Published:** Wed, 26 Nov 2025 03:30:00 +0000
+## [Germany Redirects Intel Funds Into New Wave of Semiconductor Projects](https://www.eetimes.com/germany-redirects-intel-funds-into-new-wave-of-semiconductor-projects/)
+**Published:** Wed, 03 Dec 2025 08:00:00 +0000
 
-<img alt="Exposed GPU layout illustrating the complexity of thermal and electromagnetic management in electronics for the AI era." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/Huawei-SiC-composite-image.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The two new patents from Huawei reflect a broader trend: the diversification of SiC applications across the electronics value chain.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/huawei-advances-sic-applications-in-thermal-and-electromagnetic-management-for-ai-era-electronics/">Huawei Advances SiC Applications in Thermal and Electromagnetic Management for AI-Era Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Germany swiftly reallocates Intel’s chip funds into cutting-edge semiconductor projects, potentially reshaping Europe’s tech sector.</p>
+<p>The post <a href="https://www.eetimes.com/germany-redirects-intel-funds-into-new-wave-of-semiconductor-projects/">Germany Redirects Intel Funds Into New Wave of Semiconductor Projects</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -927,14 +935,6 @@ _Last updated: 2025-12-03 07:36 UTC_
 
 <p>UA Power Group in Arkansas opens its multi-user silicon carbide facility (MUSiC) open-access SiC fab, dedicated to SiC research, and prototyping.</p>
 <p>The post <a href="https://www.eetimes.com/music-fab-aims-to-be-national-sandbox-for-silicon-carbide-sic/">‘MUSiC’ Fab Aims To Be National Sandbox for Silicon Carbide (SiC)</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [To Take the Order or Not to Take the Order: That is the Question Now!](https://www.eetimes.com/to-take-the-order-or-not-to-take-the-order-that-is-the-question-now/)
-**Published:** Fri, 28 Nov 2025 13:00:00 +0000
-
-<p>The semiconductor memory market is at a profit–ethics crossroads.</p>
-<p>The post <a href="https://www.eetimes.com/to-take-the-order-or-not-to-take-the-order-that-is-the-question-now/">To Take the Order or Not to Take the Order: That is the Question Now!</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
