@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-03 10:39 UTC_
+_Last updated: 2025-12-03 11:32 UTC_
 
 ## [ST Boosts Energy Ratings for Motion Control with New GaN IC Platform](https://www.eetasia.com/st-boosts-energy-ratings-for-motion-control-with-new-gan-ic-platform/)
 **Published:** Tue, 02 Dec 2025 21:58:26 +0000
