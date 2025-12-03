@@ -1,12 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-03 22:34 UTC_
+_Last updated: 2025-12-03 23:31 UTC_
 
-## [ST Boosts Energy Ratings for Motion Control with New GaN IC Platform](https://www.eetasia.com/st-boosts-energy-ratings-for-motion-control-with-new-gan-ic-platform/)
-**Published:** Tue, 02 Dec 2025 21:58:26 +0000
+## [Bright Prospects for Tin Perovskite Solar Cells](https://www.semiconductor-digest.com/bright-prospects-for-tin-perovskite-solar-cells/?utm_source=rss&utm_medium=rss&utm_campaign=bright-prospects-for-tin-perovskite-solar-cells)
+**Published:** Wed, 03 Dec 2025 22:22:21 +0000
 
-<p>ST's GaN-based smart power components boost energy efficiency, increase performance, and save cost for home appliances and industrial drives.</p>
-<p>The post <a href="https://www.eetasia.com/st-boosts-energy-ratings-for-motion-control-with-new-gan-ic-platform/">ST Boosts Energy Ratings for Motion Control with New GaN IC Platform</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>A new study suggests why tin-based perovskites could be used to make solar cells that are not only really environmentally friendly but also very stable.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/bright-prospects-for-tin-perovskite-solar-cells/">Bright Prospects for Tin Perovskite Solar Cells</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,14 +799,6 @@ _Last updated: 2025-12-03 22:34 UTC_
 
 <p>The discovery unlocks new unique properties in ultra-thin materials.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/engineering-defects-could-transform-the-future-of-nanomaterials/">Engineering Defects Could Transform the Future of Nanomaterials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: Display Glass Revenue Reached a Record High of JPY 270 Billion in 3Q 2025](https://www.semiconductor-digest.com/omdia-display-glass-revenue-reached-a-record-high-of-jpy-270-billion-in-3q-2025/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-display-glass-revenue-reached-a-record-high-of-jpy-270-billion-in-3q-2025)
-**Published:** Wed, 05 Nov 2025 20:46:19 +0000
-
-<p>Display glass revenue reached a record high of JPY 270 billion in the third quarter of 2025, driven by increases in both price and demand, according to new research from Omdia.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-display-glass-revenue-reached-a-record-high-of-jpy-270-billion-in-3q-2025/">Omdia: Display Glass Revenue Reached a Record High of JPY 270 Billion in 3Q 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
