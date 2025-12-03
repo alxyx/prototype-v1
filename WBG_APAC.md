@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-03 21:33 UTC_
+_Last updated: 2025-12-03 22:34 UTC_
 
 ## [ST Boosts Energy Ratings for Motion Control with New GaN IC Platform](https://www.eetasia.com/st-boosts-energy-ratings-for-motion-control-with-new-gan-ic-platform/)
 **Published:** Tue, 02 Dec 2025 21:58:26 +0000
@@ -10,11 +10,43 @@ _Last updated: 2025-12-03 21:33 UTC_
 
 ---
 
-## [Tax Refund Strengthens Wolfspeed’s Liquidity Position](https://www.eetasia.com/tax-refund-strengthens-wolfspeeds-liquidity-position/)
-**Published:** Mon, 01 Dec 2025 22:27:04 +0000
+## [Global Semiconductor Market Approaches $1 Trillion in 2026](https://www.semiconductor-digest.com/global-semiconductor-market-approaches-1-trillion-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-market-approaches-1-trillion-in-2026)
+**Published:** Wed, 03 Dec 2025 22:08:27 +0000
 
-<p>The refund positions Wolfspeed with enhanced financial flexibility as it advances the ramp of its 200mm SiC manufacturing footprint.</p>
-<p>The post <a href="https://www.eetasia.com/tax-refund-strengthens-wolfspeeds-liquidity-position/">Tax Refund Strengthens Wolfspeed&#8217;s Liquidity Position</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Following a stronger-than-expected third quarter, the global semiconductor market is projected to grow 22.5% in 2025, reaching US$ 772.2 billion.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-market-approaches-1-trillion-in-2026/">Global Semiconductor Market Approaches $1 Trillion in 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Black Semiconductor Selects Critical Manufacturing to Power Fully Automated 300mm Pilot Line in Aachen, Germany](https://www.semiconductor-digest.com/black-semiconductor-selects-critical-manufacturing-to-power-fully-aatomated-300mm-pilot-line-in-aachen-germany/?utm_source=rss&utm_medium=rss&utm_campaign=black-semiconductor-selects-critical-manufacturing-to-power-fully-aatomated-300mm-pilot-line-in-aachen-germany)
+**Published:** Wed, 03 Dec 2025 21:54:10 +0000
+
+<p>The facility will scale Black Semiconductor’s graphene-based chip connection technology into a mass-production capable environment, marking one of Europe’s most ambitious semiconductor innovation projects.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/black-semiconductor-selects-critical-manufacturing-to-power-fully-aatomated-300mm-pilot-line-in-aachen-germany/">Black Semiconductor Selects Critical Manufacturing to Power Fully Automated 300mm Pilot Line in Aachen, Germany</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [onsemi and Innoscience Announce Plans to Collaborate to Speed Global Rollout of GaN Power Portfolio](https://www.semiconductor-digest.com/onsemi-and-innoscience-announce-plans-to-collaborate-to-speed-global-rollout-of-gan-power-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=onsemi-and-innoscience-announce-plans-to-collaborate-to-speed-global-rollout-of-gan-power-portfolio)
+**Published:** Wed, 03 Dec 2025 21:43:40 +0000
+
+<p>Collaboration would add high-volume, cost-optimized, worldwide GaN manufacturing for faster market deployment of energy-efficient power devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/onsemi-and-innoscience-announce-plans-to-collaborate-to-speed-global-rollout-of-gan-power-portfolio/">onsemi and Innoscience Announce Plans to Collaborate to Speed Global Rollout of GaN Power Portfolio</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Global Semiconductor Equipment Billings Increased 11% Year-Over-Year in Q3 2025, SEMI Reports](https://www.semiconductor-digest.com/global-semiconductor-equipment-billings-increased-11-year-over-year-in-q3-2025-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-equipment-billings-increased-11-year-over-year-in-q3-2025-semi-reports)
+**Published:** Wed, 03 Dec 2025 21:39:14 +0000
+
+<p>Third quarter 2025 billings registered a 2% quarter-over-quarter growth. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-equipment-billings-increased-11-year-over-year-in-q3-2025-semi-reports/">Global Semiconductor Equipment Billings Increased 11% Year-Over-Year in Q3 2025, SEMI Reports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [3D Printed Chip Packages Could Supercharge Semiconductor Manufacturing](https://www.semiconductor-digest.com/3d-printed-chip-packages-could-supercharge-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-chip-packages-could-supercharge-semiconductor-manufacturing)
+**Published:** Wed, 03 Dec 2025 21:28:26 +0000
+
+<p>UV light is used to prepare a resin-coated glass piece in the first step of the 3D printed semiconductor chip manufacturing process, allowing it to connect with other chips. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/3d-printed-chip-packages-could-supercharge-semiconductor-manufacturing/">3D Printed Chip Packages Could Supercharge Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -775,46 +807,6 @@ _Last updated: 2025-12-03 21:33 UTC_
 
 <p>Display glass revenue reached a record high of JPY 270 billion in the third quarter of 2025, driven by increases in both price and demand, according to new research from Omdia.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/omdia-display-glass-revenue-reached-a-record-high-of-jpy-270-billion-in-3q-2025/">Omdia: Display Glass Revenue Reached a Record High of JPY 270 Billion in 3Q 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Silicon Catalyst Announces Seven Newly Admitted Companies to Semiconductor Industry Accelerator](https://www.semiconductor-digest.com/silicon-catalyst-announces-seven-newly-admitted-companies-to-semiconductor-industry-accelerator/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-catalyst-announces-seven-newly-admitted-companies-to-semiconductor-industry-accelerator)
-**Published:** Wed, 05 Nov 2025 20:40:07 +0000
-
-<p>Silicon Catalyst announces the admission of seven companies into the semiconductor industry’s highly acclaimed program.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/silicon-catalyst-announces-seven-newly-admitted-companies-to-semiconductor-industry-accelerator/">Silicon Catalyst Announces Seven Newly Admitted Companies to Semiconductor Industry Accelerator</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The Northeast Microelectronics Coalition Awards $1.37 Million to 10 Semiconductor Companies](https://www.semiconductor-digest.com/the-northeast-microelectronics-coalition-awards-1-37-million-to-10-semiconductor-companies/?utm_source=rss&utm_medium=rss&utm_campaign=the-northeast-microelectronics-coalition-awards-1-37-million-to-10-semiconductor-companies)
-**Published:** Wed, 05 Nov 2025 20:26:28 +0000
-
-<p>The Northeast Microelectronics Coalition (NEMC) Hub announced $1,371,688 in awards to 10 small businesses and startups through its Powering Regional Opportunities for Prototyping Microelectronics (PROPEL) Program.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-northeast-microelectronics-coalition-awards-1-37-million-to-10-semiconductor-companies/">The Northeast Microelectronics Coalition Awards $1.37 Million to 10 Semiconductor Companies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Entegris Celebrates Grand Opening of Colorado Springs Manufacturing Center of Excellence](https://www.semiconductor-digest.com/entegris-celebrates-grand-opening-of-colorado-springs-manufacturing-center-of-excellence/?utm_source=rss&utm_medium=rss&utm_campaign=entegris-celebrates-grand-opening-of-colorado-springs-manufacturing-center-of-excellence)
-**Published:** Wed, 05 Nov 2025 20:22:56 +0000
-
-<p>New facility solidifies Entegris’ position as a leader in the U.S. semiconductor manufacturing ecosystem and expands domestic supply chain capabilities.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/entegris-celebrates-grand-opening-of-colorado-springs-manufacturing-center-of-excellence/">Entegris Celebrates Grand Opening of Colorado Springs Manufacturing Center of Excellence</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Reports Worldwide Silicon Wafer Shipments Increase 3% Year-on-Year in Q3 2025](https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-3-year-on-year-in-q3-2025/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-worldwide-silicon-wafer-shipments-increase-3-year-on-year-in-q3-2025)
-**Published:** Tue, 04 Nov 2025 22:18:06 +0000
-
-<p>The SEMI Silicon Manufacturers Group (SMG) reported today, in its quarterly analysis of the silicon wafer industry, that worldwide silicon wafer shipments increased 3.1% year-on-year to 3,313 million square inches (MSI) from the 3,214 MSI recorded during the same quarter of 2024.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-3-year-on-year-in-q3-2025/">SEMI Reports Worldwide Silicon Wafer Shipments Increase 3% Year-on-Year in Q3 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [EuQlid Emerges from Stealth with Quantum Sensing Platform for 3D Imaging of Semiconductors and Batteries](https://www.semiconductor-digest.com/euqlid-emerges-from-stealth-with-quantum-sensing-platform-for-3d-imaging-of-semiconductors-and-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=euqlid-emerges-from-stealth-with-quantum-sensing-platform-for-3d-imaging-of-semiconductors-and-batteries)
-**Published:** Tue, 04 Nov 2025 21:45:39 +0000
-
-<p>EuQlid, a quantum technology company developing next-generation design and metrology tools, today announced its emergence from stealth mode with $3 million raised from lead investor QDNL Participations with participation from Quantonation, and over $1.5 million in early customer revenue, to deliver a breakthrough 3D imaging solution for semiconductors and batteries. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/euqlid-emerges-from-stealth-with-quantum-sensing-platform-for-3d-imaging-of-semiconductors-and-batteries/">EuQlid Emerges from Stealth with Quantum Sensing Platform for 3D Imaging of Semiconductors and Batteries</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
