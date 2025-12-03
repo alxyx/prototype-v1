@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-03 13:50 UTC_
+_Last updated: 2025-12-03 14:37 UTC_
 
 ## [ST Boosts Energy Ratings for Motion Control with New GaN IC Platform](https://www.eetasia.com/st-boosts-energy-ratings-for-motion-control-with-new-gan-ic-platform/)
 **Published:** Tue, 02 Dec 2025 21:58:26 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-03 13:50 UTC_
 
 ---
 
+## [Navitas 3300V and 2300V SiC in Die, Discrete, and Module](https://www.powerelectronicsnews.com/navitas-3300v-and-2300v-sic-in-die-discrete-and-module/)
+**Published:** Wed, 03 Dec 2025 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="608" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/UHV-SiC-FETs.jpg?fit=1080%2C608" style="display: block; margin-bottom: 5px; clear: both;" width="1080" /><p>Navitas' new UHV SiC use novel trench gate structures to effectively handle common failure modes associated with trench-based MOSFETs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/navitas-3300v-and-2300v-sic-in-die-discrete-and-module/">Navitas 3300V and 2300V SiC in Die, Discrete, and Module</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [The Coming Digital Risk Horizon: Why 2035 Will Test Our Governance of Technology](https://www.powerelectronicsnews.com/the-coming-digital-risk-horizon-why-2035-will-test-our-governance-of-technology/)
 **Published:** Wed, 03 Dec 2025 08:00:00 +0000
 
@@ -890,14 +898,6 @@ _Last updated: 2025-12-03 13:50 UTC_
 
 ---
 
-## [GlobalFoundries furthering its GaN reach in the U.S.](https://www.powerelectronicsnews.com/globalfoundries-furthering-its-gan-reach-in-the-u-s/)
-**Published:** Wed, 26 Nov 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="519" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/GaN-wafers.png?fit=782%2C519" style="display: block; margin-bottom: 5px; clear: both;" width="782" /><p>GlobalFoundries has further expanded its GaN reach in the U.S. in a long-term partnership with Navitas, announced last week.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/globalfoundries-furthering-its-gan-reach-in-the-u-s/">GlobalFoundries furthering its GaN reach in the U.S.</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Germany Redirects Intel Funds Into New Wave of Semiconductor Projects](https://www.eetimes.com/germany-redirects-intel-funds-into-new-wave-of-semiconductor-projects/)
 **Published:** Wed, 03 Dec 2025 08:00:00 +0000
 
@@ -919,22 +919,6 @@ _Last updated: 2025-12-03 13:50 UTC_
 
 <p>Discover the latest in semiconductor innovation at IIC Shenzhen 2025—explore breakthroughs and join the conversation on digital embodiment today!</p>
 <p>The post <a href="https://www.eetimes.com/chip-innovation-for-a-smarter-future-grand-opening-of-iic-shenzhen-2025/">Chip Innovation for a Smarter Future: Grand Opening of IIC SHENZHEN 2025</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [The Great AI Reallocation](https://www.eetimes.com/the-great-ai-reallocation/)
-**Published:** Mon, 01 Dec 2025 13:00:00 +0000
-
-<p>The threat of 100% tariff on semiconductors is fueling massive investments in U.S. soil.</p>
-<p>The post <a href="https://www.eetimes.com/the-great-ai-reallocation/">The Great AI Reallocation </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [‘MUSiC’ Fab Aims To Be National Sandbox for Silicon Carbide (SiC)](https://www.eetimes.com/music-fab-aims-to-be-national-sandbox-for-silicon-carbide-sic/)
-**Published:** Fri, 28 Nov 2025 15:45:17 +0000
-
-<p>UA Power Group in Arkansas opens its multi-user silicon carbide facility (MUSiC) open-access SiC fab, dedicated to SiC research, and prototyping.</p>
-<p>The post <a href="https://www.eetimes.com/music-fab-aims-to-be-national-sandbox-for-silicon-carbide-sic/">‘MUSiC’ Fab Aims To Be National Sandbox for Silicon Carbide (SiC)</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
