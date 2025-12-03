@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-03 16:44 UTC_
+_Last updated: 2025-12-03 17:38 UTC_
 
 ## [ST Boosts Energy Ratings for Motion Control with New GaN IC Platform](https://www.eetasia.com/st-boosts-energy-ratings-for-motion-control-with-new-gan-ic-platform/)
 **Published:** Tue, 02 Dec 2025 21:58:26 +0000
@@ -906,19 +906,19 @@ _Last updated: 2025-12-03 16:44 UTC_
 
 ---
 
+## [How Europe Navigates Geopolitics in Pursuit of Semiconductor Sovereignty](https://www.eetimes.com/how-europe-navigates-geopolitics-in-pursuit-of-semiconductor-sovereignty/)
+**Published:** Tue, 02 Dec 2025 08:46:44 +0000
+
+<p>In this Special Report, we investigate how European semiconductor companies can capitalize on opportunities in this shifting global economy.</p>
+<p>The post <a href="https://www.eetimes.com/how-europe-navigates-geopolitics-in-pursuit-of-semiconductor-sovereignty/">How Europe Navigates Geopolitics in Pursuit of Semiconductor Sovereignty</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Empower Chip Innovation and Supply Chains for the Semiconductor Frontier: IIC SHENZHEN 2025 Concludes Successfully](https://www.eetimes.com/empower-chip-innovation-and-supply-chains-for-the-semiconductor-frontier-iic-shenzhen-2025-concludes-successfully/)
 **Published:** Mon, 01 Dec 2025 19:41:54 +0000
 
 <p>The final day of IIC Shenzhen 2025 spotlights chip innovation, AI and supply chain trends—explore the future of semiconductors now!</p>
 <p>The post <a href="https://www.eetimes.com/empower-chip-innovation-and-supply-chains-for-the-semiconductor-frontier-iic-shenzhen-2025-concludes-successfully/">Empower Chip Innovation and Supply Chains for the Semiconductor Frontier: IIC SHENZHEN 2025 Concludes Successfully</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Chip Innovation for a Smarter Future: Grand Opening of IIC SHENZHEN 2025](https://www.eetimes.com/chip-innovation-for-a-smarter-future-grand-opening-of-iic-shenzhen-2025/)
-**Published:** Mon, 01 Dec 2025 19:33:41 +0000
-
-<p>Discover the latest in semiconductor innovation at IIC Shenzhen 2025—explore breakthroughs and join the conversation on digital embodiment today!</p>
-<p>The post <a href="https://www.eetimes.com/chip-innovation-for-a-smarter-future-grand-opening-of-iic-shenzhen-2025/">Chip Innovation for a Smarter Future: Grand Opening of IIC SHENZHEN 2025</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
