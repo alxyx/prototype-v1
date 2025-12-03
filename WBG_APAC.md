@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-03 05:34 UTC_
+_Last updated: 2025-12-03 06:46 UTC_
 
 ## [ST Boosts Energy Ratings for Motion Control with New GaN IC Platform](https://www.eetasia.com/st-boosts-energy-ratings-for-motion-control-with-new-gan-ic-platform/)
 **Published:** Tue, 02 Dec 2025 21:58:26 +0000
@@ -959,14 +959,6 @@ _Last updated: 2025-12-03 05:34 UTC_
 
 <p>The use of  glass in semiconductors will nearly triple by 2030, driven by CIS, microfluidics, power, memory/HBM, RF, and AR applications, says Yole Group. Glass wafer revenues are expected to ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/glass-use-in-semis-to-triple-by-2030-2025-12/">Glass use in semis to triple by 2030</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [£1.5m grant for Novocomms switchable antenna](https://www.electronicsweekly.com/news/business/manufacturing/1-5m-grant-for-novocomms-switchable-antenna-2025-12/)
-**Published:** Mon, 01 Dec 2025 16:16:00 +0000
-
-<p>Novocomms of Birmingham, UK, has £1.5m of Innovate UK funding to develop 28GHz in-antenna switches. &#8220;The components we are developing are based on addressable low-loss semiconductors which can be used ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/manufacturing/1-5m-grant-for-novocomms-switchable-antenna-2025-12/">£1.5m grant for Novocomms switchable antenna</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
