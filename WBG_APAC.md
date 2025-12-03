@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-03 06:46 UTC_
+_Last updated: 2025-12-03 07:36 UTC_
 
 ## [ST Boosts Energy Ratings for Motion Control with New GaN IC Platform](https://www.eetasia.com/st-boosts-energy-ratings-for-motion-control-with-new-gan-ic-platform/)
 **Published:** Tue, 02 Dec 2025 21:58:26 +0000
@@ -15,14 +15,6 @@ _Last updated: 2025-12-03 06:46 UTC_
 
 <p>The refund positions Wolfspeed with enhanced financial flexibility as it advances the ramp of its 200mm SiC manufacturing footprint.</p>
 <p>The post <a href="https://www.eetasia.com/tax-refund-strengthens-wolfspeeds-liquidity-position/">Tax Refund Strengthens Wolfspeed&#8217;s Liquidity Position</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Empowering Chip Innovation and Supply Chains for the Semiconductor Frontier](https://www.eetasia.com/empowering-chip-innovation-and-supply-chains-for-the-semiconductor-frontier/)
-**Published:** Mon, 01 Dec 2025 22:06:06 +0000
-
-<p>The final day of IIC Shenzhen 2025 spotlights chip innovation, AI and supply chain trends—explore the future of semiconductors now!</p>
-<p>The post <a href="https://www.eetasia.com/empowering-chip-innovation-and-supply-chains-for-the-semiconductor-frontier/">Empowering Chip Innovation and Supply Chains for the Semiconductor Frontier</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
