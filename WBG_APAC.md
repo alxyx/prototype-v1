@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-03 23:31 UTC_
+_Last updated: 2025-12-04 01:55 UTC_
+
+## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
+**Published:** Wed, 03 Dec 2025 23:40:29 +0000
+
+<p>Tescan's FemtoChisel enhances semiconductor sample preparation workflows with exceptional speed, precision, reproducibility, and quality.</p>
+<p>The post <a href="https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/">Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Bright Prospects for Tin Perovskite Solar Cells](https://www.semiconductor-digest.com/bright-prospects-for-tin-perovskite-solar-cells/?utm_source=rss&utm_medium=rss&utm_campaign=bright-prospects-for-tin-perovskite-solar-cells)
 **Published:** Wed, 03 Dec 2025 22:22:21 +0000
