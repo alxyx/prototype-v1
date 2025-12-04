@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-04 21:34 UTC_
+_Last updated: 2025-12-04 22:32 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
 
 <p>Tescan's FemtoChisel enhances semiconductor sample preparation workflows with exceptional speed, precision, reproducibility, and quality.</p>
 <p>The post <a href="https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/">Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Infineon Enhances Electreon’s Electric Road Charging with High-Power Silicon Carbide Technology](https://www.semiconductor-digest.com/infineon-enhances-electreons-electric-road-charging-with-high-power-silicon-carbide-technology/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-enhances-electreons-electric-road-charging-with-high-power-silicon-carbide-technology)
+**Published:** Thu, 04 Dec 2025 21:52:19 +0000
+
+<p>Infineon Technologies AG will supply customized silicon carbide (SiC) power modules to Electreon, a provider of wireless charging solutions for electric vehicles (EVs), for its dynamic in-road charging technology.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/infineon-enhances-electreons-electric-road-charging-with-high-power-silicon-carbide-technology/">Infineon Enhances Electreon&#8217;s Electric Road Charging with High-Power Silicon Carbide Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [onsemi Launches New Cooling Packaging Technology to Drive Efficiency in Power-Hungry Applications](https://www.semiconductor-digest.com/onsemi-launches-new-cooling-packaging-technology-to-drive-efficiency-in-power-hungry-applications/?utm_source=rss&utm_medium=rss&utm_campaign=onsemi-launches-new-cooling-packaging-technology-to-drive-efficiency-in-power-hungry-applications)
+**Published:** Thu, 04 Dec 2025 21:49:15 +0000
+
+<p>onsemi today announced the release of its EliteSiC MOSFETs in the industry-standard T2PAK top-cool package, advancing power packaging for automotive and industrial applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/onsemi-launches-new-cooling-packaging-technology-to-drive-efficiency-in-power-hungry-applications/">onsemi Launches New Cooling Packaging Technology to Drive Efficiency in Power-Hungry Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,22 +807,6 @@ _Last updated: 2025-12-04 21:34 UTC_
 
 <p>Samsung Electro-Mechanics announced on the 5th that it has signed a memorandum of understanding (MOU) with Sumitomo Chemical Group to establish a joint venture (JV) for manufacturing 'Glass Core,' a key material for next-generation package substrates.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/samsung-electro-mechanics-signs-mou-with-sumitomo-chemical-group-to-establish-a-joint-venture/">Samsung Electro-Mechanics Signs MOU with Sumitomo Chemical Group to Establish a Joint Venture</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Sivers Semiconductors Partners With POET Technologies](https://www.semiconductor-digest.com/sivers-semiconductors-partners-with-poet-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-partners-with-poet-technologies)
-**Published:** Fri, 07 Nov 2025 15:36:44 +0000
-
-<p> Sivers Semiconductors today announced additional details on the strategic partnership with POET Technologies Inc.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sivers-semiconductors-partners-with-poet-technologies/">Sivers Semiconductors Partners With POET Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CSconnected Celebrates 10 Years of Compound Semiconductor Innovation in South Wales](https://www.semiconductor-digest.com/csconnected-celebrates-10-years-of-compound-semiconductor-innovation-in-south-wales/?utm_source=rss&utm_medium=rss&utm_campaign=csconnected-celebrates-10-years-of-compound-semiconductor-innovation-in-south-wales)
-**Published:** Thu, 06 Nov 2025 21:06:39 +0000
-
-<p>CSconnected, the world’s first compound semiconductor cluster, marks its 10-year anniversary this month with a celebration at the Parkgate Hotel in Cardiff.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/csconnected-celebrates-10-years-of-compound-semiconductor-innovation-in-south-wales/">CSconnected Celebrates 10 Years of Compound Semiconductor Innovation in South Wales</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
