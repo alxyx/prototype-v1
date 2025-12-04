@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-04 13:50 UTC_
+_Last updated: 2025-12-04 14:37 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
@@ -810,6 +810,14 @@ _Last updated: 2025-12-04 13:50 UTC_
 
 ---
 
+## [Littelfuse Introduces High-Current X4-Class Power MOSFET](https://www.powerelectronicsnews.com/littelfuse-introduces-high-current-x4-class-power-mosfet/)
+**Published:** Thu, 04 Dec 2025 14:00:00 +0000
+
+<img alt="Littelfuse Introduces High-Current X4-Class Power MOSFET." class="webfeedsFeaturedVisual wp-post-image" height="471" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/littelfuse_X4_class.png?fit=768%2C471" style="display: block; margin-bottom: 5px; clear: both;" width="768" /><p>The new X4-Class device improves thermal management, boosts efficiency, and reduces components in energy, charging, drone, and industrial systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/littelfuse-introduces-high-current-x4-class-power-mosfet/">Littelfuse Introduces High-Current X4-Class Power MOSFET</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [A Look Into the Industry’s First Commercially Available Multiport SST](https://www.powerelectronicsnews.com/a-look-into-the-industrys-first-commercially-available-multiport-sst/)
 **Published:** Thu, 04 Dec 2025 13:27:49 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2025-12-04 13:50 UTC_
 
 <img alt="Tech Fault Lines: How Geopolitics Is Shaping the Digital Risks of 2025." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/world_outlook_image1.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The World Economic Forum (WEF) is a global organization that gathers leaders from business, government, academia, and civil society to address the world’s most pressing...</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/tech-fault-lines-how-geopolitics-is-shaping-the-digital-risks-of-2025/">Tech Fault Lines: How Geopolitics Is Shaping the Digital Risks of 2025</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [EU continues to secure its SiC supply to support local EV demand](https://www.powerelectronicsnews.com/eu-continues-to-secure-its-sic-supply-to-support-local-ev-demand/)
-**Published:** Fri, 28 Nov 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="519" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/GaN-wafers.png?fit=782%2C519" style="display: block; margin-bottom: 5px; clear: both;" width="782" /><p>Onsemi, the US-based vertically integrated SiC manufacturer, recently secured €450 million of Czech State aid with the European Commission’s approval to build an integrated chip...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/eu-continues-to-secure-its-sic-supply-to-support-local-ev-demand/">EU continues to secure its SiC supply to support local EV demand</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
