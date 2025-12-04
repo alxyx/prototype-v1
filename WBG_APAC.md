@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-04 11:33 UTC_
+_Last updated: 2025-12-04 12:57 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
@@ -927,6 +927,34 @@ _Last updated: 2025-12-04 11:33 UTC_
 
 <p>The Greek semiconductor specialist Circuits Integrated will establish its first UK presence, expanding its R&#38;D operations, at the Surrey Research Park. The company specialises in advanced IC, antenna-in-package (AiP) and ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/circuits-integrated-establishes-uk-office-with-space-south-central-2025-12/">Circuits Integrated establishes UK office with Space South Central</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [JOB: Semiconductor Device Modeling Lab Technician At Analog Devices In Bengaluru](https://www.electronicsforu.com/career/semiconductor-device-modeling-lab-technician-analog-devices-bengaluru)
+**Published:** Thu, 04 Dec 2025 08:43:28 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/analog-devices-office-1024x294-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Analog Devices Measure current-voltage and capacitance-voltage characteristics of semiconductor devices at wafer level. Primary Job Duties/Responsibilities Minimum Requirements Preferred Qualifications
+
+---
+
+## [1200 V SiC Power Modules For High-Frequency Systems](https://www.electronicsforu.com/market-verticals/1200-v-sic-power-modules-for-high-frequency-systems)
+**Published:** Thu, 04 Dec 2025 08:36:51 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/np-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new generation of 1200 V SiC power modules delivers higher efficiency, lower EMI and improved thermal reliability for EV chargers, solar inverters, motor drives and telecom power systems. A new pair of 1200 V SiC MOSFET power modules by Vishay Intertechnology is pushing efficiency and reliability further for medium- to high-frequency power-conversion designs. Aimed [&#8230;]
+
+---
+
+## [Simplifying High-Speed Signal Generation](https://www.electronicsforu.com/news/simplifying-high-speed-signal-generation)
+**Published:** Thu, 04 Dec 2025 06:45:18 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Pic1-AWG-Waveforms-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Generating many high-speed signals is hard and expensive. AWGs put up to 12 channels in one device, making setups easier and cutting costs. If you are in the field of semiconductor testing, quantum computing, communications, medical imaging, or industrial electronics, you might face challenges generating multiple high-speed, synchronized signals. Using several single-channel waveform generators can [&#8230;]
+
+---
+
+## [High Voltage SiC Devices](https://www.electronicsforu.com/news/high-voltage-sic-devices)
+**Published:** Thu, 04 Dec 2025 06:31:53 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/unnamed-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />SiC portfolio pushes reliability and efficiency benchmarks for solid-state transformers, utility-scale storage, renewable infrastructure and megawatt-class fast-charging, backed by advanced packaging and extended qualification. Navitas has introduced a new line of 3300V and 2300V ultra-high-voltage (UHV) silicon carbide (SiC) devices aimed at mission-critical energy systems, targeting sectors such as AI data-center power delivery, utility-scale storage, [&#8230;]
 
 ---
 
