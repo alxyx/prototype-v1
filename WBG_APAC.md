@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-04 12:57 UTC_
+_Last updated: 2025-12-04 13:50 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
@@ -810,6 +810,14 @@ _Last updated: 2025-12-04 12:57 UTC_
 
 ---
 
+## [A Look Into the Industry’s First Commercially Available Multiport SST](https://www.powerelectronicsnews.com/a-look-into-the-industrys-first-commercially-available-multiport-sst/)
+**Published:** Thu, 04 Dec 2025 13:27:49 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1711" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/DG-matrix-featured.png?fit=2511%2C1711" style="display: block; margin-bottom: 5px; clear: both;" width="2511" /><p>An interview with the co-founders of DG Matrix sheds light on its SiC-based multiport SST backed by multiple patents. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/a-look-into-the-industrys-first-commercially-available-multiport-sst/">A Look Into the Industry’s First Commercially Available Multiport SST</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Navitas 3300V and 2300V SiC in Die, Discrete, and Module](https://www.powerelectronicsnews.com/navitas-3300v-and-2300v-sic-in-die-discrete-and-module/)
 **Published:** Wed, 03 Dec 2025 14:00:00 +0000
 
@@ -882,11 +890,11 @@ _Last updated: 2025-12-04 12:57 UTC_
 
 ---
 
-## [Here’s a roundup of our 5 favorite articles in 2025](https://www.powerelectronicsnews.com/heres-a-roundup-of-our-5-favorite-articles-in-2025/)
-**Published:** Thu, 27 Nov 2025 14:00:00 +0000
+## [Geometry Challenges in Multidie Thermal Management](https://www.eetimes.com/geometry-challenges-in-multidie-thermal-management/)
+**Published:** Thu, 04 Dec 2025 13:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="953" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/EUV.png?fit=1682%2C953" style="display: block; margin-bottom: 5px; clear: both;" width="1682" /><p>2025 brought in a stream of steady innovations in semiconductor manufacture and the application of wideband gap (WBG) technology.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/heres-a-roundup-of-our-5-favorite-articles-in-2025/">Here’s a roundup of our 5 favorite articles in 2025</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Emerging trends in semiconductor design make thermal management significantly more complex.</p>
+<p>The post <a href="https://www.eetimes.com/geometry-challenges-in-multidie-thermal-management/">Geometry Challenges in Multidie Thermal Management</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -911,6 +919,14 @@ _Last updated: 2025-12-04 12:57 UTC_
 
 <p>In this Special Report, we investigate how European semiconductor companies can capitalize on opportunities in this shifting global economy.</p>
 <p>The post <a href="https://www.eetimes.com/how-europe-navigates-geopolitics-in-pursuit-of-semiconductor-sovereignty/">How Europe Navigates Geopolitics in Pursuit of Semiconductor Sovereignty</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Nordic adds WiFi6 to  nRF54L Series](https://www.electronicsweekly.com/news/business/nordic-adds-wifi6-to-nrf54l-series-2025-12/)
+**Published:** Thu, 04 Dec 2025 13:07:22 +0000
+
+<p>Nordic Semiconductor is expanding its nRF54L Series development options with the nRF7002 EBII board for Wi-Fi 6 connectivity. The nRF7002 EBII plug-in board adds Wi-Fi 6 capabilities to Nordic’s nRF54L ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/nordic-adds-wifi6-to-nrf54l-series-2025-12/">Nordic adds WiFi6 to  nRF54L Series</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
