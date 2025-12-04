@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-04 06:47 UTC_
+_Last updated: 2025-12-04 07:34 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
@@ -890,6 +890,14 @@ _Last updated: 2025-12-04 06:47 UTC_
 
 ---
 
+## [Vicinity Technologies and NXP Demonstrate Breakthrough Industrial 5G Performance at 5G-ACIA “Industrial 5G Day 2025” in Tokyo](https://www.eetimes.com/vicinity-technologies-and-nxp-demonstrate-breakthrough-industrial-5g-performance-at-5g-acia-industrial-5g-day-2025-in-tokyo/)
+**Published:** Thu, 04 Dec 2025 06:57:59 +0000
+
+<p>Vicinity Technologies Limited and NXP® Semiconductors today showcased a major advancement in industrial 5G performance at the 5G-ACIA “Industrial 5G Day 2025” held at the Miraikan in Tokyo.</p>
+<p>The post <a href="https://www.eetimes.com/vicinity-technologies-and-nxp-demonstrate-breakthrough-industrial-5g-performance-at-5g-acia-industrial-5g-day-2025-in-tokyo/">Vicinity Technologies and NXP Demonstrate Breakthrough Industrial 5G Performance at 5G-ACIA “Industrial 5G Day 2025” in Tokyo</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Germany Redirects Intel Funds Into New Wave of Semiconductor Projects](https://www.eetimes.com/germany-redirects-intel-funds-into-new-wave-of-semiconductor-projects/)
 **Published:** Wed, 03 Dec 2025 08:00:00 +0000
 
@@ -906,19 +914,19 @@ _Last updated: 2025-12-04 06:47 UTC_
 
 ---
 
+## [25% growth for semis in 2026, says WSTS](https://www.electronicsweekly.com/news/business/25-growth-for-semis-in-2026-says-wsts-2025-12/)
+**Published:** Thu, 04 Dec 2025 06:24:03 +0000
+
+<p>The  semiconductor market is projected to grow more than 25% in 2026 to $975 billion up from $772 billion in 2025, according WSTS 2026 growth is expected across all regions ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/25-growth-for-semis-in-2026-says-wsts-2025-12/">25% growth for semis in 2026, says WSTS</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Circuits Integrated establishes UK office with Space South Central](https://www.electronicsweekly.com/news/circuits-integrated-establishes-uk-office-with-space-south-central-2025-12/)
 **Published:** Thu, 04 Dec 2025 06:06:23 +0000
 
 <p>The Greek semiconductor specialist Circuits Integrated will establish its first UK presence, expanding its R&#38;D operations, at the Surrey Research Park. The company specialises in advanced IC, antenna-in-package (AiP) and ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/circuits-integrated-establishes-uk-office-with-space-south-central-2025-12/">Circuits Integrated establishes UK office with Space South Central</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Nvidia invests $2bn in Synopsys](https://www.electronicsweekly.com/news/business/nvidia-invests-2bn-in-synopsys-2025-12/)
-**Published:** Tue, 02 Dec 2025 06:19:03 +0000
-
-<p>Nvidia has bought Synopsys shares worth $2 billion as part of a collaboration in CUDA accelerated computing, agentic and physical AI, and Omniverse digital twins. ‘R&#38;D teams face engineering challenges ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/nvidia-invests-2bn-in-synopsys-2025-12/">Nvidia invests $2bn in Synopsys</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
