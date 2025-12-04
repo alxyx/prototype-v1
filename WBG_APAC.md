@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-04 05:34 UTC_
+_Last updated: 2025-12-04 06:47 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
@@ -906,19 +906,19 @@ _Last updated: 2025-12-04 05:34 UTC_
 
 ---
 
+## [Circuits Integrated establishes UK office with Space South Central](https://www.electronicsweekly.com/news/circuits-integrated-establishes-uk-office-with-space-south-central-2025-12/)
+**Published:** Thu, 04 Dec 2025 06:06:23 +0000
+
+<p>The Greek semiconductor specialist Circuits Integrated will establish its first UK presence, expanding its R&#38;D operations, at the Surrey Research Park. The company specialises in advanced IC, antenna-in-package (AiP) and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/circuits-integrated-establishes-uk-office-with-space-south-central-2025-12/">Circuits Integrated establishes UK office with Space South Central</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Nvidia invests $2bn in Synopsys](https://www.electronicsweekly.com/news/business/nvidia-invests-2bn-in-synopsys-2025-12/)
 **Published:** Tue, 02 Dec 2025 06:19:03 +0000
 
 <p>Nvidia has bought Synopsys shares worth $2 billion as part of a collaboration in CUDA accelerated computing, agentic and physical AI, and Omniverse digital twins. ‘R&#38;D teams face engineering challenges ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/nvidia-invests-2bn-in-synopsys-2025-12/">Nvidia invests $2bn in Synopsys</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Glass use in semis to triple by 2030](https://www.electronicsweekly.com/news/business/glass-use-in-semis-to-triple-by-2030-2025-12/)
-**Published:** Tue, 02 Dec 2025 06:18:42 +0000
-
-<p>The use of  glass in semiconductors will nearly triple by 2030, driven by CIS, microfluidics, power, memory/HBM, RF, and AR applications, says Yole Group. Glass wafer revenues are expected to ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/glass-use-in-semis-to-triple-by-2030-2025-12/">Glass use in semis to triple by 2030</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
