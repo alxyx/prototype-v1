@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-04 17:36 UTC_
+_Last updated: 2025-12-04 18:47 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
@@ -911,14 +911,6 @@ _Last updated: 2025-12-04 17:36 UTC_
 
 <p>Germany swiftly reallocates Intel’s chip funds into cutting-edge semiconductor projects, potentially reshaping Europe’s tech sector.</p>
 <p>The post <a href="https://www.eetimes.com/germany-redirects-intel-funds-into-new-wave-of-semiconductor-projects/">Germany Redirects Intel Funds Into New Wave of Semiconductor Projects</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [How Europe Navigates Geopolitics in Pursuit of Semiconductor Sovereignty](https://www.eetimes.com/how-europe-navigates-geopolitics-in-pursuit-of-semiconductor-sovereignty/)
-**Published:** Tue, 02 Dec 2025 08:46:44 +0000
-
-<p>In this Special Report, we investigate how European semiconductor companies can capitalize on opportunities in this shifting global economy.</p>
-<p>The post <a href="https://www.eetimes.com/how-europe-navigates-geopolitics-in-pursuit-of-semiconductor-sovereignty/">How Europe Navigates Geopolitics in Pursuit of Semiconductor Sovereignty</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
