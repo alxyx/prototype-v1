@@ -1,12 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-04 20:38 UTC_
+_Last updated: 2025-12-04 21:34 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
 
 <p>Tescan's FemtoChisel enhances semiconductor sample preparation workflows with exceptional speed, precision, reproducibility, and quality.</p>
 <p>The post <a href="https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/">Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Accelerating Quantum Computing Innovation: Veeco Expands Global Footprint with MBE Wins](https://www.semiconductor-digest.com/accelerating-quantum-computing-innovation-veeco-expands-global-footprint-with-mbe-wins/?utm_source=rss&utm_medium=rss&utm_campaign=accelerating-quantum-computing-innovation-veeco-expands-global-footprint-with-mbe-wins)
+**Published:** Thu, 04 Dec 2025 21:10:15 +0000
+
+<p>Veeco Instruments Inc. today announced wins with Sparrow Quantum (Denmark) and Yeungnam University (South Korea), who have selected Veeco’s Molecular Beam Epitaxy (MBE) systems to strengthen their cutting-edge quantum research.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/accelerating-quantum-computing-innovation-veeco-expands-global-footprint-with-mbe-wins/">Accelerating Quantum Computing Innovation: Veeco Expands Global Footprint with MBE Wins</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,14 +807,6 @@ _Last updated: 2025-12-04 20:38 UTC_
 
 <p>CSconnected, the world’s first compound semiconductor cluster, marks its 10-year anniversary this month with a celebration at the Parkgate Hotel in Cardiff.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/csconnected-celebrates-10-years-of-compound-semiconductor-innovation-in-south-wales/">CSconnected Celebrates 10 Years of Compound Semiconductor Innovation in South Wales</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CMP Slurry and Pads Market Set for 6% Growth](https://www.semiconductor-digest.com/cmp-slurry-and-pads-market-set-for-6-growth/?utm_source=rss&utm_medium=rss&utm_campaign=cmp-slurry-and-pads-market-set-for-6-growth)
-**Published:** Thu, 06 Nov 2025 20:07:29 +0000
-
-<p>The CMP slurry and pad market is forecasted to grow 6% in 2025 to approximately $3.6 billion USD, driven by recovery in logic segments and expanding CMP process steps across next generation device technologies and advanced packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cmp-slurry-and-pads-market-set-for-6-growth/">CMP Slurry and Pads Market Set for 6% Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
