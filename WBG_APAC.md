@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-04 14:37 UTC_
+_Last updated: 2025-12-04 15:38 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
@@ -922,18 +922,18 @@ _Last updated: 2025-12-04 14:37 UTC_
 
 ---
 
-## [Nordic adds WiFi6 to  nRF54L Series](https://www.electronicsweekly.com/news/business/nordic-adds-wifi6-to-nrf54l-series-2025-12/)
+## [Nordic adds WiFi6 to nRF54L Series](https://www.electronicsweekly.com/news/business/nordic-adds-wifi6-to-nrf54l-series-2025-12/)
 **Published:** Thu, 04 Dec 2025 13:07:22 +0000
 
 <p>Nordic Semiconductor is expanding its nRF54L Series development options with the nRF7002 EBII board for Wi-Fi 6 connectivity. The nRF7002 EBII plug-in board adds Wi-Fi 6 capabilities to Nordic’s nRF54L ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/nordic-adds-wifi6-to-nrf54l-series-2025-12/">Nordic adds WiFi6 to  nRF54L Series</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/nordic-adds-wifi6-to-nrf54l-series-2025-12/">Nordic adds WiFi6 to nRF54L Series</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
 ## [25% growth for semis in 2026, says WSTS](https://www.electronicsweekly.com/news/business/25-growth-for-semis-in-2026-says-wsts-2025-12/)
 **Published:** Thu, 04 Dec 2025 06:24:03 +0000
 
-<p>The  semiconductor market is projected to grow more than 25% in 2026 to $975 billion up from $772 billion in 2025, according WSTS 2026 growth is expected across all regions ...</p>
+<p>The semiconductor market is projected to grow more than 25% in 2026 to $975 billion up from $772 billion in 2025, according WSTS 2026 growth is expected across all regions and ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/25-growth-for-semis-in-2026-says-wsts-2025-12/">25% growth for semis in 2026, says WSTS</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
