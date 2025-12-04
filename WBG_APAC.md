@@ -1,12 +1,36 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-04 15:38 UTC_
+_Last updated: 2025-12-04 16:44 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
 
 <p>Tescan's FemtoChisel enhances semiconductor sample preparation workflows with exceptional speed, precision, reproducibility, and quality.</p>
 <p>The post <a href="https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/">Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Context Engineering: The Key to Unlocking AI’s Potential in Semiconductor Design and Operations](https://www.semiconductor-digest.com/context-engineering-the-key-to-unlocking-ais-potential-in-semiconductor-design-and-operations/?utm_source=rss&utm_medium=rss&utm_campaign=context-engineering-the-key-to-unlocking-ais-potential-in-semiconductor-design-and-operations)
+**Published:** Thu, 04 Dec 2025 16:03:49 +0000
+
+<p>Context engineering is the practice of carefully designing, structuring, and managing the information (context) provided to AI models so they generate accurate, relevant, and useful outputs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/context-engineering-the-key-to-unlocking-ais-potential-in-semiconductor-design-and-operations/">Context Engineering: The Key to Unlocking AI&#8217;s Potential in Semiconductor Design and Operations</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Building Resilience Through Long-Standing Ecosystem Partnerships](https://www.semiconductor-digest.com/building-resilience-through-long-standing-ecosystem-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=building-resilience-through-long-standing-ecosystem-partnerships)
+**Published:** Thu, 04 Dec 2025 15:54:12 +0000
+
+<p>The semiconductor industry is a global ecosystem where success depends on deep collaboration—across customers, suppliers, service providers, government agencies and academic institutions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/building-resilience-through-long-standing-ecosystem-partnerships/">Building Resilience Through Long-Standing Ecosystem Partnerships</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Meeting the Demand for Advanced Semiconductor Chips: Scaling Production and Closing the Lab-to-Fab Data Gap](https://www.semiconductor-digest.com/meeting-the-demand-for-advanced-semiconductor-chips-scaling-production-and-closing-the-lab-to-fab-data-gap/?utm_source=rss&utm_medium=rss&utm_campaign=meeting-the-demand-for-advanced-semiconductor-chips-scaling-production-and-closing-the-lab-to-fab-data-gap)
+**Published:** Thu, 04 Dec 2025 15:49:41 +0000
+
+<p>To meet demand and ensure high-quality production, semiconductor manufacturers need accurate and accessible transmission electron microscopy (TEM) metrology data.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/meeting-the-demand-for-advanced-semiconductor-chips-scaling-production-and-closing-the-lab-to-fab-data-gap/">Meeting the Demand for Advanced Semiconductor Chips: Scaling Production and Closing the Lab-to-Fab Data Gap</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,30 +807,6 @@ _Last updated: 2025-12-04 15:38 UTC_
 
 <p>The CMP slurry and pad market is forecasted to grow 6% in 2025 to approximately $3.6 billion USD, driven by recovery in logic segments and expanding CMP process steps across next generation device technologies and advanced packaging.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/cmp-slurry-and-pads-market-set-for-6-growth/">CMP Slurry and Pads Market Set for 6% Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Memories.ai Introduces Large Visual Memory Model 2.0 to Bring AI Visual Memory On-Device, in Collaboration with Qualcomm](https://www.semiconductor-digest.com/memories-ai-introduces-large-visual-memory-model-2-0-to-bring-ai-visual-memory-on-device-in-collaboration-with-qualcomm/?utm_source=rss&utm_medium=rss&utm_campaign=memories-ai-introduces-large-visual-memory-model-2-0-to-bring-ai-visual-memory-on-device-in-collaboration-with-qualcomm)
-**Published:** Thu, 06 Nov 2025 19:56:48 +0000
-
-<p>Starting in 2026, consumers and businesses with Qualcomm-powered phones, cameras, and wearables will be able to turn raw video into searchable and structured memories.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/memories-ai-introduces-large-visual-memory-model-2-0-to-bring-ai-visual-memory-on-device-in-collaboration-with-qualcomm/">Memories.ai Introduces Large Visual Memory Model 2.0 to Bring AI Visual Memory On-Device, in Collaboration with Qualcomm</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Global Semiconductor Alliance Announces 2025 Award Nominees](https://www.semiconductor-digest.com/global-semiconductor-alliance-announces-2025-award-nominees/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-alliance-announces-2025-award-nominees)
-**Published:** Thu, 06 Nov 2025 19:48:44 +0000
-
-<p>The prestigious awards will be presented at GSA’s Awards Celebration on Thursday, Dec. 4, 2025</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-alliance-announces-2025-award-nominees/">Global Semiconductor Alliance Announces 2025 Award Nominees</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Engineering Defects Could Transform the Future of Nanomaterials](https://www.semiconductor-digest.com/engineering-defects-could-transform-the-future-of-nanomaterials/?utm_source=rss&utm_medium=rss&utm_campaign=engineering-defects-could-transform-the-future-of-nanomaterials)
-**Published:** Wed, 05 Nov 2025 20:54:08 +0000
-
-<p>The discovery unlocks new unique properties in ultra-thin materials.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/engineering-defects-could-transform-the-future-of-nanomaterials/">Engineering Defects Could Transform the Future of Nanomaterials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
