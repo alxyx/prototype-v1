@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-05 13:47 UTC_
+_Last updated: 2025-12-05 14:35 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
 
 <p>Tescan's FemtoChisel enhances semiconductor sample preparation workflows with exceptional speed, precision, reproducibility, and quality.</p>
 <p>The post <a href="https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/">Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Smart Telematics for Smarter Fleet Decisions](https://www.semiconductor-digest.com/smart-telematics-for-smarter-fleet-decisions/?utm_source=rss&utm_medium=rss&utm_campaign=smart-telematics-for-smarter-fleet-decisions)
+**Published:** Fri, 05 Dec 2025 14:07:33 +0000
+
+<p>Whether you're managing long-haul trucks, last-mile delivery vans, or a growing pool of electric vehicles, knowing where each asset is, how it’s being driven, and what condition it’s in is no longer optional.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/smart-telematics-for-smarter-fleet-decisions/">Smart Telematics for Smarter Fleet Decisions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Super-Efficient Perovskite Solar Cell Technology: Why the Semiconductor Industry Should Be Paying Attention](https://www.semiconductor-digest.com/super-efficient-perovskite-solar-cell-technology-why-the-semiconductor-industry-should-be-paying-attention/?utm_source=rss&utm_medium=rss&utm_campaign=super-efficient-perovskite-solar-cell-technology-why-the-semiconductor-industry-should-be-paying-attention)
+**Published:** Fri, 05 Dec 2025 13:59:52 +0000
+
+<p>Perovskite materials, particularly organic-inorganic halide perovskites, are revolutionizing solar energy due to their remarkable power conversion efficiencies and unique optoelectronic properties.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/super-efficient-perovskite-solar-cell-technology-why-the-semiconductor-industry-should-be-paying-attention/">Super-Efficient Perovskite Solar Cell Technology: Why the Semiconductor Industry Should Be Paying Attention</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,19 +810,27 @@ _Last updated: 2025-12-05 13:47 UTC_
 
 ---
 
-## [Ceva Partners with Microchip Technology to Enable AI Acceleration](https://www.semiconductor-digest.com/ceva-partners-with-microchip-technology-to-enable-ai-acceleration/?utm_source=rss&utm_medium=rss&utm_campaign=ceva-partners-with-microchip-technology-to-enable-ai-acceleration)
-**Published:** Fri, 07 Nov 2025 15:55:29 +0000
+## [Small Fusion Reactor Energy Sources for Challenging Environments](https://www.powerelectronicsnews.com/small-fusion-reactor-energy-sources-for-challenging-environments/)
+**Published:** Fri, 05 Dec 2025 14:00:00 +0000
 
-<p>Ceva, Inc. today announced a long-term partnership with Microchip Technology Inc., a broadline supplier of semiconductors committed to making innovative design easier through total system solutions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ceva-partners-with-microchip-technology-to-enable-ai-acceleration/">Ceva Partners with Microchip Technology to Enable AI Acceleration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Fusion energy." class="webfeedsFeaturedVisual wp-post-image" height="2356" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/01/shutterstock_1227530656.jpg?fit=5000%2C2356" style="display: block; margin-bottom: 5px; clear: both;" width="5000" /><p>This article introduces some concepts behind a small fusion reactor, called Orbitron, that has been proposed by Avalanche Energy.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/small-fusion-reactor-energy-sources-for-challenging-environments/">Small Fusion Reactor Energy Sources for Challenging Environments</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Samsung Electro-Mechanics Signs MOU with Sumitomo Chemical Group to Establish a Joint Venture](https://www.semiconductor-digest.com/samsung-electro-mechanics-signs-mou-with-sumitomo-chemical-group-to-establish-a-joint-venture/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-electro-mechanics-signs-mou-with-sumitomo-chemical-group-to-establish-a-joint-venture)
-**Published:** Fri, 07 Nov 2025 15:48:41 +0000
+## [ST’s New 65W VIPerGaN Flyback Converter](https://www.powerelectronicsnews.com/st-expands-gan-portfolio-with-new-65w-vipergan-flyback-converter-in-pqfn-package/)
+**Published:** Fri, 05 Dec 2025 14:00:00 +0000
 
-<p>Samsung Electro-Mechanics announced on the 5th that it has signed a memorandum of understanding (MOU) with Sumitomo Chemical Group to establish a joint venture (JV) for manufacturing 'Glass Core,' a key material for next-generation package substrates.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/samsung-electro-mechanics-signs-mou-with-sumitomo-chemical-group-to-establish-a-joint-venture/">Samsung Electro-Mechanics Signs MOU with Sumitomo Chemical Group to Establish a Joint Venture</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="ST Expands GaN Portfolio with New 65W VIPerGaN Flyback Converter in PQFN Package." class="webfeedsFeaturedVisual wp-post-image" height="2000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/ST_ViperGaN.jpg?fit=2000%2C2000" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>The new VIPerGaN65W enables designers to create efficient, cost-effective USB-PD chargers, fast battery chargers, and auxiliary power supplies.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-expands-gan-portfolio-with-new-65w-vipergan-flyback-converter-in-pqfn-package/">ST&#8217;s New 65W VIPerGaN Flyback Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [SiC-Based Multiport SST, Enphase IQ9 Microinverter, PEN’s Power Prediction for 2025: Power Electronics Week Insights](https://www.powerelectronicsnews.com/sic-based-multiport-sst-enphase-iq9-microinverter-pens-power-prediction-for-2025-power-electronics-week-insights/)
+**Published:** Fri, 05 Dec 2025 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on SiC-Based Multiport SST, Enphase IQ9 Microinverter, and PEN’s Power Prediction for 2025!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/sic-based-multiport-sst-enphase-iq9-microinverter-pens-power-prediction-for-2025-power-electronics-week-insights/">SiC-Based Multiport SST, Enphase IQ9 Microinverter, PEN’s Power Prediction for 2025: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -863,30 +887,6 @@ _Last updated: 2025-12-05 13:47 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="208" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/PEN-image.png?fit=568%2C208" style="display: block; margin-bottom: 5px; clear: both;" width="568" /><p>Examining the progress toward advanced data center power distribution, in light of power predictions Power Electronics News made for 2025</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/pens-power-predictions-for-2025-how-do-they-stack-up-data-centers/">PEN’s Power Predictions for 2025: How Do They Stack Up? — Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ST Unveils New GaN-Based Smart Power SiPs for Next-Generation Motor Drives](https://www.powerelectronicsnews.com/st-unveils-new-gan-based-smart-power-sips-for-next-generation-motor-drives/)
-**Published:** Mon, 01 Dec 2025 14:00:00 +0000
-
-<img alt="ST Unveils New GaN-Based Smart Power SiPs for Next-Generation Motor Drives." class="webfeedsFeaturedVisual wp-post-image" height="450" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/P4737D-Nov-24-2025-GaNSPIN-motion-control-platform_IMAGE-LO-RES-1.jpeg?fit=800%2C450" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>Designed for modern motor-drive applications, the high-efficiency GaN power integration solution targets both white goods and factory automation systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-unveils-new-gan-based-smart-power-sips-for-next-generation-motor-drives/">ST Unveils New GaN-Based Smart Power SiPs for Next-Generation Motor Drives</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wide Bandgap Monthly Insights – November 2025](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-november-2025/)
-**Published:** Fri, 28 Nov 2025 20:22:33 +0000
-
-<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-november-2025/">Wide Bandgap Monthly Insights &#8211; November 2025</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Tech Fault Lines: How Geopolitics Is Shaping the Digital Risks of 2025](https://www.powerelectronicsnews.com/tech-fault-lines-how-geopolitics-is-shaping-the-digital-risks-of-2025/)
-**Published:** Fri, 28 Nov 2025 14:00:00 +0000
-
-<img alt="Tech Fault Lines: How Geopolitics Is Shaping the Digital Risks of 2025." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/world_outlook_image1.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The World Economic Forum (WEF) is a global organization that gathers leaders from business, government, academia, and civil society to address the world’s most pressing...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tech-fault-lines-how-geopolitics-is-shaping-the-digital-risks-of-2025/">Tech Fault Lines: How Geopolitics Is Shaping the Digital Risks of 2025</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
