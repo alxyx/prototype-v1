@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-05 11:33 UTC_
+_Last updated: 2025-12-05 12:56 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
@@ -954,31 +954,24 @@ _Last updated: 2025-12-05 11:33 UTC_
 
 ---
 
+## [AI System Delivers Glasses Free 3D System](https://www.electronicsforu.com/market-verticals/ai-system-delivers-glasses-free-3d-system)
+**Published:** Fri, 05 Dec 2025 06:33:06 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/bbb-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new AI-driven light-field technique breaks long-standing limits in autostereoscopic displays, bringing wide-angle, glasses-free 3D closer to desktop deployment. A research team in Shanghai has unveiled an autostereoscopic display system that delivers full-parallax, glasses-free 3D on a desktop-scale screenan achievement long considered out of reach due to the constraints of optical physics. The prototype, detailed [&#8230;]
+
+---
+
+## [SiC MOSFETs For Ultra Slim Power Systems](https://www.electronicsforu.com/news/sic-mosfets-for-ultra-slim-power-systems)
+**Published:** Fri, 05 Dec 2025 06:01:06 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Screenshot-2025-12-05-112326-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new family of SiC MOSFETs delivers higher thermal performance, increased voltage headroom, and a significantly slimmer footprint aimed at AI servers, PV inverters, ESS units, and next-generation high-density power supplies. As data-center power architectures, AI servers, and compact renewable-energy systems race toward higher power levels, designers are pressed to shrink form factors without compromising [&#8230;]
+
+---
+
 ## [JOB: Semiconductor Device Modeling Lab Technician At Analog Devices In Bengaluru](https://www.electronicsforu.com/career/semiconductor-device-modeling-lab-technician-analog-devices-bengaluru)
 **Published:** Thu, 04 Dec 2025 08:43:28 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/analog-devices-office-1024x294-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Analog Devices Measure current-voltage and capacitance-voltage characteristics of semiconductor devices at wafer level. Primary Job Duties/Responsibilities Minimum Requirements Preferred Qualifications
-
----
-
-## [1200 V SiC Power Modules For High-Frequency Systems](https://www.electronicsforu.com/market-verticals/1200-v-sic-power-modules-for-high-frequency-systems)
-**Published:** Thu, 04 Dec 2025 08:36:51 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/np-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new generation of 1200 V SiC power modules delivers higher efficiency, lower EMI and improved thermal reliability for EV chargers, solar inverters, motor drives and telecom power systems. A new pair of 1200 V SiC MOSFET power modules by Vishay Intertechnology is pushing efficiency and reliability further for medium- to high-frequency power-conversion designs. Aimed [&#8230;]
-
----
-
-## [Simplifying High-Speed Signal Generation](https://www.electronicsforu.com/news/simplifying-high-speed-signal-generation)
-**Published:** Thu, 04 Dec 2025 06:45:18 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Pic1-AWG-Waveforms-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Generating many high-speed signals is hard and expensive. AWGs put up to 12 channels in one device, making setups easier and cutting costs. If you are in the field of semiconductor testing, quantum computing, communications, medical imaging, or industrial electronics, you might face challenges generating multiple high-speed, synchronized signals. Using several single-channel waveform generators can [&#8230;]
-
----
-
-## [High Voltage SiC Devices](https://www.electronicsforu.com/news/high-voltage-sic-devices)
-**Published:** Thu, 04 Dec 2025 06:31:53 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/unnamed-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />SiC portfolio pushes reliability and efficiency benchmarks for solid-state transformers, utility-scale storage, renewable infrastructure and megawatt-class fast-charging, backed by advanced packaging and extended qualification. Navitas has introduced a new line of 3300V and 2300V ultra-high-voltage (UHV) silicon carbide (SiC) devices aimed at mission-critical energy systems, targeting sectors such as AI data-center power delivery, utility-scale storage, [&#8230;]
 
 ---
 
