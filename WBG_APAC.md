@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-05 16:42 UTC_
+_Last updated: 2025-12-05 17:33 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
@@ -943,14 +943,6 @@ _Last updated: 2025-12-05 16:42 UTC_
 
 <p>ROHM has begun mass production of the SCT40xxDLL series of SiC MOSFETs in TOLL (TO-Leadless) packages. Compared to conventional packages (TO-263-7L) with equivalent voltage ratings and on-resistance, these new packages ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/rohm-in-mass-2025-12/">Rohm in mass production of SCT40xxDLL series SiC MOSFETs in TOLL packages</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Nordic adds WiFi6 to nRF54L Series](https://www.electronicsweekly.com/news/business/nordic-adds-wifi6-to-nrf54l-series-2025-12/)
-**Published:** Thu, 04 Dec 2025 13:07:22 +0000
-
-<p>Nordic Semiconductor is expanding its nRF54L Series development options with the nRF7002 EBII board for Wi-Fi 6 connectivity. The nRF7002 EBII plug-in board adds Wi-Fi 6 capabilities to Nordic’s nRF54L ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/nordic-adds-wifi6-to-nrf54l-series-2025-12/">Nordic adds WiFi6 to nRF54L Series</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
