@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-05 15:38 UTC_
+_Last updated: 2025-12-05 16:42 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
 
 <p>Tescan's FemtoChisel enhances semiconductor sample preparation workflows with exceptional speed, precision, reproducibility, and quality.</p>
 <p>The post <a href="https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/">Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [An Iron-On Electronic Circuit to Create Wearable Tech](https://www.semiconductor-digest.com/an-iron-on-electronic-circuit-to-create-wearable-tech/?utm_source=rss&utm_medium=rss&utm_campaign=an-iron-on-electronic-circuit-to-create-wearable-tech)
+**Published:** Fri, 05 Dec 2025 15:42:20 +0000
+
+<p>Iron-on patches can repair clothing or add personal flair to backpacks and hats. And now they could power wearable tech, too.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/an-iron-on-electronic-circuit-to-create-wearable-tech/">An Iron-On Electronic Circuit to Create Wearable Tech</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NGK to Triple Production Capacity for Translucent Alumina Wafer](https://www.semiconductor-digest.com/ngk-to-triple-production-capacity-for-translucent-alumina-wafer/?utm_source=rss&utm_medium=rss&utm_campaign=ngk-to-triple-production-capacity-for-translucent-alumina-wafer)
+**Published:** Fri, 05 Dec 2025 15:30:47 +0000
+
+<p>NGK INSULATORS, LTD. will triple its production capacity for the Translucent Alumina Wafer by fiscal 2027 to meet growing demand for chiplet integration, a key technology in advanced fields such as AI and autonomous driving.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ngk-to-triple-production-capacity-for-translucent-alumina-wafer/">NGK to Triple Production Capacity for Translucent Alumina Wafer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,22 +807,6 @@ _Last updated: 2025-12-05 15:38 UTC_
 
 <p>ZEISS Microscopy will once again make a strong showing at the 51st annual International Symposium for Testing &#038; Failure Analysis (ISTFA), taking place November 16-20, 2025, at the Pasadena Convention Center, in Pasadena, Calif.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/zeiss-microscopy-spotlights-advanced-failure-analysis-technologies-at-istfa/">ZEISS Microscopy Spotlights Advanced Failure Analysis Technologies at ISTFA</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries Licenses GaN Technology from TSMC](https://www.semiconductor-digest.com/globalfoundries-licenses-gan-technology-from-tsmc/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-licenses-gan-technology-from-tsmc)
-**Published:** Mon, 10 Nov 2025 18:11:32 +0000
-
-<p>Technology licensing agreement will advance development of GF’s next generation GaN technologies with products available in late 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-licenses-gan-technology-from-tsmc/">GlobalFoundries Licenses GaN Technology from TSMC</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AI Semiconductor Innovator DEEPX Recognized by NYSE and WEF](https://www.semiconductor-digest.com/ai-semiconductor-innovator-deepx-recognized-by-nyse-and-wef-2/?utm_source=rss&utm_medium=rss&utm_campaign=ai-semiconductor-innovator-deepx-recognized-by-nyse-and-wef-2)
-**Published:** Fri, 07 Nov 2025 16:43:06 +0000
-
-<p>As AI begins to sustainably generate tangible value, global AI semiconductor innovator DEEPX (CEO Lokwon Kim) today announced it was recently selected as a ‘Sustainable and Responsible AI Innovation Company’ at the MINDS Awards hosted by the World Economic Forum (WEF) on October 29.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ai-semiconductor-innovator-deepx-recognized-by-nyse-and-wef-2/">AI Semiconductor Innovator DEEPX Recognized by NYSE and WEF</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
