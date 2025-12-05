@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-05 06:47 UTC_
+_Last updated: 2025-12-05 07:35 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
@@ -914,6 +914,30 @@ _Last updated: 2025-12-05 06:47 UTC_
 
 ---
 
+## [X-FAB offers easy access to advanced SiC processes](https://www.electronicsweekly.com/news/business/x-fab-offers-easy-access-to-advanced-sic-processes-2025-12/)
+**Published:** Fri, 05 Dec 2025 06:12:34 +0000
+
+<p>Through its XbloX platform X-FAB is offering easy access to a standardised yet flexible set of SiC process technologies that accelerate the development of advanced power devices. From rapid prototyping ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/x-fab-offers-easy-access-to-advanced-sic-processes-2025-12/">X-FAB offers easy access to advanced SiC processes</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [onsemi 650V and 950V ElieSiC MOSFETs in T2Pak top-cool package](https://www.electronicsweekly.com/news/business/onsemi-elitesic-in-t2pak-top-cool-package-2025-12/)
+**Published:** Fri, 05 Dec 2025 06:12:25 +0000
+
+<p>onsemi’s 650V and 950V EliteSiC MOSFETs in the industry-standard T2PAK top-cool package are shipping to lead customers.. This new offering delivers enhanced thermal performance, reliability and design flexibility for demanding ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/onsemi-elitesic-in-t2pak-top-cool-package-2025-12/">onsemi 650V and 950V ElieSiC MOSFETs in T2Pak top-cool package</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Rohm in mass production of SCT40xxDLL series SiC MOSFETs in TOLL packages](https://www.electronicsweekly.com/news/business/rohm-in-mass-2025-12/)
+**Published:** Fri, 05 Dec 2025 06:11:53 +0000
+
+<p>ROHM has begun mass production of the SCT40xxDLL series of SiC MOSFETs in TOLL (TO-Leadless) packages. Compared to conventional packages (TO-263-7L) with equivalent voltage ratings and on-resistance, these new packages ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/rohm-in-mass-2025-12/">Rohm in mass production of SCT40xxDLL series SiC MOSFETs in TOLL packages</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Nordic adds WiFi6 to nRF54L Series](https://www.electronicsweekly.com/news/business/nordic-adds-wifi6-to-nrf54l-series-2025-12/)
 **Published:** Thu, 04 Dec 2025 13:07:22 +0000
 
@@ -927,14 +951,6 @@ _Last updated: 2025-12-05 06:47 UTC_
 
 <p>The semiconductor market is projected to grow more than 25% in 2026 to $975 billion up from $772 billion in 2025, according WSTS 2026 growth is expected across all regions and ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/25-growth-for-semis-in-2026-says-wsts-2025-12/">25% growth for semis in 2026, says WSTS</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Circuits Integrated establishes UK office with Space South Central](https://www.electronicsweekly.com/news/circuits-integrated-establishes-uk-office-with-space-south-central-2025-12/)
-**Published:** Thu, 04 Dec 2025 06:06:23 +0000
-
-<p>The Greek semiconductor specialist Circuits Integrated will establish its first UK presence, expanding its R&#38;D operations, at the Surrey Research Park. The company specialises in advanced IC, antenna-in-package (AiP) and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/circuits-integrated-establishes-uk-office-with-space-south-central-2025-12/">Circuits Integrated establishes UK office with Space South Central</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
