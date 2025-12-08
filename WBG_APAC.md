@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-08 05:38 UTC_
+_Last updated: 2025-12-08 06:49 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
@@ -914,35 +914,27 @@ _Last updated: 2025-12-08 05:38 UTC_
 
 ---
 
+## [Infineon enables in-road EV charging](https://www.electronicsweekly.com/news/business/infineon-enables-in-road-ev-charging-2025-12/)
+**Published:** Mon, 08 Dec 2025 06:13:56 +0000
+
+<p>Infineon will supply customised  SiC power modules to Electreon,  a provider of dynamic in-road charging technology for EVs. This wireless electric road system (wERS) lets EVs charge wirelessly using inductive ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/infineon-enables-in-road-ev-charging-2025-12/">Infineon enables in-road EV charging</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [65W flyback converter](https://www.electronicsweekly.com/market-sectors/power/65w-flyback-converter-2025-12/)
+**Published:** Mon, 08 Dec 2025 06:08:56 +0000
+
+<p>ST has added 65 Watt flyback converter in the VIPerGaN series that combines a 700V GaN transistor and quasi-resonant PWM control IC in a single QFN 5&#215;6 package. VIPerGaN65W is ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/market-sectors/power/65w-flyback-converter-2025-12/">65W flyback converter</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Low-noise n-channel JFET](https://www.electronicsweekly.com/news/products/discretes/low-noise-n-channel-jfet-2025-12/)
 **Published:** Fri, 05 Dec 2025 10:02:17 +0000
 
 <p>If you ignore power devices, it is not often that a new discrete semiconductor is announced, but today is one of those days &#8211; albeit for a lamented former low-noise ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/products/discretes/low-noise-n-channel-jfet-2025-12/">Low-noise n-channel JFET</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [X-FAB offers easy access to advanced SiC processes](https://www.electronicsweekly.com/news/business/x-fab-offers-easy-access-to-advanced-sic-processes-2025-12/)
-**Published:** Fri, 05 Dec 2025 06:12:34 +0000
-
-<p>Through its XbloX platform X-FAB is offering easy access to a standardised yet flexible set of SiC process technologies that accelerate the development of advanced power devices. From rapid prototyping ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/x-fab-offers-easy-access-to-advanced-sic-processes-2025-12/">X-FAB offers easy access to advanced SiC processes</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [onsemi 650V and 950V ElieSiC MOSFETs in T2Pak top-cool package](https://www.electronicsweekly.com/news/business/onsemi-elitesic-in-t2pak-top-cool-package-2025-12/)
-**Published:** Fri, 05 Dec 2025 06:12:25 +0000
-
-<p>onsemi’s 650V and 950V EliteSiC MOSFETs in the industry-standard T2PAK top-cool package are shipping to lead customers.. This new offering delivers enhanced thermal performance, reliability and design flexibility for demanding ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/onsemi-elitesic-in-t2pak-top-cool-package-2025-12/">onsemi 650V and 950V ElieSiC MOSFETs in T2Pak top-cool package</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Rohm in mass production of SCT40xxDLL series SiC MOSFETs in TOLL packages](https://www.electronicsweekly.com/news/business/rohm-in-mass-2025-12/)
-**Published:** Fri, 05 Dec 2025 06:11:53 +0000
-
-<p>ROHM has begun mass production of the SCT40xxDLL series of SiC MOSFETs in TOLL (TO-Leadless) packages. Compared to conventional packages (TO-263-7L) with equivalent voltage ratings and on-resistance, these new packages ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/rohm-in-mass-2025-12/">Rohm in mass production of SCT40xxDLL series SiC MOSFETs in TOLL packages</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
