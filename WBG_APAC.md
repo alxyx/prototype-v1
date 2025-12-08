@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-08 22:34 UTC_
+_Last updated: 2025-12-08 23:34 UTC_
 
 ## [NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025](https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/)
 **Published:** Mon, 08 Dec 2025 08:50:43 +0000
@@ -15,6 +15,38 @@ _Last updated: 2025-12-08 22:34 UTC_
 
 <p>Tescan's FemtoChisel enhances semiconductor sample preparation workflows with exceptional speed, precision, reproducibility, and quality.</p>
 <p>The post <a href="https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/">Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [PFlow Industries Highlights VRCs for Semiconductor Manufacturing Environments](https://www.semiconductor-digest.com/pflow-industries-highlights-vrcs-for-semiconductor-manufacturing-environments/?utm_source=rss&utm_medium=rss&utm_campaign=pflow-industries-highlights-vrcs-for-semiconductor-manufacturing-environments)
+**Published:** Mon, 08 Dec 2025 23:05:36 +0000
+
+<p>PFlow Industries, the pioneer in vertical reciprocating conveyor (VRC) technology, highlights its VRCs, including the M Series and F Series, for the semiconductor industry.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/pflow-industries-highlights-vrcs-for-semiconductor-manufacturing-environments/">PFlow Industries Highlights VRCs for Semiconductor Manufacturing Environments</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Pfeiffer Vacuum+Fab Solutions at SEMICON Europa 2025](https://www.semiconductor-digest.com/pfeiffer-vacuumfab-solutions-at-semicon-europa-2025/?utm_source=rss&utm_medium=rss&utm_campaign=pfeiffer-vacuumfab-solutions-at-semicon-europa-2025)
+**Published:** Mon, 08 Dec 2025 22:51:54 +0000
+
+<p>Pfeiffer Vacuum+Fab Solutions – a member of the global Busch Group – presented its comprehensive portfolio for the semiconductor industry at SEMICON Europa 2025, which took place from November 18 to 21 in Munich, Germany.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/pfeiffer-vacuumfab-solutions-at-semicon-europa-2025/">Pfeiffer Vacuum+Fab Solutions at SEMICON Europa 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The 2025 MRAM Global Innovation Forum to Showcase MRAM Technology Innovations, Advances, & Research from Industry Experts](https://www.semiconductor-digest.com/the-2025-mram-global-innovation-forum-to-showcase-mram-technology-innovations-advances-research-from-industry-experts/?utm_source=rss&utm_medium=rss&utm_campaign=the-2025-mram-global-innovation-forum-to-showcase-mram-technology-innovations-advances-research-from-industry-experts)
+**Published:** Mon, 08 Dec 2025 22:35:13 +0000
+
+<p>The MRAM Global Innovation Forum is the industry’s premier platform for Magnetoresistive Random Access Memory (MRAM) technology, bringing together leading magnetics experts and researchers from industry and academia to share the latest MRAM advancements.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-2025-mram-global-innovation-forum-to-showcase-mram-technology-innovations-advances-research-from-industry-experts/">The 2025 MRAM Global Innovation Forum to Showcase MRAM Technology Innovations, Advances, &#038; Research from Industry Experts</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Navitas, Cyient Semiconductors Enter Into a Strategic Partnership](https://www.semiconductor-digest.com/navitas-cyient-semiconductors-enter-into-a-strategic-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=navitas-cyient-semiconductors-enter-into-a-strategic-partnership)
+**Published:** Mon, 08 Dec 2025 22:30:20 +0000
+
+<p>Navitas Semiconductor and Cyient Semiconductors Private Limited have announced a strategic long-term partnership intended to advance the adoption of GaN technology in India and establish a complete, end-to-end GaN ecosystem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/navitas-cyient-semiconductors-enter-into-a-strategic-partnership/">Navitas, Cyient Semiconductors Enter Into a Strategic Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,38 +815,6 @@ _Last updated: 2025-12-08 22:34 UTC_
 
 <p>Arteris, Inc. today announced that Blaize has adopted FlexNoC 5 interconnect IP to enhance the performance and scalability of the Blaize AI Platform, a programmable, energy-efficient foundation for hybrid AI deployment models spanning edge and cloud infrastructure.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/blaize-deploys-arteris-noc-ip-to-power-scalable-energy-efficient-edge-ai-solutions/">Blaize Deploys Arteris NoC IP to Power Scalable, Energy-Efficient Edge AI Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: Display Demand Expected to Grow 6% in Area by 2026](https://www.semiconductor-digest.com/omdia-display-demand-expected-to-grow-6-in-area-by-2026/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-display-demand-expected-to-grow-6-in-area-by-2026)
-**Published:** Tue, 11 Nov 2025 18:49:29 +0000
-
-<p>Overall display area demand is projected to grow 6% year-over-year in 2026, according to Omdia’s Display long-term demand forecast tracker.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-display-demand-expected-to-grow-6-in-area-by-2026/">Omdia: Display Demand Expected to Grow 6% in Area by 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Innatera Signs Joya as ODM Customer](https://www.semiconductor-digest.com/innatera-signs-joya-as-odm-customer/?utm_source=rss&utm_medium=rss&utm_campaign=innatera-signs-joya-as-odm-customer)
-**Published:** Tue, 11 Nov 2025 18:42:00 +0000
-
-<p>Partnership will deliver ultra-low-power intelligence for next-gen consumer, IoT, and smart home devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/innatera-signs-joya-as-odm-customer/">Innatera Signs Joya as ODM Customer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [First 2D Semiconductor FPGA Achieves Wafer-Scale Integration Peer-Reviewed Publication](https://www.semiconductor-digest.com/first-2d-semiconductor-fpga-achieves-wafer-scale-integration-peer-reviewed-publication/?utm_source=rss&utm_medium=rss&utm_campaign=first-2d-semiconductor-fpga-achieves-wafer-scale-integration-peer-reviewed-publication)
-**Published:** Mon, 10 Nov 2025 20:10:19 +0000
-
-<p>The global integrated circuit (IC) industry is confronting the physical limitations of Moore's Law.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/first-2d-semiconductor-fpga-achieves-wafer-scale-integration-peer-reviewed-publication/">First 2D Semiconductor FPGA Achieves Wafer-Scale Integration Peer-Reviewed Publication</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [HPE and Partners Launch Quantum Scaling Alliance to Accelerate Quantum Computing Breakthroughs](https://www.semiconductor-digest.com/hpe-and-partners-launch-quantum-scaling-alliance-to-accelerate-quantum-computing-breakthroughs/?utm_source=rss&utm_medium=rss&utm_campaign=hpe-and-partners-launch-quantum-scaling-alliance-to-accelerate-quantum-computing-breakthroughs)
-**Published:** Mon, 10 Nov 2025 19:42:09 +0000
-
-<p>Team combines deep expertise in quantum with leadership in supercomputing and semiconductor design and manufacturing to drive quantum technology into mainstream adoption.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hpe-and-partners-launch-quantum-scaling-alliance-to-accelerate-quantum-computing-breakthroughs/">HPE and Partners Launch Quantum Scaling Alliance to Accelerate Quantum Computing Breakthroughs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
