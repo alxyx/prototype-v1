@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-08 21:34 UTC_
+_Last updated: 2025-12-08 22:34 UTC_
 
 ## [NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025](https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/)
 **Published:** Mon, 08 Dec 2025 08:50:43 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-12-08 21:34 UTC_
 
 <p>Tescan's FemtoChisel enhances semiconductor sample preparation workflows with exceptional speed, precision, reproducibility, and quality.</p>
 <p>The post <a href="https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/">Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Global Semiconductor Alliance Presents Annual Awards](https://www.semiconductor-digest.com/global-semiconductor-alliance-presents-annual-awards/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-alliance-presents-annual-awards)
+**Published:** Mon, 08 Dec 2025 22:12:58 +0000
+
+<p>Last night, the Global Semiconductor Alliance (GSA) celebrated the achievements of remarkable individuals and exceptional semiconductor companies at its annual GSA Awards Ceremony gala.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-alliance-presents-annual-awards/">Global Semiconductor Alliance Presents Annual Awards</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-12-08 21:34 UTC_
 
 <p>Team combines deep expertise in quantum with leadership in supercomputing and semiconductor design and manufacturing to drive quantum technology into mainstream adoption.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/hpe-and-partners-launch-quantum-scaling-alliance-to-accelerate-quantum-computing-breakthroughs/">HPE and Partners Launch Quantum Scaling Alliance to Accelerate Quantum Computing Breakthroughs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ZEISS Microscopy Spotlights Advanced Failure Analysis Technologies at ISTFA](https://www.semiconductor-digest.com/zeiss-microscopy-spotlights-advanced-failure-analysis-technologies-at-istfa/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-microscopy-spotlights-advanced-failure-analysis-technologies-at-istfa)
-**Published:** Mon, 10 Nov 2025 18:52:39 +0000
-
-<p>ZEISS Microscopy will once again make a strong showing at the 51st annual International Symposium for Testing &#038; Failure Analysis (ISTFA), taking place November 16-20, 2025, at the Pasadena Convention Center, in Pasadena, Calif.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/zeiss-microscopy-spotlights-advanced-failure-analysis-technologies-at-istfa/">ZEISS Microscopy Spotlights Advanced Failure Analysis Technologies at ISTFA</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
