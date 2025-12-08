@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-08 13:49 UTC_
+_Last updated: 2025-12-08 14:37 UTC_
 
 ## [NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025](https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/)
 **Published:** Mon, 08 Dec 2025 08:50:43 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-08 13:49 UTC_
 
 ---
 
+## [AOS Supports 800-VDC Power Architecture for Next-Gen AI Factories](https://www.powerelectronicsnews.com/aos-supports-800-vdc-power-architecture-for-next-gen-ai-factories/)
+**Published:** Mon, 08 Dec 2025 14:00:00 +0000
+
+<img alt="AOS Empowers NVIDIA’s 800VDC AI Data Center Vision with Advanced SiC and GaN Power Solutions." class="webfeedsFeaturedVisual wp-post-image" height="1028" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/AOS_800VDC-Powers-AI-Factories_No-txt.jpg?fit=1200%2C1028" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>AOS will contribute its innovative power solutions for data centers to help make the leap from 54 VDC to an Nvidia-led 800-VDC system.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/aos-supports-800-vdc-power-architecture-for-next-gen-ai-factories/">AOS Supports 800-VDC Power Architecture for Next-Gen AI Factories</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Melexis 1,200-V Monolithic Silicon RC Snubber](https://www.powerelectronicsnews.com/melexis-1200-v-monolithic-silicon-rc-snubber/)
 **Published:** Mon, 08 Dec 2025 13:00:00 +0000
 
@@ -890,11 +898,11 @@ _Last updated: 2025-12-08 13:49 UTC_
 
 ---
 
-## [Enphase IQ9 Commercial Microinverter Opens a New Era in Commercial Solar Technology](https://www.powerelectronicsnews.com/enphase-iq9-commercial-microinverter-opens-a-new-era-in-commercial-solar-technology/)
-**Published:** Tue, 02 Dec 2025 08:00:00 +0000
+## [Managing Market Volatility: Rochester Electronics Solutions for Uninterrupted Supply](https://www.eetimes.com/managing-market-volatility-rochester-electronics-solutions-for-uninterrupted-supply/)
+**Published:** Mon, 08 Dec 2025 14:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/Figure-1.jpg?fit=2160%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="2160" /><p>IQ9 is Enphase’s first microinverter based on gallium nitride (GaN) technology, specifically designed for three-phase 480Y/277 V grid configurations without requiring external transformers.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/enphase-iq9-commercial-microinverter-opens-a-new-era-in-commercial-solar-technology/">Enphase IQ9 Commercial Microinverter Opens a New Era in Commercial Solar Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Discover how Rochester Electronics ensures uninterrupted semiconductor supply through authorized sourcing, strategic partnerships, and proactive inventory planning.</p>
+<p>The post <a href="https://www.eetimes.com/managing-market-volatility-rochester-electronics-solutions-for-uninterrupted-supply/">Managing Market Volatility: Rochester Electronics Solutions for Uninterrupted Supply</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
