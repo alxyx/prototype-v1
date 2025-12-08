@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-08 12:57 UTC_
+_Last updated: 2025-12-08 13:49 UTC_
 
 ## [NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025](https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/)
 **Published:** Mon, 08 Dec 2025 08:50:43 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-08 12:57 UTC_
 
 ---
 
+## [Melexis 1,200-V Monolithic Silicon RC Snubber](https://www.powerelectronicsnews.com/melexis-1200-v-monolithic-silicon-rc-snubber/)
+**Published:** Mon, 08 Dec 2025 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="628" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Featured-image.jpg?fit=1200%2C628" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>Melexis debuted its monolithic silicon RC snubber designed explicitly for SiC power modules.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/melexis-1200-v-monolithic-silicon-rc-snubber/">Melexis 1,200-V Monolithic Silicon RC Snubber</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Small Fusion Reactor Energy Sources for Challenging Environments](https://www.powerelectronicsnews.com/small-fusion-reactor-energy-sources-for-challenging-environments/)
 **Published:** Fri, 05 Dec 2025 14:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-12-08 12:57 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/Figure-1.jpg?fit=2160%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="2160" /><p>IQ9 is Enphase’s first microinverter based on gallium nitride (GaN) technology, specifically designed for three-phase 480Y/277 V grid configurations without requiring external transformers.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/enphase-iq9-commercial-microinverter-opens-a-new-era-in-commercial-solar-technology/">Enphase IQ9 Commercial Microinverter Opens a New Era in Commercial Solar Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [PEN’s Power Predictions for 2025: How Do They Stack Up? — Data Centers](https://www.powerelectronicsnews.com/pens-power-predictions-for-2025-how-do-they-stack-up-data-centers/)
-**Published:** Mon, 01 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="208" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/PEN-image.png?fit=568%2C208" style="display: block; margin-bottom: 5px; clear: both;" width="568" /><p>Examining the progress toward advanced data center power distribution, in light of power predictions Power Electronics News made for 2025</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/pens-power-predictions-for-2025-how-do-they-stack-up-data-centers/">PEN’s Power Predictions for 2025: How Do They Stack Up? — Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
