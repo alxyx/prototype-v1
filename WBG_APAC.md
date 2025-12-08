@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-08 19:31 UTC_
+_Last updated: 2025-12-08 20:39 UTC_
 
 ## [NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025](https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/)
 **Published:** Mon, 08 Dec 2025 08:50:43 +0000
@@ -826,6 +826,14 @@ _Last updated: 2025-12-08 19:31 UTC_
 
 ---
 
+## [Microchip’s Digital Power Monitor for Battery-Powered Devices](https://www.powerelectronicsnews.com/microchips-digital-power-monitor-for-battery-powered-devices/)
+**Published:** Mon, 08 Dec 2025 13:30:16 +0000
+
+<img alt="Microchip Unveils Ultra-Efficient Digital Power Monitors for Battery-Powered Devices." class="webfeedsFeaturedVisual wp-post-image" height="569" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Microchip_PAC1x11.jpg?fit=1024%2C569" style="display: block; margin-bottom: 5px; clear: both;" width="1024" /><p>High-accuracy and high-efficiency power monitor technology enables battery-powered designs to sustain longer operational periods under typical conditions.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/microchips-digital-power-monitor-for-battery-powered-devices/">Microchip&#8217;s Digital Power Monitor for Battery-Powered Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Melexis 1,200-V Monolithic Silicon RC Snubber](https://www.powerelectronicsnews.com/melexis-1200-v-monolithic-silicon-rc-snubber/)
 **Published:** Mon, 08 Dec 2025 13:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-12-08 19:31 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/world_outlook_image2.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The coming decade will bring a convergence of digital, biological, environmental, and demographic systems that will strain our institutions.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/the-coming-digital-risk-horizon-why-2035-will-test-our-governance-of-technology/">The Coming Digital Risk Horizon: Why 2035 Will Test Our Governance of Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Bourns new Riedon BRF series precision power foil resistors](https://www.powerelectronicsnews.com/bourns-new-riedon-brf-series-precision-power-foil-resistors/)
-**Published:** Tue, 02 Dec 2025 14:00:00 +0000
-
-<img alt="Bourns Expands High-Performance Portfolio with New Riedon™ BRF Series Precision Power Foil Resistors." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/bourns_brf_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The Riedon BRF Series combines high power handling with tightly controlled TCR performance, enabling highly efficient and dependable energy dissipation in precision electronic circuits.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/bourns-new-riedon-brf-series-precision-power-foil-resistors/">Bourns new Riedon BRF series precision power foil resistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
