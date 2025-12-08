@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-08 11:33 UTC_
+_Last updated: 2025-12-08 12:57 UTC_
 
 ## [NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025](https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/)
 **Published:** Mon, 08 Dec 2025 08:50:43 +0000
@@ -938,24 +938,17 @@ _Last updated: 2025-12-08 11:33 UTC_
 
 ---
 
+## [AI Automation Enters Logistics Frontlines](https://www.electronicsforu.com/news/ai-automation-enters-logistics-frontlines)
+**Published:** Mon, 08 Dec 2025 06:12:24 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/MIT-Pickle-Robot-01-press_0-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new class of trailer-clearing robots is stepping into dock doors, using vision and generative AI to automate one of logistics’ toughest, highest-injury tasks at industrial speeds. Autonomous unloading robots are quickly becoming a fixture at U.S. logistics hubs, taking on one of the most physically punishing jobs in the supply chain: clearing packed trailers [&#8230;]
+
+---
+
 ## [AI System Delivers Glasses Free 3D System](https://www.electronicsforu.com/market-verticals/ai-system-delivers-glasses-free-3d-system)
 **Published:** Fri, 05 Dec 2025 06:33:06 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/bbb-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new AI-driven light-field technique breaks long-standing limits in autostereoscopic displays, bringing wide-angle, glasses-free 3D closer to desktop deployment. A research team in Shanghai has unveiled an autostereoscopic display system that delivers full-parallax, glasses-free 3D on a desktop-scale screenan achievement long considered out of reach due to the constraints of optical physics. The prototype, detailed [&#8230;]
-
----
-
-## [SiC MOSFETs For Ultra Slim Power Systems](https://www.electronicsforu.com/news/sic-mosfets-for-ultra-slim-power-systems)
-**Published:** Fri, 05 Dec 2025 06:01:06 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Screenshot-2025-12-05-112326-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new family of SiC MOSFETs delivers higher thermal performance, increased voltage headroom, and a significantly slimmer footprint aimed at AI servers, PV inverters, ESS units, and next-generation high-density power supplies. As data-center power architectures, AI servers, and compact renewable-energy systems race toward higher power levels, designers are pressed to shrink form factors without compromising [&#8230;]
-
----
-
-## [JOB: Semiconductor Device Modeling Lab Technician At Analog Devices In Bengaluru](https://www.electronicsforu.com/career/semiconductor-device-modeling-lab-technician-analog-devices-bengaluru)
-**Published:** Thu, 04 Dec 2025 08:43:28 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/analog-devices-office-1024x294-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Analog Devices Measure current-voltage and capacitance-voltage characteristics of semiconductor devices at wafer level. Primary Job Duties/Responsibilities Minimum Requirements Preferred Qualifications
 
 ---
 
