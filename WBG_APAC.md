@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-08 07:38 UTC_
+_Last updated: 2025-12-08 08:45 UTC_
 
 ## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
 **Published:** Wed, 03 Dec 2025 23:40:29 +0000
@@ -903,14 +903,6 @@ _Last updated: 2025-12-08 07:38 UTC_
 
 <p>Vicinity Technologies Limited and NXP® Semiconductors today showcased a major advancement in industrial 5G performance at the 5G-ACIA “Industrial 5G Day 2025” held at the Miraikan in Tokyo.</p>
 <p>The post <a href="https://www.eetimes.com/vicinity-technologies-and-nxp-demonstrate-breakthrough-industrial-5g-performance-at-5g-acia-industrial-5g-day-2025-in-tokyo/">Vicinity Technologies and NXP Demonstrate Breakthrough Industrial 5G Performance at 5G-ACIA “Industrial 5G Day 2025” in Tokyo</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Germany Redirects Intel Funds Into New Wave of Semiconductor Projects](https://www.eetimes.com/germany-redirects-intel-funds-into-new-wave-of-semiconductor-projects/)
-**Published:** Wed, 03 Dec 2025 08:00:00 +0000
-
-<p>Germany swiftly reallocates Intel’s chip funds into cutting-edge semiconductor projects, potentially reshaping Europe’s tech sector.</p>
-<p>The post <a href="https://www.eetimes.com/germany-redirects-intel-funds-into-new-wave-of-semiconductor-projects/">Germany Redirects Intel Funds Into New Wave of Semiconductor Projects</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
