@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-09 05:34 UTC_
+_Last updated: 2025-12-09 06:47 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -922,6 +922,14 @@ _Last updated: 2025-12-09 05:34 UTC_
 
 ---
 
+## [October semi sales up 4.7% on September](https://www.electronicsweekly.com/news/business/october-semi-sales-up-4-7-on-september-q-2025-12/)
+**Published:** Tue, 09 Dec 2025 06:14:40 +0000
+
+<p>October semiconductor sales of $72.7 billion were up 4.7% on September ‘s $69.5 billion 27.2%  more than the October 2024 total of $57.2 billion, says the SIA. “Global semiconductor sales ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/october-semi-sales-up-4-7-on-september-q-2025-12/">October semi sales up 4.7% on September</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Infineon enables in-road EV charging](https://www.electronicsweekly.com/news/business/infineon-enables-in-road-ev-charging-2025-12/)
 **Published:** Mon, 08 Dec 2025 06:13:56 +0000
 
@@ -935,14 +943,6 @@ _Last updated: 2025-12-09 05:34 UTC_
 
 <p>ST has added 65 Watt flyback converter in the VIPerGaN series that combines a 700V GaN transistor and quasi-resonant PWM control IC in a single QFN 5&#215;6 package. VIPerGaN65W is ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/market-sectors/power/65w-flyback-converter-2025-12/">65W flyback converter</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Low-noise n-channel JFET](https://www.electronicsweekly.com/news/products/discretes/low-noise-n-channel-jfet-2025-12/)
-**Published:** Fri, 05 Dec 2025 10:02:17 +0000
-
-<p>If you ignore power devices, it is not often that a new discrete semiconductor is announced, but today is one of those days &#8211; albeit for a lamented former low-noise ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/discretes/low-noise-n-channel-jfet-2025-12/">Low-noise n-channel JFET</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
