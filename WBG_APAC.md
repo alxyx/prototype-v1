@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-09 21:32 UTC_
+_Last updated: 2025-12-09 22:34 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -15,6 +15,22 @@ _Last updated: 2025-12-09 21:32 UTC_
 
 <p>NXP Semiconductors emerged as one of the most recognized companies at the EE Asia Awards 2025.</p>
 <p>The post <a href="https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/">NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [CEA-Leti & STMicroelectronics’ Paper at IEDM 2025 Demonstrates Path to Fully Monolithic Silicon RF Front-Ends with 3D Sequential Integration](https://www.semiconductor-digest.com/cea-leti-stmicroelectronics-paper-at-iedm-2025-demonstrates-path-to-fully-monolithic-silicon-rf-front-ends-with-3d-sequential-integration/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-stmicroelectronics-paper-at-iedm-2025-demonstrates-path-to-fully-monolithic-silicon-rf-front-ends-with-3d-sequential-integration)
+**Published:** Tue, 09 Dec 2025 22:00:21 +0000
+
+<p>CEA-Leti and STMicroelectronics today presented results at IEDM 2025 showcasing key enablers for a new high-performance and versatile RF Si platform cointegrating best-in-class active and passive devices used in RF and Optical FEM.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-stmicroelectronics-paper-at-iedm-2025-demonstrates-path-to-fully-monolithic-silicon-rf-front-ends-with-3d-sequential-integration/">CEA-Leti &#038; STMicroelectronics’ Paper at IEDM 2025 Demonstrates Path to Fully Monolithic Silicon RF Front-Ends with 3D Sequential Integration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Empower Semiconductor Expands Global Footprint with New Silicon Valley Headquarters and Munich R&D Office](https://www.semiconductor-digest.com/empower-semiconductor-expands-global-footprint-with-new-silicon-valley-headquarters-and-munich-rd-office/?utm_source=rss&utm_medium=rss&utm_campaign=empower-semiconductor-expands-global-footprint-with-new-silicon-valley-headquarters-and-munich-rd-office)
+**Published:** Tue, 09 Dec 2025 21:33:40 +0000
+
+<p>Scaling a dramatic increase in engineering capacity to meet AI and hyperscaler demand.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/empower-semiconductor-expands-global-footprint-with-new-silicon-valley-headquarters-and-munich-rd-office/">Empower Semiconductor Expands Global Footprint with New Silicon Valley Headquarters and Munich R&#038;D Office</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2025-12-09 21:32 UTC_
 
 <p>Tower’s wafer-scale 3D-IC technology unlocks integration of SiPho and EIC processes for emerging applications such as Co-Packaged Optics, including full support by Cadence design tools to the stacked platform technology.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-announces-new-cpo-foundry-technology/">Tower Semiconductor Announces New CPO Foundry Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SK keyfoundry Accelerates Development of SiC-Based Compound Power Semiconductor Technology](https://www.semiconductor-digest.com/sk-keyfoundry-accelerates-development-of-sic-based-compound-power-semiconductor-technology/?utm_source=rss&utm_medium=rss&utm_campaign=sk-keyfoundry-accelerates-development-of-sic-based-compound-power-semiconductor-technology)
-**Published:** Wed, 12 Nov 2025 20:11:02 +0000
-
-<p>SK keyfoundry, an 8-inch pure-play foundry in Korea, announced that it is accelerating the development of SiC (Silicon Carbide)-based compound power semiconductor technology, bolstering its efforts into the global power semiconductor market.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sk-keyfoundry-accelerates-development-of-sic-based-compound-power-semiconductor-technology/">SK keyfoundry Accelerates Development of SiC-Based Compound Power Semiconductor Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Graphene-Based Solar Cells Used to Power Temperature Sensors](https://www.semiconductor-digest.com/graphene-based-solar-cells-used-to-power-temperature-sensors/?utm_source=rss&utm_medium=rss&utm_campaign=graphene-based-solar-cells-used-to-power-temperature-sensors)
-**Published:** Wed, 12 Nov 2025 20:03:41 +0000
-
-<p>Tests confirm graphene-based energy harvesters can use ambient energy to run ultra-low power sensors — the first hurdle in developing autonomous sensor systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/graphene-based-solar-cells-used-to-power-temperature-sensors/">Graphene-Based Solar Cells Used to Power Temperature Sensors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
