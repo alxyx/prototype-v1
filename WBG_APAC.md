@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-09 15:38 UTC_
+_Last updated: 2025-12-09 16:42 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -911,14 +911,6 @@ _Last updated: 2025-12-09 15:38 UTC_
 
 <p>Emerging trends in semiconductor design make thermal management significantly more complex.</p>
 <p>The post <a href="https://www.eetimes.com/geometry-challenges-in-multidie-thermal-management/">Geometry Challenges in Multidie Thermal Management</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Vicinity Technologies and NXP Demonstrate Breakthrough Industrial 5G Performance at 5G-ACIA “Industrial 5G Day 2025” in Tokyo](https://www.eetimes.com/vicinity-technologies-and-nxp-demonstrate-breakthrough-industrial-5g-performance-at-5g-acia-industrial-5g-day-2025-in-tokyo/)
-**Published:** Thu, 04 Dec 2025 06:57:59 +0000
-
-<p>Vicinity Technologies Limited and NXP® Semiconductors today showcased a major advancement in industrial 5G performance at the 5G-ACIA “Industrial 5G Day 2025” held at the Miraikan in Tokyo.</p>
-<p>The post <a href="https://www.eetimes.com/vicinity-technologies-and-nxp-demonstrate-breakthrough-industrial-5g-performance-at-5g-acia-industrial-5g-day-2025-in-tokyo/">Vicinity Technologies and NXP Demonstrate Breakthrough Industrial 5G Performance at 5G-ACIA “Industrial 5G Day 2025” in Tokyo</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
