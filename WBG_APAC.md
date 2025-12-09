@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-09 17:35 UTC_
+_Last updated: 2025-12-09 18:41 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -903,14 +903,6 @@ _Last updated: 2025-12-09 17:35 UTC_
 
 <p>Discover how Rochester Electronics ensures uninterrupted semiconductor supply through authorized sourcing, strategic partnerships, and proactive inventory planning.</p>
 <p>The post <a href="https://www.eetimes.com/managing-market-volatility-rochester-electronics-solutions-for-uninterrupted-supply/">Managing Market Volatility: Rochester Electronics Solutions for Uninterrupted Supply</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Geometry Challenges in Multidie Thermal Management](https://www.eetimes.com/geometry-challenges-in-multidie-thermal-management/)
-**Published:** Thu, 04 Dec 2025 13:00:00 +0000
-
-<p>Emerging trends in semiconductor design make thermal management significantly more complex.</p>
-<p>The post <a href="https://www.eetimes.com/geometry-challenges-in-multidie-thermal-management/">Geometry Challenges in Multidie Thermal Management</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
