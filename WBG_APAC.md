@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-09 11:34 UTC_
+_Last updated: 2025-12-09 12:58 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -925,7 +925,7 @@ _Last updated: 2025-12-09 11:34 UTC_
 ## [October semi sales up 4.7% on September](https://www.electronicsweekly.com/news/business/october-semi-sales-up-4-7-on-september-q-2025-12/)
 **Published:** Tue, 09 Dec 2025 06:14:40 +0000
 
-<p>October semiconductor sales of $72.7 billion were up 4.7% on September ‘s $69.5 billion 27.2%  more than the October 2024 total of $57.2 billion, says the SIA. “Global semiconductor sales ...</p>
+<p>October semiconductor sales of $72.7 billion were up 4.7% on September&#8217;s $69.5 billion 27.2% more than the October 2024 total of $57.2 billion, says the SIA. “Global semiconductor sales continued ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/october-semi-sales-up-4-7-on-september-q-2025-12/">October semi sales up 4.7% on September</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
@@ -935,14 +935,6 @@ _Last updated: 2025-12-09 11:34 UTC_
 
 <p>Infineon will supply customised  SiC power modules to Electreon,  a provider of dynamic in-road charging technology for EVs. This wireless electric road system (wERS) lets EVs charge wirelessly using inductive ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/infineon-enables-in-road-ev-charging-2025-12/">Infineon enables in-road EV charging</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [65W flyback converter](https://www.electronicsweekly.com/market-sectors/power/65w-flyback-converter-2025-12/)
-**Published:** Mon, 08 Dec 2025 06:08:56 +0000
-
-<p>ST has added 65 Watt flyback converter in the VIPerGaN series that combines a 700V GaN transistor and quasi-resonant PWM control IC in a single QFN 5&#215;6 package. VIPerGaN65W is ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/market-sectors/power/65w-flyback-converter-2025-12/">65W flyback converter</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
