@@ -1,20 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-09 01:54 UTC_
+_Last updated: 2025-12-09 03:33 UTC_
+
+## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
+**Published:** Tue, 09 Dec 2025 03:08:21 +0000
+
+<p>The MIPI A-PHY-based platform enables implementation of high-performance A-PHY connectivity standard in machine vision.</p>
+<p>The post <a href="https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/">Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025](https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/)
 **Published:** Mon, 08 Dec 2025 08:50:43 +0000
 
 <p>NXP Semiconductors emerged as one of the most recognized companies at the EE Asia Awards 2025.</p>
 <p>The post <a href="https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/">NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform](https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/)
-**Published:** Wed, 03 Dec 2025 23:40:29 +0000
-
-<p>Tescan's FemtoChisel enhances semiconductor sample preparation workflows with exceptional speed, precision, reproducibility, and quality.</p>
-<p>The post <a href="https://www.eetasia.com/tescan-expands-semiconductor-portfolio-with-femtosecond-laser-platform/">Tescan Expands Semiconductor Portfolio with Femtosecond Laser Platform</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
