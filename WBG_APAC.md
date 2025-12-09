@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-09 13:50 UTC_
+_Last updated: 2025-12-09 14:37 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -818,6 +818,22 @@ _Last updated: 2025-12-09 13:50 UTC_
 
 ---
 
+## [WBG-Enabled IMDs in Electro-Hydrostatic Actuators](https://www.powerelectronicsnews.com/wbg-enabled-imds-in-electro-hydrostatic-actuators/)
+**Published:** Tue, 09 Dec 2025 14:00:00 +0000
+
+<img alt="Dual redundant EHA for primary flight control surfaces providing hydraulic power to separate pistons in a dual tandem cylinder configuration." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/IMD_picture1.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>With the shift toward electrification, electro-hydrostatic actuators will play an even larger role in next-generation motion systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wbg-enabled-imds-in-electro-hydrostatic-actuators/">WBG-Enabled IMDs in Electro-Hydrostatic Actuators</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Taiyo Yuden Upgrades HVX(-J), HTX(-J) Series for Automotive](https://www.powerelectronicsnews.com/taiyo-yuden-upgrades-hvx-j-htx-j-series-for-automotive/)
+**Published:** Tue, 09 Dec 2025 14:00:00 +0000
+
+<img alt="Taiyo Yuden’s HVX(-J) and HTX(-J) series of polymer hybrid aluminum electrolytic capacitors." class="webfeedsFeaturedVisual wp-post-image" height="471" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Taiyo-yuden-HVX-HTX.png?fit=673%2C471" style="display: block; margin-bottom: 5px; clear: both;" width="673" /><p>Taiyo Yuden’s hybrid capacitors target integration into automotive SiC and GaN power circuits.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/taiyo-yuden-upgrades-hvx-j-htx-j-series-for-automotive/">Taiyo Yuden Upgrades HVX(-J), HTX(-J) Series for Automotive</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [AOS Supports 800-VDC Power Architecture for Next-Gen AI Factories](https://www.powerelectronicsnews.com/aos-supports-800-vdc-power-architecture-for-next-gen-ai-factories/)
 **Published:** Mon, 08 Dec 2025 14:00:00 +0000
 
@@ -879,22 +895,6 @@ _Last updated: 2025-12-09 13:50 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1711" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/DG-matrix-featured.png?fit=2511%2C1711" style="display: block; margin-bottom: 5px; clear: both;" width="2511" /><p>An interview with the co-founders of DG Matrix sheds light on its SiC-based multiport SST backed by multiple patents. </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/a-look-into-the-industrys-first-commercially-available-multiport-sst/">A Look Into the Industry’s First Commercially Available Multiport SST</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Navitas 3300V and 2300V SiC in Die, Discrete, and Module](https://www.powerelectronicsnews.com/navitas-3300v-and-2300v-sic-in-die-discrete-and-module/)
-**Published:** Wed, 03 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="608" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/UHV-SiC-FETs.jpg?fit=1080%2C608" style="display: block; margin-bottom: 5px; clear: both;" width="1080" /><p>Navitas' new UHV SiC use novel trench gate structures to effectively handle common failure modes associated with trench-based MOSFETs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/navitas-3300v-and-2300v-sic-in-die-discrete-and-module/">Navitas 3300V and 2300V SiC in Die, Discrete, and Module</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [The Coming Digital Risk Horizon: Why 2035 Will Test Our Governance of Technology](https://www.powerelectronicsnews.com/the-coming-digital-risk-horizon-why-2035-will-test-our-governance-of-technology/)
-**Published:** Wed, 03 Dec 2025 08:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/world_outlook_image2.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The coming decade will bring a convergence of digital, biological, environmental, and demographic systems that will strain our institutions.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-coming-digital-risk-horizon-why-2035-will-test-our-governance-of-technology/">The Coming Digital Risk Horizon: Why 2035 Will Test Our Governance of Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
