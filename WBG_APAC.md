@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-09 12:58 UTC_
+_Last updated: 2025-12-09 13:50 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -15,6 +15,22 @@ _Last updated: 2025-12-09 12:58 UTC_
 
 <p>NXP Semiconductors emerged as one of the most recognized companies at the EE Asia Awards 2025.</p>
 <p>The post <a href="https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/">NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [The Virtuous Cycle of AI](https://www.semiconductor-digest.com/the-virtuous-cycle-of-ai/?utm_source=rss&utm_medium=rss&utm_campaign=the-virtuous-cycle-of-ai)
+**Published:** Tue, 09 Dec 2025 13:20:04 +0000
+
+<p>Jim Chambers, Vice President, NVIDIA, described how AI is changing chip design, speaking at a recent technology breakfast event hosted by Applied Materials.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-virtuous-cycle-of-ai/">The Virtuous Cycle of AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The $7 Trillion AI Supercycle: From Chips to Data Centers to a New Compute Economy](https://www.semiconductor-digest.com/the-7-trillion-ai-supercycle-from-chips-to-data-centers-to-a-new-compute-economy/?utm_source=rss&utm_medium=rss&utm_campaign=the-7-trillion-ai-supercycle-from-chips-to-data-centers-to-a-new-compute-economy)
+**Published:** Tue, 09 Dec 2025 13:11:34 +0000
+
+<p>An analysis of the current AI infrastructure boom, examining semiconductor demand dynamics, supply chain constraints, and strategic partnerships shaping the industry.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-7-trillion-ai-supercycle-from-chips-to-data-centers-to-a-new-compute-economy/">The $7 Trillion AI Supercycle: From Chips to Data Centers to a New Compute Economy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2025-12-09 12:58 UTC_
 
 <p>Unlocking the full potential of glass core substrates and TGVs are not just about having tools; it is about using them in concert to build a process that is robust, repeatable, and yield optimized. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/through-the-glass-why-the-rapid-development-of-tgv-demands-rigorous-analysis/">Through the Glass: Why the Rapid Development of TGV Demands Rigorous Analysis</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ManpowerGroup and Maricopa Community Colleges Partner to Develop the Next-Generation Semiconductor and Manufacturing Workforce](https://www.semiconductor-digest.com/manpowergroup-and-maricopa-community-colleges-partner-to-develop-the-next-generation-semiconductor-and-manufacturing-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=manpowergroup-and-maricopa-community-colleges-partner-to-develop-the-next-generation-semiconductor-and-manufacturing-workforce)
-**Published:** Tue, 11 Nov 2025 19:59:44 +0000
-
-<p>ManpowerGroup today announced a strategic partnership with Maricopa Community Colleges in Arizona, one of the nation's largest community college systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/manpowergroup-and-maricopa-community-colleges-partner-to-develop-the-next-generation-semiconductor-and-manufacturing-workforce/">ManpowerGroup and Maricopa Community Colleges Partner to Develop the Next-Generation Semiconductor and Manufacturing Workforce</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Blaize Deploys Arteris NoC IP to Power Scalable, Energy-Efficient Edge AI Solutions](https://www.semiconductor-digest.com/blaize-deploys-arteris-noc-ip-to-power-scalable-energy-efficient-edge-ai-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=blaize-deploys-arteris-noc-ip-to-power-scalable-energy-efficient-edge-ai-solutions)
-**Published:** Tue, 11 Nov 2025 19:08:02 +0000
-
-<p>Arteris, Inc. today announced that Blaize has adopted FlexNoC 5 interconnect IP to enhance the performance and scalability of the Blaize AI Platform, a programmable, energy-efficient foundation for hybrid AI deployment models spanning edge and cloud infrastructure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/blaize-deploys-arteris-noc-ip-to-power-scalable-energy-efficient-edge-ai-solutions/">Blaize Deploys Arteris NoC IP to Power Scalable, Energy-Efficient Edge AI Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
