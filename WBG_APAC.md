@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-09 14:37 UTC_
+_Last updated: 2025-12-09 15:38 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-12-09 14:37 UTC_
 
 <p>NXP Semiconductors emerged as one of the most recognized companies at the EE Asia Awards 2025.</p>
 <p>The post <a href="https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/">NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [How RISC-V is Transforming Embedded Systems Design](https://www.semiconductor-digest.com/how-risc-v-is-transforming-embedded-systems-design/?utm_source=rss&utm_medium=rss&utm_campaign=how-risc-v-is-transforming-embedded-systems-design)
+**Published:** Tue, 09 Dec 2025 14:49:47 +0000
+
+<p>RISC-V architecture has emerged as a game-changer, offering flexibility, lower cost, and innovation freedom unimaginable with legacy processors</p>
+<p>The post <a href="https://www.semiconductor-digest.com/how-risc-v-is-transforming-embedded-systems-design/">How RISC-V is Transforming Embedded Systems Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,11 +818,11 @@ _Last updated: 2025-12-09 14:37 UTC_
 
 ---
 
-## [Through the Glass: Why the Rapid Development of TGV Demands Rigorous Analysis](https://www.semiconductor-digest.com/through-the-glass-why-the-rapid-development-of-tgv-demands-rigorous-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=through-the-glass-why-the-rapid-development-of-tgv-demands-rigorous-analysis)
-**Published:** Wed, 12 Nov 2025 14:07:05 +0000
+## [Onsemi offers 650V and 950V EliteSiC MOSFETs in T2PAK](https://www.powerelectronicsnews.com/onsemi-offers-650v-and-950v-elitesic-mosfets-in-t2pak/)
+**Published:** Tue, 09 Dec 2025 15:08:02 +0000
 
-<p>Unlocking the full potential of glass core substrates and TGVs are not just about having tools; it is about using them in concert to build a process that is robust, repeatable, and yield optimized. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/through-the-glass-why-the-rapid-development-of-tgv-demands-rigorous-analysis/">Through the Glass: Why the Rapid Development of TGV Demands Rigorous Analysis</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="675" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/onsemi-T2PAK-Technology.jpg?fit=1200%2C675" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>Onsemi announces the availability of its 650V and 950V EliteSiC in the widely-adopted T2PAK package for top-side cooling. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/onsemi-offers-650v-and-950v-elitesic-mosfets-in-t2pak/">Onsemi offers 650V and 950V EliteSiC MOSFETs in T2PAK</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -887,14 +895,6 @@ _Last updated: 2025-12-09 14:37 UTC_
 
 <img alt="Littelfuse Introduces High-Current X4-Class Power MOSFET." class="webfeedsFeaturedVisual wp-post-image" height="471" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/littelfuse_X4_class.png?fit=768%2C471" style="display: block; margin-bottom: 5px; clear: both;" width="768" /><p>The new X4-Class device improves thermal management, boosts efficiency, and reduces components in energy, charging, drone, and industrial systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/littelfuse-introduces-high-current-x4-class-power-mosfet/">Littelfuse Introduces High-Current X4-Class Power MOSFET</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [A Look Into the Industry’s First Commercially Available Multiport SST](https://www.powerelectronicsnews.com/a-look-into-the-industrys-first-commercially-available-multiport-sst/)
-**Published:** Thu, 04 Dec 2025 13:27:49 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1711" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/DG-matrix-featured.png?fit=2511%2C1711" style="display: block; margin-bottom: 5px; clear: both;" width="2511" /><p>An interview with the co-founders of DG Matrix sheds light on its SiC-based multiport SST backed by multiple patents. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/a-look-into-the-industrys-first-commercially-available-multiport-sst/">A Look Into the Industry’s First Commercially Available Multiport SST</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
