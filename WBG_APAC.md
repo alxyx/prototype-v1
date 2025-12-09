@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-09 06:47 UTC_
+_Last updated: 2025-12-09 07:36 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -946,17 +946,17 @@ _Last updated: 2025-12-09 06:47 UTC_
 
 ---
 
-## [AI Automation Enters Logistics Frontlines](https://www.electronicsforu.com/news/ai-automation-enters-logistics-frontlines)
-**Published:** Mon, 08 Dec 2025 06:12:24 +0000
+## [Sensor Tracks Hundreds Of Particles At Once](https://www.electronicsforu.com/news/sensor-tracks-hundreds-of-particles-at-once)
+**Published:** Tue, 09 Dec 2025 06:41:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/MIT-Pickle-Robot-01-press_0-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new class of trailer-clearing robots is stepping into dock doors, using vision and generative AI to automate one of logistics’ toughest, highest-injury tasks at industrial speeds. Autonomous unloading robots are quickly becoming a fixture at U.S. logistics hubs, taking on one of the most physically punishing jobs in the supply chain: clearing packed trailers [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/ImageForNews_16702_1765174229628610-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A sensor can watch hundreds of tiny particles at the same time. It could make cars, navigation, and even dark matter detection much more accurate. Accurate sensing is critical for autonomous vehicles, navigation systems, environmental monitoring, and fundamental physics research, but current sensors face a persistent limitation. They can either track a single particle quickly [&#8230;]
 
 ---
 
-## [AI System Delivers Glasses Free 3D System](https://www.electronicsforu.com/market-verticals/ai-system-delivers-glasses-free-3d-system)
-**Published:** Fri, 05 Dec 2025 06:33:06 +0000
+## [Simple Solutions For Inrush Current](https://www.electronicsforu.com/news/simple-solutions-for-inrush-current)
+**Published:** Tue, 09 Dec 2025 06:05:15 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/bbb-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new AI-driven light-field technique breaks long-standing limits in autostereoscopic displays, bringing wide-angle, glasses-free 3D closer to desktop deployment. A research team in Shanghai has unveiled an autostereoscopic display system that delivers full-parallax, glasses-free 3D on a desktop-scale screenan achievement long considered out of reach due to the constraints of optical physics. The prototype, detailed [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/bild-teaser-grau-en-6-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Startup surges can damage power systems. These inrush current limiters help control spikes, protect equipment, and save energy in a simple, compact way. Power electronics used in systems like industrial drives, solar inverters, UPS units, and high-wattage power supplies face a common problem: large inrush currents when the system powers on. These sudden current spikes [&#8230;]
 
 ---
 
