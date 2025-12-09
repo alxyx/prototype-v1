@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-09 10:39 UTC_
+_Last updated: 2025-12-09 11:34 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -946,17 +946,24 @@ _Last updated: 2025-12-09 10:39 UTC_
 
 ---
 
+## [JOB: Power Electronics Engineer At Cyient In Bengaluru](https://www.electronicsforu.com/career/power-electronics-engineer-cyient-bengaluru-2)
+**Published:** Tue, 09 Dec 2025 10:36:44 +0000
+
+<img alt="Hardware Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2017/01/jobs-633559_960_720-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Cyient Skills Required Power System Protection, Electrical Power Engineering, Power Systems Reliability, Power Electronics, Power Electronics Design, Power Converters, Power Systems Control
+
+---
+
+## [JOB: ECAD Library Engineer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/ecad-library-engineer-capgemini-bengaluru)
+**Published:** Tue, 09 Dec 2025 10:06:43 +0000
+
+<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini Job Description This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs), printed circuit boards (PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment; [&#8230;]
+
+---
+
 ## [Sensor Tracks Hundreds Of Particles At Once](https://www.electronicsforu.com/news/sensor-tracks-hundreds-of-particles-at-once)
 **Published:** Tue, 09 Dec 2025 06:41:00 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/ImageForNews_16702_1765174229628610-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A sensor can watch hundreds of tiny particles at the same time. It could make cars, navigation, and even dark matter detection much more accurate. Accurate sensing is critical for autonomous vehicles, navigation systems, environmental monitoring, and fundamental physics research, but current sensors face a persistent limitation. They can either track a single particle quickly [&#8230;]
-
----
-
-## [Simple Solutions For Inrush Current](https://www.electronicsforu.com/news/simple-solutions-for-inrush-current)
-**Published:** Tue, 09 Dec 2025 06:05:15 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/bild-teaser-grau-en-6-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Startup surges can damage power systems. These inrush current limiters help control spikes, protect equipment, and save energy in a simple, compact way. Power electronics used in systems like industrial drives, solar inverters, UPS units, and high-wattage power supplies face a common problem: large inrush currents when the system powers on. These sudden current spikes [&#8230;]
 
 ---
 
