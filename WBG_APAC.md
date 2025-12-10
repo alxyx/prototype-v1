@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-10 13:51 UTC_
+_Last updated: 2025-12-10 14:37 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-12-10 13:51 UTC_
 
 <p>NXP Semiconductors emerged as one of the most recognized companies at the EE Asia Awards 2025.</p>
 <p>The post <a href="https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/">NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [China Is Cracking the Global Market for Chip Making Equipment](https://www.semiconductor-digest.com/china-is-cracking-the-global-market-for-chip-making-equipment/?utm_source=rss&utm_medium=rss&utm_campaign=china-is-cracking-the-global-market-for-chip-making-equipment)
+**Published:** Wed, 10 Dec 2025 14:12:52 +0000
+
+<p>A slew of Chinese wafer fab equipment (WFE) vendors has emerged. Even though their global market share remains minuscule, this follows a familiar playbook for ascension to the big time.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/china-is-cracking-the-global-market-for-chip-making-equipment/">China Is Cracking the Global Market for Chip Making Equipment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,11 +818,19 @@ _Last updated: 2025-12-10 13:51 UTC_
 
 ---
 
-## [Tower Semiconductor Announces New CPO Foundry Technology](https://www.semiconductor-digest.com/tower-semiconductor-announces-new-cpo-foundry-technology/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-announces-new-cpo-foundry-technology)
-**Published:** Wed, 12 Nov 2025 20:24:37 +0000
+## [AC Motor Drives Benefit from SiC](https://www.powerelectronicsnews.com/ac-motor-drives-benefit-from-sic/)
+**Published:** Wed, 10 Dec 2025 14:00:00 +0000
 
-<p>Tower’s wafer-scale 3D-IC technology unlocks integration of SiPho and EIC processes for emerging applications such as Co-Packaged Optics, including full support by Cadence design tools to the stacked platform technology.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-announces-new-cpo-foundry-technology/">Tower Semiconductor Announces New CPO Foundry Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="319" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/AC-motor-drives-featured-image.png?fit=369%2C319" style="display: block; margin-bottom: 5px; clear: both;" width="369" /><p>While silicon IGBTs remain dominant in AC motor drives, the performance and cost improvements from SiC make a compelling case for evaluating the overall system benefits.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ac-motor-drives-benefit-from-sic/">AC Motor Drives Benefit from SiC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [e-peas Introduces the AEM15820 Energy Harvesting PMIC](https://www.powerelectronicsnews.com/e-peas-introduces-the-aem15820-energy-harvesting-pmic/)
+**Published:** Wed, 10 Dec 2025 14:00:00 +0000
+
+<img alt="e-peas Introduces the new AEM15820 Energy Harvesting PMIC." class="webfeedsFeaturedVisual wp-post-image" height="1890" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/ePeas_PR.png?fit=1890%2C1890" style="display: block; margin-bottom: 5px; clear: both;" width="1890" /><p>The new AEM15820 PMIC supports energy harvesting from lighting conditions ranging from indoor illumination to full outdoor sunlight.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/e-peas-introduces-the-aem15820-energy-harvesting-pmic/">e-peas Introduces the AEM15820 Energy Harvesting PMIC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,27 +898,19 @@ _Last updated: 2025-12-10 13:51 UTC_
 
 ---
 
-## [SiC-Based Multiport SST, Enphase IQ9 Microinverter, PEN’s Power Prediction for 2025: Power Electronics Week Insights](https://www.powerelectronicsnews.com/sic-based-multiport-sst-enphase-iq9-microinverter-pens-power-prediction-for-2025-power-electronics-week-insights/)
-**Published:** Fri, 05 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on SiC-Based Multiport SST, Enphase IQ9 Microinverter, and PEN’s Power Prediction for 2025!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/sic-based-multiport-sst-enphase-iq9-microinverter-pens-power-prediction-for-2025-power-electronics-week-insights/">SiC-Based Multiport SST, Enphase IQ9 Microinverter, PEN’s Power Prediction for 2025: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Littelfuse Introduces High-Current X4-Class Power MOSFET](https://www.powerelectronicsnews.com/littelfuse-introduces-high-current-x4-class-power-mosfet/)
-**Published:** Thu, 04 Dec 2025 14:00:00 +0000
-
-<img alt="Littelfuse Introduces High-Current X4-Class Power MOSFET." class="webfeedsFeaturedVisual wp-post-image" height="471" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/littelfuse_X4_class.png?fit=768%2C471" style="display: block; margin-bottom: 5px; clear: both;" width="768" /><p>The new X4-Class device improves thermal management, boosts efficiency, and reduces components in energy, charging, drone, and industrial systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/littelfuse-introduces-high-current-x4-class-power-mosfet/">Littelfuse Introduces High-Current X4-Class Power MOSFET</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Managing Market Volatility: Rochester Electronics Solutions for Uninterrupted Supply](https://www.eetimes.com/managing-market-volatility-rochester-electronics-solutions-for-uninterrupted-supply/)
 **Published:** Mon, 08 Dec 2025 14:00:00 +0000
 
 <p>Discover how Rochester Electronics ensures uninterrupted semiconductor supply through authorized sourcing, strategic partnerships, and proactive inventory planning.</p>
 <p>The post <a href="https://www.eetimes.com/managing-market-volatility-rochester-electronics-solutions-for-uninterrupted-supply/">Managing Market Volatility: Rochester Electronics Solutions for Uninterrupted Supply</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Q3 datacentre infrastructure market grew 18% YoY](https://www.electronicsweekly.com/news/business/q3-datacentre-infrastructure-market-grew-18-yoy-2025-12/)
+**Published:** Wed, 10 Dec 2025 13:12:05 +0000
+
+<p>The Data Centre Physical Infrastructure (DCPI) market grew 18% YoY in 3Q 2025 in manufacturer revenue, says Dell’Oro. Momentum remained broad-based, supported by strong AI infrastructure buildouts and the steady ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/q3-datacentre-infrastructure-market-grew-18-yoy-2025-12/">Q3 datacentre infrastructure market grew 18% YoY</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
