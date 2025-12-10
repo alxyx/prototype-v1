@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-10 15:45 UTC_
+_Last updated: 2025-12-10 16:42 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-10 15:45 UTC_
 
 ---
 
+## [SemiQ Expands 1200 V QSiC Gen3 Portfolio](https://www.powerelectronicsnews.com/semiq-expands-1200-v-qsic-gen3-portfolio/)
+**Published:** Wed, 10 Dec 2025 16:06:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1932" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/SemiQ-MOSFETs.jpg?fit=3000%2C1932" style="display: block; margin-bottom: 5px; clear: both;" width="3000" /><p>SemiQ expands 1200 V QSiC Gen3 portfolio with six-pack B2, full-bridge B3, and half-bridge S3 power modules.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/semiq-expands-1200-v-qsic-gen3-portfolio/">SemiQ Expands 1200 V QSiC Gen3 Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [AC Motor Drives Benefit from SiC](https://www.powerelectronicsnews.com/ac-motor-drives-benefit-from-sic/)
 **Published:** Wed, 10 Dec 2025 14:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-12-10 15:45 UTC_
 
 <img alt="Fusion energy." class="webfeedsFeaturedVisual wp-post-image" height="2356" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/01/shutterstock_1227530656.jpg?fit=5000%2C2356" style="display: block; margin-bottom: 5px; clear: both;" width="5000" /><p>This article introduces some concepts behind a small fusion reactor, called Orbitron, that has been proposed by Avalanche Energy.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/small-fusion-reactor-energy-sources-for-challenging-environments/">Small Fusion Reactor Energy Sources for Challenging Environments</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ST’s New 65W VIPerGaN Flyback Converter](https://www.powerelectronicsnews.com/st-expands-gan-portfolio-with-new-65w-vipergan-flyback-converter-in-pqfn-package/)
-**Published:** Fri, 05 Dec 2025 14:00:00 +0000
-
-<img alt="ST Expands GaN Portfolio with New 65W VIPerGaN Flyback Converter in PQFN Package." class="webfeedsFeaturedVisual wp-post-image" height="2000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/ST_ViperGaN.jpg?fit=2000%2C2000" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>The new VIPerGaN65W enables designers to create efficient, cost-effective USB-PD chargers, fast battery chargers, and auxiliary power supplies.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-expands-gan-portfolio-with-new-65w-vipergan-flyback-converter-in-pqfn-package/">ST&#8217;s New 65W VIPerGaN Flyback Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
