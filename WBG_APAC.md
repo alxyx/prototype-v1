@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-10 14:37 UTC_
+_Last updated: 2025-12-10 15:45 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -895,6 +895,14 @@ _Last updated: 2025-12-10 14:37 UTC_
 
 <img alt="ST Expands GaN Portfolio with New 65W VIPerGaN Flyback Converter in PQFN Package." class="webfeedsFeaturedVisual wp-post-image" height="2000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/ST_ViperGaN.jpg?fit=2000%2C2000" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>The new VIPerGaN65W enables designers to create efficient, cost-effective USB-PD chargers, fast battery chargers, and auxiliary power supplies.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/st-expands-gan-portfolio-with-new-65w-vipergan-flyback-converter-in-pqfn-package/">ST&#8217;s New 65W VIPerGaN Flyback Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [How AI and Virtual Twins Can Supercharge Semiconductor Yield](https://www.eetimes.com/how-ai-and-virtual-twins-can-supercharge-semiconductor-yield/)
+**Published:** Wed, 10 Dec 2025 14:30:00 +0000
+
+<p>At the heart of every connected device, from the smartphone to the powerful AI data server, are semiconductors. Over the years, the semiconductor has evolved into a complex labyrinth of 3D structures and tight process integrations to accommodate the billions of transistors it houses. The broad reach of semiconductors in so many facets of our [&#8230;]</p>
+<p>The post <a href="https://www.eetimes.com/how-ai-and-virtual-twins-can-supercharge-semiconductor-yield/">How AI and Virtual Twins Can Supercharge Semiconductor Yield</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
