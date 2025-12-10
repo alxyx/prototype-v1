@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-10 18:44 UTC_
+_Last updated: 2025-12-10 19:32 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-10 18:44 UTC_
 
 ---
 
+## [PowerUP Circuit Lab: TI’s LP-MSPM0G3519 LaunchPad development kit](https://www.powerelectronicsnews.com/powerup-circuit-lab-tis-lp-mspm0g3519-launchpad-development-kit/)
+**Published:** Wed, 10 Dec 2025 19:04:37 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/TI-poweruplab.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>We explore the LPM-MSPM0G3519 LaunchPad development kit, a feature-rich platform built around TI’s MSPM0G3519 ARM Cortex-M0+ microcontroller. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/powerup-circuit-lab-tis-lp-mspm0g3519-launchpad-development-kit/">PowerUP Circuit Lab: TI’s LP-MSPM0G3519 LaunchPad development kit</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [SemiQ Expands 1200 V QSiC Gen3 Portfolio](https://www.powerelectronicsnews.com/semiq-expands-1200-v-qsic-gen3-portfolio/)
 **Published:** Wed, 10 Dec 2025 16:06:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-12-10 18:44 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="628" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Featured-image.jpg?fit=1200%2C628" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>Melexis debuted its monolithic silicon RC snubber designed explicitly for SiC power modules.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/melexis-1200-v-monolithic-silicon-rc-snubber/">Melexis 1,200-V Monolithic Silicon RC Snubber</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Small Fusion Reactor Energy Sources for Challenging Environments](https://www.powerelectronicsnews.com/small-fusion-reactor-energy-sources-for-challenging-environments/)
-**Published:** Fri, 05 Dec 2025 14:00:00 +0000
-
-<img alt="Fusion energy." class="webfeedsFeaturedVisual wp-post-image" height="2356" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/01/shutterstock_1227530656.jpg?fit=5000%2C2356" style="display: block; margin-bottom: 5px; clear: both;" width="5000" /><p>This article introduces some concepts behind a small fusion reactor, called Orbitron, that has been proposed by Avalanche Energy.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/small-fusion-reactor-energy-sources-for-challenging-environments/">Small Fusion Reactor Energy Sources for Challenging Environments</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
