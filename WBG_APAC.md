@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-10 21:35 UTC_
+_Last updated: 2025-12-10 22:34 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-12-10 21:35 UTC_
 
 <p>NXP Semiconductors emerged as one of the most recognized companies at the EE Asia Awards 2025.</p>
 <p>The post <a href="https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/">NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Quobly Marks a New Milestone Towards Industrialization](https://www.semiconductor-digest.com/quobly-marks-a-new-milestone-towards-industrialization/?utm_source=rss&utm_medium=rss&utm_campaign=quobly-marks-a-new-milestone-towards-industrialization)
+**Published:** Wed, 10 Dec 2025 21:46:44 +0000
+
+<p>Quobly announced a major milestone in building its industrial value chain, with the first custom 28Si FD-SOI wafers provided by Soitec now cycling inside STMicroelectronics’ 300mm manufacturing facilities in Crolles (France).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/quobly-marks-a-new-milestone-towards-industrialization/">Quobly Marks a New Milestone Towards Industrialization</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-12-10 21:35 UTC_
 
 <p>The additional tens of millions in strategic funding bring Classiq’s total funding to over $200 million, reflecting confidence from global technology and finance leaders in its enterprise-grade quantum software platform.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ionq-amd-and-qualcomm-ventures-join-classiq-strategic-up-round/">IonQ, AMD and Qualcomm Ventures Join Classiq Strategic Up-Round</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Micron Ships Automotive UFS 4.1, Designed to Unlock Intelligent Mobility With Speed, Safety and Reliability](https://www.semiconductor-digest.com/micron-ships-automotive-ufs-4-1-designed-to-unlock-intelligent-mobility-with-speed-safety-and-reliability/?utm_source=rss&utm_medium=rss&utm_campaign=micron-ships-automotive-ufs-4-1-designed-to-unlock-intelligent-mobility-with-speed-safety-and-reliability)
-**Published:** Thu, 13 Nov 2025 20:14:46 +0000
-
-<p>Micron Technology, Inc. today announced shipping of qualification samples of its automotive universal flash storage (UFS) 4.1 solution to customers worldwide, enabling rapid data access, robust reliability and enhanced safety and security for next-generation vehicles.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-ships-automotive-ufs-4-1-designed-to-unlock-intelligent-mobility-with-speed-safety-and-reliability/">Micron Ships Automotive UFS 4.1, Designed to Unlock Intelligent Mobility With Speed, Safety and Reliability</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
