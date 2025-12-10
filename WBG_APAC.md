@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-10 20:39 UTC_
+_Last updated: 2025-12-10 21:35 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -15,6 +15,22 @@ _Last updated: 2025-12-10 20:39 UTC_
 
 <p>NXP Semiconductors emerged as one of the most recognized companies at the EE Asia Awards 2025.</p>
 <p>The post <a href="https://www.eetasia.com/nxp-extends-system-level-leadership-across-automotive-ai-and-wireless-at-ee-asia-awards-2025/">NXP Extends System-Level Leadership Across Automotive, AI, and Wireless at EE Asia Awards 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Lumotive Expands Global Footprint and Adds Key Leaders Amid Growing Demand for Programmable Optical Semiconductors](https://www.semiconductor-digest.com/lumotive-expands-global-footprint-and-adds-key-leaders-amid-growing-demand-for-programmable-optical-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=lumotive-expands-global-footprint-and-adds-key-leaders-amid-growing-demand-for-programmable-optical-semiconductors)
+**Published:** Wed, 10 Dec 2025 21:21:06 +0000
+
+<p>New leadership and global expansion position Lumotive to define the next phase of growth in robotics, automation, and smart infrastructure.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lumotive-expands-global-footprint-and-adds-key-leaders-amid-growing-demand-for-programmable-optical-semiconductors/">Lumotive Expands Global Footprint and Adds Key Leaders Amid Growing Demand for Programmable Optical Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [BrainChip Announces $25 Million Funding Ahead of CES to Power Next-Gen Edge AI](https://www.semiconductor-digest.com/brainchip-announces-funding-ahead-of-ces/?utm_source=rss&utm_medium=rss&utm_campaign=brainchip-announces-funding-ahead-of-ces)
+**Published:** Wed, 10 Dec 2025 21:14:05 +0000
+
+<p>BrainChip Holdings Ltd. secured a capital raise of $25 million to fuel the development and commercialization of its neuromorphic AI technology and expansion of its product offerings in chips and modules.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/brainchip-announces-funding-ahead-of-ces/">BrainChip Announces $25 Million Funding Ahead of CES to Power Next-Gen Edge AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2025-12-10 20:39 UTC_
 
 <p>Micron Technology, Inc. today announced shipping of qualification samples of its automotive universal flash storage (UFS) 4.1 solution to customers worldwide, enabling rapid data access, robust reliability and enhanced safety and security for next-generation vehicles.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/micron-ships-automotive-ufs-4-1-designed-to-unlock-intelligent-mobility-with-speed-safety-and-reliability/">Micron Ships Automotive UFS 4.1, Designed to Unlock Intelligent Mobility With Speed, Safety and Reliability</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [3D-Micromac Introduces Next-Generation Laser Sample Preparation Platform](https://www.semiconductor-digest.com/3d-micromac-introduces-next-generation-laser-sample-preparation-platform-for-whole-semiconductor-wafer-and-system-level-failure-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=3d-micromac-introduces-next-generation-laser-sample-preparation-platform-for-whole-semiconductor-wafer-and-system-level-failure-analysis)
-**Published:** Thu, 13 Nov 2025 19:17:56 +0000
-
-<p>microPREP L delivers unmatched sample size scalability, high throughput and precision, and automation-ready workflows for advanced semiconductor failure analysis.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/3d-micromac-introduces-next-generation-laser-sample-preparation-platform-for-whole-semiconductor-wafer-and-system-level-failure-analysis/">3D-Micromac Introduces Next-Generation Laser Sample Preparation Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Photolithography Materials Market Growth](https://www.semiconductor-digest.com/photolithography-materials-market-growth/?utm_source=rss&utm_medium=rss&utm_campaign=photolithography-materials-market-growth)
-**Published:** Thu, 13 Nov 2025 19:09:49 +0000
-
-<p>Continuing growth of EUV and advanced node demand.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/photolithography-materials-market-growth/">Photolithography Materials Market Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
