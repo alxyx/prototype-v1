@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-10 16:42 UTC_
+_Last updated: 2025-12-10 17:37 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -911,6 +911,14 @@ _Last updated: 2025-12-10 16:42 UTC_
 
 <p>Discover how Rochester Electronics ensures uninterrupted semiconductor supply through authorized sourcing, strategic partnerships, and proactive inventory planning.</p>
 <p>The post <a href="https://www.eetimes.com/managing-market-volatility-rochester-electronics-solutions-for-uninterrupted-supply/">Managing Market Volatility: Rochester Electronics Solutions for Uninterrupted Supply</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [£850,000 for no-metal flow battery spin-out](https://www.electronicsweekly.com/news/business/850000-for-no-metal-flow-battery-spin-out-2025-12/)
+**Published:** Wed, 10 Dec 2025 16:08:19 +0000
+
+<p>Cambridge University spin-out Kodiaq Technologies has pulled in £850,000 towards developing its organic electrolytes for metal-free flow batteries. The money comes from &#8220;over twenty high-net-worth investors&#8221;, according to the company. ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/850000-for-no-metal-flow-battery-spin-out-2025-12/">£850,000 for no-metal flow battery spin-out</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
