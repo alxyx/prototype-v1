@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-10 11:33 UTC_
+_Last updated: 2025-12-10 12:58 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -906,32 +906,24 @@ _Last updated: 2025-12-10 11:33 UTC_
 
 ---
 
-## [October semi sales up 4.7% on September](https://www.electronicsweekly.com/news/business/october-semi-sales-up-4-7-on-september-q-2025-12/)
-**Published:** Tue, 09 Dec 2025 06:14:40 +0000
+## [JOB: Hardware Design Engineer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/hardware-design-engineer-capgemini-bengaluru)
+**Published:** Wed, 10 Dec 2025 11:15:17 +0000
 
-<p>October semiconductor sales of $72.7 billion were up 4.7% on September&#8217;s $69.5 billion 27.2% more than the October 2024 total of $57.2 billion, says the SIA. “Global semiconductor sales continued ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/october-semi-sales-up-4-7-on-september-q-2025-12/">October semi sales up 4.7% on September</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [JOB: Power Electronics Engineer At Cyient In Bengaluru](https://www.electronicsforu.com/career/power-electronics-engineer-cyient-bengaluru-2)
-**Published:** Tue, 09 Dec 2025 10:36:44 +0000
-
-<img alt="Hardware Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2017/01/jobs-633559_960_720-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Cyient Skills Required Power System Protection, Electrical Power Engineering, Power Systems Reliability, Power Electronics, Power Electronics Design, Power Converters, Power Systems Control
+<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic&#160;programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs), printed circuit boards (PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment. Job Description [&#8230;]
 
 ---
 
-## [JOB: ECAD Library Engineer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/ecad-library-engineer-capgemini-bengaluru)
-**Published:** Tue, 09 Dec 2025 10:06:43 +0000
+## [Ultra Compact Encoder Enhances Precision](https://www.electronicsforu.com/news/ultra-compact-encoder-enhances-precision)
+**Published:** Wed, 10 Dec 2025 08:11:36 +0000
 
-<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini Job Description This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs), printed circuit boards (PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment; [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/faulhaber_ierf3_1500x1200px-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new miniature incremental encoder brings metrology-grade precision to space-restricted motion systems, offering high repeatability, clean signal output, and robust performance in demanding optical, semiconductor, and automation environments. A new incremental optical encoder by FAULHABER GROUP has entered the motion-control market, space constraints collide. The device delivers 0.1° positioning accuracy and 0.007° repeatability, positioning it [&#8230;]
 
 ---
 
-## [Sensor Tracks Hundreds Of Particles At Once](https://www.electronicsforu.com/news/sensor-tracks-hundreds-of-particles-at-once)
-**Published:** Tue, 09 Dec 2025 06:41:00 +0000
+## [Ultrafast Full Wafer Thickness Mapping](https://www.electronicsforu.com/news/ultrafast-full-wafer-thickness-mapping)
+**Published:** Wed, 10 Dec 2025 06:39:46 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/ImageForNews_16702_1765174229628610-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A sensor can watch hundreds of tiny particles at the same time. It could make cars, navigation, and even dark matter detection much more accurate. Accurate sensing is critical for autonomous vehicles, navigation systems, environmental monitoring, and fundamental physics research, but current sensors face a persistent limitation. They can either track a single particle quickly [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/np-2-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new film-thickness measurement system promises to collapse wafer inspection times&#160; delivering full 300 mm-wafer thickness maps in under a heartbeat and boosting throughput for semiconductor fabs. The latest entrant to wafer metrology is a thickness measurement device from Hamamatsu Photonics that promises to transform semiconductor process control. The new system delivers full-surface thickness distribution [&#8230;]
 
 ---
 
