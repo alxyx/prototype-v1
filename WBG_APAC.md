@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-11 11:33 UTC_
+_Last updated: 2025-12-11 13:01 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -895,14 +895,6 @@ _Last updated: 2025-12-11 11:33 UTC_
 
 <p>At the heart of every connected device, from the smartphone to the powerful AI data server, are semiconductors. Over the years, the semiconductor has evolved into a complex labyrinth of 3D structures and tight process integrations to accommodate the billions of transistors it houses. The broad reach of semiconductors in so many facets of our [&#8230;]</p>
 <p>The post <a href="https://www.eetimes.com/how-ai-and-virtual-twins-can-supercharge-semiconductor-yield/">How AI and Virtual Twins Can Supercharge Semiconductor Yield</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Managing Market Volatility: Rochester Electronics Solutions for Uninterrupted Supply](https://www.eetimes.com/managing-market-volatility-rochester-electronics-solutions-for-uninterrupted-supply/)
-**Published:** Mon, 08 Dec 2025 14:00:00 +0000
-
-<p>Discover how Rochester Electronics ensures uninterrupted semiconductor supply through authorized sourcing, strategic partnerships, and proactive inventory planning.</p>
-<p>The post <a href="https://www.eetimes.com/managing-market-volatility-rochester-electronics-solutions-for-uninterrupted-supply/">Managing Market Volatility: Rochester Electronics Solutions for Uninterrupted Supply</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
