@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-11 04:48 UTC_
+_Last updated: 2025-12-11 05:37 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -933,13 +933,6 @@ _Last updated: 2025-12-11 04:48 UTC_
 **Published:** Wed, 10 Dec 2025 08:11:36 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/faulhaber_ierf3_1500x1200px-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new miniature incremental encoder brings metrology-grade precision to space-restricted motion systems, offering high repeatability, clean signal output, and robust performance in demanding optical, semiconductor, and automation environments. A new incremental optical encoder by FAULHABER GROUP has entered the motion-control market, space constraints collide. The device delivers 0.1° positioning accuracy and 0.007° repeatability, positioning it [&#8230;]
-
----
-
-## [Ultrafast Full Wafer Thickness Mapping](https://www.electronicsforu.com/news/ultrafast-full-wafer-thickness-mapping)
-**Published:** Wed, 10 Dec 2025 06:39:46 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/np-2-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new film-thickness measurement system promises to collapse wafer inspection times&#160; delivering full 300 mm-wafer thickness maps in under a heartbeat and boosting throughput for semiconductor fabs. The latest entrant to wafer metrology is a thickness measurement device from Hamamatsu Photonics that promises to transform semiconductor process control. The new system delivers full-surface thickness distribution [&#8230;]
 
 ---
 
