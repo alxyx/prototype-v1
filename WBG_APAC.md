@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-11 13:53 UTC_
+_Last updated: 2025-12-11 14:38 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -810,6 +810,38 @@ _Last updated: 2025-12-11 13:53 UTC_
 
 ---
 
+## [TDK Corporation Launches Advanced S Series of High-Power Inrush Current Limiters](https://www.powerelectronicsnews.com/tdk-corporation-launches-advanced-s-series-of-high-power-inrush-current-limiters/)
+**Published:** Thu, 11 Dec 2025 14:26:36 +0000
+
+<img alt="TDK Corporation Launches Advanced S Series High-Power Inrush Current Limiters." class="webfeedsFeaturedVisual wp-post-image" height="1605" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/bild-w-background-en-data.png?fit=2400%2C1605" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The components provide reliable inrush current limiters performance for switch-mode supplies, frequency converters, photovoltaic inverters, UPS units, and soft-start motors.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tdk-corporation-launches-advanced-s-series-of-high-power-inrush-current-limiters/">TDK Corporation Launches Advanced S Series of High-Power Inrush Current Limiters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Danisense, Current/OS Foundation Partner for the Future of DC Installations](https://www.powerelectronicsnews.com/danisense-current-os-foundation-partner-for-the-future-of-dc-installations/)
+**Published:** Thu, 11 Dec 2025 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/AdobeStock_1269805355.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>Danisense and the Current/OS Foundation have established an open, nonprofit partnership to ensure reliable and sustainable AC/DC hybrid power distribution in buildings and facilities.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/danisense-current-os-foundation-partner-for-the-future-of-dc-installations/">Danisense, Current/OS Foundation Partner for the Future of DC Installations</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [XP Power Brings Digital Control to the High-Voltage Power Supply Territory](https://www.powerelectronicsnews.com/exploring-xp-powers-wbq-series-of-10-kw-power-supply/)
+**Published:** Thu, 11 Dec 2025 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="562" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/WBG-series.png?fit=1193%2C562" style="display: block; margin-bottom: 5px; clear: both;" width="1193" /><p>The XP Power SiC 10-kW PSU uses a high-voltage digital control loop for on-the-fly adjustments that previously required manual intervention.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/exploring-xp-powers-wbq-series-of-10-kw-power-supply/">XP Power Brings Digital Control to the High-Voltage Power Supply Territory</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Diodes Inc. Launches Programmable 5.5V/4A Buck Converter](https://www.powerelectronicsnews.com/diodes-inc-launches-programmable-5-5v-4a-buck-converter/)
+**Published:** Thu, 11 Dec 2025 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="623" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/05/shutterstock_2141153287.jpg?fit=1000%2C623" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Diodes Inc. launches programmable 5.5V/4A buck converter with I2C interface for tightly-integrated automotive point-of-load (PoL) designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/diodes-inc-launches-programmable-5-5v-4a-buck-converter/">Diodes Inc. Launches Programmable 5.5V/4A Buck Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [PowerUP Circuit Lab: TI’s LP-MSPM0G3519 LaunchPad development kit](https://www.powerelectronicsnews.com/powerup-circuit-lab-tis-lp-mspm0g3519-launchpad-development-kit/)
 **Published:** Wed, 10 Dec 2025 19:04:37 +0000
 
@@ -855,38 +887,6 @@ _Last updated: 2025-12-11 13:53 UTC_
 
 <img alt="Dual redundant EHA for primary flight control surfaces providing hydraulic power to separate pistons in a dual tandem cylinder configuration." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/IMD_picture1.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>With the shift toward electrification, electro-hydrostatic actuators will play an even larger role in next-generation motion systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/wbg-enabled-imds-in-electro-hydrostatic-actuators/">WBG-Enabled IMDs in Electro-Hydrostatic Actuators</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Taiyo Yuden Upgrades HVX(-J), HTX(-J) Series for Automotive](https://www.powerelectronicsnews.com/taiyo-yuden-upgrades-hvx-j-htx-j-series-for-automotive/)
-**Published:** Tue, 09 Dec 2025 14:00:00 +0000
-
-<img alt="Taiyo Yuden’s HVX(-J) and HTX(-J) series of polymer hybrid aluminum electrolytic capacitors." class="webfeedsFeaturedVisual wp-post-image" height="471" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Taiyo-yuden-HVX-HTX.png?fit=673%2C471" style="display: block; margin-bottom: 5px; clear: both;" width="673" /><p>Taiyo Yuden’s hybrid capacitors target integration into automotive SiC and GaN power circuits.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/taiyo-yuden-upgrades-hvx-j-htx-j-series-for-automotive/">Taiyo Yuden Upgrades HVX(-J), HTX(-J) Series for Automotive</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [AOS Supports 800-VDC Power Architecture for Next-Gen AI Factories](https://www.powerelectronicsnews.com/aos-supports-800-vdc-power-architecture-for-next-gen-ai-factories/)
-**Published:** Mon, 08 Dec 2025 14:00:00 +0000
-
-<img alt="AOS Empowers NVIDIA’s 800VDC AI Data Center Vision with Advanced SiC and GaN Power Solutions." class="webfeedsFeaturedVisual wp-post-image" height="1028" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/AOS_800VDC-Powers-AI-Factories_No-txt.jpg?fit=1200%2C1028" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>AOS will contribute its innovative power solutions for data centers to help make the leap from 54 VDC to an Nvidia-led 800-VDC system.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/aos-supports-800-vdc-power-architecture-for-next-gen-ai-factories/">AOS Supports 800-VDC Power Architecture for Next-Gen AI Factories</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Microchip’s Digital Power Monitor for Battery-Powered Devices](https://www.powerelectronicsnews.com/microchips-digital-power-monitor-for-battery-powered-devices/)
-**Published:** Mon, 08 Dec 2025 13:30:16 +0000
-
-<img alt="Microchip Unveils Ultra-Efficient Digital Power Monitors for Battery-Powered Devices." class="webfeedsFeaturedVisual wp-post-image" height="569" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Microchip_PAC1x11.jpg?fit=1024%2C569" style="display: block; margin-bottom: 5px; clear: both;" width="1024" /><p>High-accuracy and high-efficiency power monitor technology enables battery-powered designs to sustain longer operational periods under typical conditions.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/microchips-digital-power-monitor-for-battery-powered-devices/">Microchip&#8217;s Digital Power Monitor for Battery-Powered Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Melexis 1,200-V Monolithic Silicon RC Snubber](https://www.powerelectronicsnews.com/melexis-1200-v-monolithic-silicon-rc-snubber/)
-**Published:** Mon, 08 Dec 2025 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="628" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Featured-image.jpg?fit=1200%2C628" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>Melexis debuted its monolithic silicon RC snubber designed explicitly for SiC power modules.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/melexis-1200-v-monolithic-silicon-rc-snubber/">Melexis 1,200-V Monolithic Silicon RC Snubber</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
