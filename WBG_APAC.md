@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-11 21:37 UTC_
+_Last updated: 2025-12-11 22:35 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
 
 <p>The MIPI A-PHY-based platform enables implementation of high-performance A-PHY connectivity standard in machine vision.</p>
 <p>The post <a href="https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/">Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Mitsubishi Chemical Group and Boston Materials Form Strategic Collaboration](https://www.semiconductor-digest.com/mitsubishi-chemical-group-and-boston-materials-form-strategic-collaboration-to-advance-semiconductor-packaging-with-breakthrough-liquid-metal-thermal-materials/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-chemical-group-and-boston-materials-form-strategic-collaboration-to-advance-semiconductor-packaging-with-breakthrough-liquid-metal-thermal-materials)
+**Published:** Thu, 11 Dec 2025 21:29:17 +0000
+
+<p>Mitsubishi Chemical Group (MCG), a global provider of advanced materials, and Boston Materials, Inc., a manufacturer of advanced energy transfer materials, today announced a strategic collaboration.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/mitsubishi-chemical-group-and-boston-materials-form-strategic-collaboration-to-advance-semiconductor-packaging-with-breakthrough-liquid-metal-thermal-materials/">Mitsubishi Chemical Group and Boston Materials Form Strategic Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMICON Korea 2026 to Showcase Core Semiconductor Technologies for the AI Era](https://www.semiconductor-digest.com/semicon-korea-2026-to-showcase-core-semiconductor-technologies-for-the-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-korea-2026-to-showcase-core-semiconductor-technologies-for-the-ai-era)
+**Published:** Thu, 11 Dec 2025 21:23:40 +0000
+
+<p>As the semiconductor industry enters a transformative growth phase, Korea — a vital hub of the global semiconductor supply chain — is attracting increasing global attention.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semicon-korea-2026-to-showcase-core-semiconductor-technologies-for-the-ai-era/">SEMICON Korea 2026 to Showcase Core Semiconductor Technologies for the AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,22 +807,6 @@ _Last updated: 2025-12-11 21:37 UTC_
 
 <p>ACM’s Ultra ECP ap-p enables next generation device performance amid accelerating market demand for advanced packaging.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/acm-research-delivers-first-horizontal-panel-electroplating-tool-strengthening-its-leadership-in-fan-out-panel-level-packaging/">ACM Research Delivers First Horizontal Panel Electroplating Tool</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [yieldWerx and iTest Partner to Deliver Seamless, Real-Time Semiconductor Test Analytics](https://www.semiconductor-digest.com/yieldwerx-and-itest-partner-to-deliver-seamless-real-time-semiconductor-test-analytics/?utm_source=rss&utm_medium=rss&utm_campaign=yieldwerx-and-itest-partner-to-deliver-seamless-real-time-semiconductor-test-analytics)
-**Published:** Fri, 14 Nov 2025 17:16:54 +0000
-
-<p>yieldWerx, a provider of end-to-end semiconductor test data and yield analytics, today announced a strategic collaboration with iTest, a premier independent IC testing laboratory based in Silicon Valley.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/yieldwerx-and-itest-partner-to-deliver-seamless-real-time-semiconductor-test-analytics/">yieldWerx and iTest Partner to Deliver Seamless, Real-Time Semiconductor Test Analytics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Controlling Triple Quantum Dots in a Zinc Oxide Semiconductor](https://www.semiconductor-digest.com/controlling-triple-quantum-dots-in-a-zinc-oxide-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=controlling-triple-quantum-dots-in-a-zinc-oxide-semiconductor)
-**Published:** Fri, 14 Nov 2025 17:05:01 +0000
-
-<p>Quantum computers have the potential to solve certain calculations exponentially faster than a classic computer could, but more research is desperately needed to make their practical use a reality.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/controlling-triple-quantum-dots-in-a-zinc-oxide-semiconductor/">Controlling Triple Quantum Dots in a Zinc Oxide Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
