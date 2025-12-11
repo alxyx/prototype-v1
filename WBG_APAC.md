@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-11 15:39 UTC_
+_Last updated: 2025-12-11 16:45 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -810,6 +810,14 @@ _Last updated: 2025-12-11 15:39 UTC_
 
 ---
 
+## [ROHM Begins High-Volume Production of 750V SiC MOSFETs in TOLL Package](https://www.powerelectronicsnews.com/rohm-begins-high-volume-production-of-750v-sic-mosfets-in-toll-package/)
+**Published:** Thu, 11 Dec 2025 15:41:00 +0000
+
+<img alt="ROHM Begins High-Volume Production of 750V SiC MOSFETs in TOLL Package." class="webfeedsFeaturedVisual wp-post-image" height="1244" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/ROHM_PR.png?fit=1156%2C1244" style="display: block; margin-bottom: 5px; clear: both;" width="1156" /><p>The newly introduced SiC MOSFETs shrink the component size by about 26% and feature an ultra-thin 2.3 mm profile.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/rohm-begins-high-volume-production-of-750v-sic-mosfets-in-toll-package/">ROHM Begins High-Volume Production of 750V SiC MOSFETs in TOLL Package</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [TDK Corporation Launches Advanced S Series of High-Power Inrush Current Limiters](https://www.powerelectronicsnews.com/tdk-corporation-launches-advanced-s-series-of-high-power-inrush-current-limiters/)
 **Published:** Thu, 11 Dec 2025 14:26:36 +0000
 
@@ -845,7 +853,7 @@ _Last updated: 2025-12-11 15:39 UTC_
 ## [PowerUP Circuit Lab: TI’s LP-MSPM0G3519 LaunchPad development kit](https://www.powerelectronicsnews.com/powerup-circuit-lab-tis-lp-mspm0g3519-launchpad-development-kit/)
 **Published:** Wed, 10 Dec 2025 19:04:37 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/TI-poweruplab.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>We explore the LPM-MSPM0G3519 LaunchPad development kit, a feature-rich platform built around TI’s MSPM0G3519 ARM Cortex-M0+ microcontroller. </p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/TI-poweruplab.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>We explore the LP-MSPM0G3519 LaunchPad development kit, a feature-rich platform built around TI’s MSPM0G3519 ARM Cortex-M0+ microcontroller. </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/powerup-circuit-lab-tis-lp-mspm0g3519-launchpad-development-kit/">PowerUP Circuit Lab: TI’s LP-MSPM0G3519 LaunchPad development kit</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
@@ -879,14 +887,6 @@ _Last updated: 2025-12-11 15:39 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="675" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/onsemi-T2PAK-Technology.jpg?fit=1200%2C675" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>Onsemi announces the availability of its 650V and 950V EliteSiC in the widely-adopted T2PAK package for top-side cooling. </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/onsemi-offers-650v-and-950v-elitesic-mosfets-in-t2pak/">Onsemi offers 650V and 950V EliteSiC MOSFETs in T2PAK</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [WBG-Enabled IMDs in Electro-Hydrostatic Actuators](https://www.powerelectronicsnews.com/wbg-enabled-imds-in-electro-hydrostatic-actuators/)
-**Published:** Tue, 09 Dec 2025 14:00:00 +0000
-
-<img alt="Dual redundant EHA for primary flight control surfaces providing hydraulic power to separate pistons in a dual tandem cylinder configuration." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/IMD_picture1.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>With the shift toward electrification, electro-hydrostatic actuators will play an even larger role in next-generation motion systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wbg-enabled-imds-in-electro-hydrostatic-actuators/">WBG-Enabled IMDs in Electro-Hydrostatic Actuators</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
