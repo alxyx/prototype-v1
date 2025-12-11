@@ -1,12 +1,36 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-11 20:38 UTC_
+_Last updated: 2025-12-11 21:37 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
 
 <p>The MIPI A-PHY-based platform enables implementation of high-performance A-PHY connectivity standard in machine vision.</p>
 <p>The post <a href="https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/">Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Siemens and GlobalFoundries Collaborate to Deploy AI-Driven Manufacturing to Strengthen Global Semiconductor Supply](https://www.semiconductor-digest.com/siemens-and-globalfoundries-collaborate/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-and-globalfoundries-collaborate)
+**Published:** Thu, 11 Dec 2025 21:18:15 +0000
+
+<p>Strategic collaboration to enhance performance of semiconductors and other advanced industries based on both companies’ AI-based capabilities.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-and-globalfoundries-collaborate/">Siemens and GlobalFoundries Collaborate to Deploy AI-Driven Manufacturing to Strengthen Global Semiconductor Supply</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [onsemi and FORVIA HELLA Extend Strategic Collaboration with Next-Generation Power Technology](https://www.semiconductor-digest.com/onsemi-and-forvia-hella-extend-strategic-collaboration-with-next-generation-power-technology/?utm_source=rss&utm_medium=rss&utm_campaign=onsemi-and-forvia-hella-extend-strategic-collaboration-with-next-generation-power-technology)
+**Published:** Thu, 11 Dec 2025 21:07:39 +0000
+
+<p>Collaboration will deliver smarter automotive power solutions with superior efficiency and optimized performance.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/onsemi-and-forvia-hella-extend-strategic-collaboration-with-next-generation-power-technology/">onsemi and FORVIA HELLA Extend Strategic Collaboration with Next-Generation Power Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Omdia: Semiconductor Quarterly Revenue Surpasses $200B for the First Time as Industry-Wide Growth Accelerates](https://www.semiconductor-digest.com/omdia-semiconductor-quarterly-revenue-surpasses-200b-for-the-first-time-as-industry-wide-growth-accelerates/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-semiconductor-quarterly-revenue-surpasses-200b-for-the-first-time-as-industry-wide-growth-accelerates)
+**Published:** Thu, 11 Dec 2025 20:43:33 +0000
+
+<p>New research from Omdia shows that the semiconductor market delivered a record breaking performance in 3Q25 with industry revenue reaching $216.3bn, up 14.5% quarter-over-quarter (QoQ).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-semiconductor-quarterly-revenue-surpasses-200b-for-the-first-time-as-industry-wide-growth-accelerates/">Omdia: Semiconductor Quarterly Revenue Surpasses $200B for the First Time as Industry-Wide Growth Accelerates</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,30 +807,6 @@ _Last updated: 2025-12-11 20:38 UTC_
 
 <p>Quantum computers have the potential to solve certain calculations exponentially faster than a classic computer could, but more research is desperately needed to make their practical use a reality.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/controlling-triple-quantum-dots-in-a-zinc-oxide-semiconductor/">Controlling Triple Quantum Dots in a Zinc Oxide Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [What’s in the November/December Issue?](https://www.semiconductor-digest.com/whats-in-the-november-december-issue-4/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-november-december-issue-4)
-**Published:** Fri, 14 Nov 2025 17:03:58 +0000
-
-<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the November/December issue. If you are attending SEMICON Europa, pick up this issue in print. You can find it at the Tech Arena. We hope to see you there!</p>
-<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-november-december-issue-4/">What&#8217;s in the November/December Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Tescan Expands Semiconductor Workflows with FemtoChisel Laser Technology](https://www.semiconductor-digest.com/tescan-expands-semiconductor-workflows-with-femtochisel-laser-technology/?utm_source=rss&utm_medium=rss&utm_campaign=tescan-expands-semiconductor-workflows-with-femtochisel-laser-technology)
-**Published:** Fri, 14 Nov 2025 16:53:32 +0000
-
-<p>Tescan expands its semiconductor portfolio with FemtoChisel, a next-generation femtosecond laser platform designed to enhance semiconductor sample preparation workflows with exceptional speed, precision, reproducibility, and quality.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tescan-expands-semiconductor-workflows-with-femtochisel-laser-technology/">Tescan Expands Semiconductor Workflows with FemtoChisel Laser Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Semiconductor Chip Market to Grow 16.1% Annually Despite Global Shortage](https://www.semiconductor-digest.com/semiconductor-chip-market-to-grow-16-1-annually-despite-global-shortage/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-chip-market-to-grow-16-1-annually-despite-global-shortage)
-**Published:** Fri, 14 Nov 2025 16:43:54 +0000
-
-<p>According to the latest study from BCC Research, “Semiconductor Chips: Applications and Impact of Shortage" is projected to grow from $737.2 billion in 2025 to $1.6 trillion by the end of 2030.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-chip-market-to-grow-16-1-annually-despite-global-shortage/">Semiconductor Chip Market to Grow 16.1% Annually Despite Global Shortage</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
