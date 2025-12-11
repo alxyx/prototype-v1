@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-11 19:34 UTC_
+_Last updated: 2025-12-11 20:38 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -810,6 +810,14 @@ _Last updated: 2025-12-11 19:34 UTC_
 
 ---
 
+## [PEN eBook November 2025 – GaN and SiC Special Report](https://www.powerelectronicsnews.com/engineering-tomorrow-gan-sic-and-the-future-of-sustainable-energy-systems/)
+**Published:** Thu, 11 Dec 2025 20:08:25 +0000
+
+<p>WBG semiconductors are changing the way modern technology works. Materials such as GaN and SiC are changing the game in power electronics.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/engineering-tomorrow-gan-sic-and-the-future-of-sustainable-energy-systems/">PEN eBook November 2025 &#8211; GaN and SiC Special Report</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [ROHM Begins High-Volume Production of 750V SiC MOSFETs in TOLL Package](https://www.powerelectronicsnews.com/rohm-begins-high-volume-production-of-750v-sic-mosfets-in-toll-package/)
 **Published:** Thu, 11 Dec 2025 15:41:00 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2025-12-11 19:34 UTC_
 
 <img alt="e-peas Introduces the new AEM15820 Energy Harvesting PMIC." class="webfeedsFeaturedVisual wp-post-image" height="1890" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/ePeas_PR.png?fit=1890%2C1890" style="display: block; margin-bottom: 5px; clear: both;" width="1890" /><p>The new AEM15820 PMIC supports energy harvesting from lighting conditions ranging from indoor illumination to full outdoor sunlight.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/e-peas-introduces-the-aem15820-energy-harvesting-pmic/">e-peas Introduces the AEM15820 Energy Harvesting PMIC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Onsemi offers 650V and 950V EliteSiC MOSFETs in T2PAK](https://www.powerelectronicsnews.com/onsemi-offers-650v-and-950v-elitesic-mosfets-in-t2pak/)
-**Published:** Tue, 09 Dec 2025 15:08:02 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="675" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/onsemi-T2PAK-Technology.jpg?fit=1200%2C675" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>Onsemi announces the availability of its 650V and 950V EliteSiC in the widely-adopted T2PAK package for top-side cooling. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/onsemi-offers-650v-and-950v-elitesic-mosfets-in-t2pak/">Onsemi offers 650V and 950V EliteSiC MOSFETs in T2PAK</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
