@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-11 14:38 UTC_
+_Last updated: 2025-12-11 15:39 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
 
 <p>The MIPI A-PHY-based platform enables implementation of high-performance A-PHY connectivity standard in machine vision.</p>
 <p>The post <a href="https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/">Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Scaling TSVs for High-Performance Integration in the Next Generation of Silicon Interposers](https://www.semiconductor-digest.com/scaling-tsvs-for-high-performance-integration-in-the-next-generation-of-silicon-interposers/?utm_source=rss&utm_medium=rss&utm_campaign=scaling-tsvs-for-high-performance-integration-in-the-next-generation-of-silicon-interposers)
+**Published:** Thu, 11 Dec 2025 14:39:03 +0000
+
+<p>In an industry defined by scaling down, silicon interposers with larger through-silicon vias (TSVs) are emerging as the key to unlocking next-level performance in high performance computing (HPC), artificial intelligence (AI), 5G, and automotive electronics.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/scaling-tsvs-for-high-performance-integration-in-the-next-generation-of-silicon-interposers/">Scaling TSVs for High-Performance Integration in the Next Generation of Silicon Interposers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Lasers Illuminate the Roadmap for Advanced Packaging](https://www.semiconductor-digest.com/lasers-illuminate-the-roadmap-for-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=lasers-illuminate-the-roadmap-for-advanced-packaging)
+**Published:** Thu, 11 Dec 2025 14:32:02 +0000
+
+<p>Ultrashort pulse lasers enable stress-free material removal in the low-κ substrates that are increasingly essential to advanced packaging.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lasers-illuminate-the-roadmap-for-advanced-packaging/">Lasers Illuminate the Roadmap for Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,22 +807,6 @@ _Last updated: 2025-12-11 14:38 UTC_
 
 <p>According to the latest study from BCC Research, “Semiconductor Chips: Applications and Impact of Shortage" is projected to grow from $737.2 billion in 2025 to $1.6 trillion by the end of 2030.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semiconductor-chip-market-to-grow-16-1-annually-despite-global-shortage/">Semiconductor Chip Market to Grow 16.1% Annually Despite Global Shortage</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The 2026 IEEE/JSAP Symposium on VLSI Technology & Circuits Announces Call for Workshop Submissions](https://www.semiconductor-digest.com/the-2026-ieee-jsap-symposium-on-vlsi-technology-circuits-announces-call-for-workshop-submissions/?utm_source=rss&utm_medium=rss&utm_campaign=the-2026-ieee-jsap-symposium-on-vlsi-technology-circuits-announces-call-for-workshop-submissions)
-**Published:** Thu, 13 Nov 2025 21:28:22 +0000
-
-<p>The 2026 IEEE/JSAP Symposium on VLSI Technology &#038; Circuits has announced a Call for Workshop topics in support of the conference theme: “Advancing the AI Frontier Through VLSI Innovation.”</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-2026-ieee-jsap-symposium-on-vlsi-technology-circuits-announces-call-for-workshop-submissions/">The 2026 IEEE/JSAP Symposium on VLSI Technology &#038; Circuits Announces Call for Workshop Submissions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IonQ, AMD and Qualcomm Ventures Join Classiq Strategic Up-Round](https://www.semiconductor-digest.com/ionq-amd-and-qualcomm-ventures-join-classiq-strategic-up-round/?utm_source=rss&utm_medium=rss&utm_campaign=ionq-amd-and-qualcomm-ventures-join-classiq-strategic-up-round)
-**Published:** Thu, 13 Nov 2025 21:25:39 +0000
-
-<p>The additional tens of millions in strategic funding bring Classiq’s total funding to over $200 million, reflecting confidence from global technology and finance leaders in its enterprise-grade quantum software platform.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ionq-amd-and-qualcomm-ventures-join-classiq-strategic-up-round/">IonQ, AMD and Qualcomm Ventures Join Classiq Strategic Up-Round</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
