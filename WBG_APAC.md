@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-11 06:48 UTC_
+_Last updated: 2025-12-11 07:38 UTC_
 
 ## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
 **Published:** Tue, 09 Dec 2025 03:08:21 +0000
@@ -911,14 +911,6 @@ _Last updated: 2025-12-11 06:48 UTC_
 
 <p>Cambridge University spin-out Kodiaq Technologies has pulled in £850,000 towards developing its organic electrolytes for metal-free flow batteries. The money comes from &#8220;over twenty high-net-worth investors&#8221;, according to the company. ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/850000-for-no-metal-flow-battery-spin-out-2025-12/">£850,000 for no-metal flow battery spin-out</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Q3 datacentre infrastructure market grew 18% YoY](https://www.electronicsweekly.com/news/business/q3-datacentre-infrastructure-market-grew-18-yoy-2025-12/)
-**Published:** Wed, 10 Dec 2025 13:12:05 +0000
-
-<p>The Data Centre Physical Infrastructure (DCPI) market grew 18% YoY in 3Q 2025 in manufacturer revenue, says Dell’Oro. Momentum remained broad-based, supported by strong AI infrastructure buildouts and the steady ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/q3-datacentre-infrastructure-market-grew-18-yoy-2025-12/">Q3 datacentre infrastructure market grew 18% YoY</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
