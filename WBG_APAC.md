@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 05:36 UTC_
+_Last updated: 2025-12-12 06:48 UTC_
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
@@ -895,6 +895,14 @@ _Last updated: 2025-12-12 05:36 UTC_
 
 <p>At the heart of every connected device, from the smartphone to the powerful AI data server, are semiconductors. Over the years, the semiconductor has evolved into a complex labyrinth of 3D structures and tight process integrations to accommodate the billions of transistors it houses. The broad reach of semiconductors in so many facets of our [&#8230;]</p>
 <p>The post <a href="https://www.eetimes.com/how-ai-and-virtual-twins-can-supercharge-semiconductor-yield/">How AI and Virtual Twins Can Supercharge Semiconductor Yield</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [North East Space Communications Accelerator distributes £340K funding](https://www.electronicsweekly.com/news/research-news/north-east-space-communications-accelerator-distributes-340k-funding-2025-12/)
+**Published:** Fri, 12 Dec 2025 06:06:49 +0000
+
+<p>The North East Space Communications Accelerator (NESCA) has awarded its first round of innovation funding to seven projects. The organisation has distributed £340,000 across seven space communications and technology projects. ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/research-news/north-east-space-communications-accelerator-distributes-340k-funding-2025-12/">North East Space Communications Accelerator distributes £340K funding</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
