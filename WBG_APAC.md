@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 07:37 UTC_
+_Last updated: 2025-12-12 08:44 UTC_
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
@@ -813,7 +813,7 @@ _Last updated: 2025-12-12 07:37 UTC_
 ## [PEN eBook November 2025 – GaN and SiC Special Report](https://www.powerelectronicsnews.com/engineering-tomorrow-gan-sic-and-the-future-of-sustainable-energy-systems/)
 **Published:** Thu, 11 Dec 2025 20:08:25 +0000
 
-<p>WBG semiconductors are changing the way modern technology works. Materials such as GaN and SiC are changing the game in power electronics.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1114" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/November-2025-eBook-.png?fit=778%2C1114" style="display: block; margin-bottom: 5px; clear: both;" width="778" /><p>WBG semiconductors are changing the way modern technology works. Materials such as GaN and SiC are changing the game in power electronics.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/engineering-tomorrow-gan-sic-and-the-future-of-sustainable-energy-systems/">PEN eBook November 2025 &#8211; GaN and SiC Special Report</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
