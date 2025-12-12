@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 12:58 UTC_
+_Last updated: 2025-12-12 13:49 UTC_
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
@@ -887,6 +887,14 @@ _Last updated: 2025-12-12 12:58 UTC_
 
 <img alt="e-peas Introduces the new AEM15820 Energy Harvesting PMIC." class="webfeedsFeaturedVisual wp-post-image" height="1890" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/ePeas_PR.png?fit=1890%2C1890" style="display: block; margin-bottom: 5px; clear: both;" width="1890" /><p>The new AEM15820 PMIC supports energy harvesting from lighting conditions ranging from indoor illumination to full outdoor sunlight.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/e-peas-introduces-the-aem15820-energy-harvesting-pmic/">e-peas Introduces the AEM15820 Energy Harvesting PMIC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Seeking Flexibility in a Rigid Semiconductor Supply Chain](https://www.eetimes.com/seeking-flexibility-in-a-rigid-semiconductor-supply-chain/)
+**Published:** Fri, 12 Dec 2025 13:00:00 +0000
+
+<p>Mobius Materials raises $3 million to scale a platform that connects buyers and sellers of excess electronic components.</p>
+<p>The post <a href="https://www.eetimes.com/seeking-flexibility-in-a-rigid-semiconductor-supply-chain/">Seeking Flexibility in a Rigid Semiconductor Supply Chain</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
