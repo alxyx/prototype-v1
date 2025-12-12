@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 03:38 UTC_
+_Last updated: 2025-12-12 04:48 UTC_
+
+## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
+**Published:** Fri, 12 Dec 2025 04:18:26 +0000
+
+<p>As semiconductor manufacturing accelerates toward the 2-nanometer era, the complexity of artificial intelligence (AI) and high-performance computing (HPC) is driving an unprecedented surge in demand for materials analysis (MA). Once considered a secondary support function behind process engineering, materials analysis has become a decisive determinant of yield and process viability. In advanced chip R&#38;D, even [&#8230;]</p>
+<p>The post <a href="https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/">Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek&#8217;s Y.F. Hsieh Named EE Awards Asia Executive of the Year</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Mitsubishi Chemical Group and Boston Materials Form Strategic Collaboration](https://www.semiconductor-digest.com/mitsubishi-chemical-group-and-boston-materials-form-strategic-collaboration-to-advance-semiconductor-packaging-with-breakthrough-liquid-metal-thermal-materials/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-chemical-group-and-boston-materials-form-strategic-collaboration-to-advance-semiconductor-packaging-with-breakthrough-liquid-metal-thermal-materials)
 **Published:** Thu, 11 Dec 2025 21:29:17 +0000
