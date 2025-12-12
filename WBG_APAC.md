@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 10:37 UTC_
+_Last updated: 2025-12-12 11:34 UTC_
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
@@ -895,6 +895,14 @@ _Last updated: 2025-12-12 10:37 UTC_
 
 <p>At the heart of every connected device, from the smartphone to the powerful AI data server, are semiconductors. Over the years, the semiconductor has evolved into a complex labyrinth of 3D structures and tight process integrations to accommodate the billions of transistors it houses. The broad reach of semiconductors in so many facets of our [&#8230;]</p>
 <p>The post <a href="https://www.eetimes.com/how-ai-and-virtual-twins-can-supercharge-semiconductor-yield/">How AI and Virtual Twins Can Supercharge Semiconductor Yield</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Wireless module certified for Skylo satellite IoT network](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/wireless-module-certified-for-skylo-satellite-iot-network-2025-12/)
+**Published:** Fri, 12 Dec 2025 10:54:29 +0000
+
+<p>Nordic Semiconductor has had its nRF9151 cellular wireless IoT module certified for satellite network use on Skylo&#8217;s service. &#8220;The certification ensures compliance with Skylo&#8217;s satellite network spanning 36 countries and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/wireless-module-certified-for-skylo-satellite-iot-network-2025-12/">Wireless module certified for Skylo satellite IoT network</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
