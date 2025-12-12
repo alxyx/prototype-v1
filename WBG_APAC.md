@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 04:48 UTC_
+_Last updated: 2025-12-12 05:36 UTC_
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
@@ -903,20 +903,6 @@ _Last updated: 2025-12-12 04:48 UTC_
 
 <p>Cambridge University spin-out Kodiaq Technologies has pulled in £850,000 towards developing its organic electrolytes for metal-free flow batteries. The money comes from &#8220;over twenty high-net-worth investors&#8221;, according to the company. ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/850000-for-no-metal-flow-battery-spin-out-2025-12/">£850,000 for no-metal flow battery spin-out</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [JOB: Hardware Design Engineer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/hardware-design-engineer-capgemini-bengaluru)
-**Published:** Wed, 10 Dec 2025 11:15:17 +0000
-
-<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic&#160;programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs), printed circuit boards (PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment. Job Description [&#8230;]
-
----
-
-## [Ultra Compact Encoder Enhances Precision](https://www.electronicsforu.com/news/ultra-compact-encoder-enhances-precision)
-**Published:** Wed, 10 Dec 2025 08:11:36 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/faulhaber_ierf3_1500x1200px-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new miniature incremental encoder brings metrology-grade precision to space-restricted motion systems, offering high repeatability, clean signal output, and robust performance in demanding optical, semiconductor, and automation environments. A new incremental optical encoder by FAULHABER GROUP has entered the motion-control market, space constraints collide. The device delivers 0.1° positioning accuracy and 0.007° repeatability, positioning it [&#8230;]
 
 ---
 
