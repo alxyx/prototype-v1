@@ -1,12 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 19:31 UTC_
+_Last updated: 2025-12-12 20:37 UTC_
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
 
 <p>As semiconductor manufacturing accelerates toward the 2-nanometer era, the complexity of artificial intelligence (AI) and high-performance computing (HPC) is driving an unprecedented surge in demand for materials analysis (MA). Once considered a secondary support function behind process engineering, materials analysis has become a decisive determinant of yield and process viability. In advanced chip R&#38;D, even [&#8230;]</p>
 <p>The post <a href="https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/">Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek&#8217;s Y.F. Hsieh Named EE Awards Asia Executive of the Year</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMIFIVE Secures AI Semiconductor Design Projects in Japan](https://www.semiconductor-digest.com/semifive-secures-ai-semiconductor-design-projects-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-secures-ai-semiconductor-design-projects-in-japan)
+**Published:** Fri, 12 Dec 2025 19:22:08 +0000
+
+<p>SEMIFIVE announced today that it has secured multiple AI semiconductor design projects in Japan and recently established its subsidiary in Tokyo, Japan.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semifive-secures-ai-semiconductor-design-projects-in-japan/">SEMIFIVE Secures AI Semiconductor Design Projects in Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,14 +807,6 @@ _Last updated: 2025-12-12 19:31 UTC_
 
 <p>Tower Semiconductor and Switch Semiconductor today announced the SW2001, a high-efficiency, monolithic 12-V Point-of-Load (POL) buck regulator designed on Tower’s industry-leading 65nm BCD platform.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-and-switch-semiconductor-collaborate-to-deliver-efficiency-for-next-generation-ai-and-server-power-systems/">Tower Semiconductor and Switch Semiconductor Collaborate to Deliver Efficiency for Next-Generation AI and Server Power Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Applauds Introduction of New Bill to Extend U.S. Tax Credit for Semiconductor Manufacturing Suppliers through 2031](https://www.semiconductor-digest.com/semi-applauds-introduction-of-new-bill-to-extend-u-s-tax-credit-for-semiconductor-manufacturing-suppliers-through-2031/?utm_source=rss&utm_medium=rss&utm_campaign=semi-applauds-introduction-of-new-bill-to-extend-u-s-tax-credit-for-semiconductor-manufacturing-suppliers-through-2031)
-**Published:** Mon, 17 Nov 2025 21:53:42 +0000
-
-<p>SEMI today announced support for the introduction of the Strengthening Essential Manufacturing and Industrial Investment Act (the SEMI Investment Act) in the United States House of Representatives.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-applauds-introduction-of-new-bill-to-extend-u-s-tax-credit-for-semiconductor-manufacturing-suppliers-through-2031/">SEMI Applauds Introduction of New Bill to Extend U.S. Tax Credit for Semiconductor Manufacturing Suppliers through 2031</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
