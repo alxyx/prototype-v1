@@ -1,12 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 13:49 UTC_
+_Last updated: 2025-12-12 14:35 UTC_
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
 
 <p>As semiconductor manufacturing accelerates toward the 2-nanometer era, the complexity of artificial intelligence (AI) and high-performance computing (HPC) is driving an unprecedented surge in demand for materials analysis (MA). Once considered a secondary support function behind process engineering, materials analysis has become a decisive determinant of yield and process viability. In advanced chip R&#38;D, even [&#8230;]</p>
 <p>The post <a href="https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/">Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek&#8217;s Y.F. Hsieh Named EE Awards Asia Executive of the Year</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [TANAKA’s Hybrid Silver Adhesive Paste Redefines Reliability for SiC/GaN Power Modules](https://www.semiconductor-digest.com/tanakas-hybrid-silver-adhesive-paste-redefines-reliability-for-sic-gan-power-modules/?utm_source=rss&utm_medium=rss&utm_campaign=tanakas-hybrid-silver-adhesive-paste-redefines-reliability-for-sic-gan-power-modules)
+**Published:** Fri, 12 Dec 2025 13:57:32 +0000
+
+<p>Senior Manager, Silver Adhesive Global R&#038;D, TANAKA PRECIOUS METAL TECHNOLOGIES Co., Ltd.Shintaroh Abe explains the materials breakthrough enabling high-temperature, pressure-less die attach.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tanakas-hybrid-silver-adhesive-paste-redefines-reliability-for-sic-gan-power-modules/">TANAKA’s Hybrid Silver Adhesive Paste Redefines Reliability for SiC/GaN Power Modules</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,14 +807,6 @@ _Last updated: 2025-12-12 13:49 UTC_
 
 <p>Onto Innovation Inc. today announced the successful closing of its previously announced acquisition of key product lines from the materials analysis business of Semilab International.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/onto-innovation-completes-acquisition-of-unique-materials-composition-and-electrical-analysis-product-lines-from-semilab-international/">Onto Innovation Completes Acquisition of Unique Materials Composition and Electrical Analysis Product Lines from Semilab International</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ACM Research Delivers First Horizontal Panel Electroplating Tool](https://www.semiconductor-digest.com/acm-research-delivers-first-horizontal-panel-electroplating-tool-strengthening-its-leadership-in-fan-out-panel-level-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-delivers-first-horizontal-panel-electroplating-tool-strengthening-its-leadership-in-fan-out-panel-level-packaging)
-**Published:** Mon, 17 Nov 2025 19:08:01 +0000
-
-<p>ACM’s Ultra ECP ap-p enables next generation device performance amid accelerating market demand for advanced packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/acm-research-delivers-first-horizontal-panel-electroplating-tool-strengthening-its-leadership-in-fan-out-panel-level-packaging/">ACM Research Delivers First Horizontal Panel Electroplating Tool</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
