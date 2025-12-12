@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 21:35 UTC_
+_Last updated: 2025-12-12 22:34 UTC_
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
@@ -826,6 +826,14 @@ _Last updated: 2025-12-12 21:35 UTC_
 
 ---
 
+## [DC/DC Power Modules Simplify Power Supplies in Industrial Applications](https://www.powerelectronicsnews.com/dc-dc-power-modules-simplify-power-supplies-in-industrial-applications/)
+**Published:** Fri, 12 Dec 2025 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="562" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/AdobeStock_382747392.jpeg?fit=1000%2C562" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>In industrial systems, many devices require a lower voltage. This is where DC/DC power modules come into play, where the power supply is reliable, efficient, and EMC-compliant.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/dc-dc-power-modules-simplify-power-supplies-in-industrial-applications/">DC/DC Power Modules Simplify Power Supplies in Industrial Applications</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [PEN eBook November 2025 – GaN and SiC Special Report](https://www.powerelectronicsnews.com/engineering-tomorrow-gan-sic-and-the-future-of-sustainable-energy-systems/)
 **Published:** Thu, 11 Dec 2025 20:08:25 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2025-12-12 21:35 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/TI-poweruplab.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>We explore the LP-MSPM0G3519 LaunchPad development kit, a feature-rich platform built around TI’s MSPM0G3519 ARM Cortex-M0+ microcontroller. </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/powerup-circuit-lab-tis-lp-mspm0g3519-launchpad-development-kit/">PowerUP Circuit Lab: TI’s LP-MSPM0G3519 LaunchPad development kit</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [SemiQ Expands 1200 V QSiC Gen3 Portfolio](https://www.powerelectronicsnews.com/semiq-expands-1200-v-qsic-gen3-portfolio/)
-**Published:** Wed, 10 Dec 2025 16:06:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1932" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/SemiQ-MOSFETs.jpg?fit=3000%2C1932" style="display: block; margin-bottom: 5px; clear: both;" width="3000" /><p>SemiQ expands 1200 V QSiC Gen3 portfolio with six-pack B2, full-bridge B3, and half-bridge S3 power modules.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/semiq-expands-1200-v-qsic-gen3-portfolio/">SemiQ Expands 1200 V QSiC Gen3 Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
