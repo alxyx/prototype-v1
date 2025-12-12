@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 22:34 UTC_
+_Last updated: 2025-12-12 23:33 UTC_
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
@@ -834,6 +834,14 @@ _Last updated: 2025-12-12 22:34 UTC_
 
 ---
 
+## [Coherent Advances 300mm SiC Platform for Next-Gen AI Datacenters](https://www.powerelectronicsnews.com/coherent-advances-300mm-sic-platform-for-next-gen-ai-datacenters/)
+**Published:** Fri, 12 Dec 2025 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="639" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/03/SemiconductorWafer.jpg?fit=1000%2C639" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>In power electronics, moving to 300mm SiC wafers increases the number of devices per substrate and helps drive down the cost of each chip.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/coherent-advances-300mm-sic-platform-for-next-gen-ai-datacenters/">Coherent Advances 300mm SiC Platform for Next-Gen AI Datacenters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [PEN eBook November 2025 – GaN and SiC Special Report](https://www.powerelectronicsnews.com/engineering-tomorrow-gan-sic-and-the-future-of-sustainable-energy-systems/)
 **Published:** Thu, 11 Dec 2025 20:08:25 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2025-12-12 22:34 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="623" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/05/shutterstock_2141153287.jpg?fit=1000%2C623" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Diodes Inc. launches programmable 5.5V/4A buck converter with I2C interface for tightly-integrated automotive point-of-load (PoL) designs.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/diodes-inc-launches-programmable-5-5v-4a-buck-converter/">Diodes Inc. Launches Programmable 5.5V/4A Buck Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [PowerUP Circuit Lab: TI’s LP-MSPM0G3519 LaunchPad development kit](https://www.powerelectronicsnews.com/powerup-circuit-lab-tis-lp-mspm0g3519-launchpad-development-kit/)
-**Published:** Wed, 10 Dec 2025 19:04:37 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/TI-poweruplab.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>We explore the LP-MSPM0G3519 LaunchPad development kit, a feature-rich platform built around TI’s MSPM0G3519 ARM Cortex-M0+ microcontroller. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/powerup-circuit-lab-tis-lp-mspm0g3519-launchpad-development-kit/">PowerUP Circuit Lab: TI’s LP-MSPM0G3519 LaunchPad development kit</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
