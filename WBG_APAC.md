@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 15:37 UTC_
+_Last updated: 2025-12-12 16:40 UTC_
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
@@ -810,6 +810,22 @@ _Last updated: 2025-12-12 15:37 UTC_
 
 ---
 
+## [Digital Power Supply Control, SiC in AC Motor Drives, Small Fusion Reactors: Power Electronics Week Insights](https://www.powerelectronicsnews.com/digital-power-supply-control-sic-in-ac-motor-drives-small-fusion-reactors-power-electronics-week-insights/)
+**Published:** Fri, 12 Dec 2025 15:56:39 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Digital Power Supply Control, SiC in AC Motor Drives, and Small Fusion Reactors!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/digital-power-supply-control-sic-in-ac-motor-drives-small-fusion-reactors-power-electronics-week-insights/">Digital Power Supply Control, SiC in AC Motor Drives, Small Fusion Reactors: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Empower Semiconductor Announces the Opening of a New Corporate Headquarters](https://www.powerelectronicsnews.com/empower-semiconductor-announces-the-opening-of-a-new-corporate-headquarters/)
+**Published:** Fri, 12 Dec 2025 15:54:06 +0000
+
+<img alt="Empower Semiconductor Announces the Opening of a New Corporate Headquarters." class="webfeedsFeaturedVisual wp-post-image" height="613" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Expansion-980x613-1.png?fit=980%2C613" style="display: block; margin-bottom: 5px; clear: both;" width="980" /><p>Empower announced a new corporate headquarters in Milpitas, California, and a dedicated R&#38;D center in Munich, Germany.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/empower-semiconductor-announces-the-opening-of-a-new-corporate-headquarters/">Empower Semiconductor Announces the Opening of a New Corporate Headquarters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [PEN eBook November 2025 – GaN and SiC Special Report](https://www.powerelectronicsnews.com/engineering-tomorrow-gan-sic-and-the-future-of-sustainable-energy-systems/)
 **Published:** Thu, 11 Dec 2025 20:08:25 +0000
 
@@ -871,22 +887,6 @@ _Last updated: 2025-12-12 15:37 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1932" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/SemiQ-MOSFETs.jpg?fit=3000%2C1932" style="display: block; margin-bottom: 5px; clear: both;" width="3000" /><p>SemiQ expands 1200 V QSiC Gen3 portfolio with six-pack B2, full-bridge B3, and half-bridge S3 power modules.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/semiq-expands-1200-v-qsic-gen3-portfolio/">SemiQ Expands 1200 V QSiC Gen3 Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [AC Motor Drives Benefit from SiC](https://www.powerelectronicsnews.com/ac-motor-drives-benefit-from-sic/)
-**Published:** Wed, 10 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="319" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/AC-motor-drives-featured-image.png?fit=369%2C319" style="display: block; margin-bottom: 5px; clear: both;" width="369" /><p>While silicon IGBTs remain dominant in AC motor drives, the performance and cost improvements from SiC make a compelling case for evaluating the overall system benefits.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/ac-motor-drives-benefit-from-sic/">AC Motor Drives Benefit from SiC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [e-peas Introduces the AEM15820 Energy Harvesting PMIC](https://www.powerelectronicsnews.com/e-peas-introduces-the-aem15820-energy-harvesting-pmic/)
-**Published:** Wed, 10 Dec 2025 14:00:00 +0000
-
-<img alt="e-peas Introduces the new AEM15820 Energy Harvesting PMIC." class="webfeedsFeaturedVisual wp-post-image" height="1890" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/ePeas_PR.png?fit=1890%2C1890" style="display: block; margin-bottom: 5px; clear: both;" width="1890" /><p>The new AEM15820 PMIC supports energy harvesting from lighting conditions ranging from indoor illumination to full outdoor sunlight.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/e-peas-introduces-the-aem15820-energy-harvesting-pmic/">e-peas Introduces the AEM15820 Energy Harvesting PMIC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
