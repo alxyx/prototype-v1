@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 06:48 UTC_
+_Last updated: 2025-12-12 07:37 UTC_
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
@@ -898,19 +898,19 @@ _Last updated: 2025-12-12 06:48 UTC_
 
 ---
 
+## [First-ever $200bn semi revenue quarter](https://www.electronicsweekly.com/news/business/first-ever-200bn-quarter-2025-12/)
+**Published:** Fri, 12 Dec 2025 06:18:59 +0000
+
+<p>Q3 saw semiconductor revenue up 14.5% q-o-q at  $216 billion, reports Omdia  which is the first time quarterly revenues have  ever exceeded $200bn. At this pace, the industry is on ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/first-ever-200bn-quarter-2025-12/">First-ever $200bn semi revenue quarter</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [North East Space Communications Accelerator distributes £340K funding](https://www.electronicsweekly.com/news/research-news/north-east-space-communications-accelerator-distributes-340k-funding-2025-12/)
 **Published:** Fri, 12 Dec 2025 06:06:49 +0000
 
 <p>The North East Space Communications Accelerator (NESCA) has awarded its first round of innovation funding to seven projects. The organisation has distributed £340,000 across seven space communications and technology projects. ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/research-news/north-east-space-communications-accelerator-distributes-340k-funding-2025-12/">North East Space Communications Accelerator distributes £340K funding</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [£850,000 for no-metal flow battery spin-out](https://www.electronicsweekly.com/news/business/850000-for-no-metal-flow-battery-spin-out-2025-12/)
-**Published:** Wed, 10 Dec 2025 16:08:19 +0000
-
-<p>Cambridge University spin-out Kodiaq Technologies has pulled in £850,000 towards developing its organic electrolytes for metal-free flow batteries. The money comes from &#8220;over twenty high-net-worth investors&#8221;, according to the company. ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/850000-for-no-metal-flow-battery-spin-out-2025-12/">£850,000 for no-metal flow battery spin-out</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
