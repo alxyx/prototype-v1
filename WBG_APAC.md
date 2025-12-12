@@ -1,14 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-11 23:34 UTC_
-
-## [Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision](https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/)
-**Published:** Tue, 09 Dec 2025 03:08:21 +0000
-
-<p>The MIPI A-PHY-based platform enables implementation of high-performance A-PHY connectivity standard in machine vision.</p>
-<p>The post <a href="https://www.eetasia.com/valens-semiconductor-and-imavix-collaborate-on-mipi-based-platform-for-machine-vision/">Valens Semiconductor and Imavix Collaborate on MIPI-based Platform for Machine Vision</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
+_Last updated: 2025-12-12 01:57 UTC_
 
 ## [Mitsubishi Chemical Group and Boston Materials Form Strategic Collaboration](https://www.semiconductor-digest.com/mitsubishi-chemical-group-and-boston-materials-form-strategic-collaboration-to-advance-semiconductor-packaging-with-breakthrough-liquid-metal-thermal-materials/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-chemical-group-and-boston-materials-form-strategic-collaboration-to-advance-semiconductor-packaging-with-breakthrough-liquid-metal-thermal-materials)
 **Published:** Thu, 11 Dec 2025 21:29:17 +0000
