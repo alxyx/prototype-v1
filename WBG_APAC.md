@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 01:57 UTC_
+_Last updated: 2025-12-12 03:38 UTC_
 
 ## [Mitsubishi Chemical Group and Boston Materials Form Strategic Collaboration](https://www.semiconductor-digest.com/mitsubishi-chemical-group-and-boston-materials-form-strategic-collaboration-to-advance-semiconductor-packaging-with-breakthrough-liquid-metal-thermal-materials/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-chemical-group-and-boston-materials-form-strategic-collaboration-to-advance-semiconductor-packaging-with-breakthrough-liquid-metal-thermal-materials)
 **Published:** Thu, 11 Dec 2025 21:29:17 +0000
