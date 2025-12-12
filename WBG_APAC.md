@@ -1,12 +1,36 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-12 18:47 UTC_
+_Last updated: 2025-12-12 19:31 UTC_
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
 
 <p>As semiconductor manufacturing accelerates toward the 2-nanometer era, the complexity of artificial intelligence (AI) and high-performance computing (HPC) is driving an unprecedented surge in demand for materials analysis (MA). Once considered a secondary support function behind process engineering, materials analysis has become a decisive determinant of yield and process viability. In advanced chip R&#38;D, even [&#8230;]</p>
 <p>The post <a href="https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/">Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek&#8217;s Y.F. Hsieh Named EE Awards Asia Executive of the Year</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [CityUHK Pioneers Breakthrough in 3DIC Semiconductor Packaging Materials](https://www.semiconductor-digest.com/cityuhk-pioneers-breakthrough-in-3dic-semiconductor-packaging-materials/?utm_source=rss&utm_medium=rss&utm_campaign=cityuhk-pioneers-breakthrough-in-3dic-semiconductor-packaging-materials)
+**Published:** Fri, 12 Dec 2025 19:10:14 +0000
+
+<p>Strengthening Hong Kong’s role in next-generation semiconductor manufacturing technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cityuhk-pioneers-breakthrough-in-3dic-semiconductor-packaging-materials/">CityUHK Pioneers Breakthrough in 3DIC Semiconductor Packaging Materials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Arteris to Expand Portfolio with Acquisition of Cycuity](https://www.semiconductor-digest.com/arteris-to-expand-portfolio-with-acquisition-of-cycuity/?utm_source=rss&utm_medium=rss&utm_campaign=arteris-to-expand-portfolio-with-acquisition-of-cycuity)
+**Published:** Fri, 12 Dec 2025 18:58:32 +0000
+
+<p>Arteris, Inc., a provider of system IP for accelerating semiconductor creation in the AI era, today announced it has entered into a definitive agreement to acquire Cycuity, Inc., a provider of semiconductor cybersecurity assurance.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/arteris-to-expand-portfolio-with-acquisition-of-cycuity/">Arteris to Expand Portfolio with Acquisition of Cycuity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [OMA and NIMS Partner to Launch Semiconductor Technician Credentials](https://www.semiconductor-digest.com/oma-and-nims-partner-to-launch-semiconductor-technician-credentials/?utm_source=rss&utm_medium=rss&utm_campaign=oma-and-nims-partner-to-launch-semiconductor-technician-credentials)
+**Published:** Fri, 12 Dec 2025 18:49:46 +0000
+
+<p>The Ohio Manufacturers’ Association and the National Institute for Metalworking Skills (NIMS) announce the launch of two new microcredentials for the semiconductor industry in 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/oma-and-nims-partner-to-launch-semiconductor-technician-credentials/">OMA and NIMS Partner to Launch Semiconductor Technician Credentials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,30 +807,6 @@ _Last updated: 2025-12-12 18:47 UTC_
 
 <p>SEMI today announced support for the introduction of the Strengthening Essential Manufacturing and Industrial Investment Act (the SEMI Investment Act) in the United States House of Representatives.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semi-applauds-introduction-of-new-bill-to-extend-u-s-tax-credit-for-semiconductor-manufacturing-suppliers-through-2031/">SEMI Applauds Introduction of New Bill to Extend U.S. Tax Credit for Semiconductor Manufacturing Suppliers through 2031</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Cadence Appoints Luc Van den hove to Board of Directors](https://www.semiconductor-digest.com/cadence-appoints-luc-van-den-hove-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-appoints-luc-van-den-hove-to-board-of-directors)
-**Published:** Mon, 17 Nov 2025 21:21:48 +0000
-
-<p>Cadence today announced the appointment of Dr. Luc Van den hove to its board of directors, effective January 1, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cadence-appoints-luc-van-den-hove-to-board-of-directors/">Cadence Appoints Luc Van den hove to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Metalenz and UMC Bring Breakthrough Face Authentication Solution Polar ID to Mass Production](https://www.semiconductor-digest.com/metalenz-and-umc-bring-breakthrough-face-authentication-solution-polar-id-to-mass-production/?utm_source=rss&utm_medium=rss&utm_campaign=metalenz-and-umc-bring-breakthrough-face-authentication-solution-polar-id-to-mass-production)
-**Published:** Mon, 17 Nov 2025 19:28:44 +0000
-
-<p>Metalenz and United Microelectronics Corporation today announced Metalenz’s its breakthrough face authentication solution, Polar ID, is now ready for mass production through UMC.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/metalenz-and-umc-bring-breakthrough-face-authentication-solution-polar-id-to-mass-production/">Metalenz and UMC Bring Breakthrough Face Authentication Solution Polar ID to Mass Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Onto Innovation Completes Acquisition of Unique Materials Composition and Electrical Analysis Product Lines from Semilab International](https://www.semiconductor-digest.com/onto-innovation-completes-acquisition-of-unique-materials-composition-and-electrical-analysis-product-lines-from-semilab-international/?utm_source=rss&utm_medium=rss&utm_campaign=onto-innovation-completes-acquisition-of-unique-materials-composition-and-electrical-analysis-product-lines-from-semilab-international)
-**Published:** Mon, 17 Nov 2025 19:24:48 +0000
-
-<p>Onto Innovation Inc. today announced the successful closing of its previously announced acquisition of key product lines from the materials analysis business of Semilab International.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/onto-innovation-completes-acquisition-of-unique-materials-composition-and-electrical-analysis-product-lines-from-semilab-international/">Onto Innovation Completes Acquisition of Unique Materials Composition and Electrical Analysis Product Lines from Semilab International</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
