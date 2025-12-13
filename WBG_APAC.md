@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-13 04:40 UTC_
+_Last updated: 2025-12-13 05:35 UTC_
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
@@ -927,6 +927,13 @@ _Last updated: 2025-12-13 04:40 UTC_
 
 <p>The North East Space Communications Accelerator (NESCA) has awarded its first round of innovation funding to seven projects. The organisation has distributed £340,000 across seven space communications and technology projects. ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/research-news/north-east-space-communications-accelerator-distributes-340k-funding-2025-12/">North East Space Communications Accelerator distributes £340K funding</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [JOB: Technician At Flex In Chennai](https://www.electronicsforu.com/career/technician-at-flex-chennai)
+**Published:** Fri, 12 Dec 2025 12:40:00 +0000
+
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Chennai Company: Flex Job Summary Experience
 
 ---
 
