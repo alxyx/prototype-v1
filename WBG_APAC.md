@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-15 10:41 UTC_
+_Last updated: 2025-12-15 11:35 UTC_
 
 ## [Lattice Receives 2025 GSA Award](https://www.eetasia.com/lattice-receives-2025-gsa-award/)
 **Published:** Mon, 15 Dec 2025 02:52:17 +0000
@@ -23,6 +23,14 @@ _Last updated: 2025-12-15 10:41 UTC_
 
 <p>The Summit focused on the latest technological advancements and global development strategies in the semiconductor industry.</p>
 <p>The post <a href="https://www.eetasia.com/hkust-and-semi-co-host-inaugural-siias-2025/">HKUST and SEMI Co-Host Inaugural SIIAS 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [NIKO-SEM Recognized for Technical Excellence, Wins “Best Power Semiconductor” at the EE Awards Asia](https://www.eetasia.com/niko-sem-recognized-for-technical-excellence-wins-best-power-semiconductor-at-the-ee-awards-asia/)
+**Published:** Fri, 12 Dec 2025 10:13:16 +0000
+
+<p>NIKO-SEM's SPR Pack SiC module earned a Best Power Semiconductor of the Year award at EE Awards Asia 2025.</p>
+<p>The post <a href="https://www.eetasia.com/niko-sem-recognized-for-technical-excellence-wins-best-power-semiconductor-at-the-ee-awards-asia/">NIKO-SEM Recognized for Technical Excellence, Wins &#8220;Best Power Semiconductor&#8221; at the EE Awards Asia</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -935,14 +943,6 @@ _Last updated: 2025-12-15 10:41 UTC_
 
 <p>Nordic Semiconductor has had its nRF9151 cellular wireless IoT module certified for satellite network use on Skylo&#8217;s service. &#8220;The certification ensures compliance with Skylo&#8217;s satellite network spanning 36 countries and ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/wireless-module-certified-for-skylo-satellite-iot-network-2025-12/">Wireless module certified for Skylo satellite IoT network</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [First-ever $200bn semi revenue quarter](https://www.electronicsweekly.com/news/business/first-ever-200bn-quarter-2025-12/)
-**Published:** Fri, 12 Dec 2025 06:18:59 +0000
-
-<p>Q3 saw semiconductor revenue up 14.5% q-o-q at  $216 billion, reports Omdia  which is the first time quarterly revenues have  ever exceeded $200bn. At this pace, the industry is on ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/first-ever-200bn-quarter-2025-12/">First-ever $200bn semi revenue quarter</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
