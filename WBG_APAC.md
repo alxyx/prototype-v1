@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-15 15:39 UTC_
+_Last updated: 2025-12-15 16:44 UTC_
 
 ## [Lattice Receives 2025 GSA Award](https://www.eetasia.com/lattice-receives-2025-gsa-award/)
 **Published:** Mon, 15 Dec 2025 02:52:17 +0000
@@ -39,6 +39,30 @@ _Last updated: 2025-12-15 15:39 UTC_
 
 <p>As semiconductor manufacturing accelerates toward the 2-nanometer era, the complexity of artificial intelligence (AI) and high-performance computing (HPC) is driving an unprecedented surge in demand for materials analysis (MA). Once considered a secondary support function behind process engineering, materials analysis has become a decisive determinant of yield and process viability. In advanced chip R&#38;D, even [&#8230;]</p>
 <p>The post <a href="https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/">Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek&#8217;s Y.F. Hsieh Named EE Awards Asia Executive of the Year</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Overcoming Stiction on Elastomeric Seals for Semiconductor Applications](https://www.semiconductor-digest.com/overcoming-stiction-on-elastomeric-seals-for-semiconductor-applications/?utm_source=rss&utm_medium=rss&utm_campaign=overcoming-stiction-on-elastomeric-seals-for-semiconductor-applications)
+**Published:** Mon, 15 Dec 2025 16:07:00 +0000
+
+<p>By addressing the challenge of stiction through innovative materials and surface treatments, OEMs can significantly enhance the performance of their equipment.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/overcoming-stiction-on-elastomeric-seals-for-semiconductor-applications/">Overcoming Stiction on Elastomeric Seals for Semiconductor Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The Growing Demand for Laser-Grade Gases in Semiconductor Manufacturing Process](https://www.semiconductor-digest.com/the-growing-demand-for-laser-grade-gases-in-semiconductor-manufacturing-process/?utm_source=rss&utm_medium=rss&utm_campaign=the-growing-demand-for-laser-grade-gases-in-semiconductor-manufacturing-process)
+**Published:** Mon, 15 Dec 2025 15:48:08 +0000
+
+<p>Efficiency, yield and supply chain security depend on a consistent supply of high-purity gases.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-growing-demand-for-laser-grade-gases-in-semiconductor-manufacturing-process/">The Growing Demand for Laser-Grade Gases in Semiconductor Manufacturing Process</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Rethinking Connectivity for Lights-out Semiconductor Manufacturing](https://www.semiconductor-digest.com/rethinking-connectivity-for-lights-out-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=rethinking-connectivity-for-lights-out-semiconductor-manufacturing)
+**Published:** Mon, 15 Dec 2025 15:25:14 +0000
+
+<p>Advanced connectivity platforms are allowing fabs to implement precision gas, chemical and water management, automating delivery systems to dynamically adjust to real-time variations in process requirements. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/rethinking-connectivity-for-lights-out-semiconductor-manufacturing/">Rethinking Connectivity for Lights-out Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -818,27 +842,11 @@ _Last updated: 2025-12-15 15:39 UTC_
 
 ---
 
-## [Atomic Layer Deposition of High Purity AlScN Thin Films Achieved Through Ultrahigh Purity Conditions](https://www.semiconductor-digest.com/atomic-layer-deposition-of-high-purity-alscn-thin-films-achieved-through-ultrahigh-purity-conditions/?utm_source=rss&utm_medium=rss&utm_campaign=atomic-layer-deposition-of-high-purity-alscn-thin-films-achieved-through-ultrahigh-purity-conditions)
-**Published:** Mon, 17 Nov 2025 23:19:39 +0000
+## [Wolfspeed to Supply SiC to Toyota BEV Onboard Chargers](https://www.powerelectronicsnews.com/wolfspeed-to-supply-sic-to-toyota-bev-onboard-chargers/)
+**Published:** Mon, 15 Dec 2025 16:14:52 +0000
 
-<p>As semiconductor and microelectronic devices evolve, requiring atomic-scale manufacturing precision, the purity constraints on materials become extreme.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/atomic-layer-deposition-of-high-purity-alscn-thin-films-achieved-through-ultrahigh-purity-conditions/">Atomic Layer Deposition of High Purity AlScN Thin Films Achieved Through Ultrahigh Purity Conditions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Europe Announces 2025 20 Under 30 Awards](https://www.semiconductor-digest.com/semi-europe-announces-2025-20-under-30-awards/?utm_source=rss&utm_medium=rss&utm_campaign=semi-europe-announces-2025-20-under-30-awards)
-**Published:** Mon, 17 Nov 2025 23:08:24 +0000
-
-<p>SEMI Europe and the SEMI European Advisory Council for Diversity and Inclusion today announced the 2025 20 Under 30 Award recipients, celebrating outstanding young professionals who are shaping the future of the semiconductor industry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-europe-announces-2025-20-under-30-awards/">SEMI Europe Announces 2025 20 Under 30 Awards</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMICON Europa 2025 to Highlight Global Collaborations for European Economic Resilience](https://www.semiconductor-digest.com/semicon-europa-2025-to-highlight-global-collaborations-for-european-economic-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-europa-2025-to-highlight-global-collaborations-for-european-economic-resilience)
-**Published:** Mon, 17 Nov 2025 23:02:29 +0000
-
-<p>SEMICON Europa 2025, co-located with productronica, will return to Munich from November 18-21 to mark its 50th anniversary, bringing together global industry leaders, innovators, and policymakers to strengthen Europe’s position in the global semiconductor landscape.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semicon-europa-2025-to-highlight-global-collaborations-for-european-economic-resilience/">SEMICON Europa 2025 to Highlight Global Collaborations for European Economic Resilience</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Wolfspeed’s SiC MOSFETs Selected to Power Toyota’s Next-Generation EV Charging Systems." class="webfeedsFeaturedVisual wp-post-image" height="668" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/EV-charging.jpg?fit=1000%2C668" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Wolfspeed announced Toyota will deploy its automotive-grade SiC MOSFETs to power onboard charging across its BEV lineup. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-to-supply-sic-to-toyota-bev-onboard-chargers/">Wolfspeed to Supply SiC to Toyota BEV Onboard Chargers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -911,14 +919,6 @@ _Last updated: 2025-12-15 15:39 UTC_
 
 <img alt="TDK Corporation Launches Advanced S Series High-Power Inrush Current Limiters." class="webfeedsFeaturedVisual wp-post-image" height="1605" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/bild-w-background-en-data.png?fit=2400%2C1605" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The components provide reliable inrush current limiters performance for switch-mode supplies, frequency converters, photovoltaic inverters, UPS units, and soft-start motors.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/tdk-corporation-launches-advanced-s-series-of-high-power-inrush-current-limiters/">TDK Corporation Launches Advanced S Series of High-Power Inrush Current Limiters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Danisense, Current/OS Foundation Partner for the Future of DC Installations](https://www.powerelectronicsnews.com/danisense-current-os-foundation-partner-for-the-future-of-dc-installations/)
-**Published:** Thu, 11 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/AdobeStock_1269805355.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>Danisense and the Current/OS Foundation have established an open, nonprofit partnership to ensure reliable and sustainable AC/DC hybrid power distribution in buildings and facilities.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/danisense-current-os-foundation-partner-for-the-future-of-dc-installations/">Danisense, Current/OS Foundation Partner for the Future of DC Installations</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
