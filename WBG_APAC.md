@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-14 23:33 UTC_
+_Last updated: 2025-12-15 02:01 UTC_
+
+## [HKUST and SEMI Co-Host Inaugural SIIAS 2025](https://www.eetasia.com/hkust-and-semi-co-host-inaugural-siias-2025/)
+**Published:** Mon, 15 Dec 2025 01:36:53 +0000
+
+<p>The Summit focused on the latest technological advancements and global development strategies in the semiconductor industry.</p>
+<p>The post <a href="https://www.eetasia.com/hkust-and-semi-co-host-inaugural-siias-2025/">HKUST and SEMI Co-Host Inaugural SIIAS 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
 **Published:** Fri, 12 Dec 2025 04:18:26 +0000
