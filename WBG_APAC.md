@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-15 02:01 UTC_
+_Last updated: 2025-12-15 03:56 UTC_
+
+## [Lattice Receives 2025 GSA Award](https://www.eetasia.com/lattice-receives-2025-gsa-award/)
+**Published:** Mon, 15 Dec 2025 02:52:17 +0000
+
+<p>Lattice Semiconductor was selected as "Most Respected Public Semiconductor Company" at the 2025 Global Semiconductor Alliance (GSA) Awards.</p>
+<p>The post <a href="https://www.eetasia.com/lattice-receives-2025-gsa-award/">Lattice Receives 2025 GSA Award</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Wolfspeed SiC Components Powering Toyota’s EV Platforms](https://www.eetasia.com/wolfspeed-sic-components-powering-toyotas-ev-platforms/)
+**Published:** Mon, 15 Dec 2025 02:45:23 +0000
+
+<p>The SiC device adoption reflects Toyota's confidence in Wolfspeed's ability to meet the its rigorous standards for quality and long-term reliability.</p>
+<p>The post <a href="https://www.eetasia.com/wolfspeed-sic-components-powering-toyotas-ev-platforms/">Wolfspeed SiC Components Powering Toyota&#8217;s EV Platforms</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [HKUST and SEMI Co-Host Inaugural SIIAS 2025](https://www.eetasia.com/hkust-and-semi-co-host-inaugural-siias-2025/)
 **Published:** Mon, 15 Dec 2025 01:36:53 +0000
