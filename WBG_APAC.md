@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-15 19:34 UTC_
+_Last updated: 2025-12-15 20:39 UTC_
 
 ## [Lattice Receives 2025 GSA Award](https://www.eetasia.com/lattice-receives-2025-gsa-award/)
 **Published:** Mon, 15 Dec 2025 02:52:17 +0000
@@ -39,6 +39,14 @@ _Last updated: 2025-12-15 19:34 UTC_
 
 <p>As semiconductor manufacturing accelerates toward the 2-nanometer era, the complexity of artificial intelligence (AI) and high-performance computing (HPC) is driving an unprecedented surge in demand for materials analysis (MA). Once considered a secondary support function behind process engineering, materials analysis has become a decisive determinant of yield and process viability. In advanced chip R&#38;D, even [&#8230;]</p>
 <p>The post <a href="https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/">Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek&#8217;s Y.F. Hsieh Named EE Awards Asia Executive of the Year</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMICON Japan: The German Federal State Saxony Presents Itself as a Key European Location for the International Microelectronics Industry](https://www.semiconductor-digest.com/semicon-japan-the-german-federal-state-saxony-presents-itself-as-a-key-european-location-for-the-international-microelectronics-industry/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-japan-the-german-federal-state-saxony-presents-itself-as-a-key-european-location-for-the-international-microelectronics-industry)
+**Published:** Mon, 15 Dec 2025 19:27:45 +0000
+
+<p>The SACHSEN! joint stand at SEMICON Japan in Tokyo from 17 to 19 December will be the meeting point for innovative technologies and Saxony's top expertise.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semicon-japan-the-german-federal-state-saxony-presents-itself-as-a-key-european-location-for-the-international-microelectronics-industry/">SEMICON Japan: The German Federal State Saxony Presents Itself as a Key European Location for the International Microelectronics Industry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -831,14 +839,6 @@ _Last updated: 2025-12-15 19:34 UTC_
 
 <p>GF now the largest pure-play silicon photonics foundry, expanding global manufacturing capabilities to serve a broader customer base and meet the growing optical communication demands of AI datacenters.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-acquires-advanced-micro-foundry/">GlobalFoundries Acquires Advanced Micro Foundry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Portugal Strengthens its Position in Microelectronics Through the Development of Innovative Products and Technologies](https://www.semiconductor-digest.com/portugal-strengthens-its-position-in-microelectronics-through-the-development-of-innovative-products-and-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=portugal-strengthens-its-position-in-microelectronics-through-the-development-of-innovative-products-and-technologies)
-**Published:** Mon, 17 Nov 2025 23:26:42 +0000
-
-<p>Portugal is reinforcing its position in the European semiconductor and microelectronics landscape through the Microelectronics Agenda, a mobilizing project funded by the Portuguese Recovery and Resilience Plan (PRR) and the European Union’s NextGenerationEU.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/portugal-strengthens-its-position-in-microelectronics-through-the-development-of-innovative-products-and-technologies/">Portugal Strengthens its Position in Microelectronics Through the Development of Innovative Products and Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
