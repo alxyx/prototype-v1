@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-15 05:40 UTC_
+_Last updated: 2025-12-15 06:50 UTC_
 
 ## [Lattice Receives 2025 GSA Award](https://www.eetasia.com/lattice-receives-2025-gsa-award/)
 **Published:** Mon, 15 Dec 2025 02:52:17 +0000
@@ -943,14 +943,6 @@ _Last updated: 2025-12-15 05:40 UTC_
 
 <p>Q3 saw semiconductor revenue up 14.5% q-o-q at  $216 billion, reports Omdia  which is the first time quarterly revenues have  ever exceeded $200bn. At this pace, the industry is on ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/first-ever-200bn-quarter-2025-12/">First-ever $200bn semi revenue quarter</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [North East Space Communications Accelerator distributes £340K funding](https://www.electronicsweekly.com/news/research-news/north-east-space-communications-accelerator-distributes-340k-funding-2025-12/)
-**Published:** Fri, 12 Dec 2025 06:06:49 +0000
-
-<p>The North East Space Communications Accelerator (NESCA) has awarded its first round of innovation funding to seven projects. The organisation has distributed £340,000 across seven space communications and technology projects. ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/research-news/north-east-space-communications-accelerator-distributes-340k-funding-2025-12/">North East Space Communications Accelerator distributes £340K funding</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
