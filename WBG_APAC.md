@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-15 13:55 UTC_
+_Last updated: 2025-12-15 14:40 UTC_
 
 ## [Lattice Receives 2025 GSA Award](https://www.eetasia.com/lattice-receives-2025-gsa-award/)
 **Published:** Mon, 15 Dec 2025 02:52:17 +0000
@@ -842,6 +842,22 @@ _Last updated: 2025-12-15 13:55 UTC_
 
 ---
 
+## [The Evolving Landscape of SiC and GaN Markets](https://www.powerelectronicsnews.com/the-evolving-landscape-of-sic-and-gan-markets/)
+**Published:** Mon, 15 Dec 2025 14:27:06 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="597" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/GaN-and-SiC-image.png?fit=793%2C597" style="display: block; margin-bottom: 5px; clear: both;" width="793" /><p>SiC and GaN stand center stage, controlling many different industries’ dynamics.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-evolving-landscape-of-sic-and-gan-markets/">The Evolving Landscape of SiC and GaN Markets</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [PEN eBook December 2025 – Motor Drives: WBG Semiconductors, Diamond Substrates, and Magnetic Material Breakthroughs](https://www.powerelectronicsnews.com/motor-drives-wbg-semiconductors-diamond-substrates-and-magnetic-material-breakthroughs/)
+**Published:** Mon, 15 Dec 2025 14:26:32 +0000
+
+<img alt="Rapid Control Prototyping of Synchronous Reluctance Motor Drives by Matlab/Simulink" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/11/shutterstock_1939902241.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>As we close out 2025, we take a closer look at advances in motor control systems impacting industries ranging from industrial automation and control to military and automotive.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/motor-drives-wbg-semiconductors-diamond-substrates-and-magnetic-material-breakthroughs/">PEN eBook December 2025 – Motor Drives: WBG Semiconductors, Diamond Substrates, and Magnetic Material Breakthroughs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Digital Power Supply Control, SiC in AC Motor Drives, Small Fusion Reactors: Power Electronics Week Insights](https://www.powerelectronicsnews.com/digital-power-supply-control-sic-in-ac-motor-drives-small-fusion-reactors-power-electronics-week-insights/)
 **Published:** Fri, 12 Dec 2025 15:56:39 +0000
 
@@ -903,22 +919,6 @@ _Last updated: 2025-12-15 13:55 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/AdobeStock_1269805355.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>Danisense and the Current/OS Foundation have established an open, nonprofit partnership to ensure reliable and sustainable AC/DC hybrid power distribution in buildings and facilities.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/danisense-current-os-foundation-partner-for-the-future-of-dc-installations/">Danisense, Current/OS Foundation Partner for the Future of DC Installations</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [XP Power Brings Digital Control to the High-Voltage Power Supply Territory](https://www.powerelectronicsnews.com/exploring-xp-powers-wbq-series-of-10-kw-power-supply/)
-**Published:** Thu, 11 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="562" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/WBG-series.png?fit=1193%2C562" style="display: block; margin-bottom: 5px; clear: both;" width="1193" /><p>The XP Power SiC 10-kW PSU uses a high-voltage digital control loop for on-the-fly adjustments that previously required manual intervention.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/exploring-xp-powers-wbq-series-of-10-kw-power-supply/">XP Power Brings Digital Control to the High-Voltage Power Supply Territory</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Diodes Inc. Launches Programmable 5.5V/4A Buck Converter](https://www.powerelectronicsnews.com/diodes-inc-launches-programmable-5-5v-4a-buck-converter/)
-**Published:** Thu, 11 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="623" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2023/05/shutterstock_2141153287.jpg?fit=1000%2C623" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Diodes Inc. launches programmable 5.5V/4A buck converter with I2C interface for tightly-integrated automotive point-of-load (PoL) designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/diodes-inc-launches-programmable-5-5v-4a-buck-converter/">Diodes Inc. Launches Programmable 5.5V/4A Buck Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
