@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-15 14:40 UTC_
+_Last updated: 2025-12-15 15:39 UTC_
 
 ## [Lattice Receives 2025 GSA Award](https://www.eetasia.com/lattice-receives-2025-gsa-award/)
 **Published:** Mon, 15 Dec 2025 02:52:17 +0000
@@ -39,6 +39,14 @@ _Last updated: 2025-12-15 14:40 UTC_
 
 <p>As semiconductor manufacturing accelerates toward the 2-nanometer era, the complexity of artificial intelligence (AI) and high-performance computing (HPC) is driving an unprecedented surge in demand for materials analysis (MA). Once considered a secondary support function behind process engineering, materials analysis has become a decisive determinant of yield and process viability. In advanced chip R&#38;D, even [&#8230;]</p>
 <p>The post <a href="https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/">Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek&#8217;s Y.F. Hsieh Named EE Awards Asia Executive of the Year</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Sensing the Shift: Trends in Smart Industrial Automation](https://www.semiconductor-digest.com/sensing-the-shift-trends-in-smart-industrial-automation/?utm_source=rss&utm_medium=rss&utm_campaign=sensing-the-shift-trends-in-smart-industrial-automation)
+**Published:** Mon, 15 Dec 2025 15:01:29 +0000
+
+<p>Advanced sensing options, whether they are optical, infrared, inductive, LiDAR or ultrasonic, are game changers in allowing manufacturers to better understand the environment in real time on the factory floor.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sensing-the-shift-trends-in-smart-industrial-automation/">Sensing the Shift: Trends in Smart Industrial Automation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -831,14 +839,6 @@ _Last updated: 2025-12-15 14:40 UTC_
 
 <p>SEMICON Europa 2025, co-located with productronica, will return to Munich from November 18-21 to mark its 50th anniversary, bringing together global industry leaders, innovators, and policymakers to strengthen Europe’s position in the global semiconductor landscape.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semicon-europa-2025-to-highlight-global-collaborations-for-european-economic-resilience/">SEMICON Europa 2025 to Highlight Global Collaborations for European Economic Resilience</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Tower Semiconductor and Switch Semiconductor Collaborate to Deliver Efficiency for Next-Generation AI and Server Power Systems](https://www.semiconductor-digest.com/tower-semiconductor-and-switch-semiconductor-collaborate-to-deliver-efficiency-for-next-generation-ai-and-server-power-systems/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-and-switch-semiconductor-collaborate-to-deliver-efficiency-for-next-generation-ai-and-server-power-systems)
-**Published:** Mon, 17 Nov 2025 22:02:34 +0000
-
-<p>Tower Semiconductor and Switch Semiconductor today announced the SW2001, a high-efficiency, monolithic 12-V Point-of-Load (POL) buck regulator designed on Tower’s industry-leading 65nm BCD platform.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-and-switch-semiconductor-collaborate-to-deliver-efficiency-for-next-generation-ai-and-server-power-systems/">Tower Semiconductor and Switch Semiconductor Collaborate to Deliver Efficiency for Next-Generation AI and Server Power Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
