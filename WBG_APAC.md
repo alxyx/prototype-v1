@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-16 13:53 UTC_
+_Last updated: 2025-12-16 14:38 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -850,6 +850,22 @@ _Last updated: 2025-12-16 13:53 UTC_
 
 ---
 
+## [NTT Develops Novel Ultra-Wide Bandgap AlN Device Structure](https://www.powerelectronicsnews.com/ntt-develops-novel-ultra-wide-bandgap-aln-device-structure/)
+**Published:** Tue, 16 Dec 2025 14:01:15 +0000
+
+<img alt="NTT Demonstrates First Millimeter-Wave Amplification with AlN Transistors." class="webfeedsFeaturedVisual wp-post-image" height="431" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/NTT_AlN_Transistors.jpg?fit=600%2C431" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>NTT, Inc. has demonstrated amplification of high-frequency wireless signals using aluminum nitride (AlN)–based transistors. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ntt-develops-novel-ultra-wide-bandgap-aln-device-structure/">NTT Develops Novel Ultra-Wide Bandgap AlN Device Structure </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [CHIPX Plans for ASEAN region’s First 200-mm Wafer Fab](https://www.powerelectronicsnews.com/chipx-plans-for-asean-regions-first-200-mm-wafer-fab/)
+**Published:** Tue, 16 Dec 2025 14:01:07 +0000
+
+<img alt="CHIPX™ Unveils Plans for ASEAN’s First Advanced 200mm GaN/SiC Wafer Fab in Malaysia." class="webfeedsFeaturedVisual wp-post-image" height="1366" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Chinmoy-Baruah-CHIPX_Anwar-Ibrahim.jpg?fit=2048%2C1366" style="display: block; margin-bottom: 5px; clear: both;" width="2048" /><p>The new wafer fab introduces advanced GaN and SiC manufacturing, positioning Malaysia to enter front-end semiconductor production for the first time.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/chipx-plans-for-asean-regions-first-200-mm-wafer-fab/">CHIPX Plans for ASEAN region’s First 200-mm Wafer Fab</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Wolfspeed to Supply SiC to Toyota BEV Onboard Chargers](https://www.powerelectronicsnews.com/wolfspeed-to-supply-sic-to-toyota-bev-onboard-chargers/)
 **Published:** Mon, 15 Dec 2025 16:14:52 +0000
 
@@ -911,22 +927,6 @@ _Last updated: 2025-12-16 13:53 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1114" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/November-2025-eBook-.png?fit=778%2C1114" style="display: block; margin-bottom: 5px; clear: both;" width="778" /><p>WBG semiconductors are changing the way modern technology works. Materials such as GaN and SiC are changing the game in power electronics.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/engineering-tomorrow-gan-sic-and-the-future-of-sustainable-energy-systems/">PEN eBook November 2025 &#8211; GaN and SiC Special Report</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ROHM Begins High-Volume Production of 750V SiC MOSFETs in TOLL Package](https://www.powerelectronicsnews.com/rohm-begins-high-volume-production-of-750v-sic-mosfets-in-toll-package/)
-**Published:** Thu, 11 Dec 2025 15:41:00 +0000
-
-<img alt="ROHM Begins High-Volume Production of 750V SiC MOSFETs in TOLL Package." class="webfeedsFeaturedVisual wp-post-image" height="1244" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/ROHM_PR.png?fit=1156%2C1244" style="display: block; margin-bottom: 5px; clear: both;" width="1156" /><p>The newly introduced SiC MOSFETs shrink the component size by about 26% and feature an ultra-thin 2.3 mm profile.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/rohm-begins-high-volume-production-of-750v-sic-mosfets-in-toll-package/">ROHM Begins High-Volume Production of 750V SiC MOSFETs in TOLL Package</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TDK Corporation Launches Advanced S Series of High-Power Inrush Current Limiters](https://www.powerelectronicsnews.com/tdk-corporation-launches-advanced-s-series-of-high-power-inrush-current-limiters/)
-**Published:** Thu, 11 Dec 2025 14:26:36 +0000
-
-<img alt="TDK Corporation Launches Advanced S Series High-Power Inrush Current Limiters." class="webfeedsFeaturedVisual wp-post-image" height="1605" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/bild-w-background-en-data.png?fit=2400%2C1605" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The components provide reliable inrush current limiters performance for switch-mode supplies, frequency converters, photovoltaic inverters, UPS units, and soft-start motors.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tdk-corporation-launches-advanced-s-series-of-high-power-inrush-current-limiters/">TDK Corporation Launches Advanced S Series of High-Power Inrush Current Limiters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
