@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-16 04:49 UTC_
+_Last updated: 2025-12-16 05:37 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -954,10 +954,10 @@ _Last updated: 2025-12-16 04:49 UTC_
 
 ---
 
-## [JOB: Technician At Flex In Chennai](https://www.electronicsforu.com/career/technician-at-flex-chennai)
-**Published:** Fri, 12 Dec 2025 12:40:00 +0000
+## [JOB: Memory Layout Engineer At Mobiveil In Bengaluru](https://www.electronicsforu.com/career/memory-layout-engineer-mobiveil-bengaluru)
+**Published:** Mon, 15 Dec 2025 09:12:16 +0000
 
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Chennai Company: Flex Job Summary Experience
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Mobiveil-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Mobiveil Experience: 4 to 8 Years Job Description We are seeking experienced Memory Layout Engineers with hands-on expertise in 3nm or below process nodes. The ideal candidate should have a strong background in custom layout design and verification for advanced semiconductor technologies. Work Mode: Fully onsite (Monday to [&#8230;]
 
 ---
 
