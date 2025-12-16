@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-16 01:57 UTC_
+_Last updated: 2025-12-16 03:38 UTC_
+
+## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
+**Published:** Tue, 16 Dec 2025 02:48:31 +0000
+
+<p>Siemens and GF have deepened their strategic partnership with a new collaboration aimed at deploying AI-driven manufacturing technologies.</p>
+<p>The post <a href="https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/">Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMIFIVE Lands AI Chip Design Projects in Japan](https://www.eetasia.com/semifive-lands-ai-chip-design-projects-in-japan/)
+**Published:** Tue, 16 Dec 2025 02:21:07 +0000
+
+<p>On the heels of its establishing a subsidiary in Tokyo, SEMIFIVE has secured multiple AI semiconductor design projects in Japan.</p>
+<p>The post <a href="https://www.eetasia.com/semifive-lands-ai-chip-design-projects-in-japan/">SEMIFIVE Lands AI Chip Design Projects in Japan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Lattice Receives 2025 GSA Award](https://www.eetasia.com/lattice-receives-2025-gsa-award/)
 **Published:** Mon, 15 Dec 2025 02:52:17 +0000
@@ -31,14 +47,6 @@ _Last updated: 2025-12-16 01:57 UTC_
 
 <p>NIKO-SEM's SPR Pack SiC module earned a Best Power Semiconductor of the Year award at EE Awards Asia 2025.</p>
 <p>The post <a href="https://www.eetasia.com/niko-sem-recognized-for-technical-excellence-wins-best-power-semiconductor-at-the-ee-awards-asia/">NIKO-SEM Recognized for Technical Excellence, Wins &#8220;Best Power Semiconductor&#8221; at the EE Awards Asia</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
-**Published:** Fri, 12 Dec 2025 04:18:26 +0000
-
-<p>As semiconductor manufacturing accelerates toward the 2-nanometer era, the complexity of artificial intelligence (AI) and high-performance computing (HPC) is driving an unprecedented surge in demand for materials analysis (MA). Once considered a secondary support function behind process engineering, materials analysis has become a decisive determinant of yield and process viability. In advanced chip R&#38;D, even [&#8230;]</p>
-<p>The post <a href="https://www.eetasia.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/">Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek&#8217;s Y.F. Hsieh Named EE Awards Asia Executive of the Year</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
