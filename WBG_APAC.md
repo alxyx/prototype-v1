@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-16 06:48 UTC_
+_Last updated: 2025-12-16 07:37 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -943,14 +943,6 @@ _Last updated: 2025-12-16 06:48 UTC_
 
 <p>Mobius Materials raises $3 million to scale a platform that connects buyers and sellers of excess electronic components.</p>
 <p>The post <a href="https://www.eetimes.com/seeking-flexibility-in-a-rigid-semiconductor-supply-chain/">Seeking Flexibility in a Rigid Semiconductor Supply Chain</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Wireless module certified for Skylo satellite IoT network](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/wireless-module-certified-for-skylo-satellite-iot-network-2025-12/)
-**Published:** Fri, 12 Dec 2025 10:54:29 +0000
-
-<p>Nordic Semiconductor has had its nRF9151 cellular wireless IoT module certified for satellite network use on Skylo&#8217;s service. &#8220;The certification ensures compliance with Skylo&#8217;s satellite network spanning 36 countries and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/wireless-module-certified-for-skylo-satellite-iot-network-2025-12/">Wireless module certified for Skylo satellite IoT network</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
