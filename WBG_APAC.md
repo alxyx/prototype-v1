@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-16 09:40 UTC_
+_Last updated: 2025-12-16 10:39 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -954,10 +954,24 @@ _Last updated: 2025-12-16 09:40 UTC_
 
 ---
 
-## [JOB: Memory Layout Engineer At Mobiveil In Bengaluru](https://www.electronicsforu.com/career/memory-layout-engineer-mobiveil-bengaluru)
-**Published:** Mon, 15 Dec 2025 09:12:16 +0000
+## [DT Intern At General Electric In Chennai](https://www.electronicsforu.com/career/dt-intern-at-general-electric-chennai)
+**Published:** Tue, 16 Dec 2025 09:29:06 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Mobiveil-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Mobiveil Experience: 4 to 8 Years Job Description We are seeking experienced Memory Layout Engineers with hands-on expertise in 3nm or below process nodes. The ideal candidate should have a strong background in custom layout design and verification for advanced semiconductor technologies. Work Mode: Fully onsite (Monday to [&#8230;]
+<img alt="General Electrics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/11/General-Electric-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Chennai Company: General Electric Electrical Design Engineering Internship – work with Electrical and Power Electronics engineers in assigned project in the field of Electrical Design. Job Summary Intern will work in the field of Electrical design/study and Power Electronics engineering under the mentorship of technical expert in this field. The individual will [&#8230;]
+
+---
+
+## [What Makes A Good Proton Conductor?](https://www.electronicsforu.com/news/what-makes-a-good-proton-conductor)
+**Published:** Tue, 16 Dec 2025 06:45:03 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/MIT-Oxygen-Materials-01-press_0-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />MIT researchers have developed a method to predict how well materials can move protons in clean energy devices and other advanced technologies. Many advanced energy technologies, including fuel cells, electrolyzers, and some low-power electronics, rely on protons to carry electric charge, and their performance depends largely on how easily protons can move. Metal oxides can [&#8230;]
+
+---
+
+## [High-Density SiC Power Modules](https://www.electronicsforu.com/news/high-density-sic-power-modules)
+**Published:** Tue, 16 Dec 2025 06:24:34 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/np-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new generation of 1200 V silicon carbide power modules raises the bar on current density and thermal performance, targeting high-power EV charging, industrial drives, and energy conversion systems. A new generation of 1200 V silicon carbide power modules is entering the market, targeting the rising performance demands of high-power industrial systems and electric vehicle [&#8230;]
 
 ---
 
