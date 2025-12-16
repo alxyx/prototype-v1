@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-16 07:37 UTC_
+_Last updated: 2025-12-16 08:45 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -927,6 +927,14 @@ _Last updated: 2025-12-16 07:37 UTC_
 
 <img alt="TDK Corporation Launches Advanced S Series High-Power Inrush Current Limiters." class="webfeedsFeaturedVisual wp-post-image" height="1605" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/bild-w-background-en-data.png?fit=2400%2C1605" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The components provide reliable inrush current limiters performance for switch-mode supplies, frequency converters, photovoltaic inverters, UPS units, and soft-start motors.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/tdk-corporation-launches-advanced-s-series-of-high-power-inrush-current-limiters/">TDK Corporation Launches Advanced S Series of High-Power Inrush Current Limiters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [SiC Modules, Converter Designs Come into Focus at PCIM India Debut](https://www.eetimes.com/sic-modules-converter-designs-come-into-focus-at-pcim-india-debut/)
+**Published:** Tue, 16 Dec 2025 08:00:00 +0000
+
+<p>Explore SiC module innovations and converter designs unveiled at PCIM India.</p>
+<p>The post <a href="https://www.eetimes.com/sic-modules-converter-designs-come-into-focus-at-pcim-india-debut/">SiC Modules, Converter Designs Come into Focus at PCIM India Debut</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
