@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-15 23:36 UTC_
+_Last updated: 2025-12-16 01:57 UTC_
 
 ## [Lattice Receives 2025 GSA Award](https://www.eetasia.com/lattice-receives-2025-gsa-award/)
 **Published:** Mon, 15 Dec 2025 02:52:17 +0000
