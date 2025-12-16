@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-16 16:44 UTC_
+_Last updated: 2025-12-16 17:38 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -47,6 +47,30 @@ _Last updated: 2025-12-16 16:44 UTC_
 
 <p>NIKO-SEM's SPR Pack SiC module earned a Best Power Semiconductor of the Year award at EE Awards Asia 2025.</p>
 <p>The post <a href="https://www.eetasia.com/niko-sem-recognized-for-technical-excellence-wins-best-power-semiconductor-at-the-ee-awards-asia/">NIKO-SEM Recognized for Technical Excellence, Wins &#8220;Best Power Semiconductor&#8221; at the EE Awards Asia</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Toshiba to Accelerate Semiconductor Design Innovation with Siemens’ EDA Software](https://www.semiconductor-digest.com/toshiba-to-accelerate-semiconductor-design-innovation-with-siemens-eda-software/?utm_source=rss&utm_medium=rss&utm_campaign=toshiba-to-accelerate-semiconductor-design-innovation-with-siemens-eda-software)
+**Published:** Tue, 16 Dec 2025 17:08:39 +0000
+
+<p>Japanese company to leverage a range of Siemens’ EDA technologies to speed design, enhance power integrity and boost overall reliability for its next generation of analog ICs and power devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/toshiba-to-accelerate-semiconductor-design-innovation-with-siemens-eda-software/">Toshiba to Accelerate Semiconductor Design Innovation with Siemens’ EDA Software</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Omdia: Automotive OLED Panel Shipments to Grow 11.8% YoY in 2025](https://www.semiconductor-digest.com/omdia-automotive-oled-panel-shipments-to-grow-11-8-yoy-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-automotive-oled-panel-shipments-to-grow-11-8-yoy-in-2025)
+**Published:** Tue, 16 Dec 2025 16:59:32 +0000
+
+<p>Global automotive OLED panel shipments are on track to grow 11.8% year-on-year (YoY) growth in 2025, reaching approximately 3.05 million units, according to Omdia’s Automotive Display Market Intelligence Service.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-automotive-oled-panel-shipments-to-grow-11-8-yoy-in-2025/">Omdia: Automotive OLED Panel Shipments to Grow 11.8% YoY in 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Global Semiconductor Equipment Sales Projected to Reach a Record of $156 Billion in 2027](https://www.semiconductor-digest.com/global-semiconductor-equipment-sales-projected-to-reach-a-record-of-156-billion-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-equipment-sales-projected-to-reach-a-record-of-156-billion-in-2027)
+**Published:** Tue, 16 Dec 2025 16:52:37 +0000
+
+<p>Global sales of total semiconductor manufacturing equipment by original equipment manufacturers (OEMs) are forecast to reach a record high of $133 billion in 2025, growing 13.7% year-on-year, SEMI announced today.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-equipment-sales-projected-to-reach-a-record-of-156-billion-in-2027/">Global Semiconductor Equipment Sales Projected to Reach a Record of $156 Billion in 2027</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -823,30 +847,6 @@ _Last updated: 2025-12-16 16:44 UTC_
 
 <p>New analysis from Omdia’s Tablet and Notebook Display and OEM Intelligence Service shows that OLED tablet panel shipments are expected to grow by 39% year-on-year (YoY) to 15 million units in 2026, after many years of lower-than-expected growth.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/tablet-oled-display-shipments-to-grow-39-yoy-in-2026-while-lcd-remains-stable/">Tablet OLED Display Shipments to Grow 39% YoY in 2026 While LCD Remains Stable</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CEA-Leti to Launch Multilateral Program to Accelerate AI with MicroLED Data Links](https://www.semiconductor-digest.com/cea-leti-to-launch-multilateral-program-to-accelerate-ai-with-microled-data-links/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-to-launch-multilateral-program-to-accelerate-ai-with-microled-data-links)
-**Published:** Tue, 18 Nov 2025 20:46:30 +0000
-
-<p>CEA-Leti is launching a multilateral program on microLED technology for ultra-fast data transfer, with a particular focus on accelerating artificial intelligence (AI) growth.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-to-launch-multilateral-program-to-accelerate-ai-with-microled-data-links/">CEA-Leti to Launch Multilateral Program to Accelerate AI with MicroLED Data Links</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nearfield Instruments Signs Multi-Year Development Project to Advance Semiconductor Metrology](https://www.semiconductor-digest.com/nearfield-instruments-signs-multi-year-development-project-to-advance-semiconductor-metrology/?utm_source=rss&utm_medium=rss&utm_campaign=nearfield-instruments-signs-multi-year-development-project-to-advance-semiconductor-metrology)
-**Published:** Tue, 18 Nov 2025 20:43:40 +0000
-
-<p>Nearfield Instruments, the leader in 3D, non-destructive, in-line process control solutions based on scanning probe technology, today announced a strategic development project to accelerate innovation in semiconductor metrology.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nearfield-instruments-signs-multi-year-development-project-to-advance-semiconductor-metrology/">Nearfield Instruments Signs Multi-Year Development Project to Advance Semiconductor Metrology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries Acquires Advanced Micro Foundry](https://www.semiconductor-digest.com/globalfoundries-acquires-advanced-micro-foundry/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-acquires-advanced-micro-foundry)
-**Published:** Tue, 18 Nov 2025 20:40:28 +0000
-
-<p>GF now the largest pure-play silicon photonics foundry, expanding global manufacturing capabilities to serve a broader customer base and meet the growing optical communication demands of AI datacenters.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-acquires-advanced-micro-foundry/">GlobalFoundries Acquires Advanced Micro Foundry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
