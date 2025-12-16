@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-16 20:39 UTC_
+_Last updated: 2025-12-16 21:35 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -47,6 +47,22 @@ _Last updated: 2025-12-16 20:39 UTC_
 
 <p>NIKO-SEM's SPR Pack SiC module earned a Best Power Semiconductor of the Year award at EE Awards Asia 2025.</p>
 <p>The post <a href="https://www.eetasia.com/niko-sem-recognized-for-technical-excellence-wins-best-power-semiconductor-at-the-ee-awards-asia/">NIKO-SEM Recognized for Technical Excellence, Wins &#8220;Best Power Semiconductor&#8221; at the EE Awards Asia</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [AI-Boom Drives Semiconductor Industry Confidence to Near-Record High, But Supply Chain and Infrastructure Concerns Intensify](https://www.semiconductor-digest.com/ai-boom-drives-semiconductor-industry-confidence-to-near-record-high-but-supply-chain-and-infrastructure-concerns-intensify/?utm_source=rss&utm_medium=rss&utm_campaign=ai-boom-drives-semiconductor-industry-confidence-to-near-record-high-but-supply-chain-and-infrastructure-concerns-intensify)
+**Published:** Tue, 16 Dec 2025 21:17:19 +0000
+
+<p>For the first time, tariffs and trade policy surpass talent risk as the no.1 concern.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ai-boom-drives-semiconductor-industry-confidence-to-near-record-high-but-supply-chain-and-infrastructure-concerns-intensify/">AI-Boom Drives Semiconductor Industry Confidence to Near-Record High, But Supply Chain and Infrastructure Concerns Intensify</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NHanced Semiconductors Leads the Semiconductor Industry in Heterogeneous Hybrid Bonding Production](https://www.semiconductor-digest.com/nhanced-semiconductors-leads-the-semiconductor-industry-in-heterogeneous-hybrid-bonding-production/?utm_source=rss&utm_medium=rss&utm_campaign=nhanced-semiconductors-leads-the-semiconductor-industry-in-heterogeneous-hybrid-bonding-production)
+**Published:** Tue, 16 Dec 2025 21:03:03 +0000
+
+<p>The company’s recently delivered Besi Datacon 8800 CHAMEOultra plus system is the world’s first operational advanced bonder of its kind to enter production.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nhanced-semiconductors-leads-the-semiconductor-industry-in-heterogeneous-hybrid-bonding-production/">NHanced Semiconductors Leads the Semiconductor Industry in Heterogeneous Hybrid Bonding Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -831,22 +847,6 @@ _Last updated: 2025-12-16 20:39 UTC_
 
 <p>Deloitte today released its annual “Technology, Media &#038; Telecommunications Predictions” report, which highlights how AI is redefining the foundations of hardware, software, telecom, and media.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/deloitte-2026-technology-media-telecommunications-predictions-narrowing-the-gap-between-the-promise-of-ai-and-its-reality/">Deloitte 2026 Technology, Media &#038; Telecommunications Predictions: Narrowing the Gap Between the Promise of AI and its Reality</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [productronica Innovation Award 2025: Winners Announced](https://www.semiconductor-digest.com/productronica-innovation-award-2025-winners-announced/?utm_source=rss&utm_medium=rss&utm_campaign=productronica-innovation-award-2025-winners-announced)
-**Published:** Tue, 18 Nov 2025 21:39:45 +0000
-
-<p>An independent jury has selected the best innovations from among 80 submissions in six categories.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/productronica-innovation-award-2025-winners-announced/">productronica Innovation Award 2025: Winners Announced</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Tablet OLED Display Shipments to Grow 39% YoY in 2026 While LCD Remains Stable](https://www.semiconductor-digest.com/tablet-oled-display-shipments-to-grow-39-yoy-in-2026-while-lcd-remains-stable/?utm_source=rss&utm_medium=rss&utm_campaign=tablet-oled-display-shipments-to-grow-39-yoy-in-2026-while-lcd-remains-stable)
-**Published:** Tue, 18 Nov 2025 20:53:39 +0000
-
-<p>New analysis from Omdia’s Tablet and Notebook Display and OEM Intelligence Service shows that OLED tablet panel shipments are expected to grow by 39% year-on-year (YoY) to 15 million units in 2026, after many years of lower-than-expected growth.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tablet-oled-display-shipments-to-grow-39-yoy-in-2026-while-lcd-remains-stable/">Tablet OLED Display Shipments to Grow 39% YoY in 2026 While LCD Remains Stable</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
