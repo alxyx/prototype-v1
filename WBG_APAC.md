@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-17 01:53 UTC_
+_Last updated: 2025-12-17 03:35 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -31,22 +31,6 @@ _Last updated: 2025-12-17 01:53 UTC_
 
 <p>The SiC device adoption reflects Toyota's confidence in Wolfspeed's ability to meet the its rigorous standards for quality and long-term reliability.</p>
 <p>The post <a href="https://www.eetasia.com/wolfspeed-sic-components-powering-toyotas-ev-platforms/">Wolfspeed SiC Components Powering Toyota&#8217;s EV Platforms</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [HKUST and SEMI Co-Host Inaugural SIIAS 2025](https://www.eetasia.com/hkust-and-semi-co-host-inaugural-siias-2025/)
-**Published:** Mon, 15 Dec 2025 01:36:53 +0000
-
-<p>The Summit focused on the latest technological advancements and global development strategies in the semiconductor industry.</p>
-<p>The post <a href="https://www.eetasia.com/hkust-and-semi-co-host-inaugural-siias-2025/">HKUST and SEMI Co-Host Inaugural SIIAS 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [NIKO-SEM Recognized for Technical Excellence, Wins “Best Power Semiconductor” at the EE Awards Asia](https://www.eetasia.com/niko-sem-recognized-for-technical-excellence-wins-best-power-semiconductor-at-the-ee-awards-asia/)
-**Published:** Fri, 12 Dec 2025 10:13:16 +0000
-
-<p>NIKO-SEM's SPR Pack SiC module earned a Best Power Semiconductor of the Year award at EE Awards Asia 2025.</p>
-<p>The post <a href="https://www.eetasia.com/niko-sem-recognized-for-technical-excellence-wins-best-power-semiconductor-at-the-ee-awards-asia/">NIKO-SEM Recognized for Technical Excellence, Wins &#8220;Best Power Semiconductor&#8221; at the EE Awards Asia</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
