@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-17 06:48 UTC_
+_Last updated: 2025-12-17 07:37 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -922,24 +922,11 @@ _Last updated: 2025-12-17 06:48 UTC_
 
 ---
 
-## [DT Intern At General Electric In Chennai](https://www.electronicsforu.com/career/dt-intern-at-general-electric-chennai)
-**Published:** Tue, 16 Dec 2025 09:29:06 +0000
+## [Semi manufacturing equipment sales to grow 9% this year and 7.3% next.](https://www.electronicsweekly.com/news/business/seni-manufacturing-equipment-sales-to-grow-9-this-year-and-7-3-next-2025-12/)
+**Published:** Wed, 17 Dec 2025 06:16:32 +0000
 
-<img alt="General Electrics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/11/General-Electric-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Chennai Company: General Electric Electrical Design Engineering Internship – work with Electrical and Power Electronics engineers in assigned project in the field of Electrical Design. Job Summary Intern will work in the field of Electrical design/study and Power Electronics engineering under the mentorship of technical expert in this field. The individual will [&#8230;]
-
----
-
-## [What Makes A Good Proton Conductor?](https://www.electronicsforu.com/news/what-makes-a-good-proton-conductor)
-**Published:** Tue, 16 Dec 2025 06:45:03 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/MIT-Oxygen-Materials-01-press_0-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />MIT researchers have developed a method to predict how well materials can move protons in clean energy devices and other advanced technologies. Many advanced energy technologies, including fuel cells, electrolyzers, and some low-power electronics, rely on protons to carry electric charge, and their performance depends largely on how easily protons can move. Metal oxides can [&#8230;]
-
----
-
-## [High-Density SiC Power Modules](https://www.electronicsforu.com/news/high-density-sic-power-modules)
-**Published:** Tue, 16 Dec 2025 06:24:34 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/np-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new generation of 1200 V silicon carbide power modules raises the bar on current density and thermal performance, targeting high-power EV charging, industrial drives, and energy conversion systems. A new generation of 1200 V silicon carbide power modules is entering the market, targeting the rising performance demands of high-power industrial systems and electric vehicle [&#8230;]
+<p>Sales of  semiconductor manufacturing equipment will rise about 9% to $126 billion in 2026 and a further 7.3% to $135 billion in 2027, says SEMI, SEMI expects China, Taiwan and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/seni-manufacturing-equipment-sales-to-grow-9-this-year-and-7-3-next-2025-12/">Semi manufacturing equipment sales to grow 9% this year and 7.3% next.</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
