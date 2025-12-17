@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-17 20:39 UTC_
+_Last updated: 2025-12-17 21:34 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-12-17 20:39 UTC_
 
 <p>On the heels of its establishing a subsidiary in Tokyo, SEMIFIVE has secured multiple AI semiconductor design projects in Japan.</p>
 <p>The post <a href="https://www.eetasia.com/semifive-lands-ai-chip-design-projects-in-japan/">SEMIFIVE Lands AI Chip Design Projects in Japan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Avnet ASIC and Bar-Ilan University Launch Innovation Center for Next Generation Chiplets](https://www.semiconductor-digest.com/avnet-asic-and-bar-ilan-university-launch-innovation-center-for-next-generation-chiplets/?utm_source=rss&utm_medium=rss&utm_campaign=avnet-asic-and-bar-ilan-university-launch-innovation-center-for-next-generation-chiplets)
+**Published:** Wed, 17 Dec 2025 20:25:16 +0000
+
+<p>Collaboration aims to accelerate Europe’s adoption of chiplets and advanced 2.5D and 3D chip packaging solutions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/avnet-asic-and-bar-ilan-university-launch-innovation-center-for-next-generation-chiplets/">Avnet ASIC and Bar-Ilan University Launch Innovation Center for Next Generation Chiplets</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-12-17 20:39 UTC_
 
 <p>High-performance, low-cost PicoJool VCSELs to bridge to the photonic future.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/picojool-emerges-from-stealth-with-12-million-to-solve-the-bandwidth-gulf-of-ai-data-centers/">PicoJool Emerges From Stealth With $12 Million to Solve the Bandwidth Gulf of AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Wooptix Launches New Phemet In-line Semiconductor Wafer Metrology Fab Solution with Industry-leading Speed and Resolution](https://www.semiconductor-digest.com/wooptix-launches-new-phemet-in-line-semiconductor-wafer-metrology-fab-solution-with-industry-leading-speed-and-resolution/?utm_source=rss&utm_medium=rss&utm_campaign=wooptix-launches-new-phemet-in-line-semiconductor-wafer-metrology-fab-solution-with-industry-leading-speed-and-resolution)
-**Published:** Wed, 19 Nov 2025 20:14:06 +0000
-
-<p>Phemet captures more than 16 million data points in one second with ultra-high resolution for highly accurate surface measurements of memory and logic devices and advanced packages.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/wooptix-launches-new-phemet-in-line-semiconductor-wafer-metrology-fab-solution-with-industry-leading-speed-and-resolution/">Wooptix Launches New Phemet In-line Semiconductor Wafer Metrology Fab Solution with Industry-leading Speed and Resolution</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
