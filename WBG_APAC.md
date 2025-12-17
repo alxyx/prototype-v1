@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-17 03:35 UTC_
+_Last updated: 2025-12-17 04:48 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -15,22 +15,6 @@ _Last updated: 2025-12-17 03:35 UTC_
 
 <p>On the heels of its establishing a subsidiary in Tokyo, SEMIFIVE has secured multiple AI semiconductor design projects in Japan.</p>
 <p>The post <a href="https://www.eetasia.com/semifive-lands-ai-chip-design-projects-in-japan/">SEMIFIVE Lands AI Chip Design Projects in Japan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Lattice Receives 2025 GSA Award](https://www.eetasia.com/lattice-receives-2025-gsa-award/)
-**Published:** Mon, 15 Dec 2025 02:52:17 +0000
-
-<p>Lattice Semiconductor was selected as "Most Respected Public Semiconductor Company" at the 2025 Global Semiconductor Alliance (GSA) Awards.</p>
-<p>The post <a href="https://www.eetasia.com/lattice-receives-2025-gsa-award/">Lattice Receives 2025 GSA Award</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Wolfspeed SiC Components Powering Toyota’s EV Platforms](https://www.eetasia.com/wolfspeed-sic-components-powering-toyotas-ev-platforms/)
-**Published:** Mon, 15 Dec 2025 02:45:23 +0000
-
-<p>The SiC device adoption reflects Toyota's confidence in Wolfspeed's ability to meet the its rigorous standards for quality and long-term reliability.</p>
-<p>The post <a href="https://www.eetasia.com/wolfspeed-sic-components-powering-toyotas-ev-platforms/">Wolfspeed SiC Components Powering Toyota&#8217;s EV Platforms</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
