@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-17 17:36 UTC_
+_Last updated: 2025-12-17 18:47 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -919,14 +919,6 @@ _Last updated: 2025-12-17 17:36 UTC_
 
 <p>Advanced packaging could revolutionize AI chip manufacturing, but critical bottlenecks remain. </p>
 <p>The post <a href="https://www.eetimes.com/addressing-the-biggest-bottleneck-in-the-ai-semiconductor-ecosystem/">Addressing the Biggest Bottleneck in the AI Semiconductor Ecosystem</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Seeking Flexibility in a Rigid Semiconductor Supply Chain](https://www.eetimes.com/seeking-flexibility-in-a-rigid-semiconductor-supply-chain/)
-**Published:** Fri, 12 Dec 2025 13:00:00 +0000
-
-<p>Mobius Materials raises $3 million to scale a platform that connects buyers and sellers of excess electronic components.</p>
-<p>The post <a href="https://www.eetimes.com/seeking-flexibility-in-a-rigid-semiconductor-supply-chain/">Seeking Flexibility in a Rigid Semiconductor Supply Chain</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
