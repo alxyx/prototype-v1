@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-17 12:59 UTC_
+_Last updated: 2025-12-17 13:47 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -895,6 +895,14 @@ _Last updated: 2025-12-17 12:59 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1114" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/November-2025-eBook-.png?fit=778%2C1114" style="display: block; margin-bottom: 5px; clear: both;" width="778" /><p>WBG semiconductors are changing the way modern technology works. Materials such as GaN and SiC are changing the game in power electronics.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/engineering-tomorrow-gan-sic-and-the-future-of-sustainable-energy-systems/">PEN eBook November 2025 &#8211; GaN and SiC Special Report</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [AI’s Booming Demand Meets a Semiconductor Reality Check](https://www.eetimes.com/ais-booming-demand-meets-a-semiconductor-reality-check/)
+**Published:** Wed, 17 Dec 2025 13:00:00 +0000
+
+<p>AI growth drives chip demand, but memory shortages and supply chain woes threaten progress. </p>
+<p>The post <a href="https://www.eetimes.com/ais-booming-demand-meets-a-semiconductor-reality-check/">AI’s Booming Demand Meets a Semiconductor Reality Check</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
