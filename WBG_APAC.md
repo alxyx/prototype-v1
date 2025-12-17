@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-17 19:34 UTC_
+_Last updated: 2025-12-17 20:39 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -15,6 +15,30 @@ _Last updated: 2025-12-17 19:34 UTC_
 
 <p>On the heels of its establishing a subsidiary in Tokyo, SEMIFIVE has secured multiple AI semiconductor design projects in Japan.</p>
 <p>The post <a href="https://www.eetasia.com/semifive-lands-ai-chip-design-projects-in-japan/">SEMIFIVE Lands AI Chip Design Projects in Japan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Rapidus Unveils New AI Design Tools for Advanced Semiconductor Manufacturing](https://www.semiconductor-digest.com/rapidus-unveils-new-ai-design-tools-for-advanced-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-unveils-new-ai-design-tools-for-advanced-semiconductor-manufacturing)
+**Published:** Wed, 17 Dec 2025 20:14:21 +0000
+
+<p>Rapidus Corporation today announced a new suite of AI design tools to support its Rapidus AI-Assisted Design Solution (Raads), a key initiative to helping to realize its Rapid and Unified Manufacturing Service (RUMS) concept.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rapidus-unveils-new-ai-design-tools-for-advanced-semiconductor-manufacturing/">Rapidus Unveils New AI Design Tools for Advanced Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ABM Expands Semiconductor and Technical Services Platform with Agreement to Acquire WGNSTAR](https://www.semiconductor-digest.com/abm-expands-semiconductor-and-technical-services-platform-with-agreement-to-acquire-wgnstar/?utm_source=rss&utm_medium=rss&utm_campaign=abm-expands-semiconductor-and-technical-services-platform-with-agreement-to-acquire-wgnstar)
+**Published:** Wed, 17 Dec 2025 20:06:05 +0000
+
+<p>Strategic acquisition will strengthen ABM’s position in fast-growing semiconductor and technology manufacturing markets.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/abm-expands-semiconductor-and-technical-services-platform-with-agreement-to-acquire-wgnstar/">ABM Expands Semiconductor and Technical Services Platform with Agreement to Acquire WGNSTAR</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Texas Instruments Begins Production at New 300mm Semiconductor Manufacturing Facility](https://www.semiconductor-digest.com/texas-instruments-begins-production-at-new-300mm-semiconductor-manufacturing-facility/?utm_source=rss&utm_medium=rss&utm_campaign=texas-instruments-begins-production-at-new-300mm-semiconductor-manufacturing-facility)
+**Published:** Wed, 17 Dec 2025 19:55:19 +0000
+
+<p>Wafer fab will produce tens of millions of chips daily that go into nearly every electronic device.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/texas-instruments-begins-production-at-new-300mm-semiconductor-manufacturing-facility/">Texas Instruments Begins Production at New 300mm Semiconductor Manufacturing Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,30 +815,6 @@ _Last updated: 2025-12-17 19:34 UTC_
 
 <p>Phemet captures more than 16 million data points in one second with ultra-high resolution for highly accurate surface measurements of memory and logic devices and advanced packages.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/wooptix-launches-new-phemet-in-line-semiconductor-wafer-metrology-fab-solution-with-industry-leading-speed-and-resolution/">Wooptix Launches New Phemet In-line Semiconductor Wafer Metrology Fab Solution with Industry-leading Speed and Resolution</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries and BAE Systems Collaborate on Semiconductors for Space](https://www.semiconductor-digest.com/globalfoundries-and-bae-systems-collaborate-on-semiconductors-for-space/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-bae-systems-collaborate-on-semiconductors-for-space)
-**Published:** Wed, 19 Nov 2025 18:44:56 +0000
-
-<p>GlobalFoundries today announced that BAE Systems will use GF’s advanced FinFET semiconductor technology in a new offering for space applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-bae-systems-collaborate-on-semiconductors-for-space/">GlobalFoundries and BAE Systems Collaborate on Semiconductors for Space</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Agileo Automation Launches Agil’SECS-II](https://www.semiconductor-digest.com/agileo-automation-launches-agilsecs-ii/?utm_source=rss&utm_medium=rss&utm_campaign=agileo-automation-launches-agilsecs-ii)
-**Published:** Tue, 18 Nov 2025 21:57:02 +0000
-
-<p>New SECS-II library helps fabs and OEMs integrate semiconductor tools with the MES in hybrid manufacturing sites, ensuring faster time to market and limiting integration costs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/agileo-automation-launches-agilsecs-ii/">Agileo Automation Launches Agil’SECS-II</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [PTW GROUP Showcases Sustainable Lifecycle Solutions at SEMICON Europa](https://www.semiconductor-digest.com/ptw-group-showcases-sustainable-lifecycle-solutions-at-semicon-europa/?utm_source=rss&utm_medium=rss&utm_campaign=ptw-group-showcases-sustainable-lifecycle-solutions-at-semicon-europa)
-**Published:** Tue, 18 Nov 2025 21:48:51 +0000
-
-<p>Extending tool lifetimes, stabilizing production, and reducing operational risk.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ptw-group-showcases-sustainable-lifecycle-solutions-at-semicon-europa/">PTW GROUP Showcases Sustainable Lifecycle Solutions at SEMICON Europa</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
