@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-17 14:36 UTC_
+_Last updated: 2025-12-17 15:38 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-17 14:36 UTC_
 
 ---
 
+## [TDK Expands B409x Family Of Hybrid Polymer Capacitors](https://www.powerelectronicsnews.com/tdk-expands-b409x-family-of-hybrid-polymer-capacitors/)
+**Published:** Wed, 17 Dec 2025 14:45:53 +0000
+
+<img alt="TDK Expands Its B409x Family Of Hybrid Polymer Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="1605" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/bild-w-background-en-data_aaedb8.png?fit=2400%2C1605" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The SMD capacitors are offered with rated voltages ranging from 25 V to 80 V and capacitance values between 56 µF and 1100 µF.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tdk-expands-b409x-family-of-hybrid-polymer-capacitors/">TDK Expands B409x Family Of Hybrid Polymer Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Scalable DC/DC Converters in Battery Energy Solutions](https://www.powerelectronicsnews.com/scalable-dc-dc-converters-in-battery-energy-solutions/)
 **Published:** Wed, 17 Dec 2025 14:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-12-17 14:36 UTC_
 
 <img alt="Empower Semiconductor Announces the Opening of a New Corporate Headquarters." class="webfeedsFeaturedVisual wp-post-image" height="613" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Expansion-980x613-1.png?fit=980%2C613" style="display: block; margin-bottom: 5px; clear: both;" width="980" /><p>Empower announced a new corporate headquarters in Milpitas, California, and a dedicated R&#38;D center in Munich, Germany.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/empower-semiconductor-announces-the-opening-of-a-new-corporate-headquarters/">Empower Semiconductor Announces the Opening of a New Corporate Headquarters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [DC/DC Power Modules Simplify Power Supplies in Industrial Applications](https://www.powerelectronicsnews.com/dc-dc-power-modules-simplify-power-supplies-in-industrial-applications/)
-**Published:** Fri, 12 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="562" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/AdobeStock_382747392.jpeg?fit=1000%2C562" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>In industrial systems, many devices require a lower voltage. This is where DC/DC power modules come into play, where the power supply is reliable, efficient, and EMC-compliant.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/dc-dc-power-modules-simplify-power-supplies-in-industrial-applications/">DC/DC Power Modules Simplify Power Supplies in Industrial Applications</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
