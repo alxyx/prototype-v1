@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-17 09:42 UTC_
+_Last updated: 2025-12-17 10:38 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -922,11 +922,11 @@ _Last updated: 2025-12-17 09:42 UTC_
 
 ---
 
-## [Semi manufacturing equipment sales to grow 9% this year and 7.3% next.](https://www.electronicsweekly.com/news/business/seni-manufacturing-equipment-sales-to-grow-9-this-year-and-7-3-next-2025-12/)
+## [Semi manufacturing equipment sales to grow 9% this year and 7.3% next](https://www.electronicsweekly.com/news/business/seni-manufacturing-equipment-sales-to-grow-9-this-year-and-7-3-next-2025-12/)
 **Published:** Wed, 17 Dec 2025 06:16:32 +0000
 
-<p>Sales of  semiconductor manufacturing equipment will rise about 9% to $126 billion in 2026 and a further 7.3% to $135 billion in 2027, says SEMI, SEMI expects China, Taiwan and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/seni-manufacturing-equipment-sales-to-grow-9-this-year-and-7-3-next-2025-12/">Semi manufacturing equipment sales to grow 9% this year and 7.3% next.</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Sales of semiconductor manufacturing equipment will rise about 9% to $126 billion in 2026 and a further 7.3% to $135 billion in 2027, says SEMI, SEMI expects China, Taiwan and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/seni-manufacturing-equipment-sales-to-grow-9-this-year-and-7-3-next-2025-12/">Semi manufacturing equipment sales to grow 9% this year and 7.3% next</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
