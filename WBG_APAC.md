@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-17 08:45 UTC_
+_Last updated: 2025-12-17 09:42 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -927,6 +927,13 @@ _Last updated: 2025-12-17 08:45 UTC_
 
 <p>Sales of  semiconductor manufacturing equipment will rise about 9% to $126 billion in 2026 and a further 7.3% to $135 billion in 2027, says SEMI, SEMI expects China, Taiwan and ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/seni-manufacturing-equipment-sales-to-grow-9-this-year-and-7-3-next-2025-12/">Semi manufacturing equipment sales to grow 9% this year and 7.3% next.</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Exploring The Universe With Quantum Computers](https://www.electronicsforu.com/news/exploring-the-universe-with-quantum-computers)
+**Published:** Wed, 17 Dec 2025 07:48:35 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/abhijit_chakraborty_headshot-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Since classical computers face limitations while modelling on how many particles interact, Quantum computers are just what is needed to move physics beyond those roadblocks. Understanding how matter behaves under extreme conditions remains one of the biggest challenges in modern physics. Classical supercomputers can model many physical systems, but they struggle when multiple particles interact [&#8230;]
 
 ---
 
