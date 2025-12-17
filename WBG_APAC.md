@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-17 13:47 UTC_
+_Last updated: 2025-12-17 14:36 UTC_
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-12-17 13:47 UTC_
 
 <p>On the heels of its establishing a subsidiary in Tokyo, SEMIFIVE has secured multiple AI semiconductor design projects in Japan.</p>
 <p>The post <a href="https://www.eetasia.com/semifive-lands-ai-chip-design-projects-in-japan/">SEMIFIVE Lands AI Chip Design Projects in Japan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [When ECO Meets HLS: Navigating Design Changes in Modern SoC Flows](https://www.semiconductor-digest.com/when-eco-meets-hls-navigating-design-changes-in-modern-soc-flows/?utm_source=rss&utm_medium=rss&utm_campaign=when-eco-meets-hls-navigating-design-changes-in-modern-soc-flows)
+**Published:** Wed, 17 Dec 2025 14:07:59 +0000
+
+<p>This article explores why traditional Engineering Change Order (ECO) strategies aren’t useful for High Level Synthesis based design, what engineers can do about it and how the industry is trying to solve this problem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/when-eco-meets-hls-navigating-design-changes-in-modern-soc-flows/">When ECO Meets HLS: Navigating Design Changes in Modern SoC Flows</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,11 +818,19 @@ _Last updated: 2025-12-17 13:47 UTC_
 
 ---
 
-## [Deloitte 2026 Technology, Media & Telecommunications Predictions: Narrowing the Gap Between the Promise of AI and its Reality](https://www.semiconductor-digest.com/deloitte-2026-technology-media-telecommunications-predictions-narrowing-the-gap-between-the-promise-of-ai-and-its-reality/?utm_source=rss&utm_medium=rss&utm_campaign=deloitte-2026-technology-media-telecommunications-predictions-narrowing-the-gap-between-the-promise-of-ai-and-its-reality)
-**Published:** Tue, 18 Nov 2025 21:43:38 +0000
+## [Scalable DC/DC Converters in Battery Energy Solutions](https://www.powerelectronicsnews.com/scalable-dc-dc-converters-in-battery-energy-solutions/)
+**Published:** Wed, 17 Dec 2025 14:00:00 +0000
 
-<p>Deloitte today released its annual “Technology, Media &#038; Telecommunications Predictions” report, which highlights how AI is redefining the foundations of hardware, software, telecom, and media.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/deloitte-2026-technology-media-telecommunications-predictions-narrowing-the-gap-between-the-promise-of-ai-and-its-reality/">Deloitte 2026 Technology, Media &#038; Telecommunications Predictions: Narrowing the Gap Between the Promise of AI and its Reality</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="526" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/featured.jpg?fit=524%2C526" style="display: block; margin-bottom: 5px; clear: both;" width="524" /><p>A modular DC-DC converter that can source or sink to a 48-V application using conventional 3.2-V LFP batteries.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/scalable-dc-dc-converters-in-battery-energy-solutions/">Scalable DC/DC Converters in Battery Energy Solutions</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Vishay Transfer-Molded MAACPAK Power Modules Enable Faster SiC switching](https://www.powerelectronicsnews.com/vishay-transfer-molded-maacpak-power-modules-enable-faster-sic-switching/)
+**Published:** Wed, 17 Dec 2025 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="194" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/MAACPAK.jpg?fit=300%2C194" style="display: block; margin-bottom: 5px; clear: both;" width="300" /><p>Vishay Intertechnology Inc., a global manufacturer of passive and discrete solutions, kicked off the launch of its new MAACPAK power modules, catering to silicon carbide...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-transfer-molded-maacpak-power-modules-enable-faster-sic-switching/">Vishay Transfer-Molded MAACPAK Power Modules Enable Faster SiC switching</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -879,22 +895,6 @@ _Last updated: 2025-12-17 13:47 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="562" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/AdobeStock_382747392.jpeg?fit=1000%2C562" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>In industrial systems, many devices require a lower voltage. This is where DC/DC power modules come into play, where the power supply is reliable, efficient, and EMC-compliant.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/dc-dc-power-modules-simplify-power-supplies-in-industrial-applications/">DC/DC Power Modules Simplify Power Supplies in Industrial Applications</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Coherent Advances 300mm SiC Platform for Next-Gen AI Datacenters](https://www.powerelectronicsnews.com/coherent-advances-300mm-sic-platform-for-next-gen-ai-datacenters/)
-**Published:** Fri, 12 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="639" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/03/SemiconductorWafer.jpg?fit=1000%2C639" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>In power electronics, moving to 300mm SiC wafers increases the number of devices per substrate and helps drive down the cost of each chip.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/coherent-advances-300mm-sic-platform-for-next-gen-ai-datacenters/">Coherent Advances 300mm SiC Platform for Next-Gen AI Datacenters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [PEN eBook November 2025 – GaN and SiC Special Report](https://www.powerelectronicsnews.com/engineering-tomorrow-gan-sic-and-the-future-of-sustainable-energy-systems/)
-**Published:** Thu, 11 Dec 2025 20:08:25 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1114" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/10/November-2025-eBook-.png?fit=778%2C1114" style="display: block; margin-bottom: 5px; clear: both;" width="778" /><p>WBG semiconductors are changing the way modern technology works. Materials such as GaN and SiC are changing the game in power electronics.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/engineering-tomorrow-gan-sic-and-the-future-of-sustainable-energy-systems/">PEN eBook November 2025 &#8211; GaN and SiC Special Report</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
