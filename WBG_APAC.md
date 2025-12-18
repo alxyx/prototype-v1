@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-18 13:50 UTC_
+_Last updated: 2025-12-18 14:37 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-18 13:50 UTC_
 
 ---
 
+## [A Lead-Free Piezoelectric Material for Low-Power Electronics](https://www.powerelectronicsnews.com/a-lead-free-piezoelectric-material-for-low-power-electronics/)
+**Published:** Thu, 18 Dec 2025 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1297" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Cover-Image.jpg?fit=1200%2C1297" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>“This discovery is a new pathway toward environmentally responsible technologies that can power sensors,” says Dr. Dominik Kubicki.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/a-lead-free-piezoelectric-material-for-low-power-electronics/">A Lead-Free Piezoelectric Material for Low-Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Linear Integrated Systems Unveils Ultra-Low-Noise JFETs](https://www.powerelectronicsnews.com/linear-integrated-systems-unveils-ultra-low-noise-jfets/)
 **Published:** Thu, 18 Dec 2025 13:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-12-18 13:50 UTC_
 
 <img alt="Rapid Control Prototyping of Synchronous Reluctance Motor Drives by Matlab/Simulink" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/11/shutterstock_1939902241.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>As we close out 2025, we take a closer look at advances in motor control systems impacting industries ranging from industrial automation and control to military and automotive.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/motor-drives-wbg-semiconductors-diamond-substrates-and-magnetic-material-breakthroughs/">PEN eBook December 2025 – Motor Drives: WBG Semiconductors, Diamond Substrates, and Magnetic Material Breakthroughs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Digital Power Supply Control, SiC in AC Motor Drives, Small Fusion Reactors: Power Electronics Week Insights](https://www.powerelectronicsnews.com/digital-power-supply-control-sic-in-ac-motor-drives-small-fusion-reactors-power-electronics-week-insights/)
-**Published:** Fri, 12 Dec 2025 15:56:39 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Digital Power Supply Control, SiC in AC Motor Drives, and Small Fusion Reactors!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/digital-power-supply-control-sic-in-ac-motor-drives-small-fusion-reactors-power-electronics-week-insights/">Digital Power Supply Control, SiC in AC Motor Drives, Small Fusion Reactors: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
