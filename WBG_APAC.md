@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-18 14:37 UTC_
+_Last updated: 2025-12-18 15:38 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-12-18 14:37 UTC_
 
 <p>Siemens and GF have deepened their strategic partnership with a new collaboration aimed at deploying AI-driven manufacturing technologies.</p>
 <p>The post <a href="https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/">Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [The Nanoparticle Threat: Closing the Semiconductor UPW Metrology Gap](https://www.semiconductor-digest.com/the-nanoparticle-threat-closing-the-semiconductor-upw-metrology-gap/?utm_source=rss&utm_medium=rss&utm_campaign=the-nanoparticle-threat-closing-the-semiconductor-upw-metrology-gap)
+**Published:** Thu, 18 Dec 2025 14:36:52 +0000
+
+<p>The TSI Nano LPM™ System provides consistent, real-time data that process engineers and quality managers need to make informed, data-driven decisions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-nanoparticle-threat-closing-the-semiconductor-upw-metrology-gap/">The Nanoparticle Threat: Closing the Semiconductor UPW Metrology Gap</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,14 +818,6 @@ _Last updated: 2025-12-18 14:37 UTC_
 
 ---
 
-## [PicoJool Emerges From Stealth With $12 Million to Solve the Bandwidth Gulf of AI Data Centers](https://www.semiconductor-digest.com/picojool-emerges-from-stealth-with-12-million-to-solve-the-bandwidth-gulf-of-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=picojool-emerges-from-stealth-with-12-million-to-solve-the-bandwidth-gulf-of-ai-data-centers)
-**Published:** Wed, 19 Nov 2025 20:19:59 +0000
-
-<p>High-performance, low-cost PicoJool VCSELs to bridge to the photonic future.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/picojool-emerges-from-stealth-with-12-million-to-solve-the-bandwidth-gulf-of-ai-data-centers/">PicoJool Emerges From Stealth With $12 Million to Solve the Bandwidth Gulf of AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [A Lead-Free Piezoelectric Material for Low-Power Electronics](https://www.powerelectronicsnews.com/a-lead-free-piezoelectric-material-for-low-power-electronics/)
 **Published:** Thu, 18 Dec 2025 14:00:00 +0000
 
@@ -919,14 +919,6 @@ _Last updated: 2025-12-18 14:37 UTC_
 
 <p>Advanced packaging could revolutionize AI chip manufacturing, but critical bottlenecks remain. </p>
 <p>The post <a href="https://www.eetimes.com/addressing-the-biggest-bottleneck-in-the-ai-semiconductor-ecosystem/">Addressing the Biggest Bottleneck in the AI Semiconductor Ecosystem</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Semi manufacturing equipment sales to grow 9% this year and 7.3% next](https://www.electronicsweekly.com/news/business/seni-manufacturing-equipment-sales-to-grow-9-this-year-and-7-3-next-2025-12/)
-**Published:** Wed, 17 Dec 2025 06:16:32 +0000
-
-<p>Sales of semiconductor manufacturing equipment will rise about 9% to $126 billion in 2026 and a further 7.3% to $135 billion in 2027, says SEMI, SEMI expects China, Taiwan and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/seni-manufacturing-equipment-sales-to-grow-9-this-year-and-7-3-next-2025-12/">Semi manufacturing equipment sales to grow 9% this year and 7.3% next</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
