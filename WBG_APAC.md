@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-18 19:33 UTC_
+_Last updated: 2025-12-18 20:35 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -15,6 +15,30 @@ _Last updated: 2025-12-18 19:33 UTC_
 
 <p>Siemens and GF have deepened their strategic partnership with a new collaboration aimed at deploying AI-driven manufacturing technologies.</p>
 <p>The post <a href="https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/">Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Qualcomm Completes Acquisition of Alphawave Semi](https://www.semiconductor-digest.com/qualcomm-completes-acquisition-of-alphawave-semi/?utm_source=rss&utm_medium=rss&utm_campaign=qualcomm-completes-acquisition-of-alphawave-semi)
+**Published:** Thu, 18 Dec 2025 20:17:05 +0000
+
+<p>Qualcomm Incorporated today announced that it has completed its acquisition of Alphawave IP Group plc, approximately one quarter ahead of schedule.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/qualcomm-completes-acquisition-of-alphawave-semi/">Qualcomm Completes Acquisition of Alphawave Semi</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Ecolab Closes Acquisition of Ovivo’s Electronics Ultrapure Water Business](https://www.semiconductor-digest.com/ecolab-closes-acquisition-of-ovivos-electronics-ultrapure-water-business/?utm_source=rss&utm_medium=rss&utm_campaign=ecolab-closes-acquisition-of-ovivos-electronics-ultrapure-water-business)
+**Published:** Thu, 18 Dec 2025 20:05:50 +0000
+
+<p>Ecolab Inc. has closed on its previously announced acquisition of Ovivo’s electronics business, a leading and fast-growing global provider of breakthrough ultrapure water technologies for semiconductor manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ecolab-closes-acquisition-of-ovivos-electronics-ultrapure-water-business/">Ecolab Closes Acquisition of Ovivo&#8217;s Electronics Ultrapure Water Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [onsemi to Develop Next-Generation GaN Power Devices with GlobalFoundries](https://www.semiconductor-digest.com/onsemi-to-develop-next-generation-gan-power-devices-with-globalfoundries/?utm_source=rss&utm_medium=rss&utm_campaign=onsemi-to-develop-next-generation-gan-power-devices-with-globalfoundries)
+**Published:** Thu, 18 Dec 2025 19:59:55 +0000
+
+<p>Collaboration expands onsemi’s power portfolio to include high-performance 650V lateral GaN solutions for AI data centers, automotive, aerospace, and other critical markets.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/onsemi-to-develop-next-generation-gan-power-devices-with-globalfoundries/">onsemi to Develop Next-Generation GaN Power Devices with GlobalFoundries</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,30 +815,6 @@ _Last updated: 2025-12-18 19:33 UTC_
 
 <p>JOINT3 is a co-creation evaluation platform established by Resonac Corporation with the aim of accelerating the development of materials, equipment, and design tools optimized for panel-level organic interposers through collaboration among material, equipment, and design companies.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/participating-in-the-next-generation-semiconductor-packaging-consortium-joint3/">Brewer Science Participating in the Next-Generation Semiconductor Packaging Consortium &#8220;JOINT3&#8221;</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [X-FAB and Fraunhofer ENAS Sign Strategic Cooperation Agreement to Accelerate Microtechnology Innovations](https://www.semiconductor-digest.com/x-fab-and-fraunhofer-enas-sign-strategic-cooperation-agreement-to-accelerate-microtechnology-innovations/?utm_source=rss&utm_medium=rss&utm_campaign=x-fab-and-fraunhofer-enas-sign-strategic-cooperation-agreement-to-accelerate-microtechnology-innovations)
-**Published:** Wed, 19 Nov 2025 22:37:36 +0000
-
-<p>The Fraunhofer Institute for Electronic Nano Systems ENAS and X-FAB are joining forces in an innovative cooperation model.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/x-fab-and-fraunhofer-enas-sign-strategic-cooperation-agreement-to-accelerate-microtechnology-innovations/">X-FAB and Fraunhofer ENAS Sign Strategic Cooperation Agreement to Accelerate Microtechnology Innovations</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [“From Lab to Fab” – Innovative Front-End and Advanced Packaging Technologies for the Semiconductor Value Chain](https://www.semiconductor-digest.com/from-lab-to-fab-innovative-front-end-and-advanced-packaging-technologies-for-the-semiconductor-value-chain/?utm_source=rss&utm_medium=rss&utm_campaign=from-lab-to-fab-innovative-front-end-and-advanced-packaging-technologies-for-the-semiconductor-value-chain)
-**Published:** Wed, 19 Nov 2025 22:30:16 +0000
-
-<p>The Fraunhofer Center for Advanced CMOS and Heterointegration Saxony (CEASAX) is driving forward the development of pioneering technologies for microelectronics and has established itself as a key player in the European semiconductor value chain.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/from-lab-to-fab-innovative-front-end-and-advanced-packaging-technologies-for-the-semiconductor-value-chain/">“From Lab to Fab” – Innovative Front-End and Advanced Packaging Technologies for the Semiconductor Value Chain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IBM and University of Dayton Announce Joint Research Collaboration for Next-Generation Semiconductor Technologies](https://www.semiconductor-digest.com/ibm-and-university-of-dayton-announce-joint-research-collaboration-for-next-generation-semiconductor-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-and-university-of-dayton-announce-joint-research-collaboration-for-next-generation-semiconductor-technologies)
-**Published:** Wed, 19 Nov 2025 21:06:16 +0000
-
-<p>IBM and the University of Dayton today announced an agreement for the joint research and development of next-generation semiconductor technologies and materials.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ibm-and-university-of-dayton-announce-joint-research-collaboration-for-next-generation-semiconductor-technologies/">IBM and University of Dayton Announce Joint Research Collaboration for Next-Generation Semiconductor Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
