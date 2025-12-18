@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-18 21:34 UTC_
+_Last updated: 2025-12-18 22:34 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -922,11 +922,11 @@ _Last updated: 2025-12-18 21:34 UTC_
 
 ---
 
-## [GlobalFoundries-onsemi partnership to develop 200nm GaN portfolio](https://www.electronicsweekly.com/news/products/power-supplies/globalfoundries-onsemi-partnership-to-develop-200nm-gan-portfolio-2025-12/)
+## [GlobalFoundries-onsemi partnership to develop 200mm GaN portfolio](https://www.electronicsweekly.com/news/products/power-supplies/globalfoundries-onsemi-partnership-to-develop-200nm-gan-portfolio-2025-12/)
 **Published:** Thu, 18 Dec 2025 17:04:51 +0000
 
 <p>Globalfoundries (GF) and onsemi have signed an agreement to develop and manufacture advanced GaN power products using GF’s 200mm eMode GaN-on-silicon process. The focus for initial development will be 650V ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/globalfoundries-onsemi-partnership-to-develop-200nm-gan-portfolio-2025-12/">GlobalFoundries-onsemi partnership to develop 200nm GaN portfolio</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/globalfoundries-onsemi-partnership-to-develop-200nm-gan-portfolio-2025-12/">GlobalFoundries-onsemi partnership to develop 200mm GaN portfolio</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
