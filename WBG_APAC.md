@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-18 12:57 UTC_
+_Last updated: 2025-12-18 13:50 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-18 12:57 UTC_
 
 ---
 
+## [Linear Integrated Systems Unveils Ultra-Low-Noise JFETs](https://www.powerelectronicsnews.com/linear-integrated-systems-unveils-ultra-low-noise-jfets/)
+**Published:** Thu, 18 Dec 2025 13:00:00 +0000
+
+<img alt="Linear Integrated Systems Unveils Ultra-Low-Noise JFETs." class="webfeedsFeaturedVisual wp-post-image" height="2700" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/LSK389_LSK170_Special_Testing_Press_Release.jpg?fit=2700%2C2700" style="display: block; margin-bottom: 5px; clear: both;" width="2700" /><p>Ultra-low-noise JFETs are suitable for analog front ends, discrete op amps, and low-noise amplifiers.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/linear-integrated-systems-unveils-ultra-low-noise-jfets/">Linear Integrated Systems Unveils Ultra-Low-Noise JFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [TDK Expands B409x Family Of Hybrid Polymer Capacitors](https://www.powerelectronicsnews.com/tdk-expands-b409x-family-of-hybrid-polymer-capacitors/)
 **Published:** Wed, 17 Dec 2025 14:45:53 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-12-18 12:57 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Digital Power Supply Control, SiC in AC Motor Drives, and Small Fusion Reactors!</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/digital-power-supply-control-sic-in-ac-motor-drives-small-fusion-reactors-power-electronics-week-insights/">Digital Power Supply Control, SiC in AC Motor Drives, Small Fusion Reactors: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Empower Semiconductor Announces the Opening of a New Corporate Headquarters](https://www.powerelectronicsnews.com/empower-semiconductor-announces-the-opening-of-a-new-corporate-headquarters/)
-**Published:** Fri, 12 Dec 2025 15:54:06 +0000
-
-<img alt="Empower Semiconductor Announces the Opening of a New Corporate Headquarters." class="webfeedsFeaturedVisual wp-post-image" height="613" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Expansion-980x613-1.png?fit=980%2C613" style="display: block; margin-bottom: 5px; clear: both;" width="980" /><p>Empower announced a new corporate headquarters in Milpitas, California, and a dedicated R&#38;D center in Munich, Germany.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/empower-semiconductor-announces-the-opening-of-a-new-corporate-headquarters/">Empower Semiconductor Announces the Opening of a New Corporate Headquarters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
