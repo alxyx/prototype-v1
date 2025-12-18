@@ -1,20 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-18 01:53 UTC_
+_Last updated: 2025-12-18 03:35 UTC_
+
+## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
+**Published:** Thu, 18 Dec 2025 03:13:07 +0000
+
+<p>Global sales of total semiconductor manufacturing equipment by OEMs are forecast to reach a record high of $133 billion in 2025.</p>
+<p>The post <a href="https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/">SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply](https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/)
 **Published:** Tue, 16 Dec 2025 02:48:31 +0000
 
 <p>Siemens and GF have deepened their strategic partnership with a new collaboration aimed at deploying AI-driven manufacturing technologies.</p>
 <p>The post <a href="https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/">Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SEMIFIVE Lands AI Chip Design Projects in Japan](https://www.eetasia.com/semifive-lands-ai-chip-design-projects-in-japan/)
-**Published:** Tue, 16 Dec 2025 02:21:07 +0000
-
-<p>On the heels of its establishing a subsidiary in Tokyo, SEMIFIVE has secured multiple AI semiconductor design projects in Japan.</p>
-<p>The post <a href="https://www.eetasia.com/semifive-lands-ai-chip-design-projects-in-japan/">SEMIFIVE Lands AI Chip Design Projects in Japan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
