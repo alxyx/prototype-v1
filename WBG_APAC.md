@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-19 19:31 UTC_
+_Last updated: 2025-12-19 20:37 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -15,6 +15,30 @@ _Last updated: 2025-12-19 19:31 UTC_
 
 <p>Siemens and GF have deepened their strategic partnership with a new collaboration aimed at deploying AI-driven manufacturing technologies.</p>
 <p>The post <a href="https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/">Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [MemryX and Macnica Announce Partnership to Accelerate Edge AI Adoption in Japan](https://www.semiconductor-digest.com/memryx-and-macnica-announce-partnership-to-accelerate-edge-ai-adoption-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=memryx-and-macnica-announce-partnership-to-accelerate-edge-ai-adoption-in-japan)
+**Published:** Fri, 19 Dec 2025 19:39:58 +0000
+
+<p>MemryX Inc., a provider of high-performance AI accelerators for edge devices, announced a distribution and solutions partnership with Macnica, Inc., one of Japan's largest semiconductor distributors.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/memryx-and-macnica-announce-partnership-to-accelerate-edge-ai-adoption-in-japan/">MemryX and Macnica Announce Partnership to Accelerate Edge AI Adoption in Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Cyient Semiconductors Acquires Majority Stake in Kinetic Technologies](https://www.semiconductor-digest.com/cyient-semiconductors-acquires-majority-stake-in-kinetic-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=cyient-semiconductors-acquires-majority-stake-in-kinetic-technologies)
+**Published:** Fri, 19 Dec 2025 19:37:33 +0000
+
+<p>Cyient Semiconductors has signed a definitive agreement to acquire a majority stake in Kinetic Technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cyient-semiconductors-acquires-majority-stake-in-kinetic-technologies/">Cyient Semiconductors Acquires Majority Stake in Kinetic Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Fusion of Nanopores and Nanofluidic Devices Could Transform Medicine and Beyond](https://www.semiconductor-digest.com/fusion-of-nanopores-and-nanofluidic-devices-could-transform-medicine-and-beyond/?utm_source=rss&utm_medium=rss&utm_campaign=fusion-of-nanopores-and-nanofluidic-devices-could-transform-medicine-and-beyond)
+**Published:** Fri, 19 Dec 2025 19:19:53 +0000
+
+<p>Merging nanopores and chip-based nanofluidic devices could transform medicine and data analysis.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/fusion-of-nanopores-and-nanofluidic-devices-could-transform-medicine-and-beyond/">Fusion of Nanopores and Nanofluidic Devices Could Transform Medicine and Beyond</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,30 +815,6 @@ _Last updated: 2025-12-19 19:31 UTC_
 
 <p>Following the official approval of the SEMI European Advisory Board, SEMI today announced the publication of the SEMI Europe Chips Act Report a comprehensive assessment of the implementation of the European Chips Act and its impact on Europe’s semiconductor ecosystem.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semi-europe-publishes-30-recommendations-for-a-forward-looking-european-chips-act/">SEMI Europe Publishes 30 Recommendations for a Forward-Looking European Chips Act</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [European Chips Skills Academy Publishes 2025 Skills Strategy Report](https://www.semiconductor-digest.com/european-chips-skills-academy-publishes-2025-skills-strategy-report/?utm_source=rss&utm_medium=rss&utm_campaign=european-chips-skills-academy-publishes-2025-skills-strategy-report)
-**Published:** Fri, 21 Nov 2025 00:59:34 +0000
-
-<p>The European Chips Skills Academy (ECSA), an European Union (EU)-funded initiative coordinated by SEMI Europe, today announced the publication of the Skills Strategy Report 2025 by DECISION Etudes &#038; Conseil.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/european-chips-skills-academy-publishes-2025-skills-strategy-report/">European Chips Skills Academy Publishes 2025 Skills Strategy Report</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Ecolab Strengthens Integrated Cooling Program for Data Centers](https://www.semiconductor-digest.com/ecolab-strengthens-integrated-cooling-program-for-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=ecolab-strengthens-integrated-cooling-program-for-data-centers)
-**Published:** Fri, 21 Nov 2025 00:04:47 +0000
-
-<p>Ecolab Inc. announces the launch of a fully integrated, cutting-edge cooling program to optimize cooling performance at global scale.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ecolab-strengthens-integrated-cooling-program-for-data-centers/">Ecolab Strengthens Integrated Cooling Program for Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [memsstar Offers New Vacuum Vapour-Phase Metal-Assisted Chemical Etching Technology](https://www.semiconductor-digest.com/memsstar-offers-new-vacuum-vapour-phase-metal-assisted-chemical-etching-technology/?utm_source=rss&utm_medium=rss&utm_campaign=memsstar-offers-new-vacuum-vapour-phase-metal-assisted-chemical-etching-technology)
-**Published:** Thu, 20 Nov 2025 23:00:09 +0000
-
-<p>memsstar Ltd. today announced it is now offering a breakthrough vacuum vapour-phase metal-assisted chemical etching (MacEtch) technology.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/memsstar-offers-new-vacuum-vapour-phase-metal-assisted-chemical-etching-technology/">memsstar Offers New Vacuum Vapour-Phase Metal-Assisted Chemical Etching Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
