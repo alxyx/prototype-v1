@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-19 18:44 UTC_
+_Last updated: 2025-12-19 19:31 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-12-19 18:44 UTC_
 
 <p>Siemens and GF have deepened their strategic partnership with a new collaboration aimed at deploying AI-driven manufacturing technologies.</p>
 <p>The post <a href="https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/">Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [HKUST Engineering Researchers Developed a Novel Photodetector to Enhance the Performance of On-Chip Light Monitoring](https://www.semiconductor-digest.com/hkust-engineering-researchers-developed-a-novel-photodetector-to-enhance-the-performance-of-on-chip-light-monitoring/?utm_source=rss&utm_medium=rss&utm_campaign=hkust-engineering-researchers-developed-a-novel-photodetector-to-enhance-the-performance-of-on-chip-light-monitoring)
+**Published:** Fri, 19 Dec 2025 19:15:55 +0000
+
+<p>Advancing applications in programmable photonics, biosensing, and lab-on-chip technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hkust-engineering-researchers-developed-a-novel-photodetector-to-enhance-the-performance-of-on-chip-light-monitoring/">HKUST Engineering Researchers Developed a Novel Photodetector to Enhance the Performance of On-Chip Light Monitoring</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-12-19 18:44 UTC_
 
 <p>memsstar Ltd. today announced it is now offering a breakthrough vacuum vapour-phase metal-assisted chemical etching (MacEtch) technology.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/memsstar-offers-new-vacuum-vapour-phase-metal-assisted-chemical-etching-technology/">memsstar Offers New Vacuum Vapour-Phase Metal-Assisted Chemical Etching Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [U of A Dedicates First-of-Kind Semiconductor Fabrication Facility](https://www.semiconductor-digest.com/u-of-a-dedicates-first-of-kind-semiconductor-fabrication-facility/?utm_source=rss&utm_medium=rss&utm_campaign=u-of-a-dedicates-first-of-kind-semiconductor-fabrication-facility)
-**Published:** Thu, 20 Nov 2025 22:49:55 +0000
-
-<p>National, state, university and industry leaders gathered for the dedication of the University of Arkansas' Multi-User Silicon Carbide Facility (MUSiC), the only openly accessible fabrication facility of its kind in the U.S.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/u-of-a-dedicates-first-of-kind-semiconductor-fabrication-facility/">U of A Dedicates First-of-Kind Semiconductor Fabrication Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
