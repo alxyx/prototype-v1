@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-19 08:44 UTC_
+_Last updated: 2025-12-19 09:39 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -930,17 +930,17 @@ _Last updated: 2025-12-19 08:44 UTC_
 
 ---
 
-## [Reference Design For Induction Cooking Systems](https://www.electronicsforu.com/electronics-projects/reference-design-for-induction-cooking-systems)
-**Published:** Thu, 18 Dec 2025 07:33:11 +0000
+## [Automating Early Stage Chip Design](https://www.electronicsforu.com/news/automating-early-stage-chip-design)
+**Published:** Fri, 19 Dec 2025 07:14:54 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Screenshot-2025-12-18-110409-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Guides engineers through the hardware and firmware architecture of an induction cooker, addressing power electronics, control, safety, and EMI challenges to enable faster and more reliable appliance development. NXP’s application note AN5030 serves as a practical reference design guide for induction cooker systems, offering design engineers a ready framework to develop cost-effective, safe, and energy-efficient [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/rapidus-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />This AI powered approach enables chip designers to evaluate design quality, manufacturability, and performance much earlier in the development process. As the demand for semiconductor shrinking increases, chip designing is becoming more complex for engineers who must now manage massive design data, strict power and performance targets much earlier in development. Traditional design flows depend [&#8230;]
 
 ---
 
-## [Smart Sensing For Safer EVs](https://www.electronicsforu.com/special/smart-sensing-for-safer-evs)
-**Published:** Thu, 18 Dec 2025 05:42:04 +0000
+## [Sensorless Power Factor Control May Shrink Power Supplies](https://www.electronicsforu.com/news/sensorless-power-factor-control-may-shrink-power-supplies)
+**Published:** Fri, 19 Dec 2025 06:30:07 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/mlx90637-opengraph-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A small sensor can track EV temperatures without wires, making powertrains safer, faster, and more reliable. Read more! Electric vehicle powertrains need fast and reliable temperature data from parts that sit at high voltage and high heat. Today, many of these points are still monitored using NTC thermistors, which require physical contact, wiring, and manual [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/chonnam-national-unive-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />By eliminating current sensors without sacrificing efficiency, researchers have shown a new way to build smaller, cleaner, and more reliable AC/DC power converters pointing to slimmer chargers and simpler power electronics across consumer and industrial devices. A research team has developed a sensorless power factor correction (PFC) method that promises near-unity efficiency while cutting size [&#8230;]
 
 ---
 
