@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-19 20:37 UTC_
+_Last updated: 2025-12-19 21:33 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-12-19 20:37 UTC_
 
 <p>Siemens and GF have deepened their strategic partnership with a new collaboration aimed at deploying AI-driven manufacturing technologies.</p>
 <p>The post <a href="https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/">Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [CEA-Leti Worked with STMicroelectronics on  Health & Wellness Breakthrough](https://www.semiconductor-digest.com/cea-leti-worked-with-stmicroelectronics-on-health-wellness-breakthrough/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-worked-with-stmicroelectronics-on-health-wellness-breakthrough)
+**Published:** Fri, 19 Dec 2025 20:24:03 +0000
+
+<p>CEA-Leti has collaborated with STMicroelectronics to unveil a major step toward practical, continuous biochemical monitoring: a wearable patch prototype that analyzes sweat in real time.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-worked-with-stmicroelectronics-on-health-wellness-breakthrough/">CEA-Leti Worked with STMicroelectronics on  Health &#038; Wellness Breakthrough</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-12-19 20:37 UTC_
 
 <p>SEMI Europe today announced that Dr. Owen J. Guy, Professor of Chemistry at the Centre for Integrative Semiconductor Materials (CISM), Swansea University, received the prestigious SEMI Academia Impact Award at SEMICON Europa 2025.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semi-europe-recognizes-owen-guy-as-the-academia-impact-award-recipient/">SEMI Europe Recognizes Owen Guy as the Academia Impact Award Recipient</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Europe Publishes 30 Recommendations for a Forward-Looking European Chips Act](https://www.semiconductor-digest.com/semi-europe-publishes-30-recommendations-for-a-forward-looking-european-chips-act/?utm_source=rss&utm_medium=rss&utm_campaign=semi-europe-publishes-30-recommendations-for-a-forward-looking-european-chips-act)
-**Published:** Fri, 21 Nov 2025 01:02:45 +0000
-
-<p>Following the official approval of the SEMI European Advisory Board, SEMI today announced the publication of the SEMI Europe Chips Act Report a comprehensive assessment of the implementation of the European Chips Act and its impact on Europe’s semiconductor ecosystem.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-europe-publishes-30-recommendations-for-a-forward-looking-european-chips-act/">SEMI Europe Publishes 30 Recommendations for a Forward-Looking European Chips Act</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
