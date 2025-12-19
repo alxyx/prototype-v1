@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-19 14:35 UTC_
+_Last updated: 2025-12-19 15:36 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -18,11 +18,43 @@ _Last updated: 2025-12-19 14:35 UTC_
 
 ---
 
+## [How Chip Manufacturers Can Meet AIs Growing Demand for Processing Power](https://www.semiconductor-digest.com/how-chip-manufacturers-can-meet-ais-growing-demand-for-processing-power/?utm_source=rss&utm_medium=rss&utm_campaign=how-chip-manufacturers-can-meet-ais-growing-demand-for-processing-power)
+**Published:** Fri, 19 Dec 2025 14:41:10 +0000
+
+<p>The introduction of chiplets offers more than just a workaround to Moore’s Law; they provide a means for the semiconductor industry to meet the unique demands of the AI age.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/how-chip-manufacturers-can-meet-ais-growing-demand-for-processing-power/">How Chip Manufacturers Can Meet AIs Growing Demand for Processing Power</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The Critical Role of Process Time Prediction in Semiconductor Manufacturing](https://www.semiconductor-digest.com/the-critical-role-of-process-time-prediction-in-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=the-critical-role-of-process-time-prediction-in-semiconductor-manufacturing)
+**Published:** Fri, 19 Dec 2025 14:37:07 +0000
+
+<p>The semiconductor industry is only beginning to unlock the potential of advanced prediction models. The true breakthrough lies not only in model accuracy, but in integration.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-critical-role-of-process-time-prediction-in-semiconductor-manufacturing/">The Critical Role of Process Time Prediction in Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [How the Welsh Semiconductor Revolution is Driving Economic Growth Across the UK](https://www.semiconductor-digest.com/how-the-welsh-semiconductor-revolution-is-driving-economic-growth-across-the-uk/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-welsh-semiconductor-revolution-is-driving-economic-growth-across-the-uk)
+**Published:** Fri, 19 Dec 2025 14:23:19 +0000
+
+<p>While the global semiconductor market is vast and highly competitive, the UK has carved out a distinctive niche. The heart of this lies in South Wales, home to CSconnected, the world’s first dedicated compound semiconductor cluster.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/how-the-welsh-semiconductor-revolution-is-driving-economic-growth-across-the-uk/">How the Welsh Semiconductor Revolution is Driving Economic Growth Across the UK</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [FAIR Data Principles for Semiconductor Failure Analysis](https://www.semiconductor-digest.com/fair-data-principles-for-semiconductor-failure-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=fair-data-principles-for-semiconductor-failure-analysis)
 **Published:** Fri, 19 Dec 2025 14:13:15 +0000
 
 <p>Over the past few years, microscopy vendors, including ZEISS, have recognized that open interfaces, machine‑readable metadata, and harmonized formats are prerequisites for automation and artificial intelligence (AI)‑assisted analysis</p>
 <p>The post <a href="https://www.semiconductor-digest.com/fair-data-principles-for-semiconductor-failure-analysis/">FAIR Data Principles for Semiconductor Failure Analysis</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TANAKA’s Hybrid Silver Adhesive Paste Redefines Reliability for SiC/GaN Power Modules](https://www.semiconductor-digest.com/tanakas-hybrid-silver-adhesive-paste-redefines-reliability-for-sic-gan-power-modules/?utm_source=rss&utm_medium=rss&utm_campaign=tanakas-hybrid-silver-adhesive-paste-redefines-reliability-for-sic-gan-power-modules)
+**Published:** Fri, 19 Dec 2025 13:57:32 +0000
+
+<p>Senior Manager, Silver Adhesive Global R&#038;D, TANAKA PRECIOUS METAL TECHNOLOGIES Co., Ltd.Shintaroh Abe explains the materials breakthrough enabling high-temperature, pressure-less die attach.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tanakas-hybrid-silver-adhesive-paste-redefines-reliability-for-sic-gan-power-modules/">TANAKA’s Hybrid Silver Adhesive Paste Redefines Reliability for SiC/GaN Power Modules</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -207,14 +239,6 @@ _Last updated: 2025-12-19 14:35 UTC_
 
 <p>The Ohio Manufacturers’ Association and the National Institute for Metalworking Skills (NIMS) announce the launch of two new microcredentials for the semiconductor industry in 2026.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/oma-and-nims-partner-to-launch-semiconductor-technician-credentials/">OMA and NIMS Partner to Launch Semiconductor Technician Credentials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TANAKA’s Hybrid Silver Adhesive Paste Redefines Reliability for SiC/GaN Power Modules](https://www.semiconductor-digest.com/tanakas-hybrid-silver-adhesive-paste-redefines-reliability-for-sic-gan-power-modules/?utm_source=rss&utm_medium=rss&utm_campaign=tanakas-hybrid-silver-adhesive-paste-redefines-reliability-for-sic-gan-power-modules)
-**Published:** Fri, 12 Dec 2025 13:57:32 +0000
-
-<p>Senior Manager, Silver Adhesive Global R&#038;D, TANAKA PRECIOUS METAL TECHNOLOGIES Co., Ltd.Shintaroh Abe explains the materials breakthrough enabling high-temperature, pressure-less die attach.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tanakas-hybrid-silver-adhesive-paste-redefines-reliability-for-sic-gan-power-modules/">TANAKA’s Hybrid Silver Adhesive Paste Redefines Reliability for SiC/GaN Power Modules</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,27 +818,19 @@ _Last updated: 2025-12-19 14:35 UTC_
 
 ---
 
-## [GlobalFoundries and Navitas Semiconductor Partner to Accelerate U.S. GaN Technology and Manufacturing](https://www.semiconductor-digest.com/globalfoundries-and-navitas-semiconductor-partner-to-accelerate-u-s-gan-technology-and-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-navitas-semiconductor-partner-to-accelerate-u-s-gan-technology-and-manufacturing)
-**Published:** Thu, 20 Nov 2025 22:46:19 +0000
+## [PEN eBook December 2025, SiC and GaN Markets, DC/DC Converters in BESS: Power Electronics Week Insights](https://www.powerelectronicsnews.com/pen-ebook-december-2025-sic-and-gan-markets-dc-dc-converters-in-bess-power-electronics-week-insights/)
+**Published:** Fri, 19 Dec 2025 15:00:24 +0000
 
-<p>GlobalFoundries and Navitas Semiconductor today announced a long-term strategic partnership to strengthen and accelerate U.S.-based gallium nitride (GaN) technology, design and manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-navitas-semiconductor-partner-to-accelerate-u-s-gan-technology-and-manufacturing/">GlobalFoundries and Navitas Semiconductor Partner to Accelerate U.S. GaN Technology and Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Dr. Lisa Su, AMD Chair and CEO, Elected Chair of Semiconductor Industry Association](https://www.semiconductor-digest.com/dr-lisa-su-amd-chair-and-ceo-elected-chair-of-semiconductor-industry-association/?utm_source=rss&utm_medium=rss&utm_campaign=dr-lisa-su-amd-chair-and-ceo-elected-chair-of-semiconductor-industry-association)
-**Published:** Thu, 20 Nov 2025 22:26:21 +0000
-
-<p>The Semiconductor Industry Association (SIA) today announced AMD Chair and CEO Dr. Lisa Su has been elected Chair of the SIA Board of Directors.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/dr-lisa-su-amd-chair-and-ceo-elected-chair-of-semiconductor-industry-association/">Dr. Lisa Su, AMD Chair and CEO, Elected Chair of Semiconductor Industry Association</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on PEN eBook December 2025, SiC and GaN Markets, and DC/DC Converters in BESS!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/pen-ebook-december-2025-sic-and-gan-markets-dc-dc-converters-in-bess-power-electronics-week-insights/">PEN eBook December 2025, SiC and GaN Markets, DC/DC Converters in BESS: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Koh Young Unveils Breakthrough Innovations at Productronica and SEMICON Europa 2025](https://www.semiconductor-digest.com/koh-young-unveils-breakthrough-innovations-at-productronica-and-semicon-europa-2025/?utm_source=rss&utm_medium=rss&utm_campaign=koh-young-unveils-breakthrough-innovations-at-productronica-and-semicon-europa-2025)
-**Published:** Wed, 19 Nov 2025 23:53:32 +0000
+## [Melexis Introduces MLX90296 Micropower Linear Hall Sensor](https://www.powerelectronicsnews.com/melexis-introduces-mlx90296-micropower-linear-hall-sensor/)
+**Published:** Fri, 19 Dec 2025 15:00:02 +0000
 
-<p>Koh Young will showcase a wave of innovations at Productronica and SEMICON Europa 2025, taking place November 18–21 at Messe München, Germany.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/koh-young-unveils-breakthrough-innovations-at-productronica-and-semicon-europa-2025/">Koh Young Unveils Breakthrough Innovations at Productronica and SEMICON Europa 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Melexis Introduces MLX90296 Micropower Linear Hall Sensor for Battery-Powered Designs." class="webfeedsFeaturedVisual wp-post-image" height="628" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/mlx90296-opengraph.png?fit=1200%2C628" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The MLX90296 contactless linear sensor combines digital flexibility, ultra low power consumption, adaptable polarity modes, and a space-saving form factor.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/melexis-introduces-mlx90296-micropower-linear-hall-sensor/">Melexis Introduces MLX90296 Micropower Linear Hall Sensor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -879,22 +895,6 @@ _Last updated: 2025-12-19 14:35 UTC_
 
 <img alt="CHIPX™ Unveils Plans for ASEAN’s First Advanced 200mm GaN/SiC Wafer Fab in Malaysia." class="webfeedsFeaturedVisual wp-post-image" height="1366" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Chinmoy-Baruah-CHIPX_Anwar-Ibrahim.jpg?fit=2048%2C1366" style="display: block; margin-bottom: 5px; clear: both;" width="2048" /><p>The new wafer fab introduces advanced GaN and SiC manufacturing, positioning Malaysia to enter front-end semiconductor production for the first time.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/chipx-plans-for-asean-regions-first-200-mm-wafer-fab/">CHIPX Plans for ASEAN region’s First 200-mm Wafer Fab</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wolfspeed to Supply SiC to Toyota BEV Onboard Chargers](https://www.powerelectronicsnews.com/wolfspeed-to-supply-sic-to-toyota-bev-onboard-chargers/)
-**Published:** Mon, 15 Dec 2025 16:14:52 +0000
-
-<img alt="Wolfspeed’s SiC MOSFETs Selected to Power Toyota’s Next-Generation EV Charging Systems." class="webfeedsFeaturedVisual wp-post-image" height="668" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/EV-charging.jpg?fit=1000%2C668" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Wolfspeed announced Toyota will deploy its automotive-grade SiC MOSFETs to power onboard charging across its BEV lineup. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-to-supply-sic-to-toyota-bev-onboard-chargers/">Wolfspeed to Supply SiC to Toyota BEV Onboard Chargers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [The Evolving Landscape of SiC and GaN Markets](https://www.powerelectronicsnews.com/the-evolving-landscape-of-sic-and-gan-markets/)
-**Published:** Mon, 15 Dec 2025 14:27:06 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="597" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/GaN-and-SiC-image.png?fit=793%2C597" style="display: block; margin-bottom: 5px; clear: both;" width="793" /><p>SiC and GaN stand center stage, controlling many different industries’ dynamics.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-evolving-landscape-of-sic-and-gan-markets/">The Evolving Landscape of SiC and GaN Markets</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
