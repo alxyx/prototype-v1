@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-19 10:39 UTC_
+_Last updated: 2025-12-19 11:33 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-19 10:39 UTC_
 
 ---
 
+## [ST Introduces Zero-Drift High-Accuracy Op-Amp](https://www.powerelectronicsnews.com/st-introduces-zero-drift-high-accuracy-op-amp/)
+**Published:** Fri, 19 Dec 2025 11:00:00 +0000
+
+<img alt="ST Introduces Zero-Drift High-Accuracy Op-Amp." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/tsz901-op-amps.jpg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new TSZ901 op-amp ensures stable, high-precision operation over the full −40°C to 125°C temperature range.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-zero-drift-high-accuracy-op-amp/">ST Introduces Zero-Drift High-Accuracy Op-Amp</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [A Lead-Free Piezoelectric Material for Low-Power Electronics](https://www.powerelectronicsnews.com/a-lead-free-piezoelectric-material-for-low-power-electronics/)
 **Published:** Thu, 18 Dec 2025 14:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-12-19 10:39 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="597" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/GaN-and-SiC-image.png?fit=793%2C597" style="display: block; margin-bottom: 5px; clear: both;" width="793" /><p>SiC and GaN stand center stage, controlling many different industries’ dynamics.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/the-evolving-landscape-of-sic-and-gan-markets/">The Evolving Landscape of SiC and GaN Markets</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [PEN eBook December 2025 – Motor Drives: WBG Semiconductors, Diamond Substrates, and Magnetic Material Breakthroughs](https://www.powerelectronicsnews.com/motor-drives-wbg-semiconductors-diamond-substrates-and-magnetic-material-breakthroughs/)
-**Published:** Mon, 15 Dec 2025 14:26:32 +0000
-
-<img alt="Rapid Control Prototyping of Synchronous Reluctance Motor Drives by Matlab/Simulink" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/11/shutterstock_1939902241.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>As we close out 2025, we take a closer look at advances in motor control systems impacting industries ranging from industrial automation and control to military and automotive.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/motor-drives-wbg-semiconductors-diamond-substrates-and-magnetic-material-breakthroughs/">PEN eBook December 2025 – Motor Drives: WBG Semiconductors, Diamond Substrates, and Magnetic Material Breakthroughs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
