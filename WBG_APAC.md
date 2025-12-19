@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-19 13:47 UTC_
+_Last updated: 2025-12-19 14:35 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -15,6 +15,14 @@ _Last updated: 2025-12-19 13:47 UTC_
 
 <p>Siemens and GF have deepened their strategic partnership with a new collaboration aimed at deploying AI-driven manufacturing technologies.</p>
 <p>The post <a href="https://www.eetasia.com/siemens-and-globalfoundries-expand-ai-driven-manufacturing-alliance-to-bolster-global-semiconductor-supply/">Siemens and GlobalFoundries Expand AI-Driven Manufacturing Alliance to Bolster Global Semiconductor Supply</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [FAIR Data Principles for Semiconductor Failure Analysis](https://www.semiconductor-digest.com/fair-data-principles-for-semiconductor-failure-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=fair-data-principles-for-semiconductor-failure-analysis)
+**Published:** Fri, 19 Dec 2025 14:13:15 +0000
+
+<p>Over the past few years, microscopy vendors, including ZEISS, have recognized that open interfaces, machine‑readable metadata, and harmonized formats are prerequisites for automation and artificial intelligence (AI)‑assisted analysis</p>
+<p>The post <a href="https://www.semiconductor-digest.com/fair-data-principles-for-semiconductor-failure-analysis/">FAIR Data Principles for Semiconductor Failure Analysis</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2025-12-19 13:47 UTC_
 
 <p>Koh Young will showcase a wave of innovations at Productronica and SEMICON Europa 2025, taking place November 18–21 at Messe München, Germany.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/koh-young-unveils-breakthrough-innovations-at-productronica-and-semicon-europa-2025/">Koh Young Unveils Breakthrough Innovations at Productronica and SEMICON Europa 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Brewer Science Participating in the Next-Generation Semiconductor Packaging Consortium “JOINT3”](https://www.semiconductor-digest.com/participating-in-the-next-generation-semiconductor-packaging-consortium-joint3/?utm_source=rss&utm_medium=rss&utm_campaign=participating-in-the-next-generation-semiconductor-packaging-consortium-joint3)
-**Published:** Wed, 19 Nov 2025 23:36:38 +0000
-
-<p>JOINT3 is a co-creation evaluation platform established by Resonac Corporation with the aim of accelerating the development of materials, equipment, and design tools optimized for panel-level organic interposers through collaboration among material, equipment, and design companies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/participating-in-the-next-generation-semiconductor-packaging-consortium-joint3/">Brewer Science Participating in the Next-Generation Semiconductor Packaging Consortium &#8220;JOINT3&#8221;</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
