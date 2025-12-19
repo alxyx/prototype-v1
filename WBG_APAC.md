@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-19 12:56 UTC_
+_Last updated: 2025-12-19 13:47 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -911,14 +911,6 @@ _Last updated: 2025-12-19 12:56 UTC_
 
 <p>Explore SiC module innovations and converter designs unveiled at PCIM India.</p>
 <p>The post <a href="https://www.eetimes.com/sic-modules-converter-designs-come-into-focus-at-pcim-india-debut/">SiC Modules, Converter Designs Come into Focus at PCIM India Debut</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Addressing the Biggest Bottleneck in the AI Semiconductor Ecosystem](https://www.eetimes.com/addressing-the-biggest-bottleneck-in-the-ai-semiconductor-ecosystem/)
-**Published:** Mon, 15 Dec 2025 13:00:00 +0000
-
-<p>Advanced packaging could revolutionize AI chip manufacturing, but critical bottlenecks remain. </p>
-<p>The post <a href="https://www.eetimes.com/addressing-the-biggest-bottleneck-in-the-ai-semiconductor-ecosystem/">Addressing the Biggest Bottleneck in the AI Semiconductor Ecosystem</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
