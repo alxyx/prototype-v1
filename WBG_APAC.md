@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-20 08:40 UTC_
+_Last updated: 2025-12-20 09:34 UTC_
 
 ## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
 **Published:** Thu, 18 Dec 2025 03:13:07 +0000
@@ -919,6 +919,13 @@ _Last updated: 2025-12-20 08:40 UTC_
 
 <p>Globalfoundries (GF) and onsemi have signed an agreement to develop and manufacture advanced GaN power products using GF’s 200mm eMode GaN-on-silicon process. The focus for initial development will be 650V ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/globalfoundries-onsemi-partnership-to-develop-200nm-gan-portfolio-2025-12/">GlobalFoundries-onsemi partnership to develop 200mm GaN portfolio</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Can India Shift from Smartphones to Semiconductors?](https://www.electronicsforu.com/special/can-india-shift-from-smartphones-to-semiconductors)
+**Published:** Fri, 19 Dec 2025 12:05:22 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/automated-labs-icd-header-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Top Semi Manufacturers are Betting Big on the Country’s Success…and so is Henkel 17% production growth in 10 years. And nearly 23% export expansion over the same period. That’s the achievement of India’s electronics sector, buoyed by significant government incentives under the ‘Make in India’ program. Other statistics are even more impressive. Smartphone production – [&#8230;]
 
 ---
 
