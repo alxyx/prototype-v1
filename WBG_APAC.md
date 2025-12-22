@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-22 16:41 UTC_
+_Last updated: 2025-12-22 17:33 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-22 16:41 UTC_
 
 ---
 
+## [Diodes Inc. Expands Automotive Bipolar Transistor Line with 78Q and 80Q Series](https://www.powerelectronicsnews.com/diodes-inc-expands-automotive-bipolar-transistor-line-with-78q-and-80q-series/)
+**Published:** Mon, 22 Dec 2025 17:24:38 +0000
+
+<img alt="Diodes Inc. Expands Automotive Bipolar Transistor Line with 78Q and 80Q Series." class="webfeedsFeaturedVisual wp-post-image" height="353" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Ultra-Low-VCEsat-NPN-and-PNP-Bipolar-Transistors-Maximize-Power-Density-and-Efficiency-in-Compact-Automotive-Designs__ScaleMaxWidthWzQ2MF0.png?fit=460%2C353" style="display: block; margin-bottom: 5px; clear: both;" width="460" /><p>The bipolar transistor line covers a wide operating voltage range, enabling compatibility with 12V, 24V, and 48V automotive platforms.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/diodes-inc-expands-automotive-bipolar-transistor-line-with-78q-and-80q-series/">Diodes Inc. Expands Automotive Bipolar Transistor Line with 78Q and 80Q Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Extreme Fast Charging Architectures From 350 kW to 3.75 MW](https://www.powerelectronicsnews.com/from-350-kw-to-3-75-mw-extreme-fast-charging-architectures/)
 **Published:** Mon, 22 Dec 2025 13:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-12-22 16:41 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="526" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/featured.jpg?fit=524%2C526" style="display: block; margin-bottom: 5px; clear: both;" width="524" /><p>A modular DC-DC converter that can source or sink to a 48-V application using conventional 3.2-V LFP batteries.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/scalable-dc-dc-converters-in-battery-energy-solutions/">Scalable DC/DC Converters in Battery Energy Solutions</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Vishay Transfer-Molded MAACPAK Power Modules Enable Faster SiC switching](https://www.powerelectronicsnews.com/vishay-transfer-molded-maacpak-power-modules-enable-faster-sic-switching/)
-**Published:** Wed, 17 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="194" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/MAACPAK.jpg?fit=300%2C194" style="display: block; margin-bottom: 5px; clear: both;" width="300" /><p>Vishay Intertechnology Inc., a global manufacturer of passive and discrete solutions, kicked off the launch of its new MAACPAK power modules, catering to silicon carbide...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vishay-transfer-molded-maacpak-power-modules-enable-faster-sic-switching/">Vishay Transfer-Molded MAACPAK Power Modules Enable Faster SiC switching</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
