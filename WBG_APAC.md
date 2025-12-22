@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-22 06:49 UTC_
+_Last updated: 2025-12-22 07:38 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -911,6 +911,14 @@ _Last updated: 2025-12-22 06:49 UTC_
 
 <p>Explore SiC module innovations and converter designs unveiled at PCIM India.</p>
 <p>The post <a href="https://www.eetimes.com/sic-modules-converter-designs-come-into-focus-at-pcim-india-debut/">SiC Modules, Converter Designs Come into Focus at PCIM India Debut</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [SiC’s correction cycle](https://www.electronicsweekly.com/news/business/sic-recalibrates-2025-12/)
+**Published:** Mon, 22 Dec 2025 06:27:47 +0000
+
+<p>The Power SiC market continues its transformation. Following an unprecedented investment wave between 2019 and 2024, the industry is now entering a correction cycle, says Yole Group. The slowdown in ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/sic-recalibrates-2025-12/">SiC’s correction cycle</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
