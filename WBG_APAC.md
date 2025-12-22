@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-22 12:56 UTC_
+_Last updated: 2025-12-22 13:48 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -818,6 +818,22 @@ _Last updated: 2025-12-22 12:56 UTC_
 
 ---
 
+## [Extreme Fast Charging Architectures From 350 kW to 3.75 MW](https://www.powerelectronicsnews.com/from-350-kw-to-3-75-mw-extreme-fast-charging-architectures/)
+**Published:** Mon, 22 Dec 2025 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1121" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/EV-charger-featured.png?fit=1524%2C1121" style="display: block; margin-bottom: 5px; clear: both;" width="1524" /><p>XFC is advancing to megawatt-class charging using NPC and DAB topologies, 800V-1,250V platforms, and SiC to support heavy-duty EVs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/from-350-kw-to-3-75-mw-extreme-fast-charging-architectures/">Extreme Fast Charging Architectures From 350 kW to 3.75 MW</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [A Deep Dive into Navitas’ Trench-Assisted Planar SiC Architecture](https://www.powerelectronicsnews.com/a-deep-dive-into-navitas-trench-assisted-planar-sic-architecture/)
+**Published:** Mon, 22 Dec 2025 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="519" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/GaN-wafers.png?fit=782%2C519" style="display: block; margin-bottom: 5px; clear: both;" width="782" /><p>Planar, trench, and TAP technologies all have a place in the industry in terms of cost, lifetime, high-voltage performance, and efficiency. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/a-deep-dive-into-navitas-trench-assisted-planar-sic-architecture/">A Deep Dive into Navitas’ Trench-Assisted Planar SiC Architecture</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [PEN eBook December 2025, SiC and GaN Markets, DC/DC Converters in BESS: Power Electronics Week Insights](https://www.powerelectronicsnews.com/pen-ebook-december-2025-sic-and-gan-markets-dc-dc-converters-in-bess-power-electronics-week-insights/)
 **Published:** Fri, 19 Dec 2025 15:00:24 +0000
 
@@ -879,22 +895,6 @@ _Last updated: 2025-12-22 12:56 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="194" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/MAACPAK.jpg?fit=300%2C194" style="display: block; margin-bottom: 5px; clear: both;" width="300" /><p>Vishay Intertechnology Inc., a global manufacturer of passive and discrete solutions, kicked off the launch of its new MAACPAK power modules, catering to silicon carbide...</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/vishay-transfer-molded-maacpak-power-modules-enable-faster-sic-switching/">Vishay Transfer-Molded MAACPAK Power Modules Enable Faster SiC switching</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [NTT Develops Novel Ultra-Wide Bandgap AlN Device Structure](https://www.powerelectronicsnews.com/ntt-develops-novel-ultra-wide-bandgap-aln-device-structure/)
-**Published:** Tue, 16 Dec 2025 14:01:15 +0000
-
-<img alt="NTT Demonstrates First Millimeter-Wave Amplification with AlN Transistors." class="webfeedsFeaturedVisual wp-post-image" height="431" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/NTT_AlN_Transistors.jpg?fit=600%2C431" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>NTT, Inc. has demonstrated amplification of high-frequency wireless signals using aluminum nitride (AlN)–based transistors. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/ntt-develops-novel-ultra-wide-bandgap-aln-device-structure/">NTT Develops Novel Ultra-Wide Bandgap AlN Device Structure </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [CHIPX Plans for ASEAN region’s First 200-mm Wafer Fab](https://www.powerelectronicsnews.com/chipx-plans-for-asean-regions-first-200-mm-wafer-fab/)
-**Published:** Tue, 16 Dec 2025 14:01:07 +0000
-
-<img alt="CHIPX™ Unveils Plans for ASEAN’s First Advanced 200mm GaN/SiC Wafer Fab in Malaysia." class="webfeedsFeaturedVisual wp-post-image" height="1366" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Chinmoy-Baruah-CHIPX_Anwar-Ibrahim.jpg?fit=2048%2C1366" style="display: block; margin-bottom: 5px; clear: both;" width="2048" /><p>The new wafer fab introduces advanced GaN and SiC manufacturing, positioning Malaysia to enter front-end semiconductor production for the first time.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/chipx-plans-for-asean-regions-first-200-mm-wafer-fab/">CHIPX Plans for ASEAN region’s First 200-mm Wafer Fab</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
