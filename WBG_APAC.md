@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-22 17:33 UTC_
+_Last updated: 2025-12-22 18:45 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -903,14 +903,6 @@ _Last updated: 2025-12-22 17:33 UTC_
 
 <p>AI growth drives chip demand, but memory shortages and supply chain woes threaten progress. </p>
 <p>The post <a href="https://www.eetimes.com/ais-booming-demand-meets-a-semiconductor-reality-check/">AI’s Booming Demand Meets a Semiconductor Reality Check</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [SiC Modules, Converter Designs Come into Focus at PCIM India Debut](https://www.eetimes.com/sic-modules-converter-designs-come-into-focus-at-pcim-india-debut/)
-**Published:** Tue, 16 Dec 2025 08:00:00 +0000
-
-<p>Explore SiC module innovations and converter designs unveiled at PCIM India.</p>
-<p>The post <a href="https://www.eetimes.com/sic-modules-converter-designs-come-into-focus-at-pcim-india-debut/">SiC Modules, Converter Designs Come into Focus at PCIM India Debut</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
