@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-22 07:38 UTC_
+_Last updated: 2025-12-22 08:44 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -930,24 +930,10 @@ _Last updated: 2025-12-22 07:38 UTC_
 
 ---
 
-## [Can India Shift from Smartphones to Semiconductors?](https://www.electronicsforu.com/special/can-india-shift-from-smartphones-to-semiconductors)
-**Published:** Fri, 19 Dec 2025 12:05:22 +0000
+## [Quantum Chip Design Breaks Previous Scaling Limits](https://www.electronicsforu.com/special/quantum-chip-design-breaks-previous-scaling-limits)
+**Published:** Mon, 22 Dec 2025 07:23:22 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/automated-labs-icd-header-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Top Semi Manufacturers are Betting Big on the Country’s Success…and so is Henkel 17% production growth in 10 years. And nearly 23% export expansion over the same period. That’s the achievement of India’s electronics sector, buoyed by significant government incentives under the ‘Make in India’ program. Other statistics are even more impressive. Smartphone production – [&#8230;]
-
----
-
-## [Automating Early Stage Chip Design](https://www.electronicsforu.com/news/automating-early-stage-chip-design)
-**Published:** Fri, 19 Dec 2025 07:14:54 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/rapidus-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />This AI powered approach enables chip designers to evaluate design quality, manufacturability, and performance much earlier in the development process. As the demand for semiconductor shrinking increases, chip designing is becoming more complex for engineers who must now manage massive design data, strict power and performance targets much earlier in development. Traditional design flows depend [&#8230;]
-
----
-
-## [Sensorless Power Factor Control May Shrink Power Supplies](https://www.electronicsforu.com/news/sensorless-power-factor-control-may-shrink-power-supplies)
-**Published:** Fri, 19 Dec 2025 06:30:07 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/chonnam-national-unive-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />By eliminating current sensors without sacrificing efficiency, researchers have shown a new way to build smaller, cleaner, and more reliable AC/DC power converters pointing to slimmer chargers and simpler power electronics across consumer and industrial devices. A research team has developed a sensorless power factor correction (PFC) method that promises near-unity efficiency while cutting size [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/6937ea0a842d46637bcb6e0e_VIO-40K-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Scaling quantum computers has hit a wall at 100 qubits. A new architecture breaks limits, enabling processors for large-scale quantum computing. Quantum computing has long been limited by QPU size. For nearly a decade, organizations trying to build large-scale quantum systems have been constrained to processors of around 100 qubits. Even leading companies have struggled [&#8230;]
 
 ---
 
