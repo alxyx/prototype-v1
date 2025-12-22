@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-22 11:33 UTC_
+_Last updated: 2025-12-22 12:56 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -927,6 +927,13 @@ _Last updated: 2025-12-22 11:33 UTC_
 
 <p>Globalfoundries (GF) and onsemi have signed an agreement to develop and manufacture advanced GaN power products using GF’s 200mm eMode GaN-on-silicon process. The focus for initial development will be 650V ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/globalfoundries-onsemi-partnership-to-develop-200nm-gan-portfolio-2025-12/">GlobalFoundries-onsemi partnership to develop 200mm GaN portfolio</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [JOB: Associate Engineer – Test Lab At Eaton In Pune](https://www.electronicsforu.com/career/associate-engineer-test-lab-eaton-pune)
+**Published:** Mon, 22 Dec 2025 09:47:29 +0000
+
+<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton What You’ll Do If you desire to be part of something special, to be part of a winning team, to be part of a fun team – winning is fun.  We are looking forward to Associate Engineer Test lab based in Pune, India. This exciting role offers opportunity to: [&#8230;]
 
 ---
 
