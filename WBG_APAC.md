@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-23 17:34 UTC_
+_Last updated: 2025-12-23 18:46 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -810,6 +810,14 @@ _Last updated: 2025-12-23 17:34 UTC_
 
 ---
 
+## [onsemi and GlobalFoundries Partner to Advance GaN Technology](https://www.powerelectronicsnews.com/onsemi-and-globalfoundries-partner-to-advance-gan-technology/)
+**Published:** Tue, 23 Dec 2025 17:41:03 +0000
+
+<img alt="onsemi and GlobalFoundries Partner to Advance GaN Power Technology." class="webfeedsFeaturedVisual wp-post-image" height="316" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Generic_News_Images_3_2B_281_29.png?fit=600%2C316" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>The collaboration broadens onsemi’s power portfolio by adding high-performance 650V lateral GaN solutions for AI data centers and other critical markets.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/onsemi-and-globalfoundries-partner-to-advance-gan-technology/">onsemi and GlobalFoundries Partner to Advance GaN Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [SiC Power Modules Upgrade Photovoltaic Utility-Scale Inverters](https://www.powerelectronicsnews.com/sic-power-modules-upgrade-photovoltaic-utility-scale-inverters/)
 **Published:** Tue, 23 Dec 2025 13:00:00 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2025-12-23 17:34 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1297" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Cover-Image.jpg?fit=1200%2C1297" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>“This discovery is a new pathway toward environmentally responsible technologies that can power sensors,” says Dr. Dominik Kubicki.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/a-lead-free-piezoelectric-material-for-low-power-electronics/">A Lead-Free Piezoelectric Material for Low-Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Linear Integrated Systems Unveils Ultra-Low-Noise JFETs](https://www.powerelectronicsnews.com/linear-integrated-systems-unveils-ultra-low-noise-jfets/)
-**Published:** Thu, 18 Dec 2025 13:00:00 +0000
-
-<img alt="Linear Integrated Systems Unveils Ultra-Low-Noise JFETs." class="webfeedsFeaturedVisual wp-post-image" height="2700" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/LSK389_LSK170_Special_Testing_Press_Release.jpg?fit=2700%2C2700" style="display: block; margin-bottom: 5px; clear: both;" width="2700" /><p>Ultra-low-noise JFETs are suitable for analog front ends, discrete op amps, and low-noise amplifiers.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/linear-integrated-systems-unveils-ultra-low-noise-jfets/">Linear Integrated Systems Unveils Ultra-Low-Noise JFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
