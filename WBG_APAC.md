@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-23 05:38 UTC_
+_Last updated: 2025-12-23 06:49 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -903,14 +903,6 @@ _Last updated: 2025-12-23 05:38 UTC_
 
 <p>The Power SiC market continues its transformation. Following an unprecedented investment wave between 2019 and 2024, the industry is now entering a correction cycle, says Yole Group. The slowdown in ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/sic-recalibrates-2025-12/">SiC’s correction cycle</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [GlobalFoundries-onsemi partnership to develop 200mm GaN portfolio](https://www.electronicsweekly.com/news/products/power-supplies/globalfoundries-onsemi-partnership-to-develop-200nm-gan-portfolio-2025-12/)
-**Published:** Thu, 18 Dec 2025 17:04:51 +0000
-
-<p>Globalfoundries (GF) and onsemi have signed an agreement to develop and manufacture advanced GaN power products using GF’s 200mm eMode GaN-on-silicon process. The focus for initial development will be 650V ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/globalfoundries-onsemi-partnership-to-develop-200nm-gan-portfolio-2025-12/">GlobalFoundries-onsemi partnership to develop 200mm GaN portfolio</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
