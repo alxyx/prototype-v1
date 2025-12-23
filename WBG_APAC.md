@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-23 12:58 UTC_
+_Last updated: 2025-12-23 13:50 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -810,6 +810,14 @@ _Last updated: 2025-12-23 12:58 UTC_
 
 ---
 
+## [SiC Power Modules Upgrade Photovoltaic Utility-Scale Inverters](https://www.powerelectronicsnews.com/sic-power-modules-upgrade-photovoltaic-utility-scale-inverters/)
+**Published:** Tue, 23 Dec 2025 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="642" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/PV-featured-image.png?fit=1144%2C642" style="display: block; margin-bottom: 5px; clear: both;" width="1144" /><p>1,500-V utility solar string inverters are being widely adopted due to their high cost and efficiency benefits compared with the older, 1,000-V systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/sic-power-modules-upgrade-photovoltaic-utility-scale-inverters/">SiC Power Modules Upgrade Photovoltaic Utility-Scale Inverters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Samsung Electro-Mechanics Introduces HV MLCC](https://www.powerelectronicsnews.com/samsung-electro-mechanics-introduces-hv-mlcc/)
 **Published:** Tue, 23 Dec 2025 01:00:00 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2025-12-23 12:58 UTC_
 
 <img alt="Linear Integrated Systems Unveils Ultra-Low-Noise JFETs." class="webfeedsFeaturedVisual wp-post-image" height="2700" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/LSK389_LSK170_Special_Testing_Press_Release.jpg?fit=2700%2C2700" style="display: block; margin-bottom: 5px; clear: both;" width="2700" /><p>Ultra-low-noise JFETs are suitable for analog front ends, discrete op amps, and low-noise amplifiers.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/linear-integrated-systems-unveils-ultra-low-noise-jfets/">Linear Integrated Systems Unveils Ultra-Low-Noise JFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TDK Expands B409x Family Of Hybrid Polymer Capacitors](https://www.powerelectronicsnews.com/tdk-expands-b409x-family-of-hybrid-polymer-capacitors/)
-**Published:** Wed, 17 Dec 2025 14:45:53 +0000
-
-<img alt="TDK Expands Its B409x Family Of Hybrid Polymer Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="1605" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/bild-w-background-en-data_aaedb8.png?fit=2400%2C1605" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The SMD capacitors are offered with rated voltages ranging from 25 V to 80 V and capacitance values between 56 µF and 1100 µF.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tdk-expands-b409x-family-of-hybrid-polymer-capacitors/">TDK Expands B409x Family Of Hybrid Polymer Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
