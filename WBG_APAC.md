@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-23 07:37 UTC_
+_Last updated: 2025-12-23 08:44 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -887,6 +887,14 @@ _Last updated: 2025-12-23 07:37 UTC_
 
 <img alt="TDK Expands Its B409x Family Of Hybrid Polymer Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="1605" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/bild-w-background-en-data_aaedb8.png?fit=2400%2C1605" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The SMD capacitors are offered with rated voltages ranging from 25 V to 80 V and capacitance values between 56 µF and 1100 µF.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/tdk-expands-b409x-family-of-hybrid-polymer-capacitors/">TDK Expands B409x Family Of Hybrid Polymer Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Why Nvidia’s AI Empire Faces a Reckoning in 2026](https://www.eetimes.com/why-nvidias-ai-empire-faces-a-reckoning-in-2026/)
+**Published:** Tue, 23 Dec 2025 08:00:00 +0000
+
+<p>Nvidia's AI reign faces a hard reset as GPUs hit physical and economic walls.</p>
+<p>The post <a href="https://www.eetimes.com/why-nvidias-ai-empire-faces-a-reckoning-in-2026/">Why Nvidia&#8217;s AI Empire Faces a Reckoning in 2026</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
