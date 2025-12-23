@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-23 10:38 UTC_
+_Last updated: 2025-12-23 11:33 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -914,6 +914,13 @@ _Last updated: 2025-12-23 10:38 UTC_
 
 ---
 
+## [JOB: Trainee Engineer At  Infineon Technologies In Bengaluru](https://www.electronicsforu.com/career/trainee-engineer-infineon-technologies-bengaluru)
+**Published:** Tue, 23 Dec 2025 10:24:49 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/11/Infineon_Technologies_AG_Logo-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Infineon Technologies The role focuses on design, testing, and support of power electronics systems, particularly DC-DC and AC-DC converters. It requires strong technical expertise in power semiconductor devices (Si, SiC, GaN), magnetics design, and control systems. The candidate should be proficient in simulation tools (Simplis, LTSpice, Simetrix, TINA), analog/digital controllers, [&#8230;]
+
+---
+
 ## [AI Accelerator Sets New Standard For Performance](https://www.electronicsforu.com/special/ai-accelerator-sets-new-standard-for-performance)
 **Published:** Tue, 23 Dec 2025 06:57:18 +0000
 
@@ -925,13 +932,6 @@ _Last updated: 2025-12-23 10:38 UTC_
 **Published:** Tue, 23 Dec 2025 06:34:09 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Screenshot-2025-12-23-120003-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New motor driver ICs focus on ultra-low standby power, flexible H-bridge configurations, and reduced external components to support compact consumer and industrial motor control applications. A new generation of brushed DC motor driver ICs from ROHM Semiconductor, aiming to simplify motor control designs while significantly cutting standby power consumption. Designed for both consumer and light [&#8230;]
-
----
-
-## [Making Small Satellites Smarter](https://www.electronicsforu.com/news/making-small-satellites-smarter)
-**Published:** Tue, 23 Dec 2025 06:13:47 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Vicor-PDN-Spacechips-medium-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Small satellites are running bigger missions. Learn how AI and efficient power systems let them think and act in space in real time. The growing demand for smaller satellites with advanced computing capabilities and reliable onboard processors for missions lasting five to ten years is pushing the limits of modern ultradeep submicron FPGAs, ASICs, and [&#8230;]
 
 ---
 
