@@ -1,20 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-23 01:58 UTC_
+_Last updated: 2025-12-23 03:42 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
 
 <p>AP Memory has expanded its S-SiCap portfolio to address the increasing integration demands of AI servers and HPC systems.</p>
 <p>The post <a href="https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/">AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027](https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/)
-**Published:** Thu, 18 Dec 2025 03:13:07 +0000
-
-<p>Global sales of total semiconductor manufacturing equipment by OEMs are forecast to reach a record high of $133 billion in 2025.</p>
-<p>The post <a href="https://www.eetasia.com/semi-forecasts-global-chip-equipment-sales-to-hit-record-156b-in-2027/">SEMI Forecasts Global Chip Equipment Sales to Hit Record $156B in 2027</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
