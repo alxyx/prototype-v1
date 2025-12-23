@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-23 11:33 UTC_
+_Last updated: 2025-12-23 12:58 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -903,6 +903,14 @@ _Last updated: 2025-12-23 11:33 UTC_
 
 <p>AI growth drives chip demand, but memory shortages and supply chain woes threaten progress. </p>
 <p>The post <a href="https://www.eetimes.com/ais-booming-demand-meets-a-semiconductor-reality-check/">AI’s Booming Demand Meets a Semiconductor Reality Check</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [IEEE announces student challenge for semiconductor packaging](https://www.electronicsweekly.com/news/business/ieee-announces-student-challenge-for-semiconductor-packaging-2025-12/)
+**Published:** Tue, 23 Dec 2025 12:19:44 +0000
+
+<p>A competition launched by the IEEE offers six student teams the chance to attend next year&#8217;s Electronic Components and Technology Conference in Orlando, Florida. There are three challenges, each dealing ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/ieee-announces-student-challenge-for-semiconductor-packaging-2025-12/">IEEE announces student challenge for semiconductor packaging</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
