@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-23 09:40 UTC_
+_Last updated: 2025-12-23 10:38 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -914,17 +914,24 @@ _Last updated: 2025-12-23 09:40 UTC_
 
 ---
 
-## [JOB: Associate Engineer – Test Lab At Eaton In Pune](https://www.electronicsforu.com/career/associate-engineer-test-lab-eaton-pune)
-**Published:** Mon, 22 Dec 2025 09:47:29 +0000
+## [AI Accelerator Sets New Standard For Performance](https://www.electronicsforu.com/special/ai-accelerator-sets-new-standard-for-performance)
+**Published:** Tue, 23 Dec 2025 06:57:18 +0000
 
-<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton What You’ll Do If you desire to be part of something special, to be part of a winning team, to be part of a fun team – winning is fun.  We are looking forward to Associate Engineer Test lab based in Pune, India. This exciting role offers opportunity to: [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/HR_Fabrizio_20250612RidderhofFotografie1110-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />AI workloads are slow, costly, and use much power. This processor improves performance, lowers energy use, secures data, and works from edge to server applications. Organizations building AI systems face challenges in performance, cost, and energy efficiency. Running generative AI, computer vision, or multi-user inference often requires multiple devices or expensive hardware. Edge deployments struggle [&#8230;]
 
 ---
 
-## [Quantum Chip Design Breaks Previous Scaling Limits](https://www.electronicsforu.com/special/quantum-chip-design-breaks-previous-scaling-limits)
-**Published:** Mon, 22 Dec 2025 07:23:22 +0000
+## [Low-Power Brushed DC Motor Drivers](https://www.electronicsforu.com/news/low-power-brushed-dc-motor-drivers)
+**Published:** Tue, 23 Dec 2025 06:34:09 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/6937ea0a842d46637bcb6e0e_VIO-40K-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Scaling quantum computers has hit a wall at 100 qubits. A new architecture breaks limits, enabling processors for large-scale quantum computing. Quantum computing has long been limited by QPU size. For nearly a decade, organizations trying to build large-scale quantum systems have been constrained to processors of around 100 qubits. Even leading companies have struggled [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Screenshot-2025-12-23-120003-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New motor driver ICs focus on ultra-low standby power, flexible H-bridge configurations, and reduced external components to support compact consumer and industrial motor control applications. A new generation of brushed DC motor driver ICs from ROHM Semiconductor, aiming to simplify motor control designs while significantly cutting standby power consumption. Designed for both consumer and light [&#8230;]
+
+---
+
+## [Making Small Satellites Smarter](https://www.electronicsforu.com/news/making-small-satellites-smarter)
+**Published:** Tue, 23 Dec 2025 06:13:47 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Vicor-PDN-Spacechips-medium-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Small satellites are running bigger missions. Learn how AI and efficient power systems let them think and act in space in real time. The growing demand for smaller satellites with advanced computing capabilities and reliable onboard processors for missions lasting five to ten years is pushing the limits of modern ultradeep submicron FPGAs, ASICs, and [&#8230;]
 
 ---
 
