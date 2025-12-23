@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-22 23:34 UTC_
+_Last updated: 2025-12-23 01:58 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -818,6 +818,14 @@ _Last updated: 2025-12-22 23:34 UTC_
 
 ---
 
+## [Samsung Electro-Mechanics Introduces HV MLCC](https://www.powerelectronicsnews.com/samsung-electro-mechanics-introduces-hv-mlcc/)
+**Published:** Tue, 23 Dec 2025 01:00:00 +0000
+
+<img alt="Samsung Electro-Mechanics Introduces the World’s First CLLC Resonant MLCC." class="webfeedsFeaturedVisual wp-post-image" height="309" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Samsung_MLCC.png?fit=600%2C309" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>This release increases the voltage rating of existing C0G capacitors from 630 V to 1000 V, addressing CLLC resonant circuits demands in EV systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/samsung-electro-mechanics-introduces-hv-mlcc/">Samsung Electro-Mechanics Introduces HV MLCC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Diodes Inc. Expands Automotive Bipolar Transistor Line with 78Q and 80Q Series](https://www.powerelectronicsnews.com/diodes-inc-expands-automotive-bipolar-transistor-line-with-78q-and-80q-series/)
 **Published:** Mon, 22 Dec 2025 17:24:38 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2025-12-22 23:34 UTC_
 
 <img alt="TDK Expands Its B409x Family Of Hybrid Polymer Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="1605" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/bild-w-background-en-data_aaedb8.png?fit=2400%2C1605" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The SMD capacitors are offered with rated voltages ranging from 25 V to 80 V and capacitance values between 56 µF and 1100 µF.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/tdk-expands-b409x-family-of-hybrid-polymer-capacitors/">TDK Expands B409x Family Of Hybrid Polymer Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Scalable DC/DC Converters in Battery Energy Solutions](https://www.powerelectronicsnews.com/scalable-dc-dc-converters-in-battery-energy-solutions/)
-**Published:** Wed, 17 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="526" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/featured.jpg?fit=524%2C526" style="display: block; margin-bottom: 5px; clear: both;" width="524" /><p>A modular DC-DC converter that can source or sink to a 48-V application using conventional 3.2-V LFP batteries.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/scalable-dc-dc-converters-in-battery-energy-solutions/">Scalable DC/DC Converters in Battery Energy Solutions</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
