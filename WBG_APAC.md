@@ -1,12 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-24 22:34 UTC_
+_Last updated: 2025-12-24 23:33 UTC_
 
-## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
-**Published:** Mon, 22 Dec 2025 04:13:23 +0000
+## [Siemens AI-powered Solido Speeds IP Development Process for Certus Semiconductor](https://www.eetasia.com/siemens-ai-powered-solido-speeds-ip-development-process-for-certus-semiconductor/)
+**Published:** Wed, 24 Dec 2025 23:19:21 +0000
 
-<p>AP Memory has expanded its S-SiCap portfolio to address the increasing integration demands of AI servers and HPC systems.</p>
-<p>The post <a href="https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/">AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Certus Semiconductor is accelerating its IP development process by using Siemens' EDA tools.</p>
+<p>The post <a href="https://www.eetasia.com/siemens-ai-powered-solido-speeds-ip-development-process-for-certus-semiconductor/">Siemens AI-powered Solido Speeds IP Development Process for Certus Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
