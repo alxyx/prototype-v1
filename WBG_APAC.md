@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-24 06:48 UTC_
+_Last updated: 2025-12-24 07:38 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -906,19 +906,19 @@ _Last updated: 2025-12-24 06:48 UTC_
 
 ---
 
+## [OQ Technology and Nordic hook up for D2D satellite connectivity](https://www.electronicsweekly.com/news/business/oq-technology-and-nordic-hook-up-for-d2d-satellite-connectivity-2025-12/)
+**Published:** Wed, 24 Dec 2025 06:28:41 +0000
+
+<p>&#160; OQ Technology, the IoT and direct-to-device (D2D) satellite connectivity provider with 60 MHz of MSS S-band spectrum rights, has certified Nordic Semiconductor’s low-power nRF9151 cellular IoT chipset for use ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/oq-technology-and-nordic-hook-up-for-d2d-satellite-connectivity-2025-12/">OQ Technology and Nordic hook up for D2D satellite connectivity</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [IEEE announces student challenge for semiconductor packaging](https://www.electronicsweekly.com/news/business/ieee-announces-student-challenge-for-semiconductor-packaging-2025-12/)
 **Published:** Tue, 23 Dec 2025 12:19:44 +0000
 
 <p>A competition launched by the IEEE offers six student teams the chance to attend next year&#8217;s Electronic Components and Technology Conference in Orlando, Florida. There are three challenges, each dealing ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/ieee-announces-student-challenge-for-semiconductor-packaging-2025-12/">IEEE announces student challenge for semiconductor packaging</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [SiC’s correction cycle](https://www.electronicsweekly.com/news/business/sic-recalibrates-2025-12/)
-**Published:** Mon, 22 Dec 2025 06:27:47 +0000
-
-<p>The Power SiC market continues its transformation. Following an unprecedented investment wave between 2019 and 2024, the industry is now entering a correction cycle, says Yole Group. The slowdown in ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/sic-recalibrates-2025-12/">SiC’s correction cycle</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
