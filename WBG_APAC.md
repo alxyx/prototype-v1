@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-24 13:46 UTC_
+_Last updated: 2025-12-24 14:34 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -887,6 +887,14 @@ _Last updated: 2025-12-24 13:46 UTC_
 
 <img alt="Melexis Introduces MLX90296 Micropower Linear Hall Sensor for Battery-Powered Designs." class="webfeedsFeaturedVisual wp-post-image" height="628" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/mlx90296-opengraph.png?fit=1200%2C628" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The MLX90296 contactless linear sensor combines digital flexibility, ultra low power consumption, adaptable polarity modes, and a space-saving form factor.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/melexis-introduces-mlx90296-micropower-linear-hall-sensor/">Melexis Introduces MLX90296 Micropower Linear Hall Sensor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Niko-Sem Recognized for Technical Excellence, Wins “Best Power Semiconductor” at the EE Awards Asia](https://www.eetimes.com/niko-sem-recognized-for-technical-excellence-wins-best-power-semiconductor-at-the-ee-awards-asia/)
+**Published:** Wed, 24 Dec 2025 14:00:00 +0000
+
+<p>NIKO-SEM's SPR Pack SiC module earned the Best Power Semiconductor of the Year award at EE Awards Asia 2025. </p>
+<p>The post <a href="https://www.eetimes.com/niko-sem-recognized-for-technical-excellence-wins-best-power-semiconductor-at-the-ee-awards-asia/">Niko-Sem Recognized for Technical Excellence, Wins “Best Power Semiconductor” at the EE Awards Asia</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
