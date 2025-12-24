@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-24 16:40 UTC_
+_Last updated: 2025-12-24 17:31 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -930,24 +930,24 @@ _Last updated: 2025-12-24 16:40 UTC_
 
 ---
 
-## [JOB: Trainee Engineer At  Infineon Technologies In Bengaluru](https://www.electronicsforu.com/career/trainee-engineer-infineon-technologies-bengaluru)
-**Published:** Tue, 23 Dec 2025 10:24:49 +0000
+## [“We Are Bridging The Gap Between College Labs And Real World Robotics”- Hitendra Valhe, Bhagyesh Tajne, Ecruxbot](https://www.electronicsforu.com/technology-trends/we-are-bridging-the-gap-between-college-labs-and-real-world-robotics-hitendra-valhe-bhagyesh-tajne-ecruxbot)
+**Published:** Wed, 24 Dec 2025 10:55:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/11/Infineon_Technologies_AG_Logo-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Infineon Technologies The role focuses on design, testing, and support of power electronics systems, particularly DC-DC and AC-DC converters. It requires strong technical expertise in power semiconductor devices (Si, SiC, GaN), magnetics design, and control systems. The candidate should be proficient in simulation tools (Simplis, LTSpice, Simetrix, TINA), analog/digital controllers, [&#8230;]
-
----
-
-## [AI Accelerator Sets New Standard For Performance](https://www.electronicsforu.com/special/ai-accelerator-sets-new-standard-for-performance)
-**Published:** Tue, 23 Dec 2025 06:57:18 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/HR_Fabrizio_20250612RidderhofFotografie1110-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />AI workloads are slow, costly, and use much power. This processor improves performance, lowers energy use, secures data, and works from edge to server applications. Organizations building AI systems face challenges in performance, cost, and energy efficiency. Running generative AI, computer vision, or multi-user inference often requires multiple devices or expensive hardware. Edge deployments struggle [&#8230;]
+<img alt="(Left to right): Bhagyesh Tajne CTO, Rajesh Thakre MD, Hitendra Valhe CEO, Nilesh wagh CMO" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Ecrxubot-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Transforming basic robotics kits, a student-led startup is redefining a complete learning path, from beginner projects to AI-powered machines. How is that possible? Hitendra Valhe and Bhagyesh Tajne of Ecruxbot tells their story to EFY’s Nidhi Agarwal. Q: What does your company do? A: We started the company in our second year of college with [&#8230;]
 
 ---
 
-## [Low-Power Brushed DC Motor Drivers](https://www.electronicsforu.com/news/low-power-brushed-dc-motor-drivers)
-**Published:** Tue, 23 Dec 2025 06:34:09 +0000
+## [Sales Intern – Semiconductor / Embedded At Modernize Chip Solutions (MCS) In Bengaluru](https://www.electronicsforu.com/news/sales-intern-semiconductor-embedded-at-modernize-chip-solutions-mcs-in-bengaluru)
+**Published:** Wed, 24 Dec 2025 10:39:51 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Screenshot-2025-12-23-120003-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New motor driver ICs focus on ultra-low standby power, flexible H-bridge configurations, and reduced external components to support compact consumer and industrial motor control applications. A new generation of brushed DC motor driver ICs from ROHM Semiconductor, aiming to simplify motor control designs while significantly cutting standby power consumption. Designed for both consumer and light [&#8230;]
+<img alt="Internship" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/lam-job-search-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Modernize Chip Solutions (MCS) Modernize Chip Solutions (MCS) is looking for an enthusiastic and proactive Sales Intern (Fresher) to join our growing Semiconductor &#38; Embedded sales team in Bangalore. Requirements Send your CV to: ananya.ojha@modernchipsolutions.com Apply Now via Google Form: https://lnkd.in/gHPdm9pK
+
+---
+
+## [JOB: Engineer – Power Electronics At Eaton In Pune](https://www.electronicsforu.com/career/engineer-power-electronics-eaton-pune)
+**Published:** Wed, 24 Dec 2025 09:57:45 +0000
+
+<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton The primary responsibility of this role is to perform design, simulations and do analysis of high-power Power Electronic circuits to meet customer-specific technical, cost and market-related technology. Qualifications: Skills: Required: Desired Special
 
 ---
 
