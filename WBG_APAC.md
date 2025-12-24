@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-24 12:56 UTC_
+_Last updated: 2025-12-24 13:46 UTC_
 
 ## [AP Memory Advances S-SiCap Technology to Support Evolving AI and HPC Needs](https://www.eetasia.com/ap-memory-advances-s-sicap-technology-to-support-evolving-ai-and-hpc-needs/)
 **Published:** Mon, 22 Dec 2025 04:13:23 +0000
@@ -810,6 +810,22 @@ _Last updated: 2025-12-24 12:56 UTC_
 
 ---
 
+## [Vishay Launches S2F and S3F Thin Film Chip Fuse Series](https://www.powerelectronicsnews.com/vishay-launches-s2f-and-s3f-thin-film-chip-fuse-series/)
+**Published:** Wed, 24 Dec 2025 13:00:00 +0000
+
+<img alt="Vishay Launches S2F and S3F Thin Film Chip Fuse Series." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/54976276196_b36af21fee_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The S2F and S3F thin film chip fuses deliver UL 248-14–compliant protection from 0.315 A to 7 A with low resistance.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-launches-s2f-and-s3f-thin-film-chip-fuse-series/">Vishay Launches S2F and S3F Thin Film Chip Fuse Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [The Growing Role of GaN in Solar Microinverters](https://www.powerelectronicsnews.com/the-growing-role-of-gan-in-solar-microinverters/)
+**Published:** Wed, 24 Dec 2025 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="733" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/1-microinverters-infineon.png?fit=1810%2C733" style="display: block; margin-bottom: 5px; clear: both;" width="1810" /><p>GaN's role in microinverters is growing, but will this material ultimately dislodge silicon in panel-level DC/AC conversion? </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-growing-role-of-gan-in-solar-microinverters/">The Growing Role of GaN in Solar Microinverters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [onsemi and GlobalFoundries Partner to Advance GaN Technology](https://www.powerelectronicsnews.com/onsemi-and-globalfoundries-partner-to-advance-gan-technology/)
 **Published:** Tue, 23 Dec 2025 17:41:03 +0000
 
@@ -871,22 +887,6 @@ _Last updated: 2025-12-24 12:56 UTC_
 
 <img alt="Melexis Introduces MLX90296 Micropower Linear Hall Sensor for Battery-Powered Designs." class="webfeedsFeaturedVisual wp-post-image" height="628" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/mlx90296-opengraph.png?fit=1200%2C628" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The MLX90296 contactless linear sensor combines digital flexibility, ultra low power consumption, adaptable polarity modes, and a space-saving form factor.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/melexis-introduces-mlx90296-micropower-linear-hall-sensor/">Melexis Introduces MLX90296 Micropower Linear Hall Sensor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ST Introduces Zero-Drift High-Accuracy Op-Amp](https://www.powerelectronicsnews.com/st-introduces-zero-drift-high-accuracy-op-amp/)
-**Published:** Fri, 19 Dec 2025 11:00:00 +0000
-
-<img alt="ST Introduces Zero-Drift High-Accuracy Op-Amp." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/tsz901-op-amps.jpg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new TSZ901 op-amp ensures stable, high-precision operation over the full −40°C to 125°C temperature range.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-zero-drift-high-accuracy-op-amp/">ST Introduces Zero-Drift High-Accuracy Op-Amp</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [A Lead-Free Piezoelectric Material for Low-Power Electronics](https://www.powerelectronicsnews.com/a-lead-free-piezoelectric-material-for-low-power-electronics/)
-**Published:** Thu, 18 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1297" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Cover-Image.jpg?fit=1200%2C1297" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>“This discovery is a new pathway toward environmentally responsible technologies that can power sensors,” says Dr. Dominik Kubicki.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/a-lead-free-piezoelectric-material-for-low-power-electronics/">A Lead-Free Piezoelectric Material for Low-Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
