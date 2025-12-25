@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-25 12:55 UTC_
+_Last updated: 2025-12-25 13:46 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -826,6 +826,14 @@ _Last updated: 2025-12-25 12:55 UTC_
 
 ---
 
+## [TI Brings New 300mm Wafer Fab Online in Sherman](https://www.powerelectronicsnews.com/ti-brings-new-300mm-wafer-fab-online-in-sherman/)
+**Published:** Thu, 25 Dec 2025 13:00:00 +0000
+
+<img alt="Texas Instruments Brings New 300mm Wafer Fab Online in Sherman." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/sherman-texas-opening.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The semiconductor wafer fab is expected to manufacture tens of millions of electronic components each day.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ti-brings-new-300mm-wafer-fab-online-in-sherman/">TI Brings New 300mm Wafer Fab Online in Sherman</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Vishay Launches S2F and S3F Thin Film Chip Fuse Series](https://www.powerelectronicsnews.com/vishay-launches-s2f-and-s3f-thin-film-chip-fuse-series/)
 **Published:** Wed, 24 Dec 2025 13:00:00 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2025-12-25 12:55 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on PEN eBook December 2025, SiC and GaN Markets, and DC/DC Converters in BESS!</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/pen-ebook-december-2025-sic-and-gan-markets-dc-dc-converters-in-bess-power-electronics-week-insights/">PEN eBook December 2025, SiC and GaN Markets, DC/DC Converters in BESS: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Melexis Introduces MLX90296 Micropower Linear Hall Sensor](https://www.powerelectronicsnews.com/melexis-introduces-mlx90296-micropower-linear-hall-sensor/)
-**Published:** Fri, 19 Dec 2025 15:00:02 +0000
-
-<img alt="Melexis Introduces MLX90296 Micropower Linear Hall Sensor for Battery-Powered Designs." class="webfeedsFeaturedVisual wp-post-image" height="628" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/mlx90296-opengraph.png?fit=1200%2C628" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The MLX90296 contactless linear sensor combines digital flexibility, ultra low power consumption, adaptable polarity modes, and a space-saving form factor.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/melexis-introduces-mlx90296-micropower-linear-hall-sensor/">Melexis Introduces MLX90296 Micropower Linear Hall Sensor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
