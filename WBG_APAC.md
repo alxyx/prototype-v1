@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-25 13:46 UTC_
+_Last updated: 2025-12-25 14:34 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -826,6 +826,14 @@ _Last updated: 2025-12-25 13:46 UTC_
 
 ---
 
+## [Quantifying Effects of EV Charging On Household Power Systems](https://www.powerelectronicsnews.com/quantifying-effects-of-ev-charging-on-household-power-systems/)
+**Published:** Thu, 25 Dec 2025 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="724" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_1d8324.png?fit=1425%2C724" style="display: block; margin-bottom: 5px; clear: both;" width="1425" /><p>How EV charging fundamentally impacts household power distribution with unbalanced load distribution, phase imbalance, and THD. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/quantifying-effects-of-ev-charging-on-household-power-systems/">Quantifying Effects of EV Charging On Household Power Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [TI Brings New 300mm Wafer Fab Online in Sherman](https://www.powerelectronicsnews.com/ti-brings-new-300mm-wafer-fab-online-in-sherman/)
 **Published:** Thu, 25 Dec 2025 13:00:00 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2025-12-25 13:46 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="519" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/GaN-wafers.png?fit=782%2C519" style="display: block; margin-bottom: 5px; clear: both;" width="782" /><p>Planar, trench, and TAP technologies all have a place in the industry in terms of cost, lifetime, high-voltage performance, and efficiency. </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/a-deep-dive-into-navitas-trench-assisted-planar-sic-architecture/">A Deep Dive into Navitas’ Trench-Assisted Planar SiC Architecture</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [PEN eBook December 2025, SiC and GaN Markets, DC/DC Converters in BESS: Power Electronics Week Insights](https://www.powerelectronicsnews.com/pen-ebook-december-2025-sic-and-gan-markets-dc-dc-converters-in-bess-power-electronics-week-insights/)
-**Published:** Fri, 19 Dec 2025 15:00:24 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on PEN eBook December 2025, SiC and GaN Markets, and DC/DC Converters in BESS!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/pen-ebook-december-2025-sic-and-gan-markets-dc-dc-converters-in-bess-power-electronics-week-insights/">PEN eBook December 2025, SiC and GaN Markets, DC/DC Converters in BESS: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
