@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-24 23:33 UTC_
+_Last updated: 2025-12-25 01:58 UTC_
+
+## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
+**Published:** Wed, 24 Dec 2025 23:59:04 +0000
+
+<p>AI growth drives chip demand, but memory shortages and supply chain woes threaten progress.</p>
+<p>The post <a href="https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/">Semiconductor Reality Amid AI&#8217;s Booming Demand</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Nordic Semiconductor Adds Wi-Fi 6 Capabilities to nRF54L Series DKs](https://www.eetasia.com/nordic-semiconductor-adds-wi-fi-6-capabilities-to-nrf54l-series-dks/)
+**Published:** Wed, 24 Dec 2025 23:30:16 +0000
+
+<p>Nordic's nRF7002 Expansion Board II enables developers to create high performance, energy-efficient, Wi-Fi 6-enabled IoT solutions.</p>
+<p>The post <a href="https://www.eetasia.com/nordic-semiconductor-adds-wi-fi-6-capabilities-to-nrf54l-series-dks/">Nordic Semiconductor Adds Wi-Fi 6 Capabilities to nRF54L Series DKs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Siemens AI-powered Solido Speeds IP Development Process for Certus Semiconductor](https://www.eetasia.com/siemens-ai-powered-solido-speeds-ip-development-process-for-certus-semiconductor/)
 **Published:** Wed, 24 Dec 2025 23:19:21 +0000
