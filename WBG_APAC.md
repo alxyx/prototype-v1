@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-26 11:33 UTC_
+_Last updated: 2025-12-26 12:56 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -946,24 +946,10 @@ _Last updated: 2025-12-26 11:33 UTC_
 
 ---
 
-## [“We Are Bridging The Gap Between College Labs And Real World Robotics”- Hitendra Valhe, Bhagyesh Tajne, Ecruxbot](https://www.electronicsforu.com/technology-trends/we-are-bridging-the-gap-between-college-labs-and-real-world-robotics-hitendra-valhe-bhagyesh-tajne-ecruxbot)
-**Published:** Wed, 24 Dec 2025 10:55:00 +0000
+## [These Female Founders Are Turning Farm Waste into High-Performance Batteries](https://www.electronicsforu.com/technology-trends/you-could-directly-replace-lithium-batteries-with-ours-without-changing-the-system-nishita-baliarsingh-nexus-power)
+**Published:** Fri, 26 Dec 2025 11:51:02 +0000
 
-<img alt="(Left to right): Bhagyesh Tajne CTO, Rajesh Thakre MD, Hitendra Valhe CEO, Nilesh wagh CMO" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Ecrxubot-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Transforming basic robotics kits, a student-led startup is redefining a complete learning path, from beginner projects to AI-powered machines. How is that possible? Hitendra Valhe and Bhagyesh Tajne of Ecruxbot tells their story to EFY’s Nidhi Agarwal. Q: What does your company do? A: We started the company in our second year of college with [&#8230;]
-
----
-
-## [Sales Intern – Semiconductor / Embedded At Modernize Chip Solutions (MCS) In Bengaluru](https://www.electronicsforu.com/news/sales-intern-semiconductor-embedded-at-modernize-chip-solutions-mcs-in-bengaluru)
-**Published:** Wed, 24 Dec 2025 10:39:51 +0000
-
-<img alt="Internship" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/lam-job-search-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Modernize Chip Solutions (MCS) Modernize Chip Solutions (MCS) is looking for an enthusiastic and proactive Sales Intern (Fresher) to join our growing Semiconductor &#38; Embedded sales team in Bangalore. Requirements Send your CV to: ananya.ojha@modernchipsolutions.com Apply Now via Google Form: https://lnkd.in/gHPdm9pK
-
----
-
-## [JOB: Engineer – Power Electronics At Eaton In Pune](https://www.electronicsforu.com/career/engineer-power-electronics-eaton-pune)
-**Published:** Wed, 24 Dec 2025 09:57:45 +0000
-
-<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton The primary responsibility of this role is to perform design, simulations and do analysis of high-power Power Electronic circuits to meet customer-specific technical, cost and market-related technology. Qualifications: Skills: Required: Desired Special
+<img alt="(left to right): Nishita Baliarsingh and Nikita Baliarsingh Founders, Nexus Power" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Founders-Nishita-Nikita-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Turning crop residue into power, a new battery is promising lithium-level performance, safer charging, lower costs, and full biodegradability! Can this innovation reshape clean energy? Speaking to Nishita Baliarsingh of Nexus Power, Nidhi Agarwal from EFY explores the possibility. Q. When did you start your startup? What inspired you? A. We officially began in August [&#8230;]
 
 ---
 
