@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-26 12:56 UTC_
+_Last updated: 2025-12-26 13:47 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -826,6 +826,30 @@ _Last updated: 2025-12-26 12:56 UTC_
 
 ---
 
+## [The Heart of an EV Battery Is a Perfectly Cut Piece of Plastic](https://www.powerelectronicsnews.com/the-heart-of-an-ev-battery-is-a-perfectly-cut-piece-of-plastic/)
+**Published:** Fri, 26 Dec 2025 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/EV-battery-featured.png?fit=928%2C685" style="display: block; margin-bottom: 5px; clear: both;" width="928" /><p>For engineers working in power electronics, understanding the nuances of material choices in EVs allows for better component choices.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-heart-of-an-ev-battery-is-a-perfectly-cut-piece-of-plastic/">The Heart of an EV Battery Is a Perfectly Cut Piece of Plastic</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [ROHM Introduces High-Efficiency Brushed DC Motor Driver ICs](https://www.powerelectronicsnews.com/rohm-introduces-high-efficiency-brushed-dc-motor-driver-ics/)
+**Published:** Fri, 26 Dec 2025 13:00:00 +0000
+
+<img alt="ROHM Introduces New High-Efficiency Brushed DC Motor Driver ICs." class="webfeedsFeaturedVisual wp-post-image" height="387" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/104587-rohm.png?fit=578%2C387" style="display: block; margin-bottom: 5px; clear: both;" width="578" /><p>Two new motor driver ICs feature ultra-low standby current, suited for both consumer white goods and industrial DC brush motor applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/rohm-introduces-high-efficiency-brushed-dc-motor-driver-ics/">ROHM Introduces High-Efficiency Brushed DC Motor Driver ICs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [GaN in Solar Microinverters, EV Charging, Navitas’ TAP Architecture: Power Electronics Week Insights](https://www.powerelectronicsnews.com/gan-in-solar-microinverters-ev-charging-navitas-tap-architecture-power-electronics-week-insights/)
+**Published:** Fri, 26 Dec 2025 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on GaN in Solar Microinverters, EV Charging, and Navitas’ TAP Architecture!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/gan-in-solar-microinverters-ev-charging-navitas-tap-architecture-power-electronics-week-insights/">GaN in Solar Microinverters, EV Charging, Navitas’ TAP Architecture: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Quantifying Effects of EV Charging On Household Power Systems](https://www.powerelectronicsnews.com/quantifying-effects-of-ev-charging-on-household-power-systems/)
 **Published:** Thu, 25 Dec 2025 14:00:00 +0000
 
@@ -879,30 +903,6 @@ _Last updated: 2025-12-26 12:56 UTC_
 
 <img alt="Samsung Electro-Mechanics Introduces the World’s First CLLC Resonant MLCC." class="webfeedsFeaturedVisual wp-post-image" height="309" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Samsung_MLCC.png?fit=600%2C309" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>This release increases the voltage rating of existing C0G capacitors from 630 V to 1000 V, addressing CLLC resonant circuits demands in EV systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/samsung-electro-mechanics-introduces-hv-mlcc/">Samsung Electro-Mechanics Introduces HV MLCC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Diodes Inc. Expands Automotive Bipolar Transistor Line with 78Q and 80Q Series](https://www.powerelectronicsnews.com/diodes-inc-expands-automotive-bipolar-transistor-line-with-78q-and-80q-series/)
-**Published:** Mon, 22 Dec 2025 17:24:38 +0000
-
-<img alt="Diodes Inc. Expands Automotive Bipolar Transistor Line with 78Q and 80Q Series." class="webfeedsFeaturedVisual wp-post-image" height="353" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Ultra-Low-VCEsat-NPN-and-PNP-Bipolar-Transistors-Maximize-Power-Density-and-Efficiency-in-Compact-Automotive-Designs__ScaleMaxWidthWzQ2MF0.png?fit=460%2C353" style="display: block; margin-bottom: 5px; clear: both;" width="460" /><p>The bipolar transistor line covers a wide operating voltage range, enabling compatibility with 12V, 24V, and 48V automotive platforms.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/diodes-inc-expands-automotive-bipolar-transistor-line-with-78q-and-80q-series/">Diodes Inc. Expands Automotive Bipolar Transistor Line with 78Q and 80Q Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Extreme Fast Charging Architectures From 350 kW to 3.75 MW](https://www.powerelectronicsnews.com/from-350-kw-to-3-75-mw-extreme-fast-charging-architectures/)
-**Published:** Mon, 22 Dec 2025 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1121" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/EV-charger-featured.png?fit=1524%2C1121" style="display: block; margin-bottom: 5px; clear: both;" width="1524" /><p>XFC is advancing to megawatt-class charging using NPC and DAB topologies, 800V-1,250V platforms, and SiC to support heavy-duty EVs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/from-350-kw-to-3-75-mw-extreme-fast-charging-architectures/">Extreme Fast Charging Architectures From 350 kW to 3.75 MW</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [A Deep Dive into Navitas’ Trench-Assisted Planar SiC Architecture](https://www.powerelectronicsnews.com/a-deep-dive-into-navitas-trench-assisted-planar-sic-architecture/)
-**Published:** Mon, 22 Dec 2025 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="519" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/11/GaN-wafers.png?fit=782%2C519" style="display: block; margin-bottom: 5px; clear: both;" width="782" /><p>Planar, trench, and TAP technologies all have a place in the industry in terms of cost, lifetime, high-voltage performance, and efficiency. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/a-deep-dive-into-navitas-trench-assisted-planar-sic-architecture/">A Deep Dive into Navitas’ Trench-Assisted Planar SiC Architecture</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
