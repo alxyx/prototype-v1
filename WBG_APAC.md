@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-27 09:35 UTC_
+_Last updated: 2025-12-27 10:35 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -950,6 +950,13 @@ _Last updated: 2025-12-27 09:35 UTC_
 **Published:** Fri, 26 Dec 2025 11:51:02 +0000
 
 <img alt="(left to right): Nishita Baliarsingh and Nikita Baliarsingh Founders, Nexus Power" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Founders-Nishita-Nikita-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Turning crop residue into power, a new battery is promising lithium-level performance, safer charging, lower costs, and full biodegradability! Can this innovation reshape clean energy? Speaking to Nishita Baliarsingh of Nexus Power, Nidhi Agarwal from EFY explores the possibility. Q. When did you start your startup? What inspired you? A. We officially began in August [&#8230;]
+
+---
+
+## [Physicists have found a new way to study the inner workings of Josephson junctions, without electronics](https://www.electronicsforu.com/news/when-atoms-mimic-electronic-junctions)
+**Published:** Fri, 26 Dec 2025 07:24:33 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/abstract-quantum-electronic-effect-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Discover how quantum simulations let researchers observe Josephson dynamics and Shapiro steps using atomic systems instead of electronic devices. Quantum electronic components such as Josephson junctions underpin voltage standards and quantum computing, but the microscopic processes inside superconductors are difficult to observe directly. This limits experimental access to some of the fundamental quantum effects that [&#8230;]
 
 ---
 
