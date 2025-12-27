@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-27 17:31 UTC_
+_Last updated: 2025-12-27 18:42 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -956,7 +956,7 @@ _Last updated: 2025-12-27 17:31 UTC_
 ## [Physicists have found a new way to study the inner workings of Josephson junctions, without electronics](https://www.electronicsforu.com/news/when-atoms-mimic-electronic-junctions)
 **Published:** Fri, 26 Dec 2025 07:24:33 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/abstract-quantum-electronic-effect-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Discover how quantum simulations let researchers observe Josephson dynamics and Shapiro steps using atomic systems instead of electronic devices. Quantum electronic components such as Josephson junctions underpin voltage standards and quantum computing, but the microscopic processes inside superconductors are difficult to observe directly. This limits experimental access to some of the fundamental quantum effects that [&#8230;]
+<img alt="Physicists have found a new way to study the inner workings of Josephson junctions, without electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/abstract-quantum-electronic-effect-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Discover how quantum simulations let researchers observe Josephson dynamics and Shapiro steps using atomic systems instead of electronic devices. Quantum electronic components such as Josephson junctions underpin voltage standards and quantum computing, but the microscopic processes inside superconductors are difficult to observe directly. This limits experimental access to some of the fundamental quantum effects that [&#8230;]
 
 ---
 
