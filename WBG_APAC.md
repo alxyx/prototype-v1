@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-27 21:32 UTC_
+_Last updated: 2025-12-27 22:33 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -826,6 +826,14 @@ _Last updated: 2025-12-27 21:32 UTC_
 
 ---
 
+## [Wide Bandgap Monthly Insights – December 2025](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-december-2025/)
+**Published:** Sat, 27 Dec 2025 22:07:56 +0000
+
+<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-december-2025/">Wide Bandgap Monthly Insights &#8211; December 2025</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [The Heart of an EV Battery Is a Perfectly Cut Piece of Plastic](https://www.powerelectronicsnews.com/the-heart-of-an-ev-battery-is-a-perfectly-cut-piece-of-plastic/)
 **Published:** Fri, 26 Dec 2025 13:00:00 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2025-12-27 21:32 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="642" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/PV-featured-image.png?fit=1144%2C642" style="display: block; margin-bottom: 5px; clear: both;" width="1144" /><p>1,500-V utility solar string inverters are being widely adopted due to their high cost and efficiency benefits compared with the older, 1,000-V systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/sic-power-modules-upgrade-photovoltaic-utility-scale-inverters/">SiC Power Modules Upgrade Photovoltaic Utility-Scale Inverters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Samsung Electro-Mechanics Introduces HV MLCC](https://www.powerelectronicsnews.com/samsung-electro-mechanics-introduces-hv-mlcc/)
-**Published:** Tue, 23 Dec 2025 01:00:00 +0000
-
-<img alt="Samsung Electro-Mechanics Introduces the World’s First CLLC Resonant MLCC." class="webfeedsFeaturedVisual wp-post-image" height="309" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Samsung_MLCC.png?fit=600%2C309" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>This release increases the voltage rating of existing C0G capacitors from 630 V to 1000 V, addressing CLLC resonant circuits demands in EV systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/samsung-electro-mechanics-introduces-hv-mlcc/">Samsung Electro-Mechanics Introduces HV MLCC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
