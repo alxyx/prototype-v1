@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-28 14:33 UTC_
+_Last updated: 2025-12-28 15:34 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
