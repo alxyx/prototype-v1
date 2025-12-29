@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-29 06:50 UTC_
+_Last updated: 2025-12-29 07:40 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -935,14 +935,6 @@ _Last updated: 2025-12-29 06:50 UTC_
 
 <p>&#160; OQ Technology, the IoT and direct-to-device (D2D) satellite connectivity provider with 60 MHz of MSS S-band spectrum rights, has certified Nordic Semiconductor’s low-power nRF9151 cellular IoT chipset for use ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/oq-technology-and-nordic-hook-up-for-d2d-satellite-connectivity-2025-12/">OQ Technology and Nordic hook up for D2D satellite connectivity</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [IEEE announces student challenge for semiconductor packaging](https://www.electronicsweekly.com/news/business/ieee-announces-student-challenge-for-semiconductor-packaging-2025-12/)
-**Published:** Tue, 23 Dec 2025 12:19:44 +0000
-
-<p>A competition launched by the IEEE offers six student teams the chance to attend next year&#8217;s Electronic Components and Technology Conference in Orlando, Florida. There are three challenges, each dealing ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/ieee-announces-student-challenge-for-semiconductor-packaging-2025-12/">IEEE announces student challenge for semiconductor packaging</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
