@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-29 17:33 UTC_
+_Last updated: 2025-12-29 18:44 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -903,6 +903,14 @@ _Last updated: 2025-12-29 17:33 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="733" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/1-microinverters-infineon.png?fit=1810%2C733" style="display: block; margin-bottom: 5px; clear: both;" width="1810" /><p>GaN's role in microinverters is growing, but will this material ultimately dislodge silicon in panel-level DC/AC conversion? </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/the-growing-role-of-gan-in-solar-microinverters/">The Growing Role of GaN in Solar Microinverters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Optimism Drives Canada’s Semiconductor Scaling Efforts](https://www.eetimes.com/optimism-drives-canadas-semiconductor-scaling-efforts/)
+**Published:** Mon, 29 Dec 2025 17:49:47 +0000
+
+<p>Recent investments in AI, quantum and defense and a commitment to cross-industry collaboration dominate national semiconductor symposium dialog</p>
+<p>The post <a href="https://www.eetimes.com/optimism-drives-canadas-semiconductor-scaling-efforts/">Optimism Drives Canada’s Semiconductor Scaling Efforts</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
