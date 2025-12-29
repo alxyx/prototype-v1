@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-29 13:51 UTC_
+_Last updated: 2025-12-29 14:36 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -23,6 +23,14 @@ _Last updated: 2025-12-29 13:51 UTC_
 
 <p>Certus Semiconductor is accelerating its IP development process by using Siemens' EDA tools.</p>
 <p>The post <a href="https://www.eetasia.com/siemens-ai-powered-solido-speeds-ip-development-process-for-certus-semiconductor/">Siemens AI-powered Solido Speeds IP Development Process for Certus Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Browser-Based Image Signal Processing (ISP) Demo](https://www.semiconductor-digest.com/browser-based-image-signal-processing-isp-demo/?utm_source=rss&utm_medium=rss&utm_campaign=browser-based-image-signal-processing-isp-demo)
+**Published:** Mon, 29 Dec 2025 14:11:08 +0000
+
+<p>10xEngineers launches an interactive web demo for Infinite-ISP, bringing hardware-grade image signal processing to the browser with zero setup required.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/browser-based-image-signal-processing-isp-demo/">Browser-Based Image Signal Processing (ISP) Demo</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -818,11 +826,11 @@ _Last updated: 2025-12-29 13:51 UTC_
 
 ---
 
-## [SEMI Europe Recognizes Owen Guy as the Academia Impact Award Recipient](https://www.semiconductor-digest.com/semi-europe-recognizes-owen-guy-as-the-academia-impact-award-recipient/?utm_source=rss&utm_medium=rss&utm_campaign=semi-europe-recognizes-owen-guy-as-the-academia-impact-award-recipient)
-**Published:** Fri, 21 Nov 2025 01:06:33 +0000
+## [A Spray-Cooling Approach for Data Centers](https://www.powerelectronicsnews.com/a-spray-cooling-approach-for-data-centers/)
+**Published:** Mon, 29 Dec 2025 14:00:00 +0000
 
-<p>SEMI Europe today announced that Dr. Owen J. Guy, Professor of Chemistry at the Centre for Integrative Semiconductor Materials (CISM), Swansea University, received the prestigious SEMI Academia Impact Award at SEMICON Europa 2025.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-europe-recognizes-owen-guy-as-the-academia-impact-award-recipient/">SEMI Europe Recognizes Owen Guy as the Academia Impact Award Recipient</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="504" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_26b1dd.png?fit=773%2C504" style="display: block; margin-bottom: 5px; clear: both;" width="773" /><p>Instead of immersion or direct-to-chip liquid cooling, Airsys LiquidRack tech sprays coolant onto the chip, offering an intermediate solution. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/a-spray-cooling-approach-for-data-centers/">A Spray-Cooling Approach for Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -898,35 +906,11 @@ _Last updated: 2025-12-29 13:51 UTC_
 
 ---
 
-## [onsemi and GlobalFoundries Partner to Advance GaN Technology](https://www.powerelectronicsnews.com/onsemi-and-globalfoundries-partner-to-advance-gan-technology/)
-**Published:** Tue, 23 Dec 2025 17:41:03 +0000
-
-<img alt="onsemi and GlobalFoundries Partner to Advance GaN Power Technology." class="webfeedsFeaturedVisual wp-post-image" height="316" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Generic_News_Images_3_2B_281_29.png?fit=600%2C316" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>The collaboration broadens onsemi’s power portfolio by adding high-performance 650V lateral GaN solutions for AI data centers and other critical markets.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/onsemi-and-globalfoundries-partner-to-advance-gan-technology/">onsemi and GlobalFoundries Partner to Advance GaN Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Niko-Sem Recognized for Technical Excellence, Wins “Best Power Semiconductor” at the EE Awards Asia](https://www.eetimes.com/niko-sem-recognized-for-technical-excellence-wins-best-power-semiconductor-at-the-ee-awards-asia/)
 **Published:** Wed, 24 Dec 2025 14:00:00 +0000
 
 <p>NIKO-SEM's SPR Pack SiC module earned the Best Power Semiconductor of the Year award at EE Awards Asia 2025. </p>
 <p>The post <a href="https://www.eetimes.com/niko-sem-recognized-for-technical-excellence-wins-best-power-semiconductor-at-the-ee-awards-asia/">Niko-Sem Recognized for Technical Excellence, Wins “Best Power Semiconductor” at the EE Awards Asia</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year](https://www.eetimes.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/)
-**Published:** Tue, 23 Dec 2025 14:00:00 +0000
-
-<p>Yong-Fen Hsieh's focus on precision, accuracy, efficiency, and effectiveness, is what drives MA-tek’s service excellence.</p>
-<p>The post <a href="https://www.eetimes.com/atomic-scale-insights-drive-semiconductor-innovation-ma-teks-y-f-hsieh-named-ee-awards-asia-executive-of-the-year/">Atomic-Scale Insights Drive Semiconductor Innovation: MA-tek’s Y.F. Hsieh Named EE Awards Asia Executive of the Year </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Why Nvidia’s AI Empire Faces a Reckoning in 2026](https://www.eetimes.com/why-nvidias-ai-empire-faces-a-reckoning-in-2026/)
-**Published:** Tue, 23 Dec 2025 08:00:00 +0000
-
-<p>Nvidia's AI reign faces a hard reset as GPUs hit physical and economic walls.</p>
-<p>The post <a href="https://www.eetimes.com/why-nvidias-ai-empire-faces-a-reckoning-in-2026/">Why Nvidia&#8217;s AI Empire Faces a Reckoning in 2026</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
