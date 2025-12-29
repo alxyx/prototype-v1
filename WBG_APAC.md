@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-29 10:38 UTC_
+_Last updated: 2025-12-29 11:34 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -938,17 +938,17 @@ _Last updated: 2025-12-29 10:38 UTC_
 
 ---
 
-## [These Female Founders Are Turning Farm Waste into High-Performance Batteries](https://www.electronicsforu.com/technology-trends/you-could-directly-replace-lithium-batteries-with-ours-without-changing-the-system-nishita-baliarsingh-nexus-power)
-**Published:** Fri, 26 Dec 2025 11:51:02 +0000
+## [How Electronics Shape Missiles And Battlefield Outcomes](https://www.electronicsforu.com/technology-trends/electronics-shape-missiles-battlefield-outcomes)
+**Published:** Mon, 29 Dec 2025 10:01:01 +0000
 
-<img alt="(left to right): Nishita Baliarsingh and Nikita Baliarsingh Founders, Nexus Power" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Founders-Nishita-Nikita-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Turning crop residue into power, a new battery is promising lithium-level performance, safer charging, lower costs, and full biodegradability! Can this innovation reshape clean energy? Speaking to Nishita Baliarsingh of Nexus Power, Nidhi Agarwal from EFY explores the possibility. Q. When did you start your startup? What inspired you? A. We officially began in August [&#8230;]
+<img alt="How Electronics Shape Missiles And Battlefield Outcomes" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/IAF-Air-Electronic-Warfare-Operator-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From stones to semiconductors, warfare has had a long journey. Missile guidance, hypersonic speeds, and fragile chip supply chains now define precision, power, and military strategy. But how? Looking back on the history of warfare only reveals how it has evolved with time. From the early use of stones as weapons to the development of [&#8230;]
 
 ---
 
-## [Physicists have found a new way to study the inner workings of Josephson junctions, without electronics](https://www.electronicsforu.com/news/when-atoms-mimic-electronic-junctions)
-**Published:** Fri, 26 Dec 2025 07:24:33 +0000
+## [Internet Of Things (IoT) – Internship At Kontact Services In Noida](https://www.electronicsforu.com/career/iot-internship-at-kontact-services-noida)
+**Published:** Mon, 29 Dec 2025 09:27:16 +0000
 
-<img alt="Physicists have found a new way to study the inner workings of Josephson junctions, without electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/abstract-quantum-electronic-effect-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Discover how quantum simulations let researchers observe Josephson dynamics and Shapiro steps using atomic systems instead of electronic devices. Quantum electronic components such as Josephson junctions underpin voltage standards and quantum computing, but the microscopic processes inside superconductors are difficult to observe directly. This limits experimental access to some of the fundamental quantum effects that [&#8230;]
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON INTERNSHALA Location: Noida Company: Kontact Services About the Internship Selected intern&#8217;s day-to-day responsibilities include: Skill(s) required Who Can Apply Only those candidates can apply who: Other Requirements Perks Number of openings: 4
 
 ---
 
