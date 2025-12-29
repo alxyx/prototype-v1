@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-29 11:34 UTC_
+_Last updated: 2025-12-29 13:01 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -826,6 +826,14 @@ _Last updated: 2025-12-29 11:34 UTC_
 
 ---
 
+## [Switching Bus Converter Boosts High-Power Data Centers](https://www.powerelectronicsnews.com/switching-bus-converter-boosts-high-power-data-centers/)
+**Published:** Mon, 29 Dec 2025 13:00:00 +0000
+
+<p>Data centers demand high power densities, requiring innovations in converter and bus architectures, packaging, and semiconductor devices.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/switching-bus-converter-boosts-high-power-data-centers/">Switching Bus Converter Boosts High-Power Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Wide Bandgap Monthly Insights – December 2025](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-december-2025/)
 **Published:** Sat, 27 Dec 2025 22:07:56 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2025-12-29 11:34 UTC_
 
 <img alt="onsemi and GlobalFoundries Partner to Advance GaN Power Technology." class="webfeedsFeaturedVisual wp-post-image" height="316" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Generic_News_Images_3_2B_281_29.png?fit=600%2C316" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>The collaboration broadens onsemi’s power portfolio by adding high-performance 650V lateral GaN solutions for AI data centers and other critical markets.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/onsemi-and-globalfoundries-partner-to-advance-gan-technology/">onsemi and GlobalFoundries Partner to Advance GaN Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [SiC Power Modules Upgrade Photovoltaic Utility-Scale Inverters](https://www.powerelectronicsnews.com/sic-power-modules-upgrade-photovoltaic-utility-scale-inverters/)
-**Published:** Tue, 23 Dec 2025 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="642" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/PV-featured-image.png?fit=1144%2C642" style="display: block; margin-bottom: 5px; clear: both;" width="1144" /><p>1,500-V utility solar string inverters are being widely adopted due to their high cost and efficiency benefits compared with the older, 1,000-V systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/sic-power-modules-upgrade-photovoltaic-utility-scale-inverters/">SiC Power Modules Upgrade Photovoltaic Utility-Scale Inverters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
