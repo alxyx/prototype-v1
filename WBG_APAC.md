@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-29 18:44 UTC_
+_Last updated: 2025-12-29 19:31 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -837,7 +837,7 @@ _Last updated: 2025-12-29 18:44 UTC_
 ## [Switching Bus Converter Boosts High-Power Data Centers](https://www.powerelectronicsnews.com/switching-bus-converter-boosts-high-power-data-centers/)
 **Published:** Mon, 29 Dec 2025 13:00:00 +0000
 
-<p>Data centers demand high power densities, requiring innovations in converter and bus architectures, packaging, and semiconductor devices.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3072" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Datacenter.jpeg?fit=5376%2C3072" style="display: block; margin-bottom: 5px; clear: both;" width="5376" /><p>Data centers demand high power densities, requiring innovations in converter and bus architectures, packaging, and semiconductor devices.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/switching-bus-converter-boosts-high-power-data-centers/">Switching Bus Converter Boosts High-Power Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
