@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-30 06:48 UTC_
+_Last updated: 2025-12-30 07:37 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -906,11 +906,11 @@ _Last updated: 2025-12-30 06:48 UTC_
 
 ---
 
-## [OQ Technology and Nordic hook up for D2D satellite connectivity](https://www.electronicsweekly.com/news/business/oq-technology-and-nordic-hook-up-for-d2d-satellite-connectivity-2025-12/)
-**Published:** Wed, 24 Dec 2025 06:28:41 +0000
+## [ChipX plans Malaysian fab](https://www.electronicsweekly.com/news/business/chipx-plans-malaysian-fab-2025-12/)
+**Published:** Tue, 30 Dec 2025 06:16:28 +0000
 
-<p>&#160; OQ Technology, the IoT and direct-to-device (D2D) satellite connectivity provider with 60 MHz of MSS S-band spectrum rights, has certified Nordic Semiconductor’s low-power nRF9151 cellular IoT chipset for use ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/oq-technology-and-nordic-hook-up-for-d2d-satellite-connectivity-2025-12/">OQ Technology and Nordic hook up for D2D satellite connectivity</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>ChipX Global, a compound semiconductor startup founded in 2023 and headquartered in in Dublin, is said to be going to build an 8” fab in Malaysia. Founded by Chinmoy Baruah ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/chipx-plans-malaysian-fab-2025-12/">ChipX plans Malaysian fab</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
