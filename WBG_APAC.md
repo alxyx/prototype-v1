@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-30 11:33 UTC_
+_Last updated: 2025-12-30 13:05 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -810,6 +810,22 @@ _Last updated: 2025-12-30 11:33 UTC_
 
 ---
 
+## [Integrating AI Into Modern Power Electronics](https://www.powerelectronicsnews.com/integrating-ai-into-modern-power-electronics/)
+**Published:** Tue, 30 Dec 2025 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="498" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AI-based-PE-Featured-image.png?fit=946%2C498" style="display: block; margin-bottom: 5px; clear: both;" width="946" /><p>AI-supported PE is fundamental to achieving precise control of electrical power in a cleaner, smaller, faster, and more dependable way.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/integrating-ai-into-modern-power-electronics/">Integrating AI Into Modern Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Designing for High-Voltage Isolation in Medical Devices, Part 1](https://www.powerelectronicsnews.com/designing-for-high-voltage-isolation-in-medical-devices-part-1/)
+**Published:** Tue, 30 Dec 2025 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4480" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_1500850888.jpeg?fit=6720%2C4480" style="display: block; margin-bottom: 5px; clear: both;" width="6720" /><p>A two-part series on HV isolation design for medical devices with design approaches that consider OVC, CTI, pollution degree, and more. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/designing-for-high-voltage-isolation-in-medical-devices-part-1/">Designing for High-Voltage Isolation in Medical Devices, Part 1</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [A Spray-Cooling Approach for Data Centers](https://www.powerelectronicsnews.com/a-spray-cooling-approach-for-data-centers/)
 **Published:** Mon, 29 Dec 2025 14:00:00 +0000
 
@@ -874,22 +890,6 @@ _Last updated: 2025-12-30 11:33 UTC_
 
 ---
 
-## [Vishay Launches S2F and S3F Thin Film Chip Fuse Series](https://www.powerelectronicsnews.com/vishay-launches-s2f-and-s3f-thin-film-chip-fuse-series/)
-**Published:** Wed, 24 Dec 2025 13:00:00 +0000
-
-<img alt="Vishay Launches S2F and S3F Thin Film Chip Fuse Series." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/54976276196_b36af21fee_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The S2F and S3F thin film chip fuses deliver UL 248-14–compliant protection from 0.315 A to 7 A with low resistance.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vishay-launches-s2f-and-s3f-thin-film-chip-fuse-series/">Vishay Launches S2F and S3F Thin Film Chip Fuse Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [The Growing Role of GaN in Solar Microinverters](https://www.powerelectronicsnews.com/the-growing-role-of-gan-in-solar-microinverters/)
-**Published:** Wed, 24 Dec 2025 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="733" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/1-microinverters-infineon.png?fit=1810%2C733" style="display: block; margin-bottom: 5px; clear: both;" width="1810" /><p>GaN's role in microinverters is growing, but will this material ultimately dislodge silicon in panel-level DC/AC conversion? </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-growing-role-of-gan-in-solar-microinverters/">The Growing Role of GaN in Solar Microinverters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Optimism Drives Canada’s Semiconductor Scaling Efforts](https://www.eetimes.com/optimism-drives-canadas-semiconductor-scaling-efforts/)
 **Published:** Mon, 29 Dec 2025 17:49:47 +0000
 
@@ -914,17 +914,31 @@ _Last updated: 2025-12-30 11:33 UTC_
 
 ---
 
-## [How Electronics Shape Missiles And Battlefield Outcomes](https://www.electronicsforu.com/technology-trends/electronics-shape-missiles-battlefield-outcomes)
-**Published:** Mon, 29 Dec 2025 10:01:01 +0000
+## [Compressed Germanium For High-Mobility Devices](https://www.electronicsforu.com/news/compressed-germanium-for-high-mobility-devices)
+**Published:** Tue, 30 Dec 2025 11:45:28 +0000
 
-<img alt="How Electronics Shape Missiles And Battlefield Outcomes" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/IAF-Air-Electronic-Warfare-Operator-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From stones to semiconductors, warfare has had a long journey. Missile guidance, hypersonic speeds, and fragile chip supply chains now define precision, power, and military strategy. But how? Looking back on the history of warfare only reveals how it has evolved with time. From the early use of stones as weapons to the development of [&#8230;]
+<img alt="Compressed Germanium For High-Mobility Devices" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/holes-in-cs-gos-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers show that nanometre-thin germanium on silicon enables high charge mobility, supporting energy-efficient operation of classical and quantum semiconductor devices on standard fabrication platforms. As electronic devices shrink and power demands grow, traditional silicon semiconductors are reaching physical limits due to higher energy dissipation. Researchers are exploring materials that combine high electrical performance with compatibility [&#8230;]
 
 ---
 
-## [Internet Of Things (IoT) – Internship At Kontact Services In Noida](https://www.electronicsforu.com/career/iot-internship-at-kontact-services-noida)
-**Published:** Mon, 29 Dec 2025 09:27:16 +0000
+## [Embedded Systems – Internship At GenElek Technologies Private Limited In Delhi, Gurgaon, Noida And Ghaziabad](https://www.electronicsforu.com/career/embedded-systems-internship-genelek-technologies-private-limited)
+**Published:** Tue, 30 Dec 2025 10:38:43 +0000
 
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON INTERNSHALA Location: Noida Company: Kontact Services About the Internship Selected intern&#8217;s day-to-day responsibilities include: Skill(s) required Who Can Apply Only those candidates can apply who: Other Requirements Perks Number of openings: 4
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON INTERNSHALA Locations: Delhi, Gurgaon, Noida And Ghaziabad Company: GenElek Technologies Private Limited Selected intern&#8217;s day-to-day responsibilities include: Skill(s) Required Who Can Apply Only those candidates can apply who: Number of opening: 1
+
+---
+
+## [JOB: Staff Engineer-ELV At Micron Technology In Gujarat](https://www.electronicsforu.com/career/staff-engineer-elv-micron-technology-gujarat)
+**Published:** Tue, 30 Dec 2025 10:17:40 +0000
+
+<img alt="JOB: Staff Engineer-ELV At Micron Technology In Gujarat" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/04/micron-tech-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Gujarat Company: Micron Technology The Lead Engineer- ELV will be responsible for reviewing &#38; validating engineering design packages, drawings, and documentation for instrumentation and communication systems and extra low voltage systems for cleanroom/Semiconductor facility. The role requires strong expertise in review of design standards, industrial automation systems, field instrumentation selection, communication infrastructure, and multidisciplinary coordination with Engineering, Procurement, Construction, and Commissioning teams. Key Responsibilities  Key Technical Skills [&#8230;]
+
+---
+
+## [JOB: Associate Electronics Design And Analysis Engineer At Boeing In Bengaluru](https://www.electronicsforu.com/career/associate-electronics-design-analysis-engineer-boeing-bengaluru)
+**Published:** Tue, 30 Dec 2025 09:31:59 +0000
+
+<img alt="JOB: Associate Electronics Design And Analysis Engineer At Boeing In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2023/04/boeing-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Boeing The Boeing Company is seeking an Associate Electronics Design and Analysis Engineer. Boeing India Engineering oversees the design, development, manufacture, integration and testing of LRU designs for various Avionics systems. Primary Responsibilities Basic Qualifications (Required Skills and Experience) A bachelor’s degree in engineering or higher is required. Preferred Qualifications (Desired [&#8230;]
 
 ---
 
