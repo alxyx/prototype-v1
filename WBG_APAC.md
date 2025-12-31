@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-31 07:38 UTC_
+_Last updated: 2025-12-31 08:44 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -895,14 +895,6 @@ _Last updated: 2025-12-31 07:38 UTC_
 
 <p>Recent investments in AI, quantum and defense and a commitment to cross-industry collaboration dominate national semiconductor symposium dialog</p>
 <p>The post <a href="https://www.eetimes.com/optimism-drives-canadas-semiconductor-scaling-efforts/">Optimism Drives Canada’s Semiconductor Scaling Efforts</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Niko-Sem Recognized for Technical Excellence, Wins “Best Power Semiconductor” at the EE Awards Asia](https://www.eetimes.com/niko-sem-recognized-for-technical-excellence-wins-best-power-semiconductor-at-the-ee-awards-asia/)
-**Published:** Wed, 24 Dec 2025 14:00:00 +0000
-
-<p>NIKO-SEM's SPR Pack SiC module earned the Best Power Semiconductor of the Year award at EE Awards Asia 2025. </p>
-<p>The post <a href="https://www.eetimes.com/niko-sem-recognized-for-technical-excellence-wins-best-power-semiconductor-at-the-ee-awards-asia/">Niko-Sem Recognized for Technical Excellence, Wins “Best Power Semiconductor” at the EE Awards Asia</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
