@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-31 10:35 UTC_
+_Last updated: 2025-12-31 11:33 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -906,31 +906,38 @@ _Last updated: 2025-12-31 10:35 UTC_
 
 ---
 
+## [JOB: Project Engineer At Rockwell Automation In Pune](https://www.electronicsforu.com/career/project-engineer-rockwell-automation-pune)
+**Published:** Wed, 31 Dec 2025 10:26:27 +0000
+
+<img alt="JOB: Project Engineer At Rockwell Automation In Pune" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/11/rockwell-automation-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Rockwell Automation Job Summary Your Responsibilities The Essentials &#8211; You Will Have The Preferred &#8211; You Might Also Have High level of expertise in Industry Knowledge, Application Knowledge, Training Skills, and basic understanding of Project Management, Lean Six Sigma Skill, EHS (Environment, Health &#38; Safety). High level of expertise in [&#8230;]
+
+---
+
+## [JOB: Power Electronics Design Engineer At Planys Technologies In Chennai](https://www.electronicsforu.com/career/power-electronics-design-engineer-planys-technologies-chennai)
+**Published:** Wed, 31 Dec 2025 10:00:48 +0000
+
+<img alt="JOB: Power Electronics Design Engineer At Planys Technologies In Chennai" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/08/planys-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Chennai Company: Planys Technologies Roles &#38; Responsibilities Qualification &#38; Experience
+
+---
+
+## [Channel Last Approach for 3D Electronics](https://www.electronicsforu.com/news/channel-last-approach-for-3d-electronics)
+**Published:** Wed, 31 Dec 2025 07:16:55 +0000
+
+<img alt="Channel Last Approach for 3D Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Fabrication-flow-of-stacked-gate-all-around-Si-nanosheet-metal-oxide-semiconductor-field-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Read on to know the strategy that can protect sensitive oxide-semiconductors, achieve high on-state current and low subthreshold swing in scalable 3D transistor architectures. As transistor miniaturization approaches physical limits, 3D stacking of back-end-of-line (BEOL) compatible transistors promises enhanced performance for low-power electronics. Advanced architectures, such as gate-all-around nanosheets, typically rely on a channel-first process, [&#8230;]
+
+---
+
+## [UV C Pulses From Source To Sensor](https://www.electronicsforu.com/news/uv-c-pulses-from-source-to-sensor)
+**Published:** Wed, 31 Dec 2025 06:22:04 +0000
+
+<img alt="UV C Pulses From Source To Sensor" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/REAS_Nottingham_Source_Sensor_for_Fs_UV_C_Pulses_WEB-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Learn how researchers demonstrate a single platform that generates and detects femtosecond UV C laser pulses using nonlinear optics and two dimensional semiconductor photodetectors. Ultraviolet C light is widely used in disinfection, high contrast imaging and the study of ultrafast molecular dynamics due to its strong interaction with organic materials. Despite this potential, wider use [&#8230;]
+
+---
+
 ## [Compressed Germanium For High-Mobility Devices](https://www.electronicsforu.com/news/compressed-germanium-for-high-mobility-devices)
 **Published:** Tue, 30 Dec 2025 11:45:28 +0000
 
 <img alt="Compressed Germanium For High-Mobility Devices" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/holes-in-cs-gos-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers show that nanometre-thin germanium on silicon enables high charge mobility, supporting energy-efficient operation of classical and quantum semiconductor devices on standard fabrication platforms. As electronic devices shrink and power demands grow, traditional silicon semiconductors are reaching physical limits due to higher energy dissipation. Researchers are exploring materials that combine high electrical performance with compatibility [&#8230;]
-
----
-
-## [Embedded Systems – Internship At GenElek Technologies Private Limited In Delhi, Gurgaon, Noida And Ghaziabad](https://www.electronicsforu.com/career/embedded-systems-internship-genelek-technologies-private-limited)
-**Published:** Tue, 30 Dec 2025 10:38:43 +0000
-
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON INTERNSHALA Locations: Delhi, Gurgaon, Noida And Ghaziabad Company: GenElek Technologies Private Limited Selected intern&#8217;s day-to-day responsibilities include: Skill(s) Required Who Can Apply Only those candidates can apply who: Number of opening: 1
-
----
-
-## [JOB: Staff Engineer-ELV At Micron Technology In Gujarat](https://www.electronicsforu.com/career/staff-engineer-elv-micron-technology-gujarat)
-**Published:** Tue, 30 Dec 2025 10:17:40 +0000
-
-<img alt="JOB: Staff Engineer-ELV At Micron Technology In Gujarat" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/04/micron-tech-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Gujarat Company: Micron Technology The Lead Engineer- ELV will be responsible for reviewing &#38; validating engineering design packages, drawings, and documentation for instrumentation and communication systems and extra low voltage systems for cleanroom/Semiconductor facility. The role requires strong expertise in review of design standards, industrial automation systems, field instrumentation selection, communication infrastructure, and multidisciplinary coordination with Engineering, Procurement, Construction, and Commissioning teams. Key Responsibilities  Key Technical Skills [&#8230;]
-
----
-
-## [JOB: Associate Electronics Design And Analysis Engineer At Boeing In Bengaluru](https://www.electronicsforu.com/career/associate-electronics-design-analysis-engineer-boeing-bengaluru)
-**Published:** Tue, 30 Dec 2025 09:31:59 +0000
-
-<img alt="JOB: Associate Electronics Design And Analysis Engineer At Boeing In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2023/04/boeing-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Boeing The Boeing Company is seeking an Associate Electronics Design and Analysis Engineer. Boeing India Engineering oversees the design, development, manufacture, integration and testing of LRU designs for various Avionics systems. Primary Responsibilities Basic Qualifications (Required Skills and Experience) A bachelor’s degree in engineering or higher is required. Preferred Qualifications (Desired [&#8230;]
 
 ---
 
