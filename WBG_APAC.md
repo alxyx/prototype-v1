@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2025-12-31 12:57 UTC_
+_Last updated: 2025-12-31 13:47 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -810,6 +810,22 @@ _Last updated: 2025-12-31 12:57 UTC_
 
 ---
 
+## [Designing for High-Voltage Isolation in Medical Devices, Part 2](https://www.powerelectronicsnews.com/designing-for-high-voltage-isolation-in-medical-devices-part-2/)
+**Published:** Wed, 31 Dec 2025 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="741" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_2bf811.png?fit=905%2C741" style="display: block; margin-bottom: 5px; clear: both;" width="905" /><p>A two-part series on HV isolation design for medical devices with design approaches that consider OVC, CTI, pollution degree, and more. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/designing-for-high-voltage-isolation-in-medical-devices-part-2/">Designing for High-Voltage Isolation in Medical Devices, Part 2</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [X-FAB Grows GaN-on-Si Foundry Services With D-mode Technology](https://www.powerelectronicsnews.com/x-fab-grows-gan-on-si-foundry-services-with-d-mode-technology/)
+**Published:** Wed, 31 Dec 2025 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3078" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/GaN_1.jpg?fit=2785%2C3078" style="display: block; margin-bottom: 5px; clear: both;" width="2785" /><p>X-FAB launched GaN-on-Si foundry capabilities for depletion-mode (d-mode) devices utilizing its XG035 process, solidifying its position as a dedicated foundry for both GaN and SiC applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/x-fab-grows-gan-on-si-foundry-services-with-d-mode-technology/">X-FAB Grows GaN-on-Si Foundry Services With D-mode Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Integrating AI Into Modern Power Electronics](https://www.powerelectronicsnews.com/integrating-ai-into-modern-power-electronics/)
 **Published:** Tue, 30 Dec 2025 13:00:00 +0000
 
@@ -874,22 +890,6 @@ _Last updated: 2025-12-31 12:57 UTC_
 
 ---
 
-## [Quantifying Effects of EV Charging On Household Power Systems](https://www.powerelectronicsnews.com/quantifying-effects-of-ev-charging-on-household-power-systems/)
-**Published:** Thu, 25 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="724" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_1d8324.png?fit=1425%2C724" style="display: block; margin-bottom: 5px; clear: both;" width="1425" /><p>How EV charging fundamentally impacts household power distribution with unbalanced load distribution, phase imbalance, and THD. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/quantifying-effects-of-ev-charging-on-household-power-systems/">Quantifying Effects of EV Charging On Household Power Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TI Brings New 300mm Wafer Fab Online in Sherman](https://www.powerelectronicsnews.com/ti-brings-new-300mm-wafer-fab-online-in-sherman/)
-**Published:** Thu, 25 Dec 2025 13:00:00 +0000
-
-<img alt="Texas Instruments Brings New 300mm Wafer Fab Online in Sherman." class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/sherman-texas-opening.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The semiconductor wafer fab is expected to manufacture tens of millions of electronic components each day.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/ti-brings-new-300mm-wafer-fab-online-in-sherman/">TI Brings New 300mm Wafer Fab Online in Sherman</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Optimism Drives Canada’s Semiconductor Scaling Efforts](https://www.eetimes.com/optimism-drives-canadas-semiconductor-scaling-efforts/)
 **Published:** Mon, 29 Dec 2025 17:49:47 +0000
 
@@ -931,13 +931,6 @@ _Last updated: 2025-12-31 12:57 UTC_
 **Published:** Wed, 31 Dec 2025 06:22:04 +0000
 
 <img alt="UV C Pulses From Source To Sensor" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/REAS_Nottingham_Source_Sensor_for_Fs_UV_C_Pulses_WEB-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Learn how researchers demonstrate a single platform that generates and detects femtosecond UV C laser pulses using nonlinear optics and two dimensional semiconductor photodetectors. Ultraviolet C light is widely used in disinfection, high contrast imaging and the study of ultrafast molecular dynamics due to its strong interaction with organic materials. Despite this potential, wider use [&#8230;]
-
----
-
-## [Compressed Germanium For High-Mobility Devices](https://www.electronicsforu.com/news/compressed-germanium-for-high-mobility-devices)
-**Published:** Tue, 30 Dec 2025 11:45:28 +0000
-
-<img alt="Compressed Germanium For High-Mobility Devices" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/holes-in-cs-gos-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers show that nanometre-thin germanium on silicon enables high charge mobility, supporting energy-efficient operation of classical and quantum semiconductor devices on standard fabrication platforms. As electronic devices shrink and power demands grow, traditional silicon semiconductors are reaching physical limits due to higher energy dissipation. Researchers are exploring materials that combine high electrical performance with compatibility [&#8230;]
 
 ---
 
