@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-01 12:57 UTC_
+_Last updated: 2026-01-01 13:48 UTC_
 
 ## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
 **Published:** Wed, 24 Dec 2025 23:59:04 +0000
@@ -810,6 +810,22 @@ _Last updated: 2026-01-01 12:57 UTC_
 
 ---
 
+## [IMEC Achieves Record High Voltage GaN Results](https://www.powerelectronicsnews.com/imec-achieves-record-high-voltage-gan-results/)
+**Published:** Thu, 01 Jan 2026 13:00:00 +0000
+
+<img alt="IMEC Achieves Record High Voltage GaN Results." class="webfeedsFeaturedVisual wp-post-image" height="1196" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Figure_202_20-_20300mm_20GaN_20mask_20set.png?fit=943%2C1196" style="display: block; margin-bottom: 5px; clear: both;" width="943" /><p>Shin-Etsu Chemical’s 300mm QST substrate allows thick-film GaN epitaxial growth on 300mm wafers for high-voltage applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/imec-achieves-record-high-voltage-gan-results/">IMEC Achieves Record High Voltage GaN Results</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Grid Instability: The Energy Transition’s Primary Challenge](https://www.powerelectronicsnews.com/grid-instability-the-energy-transitions-primary-challenge/)
+**Published:** Thu, 01 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3584" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_1555138202.jpeg?fit=5376%2C3584" style="display: block; margin-bottom: 5px; clear: both;" width="5376" /><p>As renewable-backed grids grow, Conrad Energy suggests that grid stability must be prioritized over innovations in power generation.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/grid-instability-the-energy-transitions-primary-challenge/">Grid Instability: The Energy Transition&#8217;s Primary Challenge</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Designing for High-Voltage Isolation in Medical Devices, Part 2](https://www.powerelectronicsnews.com/designing-for-high-voltage-isolation-in-medical-devices-part-2/)
 **Published:** Wed, 31 Dec 2025 13:00:00 +0000
 
@@ -871,22 +887,6 @@ _Last updated: 2026-01-01 12:57 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/EV-battery-featured.png?fit=928%2C685" style="display: block; margin-bottom: 5px; clear: both;" width="928" /><p>For engineers working in power electronics, understanding the nuances of material choices in EVs allows for better component choices.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/the-heart-of-an-ev-battery-is-a-perfectly-cut-piece-of-plastic/">The Heart of an EV Battery Is a Perfectly Cut Piece of Plastic</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ROHM Introduces High-Efficiency Brushed DC Motor Driver ICs](https://www.powerelectronicsnews.com/rohm-introduces-high-efficiency-brushed-dc-motor-driver-ics/)
-**Published:** Fri, 26 Dec 2025 13:00:00 +0000
-
-<img alt="ROHM Introduces New High-Efficiency Brushed DC Motor Driver ICs." class="webfeedsFeaturedVisual wp-post-image" height="387" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/104587-rohm.png?fit=578%2C387" style="display: block; margin-bottom: 5px; clear: both;" width="578" /><p>Two new motor driver ICs feature ultra-low standby current, suited for both consumer white goods and industrial DC brush motor applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/rohm-introduces-high-efficiency-brushed-dc-motor-driver-ics/">ROHM Introduces High-Efficiency Brushed DC Motor Driver ICs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [GaN in Solar Microinverters, EV Charging, Navitas’ TAP Architecture: Power Electronics Week Insights](https://www.powerelectronicsnews.com/gan-in-solar-microinverters-ev-charging-navitas-tap-architecture-power-electronics-week-insights/)
-**Published:** Fri, 26 Dec 2025 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on GaN in Solar Microinverters, EV Charging, and Navitas’ TAP Architecture!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/gan-in-solar-microinverters-ev-charging-navitas-tap-architecture-power-electronics-week-insights/">GaN in Solar Microinverters, EV Charging, Navitas’ TAP Architecture: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
