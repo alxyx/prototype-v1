@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-02 06:48 UTC_
+_Last updated: 2026-01-02 07:38 UTC_
 
 ## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
 **Published:** Fri, 02 Jan 2026 03:17:03 +0000
@@ -898,11 +898,11 @@ _Last updated: 2026-01-02 06:48 UTC_
 
 ---
 
-## [ChipX plans Malaysian fab](https://www.electronicsweekly.com/news/business/chipx-plans-malaysian-fab-2025-12/)
-**Published:** Tue, 30 Dec 2025 06:16:28 +0000
+## [Toray develops energy-saving bioreactor technology](https://www.electronicsweekly.com/news/business/immobilised-microorganism-bio-reactor-technology-reduces-energy-used-by-chemical-conversion-processes-by-80-90-2026-01/)
+**Published:** Fri, 02 Jan 2026 06:12:15 +0000
 
-<p>ChipX Global, a compound semiconductor startup founded in 2023 and headquartered in in Dublin, is said to be going to build an 8” fab in Malaysia. Founded by Chinmoy Baruah ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/chipx-plans-malaysian-fab-2025-12/">ChipX plans Malaysian fab</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Toray Industries has developed an immobilised-microorganism bioreactor technology which consumes 80% to 90% less energy than conventional chemical conversion processes. This technology immobilises specific microorganisms on wood-based carriers and packs ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/immobilised-microorganism-bio-reactor-technology-reduces-energy-used-by-chemical-conversion-processes-by-80-90-2026-01/">Toray develops energy-saving bioreactor technology</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
