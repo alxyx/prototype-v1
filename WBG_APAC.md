@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-02 17:32 UTC_
+_Last updated: 2026-01-02 18:44 UTC_
 
 ## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
 **Published:** Fri, 02 Jan 2026 03:17:03 +0000
@@ -887,6 +887,14 @@ _Last updated: 2026-01-02 17:32 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3072" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Datacenter.jpeg?fit=5376%2C3072" style="display: block; margin-bottom: 5px; clear: both;" width="5376" /><p>Data centers demand high power densities, requiring innovations in converter and bus architectures, packaging, and semiconductor devices.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/switching-bus-converter-boosts-high-power-data-centers/">Switching Bus Converter Boosts High-Power Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Cyient Semiconductors to acquire Kinetic Technologies for $93 million](https://www.eetimes.com/cyient-semiconductors-to-acquire-kinetic-technologies-for-93-million/)
+**Published:** Fri, 02 Jan 2026 18:00:00 +0000
+
+<p>CEO Suman Narayan talks to EE Times about Cyient’s broader strategy including partnerships with MIPS and Navitas, plus its Mohali fab contract.</p>
+<p>The post <a href="https://www.eetimes.com/cyient-semiconductors-to-acquire-kinetic-technologies-for-93-million/">Cyient Semiconductors to acquire Kinetic Technologies for $93 million</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
