@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-02 16:40 UTC_
+_Last updated: 2026-01-02 17:32 UTC_
 
 ## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
 **Published:** Fri, 02 Jan 2026 03:17:03 +0000
@@ -895,6 +895,14 @@ _Last updated: 2026-01-02 16:40 UTC_
 
 <p>Recent investments in AI, quantum and defense and a commitment to cross-industry collaboration dominate national semiconductor symposium dialog</p>
 <p>The post <a href="https://www.eetimes.com/optimism-drives-canadas-semiconductor-scaling-efforts/">Optimism Drives Canada’s Semiconductor Scaling Efforts</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [1,200W from 900cm3 ac-dc power supply](https://www.electronicsweekly.com/news/products/power-supplies/1200w-from-900cm3-ac-dc-power-supply-2026-01/)
+**Published:** Fri, 02 Jan 2026 16:50:45 +0000
+
+<p>Finnish company Enedo Power has turned to GaN transistors to put a 1,200W ac-dc power supply into a 41 x 107 x 206mm (900cm3) volume. Called HDP1200, they run from ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/1200w-from-900cm3-ac-dc-power-supply-2026-01/">1,200W from 900cm3 ac-dc power supply</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
