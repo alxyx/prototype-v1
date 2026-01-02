@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-02 21:29 UTC_
+_Last updated: 2026-01-02 22:34 UTC_
 
 ## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
 **Published:** Fri, 02 Jan 2026 03:17:03 +0000
@@ -895,14 +895,6 @@ _Last updated: 2026-01-02 21:29 UTC_
 
 <p>CEO Suman Narayan talks to EE Times about Cyient’s broader strategy including partnerships with MIPS and Navitas, plus its Mohali fab contract.</p>
 <p>The post <a href="https://www.eetimes.com/cyient-semiconductors-to-acquire-kinetic-technologies-for-93-million/">Cyient Semiconductors to acquire Kinetic Technologies for $93 million</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Optimism Drives Canada’s Semiconductor Scaling Efforts](https://www.eetimes.com/optimism-drives-canadas-semiconductor-scaling-efforts/)
-**Published:** Mon, 29 Dec 2025 17:49:47 +0000
-
-<p>Recent investments in AI, quantum and defense and a commitment to cross-industry collaboration dominate national semiconductor symposium dialog</p>
-<p>The post <a href="https://www.eetimes.com/optimism-drives-canadas-semiconductor-scaling-efforts/">Optimism Drives Canada’s Semiconductor Scaling Efforts</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
