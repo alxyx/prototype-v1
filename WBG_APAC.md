@@ -1,12 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-02 02:00 UTC_
+_Last updated: 2026-01-02 03:54 UTC_
 
-## [Semiconductor Reality Amid AI’s Booming Demand](https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/)
-**Published:** Wed, 24 Dec 2025 23:59:04 +0000
+## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
+**Published:** Fri, 02 Jan 2026 03:17:03 +0000
 
-<p>AI growth drives chip demand, but memory shortages and supply chain woes threaten progress.</p>
-<p>The post <a href="https://www.eetasia.com/semiconductor-reality-amid-ais-booming-demand/">Semiconductor Reality Amid AI&#8217;s Booming Demand</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The WBG market is projected to grow from $1.8 billion in 2024 to $4.66 billion by the end of 2032, according to Verified Market Research.</p>
+<p>The post <a href="https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/">WBG Semiconductor Market to Generate $4.66B Revenue by 2032</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
