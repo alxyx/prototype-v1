@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-02 12:56 UTC_
+_Last updated: 2026-01-02 13:47 UTC_
 
 ## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
 **Published:** Fri, 02 Jan 2026 03:17:03 +0000
@@ -810,6 +810,22 @@ _Last updated: 2026-01-02 12:56 UTC_
 
 ---
 
+## [Murata Announces Mass Production of 1.25kV C0G MLCC](https://www.powerelectronicsnews.com/murata-announces-mass-production-of-1-25kv-c0g-mlcc/)
+**Published:** Fri, 02 Jan 2026 13:00:00 +0000
+
+<img alt="Murata Announces Mass Production of 1.25kV C0G MLCC." class="webfeedsFeaturedVisual wp-post-image" height="478" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Murata_PR.png?fit=659%2C478" style="display: block; margin-bottom: 5px; clear: both;" width="659" /><p>The 15nF/1.25kV C0G MLCC is well-suited for EV onboard chargers and power supplies in consumer applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/murata-announces-mass-production-of-1-25kv-c0g-mlcc/">Murata Announces Mass Production of 1.25kV C0G MLCC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Single-Event Effect Characterization of EPC Space’s 100-V GaN](https://www.powerelectronicsnews.com/single-event-effect-characterization-of-epc-spaces-100-v-gan/)
+**Published:** Fri, 02 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1632" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_1277183729.jpeg?fit=2912%2C1632" style="display: block; margin-bottom: 5px; clear: both;" width="2912" /><p>A report on the EPC Space's SEE characterization of radiation-hardened 100-V GaN-on-Si transistors at multiple heavy-ion incidence angles. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/single-event-effect-characterization-of-epc-spaces-100-v-gan/">Single-Event Effect Characterization of EPC Space&#8217;s 100-V GaN</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [IMEC Achieves Record High Voltage GaN Results](https://www.powerelectronicsnews.com/imec-achieves-record-high-voltage-gan-results/)
 **Published:** Thu, 01 Jan 2026 13:00:00 +0000
 
@@ -874,22 +890,6 @@ _Last updated: 2026-01-02 12:56 UTC_
 
 ---
 
-## [Wide Bandgap Monthly Insights – December 2025](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-december-2025/)
-**Published:** Sat, 27 Dec 2025 22:07:56 +0000
-
-<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-december-2025/">Wide Bandgap Monthly Insights &#8211; December 2025</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [The Heart of an EV Battery Is a Perfectly Cut Piece of Plastic](https://www.powerelectronicsnews.com/the-heart-of-an-ev-battery-is-a-perfectly-cut-piece-of-plastic/)
-**Published:** Fri, 26 Dec 2025 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/EV-battery-featured.png?fit=928%2C685" style="display: block; margin-bottom: 5px; clear: both;" width="928" /><p>For engineers working in power electronics, understanding the nuances of material choices in EVs allows for better component choices.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-heart-of-an-ev-battery-is-a-perfectly-cut-piece-of-plastic/">The Heart of an EV Battery Is a Perfectly Cut Piece of Plastic</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Optimism Drives Canada’s Semiconductor Scaling Efforts](https://www.eetimes.com/optimism-drives-canadas-semiconductor-scaling-efforts/)
 **Published:** Mon, 29 Dec 2025 17:49:47 +0000
 
@@ -906,31 +906,24 @@ _Last updated: 2026-01-02 12:56 UTC_
 
 ---
 
-## [JOB: Project Engineer At Rockwell Automation In Pune](https://www.electronicsforu.com/career/project-engineer-rockwell-automation-pune)
-**Published:** Wed, 31 Dec 2025 10:26:27 +0000
+## [Legged Robots Step Out Of The Lab](https://www.electronicsforu.com/news/legged-robots-step-out-of-the-lab)
+**Published:** Fri, 02 Jan 2026 12:30:21 +0000
 
-<img alt="JOB: Project Engineer At Rockwell Automation In Pune" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/11/rockwell-automation-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Rockwell Automation Job Summary Your Responsibilities The Essentials &#8211; You Will Have The Preferred &#8211; You Might Also Have High level of expertise in Industry Knowledge, Application Knowledge, Training Skills, and basic understanding of Project Management, Lean Six Sigma Skill, EHS (Environment, Health &#38; Safety). High level of expertise in [&#8230;]
-
----
-
-## [JOB: Power Electronics Design Engineer At Planys Technologies In Chennai](https://www.electronicsforu.com/career/power-electronics-design-engineer-planys-technologies-chennai)
-**Published:** Wed, 31 Dec 2025 10:00:48 +0000
-
-<img alt="JOB: Power Electronics Design Engineer At Planys Technologies In Chennai" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/08/planys-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Chennai Company: Planys Technologies Roles &#38; Responsibilities Qualification &#38; Experience
+<img alt="Legged Robots Step Out Of The Lab" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/m2_new-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Moving from demo floors to real-world duty to assist humans, India’s rising ‘robot dogs’ are gearing up to leave labs behind and stride into factories, harsh terrains and defence frontlines with power and purpose. But how?&#160; Many critical tasks in industries and defence still require humans to operate in unsafe, repetitive, or physically demanding conditions. [&#8230;]
 
 ---
 
-## [Channel Last Approach for 3D Electronics](https://www.electronicsforu.com/news/channel-last-approach-for-3d-electronics)
-**Published:** Wed, 31 Dec 2025 07:16:55 +0000
+## [Efficient Testing For Modern Chips](https://www.electronicsforu.com/news/efficient-testing-for-modern-chips)
+**Published:** Fri, 02 Jan 2026 06:59:05 +0000
 
-<img alt="Channel Last Approach for 3D Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/Fabrication-flow-of-stacked-gate-all-around-Si-nanosheet-metal-oxide-semiconductor-field-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Read on to know the strategy that can protect sensitive oxide-semiconductors, achieve high on-state current and low subthreshold swing in scalable 3D transistor architectures. As transistor miniaturization approaches physical limits, 3D stacking of back-end-of-line (BEOL) compatible transistors promises enhanced performance for low-power electronics. Advanced architectures, such as gate-all-around nanosheets, typically rely on a channel-first process, [&#8230;]
+<img alt="Efficient Testing For Modern Chips" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/img-20251211-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Struggling to test complex chips fast and at low cost? See how a compact air-cooled system increases speed, lowers cost, and improves testing. Many semiconductor manufacturers face challenges testing complex devices efficiently while keeping costs and space requirements low. Smaller production runs and high-mix device portfolios make traditional test systems expensive and slow. Existing air-cooled [&#8230;]
 
 ---
 
-## [UV C Pulses From Source To Sensor](https://www.electronicsforu.com/news/uv-c-pulses-from-source-to-sensor)
-**Published:** Wed, 31 Dec 2025 06:22:04 +0000
+## [Analysing The Power Grids With GridEdge](https://www.electronicsforu.com/news/analysing-the-power-grids-with-gridedge)
+**Published:** Fri, 02 Jan 2026 05:11:12 +0000
 
-<img alt="UV C Pulses From Source To Sensor" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/REAS_Nottingham_Source_Sensor_for_Fs_UV_C_Pulses_WEB-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Learn how researchers demonstrate a single platform that generates and detects femtosecond UV C laser pulses using nonlinear optics and two dimensional semiconductor photodetectors. Ultraviolet C light is widely used in disinfection, high contrast imaging and the study of ultrafast molecular dynamics due to its strong interaction with organic materials. Despite this potential, wider use [&#8230;]
+<img alt="Analysing The Power Grids With GridEdge" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/Low-Res_ASB_2255-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A compact sensor captures fast voltage and current changes in real time, helping utilities monitor modern grids shaped by renewables, power electronics and data centres. As power grids absorb more renewable energy, data centres and battery systems, utilities are struggling to track fast electrical changes driven by modern power electronics. Traditional monitoring tools often miss [&#8230;]
 
 ---
 
