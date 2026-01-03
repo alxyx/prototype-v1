@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-03 12:54 UTC_
+_Last updated: 2026-01-03 13:43 UTC_
 
 ## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
 **Published:** Fri, 02 Jan 2026 03:17:03 +0000
@@ -918,20 +918,6 @@ _Last updated: 2026-01-03 12:54 UTC_
 **Published:** Fri, 02 Jan 2026 12:30:21 +0000
 
 <img alt="Legged Robots Step Out Of The Lab" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/m2_new-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Moving from demo floors to real-world duty to assist humans, India’s rising ‘robot dogs’ are gearing up to leave labs behind and stride into factories, harsh terrains and defence frontlines with power and purpose. But how?&#160; Many critical tasks in industries and defence still require humans to operate in unsafe, repetitive, or physically demanding conditions. [&#8230;]
-
----
-
-## [Efficient Testing For Modern Chips](https://www.electronicsforu.com/news/efficient-testing-for-modern-chips)
-**Published:** Fri, 02 Jan 2026 06:59:05 +0000
-
-<img alt="Efficient Testing For Modern Chips" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/img-20251211-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Struggling to test complex chips fast and at low cost? See how a compact air-cooled system increases speed, lowers cost, and improves testing. Many semiconductor manufacturers face challenges testing complex devices efficiently while keeping costs and space requirements low. Smaller production runs and high-mix device portfolios make traditional test systems expensive and slow. Existing air-cooled [&#8230;]
-
----
-
-## [Analysing The Power Grids With GridEdge](https://www.electronicsforu.com/news/analysing-the-power-grids-with-gridedge)
-**Published:** Fri, 02 Jan 2026 05:11:12 +0000
-
-<img alt="Analysing The Power Grids With GridEdge" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/Low-Res_ASB_2255-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A compact sensor captures fast voltage and current changes in real time, helping utilities monitor modern grids shaped by renewables, power electronics and data centres. As power grids absorb more renewable energy, data centres and battery systems, utilities are struggling to track fast electrical changes driven by modern power electronics. Traditional monitoring tools often miss [&#8230;]
 
 ---
 
