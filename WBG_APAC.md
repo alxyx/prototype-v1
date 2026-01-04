@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-04 12:55 UTC_
+_Last updated: 2026-01-04 13:44 UTC_
 
 ## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
 **Published:** Fri, 02 Jan 2026 03:17:03 +0000
@@ -911,13 +911,6 @@ _Last updated: 2026-01-04 12:55 UTC_
 
 <p>Toray Industries has developed an immobilised-microorganism bioreactor technology which consumes 80% to 90% less energy than conventional chemical conversion processes. This technology immobilises specific microorganisms on wood-based carriers and packs ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/immobilised-microorganism-bio-reactor-technology-reduces-energy-used-by-chemical-conversion-processes-by-80-90-2026-01/">Toray develops energy-saving bioreactor technology</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Legged Robots Step Out Of The Lab](https://www.electronicsforu.com/news/legged-robots-step-out-of-the-lab)
-**Published:** Fri, 02 Jan 2026 12:30:21 +0000
-
-<img alt="Legged Robots Step Out Of The Lab" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/m2_new-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Moving from demo floors to real-world duty to assist humans, India’s rising ‘robot dogs’ are gearing up to leave labs behind and stride into factories, harsh terrains and defence frontlines with power and purpose. But how?&#160; Many critical tasks in industries and defence still require humans to operate in unsafe, repetitive, or physically demanding conditions. [&#8230;]
 
 ---
 
