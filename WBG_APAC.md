@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-04 09:34 UTC_
+_Last updated: 2026-01-04 10:35 UTC_
 
 ## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
 **Published:** Fri, 02 Jan 2026 03:17:03 +0000
@@ -895,6 +895,22 @@ _Last updated: 2026-01-04 09:34 UTC_
 
 <p>CEO Suman Narayan talks to EE Times about Cyient’s broader strategy including partnerships with MIPS and Navitas, plus its Mohali fab contract.</p>
 <p>The post <a href="https://www.eetimes.com/cyient-semiconductors-to-acquire-kinetic-technologies-for-93-million/">Cyient Semiconductors to acquire Kinetic Technologies for $93 million</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [1,200W from 900cm3 ac-dc power supply](https://www.electronicsweekly.com/news/products/power-supplies/1200w-from-900cm3-ac-dc-power-supply-2026-01/)
+**Published:** Fri, 02 Jan 2026 16:50:45 +0000
+
+<p>Finnish company Enedo Power has turned to GaN transistors to put a 1,200W ac-dc power supply into a 41 x 107 x 206mm (900cm3) volume. Called HDP1200, they run from ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/1200w-from-900cm3-ac-dc-power-supply-2026-01/">1,200W from 900cm3 ac-dc power supply</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Toray develops energy-saving bioreactor technology](https://www.electronicsweekly.com/news/business/immobilised-microorganism-bio-reactor-technology-reduces-energy-used-by-chemical-conversion-processes-by-80-90-2026-01/)
+**Published:** Fri, 02 Jan 2026 06:12:15 +0000
+
+<p>Toray Industries has developed an immobilised-microorganism bioreactor technology which consumes 80% to 90% less energy than conventional chemical conversion processes. This technology immobilises specific microorganisms on wood-based carriers and packs ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/immobilised-microorganism-bio-reactor-technology-reduces-energy-used-by-chemical-conversion-processes-by-80-90-2026-01/">Toray develops energy-saving bioreactor technology</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
