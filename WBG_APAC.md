@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-05 21:35 UTC_
+_Last updated: 2026-01-05 22:36 UTC_
 
 ## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
 **Published:** Fri, 02 Jan 2026 03:17:03 +0000
 
 <p>The WBG market is projected to grow from $1.8 billion in 2024 to $4.66 billion by the end of 2032, according to Verified Market Research.</p>
 <p>The post <a href="https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/">WBG Semiconductor Market to Generate $4.66B Revenue by 2032</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Annual Florida Semiconductor Summit to Showcase the State’s Growing Chip Manufacturing Ecosystem](https://www.semiconductor-digest.com/annual-florida-semiconductor-summit-to-showcase-the-states-growing-chip-manufacturing-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=annual-florida-semiconductor-summit-to-showcase-the-states-growing-chip-manufacturing-ecosystem)
+**Published:** Mon, 05 Jan 2026 21:47:13 +0000
+
+<p>The fourth annual Florida Semiconductor Summit will take place Feb. 23-25, 2026, at the Rosen Shingle Creek hotel in Orlando, exploring the future of semiconductor manufacturing in Florida. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/annual-florida-semiconductor-summit-to-showcase-the-states-growing-chip-manufacturing-ecosystem/">Annual Florida Semiconductor Summit to Showcase the State’s Growing Chip Manufacturing Ecosystem</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [What It Takes to Bring Semiconductor Manufacturing Back to the US](https://www.semiconductor-digest.com/what-it-takes-to-bring-semiconductor-manufacturing-back-to-the-us/?utm_source=rss&utm_medium=rss&utm_campaign=what-it-takes-to-bring-semiconductor-manufacturing-back-to-the-us)
+**Published:** Mon, 05 Jan 2026 21:44:05 +0000
+
+<p>Rather than playing catch-up in manufacturing today's most advanced chips, U-M researchers advocate preparation to build those of tomorrow.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/what-it-takes-to-bring-semiconductor-manufacturing-back-to-the-us/">What It Takes to Bring Semiconductor Manufacturing Back to the US</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,22 +807,6 @@ _Last updated: 2026-01-05 21:35 UTC_
 
 <p>In a ribbon-cutting event today at its campus in Tualatin, OR, Lam Research Corp. commemorated the opening of its new, $65 million office building.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/lam-research-deepens-investment-in-silicon-forest-to-accelerate-semiconductor-industry-leadership-in-the-ai-era/">Lam Research Deepens Investment in Silicon Forest to Accelerate Semiconductor Industry Leadership in the AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [How to Get Electrical Signals into a Hermetically Sealed Environment?](https://www.semiconductor-digest.com/how-to-get-electrical-signals-into-a-hermetically-sealed-environment/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-electrical-signals-into-a-hermetically-sealed-environment)
-**Published:** Fri, 21 Nov 2025 01:38:19 +0000
-
-<p>How to pass energy, signals and light from outside of a vacuum without leakage into a vacuum chamber? Hermetic sealing technology combines metal and glass to create vacuum-tight electrical connectors or feedthroughs that can be used in a wide range of applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/how-to-get-electrical-signals-into-a-hermetically-sealed-environment/">How to Get Electrical Signals into a Hermetically Sealed Environment?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [A Decade of Discovery: Heidelberg Instruments’ MLA 150 Maskless Aligner Turns 10](https://www.semiconductor-digest.com/a-decade-of-discovery-heidelberg-instruments-mla-150-maskless-aligner-turns-10/?utm_source=rss&utm_medium=rss&utm_campaign=a-decade-of-discovery-heidelberg-instruments-mla-150-maskless-aligner-turns-10)
-**Published:** Fri, 21 Nov 2025 01:31:21 +0000
-
-<p>Heidelberg Instruments proudly celebrates the 10th anniversary of the MLA 150 Maskless Aligner—a breakthrough that has redefined high-resolution lithography in cleanrooms around the world.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/a-decade-of-discovery-heidelberg-instruments-mla-150-maskless-aligner-turns-10/">A Decade of Discovery: Heidelberg Instruments’ MLA 150 Maskless Aligner Turns 10</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
