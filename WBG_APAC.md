@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-05 22:36 UTC_
+_Last updated: 2026-01-05 23:34 UTC_
 
 ## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
 **Published:** Fri, 02 Jan 2026 03:17:03 +0000
 
 <p>The WBG market is projected to grow from $1.8 billion in 2024 to $4.66 billion by the end of 2032, according to Verified Market Research.</p>
 <p>The post <a href="https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/">WBG Semiconductor Market to Generate $4.66B Revenue by 2032</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements](https://www.semiconductor-digest.com/tianma-and-universal-display-corporation-enter-into-long-term-oled-agreements/?utm_source=rss&utm_medium=rss&utm_campaign=tianma-and-universal-display-corporation-enter-into-long-term-oled-agreements)
+**Published:** Mon, 05 Jan 2026 22:38:44 +0000
+
+<p>Universal Display Corporation today announced the signing of long-term OLED material supply and license agreements with Tianma, a leading global manufacturer of flat panel displays.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tianma-and-universal-display-corporation-enter-into-long-term-oled-agreements/">Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [HSC Appoints New Chief Operating Officer](https://www.semiconductor-digest.com/hsc-appoints-new-chief-operating-officer/?utm_source=rss&utm_medium=rss&utm_campaign=hsc-appoints-new-chief-operating-officer)
+**Published:** Mon, 05 Jan 2026 22:24:49 +0000
+
+<p>Hemlock Semiconductor today announced Fernando Signorini has joined its executive leadership team as Chief Operating Officer.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hsc-appoints-new-chief-operating-officer/">HSC Appoints New Chief Operating Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,22 +807,6 @@ _Last updated: 2026-01-05 22:36 UTC_
 
 <p>From November 18 to 21, over 1,600 exhibitors from 52 countries met at productronica to present innovations in electronics development and production.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/strong-signal-for-the-industry-productronica-2025-drives-positive-industry-trend/">Strong Signal for the Industry: productronica 2025 Drives Positive Industry Trend</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Semiconductor Startup Sophrosyne Technologies Raises $2M in Seed Round from Bluehill.VC](https://www.semiconductor-digest.com/semiconductor-startup-sophrosyne-technologies-raises-2m-in-seed-round-from-bluehill-vc/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-startup-sophrosyne-technologies-raises-2m-in-seed-round-from-bluehill-vc)
-**Published:** Fri, 21 Nov 2025 19:11:21 +0000
-
-<p>Bengaluru-based semiconductor startup Sophrosyne Technologies has raised $2M in seed round, fully subscribed by Bluehill.VC.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-startup-sophrosyne-technologies-raises-2m-in-seed-round-from-bluehill-vc/">Semiconductor Startup Sophrosyne Technologies Raises $2M in Seed Round from Bluehill.VC</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lam Research Deepens Investment in Silicon Forest to Accelerate Semiconductor Industry Leadership in the AI Era](https://www.semiconductor-digest.com/lam-research-deepens-investment-in-silicon-forest-to-accelerate-semiconductor-industry-leadership-in-the-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-deepens-investment-in-silicon-forest-to-accelerate-semiconductor-industry-leadership-in-the-ai-era)
-**Published:** Fri, 21 Nov 2025 18:58:05 +0000
-
-<p>In a ribbon-cutting event today at its campus in Tualatin, OR, Lam Research Corp. commemorated the opening of its new, $65 million office building.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lam-research-deepens-investment-in-silicon-forest-to-accelerate-semiconductor-industry-leadership-in-the-ai-era/">Lam Research Deepens Investment in Silicon Forest to Accelerate Semiconductor Industry Leadership in the AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
