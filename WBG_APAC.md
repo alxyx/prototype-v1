@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-05 14:39 UTC_
+_Last updated: 2026-01-05 15:39 UTC_
 
 ## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
 **Published:** Fri, 02 Jan 2026 03:17:03 +0000
@@ -810,6 +810,14 @@ _Last updated: 2026-01-05 14:39 UTC_
 
 ---
 
+## [TI TDA5 Automotive SoC Delivers 24 TOPS/W](https://www.powerelectronicsnews.com/ti-tda5-automotive-soc-delivers-24-tops-w/)
+**Published:** Mon, 05 Jan 2026 15:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="398" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/TI-SDV.png?fit=536%2C398" style="display: block; margin-bottom: 5px; clear: both;" width="536" /><p>The TDA5 automotive SoC delivers up to 1200 TOPS and 24 TOP/W performance without the need for liquid cooling. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ti-tda5-automotive-soc-delivers-24-tops-w/">TI TDA5 Automotive SoC Delivers 24 TOPS/W </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [A New Wireless Paradigm: Transmitting Data Through E-fields](https://www.powerelectronicsnews.com/a-new-wireless-paradigm-transmitting-data-through-e-fields/)
 **Published:** Mon, 05 Jan 2026 09:00:00 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2026-01-05 14:39 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4480" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_1500850888.jpeg?fit=6720%2C4480" style="display: block; margin-bottom: 5px; clear: both;" width="6720" /><p>A two-part series on HV isolation design for medical devices with design approaches that consider OVC, CTI, pollution degree, and more. </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/designing-for-high-voltage-isolation-in-medical-devices-part-1/">Designing for High-Voltage Isolation in Medical Devices, Part 1</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [A Spray-Cooling Approach for Data Centers](https://www.powerelectronicsnews.com/a-spray-cooling-approach-for-data-centers/)
-**Published:** Mon, 29 Dec 2025 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="504" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_26b1dd.png?fit=773%2C504" style="display: block; margin-bottom: 5px; clear: both;" width="773" /><p>Instead of immersion or direct-to-chip liquid cooling, Airsys LiquidRack tech sprays coolant onto the chip, offering an intermediate solution. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/a-spray-cooling-approach-for-data-centers/">A Spray-Cooling Approach for Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
