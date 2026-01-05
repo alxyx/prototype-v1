@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-05 08:48 UTC_
+_Last updated: 2026-01-05 09:46 UTC_
 
 ## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
 **Published:** Fri, 02 Jan 2026 03:17:03 +0000
@@ -810,6 +810,14 @@ _Last updated: 2026-01-05 08:48 UTC_
 
 ---
 
+## [A New Wireless Paradigm: Transmitting Data Through E-fields](https://www.powerelectronicsnews.com/a-new-wireless-paradigm-transmitting-data-through-e-fields/)
+**Published:** Mon, 05 Jan 2026 09:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_614659247.jpeg?fit=6000%2C4000" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>Instead of using RF like Bluetooth or NFC, NFE uses the inherent capacitance of conductors, like our body, for wireless data transmission.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/a-new-wireless-paradigm-transmitting-data-through-e-fields/">A New Wireless Paradigm: Transmitting Data Through E-fields</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Murata Announces Mass Production of 1.25kV C0G MLCC](https://www.powerelectronicsnews.com/murata-announces-mass-production-of-1-25kv-c0g-mlcc/)
 **Published:** Fri, 02 Jan 2026 13:00:00 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2026-01-05 08:48 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="504" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_26b1dd.png?fit=773%2C504" style="display: block; margin-bottom: 5px; clear: both;" width="773" /><p>Instead of immersion or direct-to-chip liquid cooling, Airsys LiquidRack tech sprays coolant onto the chip, offering an intermediate solution. </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/a-spray-cooling-approach-for-data-centers/">A Spray-Cooling Approach for Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Switching Bus Converter Boosts High-Power Data Centers](https://www.powerelectronicsnews.com/switching-bus-converter-boosts-high-power-data-centers/)
-**Published:** Mon, 29 Dec 2025 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3072" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Datacenter.jpeg?fit=5376%2C3072" style="display: block; margin-bottom: 5px; clear: both;" width="5376" /><p>Data centers demand high power densities, requiring innovations in converter and bus architectures, packaging, and semiconductor devices.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/switching-bus-converter-boosts-high-power-data-centers/">Switching Bus Converter Boosts High-Power Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
