@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 07:40 UTC_
+_Last updated: 2026-01-06 08:45 UTC_
 
 ## [AI Fueling Chip Equipment CapEx Growth to $156B in 2027](https://www.eetasia.com/ai-fueling-chip-equipment-capex-growth-to-156b-in-2027/)
 **Published:** Tue, 06 Jan 2026 02:37:44 +0000
@@ -887,6 +887,14 @@ _Last updated: 2026-01-06 07:40 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4480" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_1500850888.jpeg?fit=6720%2C4480" style="display: block; margin-bottom: 5px; clear: both;" width="6720" /><p>A two-part series on HV isolation design for medical devices with design approaches that consider OVC, CTI, pollution degree, and more. </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/designing-for-high-voltage-isolation-in-medical-devices-part-1/">Designing for High-Voltage Isolation in Medical Devices, Part 1</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Higher-Current SiC Devices Shrink Locomotive Power Converters](https://www.eetimes.com/higher-current-sic-devices-shrink-locomotive-power-converters/)
+**Published:** Tue, 06 Jan 2026 08:00:00 +0000
+
+<p>Mitsubishi Electric’s higher-current SiC devices aim to revolutionize locomotive power converters.</p>
+<p>The post <a href="https://www.eetimes.com/higher-current-sic-devices-shrink-locomotive-power-converters/">Higher-Current SiC Devices Shrink Locomotive Power Converters</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
