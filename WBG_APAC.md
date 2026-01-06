@@ -1,12 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 02:00 UTC_
+_Last updated: 2026-01-06 03:53 UTC_
 
-## [WBG Semiconductor Market to Generate $4.66B Revenue by 2032](https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/)
-**Published:** Fri, 02 Jan 2026 03:17:03 +0000
+## [AI Fueling Chip Equipment CapEx Growth to $156B in 2027](https://www.eetasia.com/ai-fueling-chip-equipment-capex-growth-to-156b-in-2027/)
+**Published:** Tue, 06 Jan 2026 02:37:44 +0000
 
-<p>The WBG market is projected to grow from $1.8 billion in 2024 to $4.66 billion by the end of 2032, according to Verified Market Research.</p>
-<p>The post <a href="https://www.eetasia.com/wbg-semiconductor-market-to-generate-4-66b-revenue-by-2032/">WBG Semiconductor Market to Generate $4.66B Revenue by 2032</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The global semiconductor industry is embarking on a capital expansion of unprecedented scale, driven by a structural re-architecture of the computing stack to support AI.</p>
+<p>The post <a href="https://www.eetasia.com/ai-fueling-chip-equipment-capex-growth-to-156b-in-2027/">AI Fueling Chip Equipment CapEx Growth to $156B in 2027</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
