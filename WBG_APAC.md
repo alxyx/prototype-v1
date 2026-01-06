@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 16:44 UTC_
+_Last updated: 2026-01-06 17:37 UTC_
 
 ## [TI Expands Automotive Portfolio to Accelerate Shift Toward AVs](https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/)
 **Published:** Tue, 06 Jan 2026 12:11:34 +0000
