@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 14:37 UTC_
+_Last updated: 2026-01-06 15:37 UTC_
 
 ## [TI Expands Automotive Portfolio to Accelerate Shift Toward AVs](https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/)
 **Published:** Tue, 06 Jan 2026 12:11:34 +0000
@@ -911,6 +911,14 @@ _Last updated: 2026-01-06 14:37 UTC_
 
 <p>CEO Suman Narayan talks to EE Times about Cyient’s broader strategy including partnerships with MIPS and Navitas, plus its Mohali fab contract.</p>
 <p>The post <a href="https://www.eetimes.com/cyient-semiconductors-to-acquire-kinetic-technologies-for-93-million/">Cyient Semiconductors to acquire Kinetic Technologies for $93 million</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [CES: Nordic adds NPU to wireless MCU](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/ces-nordic-adds-npu-to-wireless-mcu-2026-01/)
+**Published:** Tue, 06 Jan 2026 14:25:03 +0000
+
+<p>At CES, Nordic Semiconductor announced a wireless MCU with a 128MHz neural processing unit, 512kbyte of ram and 2Mbyte of non-volatile memory. Called nRF54LM20B, it is aimed at battery-powered local ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/ces-nordic-adds-npu-to-wireless-mcu-2026-01/">CES: Nordic adds NPU to wireless MCU</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
