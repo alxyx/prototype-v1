@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 08:45 UTC_
+_Last updated: 2026-01-06 09:41 UTC_
 
 ## [AI Fueling Chip Equipment CapEx Growth to $156B in 2027](https://www.eetasia.com/ai-fueling-chip-equipment-capex-growth-to-156b-in-2027/)
 **Published:** Tue, 06 Jan 2026 02:37:44 +0000
