@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 18:45 UTC_
+_Last updated: 2026-01-06 19:31 UTC_
 
 ## [TI Expands Automotive Portfolio to Accelerate Shift Toward AVs](https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/)
 **Published:** Tue, 06 Jan 2026 12:11:34 +0000
@@ -914,11 +914,11 @@ _Last updated: 2026-01-06 18:45 UTC_
 
 ---
 
-## [Dual 12bit 170Msample/s ADCs with DSP](https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/dual-12bit-170msample-s-adcs-with-dsp-2026-01/)
+## [Dual 12-bit 170Msample/s ADCs with DSP](https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/dual-12bit-170msample-s-adcs-with-dsp-2026-01/)
 **Published:** Tue, 06 Jan 2026 15:30:25 +0000
 
-<p>Silanna Semiconductor has added a on-board DSP variants to its family of ADCs. &#8220;The integration of a DSP brings several functions on-chip, including decimation, digital down-conversion, interleaving and IQ-mismatch correction ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/dual-12bit-170msample-s-adcs-with-dsp-2026-01/">Dual 12bit 170Msample/s ADCs with DSP</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Silanna Semiconductor has added onboard DSP variants to its family of ADCs. &#8220;The integration of a DSP brings several functions on-chip, including decimation, digital down-conversion, interleaving and IQ-mismatch correction &#8211; ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/dual-12bit-170msample-s-adcs-with-dsp-2026-01/">Dual 12-bit 170Msample/s ADCs with DSP</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
