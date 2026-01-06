@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 11:34 UTC_
+_Last updated: 2026-01-06 12:59 UTC_
+
+## [TI Expands Automotive Portfolio to Accelerate Shift Toward AVs](https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/)
+**Published:** Tue, 06 Jan 2026 12:11:34 +0000
+
+<p>TI's new automotive semiconductors and development resources enhance the safety and autonomy across vehicle models.</p>
+<p>The post <a href="https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/">TI Expands Automotive Portfolio to Accelerate Shift Toward AVs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [AI Fueling Chip Equipment CapEx Growth to $156B in 2027](https://www.eetasia.com/ai-fueling-chip-equipment-capex-growth-to-156b-in-2027/)
 **Published:** Tue, 06 Jan 2026 02:37:44 +0000
