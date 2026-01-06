@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 21:35 UTC_
+_Last updated: 2026-01-06 22:35 UTC_
 
 ## [TI Expands Automotive Portfolio to Accelerate Shift Toward AVs](https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/)
 **Published:** Tue, 06 Jan 2026 12:11:34 +0000
@@ -15,6 +15,46 @@ _Last updated: 2026-01-06 21:35 UTC_
 
 <p>The global semiconductor industry is embarking on a capital expansion of unprecedented scale, driven by a structural re-architecture of the computing stack to support AI.</p>
 <p>The post <a href="https://www.eetasia.com/ai-fueling-chip-equipment-capex-growth-to-156b-in-2027/">AI Fueling Chip Equipment CapEx Growth to $156B in 2027</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Cadence Launches Partner Ecosystem to Accelerate Chiplet Time to Market](https://www.semiconductor-digest.com/cadence-launches-partner-ecosystem-to-accelerate-chiplet-time-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-launches-partner-ecosystem-to-accelerate-chiplet-time-to-market)
+**Published:** Tue, 06 Jan 2026 22:17:25 +0000
+
+<p>Strategic collaborations with Samsung Foundry, Arm and others enable Cadence to deliver pre-validated chiplet solutions based on the Cadence Physical AI chiplet platform.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cadence-launches-partner-ecosystem-to-accelerate-chiplet-time-to-market/">Cadence Launches Partner Ecosystem to Accelerate Chiplet Time to Market</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens and NVIDIA Expand Partnership to Build the Industrial AI Operating System](https://www.semiconductor-digest.com/siemens-and-nvidia-expand-partnership-to-build-the-industrial-ai-operating-system/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-and-nvidia-expand-partnership-to-build-the-industrial-ai-operating-system)
+**Published:** Tue, 06 Jan 2026 22:07:14 +0000
+
+<p>Siemens and NVIDIA today announced a significant expansion of their strategic partnership to bring artificial intelligence into the real world.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-and-nvidia-expand-partnership-to-build-the-industrial-ai-operating-system/">Siemens and NVIDIA Expand Partnership to Build the Industrial AI Operating System</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NXP Advances Edge AI Leadership with New eIQ Agentic AI Framework](https://www.semiconductor-digest.com/nxp-advances-edge-ai-leadership-with-new-eiq-agentic-ai-framework/?utm_source=rss&utm_medium=rss&utm_campaign=nxp-advances-edge-ai-leadership-with-new-eiq-agentic-ai-framework)
+**Published:** Tue, 06 Jan 2026 22:01:49 +0000
+
+<p>NXP Semiconductors N.V. today announced its new eIQ Agentic AI Framework, advancing its leadership in secure, real-time edge AI.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nxp-advances-edge-ai-leadership-with-new-eiq-agentic-ai-framework/">NXP Advances Edge AI Leadership with New eIQ Agentic AI Framework</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Upbeat Technology Sets New Industry Standard with Novel MEMS Technology](https://www.semiconductor-digest.com/upbeat-technology-sets-new-industry-standard-with-novel-mems-technology/?utm_source=rss&utm_medium=rss&utm_campaign=upbeat-technology-sets-new-industry-standard-with-novel-mems-technology)
+**Published:** Tue, 06 Jan 2026 21:41:52 +0000
+
+<p>Upbeat Technology, a pioneer in ultra-low-power compute, voice, and edge AI sensing solutions, today announced its new family of UPM01 and UPM02 high-bandwidth MEMS vibration sensors. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/upbeat-technology-sets-new-industry-standard-with-novel-mems-technology/">Upbeat Technology Sets New Industry Standard with Novel MEMS Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Marvell to Acquire XConn Technologies](https://www.semiconductor-digest.com/marvell-to-acquire-xconn-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=marvell-to-acquire-xconn-technologies)
+**Published:** Tue, 06 Jan 2026 21:27:06 +0000
+
+<p>Marvell Technology, Inc. today announced it has entered into a definitive agreement to acquire XConn Technologies, a provider of advanced PCIe and CXL switching silicon.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/marvell-to-acquire-xconn-technologies/">Marvell to Acquire XConn Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -775,46 +815,6 @@ _Last updated: 2026-01-06 21:35 UTC_
 
 <p>Kneron, the San Diego-based full-stack AI company pioneering neural processing units (NPUs), today announced the launch of its KL1140 chip, marking a major milestone in AI computing.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/kneron-launches-kl1140-chip/">Kneron Launches KL1140 Chip</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Optimizing the Thermal Loop for Semiconductor Wafer Manufacturing](https://www.semiconductor-digest.com/optimizing-the-thermal-loop-for-semiconductor-wafer-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=optimizing-the-thermal-loop-for-semiconductor-wafer-manufacturing)
-**Published:** Mon, 24 Nov 2025 14:24:16 +0000
-
-<p>Proper selection, installation, and maintenance of the components that circulate heat transfer fluid between chillers in the sub-fab and process tools in the fab are key to managing the “thermal loop.”</p>
-<p>The post <a href="https://www.semiconductor-digest.com/optimizing-the-thermal-loop-for-semiconductor-wafer-manufacturing/">Optimizing the Thermal Loop for Semiconductor Wafer Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Atomic-Level Cleanliness in ALD](https://www.semiconductor-digest.com/atomic-level-cleanliness-in-ald/?utm_source=rss&utm_medium=rss&utm_campaign=atomic-level-cleanliness-in-ald)
-**Published:** Mon, 24 Nov 2025 13:46:23 +0000
-
-<p>Overcoming impurity challenges for high-performance, energy-efficient and reliable semiconductor manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/atomic-level-cleanliness-in-ald/">Atomic-Level Cleanliness in ALD</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Creating a Thriving Chemical Semiconductor Supply Chain in America](https://www.semiconductor-digest.com/creating-a-thriving-chemical-semiconductor-supply-chain-in-america/?utm_source=rss&utm_medium=rss&utm_campaign=creating-a-thriving-chemical-semiconductor-supply-chain-in-america)
-**Published:** Mon, 24 Nov 2025 13:35:51 +0000
-
-<p>Semiconductors are vital to some of the world’s most important industries. What will it take to ensure US semiconductor manufacturers continue to have the chemical and material inputs they need?</p>
-<p>The post <a href="https://www.semiconductor-digest.com/creating-a-thriving-chemical-semiconductor-supply-chain-in-america/">Creating a Thriving Chemical Semiconductor Supply Chain in America</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [VLSI EXPERT Selects Innatera Spiking Neural Processors to Build Industry-Led Neuromorphic Talent Pool](https://www.semiconductor-digest.com/vlsi-expert-selects-innatera-spiking-neural-processors-to-build-industry-led-neuromorphic-talent-pool/?utm_source=rss&utm_medium=rss&utm_campaign=vlsi-expert-selects-innatera-spiking-neural-processors-to-build-industry-led-neuromorphic-talent-pool)
-**Published:** Fri, 21 Nov 2025 19:35:28 +0000
-
-<p>Hands-on courses will be powered by Pulsar microcontrollers across universities and professional programs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/vlsi-expert-selects-innatera-spiking-neural-processors-to-build-industry-led-neuromorphic-talent-pool/">VLSI EXPERT Selects Innatera Spiking Neural Processors to Build Industry-Led Neuromorphic Talent Pool</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Strong Signal for the Industry: productronica 2025 Drives Positive Industry Trend](https://www.semiconductor-digest.com/strong-signal-for-the-industry-productronica-2025-drives-positive-industry-trend/?utm_source=rss&utm_medium=rss&utm_campaign=strong-signal-for-the-industry-productronica-2025-drives-positive-industry-trend)
-**Published:** Fri, 21 Nov 2025 19:21:11 +0000
-
-<p>From November 18 to 21, over 1,600 exhibitors from 52 countries met at productronica to present innovations in electronics development and production.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/strong-signal-for-the-industry-productronica-2025-drives-positive-industry-trend/">Strong Signal for the Industry: productronica 2025 Drives Positive Industry Trend</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
