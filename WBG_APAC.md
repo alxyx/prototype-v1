@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 06:49 UTC_
+_Last updated: 2026-01-06 07:40 UTC_
 
 ## [AI Fueling Chip Equipment CapEx Growth to $156B in 2027](https://www.eetasia.com/ai-fueling-chip-equipment-capex-growth-to-156b-in-2027/)
 **Published:** Tue, 06 Jan 2026 02:37:44 +0000
@@ -895,14 +895,6 @@ _Last updated: 2026-01-06 06:49 UTC_
 
 <p>CEO Suman Narayan talks to EE Times about Cyient’s broader strategy including partnerships with MIPS and Navitas, plus its Mohali fab contract.</p>
 <p>The post <a href="https://www.eetimes.com/cyient-semiconductors-to-acquire-kinetic-technologies-for-93-million/">Cyient Semiconductors to acquire Kinetic Technologies for $93 million</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Space Forge claims first for orbital semiconductor manufacturing](https://www.electronicsweekly.com/news/space-forge-claims-first-for-orbital-semiconductor-manufacturing-2026-01/)
-**Published:** Mon, 05 Jan 2026 06:06:41 +0000
-
-<p>Space Forge is reporting successfully generating plasma aboard its ForgeStar-1 satellite. The Cardiff-based company is an advanced materials startup focusing on semiconductor manufacturing in space. It highlights the latest development ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/space-forge-claims-first-for-orbital-semiconductor-manufacturing-2026-01/">Space Forge claims first for orbital semiconductor manufacturing</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
