@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 15:37 UTC_
+_Last updated: 2026-01-06 16:44 UTC_
 
 ## [TI Expands Automotive Portfolio to Accelerate Shift Toward AVs](https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/)
 **Published:** Tue, 06 Jan 2026 12:11:34 +0000
@@ -911,6 +911,14 @@ _Last updated: 2026-01-06 15:37 UTC_
 
 <p>CEO Suman Narayan talks to EE Times about Cyient’s broader strategy including partnerships with MIPS and Navitas, plus its Mohali fab contract.</p>
 <p>The post <a href="https://www.eetimes.com/cyient-semiconductors-to-acquire-kinetic-technologies-for-93-million/">Cyient Semiconductors to acquire Kinetic Technologies for $93 million</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Dual 12bit 170Msample/s ADCs with DSP](https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/dual-12bit-170msample-s-adcs-with-dsp-2026-01/)
+**Published:** Tue, 06 Jan 2026 15:30:25 +0000
+
+<p>Silanna Semiconductor has added a on-board DSP variants to its family of ADCs. &#8220;The integration of a DSP brings several functions on-chip, including decimation, digital down-conversion, interleaving and IQ-mismatch correction ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/dual-12bit-170msample-s-adcs-with-dsp-2026-01/">Dual 12bit 170Msample/s ADCs with DSP</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
