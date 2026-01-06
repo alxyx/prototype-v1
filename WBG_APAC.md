@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 13:59 UTC_
+_Last updated: 2026-01-06 14:37 UTC_
 
 ## [TI Expands Automotive Portfolio to Accelerate Shift Toward AVs](https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/)
 **Published:** Tue, 06 Jan 2026 12:11:34 +0000
@@ -914,24 +914,10 @@ _Last updated: 2026-01-06 13:59 UTC_
 
 ---
 
-## [JOB: Power Electronics Engineer At Magna In Bengaluru](https://www.electronicsforu.com/career/power-electronics-engineer-magna-bengaluru)
-**Published:** Mon, 05 Jan 2026 08:32:14 +0000
+## [JOB: Embedded Engineer At Eaton In Pune](https://www.electronicsforu.com/career/embedded-engineer-eaton-pune)
+**Published:** Tue, 06 Jan 2026 08:39:33 +0000
 
-<img alt="JOB: Power Electronics Engineer At Magna In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/11/magna-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Magna What To Expect As an experienced Power Electronics Design Engineer, you will be involved in the power electronics design &#38; development of the traction inverter for electric vehicles. Candidates Must Have Hands-on Experience And / Or Understanding Of Educational And Professional Skill Requirement
-
----
-
-## [Building Fully Independent Semiconductor Supply Chains Within Each Geopolitical Bloc Is Impractical – Steve Sanghi, Microchip Technology](https://www.electronicsforu.com/technology-trends/semiconductors-are-becoming-so-critical-to-national-security-that-many-major-geopolitical-blocs-rather-than-individual-governments-seek-greater-self-sufficiency-steve-sanghi-mi)
-**Published:** Mon, 05 Jan 2026 07:40:36 +0000
-
-<img alt="Steve Sanghi, CEO and President of Microchip Technology" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/Steve-Sanghi-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What lies ahead for semiconductors in 2026? With AI-driven momentum, resilient supply chains, a pragmatic ESG outlook, and sustained innovation, Microchip Technology’s CEO, Steve Sanghi, predicts a confident, opportunity-rich year ahead despite geopolitical headwinds. Q. What is your outlook on the semiconductor industry’s growth in 2026? What opportunities and challenges do you foresee?&#160; A. The [&#8230;]
-
----
-
-## [Multi Axis Laser Scan Head](https://www.electronicsforu.com/news/multi-axis-laser-scan-head)
-**Published:** Mon, 05 Jan 2026 07:15:47 +0000
-
-<img alt="Multi Axis Laser Scan Head" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/AGVCPOA-LIGHTA-GRAYA-REFLECTION-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Dive in to know how this high-precision, multi-axis laser scanning can improve medical, electronics, semiconductor and advanced additive manufacturing processes As laser micromachining expands across industries, manufacturers demand systems that combine precision, speed and stability without excessive cost. Existing solutions often require trade-offs between resolution, dynamics and integration flexibility, limiting their deployment in research, medical, [&#8230;]
+<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton What you’ll do: Responsible for Firmware development for Electrical Industrial Controls products as part of Industrial Control Division(ICD), which is part of PCS. This includes, contribution in product development by understanding product requirements, design &#38; develop feature enhancements and implementation of industrial internet of things (IIOT) protocols like Modbus, BACNet, [&#8230;]
 
 ---
 
