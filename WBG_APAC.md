@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 05:39 UTC_
+_Last updated: 2026-01-06 06:49 UTC_
 
 ## [AI Fueling Chip Equipment CapEx Growth to $156B in 2027](https://www.eetasia.com/ai-fueling-chip-equipment-capex-growth-to-156b-in-2027/)
 **Published:** Tue, 06 Jan 2026 02:37:44 +0000
@@ -903,14 +903,6 @@ _Last updated: 2026-01-06 05:39 UTC_
 
 <p>Space Forge is reporting successfully generating plasma aboard its ForgeStar-1 satellite. The Cardiff-based company is an advanced materials startup focusing on semiconductor manufacturing in space. It highlights the latest development ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/space-forge-claims-first-for-orbital-semiconductor-manufacturing-2026-01/">Space Forge claims first for orbital semiconductor manufacturing</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [1,200W from 900cm3 ac-dc power supply](https://www.electronicsweekly.com/news/products/power-supplies/1200w-from-900cm3-ac-dc-power-supply-2026-01/)
-**Published:** Fri, 02 Jan 2026 16:50:45 +0000
-
-<p>Finnish company Enedo Power has turned to GaN transistors to put a 1,200W ac-dc power supply into a 41 x 107 x 206mm (900cm3) volume. Called HDP1200, they run from ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/1200w-from-900cm3-ac-dc-power-supply-2026-01/">1,200W from 900cm3 ac-dc power supply</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
