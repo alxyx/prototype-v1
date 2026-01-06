@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 12:59 UTC_
+_Last updated: 2026-01-06 13:59 UTC_
 
 ## [TI Expands Automotive Portfolio to Accelerate Shift Toward AVs](https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/)
 **Published:** Tue, 06 Jan 2026 12:11:34 +0000
@@ -818,6 +818,22 @@ _Last updated: 2026-01-06 12:59 UTC_
 
 ---
 
+## [Understanding IVRs and their impact on xPU throughput](https://www.powerelectronicsnews.com/understanding-ivrs-and-their-impact-on-xpu-throughput/)
+**Published:** Tue, 06 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4032" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_1771952433.jpeg?fit=6048%2C4032" style="display: block; margin-bottom: 5px; clear: both;" width="6048" /><p>AI workloads consuming 1.5 kW per chip—with projections reaching 4-5 kW—are forcing a fundamental shift in data center power architectures. The challenge is no longer...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/understanding-ivrs-and-their-impact-on-xpu-throughput/">Understanding IVRs and their impact on xPU throughput</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Thermal Packaging Advances for SiC and GaN Semiconductors](https://www.powerelectronicsnews.com/thermal-packaging-advances-for-sic-and-gan-semiconductors/)
+**Published:** Tue, 06 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="709" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_ab3f4a.jpeg?fit=1600%2C709" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>Wide-bandgap (WBG) power semiconductor devices based on silicon carbide (SiC) and gallium nitride (GaN) enable improved power conversion efficiencies. The improved power density that they...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/thermal-packaging-advances-for-sic-and-gan-semiconductors/">Thermal Packaging Advances for SiC and GaN Semiconductors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [TI TDA5 Automotive SoC Delivers 24 TOPS/W](https://www.powerelectronicsnews.com/ti-tda5-automotive-soc-delivers-24-tops-w/)
 **Published:** Mon, 05 Jan 2026 15:00:00 +0000
 
@@ -879,22 +895,6 @@ _Last updated: 2026-01-06 12:59 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3078" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/GaN_1.jpg?fit=2785%2C3078" style="display: block; margin-bottom: 5px; clear: both;" width="2785" /><p>X-FAB launched GaN-on-Si foundry capabilities for depletion-mode (d-mode) devices utilizing its XG035 process, solidifying its position as a dedicated foundry for both GaN and SiC applications.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/x-fab-grows-gan-on-si-foundry-services-with-d-mode-technology/">X-FAB Grows GaN-on-Si Foundry Services With D-mode Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Integrating AI Into Modern Power Electronics](https://www.powerelectronicsnews.com/integrating-ai-into-modern-power-electronics/)
-**Published:** Tue, 30 Dec 2025 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="498" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AI-based-PE-Featured-image.png?fit=946%2C498" style="display: block; margin-bottom: 5px; clear: both;" width="946" /><p>AI-supported PE is fundamental to achieving precise control of electrical power in a cleaner, smaller, faster, and more dependable way.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/integrating-ai-into-modern-power-electronics/">Integrating AI Into Modern Power Electronics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Designing for High-Voltage Isolation in Medical Devices, Part 1](https://www.powerelectronicsnews.com/designing-for-high-voltage-isolation-in-medical-devices-part-1/)
-**Published:** Tue, 30 Dec 2025 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4480" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_1500850888.jpeg?fit=6720%2C4480" style="display: block; margin-bottom: 5px; clear: both;" width="6720" /><p>A two-part series on HV isolation design for medical devices with design approaches that consider OVC, CTI, pollution degree, and more. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/designing-for-high-voltage-isolation-in-medical-devices-part-1/">Designing for High-Voltage Isolation in Medical Devices, Part 1</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
