@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-07 03:53 UTC_
+_Last updated: 2026-01-07 04:54 UTC_
+
+## [Aegis Aerospace and United Semiconductors Launch In-Space Advanced Materials Manufacturing Facility](https://www.eetasia.com/aegis-aerospace-and-united-semiconductors-launch-in-space-advanced-materials-manufacturing-facility/)
+**Published:** Wed, 07 Jan 2026 03:49:33 +0000
+
+<p>Aegis Aerospace and United Semiconductors are pioneering semiconductor manufacturing in space.</p>
+<p>The post <a href="https://www.eetasia.com/aegis-aerospace-and-united-semiconductors-launch-in-space-advanced-materials-manufacturing-facility/">Aegis Aerospace and United Semiconductors Launch In-Space Advanced Materials Manufacturing Facility</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [MIPS Enabling Physical AI at the Autonomous Edge](https://www.eetasia.com/mips-enabling-physical-ai-at-the-autonomous-edge/)
 **Published:** Wed, 07 Jan 2026 00:24:37 +0000
@@ -15,14 +23,6 @@ _Last updated: 2026-01-07 03:53 UTC_
 
 <p>TI's new automotive semiconductors and development resources enhance the safety and autonomy across vehicle models.</p>
 <p>The post <a href="https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/">TI Expands Automotive Portfolio to Accelerate Shift Toward AVs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [AI Fueling Chip Equipment CapEx Growth to $156B in 2027](https://www.eetasia.com/ai-fueling-chip-equipment-capex-growth-to-156b-in-2027/)
-**Published:** Tue, 06 Jan 2026 02:37:44 +0000
-
-<p>The global semiconductor industry is embarking on a capital expansion of unprecedented scale, driven by a structural re-architecture of the computing stack to support AI.</p>
-<p>The post <a href="https://www.eetasia.com/ai-fueling-chip-equipment-capex-growth-to-156b-in-2027/">AI Fueling Chip Equipment CapEx Growth to $156B in 2027</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
