@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-07 08:46 UTC_
+_Last updated: 2026-01-07 09:42 UTC_
+
+## [AI Triggers a New Memory Super Cycle](https://www.eetasia.com/ai-triggers-a-new-memory-super-cycle/)
+**Published:** Wed, 07 Jan 2026 08:47:28 +0000
+
+<p>As AI triggers a "butterfly effect" across the semiconductor supply chain, Macronix is deploying a comprehensive flash portfolio to navigate the next memory super cycle.</p>
+<p>The post <a href="https://www.eetasia.com/ai-triggers-a-new-memory-super-cycle/">AI Triggers a New Memory Super Cycle</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Aegis Aerospace and United Semiconductors Launch In-Space Advanced Materials Manufacturing Facility](https://www.eetasia.com/aegis-aerospace-and-united-semiconductors-launch-in-space-advanced-materials-manufacturing-facility/)
 **Published:** Wed, 07 Jan 2026 03:49:33 +0000
@@ -911,14 +919,6 @@ _Last updated: 2026-01-07 08:46 UTC_
 
 <p>Mitsubishi Electric’s higher-current SiC devices aim to revolutionize locomotive power converters.</p>
 <p>The post <a href="https://www.eetimes.com/higher-current-sic-devices-shrink-locomotive-power-converters/">Higher-Current SiC Devices Shrink Locomotive Power Converters</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Cyient Semiconductors to acquire Kinetic Technologies for $93 million](https://www.eetimes.com/cyient-semiconductors-to-acquire-kinetic-technologies-for-93-million/)
-**Published:** Fri, 02 Jan 2026 18:00:00 +0000
-
-<p>CEO Suman Narayan talks to EE Times about Cyient’s broader strategy including partnerships with MIPS and Navitas, plus its Mohali fab contract.</p>
-<p>The post <a href="https://www.eetimes.com/cyient-semiconductors-to-acquire-kinetic-technologies-for-93-million/">Cyient Semiconductors to acquire Kinetic Technologies for $93 million</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
