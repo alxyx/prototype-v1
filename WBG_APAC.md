@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-07 02:00 UTC_
+_Last updated: 2026-01-07 03:53 UTC_
 
 ## [MIPS Enabling Physical AI at the Autonomous Edge](https://www.eetasia.com/mips-enabling-physical-ai-at-the-autonomous-edge/)
 **Published:** Wed, 07 Jan 2026 00:24:37 +0000
