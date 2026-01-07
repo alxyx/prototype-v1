@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-07 05:39 UTC_
+_Last updated: 2026-01-07 06:48 UTC_
 
 ## [Aegis Aerospace and United Semiconductors Launch In-Space Advanced Materials Manufacturing Facility](https://www.eetasia.com/aegis-aerospace-and-united-semiconductors-launch-in-space-advanced-materials-manufacturing-facility/)
 **Published:** Wed, 07 Jan 2026 03:49:33 +0000
