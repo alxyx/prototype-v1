@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-07 21:34 UTC_
+_Last updated: 2026-01-07 22:37 UTC_
 
 ## [AI Triggers a New Memory Super Cycle](https://www.eetasia.com/ai-triggers-a-new-memory-super-cycle/)
 **Published:** Wed, 07 Jan 2026 08:47:28 +0000
@@ -31,6 +31,14 @@ _Last updated: 2026-01-07 21:34 UTC_
 
 <p>TI's new automotive semiconductors and development resources enhance the safety and autonomy across vehicle models.</p>
 <p>The post <a href="https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/">TI Expands Automotive Portfolio to Accelerate Shift Toward AVs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMI Industry Strategy Symposium 2026 Gathers Executives to Analyze Semiconductor Industry Challenges and Opportunities](https://www.semiconductor-digest.com/semi-industry-strategy-symposium-2026-gathers-executives-to-analyze-semiconductor-industry-challenges-and-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=semi-industry-strategy-symposium-2026-gathers-executives-to-analyze-semiconductor-industry-challenges-and-opportunities)
+**Published:** Wed, 07 Jan 2026 22:17:13 +0000
+
+<p>SEMI, the industry association serving the global semiconductor and electronics design and manufacturing supply chain, will hold its annual Industry Strategy Symposium (ISS) on Sunday, January 11 through Wednesday, January 14 at the Ritz-Carlton Hotel in Half Moon Bay, Calif.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-industry-strategy-symposium-2026-gathers-executives-to-analyze-semiconductor-industry-challenges-and-opportunities/">SEMI Industry Strategy Symposium 2026 Gathers Executives to Analyze Semiconductor Industry Challenges and Opportunities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -823,14 +831,6 @@ _Last updated: 2026-01-07 21:34 UTC_
 
 <p>New strategic partnership to include educational opportunities for RPI students, support for RPI faculty, STEM outreach, talent pipelines, curriculum development, and joint R&#038;D programs.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/rpi-and-globalfoundries-partner-on-semiconductor-research-education-and-workforce-development-initiatives/">RPI and GlobalFoundries Partner on Semiconductor Research, Education, and Workforce Development Initiatives</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Kneron Launches KL1140 Chip](https://www.semiconductor-digest.com/kneron-launches-kl1140-chip/?utm_source=rss&utm_medium=rss&utm_campaign=kneron-launches-kl1140-chip)
-**Published:** Mon, 24 Nov 2025 20:17:46 +0000
-
-<p>Kneron, the San Diego-based full-stack AI company pioneering neural processing units (NPUs), today announced the launch of its KL1140 chip, marking a major milestone in AI computing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kneron-launches-kl1140-chip/">Kneron Launches KL1140 Chip</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
