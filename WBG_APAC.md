@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-07 13:54 UTC_
+_Last updated: 2026-01-07 14:38 UTC_
 
 ## [AI Triggers a New Memory Super Cycle](https://www.eetasia.com/ai-triggers-a-new-memory-super-cycle/)
 **Published:** Wed, 07 Jan 2026 08:47:28 +0000
@@ -834,6 +834,14 @@ _Last updated: 2026-01-07 13:54 UTC_
 
 ---
 
+## [GaNext Introduces 9mΩ Automotive-Grade GaN FET, Achieving Energy Efficiency Breakthrough](https://www.powerelectronicsnews.com/ganext-introduces-9m%cf%89-automotive-grade-gan-fet-achieving-energy-efficiency-breakthrough/)
+**Published:** Wed, 07 Jan 2026 14:03:11 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="577" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/GaNext_Thumbnail.png?fit=1152%2C577" style="display: block; margin-bottom: 5px; clear: both;" width="1152" /><p>GaNext has announced the launch of the G2E65R009 series, a 650V Automotive-Grade GaN FET featuring a breakthrough 9mΩ on-state resistance (Rds(on)).</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ganext-introduces-9m%cf%89-automotive-grade-gan-fet-achieving-energy-efficiency-breakthrough/">GaNext Introduces 9mΩ Automotive-Grade GaN FET, Achieving Energy Efficiency Breakthrough</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [GaN HEMT Advantages in Multilevel Buck Converters](https://www.powerelectronicsnews.com/gan-hemt-advantages-in-multilevel-buck-converters/)
 **Published:** Wed, 07 Jan 2026 13:00:00 +0000
 
@@ -906,14 +914,6 @@ _Last updated: 2026-01-07 13:54 UTC_
 
 ---
 
-## [Grid Instability: The Energy Transition’s Primary Challenge](https://www.powerelectronicsnews.com/grid-instability-the-energy-transitions-primary-challenge/)
-**Published:** Thu, 01 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3584" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_1555138202.jpeg?fit=5376%2C3584" style="display: block; margin-bottom: 5px; clear: both;" width="5376" /><p>As renewable-backed grids grow, Conrad Energy suggests that grid stability must be prioritized over innovations in power generation.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/grid-instability-the-energy-transitions-primary-challenge/">Grid Instability: The Energy Transition&#8217;s Primary Challenge</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [TSMC to Lead Rivals at 2-nm Node, Analysts Say](https://www.eetimes.com/tsmc-to-lead-rivals-at-2-nm-node-analysts-say/)
 **Published:** Wed, 07 Jan 2026 13:00:00 +0000
 
@@ -954,10 +954,24 @@ _Last updated: 2026-01-07 13:54 UTC_
 
 ---
 
-## [JOB: Embedded Engineer At Eaton In Pune](https://www.electronicsforu.com/career/embedded-engineer-eaton-pune)
-**Published:** Tue, 06 Jan 2026 08:39:33 +0000
+## [JOB: Power Electronics Engineer At Bellatrix Aerospace In Bengaluru](https://www.electronicsforu.com/career/power-electronics-engineer-bellatrix-aerospace-bengaluru)
+**Published:** Wed, 07 Jan 2026 09:04:56 +0000
 
-<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton What you’ll do: Responsible for Firmware development for Electrical Industrial Controls products as part of Industrial Control Division(ICD), which is part of PCS. This includes, contribution in product development by understanding product requirements, design &#38; develop feature enhancements and implementation of industrial internet of things (IIOT) protocols like Modbus, BACNet, [&#8230;]
+<img alt="Hardware Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/Job-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Bellatrix Aerospace Position Overview Job Description Desired Qualification
+
+---
+
+## [Centralized AI And Sensor Fusion In Vehicles](https://www.electronicsforu.com/news/centralized-ai-and-sensor-fusion-in-vehicles)
+**Published:** Wed, 07 Jan 2026 06:50:14 +0000
+
+<img alt="Centralized AI And Sensor Fusion In Vehicles" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/TI-automotive-portfolio-autonomous-driving-applications-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Explore how semiconductors combining computing, sensing and networking deliver Level 3 autonomous driving and advanced driver assistance performance. As vehicles become more software defined and increasingly autonomous, automakers are under pressure to deliver faster AI decision making, accurate sensing, and reliable in vehicle connectivity across all vehicle segments. Achieving this at scale requires computing platforms [&#8230;]
+
+---
+
+## [ADCs Integrate DSP For Smarter Signal Chains](https://www.electronicsforu.com/news/adcs-integrate-dsp-for-smarter-signal-chains)
+**Published:** Wed, 07 Jan 2026 06:23:23 +0000
+
+<img alt="ADCs Integrate DSP For Smarter Signal Chains" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/np-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new family of high-speed data converters brings advanced digital signal processing directly onto the ADC, cutting system complexity, cost, and FPGA load in demanding signal-chain designs. A newly launched family of high-speed analog-to-digital converters (ADCs) by Silanna Semiconductor is reshaping signal-chain design by integrating a feature-rich digital signal processor (DSP) directly onto the converter. [&#8230;]
 
 ---
 
