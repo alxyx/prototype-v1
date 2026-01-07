@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-07 10:38 UTC_
+_Last updated: 2026-01-07 11:34 UTC_
 
 ## [AI Triggers a New Memory Super Cycle](https://www.eetasia.com/ai-triggers-a-new-memory-super-cycle/)
 **Published:** Wed, 07 Jan 2026 08:47:28 +0000
@@ -919,6 +919,14 @@ _Last updated: 2026-01-07 10:38 UTC_
 
 <p>Mitsubishi Electric’s higher-current SiC devices aim to revolutionize locomotive power converters.</p>
 <p>The post <a href="https://www.eetimes.com/higher-current-sic-devices-shrink-locomotive-power-converters/">Higher-Current SiC Devices Shrink Locomotive Power Converters</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Cadence and IP partners provide pre-validated packaged chiplets](https://www.electronicsweekly.com/news/products/cadence-and-ip-partners-provide-pre-validated-packaged-chiplets-2026-01/)
+**Published:** Wed, 07 Jan 2026 09:51:35 +0000
+
+<p>At CES 2026, Cadence announced an ecosystem which delivers pre-validated (spec-to-packaged parts) for physical AI, data centre and HPC (high performance computing). In Las Vegas, Cadence announced that Arm, Arteris, ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/cadence-and-ip-partners-provide-pre-validated-packaged-chiplets-2026-01/">Cadence and IP partners provide pre-validated packaged chiplets</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
