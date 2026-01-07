@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-06 23:34 UTC_
+_Last updated: 2026-01-07 02:00 UTC_
+
+## [MIPS Enabling Physical AI at the Autonomous Edge](https://www.eetasia.com/mips-enabling-physical-ai-at-the-autonomous-edge/)
+**Published:** Wed, 07 Jan 2026 00:24:37 +0000
+
+<p>The MIPS S8200 RISC-V NPU delivers support for transformer and agentic language AI models at the edge, increased efficiency, and performance improvements.</p>
+<p>The post <a href="https://www.eetasia.com/mips-enabling-physical-ai-at-the-autonomous-edge/">MIPS Enabling Physical AI at the Autonomous Edge</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [TI Expands Automotive Portfolio to Accelerate Shift Toward AVs](https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/)
 **Published:** Tue, 06 Jan 2026 12:11:34 +0000
