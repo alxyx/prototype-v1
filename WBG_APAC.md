@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-07 11:34 UTC_
+_Last updated: 2026-01-07 13:01 UTC_
 
 ## [AI Triggers a New Memory Super Cycle](https://www.eetasia.com/ai-triggers-a-new-memory-super-cycle/)
 **Published:** Wed, 07 Jan 2026 08:47:28 +0000
@@ -834,6 +834,22 @@ _Last updated: 2026-01-07 11:34 UTC_
 
 ---
 
+## [GaN HEMT Advantages in Multilevel Buck Converters](https://www.powerelectronicsnews.com/gan-hemt-advantages-in-multilevel-buck-converters/)
+**Published:** Wed, 07 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_1508699708.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>The benefits of using GaN multilevel switched-capacitor (SC) converters for 48-V-to-PoL conversion in data centers, powering xPUs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/gan-hemt-advantages-in-multilevel-buck-converters/">GaN HEMT Advantages in Multilevel Buck Converters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Cambridge GaN Devices Appoints Fabio Necco as New CEO](https://www.powerelectronicsnews.com/cambridge-gan-devices-appoints-fabio-necco-as-new-ceo/)
+**Published:** Wed, 07 Jan 2026 13:00:00 +0000
+
+<img alt="Cambridge GaN Devices Appoints Fabio Necco as New CEO." class="webfeedsFeaturedVisual wp-post-image" height="3456" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Giorgia-and-Fabio-1.jpg?fit=4608%2C3456" style="display: block; margin-bottom: 5px; clear: both;" width="4608" /><p>The move is intended to accelerate CGD’s expansion and strengthen its presence across several strategically important and high-growth markets.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/cambridge-gan-devices-appoints-fabio-necco-as-new-ceo/">Cambridge GaN Devices Appoints Fabio Necco as New CEO</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Understanding IVRs and their impact on xPU throughput](https://www.powerelectronicsnews.com/understanding-ivrs-and-their-impact-on-xpu-throughput/)
 **Published:** Tue, 06 Jan 2026 13:00:00 +0000
 
@@ -898,19 +914,11 @@ _Last updated: 2026-01-07 11:34 UTC_
 
 ---
 
-## [Designing for High-Voltage Isolation in Medical Devices, Part 2](https://www.powerelectronicsnews.com/designing-for-high-voltage-isolation-in-medical-devices-part-2/)
-**Published:** Wed, 31 Dec 2025 13:00:00 +0000
+## [TSMC to Lead Rivals at 2-nm Node, Analysts Say](https://www.eetimes.com/tsmc-to-lead-rivals-at-2-nm-node-analysts-say/)
+**Published:** Wed, 07 Jan 2026 13:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="741" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_2bf811.png?fit=905%2C741" style="display: block; margin-bottom: 5px; clear: both;" width="905" /><p>A two-part series on HV isolation design for medical devices with design approaches that consider OVC, CTI, pollution degree, and more. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/designing-for-high-voltage-isolation-in-medical-devices-part-2/">Designing for High-Voltage Isolation in Medical Devices, Part 2</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [X-FAB Grows GaN-on-Si Foundry Services With D-mode Technology](https://www.powerelectronicsnews.com/x-fab-grows-gan-on-si-foundry-services-with-d-mode-technology/)
-**Published:** Wed, 31 Dec 2025 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3078" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/GaN_1.jpg?fit=2785%2C3078" style="display: block; margin-bottom: 5px; clear: both;" width="2785" /><p>X-FAB launched GaN-on-Si foundry capabilities for depletion-mode (d-mode) devices utilizing its XG035 process, solidifying its position as a dedicated foundry for both GaN and SiC applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/x-fab-grows-gan-on-si-foundry-services-with-d-mode-technology/">X-FAB Grows GaN-on-Si Foundry Services With D-mode Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>TSMC’s N2 tech positions the foundry to lead advanced semiconductor nodes for years.</p>
+<p>The post <a href="https://www.eetimes.com/tsmc-to-lead-rivals-at-2-nm-node-analysts-say/">TSMC to Lead Rivals at 2-nm Node, Analysts Say</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
