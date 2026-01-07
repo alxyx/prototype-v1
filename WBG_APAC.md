@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-07 22:37 UTC_
+_Last updated: 2026-01-07 23:35 UTC_
 
 ## [AI Triggers a New Memory Super Cycle](https://www.eetasia.com/ai-triggers-a-new-memory-super-cycle/)
 **Published:** Wed, 07 Jan 2026 08:47:28 +0000
@@ -31,6 +31,30 @@ _Last updated: 2026-01-07 22:37 UTC_
 
 <p>TI's new automotive semiconductors and development resources enhance the safety and autonomy across vehicle models.</p>
 <p>The post <a href="https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/">TI Expands Automotive Portfolio to Accelerate Shift Toward AVs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Optics Research Uses Dim Light to Produce Bright LEDs](https://www.semiconductor-digest.com/optics-research-uses-dim-light-to-produce-bright-leds/?utm_source=rss&utm_medium=rss&utm_campaign=optics-research-uses-dim-light-to-produce-bright-leds)
+**Published:** Wed, 07 Jan 2026 22:58:41 +0000
+
+<p>Researchers at Princeton and North Carolina State University have developed a technique that substantially improves the ability to convert low-energy light into a high-energy version.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/optics-research-uses-dim-light-to-produce-bright-leds/">Optics Research Uses Dim Light to Produce Bright LEDs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [GSME Secures $35M Series B Funding](https://www.semiconductor-digest.com/gsme-secures-35m-series-b-funding/?utm_source=rss&utm_medium=rss&utm_campaign=gsme-secures-35m-series-b-funding)
+**Published:** Wed, 07 Jan 2026 22:53:45 +0000
+
+<p>GS Microelectronics U.S., Inc. (GSME) today announced a $35 million Series B round led by Maverick Silicon to expand its semiconductor services platform across advanced packaging, design enablement, and supply chain visibility.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/gsme-secures-35m-series-b-funding/">GSME Secures $35M Series B Funding</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AECO Corp. Announces Promotion of Maryann Remner to President](https://www.semiconductor-digest.com/aeco-corp-announces-promotion-of-maryann-remner-to-president/?utm_source=rss&utm_medium=rss&utm_campaign=aeco-corp-announces-promotion-of-maryann-remner-to-president)
+**Published:** Wed, 07 Jan 2026 22:25:58 +0000
+
+<p>AECO Corp. announced the promotion of Maryann Remner to President, effective immediately.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/aeco-corp-announces-promotion-of-maryann-remner-to-president/">AECO Corp. Announces Promotion of Maryann Remner to President</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,30 +831,6 @@ _Last updated: 2026-01-07 22:37 UTC_
 
 <p>From cleaner polymerization processes to tailored formulations and compounding with specialized conductive and lubricating technologies, new improvements can help the industry achieve higher yields and greater profitability.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/advanced-engineering-thermoplastics-address-evolving-requirements-for-semiconductor-wafer-handling-systems/">Advanced Engineering Thermoplastics Address Evolving Requirements for Semiconductor Wafer Handling Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Higher-Performance Polyimide Materials for Semiconductor Applications](https://www.semiconductor-digest.com/higher-performance-polyimide-materials-for-semiconductor-applications/?utm_source=rss&utm_medium=rss&utm_campaign=higher-performance-polyimide-materials-for-semiconductor-applications)
-**Published:** Tue, 25 Nov 2025 13:39:06 +0000
-
-<p>New high-performance and composite polyimides offer increased mechanical properties, wider temperature capabilities, greater dimensional stability, and enhanced wear performance.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/higher-performance-polyimide-materials-for-semiconductor-applications/">Higher-Performance Polyimide Materials for Semiconductor Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Extending the Life of Legacy Fabs Through Smarter Pendulum Valve Management](https://www.semiconductor-digest.com/extending-the-life-of-legacy-fabs-through-smarter-pendulum-valve-management/?utm_source=rss&utm_medium=rss&utm_campaign=extending-the-life-of-legacy-fabs-through-smarter-pendulum-valve-management)
-**Published:** Tue, 25 Nov 2025 13:24:52 +0000
-
-<p>Reliability in critical components such as pendulum valves can be the difference between meeting output targets and facing costly shutdowns. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/extending-the-life-of-legacy-fabs-through-smarter-pendulum-valve-management/">Extending the Life of Legacy Fabs Through Smarter Pendulum Valve Management</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [RPI and GlobalFoundries Partner on Semiconductor Research, Education, and Workforce Development Initiatives](https://www.semiconductor-digest.com/rpi-and-globalfoundries-partner-on-semiconductor-research-education-and-workforce-development-initiatives/?utm_source=rss&utm_medium=rss&utm_campaign=rpi-and-globalfoundries-partner-on-semiconductor-research-education-and-workforce-development-initiatives)
-**Published:** Mon, 24 Nov 2025 20:22:32 +0000
-
-<p>New strategic partnership to include educational opportunities for RPI students, support for RPI faculty, STEM outreach, talent pipelines, curriculum development, and joint R&#038;D programs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rpi-and-globalfoundries-partner-on-semiconductor-research-education-and-workforce-development-initiatives/">RPI and GlobalFoundries Partner on Semiconductor Research, Education, and Workforce Development Initiatives</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
