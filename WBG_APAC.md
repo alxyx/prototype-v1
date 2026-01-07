@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-07 13:01 UTC_
+_Last updated: 2026-01-07 13:54 UTC_
 
 ## [AI Triggers a New Memory Super Cycle](https://www.eetasia.com/ai-triggers-a-new-memory-super-cycle/)
 **Published:** Wed, 07 Jan 2026 08:47:28 +0000
