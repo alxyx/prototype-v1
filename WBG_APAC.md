@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-08 11:35 UTC_
+_Last updated: 2026-01-08 13:03 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -842,6 +842,14 @@ _Last updated: 2026-01-08 11:35 UTC_
 
 ---
 
+## [How MEMS Technology Is Transforming RF and Power Control](https://www.powerelectronicsnews.com/how-mems-technology-is-transforming-rf-and-power-control/)
+**Published:** Thu, 08 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="587" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_a4b0f0.jpeg?fit=964%2C587" style="display: block; margin-bottom: 5px; clear: both;" width="964" /><p>Ultra-low-power actuation can be achieved with MEMS utilizing through-glass via technology, controlling both power and signal frequency.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/how-mems-technology-is-transforming-rf-and-power-control/">How MEMS Technology Is Transforming RF and Power Control</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [GaNext Introduces 9mΩ Automotive-Grade GaN FET, Achieving Energy Efficiency Breakthrough](https://www.powerelectronicsnews.com/ganext-introduces-9m%cf%89-automotive-grade-gan-fet-achieving-energy-efficiency-breakthrough/)
 **Published:** Wed, 07 Jan 2026 14:03:11 +0000
 
@@ -914,11 +922,11 @@ _Last updated: 2026-01-08 11:35 UTC_
 
 ---
 
-## [IMEC Achieves Record High Voltage GaN Results](https://www.powerelectronicsnews.com/imec-achieves-record-high-voltage-gan-results/)
-**Published:** Thu, 01 Jan 2026 13:00:00 +0000
+## [VLSI Design Conference 2026: Experts Advocate Product-Led Chip Push for India](https://www.eetimes.com/vlsi-design-conference-2026-experts-advocate-product-led-chip-push-for-india/)
+**Published:** Thu, 08 Jan 2026 13:00:00 +0000
 
-<img alt="IMEC Achieves Record High Voltage GaN Results." class="webfeedsFeaturedVisual wp-post-image" height="1196" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Figure_202_20-_20300mm_20GaN_20mask_20set.png?fit=943%2C1196" style="display: block; margin-bottom: 5px; clear: both;" width="943" /><p>Shin-Etsu Chemical’s 300mm QST substrate allows thick-film GaN epitaxial growth on 300mm wafers for high-voltage applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/imec-achieves-record-high-voltage-gan-results/">IMEC Achieves Record High Voltage GaN Results</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Industry leaders at VLSI 2026 urge India to pursue product-led semiconductor growth.</p>
+<p>The post <a href="https://www.eetimes.com/vlsi-design-conference-2026-experts-advocate-product-led-chip-push-for-india/">VLSI Design Conference 2026: Experts Advocate Product-Led Chip Push for India</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -930,14 +938,6 @@ _Last updated: 2026-01-08 11:35 UTC_
 
 ---
 
-## [Higher-Current SiC Devices Shrink Locomotive Power Converters](https://www.eetimes.com/higher-current-sic-devices-shrink-locomotive-power-converters/)
-**Published:** Tue, 06 Jan 2026 08:00:00 +0000
-
-<p>Mitsubishi Electric’s higher-current SiC devices aim to revolutionize locomotive power converters.</p>
-<p>The post <a href="https://www.eetimes.com/higher-current-sic-devices-shrink-locomotive-power-converters/">Higher-Current SiC Devices Shrink Locomotive Power Converters</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
 ## [Cadence and IP partners provide pre-validated packaged chiplets](https://www.electronicsweekly.com/news/products/cadence-and-ip-partners-provide-pre-validated-packaged-chiplets-2026-01/)
 **Published:** Wed, 07 Jan 2026 09:51:35 +0000
 
@@ -946,24 +946,17 @@ _Last updated: 2026-01-08 11:35 UTC_
 
 ---
 
-## [JOB: Power Electronics Engineer At Bellatrix Aerospace In Bengaluru](https://www.electronicsforu.com/career/power-electronics-engineer-bellatrix-aerospace-bengaluru)
-**Published:** Wed, 07 Jan 2026 09:04:56 +0000
+## [“Embedded AI Is No Longer Waiting For The Cloud” – Henrik Flodell From Alif Semiconductor](https://www.electronicsforu.com/technology-trends/embedded-ai-no-longer-waiting-for-cloud-henrik-flodell-alif-semiconductor)
+**Published:** Thu, 08 Jan 2026 08:33:42 +0000
 
-<img alt="Hardware Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/Job-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Bellatrix Aerospace Position Overview Job Description Desired Qualification
-
----
-
-## [Centralized AI And Sensor Fusion In Vehicles](https://www.electronicsforu.com/news/centralized-ai-and-sensor-fusion-in-vehicles)
-**Published:** Wed, 07 Jan 2026 06:50:14 +0000
-
-<img alt="Centralized AI And Sensor Fusion In Vehicles" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/TI-automotive-portfolio-autonomous-driving-applications-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Explore how semiconductors combining computing, sensing and networking deliver Level 3 autonomous driving and advanced driver assistance performance. As vehicles become more software defined and increasingly autonomous, automakers are under pressure to deliver faster AI decision making, accurate sensing, and reliable in vehicle connectivity across all vehicle segments. Achieving this at scale requires computing platforms [&#8230;]
+<img alt=" “Embedded AI Is No Longer Waiting For The Cloud” - Henrik Flodell From Alif Semiconductor" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/Henrik-Flodell-of-Alif-Semiconductor-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Transformer-level AI running natively on MCUs was once considered impossible. Today, it is becoming a reality, with implications that extend far beyond early expectations. In this interview, Henrik Flodell of Alif Semiconductor tells EFY’s Akanksha Sondhi Gaur how the new ExecuTorch–PyTorch pipeline enables developers to deploy real-time, high-accuracy models on tiny embedded devices without architectural [&#8230;]
 
 ---
 
-## [ADCs Integrate DSP For Smarter Signal Chains](https://www.electronicsforu.com/news/adcs-integrate-dsp-for-smarter-signal-chains)
-**Published:** Wed, 07 Jan 2026 06:23:23 +0000
+## [JOB: Power Electronics Design Engineer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/power-electronics-design-engineer-capgemini-bengaluru)
+**Published:** Thu, 08 Jan 2026 07:43:08 +0000
 
-<img alt="ADCs Integrate DSP For Smarter Signal Chains" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/np-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new family of high-speed data converters brings advanced digital signal processing directly onto the ADC, cutting system complexity, cost, and FPGA load in demanding signal-chain designs. A newly launched family of high-speed analog-to-digital converters (ADCs) by Silanna Semiconductor is reshaping signal-chain design by integrating a feature-rich digital signal processor (DSP) directly onto the converter. [&#8230;]
+<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini The ideal candidate should demonstrate hands‑on hardware development, testing, debugging, component selection, layout proficiency, and leadership capabilities to drive work packages independently while mentoring junior team members. Your Profile 4–8 years of experience. Required Technical Skills
 
 ---
 
