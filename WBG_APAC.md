@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-08 20:41 UTC_
+_Last updated: 2026-01-08 21:37 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -39,6 +39,14 @@ _Last updated: 2026-01-08 20:41 UTC_
 
 <p>TI's new automotive semiconductors and development resources enhance the safety and autonomy across vehicle models.</p>
 <p>The post <a href="https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/">TI Expands Automotive Portfolio to Accelerate Shift Toward AVs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Greene Tweed Highlights Dedicated PFAS-Free Product Portfolio for the Evolving Fluoropolymers Landscape](https://www.semiconductor-digest.com/greene-tweed-highlights-dedicated-pfas-free-product-portfolio-for-the-evolving-fluoropolymers-landscape/?utm_source=rss&utm_medium=rss&utm_campaign=greene-tweed-highlights-dedicated-pfas-free-product-portfolio-for-the-evolving-fluoropolymers-landscape)
+**Published:** Thu, 08 Jan 2026 21:17:36 +0000
+
+<p>This expanding portfolio reinforces Greene Tweed’s commitment to its role as a material innovator and trusted partner in helping customers navigate the use of PFAS-free products.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/greene-tweed-highlights-dedicated-pfas-free-product-portfolio-for-the-evolving-fluoropolymers-landscape/">Greene Tweed Highlights Dedicated PFAS-Free Product Portfolio for the Evolving Fluoropolymers Landscape</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -831,14 +839,6 @@ _Last updated: 2026-01-08 20:41 UTC_
 
 <p>The need for innovation has never been greater, and the opportunity to shape the future has never been more accessible. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/bringing-the-industry-together/">Bringing the Industry Together</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Advanced Engineering Thermoplastics Address Evolving Requirements for Semiconductor Wafer Handling Systems](https://www.semiconductor-digest.com/advanced-engineering-thermoplastics-address-evolving-requirements-for-semiconductor-wafer-handling-systems/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-engineering-thermoplastics-address-evolving-requirements-for-semiconductor-wafer-handling-systems)
-**Published:** Tue, 25 Nov 2025 13:47:19 +0000
-
-<p>From cleaner polymerization processes to tailored formulations and compounding with specialized conductive and lubricating technologies, new improvements can help the industry achieve higher yields and greater profitability.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/advanced-engineering-thermoplastics-address-evolving-requirements-for-semiconductor-wafer-handling-systems/">Advanced Engineering Thermoplastics Address Evolving Requirements for Semiconductor Wafer Handling Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
