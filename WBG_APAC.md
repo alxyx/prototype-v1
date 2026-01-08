@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-08 13:55 UTC_
+_Last updated: 2026-01-08 14:39 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -842,6 +842,14 @@ _Last updated: 2026-01-08 13:55 UTC_
 
 ---
 
+## [Allegro Expands Power-Thru Gate Driver Portfolio](https://www.powerelectronicsnews.com/allegro-expands-power-thru-gate-driver-portfolio/)
+**Published:** Thu, 08 Jan 2026 14:13:47 +0000
+
+<img alt="Allegro Expands Power-Thru™ Gate Driver Portfolio for High-Voltage SiC Applications." class="webfeedsFeaturedVisual wp-post-image" height="320" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/press-ahv85003-85043-640x480-1.png?fit=427%2C320" style="display: block; margin-bottom: 5px; clear: both;" width="427" /><p>The expanded Power-Thru™ gate driver portfolio simplifies SiC power design for AI data centers and electric vehicles (EVs).</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/allegro-expands-power-thru-gate-driver-portfolio/">Allegro Expands Power-Thru Gate Driver Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [How MEMS Technology Is Transforming RF and Power Control](https://www.powerelectronicsnews.com/how-mems-technology-is-transforming-rf-and-power-control/)
 **Published:** Thu, 08 Jan 2026 13:00:00 +0000
 
@@ -911,14 +919,6 @@ _Last updated: 2026-01-08 13:55 UTC_
 
 <img alt="Murata Announces Mass Production of 1.25kV C0G MLCC." class="webfeedsFeaturedVisual wp-post-image" height="478" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Murata_PR.png?fit=659%2C478" style="display: block; margin-bottom: 5px; clear: both;" width="659" /><p>The 15nF/1.25kV C0G MLCC is well-suited for EV onboard chargers and power supplies in consumer applications.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/murata-announces-mass-production-of-1-25kv-c0g-mlcc/">Murata Announces Mass Production of 1.25kV C0G MLCC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Single-Event Effect Characterization of EPC Space’s 100-V GaN](https://www.powerelectronicsnews.com/single-event-effect-characterization-of-epc-spaces-100-v-gan/)
-**Published:** Fri, 02 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1632" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_1277183729.jpeg?fit=2912%2C1632" style="display: block; margin-bottom: 5px; clear: both;" width="2912" /><p>A report on the EPC Space's SEE characterization of radiation-hardened 100-V GaN-on-Si transistors at multiple heavy-ion incidence angles. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/single-event-effect-characterization-of-epc-spaces-100-v-gan/">Single-Event Effect Characterization of EPC Space&#8217;s 100-V GaN</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
