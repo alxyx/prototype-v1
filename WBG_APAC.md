@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-08 06:48 UTC_
+_Last updated: 2026-01-08 07:39 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -943,22 +943,6 @@ _Last updated: 2026-01-08 06:48 UTC_
 
 <p>At CES 2026, Cadence announced an ecosystem which delivers pre-validated (spec-to-packaged parts) for physical AI, data centre and HPC (high performance computing). In Las Vegas, Cadence announced that Arm, Arteris, ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/products/cadence-and-ip-partners-provide-pre-validated-packaged-chiplets-2026-01/">Cadence and IP partners provide pre-validated packaged chiplets</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Dual 12-bit 170Msample/s ADCs with DSP](https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/dual-12bit-170msample-s-adcs-with-dsp-2026-01/)
-**Published:** Tue, 06 Jan 2026 15:30:25 +0000
-
-<p>Silanna Semiconductor has added onboard DSP variants to its family of ADCs. &#8220;The integration of a DSP brings several functions on-chip, including decimation, digital down-conversion, interleaving and IQ-mismatch correction &#8211; ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/dual-12bit-170msample-s-adcs-with-dsp-2026-01/">Dual 12-bit 170Msample/s ADCs with DSP</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [CES: Nordic adds NPU to wireless MCU](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/ces-nordic-adds-npu-to-wireless-mcu-2026-01/)
-**Published:** Tue, 06 Jan 2026 14:25:03 +0000
-
-<p>At CES, Nordic Semiconductor announced a wireless MCU with a 128MHz neural processing unit, 512kbyte of ram and 2Mbyte of non-volatile memory. Called nRF54LM20B, it is aimed at battery-powered local ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/ces-nordic-adds-npu-to-wireless-mcu-2026-01/">CES: Nordic adds NPU to wireless MCU</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
