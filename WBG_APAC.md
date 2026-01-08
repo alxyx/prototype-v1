@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-07 23:35 UTC_
+_Last updated: 2026-01-08 02:00 UTC_
+
+## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
+**Published:** Wed, 07 Jan 2026 23:53:32 +0000
+
+<p>Nordic Semiconductor is bringing AI intelligence and functionality to the smallest battery-powered IoT devices.</p>
+<p>The post <a href="https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/">Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [AI Triggers a New Memory Super Cycle](https://www.eetasia.com/ai-triggers-a-new-memory-super-cycle/)
 **Published:** Wed, 07 Jan 2026 08:47:28 +0000
