@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-08 22:36 UTC_
+_Last updated: 2026-01-08 23:33 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -39,6 +39,14 @@ _Last updated: 2026-01-08 22:36 UTC_
 
 <p>TI's new automotive semiconductors and development resources enhance the safety and autonomy across vehicle models.</p>
 <p>The post <a href="https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/">TI Expands Automotive Portfolio to Accelerate Shift Toward AVs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Micron Announces Groundbreaking for Historic New York Megafab](https://www.semiconductor-digest.com/micron-announces-groundbreaking-for-historic-new-york-megafab/?utm_source=rss&utm_medium=rss&utm_campaign=micron-announces-groundbreaking-for-historic-new-york-megafab)
+**Published:** Thu, 08 Jan 2026 22:26:32 +0000
+
+<p>Marking the start of construction on the largest semiconductor manufacturing facility in U.S. history, Micron executives to join federal, state and local leaders to celebrate the $100 billion project in Central New York.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-announces-groundbreaking-for-historic-new-york-megafab/">Micron Announces Groundbreaking for Historic New York Megafab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -831,14 +839,6 @@ _Last updated: 2026-01-08 22:36 UTC_
 
 <p>The global plating chemicals market is projected to reach US$1,381M in 2025, up 9.3% from 2024.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/rising-copper-plating-demand-in-semiconductors-driven-by-advanced-packaging-and-fe-interconnects/">Rising Copper Plating Demand in Semiconductors Driven by Advanced Packaging and FE Interconnects</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ASM’s “From Sand to Stars” Exhibition Sparks Semiconductor Curiosity](https://www.semiconductor-digest.com/asms-from-sand-to-stars-exhibition-sparks-semiconductor-curiosity/?utm_source=rss&utm_medium=rss&utm_campaign=asms-from-sand-to-stars-exhibition-sparks-semiconductor-curiosity)
-**Published:** Tue, 25 Nov 2025 21:17:28 +0000
-
-<p>Global semiconductor equipment supplier with a half-century in Arizona, debuted semiconductor science exhibition and funds 50 school field trips.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/asms-from-sand-to-stars-exhibition-sparks-semiconductor-curiosity/">ASM&#8217;s &#8220;From Sand to Stars&#8221; Exhibition Sparks Semiconductor Curiosity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
