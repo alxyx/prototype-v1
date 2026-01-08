@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-08 21:37 UTC_
+_Last updated: 2026-01-08 22:36 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -39,6 +39,14 @@ _Last updated: 2026-01-08 21:37 UTC_
 
 <p>TI's new automotive semiconductors and development resources enhance the safety and autonomy across vehicle models.</p>
 <p>The post <a href="https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/">TI Expands Automotive Portfolio to Accelerate Shift Toward AVs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEEQC Establishes US-Taiwan Quantum Technology Ecosystem Through Strategic Partnerships in Advanced Electronics and Semiconductor Manufacturing  Share](https://www.semiconductor-digest.com/seeqc-establishes-us-taiwan-quantum-technology-ecosystem-through-strategic-partnerships-in-advanced-electronics-and-semiconductor-manufacturing-share/?utm_source=rss&utm_medium=rss&utm_campaign=seeqc-establishes-us-taiwan-quantum-technology-ecosystem-through-strategic-partnerships-in-advanced-electronics-and-semiconductor-manufacturing-share)
+**Published:** Thu, 08 Jan 2026 22:04:37 +0000
+
+<p>SEEQC today announced a new US-Taiwan quantum technology ecosystem that brings together leading semiconductor, electronics, and academic partners to accelerate the commercialization of its Single Flux Quantum (SFQ)-based quantum computing platform.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/seeqc-establishes-us-taiwan-quantum-technology-ecosystem-through-strategic-partnerships-in-advanced-electronics-and-semiconductor-manufacturing-share/">SEEQC Establishes US-Taiwan Quantum Technology Ecosystem Through Strategic Partnerships in Advanced Electronics and Semiconductor Manufacturing  Share</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -831,14 +839,6 @@ _Last updated: 2026-01-08 21:37 UTC_
 
 <p>Global semiconductor equipment supplier with a half-century in Arizona, debuted semiconductor science exhibition and funds 50 school field trips.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/asms-from-sand-to-stars-exhibition-sparks-semiconductor-curiosity/">ASM&#8217;s &#8220;From Sand to Stars&#8221; Exhibition Sparks Semiconductor Curiosity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Bringing the Industry Together](https://www.semiconductor-digest.com/bringing-the-industry-together/?utm_source=rss&utm_medium=rss&utm_campaign=bringing-the-industry-together)
-**Published:** Tue, 25 Nov 2025 14:01:36 +0000
-
-<p>The need for innovation has never been greater, and the opportunity to shape the future has never been more accessible. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/bringing-the-industry-together/">Bringing the Industry Together</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
