@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-09 06:49 UTC_
+_Last updated: 2026-01-09 07:40 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -938,11 +938,11 @@ _Last updated: 2026-01-09 06:49 UTC_
 
 ---
 
-## [Cadence and IP partners provide pre-validated packaged chiplets](https://www.electronicsweekly.com/news/products/cadence-and-ip-partners-provide-pre-validated-packaged-chiplets-2026-01/)
-**Published:** Wed, 07 Jan 2026 09:51:35 +0000
+## [November semi revenues up 29.8% y-o-y](https://www.electronicsweekly.com/news/business/november-semi-revenues-up-29-8-y-o-y-2026-01/)
+**Published:** Fri, 09 Jan 2026 06:20:21 +0000
 
-<p>At CES 2026, Cadence announced an ecosystem which delivers pre-validated (spec-to-packaged parts) for physical AI, data centre and HPC (high performance computing). In Las Vegas, Cadence announced that Arm, Arteris, ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/cadence-and-ip-partners-provide-pre-validated-packaged-chiplets-2026-01/">Cadence and IP partners provide pre-validated packaged chiplets</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>November semiconductor revenues of $75.3 billion were up 29.8% on the $58 billion of November 2004 and up 3.5% on the October  2025 total of $72.7 billion, reports thevSIA. “The ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/november-semi-revenues-up-29-8-y-o-y-2026-01/">November semi revenues up 29.8% y-o-y</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
