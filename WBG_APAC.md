@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-09 09:42 UTC_
+_Last updated: 2026-01-09 10:38 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -946,17 +946,24 @@ _Last updated: 2026-01-09 09:42 UTC_
 
 ---
 
-## [“Embedded AI Is No Longer Waiting For The Cloud” – Henrik Flodell From Alif Semiconductor](https://www.electronicsforu.com/technology-trends/embedded-ai-no-longer-waiting-for-cloud-henrik-flodell-alif-semiconductor)
-**Published:** Thu, 08 Jan 2026 08:33:42 +0000
+## [JOB: Senior Engineer At Eaton In Puducherry](https://www.electronicsforu.com/career/senior-engineer-eaton-puducherry)
+**Published:** Fri, 09 Jan 2026 08:52:59 +0000
 
-<img alt=" “Embedded AI Is No Longer Waiting For The Cloud” - Henrik Flodell From Alif Semiconductor" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/Henrik-Flodell-of-Alif-Semiconductor-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Transformer-level AI running natively on MCUs was once considered impossible. Today, it is becoming a reality, with implications that extend far beyond early expectations. In this interview, Henrik Flodell of Alif Semiconductor tells EFY’s Akanksha Sondhi Gaur how the new ExecuTorch–PyTorch pipeline enables developers to deploy real-time, high-accuracy models on tiny embedded devices without architectural [&#8230;]
+<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Puducherry Company: Eaton What You’ll Do Should be able to identify required changes in the firmware and complete UPS &#38; board level test to address issues from the field, customisation and new product development.      Qualifications Skills Strong knowledge of:
 
 ---
 
-## [JOB: Power Electronics Design Engineer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/power-electronics-design-engineer-capgemini-bengaluru)
-**Published:** Thu, 08 Jan 2026 07:43:08 +0000
+## [JOB: Power Electronics Engineer At Cyient In Bengaluru](https://www.electronicsforu.com/career/power-electronics-engineer-cyient-bengaluru)
+**Published:** Fri, 09 Jan 2026 07:57:09 +0000
 
-<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini The ideal candidate should demonstrate hands‑on hardware development, testing, debugging, component selection, layout proficiency, and leadership capabilities to drive work packages independently while mentoring junior team members. Your Profile 4–8 years of experience. Required Technical Skills
+<img alt="JOB: Power Electronics Engineer At Cyient In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/04/Cyient-DLM-Hyd-office-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Cyient Job Description Skills Required Power Systems Control, Power Converters, Power Electronics Design, Power Electronics, Power Systems Reliability, Electrical Power Engineering, Power System Protection
+
+---
+
+## [Faster Etching Boosts Chip Manufacturing](https://www.electronicsforu.com/news/faster-etching-boosts-chip-manufacturing)
+**Published:** Fri, 09 Jan 2026 06:58:54 +0000
+
+<img alt="Faster Etching Boosts Chip Manufacturing" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new cryogenic plasma etching technique developed by Japanese researchers dramatically accelerates semiconductor fabrication while cutting environmental impact, offering a potential breakthrough for advanced electronics and 3D chip architectures. Researchers from Nagoya University and Tokyo Electron Miyagi Ltd. have developed a semiconductor etching process that boosts etch rates up to five times compared with conventional [&#8230;]
 
 ---
 
