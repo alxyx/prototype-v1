@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-08 23:33 UTC_
+_Last updated: 2026-01-09 02:01 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -935,14 +935,6 @@ _Last updated: 2026-01-08 23:33 UTC_
 
 <p>TSMC’s N2 tech positions the foundry to lead advanced semiconductor nodes for years.</p>
 <p>The post <a href="https://www.eetimes.com/tsmc-to-lead-rivals-at-2-nm-node-analysts-say/">TSMC to Lead Rivals at 2-nm Node, Analysts Say</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Cadence and IP partners provide pre-validated packaged chiplets](https://www.electronicsweekly.com/news/products/cadence-and-ip-partners-provide-pre-validated-packaged-chiplets-2026-01/)
-**Published:** Wed, 07 Jan 2026 09:51:35 +0000
-
-<p>At CES 2026, Cadence announced an ecosystem which delivers pre-validated (spec-to-packaged parts) for physical AI, data centre and HPC (high performance computing). In Las Vegas, Cadence announced that Arm, Arteris, ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/cadence-and-ip-partners-provide-pre-validated-packaged-chiplets-2026-01/">Cadence and IP partners provide pre-validated packaged chiplets</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
