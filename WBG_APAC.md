@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-09 21:35 UTC_
+_Last updated: 2026-01-09 22:36 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -842,6 +842,14 @@ _Last updated: 2026-01-09 21:35 UTC_
 
 ---
 
+## [Power innovations at CES 2026](https://www.powerelectronicsnews.com/power-innovations-at-ces-2026/)
+**Published:** Fri, 09 Jan 2026 21:52:37 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="277" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Figure-4-2.png?fit=575%2C277" style="display: block; margin-bottom: 5px; clear: both;" width="575" /><p>CES 2026 showcased innovative power technologies, including chip-scale cooling, battery-free AI vision, SSBs, and ultra-low-power wireless systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-innovations-at-ces-2026/">Power innovations at CES 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Infineon Develops the First 20-MHz-Only Wi-Fi 7 Device](https://www.powerelectronicsnews.com/infineon-develops-the-first-20-mhz-only-wi-fi-7-device/)
 **Published:** Fri, 09 Jan 2026 13:00:00 +0000
 
@@ -911,14 +919,6 @@ _Last updated: 2026-01-09 21:35 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="709" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_ab3f4a.jpeg?fit=1600%2C709" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>Wide-bandgap (WBG) power semiconductor devices based on silicon carbide (SiC) and gallium nitride (GaN) enable improved power conversion efficiencies. The improved power density that they...</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/thermal-packaging-advances-for-sic-and-gan-semiconductors/">Thermal Packaging Advances for SiC and GaN Semiconductors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TI TDA5 Automotive SoC Delivers 24 TOPS/W](https://www.powerelectronicsnews.com/ti-tda5-automotive-soc-delivers-24-tops-w/)
-**Published:** Mon, 05 Jan 2026 15:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="398" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/TI-SDV.png?fit=536%2C398" style="display: block; margin-bottom: 5px; clear: both;" width="536" /><p>The TDA5 automotive SoC delivers up to 1200 TOPS and 24 TOP/W performance without the need for liquid cooling. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/ti-tda5-automotive-soc-delivers-24-tops-w/">TI TDA5 Automotive SoC Delivers 24 TOPS/W </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
