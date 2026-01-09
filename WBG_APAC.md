@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-09 15:39 UTC_
+_Last updated: 2026-01-09 16:43 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -39,6 +39,14 @@ _Last updated: 2026-01-09 15:39 UTC_
 
 <p>TI's new automotive semiconductors and development resources enhance the safety and autonomy across vehicle models.</p>
 <p>The post <a href="https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/">TI Expands Automotive Portfolio to Accelerate Shift Toward AVs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [2026 Outlook: Executive Viewpoints](https://www.semiconductor-digest.com/2026-outlook-executive-viewpoints/?utm_source=rss&utm_medium=rss&utm_campaign=2026-outlook-executive-viewpoints)
+**Published:** Fri, 09 Jan 2026 15:53:57 +0000
+
+<p>Each year, Semiconductor Digest turns to industry leaders and analysts to get their viewpoints on what they expect to see in the coming year in terms of critical tech and business trends. Hot topics continue to be artificial intelligence, cloud computing, energy efficiency, the supply chain, increased use of compound semiconductors, advanced packaging, 3D integration, chiplets and sustainability. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/2026-outlook-executive-viewpoints/">2026 Outlook: Executive Viewpoints</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -831,14 +839,6 @@ _Last updated: 2026-01-09 15:39 UTC_
 
 <p>Every cleanroom protocol, every vibration test, every engineered crate is part of a larger mission: to ensure that the most advanced components in the world arrive at their destination in perfect condition.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/specialized-packaging-in-the-semiconductor-industry-why-every-micron-matters/">Specialized Packaging in the Semiconductor Industry: Why Every Micron Matters</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rising Copper Plating Demand in Semiconductors Driven by Advanced Packaging and FE Interconnects](https://www.semiconductor-digest.com/rising-copper-plating-demand-in-semiconductors-driven-by-advanced-packaging-and-fe-interconnects/?utm_source=rss&utm_medium=rss&utm_campaign=rising-copper-plating-demand-in-semiconductors-driven-by-advanced-packaging-and-fe-interconnects)
-**Published:** Tue, 25 Nov 2025 21:38:48 +0000
-
-<p>The global plating chemicals market is projected to reach US$1,381M in 2025, up 9.3% from 2024.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rising-copper-plating-demand-in-semiconductors-driven-by-advanced-packaging-and-fe-interconnects/">Rising Copper Plating Demand in Semiconductors Driven by Advanced Packaging and FE Interconnects</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
