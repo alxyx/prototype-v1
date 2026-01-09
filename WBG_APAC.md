@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-09 13:00 UTC_
+_Last updated: 2026-01-09 13:52 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -842,6 +842,22 @@ _Last updated: 2026-01-09 13:00 UTC_
 
 ---
 
+## [Infineon Develops the First 20-MHz-Only Wi-Fi 7 Device](https://www.powerelectronicsnews.com/infineon-develops-the-first-20-mhz-only-wi-fi-7-device/)
+**Published:** Fri, 09 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/infineon-featured.png?fit=559%2C685" style="display: block; margin-bottom: 5px; clear: both;" width="559" /><p>The ACW741x family includes 20-MHz Wi-Fi 7, Bluetooth Core 6.0, and Thread, with up to 15x power improvements in standby and active modes.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-develops-the-first-20-mhz-only-wi-fi-7-device/">Infineon Develops the First 20-MHz-Only Wi-Fi 7 Device</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [GaN in Multilevel Buck Converters, WBG Thermal Packaging, NFE Communication: Power Electronics Week Insights](https://www.powerelectronicsnews.com/gan-in-multilevel-buck-converters-wbg-thermal-packaging-nfe-communication-power-electronics-week-insights/)
+**Published:** Fri, 09 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on GaN in Multilevel Buck Converters, WBG Thermal Packaging, and NFE Communication!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/gan-in-multilevel-buck-converters-wbg-thermal-packaging-nfe-communication-power-electronics-week-insights/">GaN in Multilevel Buck Converters, WBG Thermal Packaging, NFE Communication: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Allegro Expands Power-Thru Gate Driver Portfolio](https://www.powerelectronicsnews.com/allegro-expands-power-thru-gate-driver-portfolio/)
 **Published:** Thu, 08 Jan 2026 14:13:47 +0000
 
@@ -903,22 +919,6 @@ _Last updated: 2026-01-09 13:00 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="398" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/TI-SDV.png?fit=536%2C398" style="display: block; margin-bottom: 5px; clear: both;" width="536" /><p>The TDA5 automotive SoC delivers up to 1200 TOPS and 24 TOP/W performance without the need for liquid cooling. </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/ti-tda5-automotive-soc-delivers-24-tops-w/">TI TDA5 Automotive SoC Delivers 24 TOPS/W </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [A New Wireless Paradigm: Transmitting Data Through E-fields](https://www.powerelectronicsnews.com/a-new-wireless-paradigm-transmitting-data-through-e-fields/)
-**Published:** Mon, 05 Jan 2026 09:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_614659247.jpeg?fit=6000%2C4000" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>Instead of using RF like Bluetooth or NFC, NFE uses the inherent capacitance of conductors, like our body, for wireless data transmission.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/a-new-wireless-paradigm-transmitting-data-through-e-fields/">A New Wireless Paradigm: Transmitting Data Through E-fields</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Murata Announces Mass Production of 1.25kV C0G MLCC](https://www.powerelectronicsnews.com/murata-announces-mass-production-of-1-25kv-c0g-mlcc/)
-**Published:** Fri, 02 Jan 2026 13:00:00 +0000
-
-<img alt="Murata Announces Mass Production of 1.25kV C0G MLCC." class="webfeedsFeaturedVisual wp-post-image" height="478" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/Murata_PR.png?fit=659%2C478" style="display: block; margin-bottom: 5px; clear: both;" width="659" /><p>The 15nF/1.25kV C0G MLCC is well-suited for EV onboard chargers and power supplies in consumer applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/murata-announces-mass-production-of-1-25kv-c0g-mlcc/">Murata Announces Mass Production of 1.25kV C0G MLCC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
