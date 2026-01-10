@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-09 23:34 UTC_
+_Last updated: 2026-01-10 01:57 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -39,6 +39,30 @@ _Last updated: 2026-01-09 23:34 UTC_
 
 <p>TI's new automotive semiconductors and development resources enhance the safety and autonomy across vehicle models.</p>
 <p>The post <a href="https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/">TI Expands Automotive Portfolio to Accelerate Shift Toward AVs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Illinois Tech Researcher Finds Where Lithium Ions Reside in New Solid-State Electrolyte That Could Lead to Improved Batteries](https://www.semiconductor-digest.com/illinois-tech-researcher-finds-where-lithium-ions-reside-in-new-solid-state-electrolyte-that-could-lead-to-improved-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=illinois-tech-researcher-finds-where-lithium-ions-reside-in-new-solid-state-electrolyte-that-could-lead-to-improved-batteries)
+**Published:** Fri, 09 Jan 2026 23:33:27 +0000
+
+<p>Research Professor of Chemistry James Kaduk co-authored a paper in Science that details a material with high ionic conductivity—even at low temperatures—which could prove crucial in developing next generation of lithium batteries.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/illinois-tech-researcher-finds-where-lithium-ions-reside-in-new-solid-state-electrolyte-that-could-lead-to-improved-batteries/">Illinois Tech Researcher Finds Where Lithium Ions Reside in New Solid-State Electrolyte That Could Lead to Improved Batteries</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Soitec Appoints Laurent Remont CEO, Effective April 2026](https://www.semiconductor-digest.com/soitec-appoints-laurent-remont-ceo-effective-april-2026/?utm_source=rss&utm_medium=rss&utm_campaign=soitec-appoints-laurent-remont-ceo-effective-april-2026)
+**Published:** Fri, 09 Jan 2026 23:27:17 +0000
+
+<p>Soitec announces that its Board of Directors has appointed Laurent Rémont as Chief Executive Officer, effective April 1, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/soitec-appoints-laurent-remont-ceo-effective-april-2026/">Soitec Appoints Laurent Remont CEO, Effective April 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Si2’s OpenAccess Coalition Announces 2026 Board of Directors](https://www.semiconductor-digest.com/si2s-openaccess-coalition-announces-2026-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=si2s-openaccess-coalition-announces-2026-board-of-directors)
+**Published:** Fri, 09 Jan 2026 23:20:20 +0000
+
+<p>The OpenAccess Coalition is pleased to announce its 2026 Board of Directors, now representing 16 member companies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/si2s-openaccess-coalition-announces-2026-board-of-directors/">Si2’s OpenAccess Coalition Announces 2026 Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -815,30 +839,6 @@ _Last updated: 2026-01-09 23:34 UTC_
 
 <p>Scientists at Forschungszentrum Jülich, together with partners from the QSolid consortium, which includes the Fraunhofer Institute for Photonic Microsystems IPMS, have achieved a significant project milestone.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/qsolid-quantum-computer-now-accessible-to-external-users/">QSolid Quantum Computer Now Accessible to External Users</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Beyond Hire-Train-Deploy: Building Resilient Semiconductor Talent Pipelines](https://www.semiconductor-digest.com/beyond-hire-train-deploy-building-resilient-semiconductor-talent-pipelines/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-hire-train-deploy-building-resilient-semiconductor-talent-pipelines)
-**Published:** Wed, 26 Nov 2025 14:07:35 +0000
-
-<p>The industry's growth depends on solving its workforce challenge by taking a new approach to hiring that focuses on aptitude and potential capability to build a sustainable workforce of “learning machines.” </p>
-<p>The post <a href="https://www.semiconductor-digest.com/beyond-hire-train-deploy-building-resilient-semiconductor-talent-pipelines/">Beyond Hire-Train-Deploy: Building Resilient Semiconductor Talent Pipelines</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Accelerating RTL Design Through Multi-Agent AI Collaboration](https://www.semiconductor-digest.com/accelerating-rtl-design-through-multi-agent-ai-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=accelerating-rtl-design-through-multi-agent-ai-collaboration)
-**Published:** Wed, 26 Nov 2025 13:58:58 +0000
-
-<p>Instead of linear workflows where problems get discovered late and are expensive, we're moving toward continuous validation and improvement.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/accelerating-rtl-design-through-multi-agent-ai-collaboration/">Accelerating RTL Design Through Multi-Agent AI Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Specialized Packaging in the Semiconductor Industry: Why Every Micron Matters](https://www.semiconductor-digest.com/specialized-packaging-in-the-semiconductor-industry-why-every-micron-matters/?utm_source=rss&utm_medium=rss&utm_campaign=specialized-packaging-in-the-semiconductor-industry-why-every-micron-matters)
-**Published:** Wed, 26 Nov 2025 13:51:36 +0000
-
-<p>Every cleanroom protocol, every vibration test, every engineered crate is part of a larger mission: to ensure that the most advanced components in the world arrive at their destination in perfect condition.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/specialized-packaging-in-the-semiconductor-industry-why-every-micron-matters/">Specialized Packaging in the Semiconductor Industry: Why Every Micron Matters</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
