@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-11 09:34 UTC_
+_Last updated: 2026-01-11 10:35 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -927,14 +927,6 @@ _Last updated: 2026-01-11 09:34 UTC_
 
 <p>Industry leaders at VLSI 2026 urge India to pursue product-led semiconductor growth.</p>
 <p>The post <a href="https://www.eetimes.com/vlsi-design-conference-2026-experts-advocate-product-led-chip-push-for-india/">VLSI Design Conference 2026: Experts Advocate Product-Led Chip Push for India</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [November semi revenues up 29.8% year-on-year](https://www.electronicsweekly.com/news/business/november-semi-revenues-up-29-8-y-o-y-2026-01/)
-**Published:** Fri, 09 Jan 2026 06:20:21 +0000
-
-<p>November semiconductor revenues of $75.3 billion were up 29.8% on the $58 billion of November 2004 and up 3.5% on the October  2025 total of $72.7 billion, reports the SIA. ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/november-semi-revenues-up-29-8-y-o-y-2026-01/">November semi revenues up 29.8% year-on-year</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
