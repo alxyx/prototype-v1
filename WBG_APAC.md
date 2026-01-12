@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-12 11:35 UTC_
+_Last updated: 2026-01-12 13:03 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -903,6 +903,14 @@ _Last updated: 2026-01-12 11:35 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="709" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_ab3f4a.jpeg?fit=1600%2C709" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>Wide-bandgap (WBG) power semiconductor devices based on silicon carbide (SiC) and gallium nitride (GaN) enable improved power conversion efficiencies. The improved power density that they...</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/thermal-packaging-advances-for-sic-and-gan-semiconductors/">Thermal Packaging Advances for SiC and GaN Semiconductors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Photonics Lights Up Canada’s Semiconductor Scene](https://www.eetimes.com/photonics-lights-up-canadas-semiconductor-scene/)
+**Published:** Mon, 12 Jan 2026 13:00:00 +0000
+
+<p>Canada's photonics industry surges as the backbone for AI and quantum tech.</p>
+<p>The post <a href="https://www.eetimes.com/photonics-lights-up-canadas-semiconductor-scene/">Photonics Lights Up Canada’s Semiconductor Scene</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
