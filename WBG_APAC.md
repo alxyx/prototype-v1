@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-12 09:47 UTC_
+_Last updated: 2026-01-12 10:40 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -922,24 +922,17 @@ _Last updated: 2026-01-12 09:47 UTC_
 
 ---
 
-## [JOB: Senior Engineer At Eaton In Puducherry](https://www.electronicsforu.com/career/senior-engineer-eaton-puducherry)
-**Published:** Fri, 09 Jan 2026 08:52:59 +0000
+## [JOB: Embedded & Electronics Engineer At Quest Global In Bengaluru](https://www.electronicsforu.com/career/embedded-electronics-engineer-quest-global-bengaluru)
+**Published:** Mon, 12 Jan 2026 07:52:46 +0000
 
-<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Puducherry Company: Eaton What You’ll Do Should be able to identify required changes in the firmware and complete UPS &#38; board level test to address issues from the field, customisation and new product development.      Qualifications Skills Strong knowledge of:
-
----
-
-## [JOB: Power Electronics Engineer At Cyient In Bengaluru](https://www.electronicsforu.com/career/power-electronics-engineer-cyient-bengaluru)
-**Published:** Fri, 09 Jan 2026 07:57:09 +0000
-
-<img alt="JOB: Power Electronics Engineer At Cyient In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/04/Cyient-DLM-Hyd-office-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Cyient Job Description Skills Required Power Systems Control, Power Converters, Power Electronics Design, Power Electronics, Power Systems Reliability, Electrical Power Engineering, Power System Protection
+<img alt="JOB: Embedded &amp; Electronics Engineer At Quest Global In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/06/quest-global-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Quest Global Key Responsibilities Overview: Primary responsibilities: Basic Qualifications Primary Skills:
 
 ---
 
-## [Faster Etching Boosts Chip Manufacturing](https://www.electronicsforu.com/news/faster-etching-boosts-chip-manufacturing)
-**Published:** Fri, 09 Jan 2026 06:58:54 +0000
+## [JOB: Power Electronics HW Engineer At Capgemini In Coimbatore](https://www.electronicsforu.com/career/power-electronics-hw-engineer-capgemini-coimbatore)
+**Published:** Mon, 12 Jan 2026 07:41:16 +0000
 
-<img alt="Faster Etching Boosts Chip Manufacturing" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new cryogenic plasma etching technique developed by Japanese researchers dramatically accelerates semiconductor fabrication while cutting environmental impact, offering a potential breakthrough for advanced electronics and 3D chip architectures. Researchers from Nagoya University and Tokyo Electron Miyagi Ltd. have developed a semiconductor etching process that boosts etch rates up to five times compared with conventional [&#8230;]
+<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Coimbatore Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs), printed circuit boards (PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment; Job Description &#8211; Grade [&#8230;]
 
 ---
 
