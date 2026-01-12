@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-12 19:35 UTC_
+_Last updated: 2026-01-12 20:39 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -911,14 +911,6 @@ _Last updated: 2026-01-12 19:35 UTC_
 
 <p>Canada's photonics industry surges as the backbone for AI and quantum tech.</p>
 <p>The post <a href="https://www.eetimes.com/photonics-lights-up-canadas-semiconductor-scene/">Photonics Lights Up Canada’s Semiconductor Scene</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [VLSI Design Conference 2026: Experts Advocate Product-Led Chip Push for India](https://www.eetimes.com/vlsi-design-conference-2026-experts-advocate-product-led-chip-push-for-india/)
-**Published:** Thu, 08 Jan 2026 13:00:00 +0000
-
-<p>Industry leaders at VLSI 2026 urge India to pursue product-led semiconductor growth.</p>
-<p>The post <a href="https://www.eetimes.com/vlsi-design-conference-2026-experts-advocate-product-led-chip-push-for-india/">VLSI Design Conference 2026: Experts Advocate Product-Led Chip Push for India</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
