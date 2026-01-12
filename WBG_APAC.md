@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-12 02:05 UTC_
+_Last updated: 2026-01-12 04:04 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -23,22 +23,6 @@ _Last updated: 2026-01-12 02:05 UTC_
 
 <p>Aegis Aerospace and United Semiconductors are pioneering semiconductor manufacturing in space.</p>
 <p>The post <a href="https://www.eetasia.com/aegis-aerospace-and-united-semiconductors-launch-in-space-advanced-materials-manufacturing-facility/">Aegis Aerospace and United Semiconductors Launch In-Space Advanced Materials Manufacturing Facility</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [MIPS Enabling Physical AI at the Autonomous Edge](https://www.eetasia.com/mips-enabling-physical-ai-at-the-autonomous-edge/)
-**Published:** Wed, 07 Jan 2026 00:24:37 +0000
-
-<p>The MIPS S8200 RISC-V NPU delivers support for transformer and agentic language AI models at the edge, increased efficiency, and performance improvements.</p>
-<p>The post <a href="https://www.eetasia.com/mips-enabling-physical-ai-at-the-autonomous-edge/">MIPS Enabling Physical AI at the Autonomous Edge</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [TI Expands Automotive Portfolio to Accelerate Shift Toward AVs](https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/)
-**Published:** Tue, 06 Jan 2026 12:11:34 +0000
-
-<p>TI's new automotive semiconductors and development resources enhance the safety and autonomy across vehicle models.</p>
-<p>The post <a href="https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/">TI Expands Automotive Portfolio to Accelerate Shift Toward AVs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
