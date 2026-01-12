@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-12 15:41 UTC_
+_Last updated: 2026-01-12 16:41 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-01-12 15:41 UTC_
 
 ---
 
+## [CHIPX’s plan to expand ASEAN’s high-end chip design](https://www.powerelectronicsnews.com/chipxs-plan-to-expand-aseans-high-end-chip-design/)
+**Published:** Mon, 12 Jan 2026 16:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_643031254.jpeg?fit=6000%2C4000" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>Malaysia has long been a bedrock of the global semiconductor supply chain, with a significant number of players that have established production plants in Penang,...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/chipxs-plan-to-expand-aseans-high-end-chip-design/">CHIPX’s plan to expand ASEAN’s high-end chip design</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Part 1 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?](https://www.powerelectronicsnews.com/part-1-of-pens-2025-survey-special-report-what-did-power-electronics-professionals-say/)
 **Published:** Mon, 12 Jan 2026 14:29:13 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2026-01-12 15:41 UTC_
 
 <img alt="Cambridge GaN Devices Appoints Fabio Necco as New CEO." class="webfeedsFeaturedVisual wp-post-image" height="3456" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Giorgia-and-Fabio-1.jpg?fit=4608%2C3456" style="display: block; margin-bottom: 5px; clear: both;" width="4608" /><p>The move is intended to accelerate CGD’s expansion and strengthen its presence across several strategically important and high-growth markets.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/cambridge-gan-devices-appoints-fabio-necco-as-new-ceo/">Cambridge GaN Devices Appoints Fabio Necco as New CEO</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Understanding IVRs and their impact on xPU throughput](https://www.powerelectronicsnews.com/understanding-ivrs-and-their-impact-on-xpu-throughput/)
-**Published:** Tue, 06 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4032" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_1771952433.jpeg?fit=6048%2C4032" style="display: block; margin-bottom: 5px; clear: both;" width="6048" /><p>AI workloads consuming 1.5 kW per chip—with projections reaching 4-5 kW—are forcing a fundamental shift in data center power architectures. The challenge is no longer...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/understanding-ivrs-and-their-impact-on-xpu-throughput/">Understanding IVRs and their impact on xPU throughput</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
