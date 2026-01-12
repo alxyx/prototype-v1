@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-12 13:56 UTC_
+_Last updated: 2026-01-12 14:40 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-01-12 13:56 UTC_
 
 ---
 
+## [Part 1 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?](https://www.powerelectronicsnews.com/part-1-of-pens-2025-survey-special-report-what-did-power-electronics-professionals-say/)
+**Published:** Mon, 12 Jan 2026 14:29:13 +0000
+
+<img alt="Part 1 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?" class="webfeedsFeaturedVisual wp-post-image" height="563" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Cover_Image_Survey.jpg?fit=1000%2C563" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Readers of Part 1 will gain insight into what most power electronics professionals consider essential skills in simulation tools, programming languages, and engineering skill sets.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/part-1-of-pens-2025-survey-special-report-what-did-power-electronics-professionals-say/">Part 1 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Power innovations at CES 2026](https://www.powerelectronicsnews.com/power-innovations-at-ces-2026/)
 **Published:** Fri, 09 Jan 2026 21:52:37 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2026-01-12 13:56 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4032" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_1771952433.jpeg?fit=6048%2C4032" style="display: block; margin-bottom: 5px; clear: both;" width="6048" /><p>AI workloads consuming 1.5 kW per chip—with projections reaching 4-5 kW—are forcing a fundamental shift in data center power architectures. The challenge is no longer...</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/understanding-ivrs-and-their-impact-on-xpu-throughput/">Understanding IVRs and their impact on xPU throughput</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Thermal Packaging Advances for SiC and GaN Semiconductors](https://www.powerelectronicsnews.com/thermal-packaging-advances-for-sic-and-gan-semiconductors/)
-**Published:** Tue, 06 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="709" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_ab3f4a.jpeg?fit=1600%2C709" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>Wide-bandgap (WBG) power semiconductor devices based on silicon carbide (SiC) and gallium nitride (GaN) enable improved power conversion efficiencies. The improved power density that they...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/thermal-packaging-advances-for-sic-and-gan-semiconductors/">Thermal Packaging Advances for SiC and GaN Semiconductors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
