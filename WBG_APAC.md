@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-11 23:34 UTC_
+_Last updated: 2026-01-12 02:05 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -39,6 +39,38 @@ _Last updated: 2026-01-11 23:34 UTC_
 
 <p>TI's new automotive semiconductors and development resources enhance the safety and autonomy across vehicle models.</p>
 <p>The post <a href="https://www.eetasia.com/ti-expands-automotive-portfolio-to-accelerate-shift-toward-avs/">TI Expands Automotive Portfolio to Accelerate Shift Toward AVs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.semiconductor-digest.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/?utm_source=rss&utm_medium=rss&utm_campaign=nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices)
+**Published:** Mon, 12 Jan 2026 01:37:54 +0000
+
+<p>Nordic Semiconductor is bringing AI intelligence and functionality to the smallest battery-powered IoT devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/">Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Global Semiconductor Sales Increase 29.8% Year-to-Year in November](https://www.semiconductor-digest.com/global-semiconductor-sales-increase-29-8-year-to-year-in-november/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-sales-increase-29-8-year-to-year-in-november)
+**Published:** Mon, 12 Jan 2026 01:32:22 +0000
+
+<p>November’s sales mark the global industry’s highest-ever monthly total; worldwide chip sales increase 3.5% month-to-month.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-sales-increase-29-8-year-to-year-in-november/">Global Semiconductor Sales Increase 29.8% Year-to-Year in November</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Gleason Chosen for Tennessee’s AI Advisory Council](https://www.semiconductor-digest.com/gleason-chosen-for-tennessees-ai-advisory-council/?utm_source=rss&utm_medium=rss&utm_campaign=gleason-chosen-for-tennessees-ai-advisory-council)
+**Published:** Mon, 12 Jan 2026 01:28:06 +0000
+
+<p>Shaun Gleason, director of the Partnerships Office at the Department of Energy’s Oak Ridge National Laboratory, has been appointed to Tennessee’s Artificial Intelligence Advisory Council.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/gleason-chosen-for-tennessees-ai-advisory-council/">Gleason Chosen for Tennessee’s AI Advisory Council</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Using the Physics of Radio Waves to Empower Smarter Edge Devices](https://www.semiconductor-digest.com/using-the-physics-of-radio-waves-to-empower-smarter-edge-devices/?utm_source=rss&utm_medium=rss&utm_campaign=using-the-physics-of-radio-waves-to-empower-smarter-edge-devices)
+**Published:** Mon, 12 Jan 2026 01:24:47 +0000
+
+<p>Duke engineers publish new method to use analog radio waves to boost energy-efficient edge AI.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/using-the-physics-of-radio-waves-to-empower-smarter-edge-devices/">Using the Physics of Radio Waves to Empower Smarter Edge Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,38 +839,6 @@ _Last updated: 2026-01-11 23:34 UTC_
 
 <p>SiliconCatalyst.AU, the Australia‑based arm of Silicon Catalyst—the only accelerator focused on the global semiconductor industry, including Chips, Chiplets, Materials, IP and Silicon fabrication-based Photonics, MEMS, Sensors, Life Science and Quantum, announces the appointment of two distinguished industry veterans as Managing Partners in Brisbane: Dr. Michael Harvey and Dr. Anthony Brewer.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/siliconcatalyst-au-announces-new-managing-partners/">SiliconCatalyst.AU Announces New Managing Partners</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Teledyne MEMS Welcomes Strategic Investment in C2MI](https://www.semiconductor-digest.com/teledyne-mems-welcomes-strategic-investment-in-c2mi/?utm_source=rss&utm_medium=rss&utm_campaign=teledyne-mems-welcomes-strategic-investment-in-c2mi)
-**Published:** Mon, 01 Dec 2025 22:15:13 +0000
-
-<p>Teledyne Technologies Incorporated announced today that Teledyne MEMS, a member and partner of the MiQro Innovation Collaborative Center (C2MI), announced the Canadian and Quebec governments’ strategic investment in its expansion into the next project phase, C2MI1.5.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/teledyne-mems-welcomes-strategic-investment-in-c2mi/">Teledyne MEMS Welcomes Strategic Investment in C2MI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Toray Develops Temporary Bonding Material for Uniformly Ultra-Thin Semiconductor Wafers](https://www.semiconductor-digest.com/toray-develops-temporary-bonding-material-for-uniformly-ultra-thin-semiconductor-wafers/?utm_source=rss&utm_medium=rss&utm_campaign=toray-develops-temporary-bonding-material-for-uniformly-ultra-thin-semiconductor-wafers)
-**Published:** Mon, 01 Dec 2025 21:53:04 +0000
-
-<p>Toray Industries, Inc., announced today that it has developed a semiconductor back-end process material that is essential for manufacturing semiconductor wafers 30 micrometers or less in thickness.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/toray-develops-temporary-bonding-material-for-uniformly-ultra-thin-semiconductor-wafers/">Toray Develops Temporary Bonding Material for Uniformly Ultra-Thin Semiconductor Wafers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CMP Slurry and Pads Market Set for 6% Growth](https://www.semiconductor-digest.com/cmp-slurry-and-pads-market-set-for-6-growth-2/?utm_source=rss&utm_medium=rss&utm_campaign=cmp-slurry-and-pads-market-set-for-6-growth-2)
-**Published:** Mon, 01 Dec 2025 21:45:45 +0000
-
-<p>The CMP slurry and pad market is forecasted to grow 6% in 2025 to approximately $3.6 billion USD, driven by recovery in logic segments and expanding CMP process steps across next generation device technologies and advanced packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cmp-slurry-and-pads-market-set-for-6-growth-2/">CMP Slurry and Pads Market Set for 6% Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [QSolid Quantum Computer Now Accessible to External Users](https://www.semiconductor-digest.com/qsolid-quantum-computer-now-accessible-to-external-users/?utm_source=rss&utm_medium=rss&utm_campaign=qsolid-quantum-computer-now-accessible-to-external-users)
-**Published:** Wed, 26 Nov 2025 18:50:31 +0000
-
-<p>Scientists at Forschungszentrum Jülich, together with partners from the QSolid consortium, which includes the Fraunhofer Institute for Photonic Microsystems IPMS, have achieved a significant project milestone.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/qsolid-quantum-computer-now-accessible-to-external-users/">QSolid Quantum Computer Now Accessible to External Users</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
