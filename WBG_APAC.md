@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-12 23:31 UTC_
+_Last updated: 2026-01-13 01:57 UTC_
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
@@ -18,11 +18,27 @@ _Last updated: 2026-01-12 23:31 UTC_
 
 ---
 
-## [Aegis Aerospace and United Semiconductors Launch In-Space Advanced Materials Manufacturing Facility](https://www.eetasia.com/aegis-aerospace-and-united-semiconductors-launch-in-space-advanced-materials-manufacturing-facility/)
-**Published:** Wed, 07 Jan 2026 03:49:33 +0000
+## [KAIST Develops OLED Technology with Double the Screen Brightness​](https://www.semiconductor-digest.com/kaist-develops-oled-technology-with-double-the-screen-brightness/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-develops-oled-technology-with-double-the-screen-brightness)
+**Published:** Tue, 13 Jan 2026 00:46:06 +0000
 
-<p>Aegis Aerospace and United Semiconductors are pioneering semiconductor manufacturing in space.</p>
-<p>The post <a href="https://www.eetasia.com/aegis-aerospace-and-united-semiconductors-launch-in-space-advanced-materials-manufacturing-facility/">Aegis Aerospace and United Semiconductors Launch In-Space Advanced Materials Manufacturing Facility</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Organic light-emitting diodes (OLEDs) are widely used in smartphones and TVs thanks to their excellent color reproduction and thin, flexible planar structure.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kaist-develops-oled-technology-with-double-the-screen-brightness/">KAIST Develops OLED Technology with Double the Screen Brightness​</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [L&T Semiconductor Technologies Launches India’s Cellular IoT Module Business](https://www.semiconductor-digest.com/lt-semiconductor-technologies-launches-indias-cellular-iot-module-business/?utm_source=rss&utm_medium=rss&utm_campaign=lt-semiconductor-technologies-launches-indias-cellular-iot-module-business)
+**Published:** Tue, 13 Jan 2026 00:33:47 +0000
+
+<p>L&#038;T Semiconductor Technologies Limited announced its entry into the Cellular IoT Module business during CES 2026 — marking a significant expansion of its semiconductor portfolio. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/lt-semiconductor-technologies-launches-indias-cellular-iot-module-business/">L&#038;T Semiconductor Technologies Launches India’s Cellular IoT Module Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ESD Alliance Reports Electronic System Design Industry Posts $5.6 Billion in Revenue in Q3 2025](https://www.semiconductor-digest.com/esd-alliance-reports-electronic-system-design-industry-posts-5-6-billion-in-revenue-in-q3-2025/?utm_source=rss&utm_medium=rss&utm_campaign=esd-alliance-reports-electronic-system-design-industry-posts-5-6-billion-in-revenue-in-q3-2025)
+**Published:** Tue, 13 Jan 2026 00:26:36 +0000
+
+<p>Electronic System Design (ESD) industry revenue increased 8.8% to $5,566.4 million in the third quarter of 2025 from the $5,114.5 million registered in the third quarter of 2024, the ESD Alliance announced today.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/esd-alliance-reports-electronic-system-design-industry-posts-5-6-billion-in-revenue-in-q3-2025/">ESD Alliance Reports Electronic System Design Industry Posts $5.6 Billion in Revenue in Q3 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,30 +815,6 @@ _Last updated: 2026-01-12 23:31 UTC_
 
 <p>Ricursive Intelligence, an AI lab with the mission to transform semiconductor design, launched today and announced its $35 million seed round led by Sequoia Capital at a $750 million final valuation.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ricursive-intelligence-launches-frontier-ai-lab/">Ricursive Intelligence Launches Frontier AI Lab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [UH Engineers Making AI Faster, Reducing Power Consumption](https://www.semiconductor-digest.com/uh-engineers-making-ai-faster-reducing-power-consumption/?utm_source=rss&utm_medium=rss&utm_campaign=uh-engineers-making-ai-faster-reducing-power-consumption)
-**Published:** Tue, 02 Dec 2025 19:13:18 +0000
-
-<p>Team invents new thin film materials based on Nobel Prize winning methods.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/uh-engineers-making-ai-faster-reducing-power-consumption/">UH Engineers Making AI Faster, Reducing Power Consumption</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Vinci Emerges from Stealth to Transform Semiconductor Design and Simulation](https://www.semiconductor-digest.com/vinci-emerges-from-stealth-to-transform-semiconductor-design-and-simulation/?utm_source=rss&utm_medium=rss&utm_campaign=vinci-emerges-from-stealth-to-transform-semiconductor-design-and-simulation)
-**Published:** Tue, 02 Dec 2025 19:06:52 +0000
-
-<p>Validated by early deployments at leading semiconductor companies, Vinci’s physics-driven AI software operates up to 1000x faster than conventional simulation tools, at higher accuracy without needing customer data.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/vinci-emerges-from-stealth-to-transform-semiconductor-design-and-simulation/">Vinci Emerges from Stealth to Transform Semiconductor Design and Simulation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SiliconCatalyst.AU Announces New Managing Partners](https://www.semiconductor-digest.com/siliconcatalyst-au-announces-new-managing-partners/?utm_source=rss&utm_medium=rss&utm_campaign=siliconcatalyst-au-announces-new-managing-partners)
-**Published:** Mon, 01 Dec 2025 22:30:29 +0000
-
-<p>SiliconCatalyst.AU, the Australia‑based arm of Silicon Catalyst—the only accelerator focused on the global semiconductor industry, including Chips, Chiplets, Materials, IP and Silicon fabrication-based Photonics, MEMS, Sensors, Life Science and Quantum, announces the appointment of two distinguished industry veterans as Managing Partners in Brisbane: Dr. Michael Harvey and Dr. Anthony Brewer.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siliconcatalyst-au-announces-new-managing-partners/">SiliconCatalyst.AU Announces New Managing Partners</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
