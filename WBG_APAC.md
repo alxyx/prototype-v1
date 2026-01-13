@@ -1,20 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-13 01:57 UTC_
+_Last updated: 2026-01-13 03:42 UTC_
+
+## [ModelCat AI and Alif Semiconductor Collaborate to Deliver Rapid ML Model Onboarding to Customers](https://www.eetasia.com/modelcat-ai-and-alif-semiconductor-collaborate-to-deliver-rapid-ml-model-onboarding-to-customers/)
+**Published:** Tue, 13 Jan 2026 03:11:59 +0000
+
+<p>The partnership allows Alif customers access to ModelCat's single step model build process, to generate custom AI models fully optimized for Alif's Ensemble processors.</p>
+<p>The post <a href="https://www.eetasia.com/modelcat-ai-and-alif-semiconductor-collaborate-to-deliver-rapid-ml-model-onboarding-to-customers/">ModelCat AI and Alif Semiconductor Collaborate to Deliver Rapid ML Model Onboarding to Customers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Ceva Powers BOS Semiconductors’ Next-Gen ADAS Platforms](https://www.eetasia.com/ceva-powers-bos-semiconductors-next-gen-adas-platforms/)
+**Published:** Tue, 13 Jan 2026 03:08:18 +0000
+
+<p>BOS Semiconductors has licensed Ceva's SensPro AI DSP architecture for its Eagle-A standalone ADAS SoC.</p>
+<p>The post <a href="https://www.eetasia.com/ceva-powers-bos-semiconductors-next-gen-adas-platforms/">Ceva Powers BOS Semiconductors&#8217; Next-Gen ADAS Platforms</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
 **Published:** Wed, 07 Jan 2026 23:53:32 +0000
 
 <p>Nordic Semiconductor is bringing AI intelligence and functionality to the smallest battery-powered IoT devices.</p>
 <p>The post <a href="https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/">Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [AI Triggers a New Memory Super Cycle](https://www.eetasia.com/ai-triggers-a-new-memory-super-cycle/)
-**Published:** Wed, 07 Jan 2026 08:47:28 +0000
-
-<p>As AI triggers a "butterfly effect" across the semiconductor supply chain, Macronix is deploying a comprehensive flash portfolio to navigate the next memory super cycle.</p>
-<p>The post <a href="https://www.eetasia.com/ai-triggers-a-new-memory-super-cycle/">AI Triggers a New Memory Super Cycle</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
