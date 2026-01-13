@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-13 11:34 UTC_
+_Last updated: 2026-01-13 13:03 UTC_
 
 ## [ModelCat AI and Alif Semiconductor Collaborate to Deliver Rapid ML Model Onboarding to Customers](https://www.eetasia.com/modelcat-ai-and-alif-semiconductor-collaborate-to-deliver-rapid-ml-model-onboarding-to-customers/)
 **Published:** Tue, 13 Jan 2026 03:11:59 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-01-13 11:34 UTC_
 
 ---
 
+## [SBD: When Silicon Carbide (SiC) Began to Shine](https://www.powerelectronicsnews.com/sbd-when-silicon-carbide-sic-began-to-shine/)
+**Published:** Tue, 13 Jan 2026 13:00:00 +0000
+
+<img alt="Silicon wafers for the production of integrated-circuit semiconductors." class="webfeedsFeaturedVisual wp-post-image" height="528" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Adobe-Stock_Silicon-wafers-for-production-of-integrated-circuit-semiconductors.png?fit=793%2C528" style="display: block; margin-bottom: 5px; clear: both;" width="793" /><p>SBDs (Schottky barrier diodes) enable fast switching and low forward voltage drop in high-efficiency power designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/sbd-when-silicon-carbide-sic-began-to-shine/">SBD: When Silicon Carbide (SiC) Began to Shine</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [CHIPX’s plan to expand ASEAN’s high-end chip design](https://www.powerelectronicsnews.com/chipxs-plan-to-expand-aseans-high-end-chip-design/)
 **Published:** Mon, 12 Jan 2026 16:00:00 +0000
 
@@ -898,19 +906,19 @@ _Last updated: 2026-01-13 11:34 UTC_
 
 ---
 
-## [Cambridge GaN Devices Appoints Fabio Necco as New CEO](https://www.powerelectronicsnews.com/cambridge-gan-devices-appoints-fabio-necco-as-new-ceo/)
-**Published:** Wed, 07 Jan 2026 13:00:00 +0000
-
-<img alt="Cambridge GaN Devices Appoints Fabio Necco as New CEO." class="webfeedsFeaturedVisual wp-post-image" height="3456" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Giorgia-and-Fabio-1.jpg?fit=4608%2C3456" style="display: block; margin-bottom: 5px; clear: both;" width="4608" /><p>The move is intended to accelerate CGD’s expansion and strengthen its presence across several strategically important and high-growth markets.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/cambridge-gan-devices-appoints-fabio-necco-as-new-ceo/">Cambridge GaN Devices Appoints Fabio Necco as New CEO</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Photonics Lights Up Canada’s Semiconductor Scene](https://www.eetimes.com/photonics-lights-up-canadas-semiconductor-scene/)
 **Published:** Mon, 12 Jan 2026 13:00:00 +0000
 
 <p>Canada's photonics industry surges as the backbone for AI and quantum tech.</p>
 <p>The post <a href="https://www.eetimes.com/photonics-lights-up-canadas-semiconductor-scene/">Photonics Lights Up Canada’s Semiconductor Scene</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [RANSemi and Radisys address mission-critical comms](https://www.electronicsweekly.com/news/business/ransemi-and-radisys-address-mission-critical-comms-2026-01/)
+**Published:** Tue, 13 Jan 2026 11:58:02 +0000
+
+<p>RANsemi, the British wireless semiconductor company specialising in Open RAN baseband technologies, and Radisys, the open telecom software specialist, have expanded their  collaboration into  5G products for tactical and mission-critical ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/ransemi-and-radisys-address-mission-critical-comms-2026-01/">RANSemi and Radisys address mission-critical comms</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
