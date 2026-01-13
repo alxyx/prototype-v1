@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-13 14:40 UTC_
+_Last updated: 2026-01-13 15:40 UTC_
 
 ## [ModelCat AI and Alif Semiconductor Collaborate to Deliver Rapid ML Model Onboarding to Customers](https://www.eetasia.com/modelcat-ai-and-alif-semiconductor-collaborate-to-deliver-rapid-ml-model-onboarding-to-customers/)
 **Published:** Tue, 13 Jan 2026 03:11:59 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-01-13 14:40 UTC_
 
 ---
 
+## [Enphase Energy Starts Production and Distribution of IQ9N-3P](https://www.powerelectronicsnews.com/enphase-energy-starts-production-and-distribution-of-iq9n-3p/)
+**Published:** Tue, 13 Jan 2026 15:00:00 +0000
+
+<img alt="Enphase Energy Starts Production and Distribution of IQ9N-3P." class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Enphase_IQ9-3P.png?fit=2160%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="2160" /><p>The IQ9N-3P is first Enphase Energy’s commercial microinverter based on gallium nitride (GaN) power devices.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/enphase-energy-starts-production-and-distribution-of-iq9n-3p/">Enphase Energy Starts Production and Distribution of IQ9N-3P</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [SBD: When Silicon Carbide (SiC) Began to Shine](https://www.powerelectronicsnews.com/sbd-when-silicon-carbide-sic-began-to-shine/)
 **Published:** Tue, 13 Jan 2026 13:00:00 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2026-01-13 14:40 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="577" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/GaNext_Thumbnail.png?fit=1152%2C577" style="display: block; margin-bottom: 5px; clear: both;" width="1152" /><p>GaNext has announced the launch of the G2E65R009 series, a 650V Automotive-Grade GaN FET featuring a breakthrough 9mΩ on-state resistance (Rds(on)).</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/ganext-introduces-9m%cf%89-automotive-grade-gan-fet-achieving-energy-efficiency-breakthrough/">GaNext Introduces 9mΩ Automotive-Grade GaN FET, Achieving Energy Efficiency Breakthrough</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [GaN HEMT Advantages in Multilevel Buck Converters](https://www.powerelectronicsnews.com/gan-hemt-advantages-in-multilevel-buck-converters/)
-**Published:** Wed, 07 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/AdobeStock_1508699708.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>The benefits of using GaN multilevel switched-capacitor (SC) converters for 48-V-to-PoL conversion in data centers, powering xPUs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/gan-hemt-advantages-in-multilevel-buck-converters/">GaN HEMT Advantages in Multilevel Buck Converters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
