@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-13 06:49 UTC_
+_Last updated: 2026-01-13 07:39 UTC_
 
 ## [ModelCat AI and Alif Semiconductor Collaborate to Deliver Rapid ML Model Onboarding to Customers](https://www.eetasia.com/modelcat-ai-and-alif-semiconductor-collaborate-to-deliver-rapid-ml-model-onboarding-to-customers/)
 **Published:** Tue, 13 Jan 2026 03:11:59 +0000
@@ -911,14 +911,6 @@ _Last updated: 2026-01-13 06:49 UTC_
 
 <p>Canada's photonics industry surges as the backbone for AI and quantum tech.</p>
 <p>The post <a href="https://www.eetimes.com/photonics-lights-up-canadas-semiconductor-scene/">Photonics Lights Up Canada’s Semiconductor Scene</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [November semi revenues up 29.8% year-on-year](https://www.electronicsweekly.com/news/business/november-semi-revenues-up-29-8-y-o-y-2026-01/)
-**Published:** Fri, 09 Jan 2026 06:20:21 +0000
-
-<p>November semiconductor revenues of $75.3 billion were up 29.8% on the $58 billion of November 2004 and up 3.5% on the October  2025 total of $72.7 billion, reports the SIA. ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/november-semi-revenues-up-29-8-y-o-y-2026-01/">November semi revenues up 29.8% year-on-year</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
