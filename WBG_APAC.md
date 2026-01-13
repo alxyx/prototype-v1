@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-13 22:37 UTC_
+_Last updated: 2026-01-13 23:34 UTC_
 
 ## [ModelCat AI and Alif Semiconductor Collaborate to Deliver Rapid ML Model Onboarding to Customers](https://www.eetasia.com/modelcat-ai-and-alif-semiconductor-collaborate-to-deliver-rapid-ml-model-onboarding-to-customers/)
 **Published:** Tue, 13 Jan 2026 03:11:59 +0000
