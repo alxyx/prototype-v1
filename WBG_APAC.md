@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-13 09:42 UTC_
+_Last updated: 2026-01-13 10:39 UTC_
 
 ## [ModelCat AI and Alif Semiconductor Collaborate to Deliver Rapid ML Model Onboarding to Customers](https://www.eetasia.com/modelcat-ai-and-alif-semiconductor-collaborate-to-deliver-rapid-ml-model-onboarding-to-customers/)
 **Published:** Tue, 13 Jan 2026 03:11:59 +0000
@@ -914,17 +914,24 @@ _Last updated: 2026-01-13 09:42 UTC_
 
 ---
 
-## [JOB: Embedded & Electronics Engineer At Quest Global In Bengaluru](https://www.electronicsforu.com/career/embedded-electronics-engineer-quest-global-bengaluru)
-**Published:** Mon, 12 Jan 2026 07:52:46 +0000
+## [JOB: CAD Component Specialist, Senior At Qualcomm In Bengaluru](https://www.electronicsforu.com/career/cad-component-specialist-senior-qualcomm-bengaluru)
+**Published:** Tue, 13 Jan 2026 08:19:22 +0000
 
-<img alt="JOB: Embedded &amp; Electronics Engineer At Quest Global In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/06/quest-global-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Quest Global Key Responsibilities Overview: Primary responsibilities: Basic Qualifications Primary Skills:
+<img alt="JOB: CAD Component Specialist, Senior At Qualcomm In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2014/02/qualcomm-sign-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Qualcomm Preferred Qualifications Principal Duties and Responsibilities Level of Responsibility:• Works under close supervision.• Responsible for own work. Decision-making is limited. Impact of decisions is readily apparent. Errors made typically only impact timeline (i.e., require additional time to correct).• Requires verbal and written communication skills to convey basic, routine factual [&#8230;]
 
 ---
 
-## [JOB: Power Electronics HW Engineer At Capgemini In Coimbatore](https://www.electronicsforu.com/career/power-electronics-hw-engineer-capgemini-coimbatore)
-**Published:** Mon, 12 Jan 2026 07:41:16 +0000
+## [JOB: Technician I, RF At ANDREW In Goa](https://www.electronicsforu.com/career/technician-rf-andrew-goa)
+**Published:** Tue, 13 Jan 2026 08:03:33 +0000
 
-<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Coimbatore Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs), printed circuit boards (PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment; Job Description &#8211; Grade [&#8230;]
+<img alt="Internship" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/lam-job-search-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Goa Company: ANDREW As Technician I, RF, you will support RF/Wireless engineering work through RF tuning, development, construction, and testing of base station antennas and related processes. You will apply basic engineering, electronics, and mechanical principles to perform a variety of technical tasks and assist in solving complex problems. This role will [&#8230;]
+
+---
+
+## [Lens-Free Sensor For High Resolution Imaging](https://www.electronicsforu.com/news/lens-free-sensor-for-high-resolution-imaging)
+**Published:** Tue, 13 Jan 2026 06:45:55 +0000
+
+<img alt="Lens-Free Sensor For High Resolution Imaging" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/camera-lens-aperture-blades-in-macro-view-2025-06-08-05-51-27-utc-998x665-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />By replacing bulky lenses with software-driven sensor arrays, the researchers unlock a new era of flexible, high-resolution and scalable imaging. High-resolution imaging has long been constrained by conventional optics. Lenses require precise alignment and create trade-offs between resolution, field of view, and working distance, making tasks like microscopic analysis, industrial inspection, and forensic imaging difficult [&#8230;]
 
 ---
 
