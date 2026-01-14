@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-14 09:43 UTC_
+_Last updated: 2026-01-14 10:40 UTC_
 
 ## [Rethinking Power: GaN Innovation for Data Centers and Humanoid](https://www.eetasia.com/rethinking-power-gan-innovation-for-data-centers-and-humanoid/)
 **Published:** Wed, 14 Jan 2026 02:19:43 +0000
@@ -922,11 +922,11 @@ _Last updated: 2026-01-14 09:43 UTC_
 
 ---
 
-## [Swansea University leads UK semiconductor doctoral training.](https://www.electronicsweekly.com/news/business/swansea-university-leads-uk-semiconductor-industry-future-centre-for-doctoral-traning-2026-01/)
+## [Swansea University leads UK semiconductor doctoral training](https://www.electronicsweekly.com/news/business/swansea-university-leads-uk-semiconductor-industry-future-centre-for-doctoral-traning-2026-01/)
 **Published:** Wed, 14 Jan 2026 06:18:54 +0000
 
 <p>Swansea University will lead a major national initiative to address the UK’s semiconductor skills gap with the launch of a new Centre for Doctoral Training (CDT) in semiconductor skills. The ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/swansea-university-leads-uk-semiconductor-industry-future-centre-for-doctoral-traning-2026-01/">Swansea University leads UK semiconductor doctoral training.</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/swansea-university-leads-uk-semiconductor-industry-future-centre-for-doctoral-traning-2026-01/">Swansea University leads UK semiconductor doctoral training</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -935,27 +935,6 @@ _Last updated: 2026-01-14 09:43 UTC_
 
 <p>RANsemi, the British wireless semiconductor company specialising in Open RAN baseband technologies, and Radisys, the open telecom software specialist, have expanded their  collaboration into  5G products for tactical and mission-critical ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/ransemi-and-radisys-address-mission-critical-comms-2026-01/">RANSemi and Radisys address mission-critical comms</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [JOB: CAD Component Specialist, Senior At Qualcomm In Bengaluru](https://www.electronicsforu.com/career/cad-component-specialist-senior-qualcomm-bengaluru)
-**Published:** Tue, 13 Jan 2026 08:19:22 +0000
-
-<img alt="JOB: CAD Component Specialist, Senior At Qualcomm In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2014/02/qualcomm-sign-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Qualcomm Preferred Qualifications Principal Duties and Responsibilities Level of Responsibility:• Works under close supervision.• Responsible for own work. Decision-making is limited. Impact of decisions is readily apparent. Errors made typically only impact timeline (i.e., require additional time to correct).• Requires verbal and written communication skills to convey basic, routine factual [&#8230;]
-
----
-
-## [JOB: Technician I, RF At ANDREW In Goa](https://www.electronicsforu.com/career/technician-rf-andrew-goa)
-**Published:** Tue, 13 Jan 2026 08:03:33 +0000
-
-<img alt="Internship" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/lam-job-search-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Goa Company: ANDREW As Technician I, RF, you will support RF/Wireless engineering work through RF tuning, development, construction, and testing of base station antennas and related processes. You will apply basic engineering, electronics, and mechanical principles to perform a variety of technical tasks and assist in solving complex problems. This role will [&#8230;]
-
----
-
-## [Lens-Free Sensor For High Resolution Imaging](https://www.electronicsforu.com/news/lens-free-sensor-for-high-resolution-imaging)
-**Published:** Tue, 13 Jan 2026 06:45:55 +0000
-
-<img alt="Lens-Free Sensor For High Resolution Imaging" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/camera-lens-aperture-blades-in-macro-view-2025-06-08-05-51-27-utc-998x665-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />By replacing bulky lenses with software-driven sensor arrays, the researchers unlock a new era of flexible, high-resolution and scalable imaging. High-resolution imaging has long been constrained by conventional optics. Lenses require precise alignment and create trade-offs between resolution, field of view, and working distance, making tasks like microscopic analysis, industrial inspection, and forensic imaging difficult [&#8230;]
 
 ---
 
