@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-14 02:04 UTC_
+_Last updated: 2026-01-14 04:02 UTC_
+
+## [Rethinking Power: GaN Innovation for Data Centers and Humanoid](https://www.eetasia.com/rethinking-power-gan-innovation-for-data-centers-and-humanoid/)
+**Published:** Wed, 14 Jan 2026 02:19:43 +0000
+
+<p>From AI data centers and megawatt-scale power racks to humanoid robots and next-generation mobility, GaN is reshaping what's possible in modern power electronics.</p>
+<p>The post <a href="https://www.eetasia.com/rethinking-power-gan-innovation-for-data-centers-and-humanoid/">Rethinking Power: GaN Innovation for Data Centers and Humanoid</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [ModelCat AI and Alif Semiconductor Collaborate to Deliver Rapid ML Model Onboarding to Customers](https://www.eetasia.com/modelcat-ai-and-alif-semiconductor-collaborate-to-deliver-rapid-ml-model-onboarding-to-customers/)
 **Published:** Tue, 13 Jan 2026 03:11:59 +0000
@@ -15,14 +23,6 @@ _Last updated: 2026-01-14 02:04 UTC_
 
 <p>BOS Semiconductors has licensed Ceva's SensPro AI DSP architecture for its Eagle-A standalone ADAS SoC.</p>
 <p>The post <a href="https://www.eetasia.com/ceva-powers-bos-semiconductors-next-gen-adas-platforms/">Ceva Powers BOS Semiconductors&#8217; Next-Gen ADAS Platforms</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/)
-**Published:** Wed, 07 Jan 2026 23:53:32 +0000
-
-<p>Nordic Semiconductor is bringing AI intelligence and functionality to the smallest battery-powered IoT devices.</p>
-<p>The post <a href="https://www.eetasia.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/">Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
