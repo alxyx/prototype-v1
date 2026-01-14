@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-14 13:54 UTC_
+_Last updated: 2026-01-14 14:40 UTC_
 
 ## [Rethinking Power: GaN Innovation for Data Centers and Humanoid](https://www.eetasia.com/rethinking-power-gan-innovation-for-data-centers-and-humanoid/)
 **Published:** Wed, 14 Jan 2026 02:19:43 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-01-14 13:54 UTC_
 
 ---
 
+## [Wolfspeed Achieves 300-mm SiC Wafer Production](https://www.powerelectronicsnews.com/wolfspeed-achieves-300-mm-sic-wafer-production/)
+**Published:** Wed, 14 Jan 2026 14:17:18 +0000
+
+<img alt="Wolfspeed Achieves 300mm SiC Wafer Production." class="webfeedsFeaturedVisual wp-post-image" height="1223" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Multiple_Stack_with_Calipe_with_Light_Streak_2.jpg?fit=2000%2C1223" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>The company is accelerating 300mm SiC commercialization for next-generation AI, AR/VR, and advanced power platforms.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-achieves-300-mm-sic-wafer-production/">Wolfspeed Achieves 300-mm SiC Wafer Production</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Die-Level Optimization of Thermal Performance in Power Semiconductors](https://www.powerelectronicsnews.com/die-level-optimization-of-thermal-performance-in-power-semiconductors/)
 **Published:** Wed, 14 Jan 2026 13:00:00 +0000
 
@@ -898,11 +906,11 @@ _Last updated: 2026-01-14 13:54 UTC_
 
 ---
 
-## [How MEMS Technology Is Transforming RF and Power Control](https://www.powerelectronicsnews.com/how-mems-technology-is-transforming-rf-and-power-control/)
-**Published:** Thu, 08 Jan 2026 13:00:00 +0000
+## [GlobalFoundries’ MIPS To Buy ARC IP Business from Synopsys](https://www.eetimes.com/globalfoundries-mips-to-buy-arc-ip-business-from-synopsys/)
+**Published:** Wed, 14 Jan 2026 14:01:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="587" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_a4b0f0.jpeg?fit=964%2C587" style="display: block; margin-bottom: 5px; clear: both;" width="964" /><p>Ultra-low-power actuation can be achieved with MEMS utilizing through-glass via technology, controlling both power and signal frequency.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/how-mems-technology-is-transforming-rf-and-power-control/">How MEMS Technology Is Transforming RF and Power Control</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>As Synopsys focuses on its core IP business, GlobalFoundries’ MIPS appears to be a natural home for ARC as it goes all out on physical AI.</p>
+<p>The post <a href="https://www.eetimes.com/globalfoundries-mips-to-buy-arc-ip-business-from-synopsys/">GlobalFoundries’ MIPS To Buy ARC IP Business from Synopsys</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
