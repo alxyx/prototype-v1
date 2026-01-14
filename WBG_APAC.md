@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-14 05:01 UTC_
+_Last updated: 2026-01-14 05:39 UTC_
 
 ## [Rethinking Power: GaN Innovation for Data Centers and Humanoid](https://www.eetasia.com/rethinking-power-gan-innovation-for-data-centers-and-humanoid/)
 **Published:** Wed, 14 Jan 2026 02:19:43 +0000
