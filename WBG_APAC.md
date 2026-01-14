@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-14 11:35 UTC_
+_Last updated: 2026-01-14 13:02 UTC_
 
 ## [Rethinking Power: GaN Innovation for Data Centers and Humanoid](https://www.eetasia.com/rethinking-power-gan-innovation-for-data-centers-and-humanoid/)
 **Published:** Wed, 14 Jan 2026 02:19:43 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-01-14 11:35 UTC_
 
 ---
 
+## [Die-Level Optimization of Thermal Performance in Power Semiconductors](https://www.powerelectronicsnews.com/die-level-optimization-of-thermal-performance-in-power-semiconductors/)
+**Published:** Wed, 14 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3072" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_570752062.jpg?fit=4608%2C3072" style="display: block; margin-bottom: 5px; clear: both;" width="4608" /><p>The increasing power density in advanced WBG semiconductors necessitates the optimization of thermal management.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/die-level-optimization-of-thermal-performance-in-power-semiconductors/">Die-Level Optimization of Thermal Performance in Power Semiconductors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Enphase Energy Starts Production and Distribution of IQ9N-3P](https://www.powerelectronicsnews.com/enphase-energy-starts-production-and-distribution-of-iq9n-3p/)
 **Published:** Tue, 13 Jan 2026 15:00:00 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2026-01-14 11:35 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="587" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/image_a4b0f0.jpeg?fit=964%2C587" style="display: block; margin-bottom: 5px; clear: both;" width="964" /><p>Ultra-low-power actuation can be achieved with MEMS utilizing through-glass via technology, controlling both power and signal frequency.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/how-mems-technology-is-transforming-rf-and-power-control/">How MEMS Technology Is Transforming RF and Power Control</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [GaNext Introduces 9mΩ Automotive-Grade GaN FET, Achieving Energy Efficiency Breakthrough](https://www.powerelectronicsnews.com/ganext-introduces-9m%cf%89-automotive-grade-gan-fet-achieving-energy-efficiency-breakthrough/)
-**Published:** Wed, 07 Jan 2026 14:03:11 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="577" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/GaNext_Thumbnail.png?fit=1152%2C577" style="display: block; margin-bottom: 5px; clear: both;" width="1152" /><p>GaNext has announced the launch of the G2E65R009 series, a 650V Automotive-Grade GaN FET featuring a breakthrough 9mΩ on-state resistance (Rds(on)).</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/ganext-introduces-9m%cf%89-automotive-grade-gan-fet-achieving-energy-efficiency-breakthrough/">GaNext Introduces 9mΩ Automotive-Grade GaN FET, Achieving Energy Efficiency Breakthrough</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
