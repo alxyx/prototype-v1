@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-14 21:35 UTC_
+_Last updated: 2026-01-14 22:37 UTC_
 
 ## [Rethinking Power: GaN Innovation for Data Centers and Humanoid](https://www.eetasia.com/rethinking-power-gan-innovation-for-data-centers-and-humanoid/)
 **Published:** Wed, 14 Jan 2026 02:19:43 +0000
@@ -23,6 +23,30 @@ _Last updated: 2026-01-14 21:35 UTC_
 
 <p>BOS Semiconductors has licensed Ceva's SensPro AI DSP architecture for its Eagle-A standalone ADAS SoC.</p>
 <p>The post <a href="https://www.eetasia.com/ceva-powers-bos-semiconductors-next-gen-adas-platforms/">Ceva Powers BOS Semiconductors&#8217; Next-Gen ADAS Platforms</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Seoul National University-Drexel University Team Achieve World’s Highest Efficiency Fully Stretchable OLEDs with 17% External Quantum Efficiency](https://www.semiconductor-digest.com/seoul-national-university-drexel-university-team-achieve-worlds-highest-efficiency-fully-stretchable-oleds-with-17-external-quantum-efficiency/?utm_source=rss&utm_medium=rss&utm_campaign=seoul-national-university-drexel-university-team-achieve-worlds-highest-efficiency-fully-stretchable-oleds-with-17-external-quantum-efficiency)
+**Published:** Wed, 14 Jan 2026 22:02:01 +0000
+
+<p>Overcoming the limitations of fully stretchable OLEDs through an exciplex-assisted phosphorescent layer and MXene-contact stretchable electrodes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/seoul-national-university-drexel-university-team-achieve-worlds-highest-efficiency-fully-stretchable-oleds-with-17-external-quantum-efficiency/">Seoul National University-Drexel University Team Achieve World&#8217;s Highest Efficiency Fully Stretchable OLEDs with 17% External Quantum Efficiency</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Startup Island TAIWAN Silicon Valley Hub Marks First Anniversary](https://www.semiconductor-digest.com/startup-island-taiwan-silicon-valley-hub-marks-first-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=startup-island-taiwan-silicon-valley-hub-marks-first-anniversary)
+**Published:** Wed, 14 Jan 2026 21:51:53 +0000
+
+<p>Startup Island TAIWAN Silicon Valley Hub celebrated its first anniversary on January 12 (U.S. Pacific Time) in Palo Alto.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/startup-island-taiwan-silicon-valley-hub-marks-first-anniversary/">Startup Island TAIWAN Silicon Valley Hub Marks First Anniversary</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Synopsys Enters Definitive Agreement with GlobalFoundries For Sale of Processor IP Solutions Business](https://www.semiconductor-digest.com/synopsys-enters-definitive-agreement-with-globalfoundries-for-sale-of-processor-ip-solutions-business/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-enters-definitive-agreement-with-globalfoundries-for-sale-of-processor-ip-solutions-business)
+**Published:** Wed, 14 Jan 2026 21:48:29 +0000
+
+<p>Synopsys, Inc. today announced it has entered into a definitive agreement for the sale of its Processor IP Solutions business to GlobalFoundries.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/synopsys-enters-definitive-agreement-with-globalfoundries-for-sale-of-processor-ip-solutions-business/">Synopsys Enters Definitive Agreement with GlobalFoundries For Sale of Processor IP Solutions Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,30 +823,6 @@ _Last updated: 2026-01-14 21:35 UTC_
 
 <p>Following a stronger-than-expected third quarter, the global semiconductor market is projected to grow 22.5% in 2025, reaching US$ 772.2 billion.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-market-approaches-1-trillion-in-2026/">Global Semiconductor Market Approaches $1 Trillion in 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Black Semiconductor Selects Critical Manufacturing to Power Fully Automated 300mm Pilot Line in Aachen, Germany](https://www.semiconductor-digest.com/black-semiconductor-selects-critical-manufacturing-to-power-fully-aatomated-300mm-pilot-line-in-aachen-germany/?utm_source=rss&utm_medium=rss&utm_campaign=black-semiconductor-selects-critical-manufacturing-to-power-fully-aatomated-300mm-pilot-line-in-aachen-germany)
-**Published:** Wed, 03 Dec 2025 21:54:10 +0000
-
-<p>The facility will scale Black Semiconductor’s graphene-based chip connection technology into a mass-production capable environment, marking one of Europe’s most ambitious semiconductor innovation projects.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/black-semiconductor-selects-critical-manufacturing-to-power-fully-aatomated-300mm-pilot-line-in-aachen-germany/">Black Semiconductor Selects Critical Manufacturing to Power Fully Automated 300mm Pilot Line in Aachen, Germany</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [onsemi and Innoscience Announce Plans to Collaborate to Speed Global Rollout of GaN Power Portfolio](https://www.semiconductor-digest.com/onsemi-and-innoscience-announce-plans-to-collaborate-to-speed-global-rollout-of-gan-power-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=onsemi-and-innoscience-announce-plans-to-collaborate-to-speed-global-rollout-of-gan-power-portfolio)
-**Published:** Wed, 03 Dec 2025 21:43:40 +0000
-
-<p>Collaboration would add high-volume, cost-optimized, worldwide GaN manufacturing for faster market deployment of energy-efficient power devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/onsemi-and-innoscience-announce-plans-to-collaborate-to-speed-global-rollout-of-gan-power-portfolio/">onsemi and Innoscience Announce Plans to Collaborate to Speed Global Rollout of GaN Power Portfolio</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Global Semiconductor Equipment Billings Increased 11% Year-Over-Year in Q3 2025, SEMI Reports](https://www.semiconductor-digest.com/global-semiconductor-equipment-billings-increased-11-year-over-year-in-q3-2025-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-equipment-billings-increased-11-year-over-year-in-q3-2025-semi-reports)
-**Published:** Wed, 03 Dec 2025 21:39:14 +0000
-
-<p>Third quarter 2025 billings registered a 2% quarter-over-quarter growth. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-equipment-billings-increased-11-year-over-year-in-q3-2025-semi-reports/">Global Semiconductor Equipment Billings Increased 11% Year-Over-Year in Q3 2025, SEMI Reports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
