@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-14 22:37 UTC_
+_Last updated: 2026-01-14 23:32 UTC_
 
 ## [Rethinking Power: GaN Innovation for Data Centers and Humanoid](https://www.eetasia.com/rethinking-power-gan-innovation-for-data-centers-and-humanoid/)
 **Published:** Wed, 14 Jan 2026 02:19:43 +0000
@@ -23,6 +23,22 @@ _Last updated: 2026-01-14 22:37 UTC_
 
 <p>BOS Semiconductors has licensed Ceva's SensPro AI DSP architecture for its Eagle-A standalone ADAS SoC.</p>
 <p>The post <a href="https://www.eetasia.com/ceva-powers-bos-semiconductors-next-gen-adas-platforms/">Ceva Powers BOS Semiconductors&#8217; Next-Gen ADAS Platforms</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Applied Brain Research Closes Seed Funding Round to Accelerate Edge AI Voice Processing](https://www.semiconductor-digest.com/applied-brain-research-closes-seed-funding-round-to-accelerate-edge-ai-voice-processing/?utm_source=rss&utm_medium=rss&utm_campaign=applied-brain-research-closes-seed-funding-round-to-accelerate-edge-ai-voice-processing)
+**Published:** Wed, 14 Jan 2026 23:02:37 +0000
+
+<p>Applied Brain Research announced today the successful closure of its oversubscribed seed funding round.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applied-brain-research-closes-seed-funding-round-to-accelerate-edge-ai-voice-processing/">Applied Brain Research Closes Seed Funding Round to Accelerate Edge AI Voice Processing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Omdia: Large-Area Display Shipments Grew 2.9% Year Over Year in 2025](https://www.semiconductor-digest.com/omdia-large-area-display-shipments-grew-2-9-year-over-year-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-large-area-display-shipments-grew-2-9-year-over-year-in-2025)
+**Published:** Wed, 14 Jan 2026 22:46:30 +0000
+
+<p>Despite ongoing global economic uncertainty and the introduction of new US tariff policies, large-area display shipments grew 2.9% year-over-year (YoY) in 2025 based on Omdia’s latest forecast.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-large-area-display-shipments-grew-2-9-year-over-year-in-2025/">Omdia: Large-Area Display Shipments Grew 2.9% Year Over Year in 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,22 +823,6 @@ _Last updated: 2026-01-14 22:37 UTC_
 
 <p>To meet demand and ensure high-quality production, semiconductor manufacturers need accurate and accessible transmission electron microscopy (TEM) metrology data.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/meeting-the-demand-for-advanced-semiconductor-chips-scaling-production-and-closing-the-lab-to-fab-data-gap/">Meeting the Demand for Advanced Semiconductor Chips: Scaling Production and Closing the Lab-to-Fab Data Gap</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Bright Prospects for Tin Perovskite Solar Cells](https://www.semiconductor-digest.com/bright-prospects-for-tin-perovskite-solar-cells/?utm_source=rss&utm_medium=rss&utm_campaign=bright-prospects-for-tin-perovskite-solar-cells)
-**Published:** Wed, 03 Dec 2025 22:22:21 +0000
-
-<p>A new study suggests why tin-based perovskites could be used to make solar cells that are not only really environmentally friendly but also very stable.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/bright-prospects-for-tin-perovskite-solar-cells/">Bright Prospects for Tin Perovskite Solar Cells</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Global Semiconductor Market Approaches $1 Trillion in 2026](https://www.semiconductor-digest.com/global-semiconductor-market-approaches-1-trillion-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-market-approaches-1-trillion-in-2026)
-**Published:** Wed, 03 Dec 2025 22:08:27 +0000
-
-<p>Following a stronger-than-expected third quarter, the global semiconductor market is projected to grow 22.5% in 2025, reaching US$ 772.2 billion.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-market-approaches-1-trillion-in-2026/">Global Semiconductor Market Approaches $1 Trillion in 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
