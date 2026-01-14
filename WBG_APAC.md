@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-14 17:41 UTC_
+_Last updated: 2026-01-14 18:48 UTC_
 
 ## [Rethinking Power: GaN Innovation for Data Centers and Humanoid](https://www.eetasia.com/rethinking-power-gan-innovation-for-data-centers-and-humanoid/)
 **Published:** Wed, 14 Jan 2026 02:19:43 +0000
@@ -23,6 +23,30 @@ _Last updated: 2026-01-14 17:41 UTC_
 
 <p>BOS Semiconductors has licensed Ceva's SensPro AI DSP architecture for its Eagle-A standalone ADAS SoC.</p>
 <p>The post <a href="https://www.eetasia.com/ceva-powers-bos-semiconductors-next-gen-adas-platforms/">Ceva Powers BOS Semiconductors&#8217; Next-Gen ADAS Platforms</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Siemens Acquires ASTER Technologies](https://www.semiconductor-digest.com/siemens-acquires-aster-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-acquires-aster-technologies)
+**Published:** Wed, 14 Jan 2026 17:54:55 +0000
+
+<p>Siemens today announced it has acquired ASTER Technologies, a privately held market leader in printed circuit board assembly (PCBA) test verification and engineering software.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-acquires-aster-technologies/">Siemens Acquires ASTER Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Mitsubishi Electric to Ship Samples of Four New Trench SiC-MOSFET Bare Dies for Power Semiconductors](https://www.semiconductor-digest.com/mitsubishi-electric-to-ship-samples-of-four-new-trench-sic-mosfet-bare-dies-for-power-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-electric-to-ship-samples-of-four-new-trench-sic-mosfet-bare-dies-for-power-semiconductors)
+**Published:** Wed, 14 Jan 2026 17:51:55 +0000
+
+<p>Advanced bare dies for diverse embedding needs, enabling lower power consumption in power electronics equipment.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/mitsubishi-electric-to-ship-samples-of-four-new-trench-sic-mosfet-bare-dies-for-power-semiconductors/">Mitsubishi Electric to Ship Samples of Four New Trench SiC-MOSFET Bare Dies for Power Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Magnachip Announces the Retirement of Director Ilbok Lee](https://www.semiconductor-digest.com/magnachip-announces-the-retirement-of-director-ilbok-lee/?utm_source=rss&utm_medium=rss&utm_campaign=magnachip-announces-the-retirement-of-director-ilbok-lee)
+**Published:** Wed, 14 Jan 2026 17:42:20 +0000
+
+<p>Magnachip Semiconductor Corporation today announced that Ilbok Lee has notified the Company of his intention to retire from the Company’s Board of Directors, to be effective at the Company’s next scheduled Board meeting to be held on January 14, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/magnachip-announces-the-retirement-of-director-ilbok-lee/">Magnachip Announces the Retirement of Director Ilbok Lee</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,30 +823,6 @@ _Last updated: 2026-01-14 17:41 UTC_
 
 <p>Third quarter 2025 billings registered a 2% quarter-over-quarter growth. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-equipment-billings-increased-11-year-over-year-in-q3-2025-semi-reports/">Global Semiconductor Equipment Billings Increased 11% Year-Over-Year in Q3 2025, SEMI Reports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [3D Printed Chip Packages Could Supercharge Semiconductor Manufacturing](https://www.semiconductor-digest.com/3d-printed-chip-packages-could-supercharge-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=3d-printed-chip-packages-could-supercharge-semiconductor-manufacturing)
-**Published:** Wed, 03 Dec 2025 21:28:26 +0000
-
-<p>UV light is used to prepare a resin-coated glass piece in the first step of the 3D printed semiconductor chip manufacturing process, allowing it to connect with other chips. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/3d-printed-chip-packages-could-supercharge-semiconductor-manufacturing/">3D Printed Chip Packages Could Supercharge Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Solstice Advanced Materials Breaks Ground on $200M Spokane Expansion](https://www.semiconductor-digest.com/solstice-advanced-materials-breaks-ground-on-200m-spokane-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=solstice-advanced-materials-breaks-ground-on-200m-spokane-expansion)
-**Published:** Tue, 02 Dec 2025 19:26:59 +0000
-
-<p>Facility is expected to double capacity, reduce lead times by 25%, enable circular production for semiconductor materials and strengthen Solstice's U.S. manufacturing footprint.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/solstice-advanced-materials-breaks-ground-on-200m-spokane-expansion/">Solstice Advanced Materials Breaks Ground on $200M Spokane Expansion</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Ricursive Intelligence Launches Frontier AI Lab](https://www.semiconductor-digest.com/ricursive-intelligence-launches-frontier-ai-lab/?utm_source=rss&utm_medium=rss&utm_campaign=ricursive-intelligence-launches-frontier-ai-lab)
-**Published:** Tue, 02 Dec 2025 19:23:55 +0000
-
-<p>Ricursive Intelligence, an AI lab with the mission to transform semiconductor design, launched today and announced its $35 million seed round led by Sequoia Capital at a $750 million final valuation.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ricursive-intelligence-launches-frontier-ai-lab/">Ricursive Intelligence Launches Frontier AI Lab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
