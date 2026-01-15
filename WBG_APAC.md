@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-15 14:39 UTC_
+_Last updated: 2026-01-15 15:40 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -842,6 +842,14 @@ _Last updated: 2026-01-15 14:39 UTC_
 
 ---
 
+## [Microchip Launches New Family of Military-Grade TVS Devices](https://www.powerelectronicsnews.com/microchip-launches-new-family-of-military-grade-tvs-devices/)
+**Published:** Thu, 15 Jan 2026 15:00:00 +0000
+
+<img alt="Microchip Launches New Family of Military-Grade Plastic TVS Devices." class="webfeedsFeaturedVisual wp-post-image" height="444" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Microchip_TVS.png?fit=799%2C444" style="display: block; margin-bottom: 5px; clear: both;" width="799" /><p>The JANPTX family of TVS devices meet the MIL-PRF-19500 qualification and provide a 1.5 kW peak pulse power rating.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/microchip-launches-new-family-of-military-grade-tvs-devices/">Microchip Launches New Family of Military-Grade TVS Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Partial Power Processing Explained](https://www.powerelectronicsnews.com/partial-power-processing-explained/)
 **Published:** Thu, 15 Jan 2026 13:00:00 +0000
 
@@ -911,14 +919,6 @@ _Last updated: 2026-01-15 14:39 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/infineon-featured.png?fit=559%2C685" style="display: block; margin-bottom: 5px; clear: both;" width="559" /><p>The ACW741x family includes 20-MHz Wi-Fi 7, Bluetooth Core 6.0, and Thread, with up to 15x power improvements in standby and active modes.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/infineon-develops-the-first-20-mhz-only-wi-fi-7-device/">Infineon Develops the First 20-MHz-Only Wi-Fi 7 Device</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [GaN in Multilevel Buck Converters, WBG Thermal Packaging, NFE Communication: Power Electronics Week Insights](https://www.powerelectronicsnews.com/gan-in-multilevel-buck-converters-wbg-thermal-packaging-nfe-communication-power-electronics-week-insights/)
-**Published:** Fri, 09 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on GaN in Multilevel Buck Converters, WBG Thermal Packaging, and NFE Communication!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/gan-in-multilevel-buck-converters-wbg-thermal-packaging-nfe-communication-power-electronics-week-insights/">GaN in Multilevel Buck Converters, WBG Thermal Packaging, NFE Communication: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
