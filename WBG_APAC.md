@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-15 17:48 UTC_
+_Last updated: 2026-01-15 18:51 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -927,14 +927,6 @@ _Last updated: 2026-01-15 17:48 UTC_
 
 <p>As Synopsys focuses on its core IP business, GlobalFoundries’ MIPS appears to be a natural home for ARC as it goes all out on physical AI.</p>
 <p>The post <a href="https://www.eetimes.com/globalfoundries-mips-to-buy-arc-ip-business-from-synopsys/">GlobalFoundries’ MIPS To Buy ARC IP Business from Synopsys</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Photonics Lights Up Canada’s Semiconductor Scene](https://www.eetimes.com/photonics-lights-up-canadas-semiconductor-scene/)
-**Published:** Mon, 12 Jan 2026 13:00:00 +0000
-
-<p>Canada's photonics industry surges as the backbone for AI and quantum tech.</p>
-<p>The post <a href="https://www.eetimes.com/photonics-lights-up-canadas-semiconductor-scene/">Photonics Lights Up Canada’s Semiconductor Scene</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
