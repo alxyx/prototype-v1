@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-15 01:59 UTC_
+_Last updated: 2026-01-15 03:55 UTC_
+
+## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
+**Published:** Thu, 15 Jan 2026 01:58:08 +0000
+
+<p>GlobalFoundries is acquiring Synopsys' ARC Processor IP Solutions business to accelerate its physical AI roadmap and strengthen its capabilities in custom silicon solutions.</p>
+<p>The post <a href="https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/">GlobalFoundries to Acquire Synopsys&#8217; ARC Processor IP Solutions Business</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [AI’s Memory Squeeze: Capacity, Conflict, and a Market in Flux](https://www.eetasia.com/ais-memory-squeeze-capacity-conflict-and-a-market-in-flux/)
 **Published:** Thu, 15 Jan 2026 01:16:39 +0000
