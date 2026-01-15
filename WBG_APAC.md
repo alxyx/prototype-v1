@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-15 13:01 UTC_
+_Last updated: 2026-01-15 13:54 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -935,6 +935,34 @@ _Last updated: 2026-01-15 13:01 UTC_
 
 <p>Canada's photonics industry surges as the backbone for AI and quantum tech.</p>
 <p>The post <a href="https://www.eetimes.com/photonics-lights-up-canadas-semiconductor-scene/">Photonics Lights Up Canada’s Semiconductor Scene</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [JOB: Associate Engineer At Eaton In Pune](https://www.electronicsforu.com/career/associate-engineer-eaton-pune)
+**Published:** Thu, 15 Jan 2026 11:17:38 +0000
+
+<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton What You’ll Do Qualifications Skills Desired: Special:
+
+---
+
+## [JOB: Associate Engineer Electrical & Electronics Engineering VIII At Vertiv In Pune](https://www.electronicsforu.com/career/associate-engineer-electrical-electronics-engineering-viii-vertiv-pune)
+**Published:** Thu, 15 Jan 2026 10:25:39 +0000
+
+<img alt="JOB: Associate Engineer Electrical &amp; Electronics Engineering VIII At Vertiv In Pune" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/06/Vertiv-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Vertiv Job Description Hardware design &#38; development of rectifier product projects, creating timeline and, organising collaborative meetings and ensuring project comply with specifications, timelines. Peer review project work for technical accuracy. Maintain knowledge of new trends, developments, technologies, materials and best practices; apply this knowledge to continually improve product line [&#8230;]
+
+---
+
+## [High-Power Test Systems Advance eMobility](https://www.electronicsforu.com/news/high-power-test-systems-advance-emobility)
+**Published:** Thu, 15 Jan 2026 07:44:24 +0000
+
+<img alt="High-Power Test Systems Advance eMobility" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/ces2026-mv-e-v2-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new generation of battery cycling and emulation platforms showcased at a major global tech show points to faster, safer, and more realistic electric vehicle validation without relying on full vehicle prototypes. As electrification accelerates across mobility platforms, testing infrastructure is becoming just as critical as battery chemistry or power electronics. A high-power battery cycling [&#8230;]
+
+---
+
+## [Making AI Work Smarter At The Edge](https://www.electronicsforu.com/news/making-ai-work-smarter-at-the-edge)
+**Published:** Thu, 15 Jan 2026 06:27:19 +0000
+
+<img alt="Making AI Work Smarter At The Edge" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/NXP-eIQ-Agentic-AI-Framework-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Edge AI can now think and act fast. Discover how it is making factories, hospitals, and buildings smarter without needing the cloud. Edge AI developers often struggle with high latency, limited processing power, and the difficulty of coordinating multiple AI models in real time. NXP Semiconductors’ new eIQ Agentic AI Framework tackles these challenges by [&#8230;]
 
 ---
 
