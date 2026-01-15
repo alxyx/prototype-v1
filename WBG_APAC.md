@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-15 11:35 UTC_
+_Last updated: 2026-01-15 13:01 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -842,6 +842,14 @@ _Last updated: 2026-01-15 11:35 UTC_
 
 ---
 
+## [Partial Power Processing Explained](https://www.powerelectronicsnews.com/partial-power-processing-explained/)
+**Published:** Thu, 15 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2280" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_245968995.jpeg?fit=4056%2C2280" style="display: block; margin-bottom: 5px; clear: both;" width="4056" /><p>An introduction to partial power processing (PPP) where only a part of the total power flow to the load is processed. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/partial-power-processing-explained/">Partial Power Processing Explained</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Wolfspeed Achieves 300-mm SiC Wafer Production](https://www.powerelectronicsnews.com/wolfspeed-achieves-300-mm-sic-wafer-production/)
 **Published:** Wed, 14 Jan 2026 14:17:18 +0000
 
@@ -911,14 +919,6 @@ _Last updated: 2026-01-15 11:35 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on GaN in Multilevel Buck Converters, WBG Thermal Packaging, and NFE Communication!</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/gan-in-multilevel-buck-converters-wbg-thermal-packaging-nfe-communication-power-electronics-week-insights/">GaN in Multilevel Buck Converters, WBG Thermal Packaging, NFE Communication: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Allegro Expands Power-Thru Gate Driver Portfolio](https://www.powerelectronicsnews.com/allegro-expands-power-thru-gate-driver-portfolio/)
-**Published:** Thu, 08 Jan 2026 14:13:47 +0000
-
-<img alt="Allegro Expands Power-Thru™ Gate Driver Portfolio for High-Voltage SiC Applications." class="webfeedsFeaturedVisual wp-post-image" height="320" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/press-ahv85003-85043-640x480-1.png?fit=427%2C320" style="display: block; margin-bottom: 5px; clear: both;" width="427" /><p>The expanded Power-Thru™ gate driver portfolio simplifies SiC power design for AI data centers and electric vehicles (EVs).</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/allegro-expands-power-thru-gate-driver-portfolio/">Allegro Expands Power-Thru Gate Driver Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
