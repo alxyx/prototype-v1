@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-15 15:40 UTC_
+_Last updated: 2026-01-15 16:50 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -842,6 +842,14 @@ _Last updated: 2026-01-15 15:40 UTC_
 
 ---
 
+## [Diodes Introduces 28V USB-C PD Dual-Role Controllers](https://www.powerelectronicsnews.com/diodes-introduces-28v-usb-c-pd-dual-role-controllers/)
+**Published:** Thu, 15 Jan 2026 16:27:19 +0000
+
+<img alt="Diodes Introduces 28V USB-C PD Dual-Role Controllers." class="webfeedsFeaturedVisual wp-post-image" height="353" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/High-Performance-USB-PD-Dual-Role-Power-DRP-Controllers-Provide-a-Versatile-Solution-for-USB-PD-Equipment__ScaleMaxWidthWzQ2MF0.png?fit=460%2C353" style="display: block; margin-bottom: 5px; clear: both;" width="460" /><p>The new dual-role power delivery controllers handle power requests and outputs in battery-operated portable devices.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/diodes-introduces-28v-usb-c-pd-dual-role-controllers/">Diodes Introduces 28V USB-C PD Dual-Role Controllers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Microchip Launches New Family of Military-Grade TVS Devices](https://www.powerelectronicsnews.com/microchip-launches-new-family-of-military-grade-tvs-devices/)
 **Published:** Thu, 15 Jan 2026 15:00:00 +0000
 
@@ -911,14 +919,6 @@ _Last updated: 2026-01-15 15:40 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="277" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Figure-4-2.png?fit=575%2C277" style="display: block; margin-bottom: 5px; clear: both;" width="575" /><p>CES 2026 showcased innovative power technologies, including chip-scale cooling, battery-free AI vision, SSBs, and ultra-low-power wireless systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/power-innovations-at-ces-2026/">Power innovations at CES 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Infineon Develops the First 20-MHz-Only Wi-Fi 7 Device](https://www.powerelectronicsnews.com/infineon-develops-the-first-20-mhz-only-wi-fi-7-device/)
-**Published:** Fri, 09 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/12/infineon-featured.png?fit=559%2C685" style="display: block; margin-bottom: 5px; clear: both;" width="559" /><p>The ACW741x family includes 20-MHz Wi-Fi 7, Bluetooth Core 6.0, and Thread, with up to 15x power improvements in standby and active modes.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-develops-the-first-20-mhz-only-wi-fi-7-device/">Infineon Develops the First 20-MHz-Only Wi-Fi 7 Device</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
