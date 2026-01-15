@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-15 09:42 UTC_
+_Last updated: 2026-01-15 10:40 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -935,14 +935,6 @@ _Last updated: 2026-01-15 09:42 UTC_
 
 <p>Canada's photonics industry surges as the backbone for AI and quantum tech.</p>
 <p>The post <a href="https://www.eetimes.com/photonics-lights-up-canadas-semiconductor-scene/">Photonics Lights Up Canada’s Semiconductor Scene</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [2025 semi revenue up 21% YoY at $793bn](https://www.electronicsweekly.com/news/business/2025-semi-revenue-up-21-yoy-at-793bn-2026-01/)
-**Published:** Wed, 14 Jan 2026 06:26:00 +0000
-
-<p>Semiconductor revenue totaled $793 billion in 2025, an increase of 21% year-over-year (YoY), according to Gartner. “AI semiconductors — including processors, high-bandwidth memory (HBM), and networking components accounted for nearly ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/2025-semi-revenue-up-21-yoy-at-793bn-2026-01/">2025 semi revenue up 21% YoY at $793bn</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
