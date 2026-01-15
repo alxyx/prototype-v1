@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-15 05:40 UTC_
+_Last updated: 2026-01-15 06:48 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -951,14 +951,6 @@ _Last updated: 2026-01-15 05:40 UTC_
 
 <p>Swansea University will lead a major national initiative to address the UK’s semiconductor skills gap with the launch of a new Centre for Doctoral Training (CDT) in semiconductor skills. The ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/swansea-university-leads-uk-semiconductor-industry-future-centre-for-doctoral-traning-2026-01/">Swansea University leads UK semiconductor doctoral training</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [RANSemi and Radisys address mission-critical comms](https://www.electronicsweekly.com/news/business/ransemi-and-radisys-address-mission-critical-comms-2026-01/)
-**Published:** Tue, 13 Jan 2026 11:58:02 +0000
-
-<p>RANsemi, the British wireless semiconductor company specialising in Open RAN baseband technologies, and Radisys, the open telecom software specialist, have expanded their  collaboration into  5G products for tactical and mission-critical ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/ransemi-and-radisys-address-mission-critical-comms-2026-01/">RANSemi and Radisys address mission-critical comms</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
