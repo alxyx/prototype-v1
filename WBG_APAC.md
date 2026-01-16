@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-16 08:45 UTC_
+_Last updated: 2026-01-16 09:41 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
