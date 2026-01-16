@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-16 15:38 UTC_
+_Last updated: 2026-01-16 16:43 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -842,6 +842,30 @@ _Last updated: 2026-01-16 15:38 UTC_
 
 ---
 
+## [Power Innovations at CES 2026, CHIPX’s Expansion Plan, SiC SBDs: Power Electronics Week Insights](https://www.powerelectronicsnews.com/power-innovations-at-ces-2026-chipxs-expansion-plan-sic-sbds-power-electronics-week-insights/)
+**Published:** Fri, 16 Jan 2026 15:49:14 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Power Innovations at CES 2026, CHIPX’s Expansion Plan, and SiC SBDs!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-innovations-at-ces-2026-chipxs-expansion-plan-sic-sbds-power-electronics-week-insights/">Power Innovations at CES 2026, CHIPX’s Expansion Plan, SiC SBDs: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [ST Expands SRK1004 Family of Synchronous-Rectifier Controllers](https://www.powerelectronicsnews.com/st-expands-srk1004-family-of-synchronous-rectifier-controllers/)
+**Published:** Fri, 16 Jan 2026 15:46:17 +0000
+
+<img alt="ST Expands SRK1004 Family of Synchronous-Rectifier Controllers." class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/ST_SRK1004_Eval.png?fit=600%2C600" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>SRK1004 controllers provide a gate-drive output suitable for N-channel logic-level or standard level power MOSFETs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-expands-srk1004-family-of-synchronous-rectifier-controllers/">ST Expands SRK1004 Family of Synchronous-Rectifier Controllers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Littelfuse Expands Its TMR Switch Portfolio](https://www.powerelectronicsnews.com/littelfuse-expands-its-tmr-switch-portfolio/)
+**Published:** Fri, 16 Jan 2026 15:44:35 +0000
+
+<img alt="Littelfuse Expands Its TMR Switch Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="1280" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/1280_cu44rKPup5777MRW.png?fit=1280%2C1280" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The new omnipolar magnetic switch models, housed in a compact LGA4 package, combine TMR with CMOS circuitry.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/littelfuse-expands-its-tmr-switch-portfolio/">Littelfuse Expands Its TMR Switch Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Diodes Introduces 28V USB-C PD Dual-Role Controllers](https://www.powerelectronicsnews.com/diodes-introduces-28v-usb-c-pd-dual-role-controllers/)
 **Published:** Thu, 15 Jan 2026 16:27:19 +0000
 
@@ -895,30 +919,6 @@ _Last updated: 2026-01-16 15:38 UTC_
 
 <img alt="Silicon wafers for the production of integrated-circuit semiconductors." class="webfeedsFeaturedVisual wp-post-image" height="528" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Adobe-Stock_Silicon-wafers-for-production-of-integrated-circuit-semiconductors.png?fit=793%2C528" style="display: block; margin-bottom: 5px; clear: both;" width="793" /><p>SBDs (Schottky barrier diodes) enable fast switching and low forward voltage drop in high-efficiency power designs.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/sbd-when-silicon-carbide-sic-began-to-shine/">SBD: When Silicon Carbide (SiC) Began to Shine</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [CHIPX’s plan to expand ASEAN’s high-end chip design](https://www.powerelectronicsnews.com/chipxs-plan-to-expand-aseans-high-end-chip-design/)
-**Published:** Mon, 12 Jan 2026 16:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_643031254.jpeg?fit=6000%2C4000" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>Malaysia has long been a bedrock of the global semiconductor supply chain, with a significant number of players that have established production plants in Penang,...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/chipxs-plan-to-expand-aseans-high-end-chip-design/">CHIPX’s plan to expand ASEAN’s high-end chip design</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Part 1 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?](https://www.powerelectronicsnews.com/part-1-of-pens-2025-survey-special-report-what-did-power-electronics-professionals-say/)
-**Published:** Mon, 12 Jan 2026 14:29:13 +0000
-
-<img alt="Part 1 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?" class="webfeedsFeaturedVisual wp-post-image" height="563" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Cover_Image_Survey.jpg?fit=1000%2C563" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Readers of Part 1 will gain insight into what most power electronics professionals consider essential skills in simulation tools, programming languages, and engineering skill sets.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/part-1-of-pens-2025-survey-special-report-what-did-power-electronics-professionals-say/">Part 1 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power innovations at CES 2026](https://www.powerelectronicsnews.com/power-innovations-at-ces-2026/)
-**Published:** Fri, 09 Jan 2026 21:52:37 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="277" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Figure-4-2.png?fit=575%2C277" style="display: block; margin-bottom: 5px; clear: both;" width="575" /><p>CES 2026 showcased innovative power technologies, including chip-scale cooling, battery-free AI vision, SSBs, and ultra-low-power wireless systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-innovations-at-ces-2026/">Power innovations at CES 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
