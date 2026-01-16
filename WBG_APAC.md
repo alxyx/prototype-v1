@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-16 20:36 UTC_
+_Last updated: 2026-01-16 21:35 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -919,14 +919,6 @@ _Last updated: 2026-01-16 20:36 UTC_
 
 <img alt="Silicon wafers for the production of integrated-circuit semiconductors." class="webfeedsFeaturedVisual wp-post-image" height="528" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Adobe-Stock_Silicon-wafers-for-production-of-integrated-circuit-semiconductors.png?fit=793%2C528" style="display: block; margin-bottom: 5px; clear: both;" width="793" /><p>SBDs (Schottky barrier diodes) enable fast switching and low forward voltage drop in high-efficiency power designs.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/sbd-when-silicon-carbide-sic-began-to-shine/">SBD: When Silicon Carbide (SiC) Began to Shine</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [GlobalFoundries’ MIPS To Buy ARC IP Business from Synopsys](https://www.eetimes.com/globalfoundries-mips-to-buy-arc-ip-business-from-synopsys/)
-**Published:** Wed, 14 Jan 2026 14:01:00 +0000
-
-<p>As Synopsys focuses on its core IP business, GlobalFoundries’ MIPS appears to be a natural home for ARC as it goes all out on physical AI.</p>
-<p>The post <a href="https://www.eetimes.com/globalfoundries-mips-to-buy-arc-ip-business-from-synopsys/">GlobalFoundries’ MIPS To Buy ARC IP Business from Synopsys</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
