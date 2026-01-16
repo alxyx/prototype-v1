@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-16 21:35 UTC_
+_Last updated: 2026-01-16 22:36 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -39,6 +39,30 @@ _Last updated: 2026-01-16 21:35 UTC_
 
 <p>BOS Semiconductors has licensed Ceva's SensPro AI DSP architecture for its Eagle-A standalone ADAS SoC.</p>
 <p>The post <a href="https://www.eetasia.com/ceva-powers-bos-semiconductors-next-gen-adas-platforms/">Ceva Powers BOS Semiconductors&#8217; Next-Gen ADAS Platforms</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Northrop Grumman Accelerates Microelectronics Testing Under DARPA Program](https://www.semiconductor-digest.com/northrop-grumman-accelerates-microelectronics-testing-under-darpa-program/?utm_source=rss&utm_medium=rss&utm_campaign=northrop-grumman-accelerates-microelectronics-testing-under-darpa-program)
+**Published:** Fri, 16 Jan 2026 22:03:37 +0000
+
+<p>Advanced technology enhances testing speed ten-fold for microelectronics used in space and nuclear facilities.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/northrop-grumman-accelerates-microelectronics-testing-under-darpa-program/">Northrop Grumman Accelerates Microelectronics Testing Under DARPA Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Greene Tweed Welcomes Thomas J. Castle as New Chief Operating  Officer](https://www.semiconductor-digest.com/greene-tweed-welcomes-thomas-j-castle-as-new-chief-operating-officer/?utm_source=rss&utm_medium=rss&utm_campaign=greene-tweed-welcomes-thomas-j-castle-as-new-chief-operating-officer)
+**Published:** Fri, 16 Jan 2026 21:57:12 +0000
+
+<p>Greene Tweed has appointed Thomas (T.J.) Castle as its new Chief Operating Officer (COO).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/greene-tweed-welcomes-thomas-j-castle-as-new-chief-operating-officer/">Greene Tweed Welcomes Thomas J. Castle as New Chief Operating  Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AI’s Water Demand to Surge Nearly 130% by 2050](https://www.semiconductor-digest.com/ais-water-demand-to-surge-nearly-130-by-2050/?utm_source=rss&utm_medium=rss&utm_campaign=ais-water-demand-to-surge-nearly-130-by-2050)
+**Published:** Fri, 16 Jan 2026 21:53:06 +0000
+
+<p>Analysis finds AI could add 30 trillion liters of annual water demand, but targeted reuse and digital infrastructure investments can substantially offset demand and protect communities.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ais-water-demand-to-surge-nearly-130-by-2050/">AI’s Water Demand to Surge Nearly 130% by 2050 </a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -815,30 +839,6 @@ _Last updated: 2026-01-16 21:35 UTC_
 
 <p>Perovskite materials, particularly organic-inorganic halide perovskites, are revolutionizing solar energy due to their remarkable power conversion efficiencies and unique optoelectronic properties.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/super-efficient-perovskite-solar-cell-technology-why-the-semiconductor-industry-should-be-paying-attention/">Super-Efficient Perovskite Solar Cell Technology: Why the Semiconductor Industry Should Be Paying Attention</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Infineon Enhances Electreon’s Electric Road Charging with High-Power Silicon Carbide Technology](https://www.semiconductor-digest.com/infineon-enhances-electreons-electric-road-charging-with-high-power-silicon-carbide-technology/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-enhances-electreons-electric-road-charging-with-high-power-silicon-carbide-technology)
-**Published:** Thu, 04 Dec 2025 21:52:19 +0000
-
-<p>Infineon Technologies AG will supply customized silicon carbide (SiC) power modules to Electreon, a provider of wireless charging solutions for electric vehicles (EVs), for its dynamic in-road charging technology.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/infineon-enhances-electreons-electric-road-charging-with-high-power-silicon-carbide-technology/">Infineon Enhances Electreon&#8217;s Electric Road Charging with High-Power Silicon Carbide Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [onsemi Launches New Cooling Packaging Technology to Drive Efficiency in Power-Hungry Applications](https://www.semiconductor-digest.com/onsemi-launches-new-cooling-packaging-technology-to-drive-efficiency-in-power-hungry-applications/?utm_source=rss&utm_medium=rss&utm_campaign=onsemi-launches-new-cooling-packaging-technology-to-drive-efficiency-in-power-hungry-applications)
-**Published:** Thu, 04 Dec 2025 21:49:15 +0000
-
-<p>onsemi today announced the release of its EliteSiC MOSFETs in the industry-standard T2PAK top-cool package, advancing power packaging for automotive and industrial applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/onsemi-launches-new-cooling-packaging-technology-to-drive-efficiency-in-power-hungry-applications/">onsemi Launches New Cooling Packaging Technology to Drive Efficiency in Power-Hungry Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Accelerating Quantum Computing Innovation: Veeco Expands Global Footprint with MBE Wins](https://www.semiconductor-digest.com/accelerating-quantum-computing-innovation-veeco-expands-global-footprint-with-mbe-wins/?utm_source=rss&utm_medium=rss&utm_campaign=accelerating-quantum-computing-innovation-veeco-expands-global-footprint-with-mbe-wins)
-**Published:** Thu, 04 Dec 2025 21:10:15 +0000
-
-<p>Veeco Instruments Inc. today announced wins with Sparrow Quantum (Denmark) and Yeungnam University (South Korea), who have selected Veeco’s Molecular Beam Epitaxy (MBE) systems to strengthen their cutting-edge quantum research.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/accelerating-quantum-computing-innovation-veeco-expands-global-footprint-with-mbe-wins/">Accelerating Quantum Computing Innovation: Veeco Expands Global Footprint with MBE Wins</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
