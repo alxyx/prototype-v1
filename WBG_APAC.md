@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-16 13:52 UTC_
+_Last updated: 2026-01-16 14:40 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -39,6 +39,14 @@ _Last updated: 2026-01-16 13:52 UTC_
 
 <p>BOS Semiconductors has licensed Ceva's SensPro AI DSP architecture for its Eagle-A standalone ADAS SoC.</p>
 <p>The post <a href="https://www.eetasia.com/ceva-powers-bos-semiconductors-next-gen-adas-platforms/">Ceva Powers BOS Semiconductors&#8217; Next-Gen ADAS Platforms</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [From Roadmaps to Reality: Unlocking Scalable Photonic IC Manufacturing](https://www.semiconductor-digest.com/from-roadmaps-to-reality-unlocking-scalable-photonic-ic-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=from-roadmaps-to-reality-unlocking-scalable-photonic-ic-manufacturing)
+**Published:** Fri, 16 Jan 2026 13:50:24 +0000
+
+<p>Over the past decade, Photonic Integrated Circuits (PICs), have evolved from specialized telecom components into enabling technologies for applications that need to move data fast and with low power. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/from-roadmaps-to-reality-unlocking-scalable-photonic-ic-manufacturing/">From Roadmaps to Reality: Unlocking Scalable Photonic IC Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -831,14 +839,6 @@ _Last updated: 2026-01-16 13:52 UTC_
 
 <p>The semiconductor industry is a global ecosystem where success depends on deep collaboration—across customers, suppliers, service providers, government agencies and academic institutions.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/building-resilience-through-long-standing-ecosystem-partnerships/">Building Resilience Through Long-Standing Ecosystem Partnerships</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Meeting the Demand for Advanced Semiconductor Chips: Scaling Production and Closing the Lab-to-Fab Data Gap](https://www.semiconductor-digest.com/meeting-the-demand-for-advanced-semiconductor-chips-scaling-production-and-closing-the-lab-to-fab-data-gap/?utm_source=rss&utm_medium=rss&utm_campaign=meeting-the-demand-for-advanced-semiconductor-chips-scaling-production-and-closing-the-lab-to-fab-data-gap)
-**Published:** Thu, 04 Dec 2025 15:49:41 +0000
-
-<p>To meet demand and ensure high-quality production, semiconductor manufacturers need accurate and accessible transmission electron microscopy (TEM) metrology data.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/meeting-the-demand-for-advanced-semiconductor-chips-scaling-production-and-closing-the-lab-to-fab-data-gap/">Meeting the Demand for Advanced Semiconductor Chips: Scaling Production and Closing the Lab-to-Fab Data Gap</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
