@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-16 14:40 UTC_
+_Last updated: 2026-01-16 15:38 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -39,6 +39,22 @@ _Last updated: 2026-01-16 14:40 UTC_
 
 <p>BOS Semiconductors has licensed Ceva's SensPro AI DSP architecture for its Eagle-A standalone ADAS SoC.</p>
 <p>The post <a href="https://www.eetasia.com/ceva-powers-bos-semiconductors-next-gen-adas-platforms/">Ceva Powers BOS Semiconductors&#8217; Next-Gen ADAS Platforms</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SONOTEC’s 2026 Outlook](https://www.semiconductor-digest.com/sonotecs-2026-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=sonotecs-2026-outlook)
+**Published:** Fri, 16 Jan 2026 15:06:25 +0000
+
+<p>Sonotec will invest heavily in its SEMIFLOW product series in response to rapidly changing market requirements.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sonotecs-2026-outlook/">SONOTEC’s 2026 Outlook</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The Entirely Curvilinear Photomask Era Has Arrived](https://www.semiconductor-digest.com/the-entirely-curvilinear-photomask-era-has-arrived/?utm_source=rss&utm_medium=rss&utm_campaign=the-entirely-curvilinear-photomask-era-has-arrived)
+**Published:** Fri, 16 Jan 2026 14:31:52 +0000
+
+<p>Semiconductor manufacturing has reached a curve in the road – one driven by the convergence of GPU acceleration, pixel-based computing, eBeam multi-beam mask writers, and entirely curvilinear inverse lithography technology (ILT).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-entirely-curvilinear-photomask-era-has-arrived/">The Entirely Curvilinear Photomask Era Has Arrived</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -823,22 +839,6 @@ _Last updated: 2026-01-16 14:40 UTC_
 
 <p>Veeco Instruments Inc. today announced wins with Sparrow Quantum (Denmark) and Yeungnam University (South Korea), who have selected Veeco’s Molecular Beam Epitaxy (MBE) systems to strengthen their cutting-edge quantum research.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/accelerating-quantum-computing-innovation-veeco-expands-global-footprint-with-mbe-wins/">Accelerating Quantum Computing Innovation: Veeco Expands Global Footprint with MBE Wins</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Context Engineering: The Key to Unlocking AI’s Potential in Semiconductor Design and Operations](https://www.semiconductor-digest.com/context-engineering-the-key-to-unlocking-ais-potential-in-semiconductor-design-and-operations/?utm_source=rss&utm_medium=rss&utm_campaign=context-engineering-the-key-to-unlocking-ais-potential-in-semiconductor-design-and-operations)
-**Published:** Thu, 04 Dec 2025 16:03:49 +0000
-
-<p>Context engineering is the practice of carefully designing, structuring, and managing the information (context) provided to AI models so they generate accurate, relevant, and useful outputs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/context-engineering-the-key-to-unlocking-ais-potential-in-semiconductor-design-and-operations/">Context Engineering: The Key to Unlocking AI&#8217;s Potential in Semiconductor Design and Operations</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Building Resilience Through Long-Standing Ecosystem Partnerships](https://www.semiconductor-digest.com/building-resilience-through-long-standing-ecosystem-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=building-resilience-through-long-standing-ecosystem-partnerships)
-**Published:** Thu, 04 Dec 2025 15:54:12 +0000
-
-<p>The semiconductor industry is a global ecosystem where success depends on deep collaboration—across customers, suppliers, service providers, government agencies and academic institutions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/building-resilience-through-long-standing-ecosystem-partnerships/">Building Resilience Through Long-Standing Ecosystem Partnerships</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
