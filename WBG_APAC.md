@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-16 23:34 UTC_
+_Last updated: 2026-01-17 01:56 UTC_
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -31,14 +31,6 @@ _Last updated: 2026-01-16 23:34 UTC_
 
 <p>The partnership allows Alif customers access to ModelCat's single step model build process, to generate custom AI models fully optimized for Alif's Ensemble processors.</p>
 <p>The post <a href="https://www.eetasia.com/modelcat-ai-and-alif-semiconductor-collaborate-to-deliver-rapid-ml-model-onboarding-to-customers/">ModelCat AI and Alif Semiconductor Collaborate to Deliver Rapid ML Model Onboarding to Customers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Ceva Powers BOS Semiconductors’ Next-Gen ADAS Platforms](https://www.eetasia.com/ceva-powers-bos-semiconductors-next-gen-adas-platforms/)
-**Published:** Tue, 13 Jan 2026 03:08:18 +0000
-
-<p>BOS Semiconductors has licensed Ceva's SensPro AI DSP architecture for its Eagle-A standalone ADAS SoC.</p>
-<p>The post <a href="https://www.eetasia.com/ceva-powers-bos-semiconductors-next-gen-adas-platforms/">Ceva Powers BOS Semiconductors&#8217; Next-Gen ADAS Platforms</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
