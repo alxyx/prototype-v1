@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-19 13:05 UTC_
+_Last updated: 2026-01-19 14:00 UTC_
 
 ## [AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026](https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/)
 **Published:** Mon, 19 Jan 2026 03:35:18 +0000
@@ -898,6 +898,14 @@ _Last updated: 2026-01-19 13:05 UTC_
 
 ---
 
+## [Telink Semiconductor Showcases AIoT Wireless Innovations at CES 2026](https://www.eetimes.com/telink-semiconductor-showcases-aiot-wireless-innovations-at-ces-2026/)
+**Published:** Mon, 19 Jan 2026 14:00:00 +0000
+
+<p>On January 9, 2026, the CES concluded successfully in Las Vegas, USA, reaffirming its status as the premier global event for the consumer electronics industry. At the Venetian Convention Center,&#160;Telink&#160;Semiconductor&#160;showcased&#160;its latest generation of SoC chips alongside five immersive technology demonstrations. Highlights&#160;included&#160;true 8K wireless gaming solutions, advanced Edge AI intelligent noise cancellation, innovative&#160;Bluetooth®&#160;Channel Sounding, and multi-device [&#8230;]</p>
+<p>The post <a href="https://www.eetimes.com/telink-semiconductor-showcases-aiot-wireless-innovations-at-ces-2026/">Telink Semiconductor Showcases AIoT Wireless Innovations at CES 2026</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [CES 2026: How Do AMD and Nvidia Physical AI Stories Stack Up?](https://www.eetimes.com/ces-2026-how-do-amd-and-nvidia-physical-ai-stories-stack-up/)
 **Published:** Mon, 19 Jan 2026 10:10:20 +0000
 
@@ -914,10 +922,24 @@ _Last updated: 2026-01-19 13:05 UTC_
 
 ---
 
-## [JOB: Engineer, ECAD And Component At Molex In Bengaluru](https://www.electronicsforu.com/career/engineer-ecad-component-molex-bengaluru)
-**Published:** Fri, 16 Jan 2026 09:14:40 +0000
+## [JOB: PCB Design Engineer At CynLr In Bengaluru](https://www.electronicsforu.com/career/pcb-design-engineer-cynlr-bengaluru)
+**Published:** Mon, 19 Jan 2026 09:19:25 +0000
 
-<img alt="Firmware Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2017/08/Molex-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Molex You will be part of the&#160;Global Engineering Services (GES)&#160;division, supporting the&#160;Advanced Engineering Team. We collaborate across design, procurement, and manufacturing to maintain robust ECAD libraries and enable efficient, cost-effective engineering solutions. What You Will Do Who You Are (Basic Qualifications) Minimum 5+ years of hands-on experience in ECAD library [&#8230;]
+<img alt="Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/08/jobs-hiring-help-wanter-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: CynLr Product Design begins as a hypothetical concept. Transforming that concept into a functional Product is a highly creative and iterative process that requires a strong understanding of electrical fundamentals, physical constraints, and manufacturing realities. For any hardware product, the PCB is the physical backbone that defines electrical performance, reliability, [&#8230;]
+
+---
+
+## [Simplifying Complex Device Modeling](https://www.electronicsforu.com/news/simplifying-complex-device-modeling)
+**Published:** Mon, 19 Jan 2026 06:28:03 +0000
+
+<img alt="Simplifying Complex Device Modeling" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/screenshot_pr-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Device modeling used to take weeks. Now, AI and automation can do it in hours. See how it makes building models faster and easier. If you’ve been working on advanced semiconductor designs you know how much more complex device modeling has become. With gate-all-around GAA transistors, wide-bandgap materials like GaN and SiC, and new integration [&#8230;]
+
+---
+
+## [High-Power UV Laser](https://www.electronicsforu.com/news/high-power-uv-laser)
+**Published:** Mon, 19 Jan 2026 06:04:51 +0000
+
+<img alt="High-Power UV Laser " class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/np680-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new ultraviolet laser source pushes maskless lithography closer to mainstream use in advanced semiconductor packaging by combining short wavelength, watt-class output, and long operational life in a compact form factor. A high-power ultraviolet semiconductor laser by Nuvoton Technology entering mass production could significantly improve fine patterning and throughput in maskless lithography systems used for [&#8230;]
 
 ---
 
