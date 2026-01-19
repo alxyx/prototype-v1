@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-19 09:49 UTC_
+_Last updated: 2026-01-19 10:44 UTC_
 
 ## [AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026](https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/)
 **Published:** Mon, 19 Jan 2026 03:35:18 +0000
@@ -895,6 +895,14 @@ _Last updated: 2026-01-19 09:49 UTC_
 
 <img alt="Silicon wafers for the production of integrated-circuit semiconductors." class="webfeedsFeaturedVisual wp-post-image" height="528" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Adobe-Stock_Silicon-wafers-for-production-of-integrated-circuit-semiconductors.png?fit=793%2C528" style="display: block; margin-bottom: 5px; clear: both;" width="793" /><p>SBDs (Schottky barrier diodes) enable fast switching and low forward voltage drop in high-efficiency power designs.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/sbd-when-silicon-carbide-sic-began-to-shine/">SBD: When Silicon Carbide (SiC) Began to Shine</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [CES 2026: How Do AMD and Nvidia Physical AI Stories Stack Up?](https://www.eetimes.com/ces-2026-how-do-amd-and-nvidia-physical-ai-stories-stack-up/)
+**Published:** Mon, 19 Jan 2026 10:10:20 +0000
+
+<p>In this video, TIRIAS Research analysts Francis Sideco and Jim McGregor examine AMD and Nvidia’s CES announcements and their implications for AI, the tech industry, and the global economy in 2026.</p>
+<p>The post <a href="https://www.eetimes.com/ces-2026-how-do-amd-and-nvidia-physical-ai-stories-stack-up/">CES 2026: How Do AMD and Nvidia Physical AI Stories Stack Up?</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
