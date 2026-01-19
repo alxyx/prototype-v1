@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-19 11:37 UTC_
+_Last updated: 2026-01-19 13:05 UTC_
 
 ## [AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026](https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/)
 **Published:** Mon, 19 Jan 2026 03:35:18 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-01-19 11:37 UTC_
 
 ---
 
+## [The Quest to Make Diamond as Available as Silicon](https://www.powerelectronicsnews.com/the-quest-to-make-diamond-as-available-as-silicon/)
+**Published:** Mon, 19 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1304" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/image_6c3b33.png?fit=1291%2C1304" style="display: block; margin-bottom: 5px; clear: both;" width="1291" /><p>The state of the diamond semiconductor industry and an interview with Adam Khan of Diamond Quanta covering their diamond-on-Si tech.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-quest-to-make-diamond-as-available-as-silicon/">The Quest to Make Diamond as Available as Silicon</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Power Innovations at CES 2026, CHIPX’s Expansion Plan, SiC SBDs: Power Electronics Week Insights](https://www.powerelectronicsnews.com/power-innovations-at-ces-2026-chipxs-expansion-plan-sic-sbds-power-electronics-week-insights/)
 **Published:** Fri, 16 Jan 2026 15:49:14 +0000
 
@@ -890,14 +898,6 @@ _Last updated: 2026-01-19 11:37 UTC_
 
 ---
 
-## [SBD: When Silicon Carbide (SiC) Began to Shine](https://www.powerelectronicsnews.com/sbd-when-silicon-carbide-sic-began-to-shine/)
-**Published:** Tue, 13 Jan 2026 13:00:00 +0000
-
-<img alt="Silicon wafers for the production of integrated-circuit semiconductors." class="webfeedsFeaturedVisual wp-post-image" height="528" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Adobe-Stock_Silicon-wafers-for-production-of-integrated-circuit-semiconductors.png?fit=793%2C528" style="display: block; margin-bottom: 5px; clear: both;" width="793" /><p>SBDs (Schottky barrier diodes) enable fast switching and low forward voltage drop in high-efficiency power designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/sbd-when-silicon-carbide-sic-began-to-shine/">SBD: When Silicon Carbide (SiC) Began to Shine</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [CES 2026: How Do AMD and Nvidia Physical AI Stories Stack Up?](https://www.eetimes.com/ces-2026-how-do-amd-and-nvidia-physical-ai-stories-stack-up/)
 **Published:** Mon, 19 Jan 2026 10:10:20 +0000
 
@@ -911,14 +911,6 @@ _Last updated: 2026-01-19 11:37 UTC_
 
 <p>Micron Technology has signed an exclusive Letter of Intent (LOI) to acquire Powerchip Semiconductor Manufacturing Corporation’s (PSMC) P5 fabrication site in Tongluo, Miaoli County, Taiwan (pictured) for total cash consideration ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/micron-to-buy-powerchip-fab-2026-01/">Micron to buy Powerchip fab</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [We’re forever blowing bubbles](https://www.electronicsweekly.com/news/business/tech-forever-blowing-bubbles-2026-01/)
-**Published:** Fri, 16 Jan 2026 06:28:37 +0000
-
-<p>The currently strong semiconductor market is being driven by AI applications, says Semiconductor Intelligence. A McKinsey survey showed 88% of businesses used AI in 2025 compared to just 55% in ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/tech-forever-blowing-bubbles-2026-01/">We’re forever blowing bubbles</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
