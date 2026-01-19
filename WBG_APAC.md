@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-19 14:42 UTC_
+_Last updated: 2026-01-19 15:41 UTC_
 
 ## [AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026](https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/)
 **Published:** Mon, 19 Jan 2026 03:35:18 +0000
@@ -818,6 +818,22 @@ _Last updated: 2026-01-19 14:42 UTC_
 
 ---
 
+## [Four Prominent Speakers selected for APEC 2026 Plenary Session](https://www.powerelectronicsnews.com/four-prominent-speakers-selected-for-apec-2026-plenary-session/)
+**Published:** Mon, 19 Jan 2026 15:19:13 +0000
+
+<img alt="APEC 2026 Unveils Four Distinguished Plenary Speakers for Keynote Session." class="webfeedsFeaturedVisual wp-post-image" height="1267" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/PCI23_0605.jpg?fit=1900%2C1267" style="display: block; margin-bottom: 5px; clear: both;" width="1900" /><p>The keynote presentations at APEC 2026 Plenary Session will cover topics that are relevant to power electronics engineers.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/four-prominent-speakers-selected-for-apec-2026-plenary-session/">Four Prominent Speakers selected for APEC 2026 Plenary Session </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Allegro Introduces Ultra-Low-Loss Isolated Current Sensor](https://www.powerelectronicsnews.com/allegro-introduces-ultra-low-loss-isolated-current-sensor/)
+**Published:** Mon, 19 Jan 2026 15:15:10 +0000
+
+<img alt="Allegro Introduces Ultra-Low-Loss Isolated Current Sensor." class="webfeedsFeaturedVisual wp-post-image" height="1920" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Press-ACS37200-640x480-1.jpg?fit=2560%2C1920" style="display: block; margin-bottom: 5px; clear: both;" width="2560" /><p>The ACS37200 cuts power loss by 90% and reduces space requirements by up to 95% in EV, industrial, and data center systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/allegro-introduces-ultra-low-loss-isolated-current-sensor/">Allegro Introduces Ultra-Low-Loss Isolated Current Sensor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [The Quest to Make Diamond as Available as Silicon](https://www.powerelectronicsnews.com/the-quest-to-make-diamond-as-available-as-silicon/)
 **Published:** Mon, 19 Jan 2026 13:00:00 +0000
 
@@ -879,22 +895,6 @@ _Last updated: 2026-01-19 14:42 UTC_
 
 <img alt="Wolfspeed Achieves 300mm SiC Wafer Production." class="webfeedsFeaturedVisual wp-post-image" height="1223" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Multiple_Stack_with_Calipe_with_Light_Streak_2.jpg?fit=2000%2C1223" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>The company is accelerating 300mm SiC commercialization for next-generation AI, AR/VR, and advanced power platforms.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-achieves-300-mm-sic-wafer-production/">Wolfspeed Achieves 300-mm SiC Wafer Production</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Die-Level Optimization of Thermal Performance in Power Semiconductors](https://www.powerelectronicsnews.com/die-level-optimization-of-thermal-performance-in-power-semiconductors/)
-**Published:** Wed, 14 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3072" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_570752062.jpg?fit=4608%2C3072" style="display: block; margin-bottom: 5px; clear: both;" width="4608" /><p>The increasing power density in advanced WBG semiconductors necessitates the optimization of thermal management.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/die-level-optimization-of-thermal-performance-in-power-semiconductors/">Die-Level Optimization of Thermal Performance in Power Semiconductors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Enphase Energy Starts Production and Distribution of IQ9N-3P](https://www.powerelectronicsnews.com/enphase-energy-starts-production-and-distribution-of-iq9n-3p/)
-**Published:** Tue, 13 Jan 2026 15:00:00 +0000
-
-<img alt="Enphase Energy Starts Production and Distribution of IQ9N-3P." class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Enphase_IQ9-3P.png?fit=2160%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="2160" /><p>The IQ9N-3P is first Enphase Energy’s commercial microinverter based on gallium nitride (GaN) power devices.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/enphase-energy-starts-production-and-distribution-of-iq9n-3p/">Enphase Energy Starts Production and Distribution of IQ9N-3P</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
