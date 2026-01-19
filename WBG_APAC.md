@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-19 04:05 UTC_
+_Last updated: 2026-01-19 05:06 UTC_
 
 ## [AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026](https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/)
 **Published:** Mon, 19 Jan 2026 03:35:18 +0000
@@ -23,14 +23,6 @@ _Last updated: 2026-01-19 04:05 UTC_
 
 <p>GlobalFoundries is acquiring Synopsys' ARC Processor IP Solutions business to accelerate its physical AI roadmap and strengthen its capabilities in custom silicon solutions.</p>
 <p>The post <a href="https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/">GlobalFoundries to Acquire Synopsys&#8217; ARC Processor IP Solutions Business</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [AI’s Memory Squeeze: Capacity, Conflict, and a Market in Flux](https://www.eetasia.com/ais-memory-squeeze-capacity-conflict-and-a-market-in-flux/)
-**Published:** Thu, 15 Jan 2026 01:16:39 +0000
-
-<p>The semiconductor memory industry is clearly in a state of flux, and the following developments at the close of 2025 reflect a sense of paranoia and shifting grounds.</p>
-<p>The post <a href="https://www.eetasia.com/ais-memory-squeeze-capacity-conflict-and-a-market-in-flux/">AI&#8217;s Memory Squeeze: Capacity, Conflict, and a Market in Flux</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
