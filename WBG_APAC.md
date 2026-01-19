@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-19 02:06 UTC_
+_Last updated: 2026-01-19 04:05 UTC_
+
+## [AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026](https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/)
+**Published:** Mon, 19 Jan 2026 03:35:18 +0000
+
+<p>Amber Semiconductor will chair an industry session at the Applied Power Electronics Expo 2026 titled "Vertical Power for AI Data Centers".</p>
+<p>The post <a href="https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/">AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [AI’s Role in Ending the Component “Bullwhip Effect”](https://www.eetasia.com/ais-role-in-ending-the-component-bullwhip-effect/)
+**Published:** Mon, 19 Jan 2026 02:41:20 +0000
+
+<p>AI is giving semiconductor supply chains a break in the bullwhip cycle by turning reactive planning into predictive decision-making.</p>
+<p>The post <a href="https://www.eetasia.com/ais-role-in-ending-the-component-bullwhip-effect/">AI&#8217;s Role in Ending the Component &#8220;Bullwhip Effect&#8221;</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
 **Published:** Thu, 15 Jan 2026 01:58:08 +0000
@@ -15,22 +31,6 @@ _Last updated: 2026-01-19 02:06 UTC_
 
 <p>The semiconductor memory industry is clearly in a state of flux, and the following developments at the close of 2025 reflect a sense of paranoia and shifting grounds.</p>
 <p>The post <a href="https://www.eetasia.com/ais-memory-squeeze-capacity-conflict-and-a-market-in-flux/">AI&#8217;s Memory Squeeze: Capacity, Conflict, and a Market in Flux</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Rethinking Power: GaN Innovation for Data Centers and Humanoid](https://www.eetasia.com/rethinking-power-gan-innovation-for-data-centers-and-humanoid/)
-**Published:** Wed, 14 Jan 2026 02:19:43 +0000
-
-<p>From AI data centers and megawatt-scale power racks to humanoid robots and next-generation mobility, GaN is reshaping what's possible in modern power electronics.</p>
-<p>The post <a href="https://www.eetasia.com/rethinking-power-gan-innovation-for-data-centers-and-humanoid/">Rethinking Power: GaN Innovation for Data Centers and Humanoid</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [ModelCat AI and Alif Semiconductor Collaborate to Deliver Rapid ML Model Onboarding to Customers](https://www.eetasia.com/modelcat-ai-and-alif-semiconductor-collaborate-to-deliver-rapid-ml-model-onboarding-to-customers/)
-**Published:** Tue, 13 Jan 2026 03:11:59 +0000
-
-<p>The partnership allows Alif customers access to ModelCat's single step model build process, to generate custom AI models fully optimized for Alif's Ensemble processors.</p>
-<p>The post <a href="https://www.eetasia.com/modelcat-ai-and-alif-semiconductor-collaborate-to-deliver-rapid-ml-model-onboarding-to-customers/">ModelCat AI and Alif Semiconductor Collaborate to Deliver Rapid ML Model Onboarding to Customers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
