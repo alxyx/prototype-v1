@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-19 07:43 UTC_
+_Last updated: 2026-01-19 08:48 UTC_
 
 ## [AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026](https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/)
 **Published:** Mon, 19 Jan 2026 03:35:18 +0000
@@ -15,14 +15,6 @@ _Last updated: 2026-01-19 07:43 UTC_
 
 <p>AI is giving semiconductor supply chains a break in the bullwhip cycle by turning reactive planning into predictive decision-making.</p>
 <p>The post <a href="https://www.eetasia.com/ais-role-in-ending-the-component-bullwhip-effect/">AI&#8217;s Role in Ending the Component &#8220;Bullwhip Effect&#8221;</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [GlobalFoundries to Acquire Synopsys’ ARC Processor IP Solutions Business](https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/)
-**Published:** Thu, 15 Jan 2026 01:58:08 +0000
-
-<p>GlobalFoundries is acquiring Synopsys' ARC Processor IP Solutions business to accelerate its physical AI roadmap and strengthen its capabilities in custom silicon solutions.</p>
-<p>The post <a href="https://www.eetasia.com/globalfoundries-to-acquire-synopsys-arc-processor-ip-solutions-business/">GlobalFoundries to Acquire Synopsys&#8217; ARC Processor IP Solutions Business</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
