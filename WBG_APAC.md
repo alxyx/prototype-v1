@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-19 18:47 UTC_
+_Last updated: 2026-01-19 19:33 UTC_
 
 ## [AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026](https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/)
 **Published:** Mon, 19 Jan 2026 03:35:18 +0000
@@ -15,6 +15,46 @@ _Last updated: 2026-01-19 18:47 UTC_
 
 <p>AI is giving semiconductor supply chains a break in the bullwhip cycle by turning reactive planning into predictive decision-making.</p>
 <p>The post <a href="https://www.eetasia.com/ais-role-in-ending-the-component-bullwhip-effect/">AI&#8217;s Role in Ending the Component &#8220;Bullwhip Effect&#8221;</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Industrial Display Revenues Grow 24% YoY in 2025, Led by AUO Display Plus](https://www.semiconductor-digest.com/industrial-display-revenues-grow-24-yoy-in-2025-led-by-auo-display-plus/?utm_source=rss&utm_medium=rss&utm_campaign=industrial-display-revenues-grow-24-yoy-in-2025-led-by-auo-display-plus)
+**Published:** Mon, 19 Jan 2026 19:07:04 +0000
+
+<p>Global industrial display panel makers achieved revenues reaching $3.4 billion in 2025, representing a 24% year-on-year (YoY) increase, according to Omdia's Industrial and Public Display &#038; OEM Intelligence Service.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/industrial-display-revenues-grow-24-yoy-in-2025-led-by-auo-display-plus/">Industrial Display Revenues Grow 24% YoY in 2025, Led by AUO Display Plus</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Semiconductor Materials Markets Enter 2026 with a Promising Momentum](https://www.semiconductor-digest.com/semiconductor-materials-markets-enter-2026-with-a-promising-momentum/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-materials-markets-enter-2026-with-a-promising-momentum)
+**Published:** Mon, 19 Jan 2026 19:02:57 +0000
+
+<p>Growth is increasingly supported by process complexity rather than wafer volumes alone, while geopolitical dynamics and uneven supply-chain localization continue to influence pricing, sourcing, and investment decisions as the industry enters 2026. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-materials-markets-enter-2026-with-a-promising-momentum/">Semiconductor Materials Markets Enter 2026 with a Promising Momentum</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Department of Commerce and NIST Announce CHIPS Research and Development Letter of Intent with xLight](https://www.semiconductor-digest.com/department-of-commerce-and-nist-announce-chips-research-and-development-letter-of-intent-with-xlight/?utm_source=rss&utm_medium=rss&utm_campaign=department-of-commerce-and-nist-announce-chips-research-and-development-letter-of-intent-with-xlight)
+**Published:** Mon, 19 Jan 2026 18:57:21 +0000
+
+<p>This would be the first award NIST will make after assuming leadership of the National Semiconductor Technology Center in the Trump administration.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/department-of-commerce-and-nist-announce-chips-research-and-development-letter-of-intent-with-xlight/">Department of Commerce and NIST Announce CHIPS Research and Development Letter of Intent with xLight</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Former Altera CEO Sandra Rivera Assumes Role as VSORA’s Chair of the Board](https://www.semiconductor-digest.com/former-altera-ceo-sandra-rivera-assumes-role-as-vsoras-chair-of-the-board/?utm_source=rss&utm_medium=rss&utm_campaign=former-altera-ceo-sandra-rivera-assumes-role-as-vsoras-chair-of-the-board)
+**Published:** Mon, 19 Jan 2026 18:48:58 +0000
+
+<p>Sandra Rivera, former CEO of Altera, an Intel FPGA spinout, today assumed the role of Chair of the Board of Directors of VSORA, a French  technology leader redefining AI inference for next-generation data centers, cloud infrastructure and edge.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/former-altera-ceo-sandra-rivera-assumes-role-as-vsoras-chair-of-the-board/">Former Altera CEO Sandra Rivera Assumes Role as VSORA’s Chair of the Board</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SINGULUS TECHNOLOGIES Receives New Order for MicroLED Deposition System](https://www.semiconductor-digest.com/singulus-technologies-receives-new-order-for-microled-deposition-system/?utm_source=rss&utm_medium=rss&utm_campaign=singulus-technologies-receives-new-order-for-microled-deposition-system)
+**Published:** Mon, 19 Jan 2026 18:44:40 +0000
+
+<p>SINGULUS TECHNOLOGIES has received a follow-up order for a TIMARIS deposition system for the production of MicroLEDs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/singulus-technologies-receives-new-order-for-microled-deposition-system/">SINGULUS TECHNOLOGIES Receives New Order for MicroLED Deposition System</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -775,46 +815,6 @@ _Last updated: 2026-01-19 18:47 UTC_
 
 <p>Navitas Semiconductor and Cyient Semiconductors Private Limited have announced a strategic long-term partnership intended to advance the adoption of GaN technology in India and establish a complete, end-to-end GaN ecosystem.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/navitas-cyient-semiconductors-enter-into-a-strategic-partnership/">Navitas, Cyient Semiconductors Enter Into a Strategic Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Global Semiconductor Alliance Presents Annual Awards](https://www.semiconductor-digest.com/global-semiconductor-alliance-presents-annual-awards/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-alliance-presents-annual-awards)
-**Published:** Mon, 08 Dec 2025 22:12:58 +0000
-
-<p>Last night, the Global Semiconductor Alliance (GSA) celebrated the achievements of remarkable individuals and exceptional semiconductor companies at its annual GSA Awards Ceremony gala.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-alliance-presents-annual-awards/">Global Semiconductor Alliance Presents Annual Awards</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [An Iron-On Electronic Circuit to Create Wearable Tech](https://www.semiconductor-digest.com/an-iron-on-electronic-circuit-to-create-wearable-tech/?utm_source=rss&utm_medium=rss&utm_campaign=an-iron-on-electronic-circuit-to-create-wearable-tech)
-**Published:** Fri, 05 Dec 2025 15:42:20 +0000
-
-<p>Iron-on patches can repair clothing or add personal flair to backpacks and hats. And now they could power wearable tech, too.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/an-iron-on-electronic-circuit-to-create-wearable-tech/">An Iron-On Electronic Circuit to Create Wearable Tech</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NGK to Triple Production Capacity for Translucent Alumina Wafer](https://www.semiconductor-digest.com/ngk-to-triple-production-capacity-for-translucent-alumina-wafer/?utm_source=rss&utm_medium=rss&utm_campaign=ngk-to-triple-production-capacity-for-translucent-alumina-wafer)
-**Published:** Fri, 05 Dec 2025 15:30:47 +0000
-
-<p>NGK INSULATORS, LTD. will triple its production capacity for the Translucent Alumina Wafer by fiscal 2027 to meet growing demand for chiplet integration, a key technology in advanced fields such as AI and autonomous driving.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ngk-to-triple-production-capacity-for-translucent-alumina-wafer/">NGK to Triple Production Capacity for Translucent Alumina Wafer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Smart Telematics for Smarter Fleet Decisions](https://www.semiconductor-digest.com/smart-telematics-for-smarter-fleet-decisions/?utm_source=rss&utm_medium=rss&utm_campaign=smart-telematics-for-smarter-fleet-decisions)
-**Published:** Fri, 05 Dec 2025 14:07:33 +0000
-
-<p>Whether you're managing long-haul trucks, last-mile delivery vans, or a growing pool of electric vehicles, knowing where each asset is, how it’s being driven, and what condition it’s in is no longer optional.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/smart-telematics-for-smarter-fleet-decisions/">Smart Telematics for Smarter Fleet Decisions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Super-Efficient Perovskite Solar Cell Technology: Why the Semiconductor Industry Should Be Paying Attention](https://www.semiconductor-digest.com/super-efficient-perovskite-solar-cell-technology-why-the-semiconductor-industry-should-be-paying-attention/?utm_source=rss&utm_medium=rss&utm_campaign=super-efficient-perovskite-solar-cell-technology-why-the-semiconductor-industry-should-be-paying-attention)
-**Published:** Fri, 05 Dec 2025 13:59:52 +0000
-
-<p>Perovskite materials, particularly organic-inorganic halide perovskites, are revolutionizing solar energy due to their remarkable power conversion efficiencies and unique optoelectronic properties.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/super-efficient-perovskite-solar-cell-technology-why-the-semiconductor-industry-should-be-paying-attention/">Super-Efficient Perovskite Solar Cell Technology: Why the Semiconductor Industry Should Be Paying Attention</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
