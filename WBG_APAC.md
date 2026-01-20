@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-20 06:51 UTC_
+_Last updated: 2026-01-20 07:42 UTC_
 
 ## [AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026](https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/)
 **Published:** Mon, 19 Jan 2026 03:35:18 +0000
@@ -903,14 +903,6 @@ _Last updated: 2026-01-20 06:51 UTC_
 
 <p>In this video, TIRIAS Research analysts Francis Sideco and Jim McGregor examine AMD and Nvidia’s CES announcements and their implications for AI, the tech industry, and the global economy in 2026.</p>
 <p>The post <a href="https://www.eetimes.com/ces-2026-how-do-amd-and-nvidia-physical-ai-stories-stack-up/">CES 2026: How Do AMD and Nvidia Physical AI Stories Stack Up?</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Micron to buy Powerchip fab](https://www.electronicsweekly.com/news/business/micron-to-buy-powerchip-fab-2026-01/)
-**Published:** Mon, 19 Jan 2026 06:30:21 +0000
-
-<p>Micron Technology has signed an exclusive Letter of Intent (LOI) to acquire Powerchip Semiconductor Manufacturing Corporation’s (PSMC) P5 fabrication site in Tongluo, Miaoli County, Taiwan (pictured) for total cash consideration ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/micron-to-buy-powerchip-fab-2026-01/">Micron to buy Powerchip fab</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
