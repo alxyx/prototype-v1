@@ -1,6 +1,38 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-20 21:35 UTC_
+_Last updated: 2026-01-20 22:37 UTC_
+
+## [CEA-Leti Advances Silicon-Integrated Quantum Cascade Lasers for Mid-Infrared Photonics](https://www.semiconductor-digest.com/cea-leti-advances-silicon-integrated-quantum-cascade-lasers-for-mid-infrared-photonics/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-advances-silicon-integrated-quantum-cascade-lasers-for-mid-infrared-photonics)
+**Published:** Tue, 20 Jan 2026 22:19:07 +0000
+
+<p>CEA-Leti today presented new research at SPIE Photonics West highlighting major progress in the integration of quantum cascade lasers (QCLs) with silicon photonic platforms for mid-infrared (MIR) applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-advances-silicon-integrated-quantum-cascade-lasers-for-mid-infrared-photonics/">CEA-Leti Advances Silicon-Integrated Quantum Cascade Lasers for Mid-Infrared Photonics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways](https://www.semiconductor-digest.com/semi-foundation-approved-by-the-u-s-department-of-labor-as-a-national-apprenticeship-sponsor-to-expand-semiconductor-workforce-pathways/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-approved-by-the-u-s-department-of-labor-as-a-national-apprenticeship-sponsor-to-expand-semiconductor-workforce-pathways)
+**Published:** Tue, 20 Jan 2026 22:11:06 +0000
+
+<p>The SEMI Foundation today announced it has been officially approved by the U.S. Department of Labor (USDOL) as a National Apprenticeship Sponsor, a major milestone that strengthens industry-led workforce development and expands access to high-quality, earn-and-learn pathways across the U.S. semiconductor ecosystem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-foundation-approved-by-the-u-s-department-of-labor-as-a-national-apprenticeship-sponsor-to-expand-semiconductor-workforce-pathways/">SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Thermonat Makes Nanoscale Thermal Prediction Practical for Real-World Chip Design](https://www.semiconductor-digest.com/thermonat-makes-nanoscale-thermal-prediction-practical-for-real-world-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=thermonat-makes-nanoscale-thermal-prediction-practical-for-real-world-chip-design)
+**Published:** Tue, 20 Jan 2026 21:58:53 +0000
+
+<p>Rapid-start research moves from exploration to commercialization.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/thermonat-makes-nanoscale-thermal-prediction-practical-for-real-world-chip-design/">Thermonat Makes Nanoscale Thermal Prediction Practical for Real-World Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [CEA-Leti Demonstrates Combined MicroLED and Organic Photodetector Architecture For Display-Integrated Optical Sensing](https://www.semiconductor-digest.com/cea-leti-demonstrates-combined-microled-and-organic-photodetector-architecture-for-display-integrated-optical-sensing/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-demonstrates-combined-microled-and-organic-photodetector-architecture-for-display-integrated-optical-sensing)
+**Published:** Tue, 20 Jan 2026 21:53:30 +0000
+
+<p>CEA-Leti today demonstrated a co-packaged microLED and organic photodetector (OPD) architecture that enables optical sensing functions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-demonstrates-combined-microled-and-organic-photodetector-architecture-for-display-integrated-optical-sensing/">CEA-Leti Demonstrates Combined MicroLED and Organic Photodetector Architecture For Display-Integrated Optical Sensing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
 
 ## [Industrial Display Revenues Grow 24% YoY in 2025, Led by AUO Display Plus](https://www.semiconductor-digest.com/industrial-display-revenues-grow-24-yoy-in-2025-led-by-auo-display-plus/?utm_source=rss&utm_medium=rss&utm_campaign=industrial-display-revenues-grow-24-yoy-in-2025-led-by-auo-display-plus)
 **Published:** Mon, 19 Jan 2026 19:07:04 +0000
@@ -767,38 +799,6 @@ _Last updated: 2026-01-20 21:35 UTC_
 
 <p>An analysis of the current AI infrastructure boom, examining semiconductor demand dynamics, supply chain constraints, and strategic partnerships shaping the industry.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/the-7-trillion-ai-supercycle-from-chips-to-data-centers-to-a-new-compute-economy/">The $7 Trillion AI Supercycle: From Chips to Data Centers to a New Compute Economy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [PFlow Industries Highlights VRCs for Semiconductor Manufacturing Environments](https://www.semiconductor-digest.com/pflow-industries-highlights-vrcs-for-semiconductor-manufacturing-environments/?utm_source=rss&utm_medium=rss&utm_campaign=pflow-industries-highlights-vrcs-for-semiconductor-manufacturing-environments)
-**Published:** Mon, 08 Dec 2025 23:05:36 +0000
-
-<p>PFlow Industries, the pioneer in vertical reciprocating conveyor (VRC) technology, highlights its VRCs, including the M Series and F Series, for the semiconductor industry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/pflow-industries-highlights-vrcs-for-semiconductor-manufacturing-environments/">PFlow Industries Highlights VRCs for Semiconductor Manufacturing Environments</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Pfeiffer Vacuum+Fab Solutions at SEMICON Europa 2025](https://www.semiconductor-digest.com/pfeiffer-vacuumfab-solutions-at-semicon-europa-2025/?utm_source=rss&utm_medium=rss&utm_campaign=pfeiffer-vacuumfab-solutions-at-semicon-europa-2025)
-**Published:** Mon, 08 Dec 2025 22:51:54 +0000
-
-<p>Pfeiffer Vacuum+Fab Solutions – a member of the global Busch Group – presented its comprehensive portfolio for the semiconductor industry at SEMICON Europa 2025, which took place from November 18 to 21 in Munich, Germany.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/pfeiffer-vacuumfab-solutions-at-semicon-europa-2025/">Pfeiffer Vacuum+Fab Solutions at SEMICON Europa 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The 2025 MRAM Global Innovation Forum to Showcase MRAM Technology Innovations, Advances, & Research from Industry Experts](https://www.semiconductor-digest.com/the-2025-mram-global-innovation-forum-to-showcase-mram-technology-innovations-advances-research-from-industry-experts/?utm_source=rss&utm_medium=rss&utm_campaign=the-2025-mram-global-innovation-forum-to-showcase-mram-technology-innovations-advances-research-from-industry-experts)
-**Published:** Mon, 08 Dec 2025 22:35:13 +0000
-
-<p>The MRAM Global Innovation Forum is the industry’s premier platform for Magnetoresistive Random Access Memory (MRAM) technology, bringing together leading magnetics experts and researchers from industry and academia to share the latest MRAM advancements.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-2025-mram-global-innovation-forum-to-showcase-mram-technology-innovations-advances-research-from-industry-experts/">The 2025 MRAM Global Innovation Forum to Showcase MRAM Technology Innovations, Advances, &#038; Research from Industry Experts</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Navitas, Cyient Semiconductors Enter Into a Strategic Partnership](https://www.semiconductor-digest.com/navitas-cyient-semiconductors-enter-into-a-strategic-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=navitas-cyient-semiconductors-enter-into-a-strategic-partnership)
-**Published:** Mon, 08 Dec 2025 22:30:20 +0000
-
-<p>Navitas Semiconductor and Cyient Semiconductors Private Limited have announced a strategic long-term partnership intended to advance the adoption of GaN technology in India and establish a complete, end-to-end GaN ecosystem.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/navitas-cyient-semiconductors-enter-into-a-strategic-partnership/">Navitas, Cyient Semiconductors Enter Into a Strategic Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
