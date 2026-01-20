@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-20 20:26 UTC_
+_Last updated: 2026-01-20 21:35 UTC_
 
 ## [Industrial Display Revenues Grow 24% YoY in 2025, Led by AUO Display Plus](https://www.semiconductor-digest.com/industrial-display-revenues-grow-24-yoy-in-2025-led-by-auo-display-plus/?utm_source=rss&utm_medium=rss&utm_campaign=industrial-display-revenues-grow-24-yoy-in-2025-led-by-auo-display-plus)
 **Published:** Mon, 19 Jan 2026 19:07:04 +0000
