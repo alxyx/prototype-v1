@@ -1,20 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-20 02:01 UTC_
+_Last updated: 2026-01-20 03:57 UTC_
 
 ## [AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026](https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/)
 **Published:** Mon, 19 Jan 2026 03:35:18 +0000
 
 <p>Amber Semiconductor will chair an industry session at the Applied Power Electronics Expo 2026 titled "Vertical Power for AI Data Centers".</p>
 <p>The post <a href="https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/">AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [AI’s Role in Ending the Component “Bullwhip Effect”](https://www.eetasia.com/ais-role-in-ending-the-component-bullwhip-effect/)
-**Published:** Mon, 19 Jan 2026 02:41:20 +0000
-
-<p>AI is giving semiconductor supply chains a break in the bullwhip cycle by turning reactive planning into predictive decision-making.</p>
-<p>The post <a href="https://www.eetasia.com/ais-role-in-ending-the-component-bullwhip-effect/">AI&#8217;s Role in Ending the Component &#8220;Bullwhip Effect&#8221;</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
