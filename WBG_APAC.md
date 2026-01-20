@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-20 04:59 UTC_
+_Last updated: 2026-01-20 05:42 UTC_
 
 ## [AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026](https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/)
 **Published:** Mon, 19 Jan 2026 03:35:18 +0000
