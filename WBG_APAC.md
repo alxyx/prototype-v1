@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-20 11:38 UTC_
+_Last updated: 2026-01-20 13:05 UTC_
 
 ## [AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026](https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/)
 **Published:** Mon, 19 Jan 2026 03:35:18 +0000
@@ -810,6 +810,22 @@ _Last updated: 2026-01-20 11:38 UTC_
 
 ---
 
+## [TDK Launches DC Link Film Capacitors](https://www.powerelectronicsnews.com/tdk-launches-dc-link-film-capacitors/)
+**Published:** Tue, 20 Jan 2026 13:00:00 +0000
+
+<img alt="TDK Launches ModCap UHP Series of DC Link Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="1600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/bild-press-download-en-data.png?fit=2400%2C1600" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new DC link capacitors are optimized for SiC-based inverters requiring low inductances (ESL of 8 nH) and high-frequency operation.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tdk-launches-dc-link-film-capacitors/">TDK Launches DC Link Film Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [ABB Re-enters the Solar Inverter Market through Gamesa Electric](https://www.powerelectronicsnews.com/abb-re-enters-the-solar-inverter-market-through-gamesa-electric/)
+**Published:** Tue, 20 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="432" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/image_7d205a.jpeg?fit=768%2C432" style="display: block; margin-bottom: 5px; clear: both;" width="768" /><p>ABB acquires Gamesa Electric’s power electronics business to capitalize on the maturing renewable energy sector.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/abb-re-enters-the-solar-inverter-market-through-gamesa-electric/">ABB Re-enters the Solar Inverter Market through Gamesa Electric</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Four Prominent Speakers selected for APEC 2026 Plenary Session](https://www.powerelectronicsnews.com/four-prominent-speakers-selected-for-apec-2026-plenary-session/)
 **Published:** Mon, 19 Jan 2026 15:19:13 +0000
 
@@ -874,22 +890,6 @@ _Last updated: 2026-01-20 11:38 UTC_
 
 ---
 
-## [Partial Power Processing Explained](https://www.powerelectronicsnews.com/partial-power-processing-explained/)
-**Published:** Thu, 15 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2280" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_245968995.jpeg?fit=4056%2C2280" style="display: block; margin-bottom: 5px; clear: both;" width="4056" /><p>An introduction to partial power processing (PPP) where only a part of the total power flow to the load is processed. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/partial-power-processing-explained/">Partial Power Processing Explained</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wolfspeed Achieves 300-mm SiC Wafer Production](https://www.powerelectronicsnews.com/wolfspeed-achieves-300-mm-sic-wafer-production/)
-**Published:** Wed, 14 Jan 2026 14:17:18 +0000
-
-<img alt="Wolfspeed Achieves 300mm SiC Wafer Production." class="webfeedsFeaturedVisual wp-post-image" height="1223" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Multiple_Stack_with_Calipe_with_Light_Streak_2.jpg?fit=2000%2C1223" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>The company is accelerating 300mm SiC commercialization for next-generation AI, AR/VR, and advanced power platforms.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-achieves-300-mm-sic-wafer-production/">Wolfspeed Achieves 300-mm SiC Wafer Production</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Telink Semiconductor Showcases AIoT Wireless Innovations at CES 2026](https://www.eetimes.com/telink-semiconductor-showcases-aiot-wireless-innovations-at-ces-2026/)
 **Published:** Mon, 19 Jan 2026 14:00:00 +0000
 
@@ -906,24 +906,17 @@ _Last updated: 2026-01-20 11:38 UTC_
 
 ---
 
-## [JOB: PCB Design Engineer At CynLr In Bengaluru](https://www.electronicsforu.com/career/pcb-design-engineer-cynlr-bengaluru)
-**Published:** Mon, 19 Jan 2026 09:19:25 +0000
+## [Moving Humanoids From Prototype To Practice](https://www.electronicsforu.com/news/moving-humanoids-from-prototype-to-practice)
+**Published:** Tue, 20 Jan 2026 06:38:09 +0000
 
-<img alt="Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/08/jobs-hiring-help-wanter-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: CynLr Product Design begins as a hypothetical concept. Transforming that concept into a functional Product is a highly creative and iterative process that requires a strong understanding of electrical fundamentals, physical constraints, and manufacturing realities. For any hardware product, the PCB is the physical backbone that defines electrical performance, reliability, [&#8230;]
-
----
-
-## [Simplifying Complex Device Modeling](https://www.electronicsforu.com/news/simplifying-complex-device-modeling)
-**Published:** Mon, 19 Jan 2026 06:28:03 +0000
-
-<img alt="Simplifying Complex Device Modeling" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/screenshot_pr-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Device modeling used to take weeks. Now, AI and automation can do it in hours. See how it makes building models faster and easier. If you’ve been working on advanced semiconductor designs you know how much more complex device modeling has become. With gate-all-around GAA transistors, wide-bandgap materials like GaN and SiC, and new integration [&#8230;]
+<img alt="Moving Humanoids From Prototype To Practice" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/Xpeng-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From lab to workplace, these humanoid robots built for industrial precision are now ready to perform real tasks at scale. Humanoid robots have long promised to extend AI into physical environments, but progress has been constrained by challenges around reliability, manufacturability, and real world deployment. Many prototypes remain confined to labs or demos, lacking the [&#8230;]
 
 ---
 
-## [High-Power UV Laser](https://www.electronicsforu.com/news/high-power-uv-laser)
-**Published:** Mon, 19 Jan 2026 06:04:51 +0000
+## [Precision Interfaces For AI Liquid Cooling](https://www.electronicsforu.com/news/precision-interfaces-for-ai-liquid-cooling)
+**Published:** Tue, 20 Jan 2026 05:54:40 +0000
 
-<img alt="High-Power UV Laser " class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/np680-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new ultraviolet laser source pushes maskless lithography closer to mainstream use in advanced semiconductor packaging by combining short wavelength, watt-class output, and long operational life in a compact form factor. A high-power ultraviolet semiconductor laser by Nuvoton Technology entering mass production could significantly improve fine patterning and throughput in maskless lithography systems used for [&#8230;]
+<img alt="Precision Interfaces For AI Liquid Cooling" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/Quick-Release-Application-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Liquid cooling is no longer optional for AI infrastructure, but reliability at connection points is emerging as the next bottleneck. As AI workloads and high performance computing continue to drive chip power densities higher, traditional air cooling methods are approaching their physical limits. Liquid cooling has rapidly moved from an experimental option to a core [&#8230;]
 
 ---
 
