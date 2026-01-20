@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-20 22:37 UTC_
+_Last updated: 2026-01-20 23:37 UTC_
+
+## [IEEE Study Proposes a Novel High-Efficiency Silicon Single-Photon Detector](https://www.semiconductor-digest.com/ieee-study-proposes-a-novel-high-efficiency-silicon-single-photon-detector/?utm_source=rss&utm_medium=rss&utm_campaign=ieee-study-proposes-a-novel-high-efficiency-silicon-single-photon-detector)
+**Published:** Tue, 20 Jan 2026 22:37:03 +0000
+
+<p>Silicon single-photon detectors (Si SPDs) play a central role in quantum photonics and single-photon imaging for detecting single photons in the visible spectrum.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ieee-study-proposes-a-novel-high-efficiency-silicon-single-photon-detector/">IEEE Study Proposes a Novel High-Efficiency Silicon Single-Photon Detector</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Entegris Announces CFO Transition](https://www.semiconductor-digest.com/entegris-announces-cfo-transition/?utm_source=rss&utm_medium=rss&utm_campaign=entegris-announces-cfo-transition)
+**Published:** Tue, 20 Jan 2026 22:23:44 +0000
+
+<p>Entegris, Inc. today announced that Linda LaGorga will step down as Chief Financial Officer, by mutual agreement, effective February 28, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/entegris-announces-cfo-transition/">Entegris Announces CFO Transition</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
 
 ## [CEA-Leti Advances Silicon-Integrated Quantum Cascade Lasers for Mid-Infrared Photonics](https://www.semiconductor-digest.com/cea-leti-advances-silicon-integrated-quantum-cascade-lasers-for-mid-infrared-photonics/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-advances-silicon-integrated-quantum-cascade-lasers-for-mid-infrared-photonics)
 **Published:** Tue, 20 Jan 2026 22:19:07 +0000
@@ -786,22 +802,6 @@ _Last updated: 2026-01-20 22:37 UTC_
 
 ---
 
-## [The Virtuous Cycle of AI](https://www.semiconductor-digest.com/the-virtuous-cycle-of-ai/?utm_source=rss&utm_medium=rss&utm_campaign=the-virtuous-cycle-of-ai)
-**Published:** Tue, 09 Dec 2025 13:20:04 +0000
-
-<p>Jim Chambers, Vice President, NVIDIA, described how AI is changing chip design, speaking at a recent technology breakfast event hosted by Applied Materials.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-virtuous-cycle-of-ai/">The Virtuous Cycle of AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The $7 Trillion AI Supercycle: From Chips to Data Centers to a New Compute Economy](https://www.semiconductor-digest.com/the-7-trillion-ai-supercycle-from-chips-to-data-centers-to-a-new-compute-economy/?utm_source=rss&utm_medium=rss&utm_campaign=the-7-trillion-ai-supercycle-from-chips-to-data-centers-to-a-new-compute-economy)
-**Published:** Tue, 09 Dec 2025 13:11:34 +0000
-
-<p>An analysis of the current AI infrastructure boom, examining semiconductor demand dynamics, supply chain constraints, and strategic partnerships shaping the industry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-7-trillion-ai-supercycle-from-chips-to-data-centers-to-a-new-compute-economy/">The $7 Trillion AI Supercycle: From Chips to Data Centers to a New Compute Economy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Empower Strengthens its Worldwide Operations](https://www.powerelectronicsnews.com/empower-strengthens-its-worldwide-operations/)
 **Published:** Tue, 20 Jan 2026 14:00:00 +0000
 
@@ -879,6 +879,14 @@ _Last updated: 2026-01-20 22:37 UTC_
 
 <img alt="Diodes Introduces 28V USB-C PD Dual-Role Controllers." class="webfeedsFeaturedVisual wp-post-image" height="353" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/High-Performance-USB-PD-Dual-Role-Power-DRP-Controllers-Provide-a-Versatile-Solution-for-USB-PD-Equipment__ScaleMaxWidthWzQ2MF0.png?fit=460%2C353" style="display: block; margin-bottom: 5px; clear: both;" width="460" /><p>The new dual-role power delivery controllers handle power requests and outputs in battery-operated portable devices.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/diodes-introduces-28v-usb-c-pd-dual-role-controllers/">Diodes Introduces 28V USB-C PD Dual-Role Controllers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [CES 2026 Signals the Year Physical AI was Born](https://www.eetimes.com/ces-2026-signals-the-year-physical-ai-was-born/)
+**Published:** Tue, 20 Jan 2026 23:00:00 +0000
+
+<p>CES 2026 marks the rise of physical AI as humanoid robots leap into reality. </p>
+<p>The post <a href="https://www.eetimes.com/ces-2026-signals-the-year-physical-ai-was-born/">CES 2026 Signals the Year Physical AI was Born</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
