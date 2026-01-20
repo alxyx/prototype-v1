@@ -1,14 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-20 13:05 UTC_
-
-## [AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026](https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/)
-**Published:** Mon, 19 Jan 2026 03:35:18 +0000
-
-<p>Amber Semiconductor will chair an industry session at the Applied Power Electronics Expo 2026 titled "Vertical Power for AI Data Centers".</p>
-<p>The post <a href="https://www.eetasia.com/ambersemi-to-lead-technical-discussions-on-power-delivery-for-ai-processors-at-apec-2026/">AmberSemi to Lead Technical Discussions on Power Delivery for AI Processors at APEC 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
+_Last updated: 2026-01-20 14:01 UTC_
 
 ## [Industrial Display Revenues Grow 24% YoY in 2025, Led by AUO Display Plus](https://www.semiconductor-digest.com/industrial-display-revenues-grow-24-yoy-in-2025-led-by-auo-display-plus/?utm_source=rss&utm_medium=rss&utm_campaign=industrial-display-revenues-grow-24-yoy-in-2025-led-by-auo-display-plus)
 **Published:** Mon, 19 Jan 2026 19:07:04 +0000
@@ -810,6 +802,14 @@ _Last updated: 2026-01-20 13:05 UTC_
 
 ---
 
+## [Empower Strengthens its Worldwide Operations](https://www.powerelectronicsnews.com/empower-strengthens-its-worldwide-operations/)
+**Published:** Tue, 20 Jan 2026 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3383" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1141746633.jpeg?fit=5080%2C3383" style="display: block; margin-bottom: 5px; clear: both;" width="5080" /><p>Empower Semiconductor's new Milpitas headquarters is intended to accelerate the development of vertical power-delivery platforms.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/empower-strengthens-its-worldwide-operations/">Empower Strengthens its Worldwide Operations</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [TDK Launches DC Link Film Capacitors](https://www.powerelectronicsnews.com/tdk-launches-dc-link-film-capacitors/)
 **Published:** Tue, 20 Jan 2026 13:00:00 +0000
 
@@ -879,14 +879,6 @@ _Last updated: 2026-01-20 13:05 UTC_
 
 <img alt="Diodes Introduces 28V USB-C PD Dual-Role Controllers." class="webfeedsFeaturedVisual wp-post-image" height="353" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/High-Performance-USB-PD-Dual-Role-Power-DRP-Controllers-Provide-a-Versatile-Solution-for-USB-PD-Equipment__ScaleMaxWidthWzQ2MF0.png?fit=460%2C353" style="display: block; margin-bottom: 5px; clear: both;" width="460" /><p>The new dual-role power delivery controllers handle power requests and outputs in battery-operated portable devices.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/diodes-introduces-28v-usb-c-pd-dual-role-controllers/">Diodes Introduces 28V USB-C PD Dual-Role Controllers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Microchip Launches New Family of Military-Grade TVS Devices](https://www.powerelectronicsnews.com/microchip-launches-new-family-of-military-grade-tvs-devices/)
-**Published:** Thu, 15 Jan 2026 15:00:00 +0000
-
-<img alt="Microchip Launches New Family of Military-Grade Plastic TVS Devices." class="webfeedsFeaturedVisual wp-post-image" height="444" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Microchip_TVS.png?fit=799%2C444" style="display: block; margin-bottom: 5px; clear: both;" width="799" /><p>The JANPTX family of TVS devices meet the MIL-PRF-19500 qualification and provide a 1.5 kW peak pulse power rating.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/microchip-launches-new-family-of-military-grade-tvs-devices/">Microchip Launches New Family of Military-Grade TVS Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
