@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-21 14:44 UTC_
+_Last updated: 2026-01-21 15:46 UTC_
 
 ## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
 **Published:** Wed, 21 Jan 2026 02:44:06 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-01-21 14:44 UTC_
 
 ---
 
+## [Exploring SiC MOSFET Architectures, Part 1](https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-1/)
+**Published:** Wed, 21 Jan 2026 15:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1093357651.jpeg?fit=9294%2C5685" style="display: block; margin-bottom: 5px; clear: both;" width="9294" /><p>Part 1 of this series explores SiC transistor architectures, their unique characteristics, and their advantages/design considerations.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-1/">Exploring SiC MOSFET Architectures, Part 1</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Part 2 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?](https://www.powerelectronicsnews.com/part-2-of-pens-2025-survey-special-report-what-did-power-electronics-professionals-say/)
 **Published:** Wed, 21 Jan 2026 13:00:00 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2026-01-21 14:44 UTC_
 
 <img alt="ST Expands SRK1004 Family of Synchronous-Rectifier Controllers." class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/ST_SRK1004_Eval.png?fit=600%2C600" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>SRK1004 controllers provide a gate-drive output suitable for N-channel logic-level or standard level power MOSFETs.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/st-expands-srk1004-family-of-synchronous-rectifier-controllers/">ST Expands SRK1004 Family of Synchronous-Rectifier Controllers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Littelfuse Expands Its TMR Switch Portfolio](https://www.powerelectronicsnews.com/littelfuse-expands-its-tmr-switch-portfolio/)
-**Published:** Fri, 16 Jan 2026 15:44:35 +0000
-
-<img alt="Littelfuse Expands Its TMR Switch Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="1280" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/1280_cu44rKPup5777MRW.png?fit=1280%2C1280" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>The new omnipolar magnetic switch models, housed in a compact LGA4 package, combine TMR with CMOS circuitry.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/littelfuse-expands-its-tmr-switch-portfolio/">Littelfuse Expands Its TMR Switch Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
