@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-21 22:39 UTC_
+_Last updated: 2026-01-21 23:40 UTC_
 
 ## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
 **Published:** Wed, 21 Jan 2026 02:44:06 +0000
@@ -919,14 +919,6 @@ _Last updated: 2026-01-21 22:39 UTC_
 
 <p>CES 2026 marks the rise of physical AI as humanoid robots leap into reality. </p>
 <p>The post <a href="https://www.eetimes.com/ces-2026-signals-the-year-physical-ai-was-born/">CES 2026 Signals the Year Physical AI was Born</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Telink Semiconductor Showcases AIoT Wireless Innovations at CES 2026](https://www.eetimes.com/telink-semiconductor-showcases-aiot-wireless-innovations-at-ces-2026/)
-**Published:** Mon, 19 Jan 2026 14:00:00 +0000
-
-<p>On January 9, 2026, the CES concluded successfully in Las Vegas, USA, reaffirming its status as the premier global event for the consumer electronics industry. At the Venetian Convention Center,&#160;Telink&#160;Semiconductor&#160;showcased&#160;its latest generation of SoC chips alongside five immersive technology demonstrations. Highlights&#160;included&#160;true 8K wireless gaming solutions, advanced Edge AI intelligent noise cancellation, innovative&#160;Bluetooth®&#160;Channel Sounding, and multi-device [&#8230;]</p>
-<p>The post <a href="https://www.eetimes.com/telink-semiconductor-showcases-aiot-wireless-innovations-at-ces-2026/">Telink Semiconductor Showcases AIoT Wireless Innovations at CES 2026</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
