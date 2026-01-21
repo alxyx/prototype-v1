@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-21 21:42 UTC_
+_Last updated: 2026-01-21 22:39 UTC_
 
 ## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
 **Published:** Wed, 21 Jan 2026 02:44:06 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-01-21 21:42 UTC_
 
 <p>Viettel Group has broken ground on what will be Vietnam's first semiconductor chip fabrication plant</p>
 <p>The post <a href="https://www.eetasia.com/viettel-building-vietnams-first-chip-fab/">Viettel Building Vietnam&#8217;s First Chip Fab</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Micron Signs Letter of Intent to Purchase Tongluo Site](https://www.semiconductor-digest.com/micron-signs-letter-of-intent-to-purchase-tongluo-site/?utm_source=rss&utm_medium=rss&utm_campaign=micron-signs-letter-of-intent-to-purchase-tongluo-site)
+**Published:** Wed, 21 Jan 2026 22:06:51 +0000
+
+<p>Acquisition to add 300,000 square feet of memory cleanroom space.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-signs-letter-of-intent-to-purchase-tongluo-site/">Micron Signs Letter of Intent to Purchase Tongluo Site</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Mobix Labs and Peraso Engage in Further Discussions Regarding a Potential Strategic Transaction](https://www.semiconductor-digest.com/mobix-labs-and-peraso-engage-in-further-discussions-regarding-a-potential-strategic-transaction/?utm_source=rss&utm_medium=rss&utm_campaign=mobix-labs-and-peraso-engage-in-further-discussions-regarding-a-potential-strategic-transaction)
+**Published:** Wed, 21 Jan 2026 22:00:50 +0000
+
+<p>Mobix Labs, Inc., agrowing fabless semiconductor and connectivity company serving the defense, aerospace, and high-reliability markets, today announced that it engaged in further discussions with Peraso, Inc. regarding a potential strategic transaction.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/mobix-labs-and-peraso-engage-in-further-discussions-regarding-a-potential-strategic-transaction/">Mobix Labs and Peraso Engage in Further Discussions Regarding a Potential Strategic Transaction</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AMD Appoints KC McClure to Board of Directors](https://www.semiconductor-digest.com/amd-appoints-kc-mcclure-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=amd-appoints-kc-mcclure-to-board-of-directors)
+**Published:** Wed, 21 Jan 2026 21:52:18 +0000
+
+<p>AMD (NASDAQ: AMD) today announced the appointment of KC McClure to its board of directors.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/amd-appoints-kc-mcclure-to-board-of-directors/">AMD Appoints KC McClure to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [GlobalFoundries Appoints Ganesh Moorthy to Board of Directors](https://www.semiconductor-digest.com/globalfoundries-appoints-ganesh-moorthy-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-appoints-ganesh-moorthy-to-board-of-directors)
+**Published:** Wed, 21 Jan 2026 21:46:50 +0000
+
+<p>Seasoned semiconductor industry leader brings decades of operational and strategic expertise to GF’s Board.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-appoints-ganesh-moorthy-to-board-of-directors/">GlobalFoundries Appoints Ganesh Moorthy to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,38 +823,6 @@ _Last updated: 2026-01-21 21:42 UTC_
 
 <p>New research from Omdia shows that the semiconductor market delivered a record breaking performance in 3Q25 with industry revenue reaching $216.3bn, up 14.5% quarter-over-quarter (QoQ).</p>
 <p>The post <a href="https://www.semiconductor-digest.com/omdia-semiconductor-quarterly-revenue-surpasses-200b-for-the-first-time-as-industry-wide-growth-accelerates/">Omdia: Semiconductor Quarterly Revenue Surpasses $200B for the First Time as Industry-Wide Growth Accelerates</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Scaling TSVs for High-Performance Integration in the Next Generation of Silicon Interposers](https://www.semiconductor-digest.com/scaling-tsvs-for-high-performance-integration-in-the-next-generation-of-silicon-interposers/?utm_source=rss&utm_medium=rss&utm_campaign=scaling-tsvs-for-high-performance-integration-in-the-next-generation-of-silicon-interposers)
-**Published:** Thu, 11 Dec 2025 14:39:03 +0000
-
-<p>In an industry defined by scaling down, silicon interposers with larger through-silicon vias (TSVs) are emerging as the key to unlocking next-level performance in high performance computing (HPC), artificial intelligence (AI), 5G, and automotive electronics.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/scaling-tsvs-for-high-performance-integration-in-the-next-generation-of-silicon-interposers/">Scaling TSVs for High-Performance Integration in the Next Generation of Silicon Interposers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lasers Illuminate the Roadmap for Advanced Packaging](https://www.semiconductor-digest.com/lasers-illuminate-the-roadmap-for-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=lasers-illuminate-the-roadmap-for-advanced-packaging)
-**Published:** Thu, 11 Dec 2025 14:32:02 +0000
-
-<p>Ultrashort pulse lasers enable stress-free material removal in the low-κ substrates that are increasingly essential to advanced packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lasers-illuminate-the-roadmap-for-advanced-packaging/">Lasers Illuminate the Roadmap for Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Quobly Marks a New Milestone Towards Industrialization](https://www.semiconductor-digest.com/quobly-marks-a-new-milestone-towards-industrialization/?utm_source=rss&utm_medium=rss&utm_campaign=quobly-marks-a-new-milestone-towards-industrialization)
-**Published:** Wed, 10 Dec 2025 21:46:44 +0000
-
-<p>Quobly announced a major milestone in building its industrial value chain, with the first custom 28Si FD-SOI wafers provided by Soitec now cycling inside STMicroelectronics’ 300mm manufacturing facilities in Crolles (France).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/quobly-marks-a-new-milestone-towards-industrialization/">Quobly Marks a New Milestone Towards Industrialization</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lumotive Expands Global Footprint and Adds Key Leaders Amid Growing Demand for Programmable Optical Semiconductors](https://www.semiconductor-digest.com/lumotive-expands-global-footprint-and-adds-key-leaders-amid-growing-demand-for-programmable-optical-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=lumotive-expands-global-footprint-and-adds-key-leaders-amid-growing-demand-for-programmable-optical-semiconductors)
-**Published:** Wed, 10 Dec 2025 21:21:06 +0000
-
-<p>New leadership and global expansion position Lumotive to define the next phase of growth in robotics, automation, and smart infrastructure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lumotive-expands-global-footprint-and-adds-key-leaders-amid-growing-demand-for-programmable-optical-semiconductors/">Lumotive Expands Global Footprint and Adds Key Leaders Amid Growing Demand for Programmable Optical Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
