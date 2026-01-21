@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-21 18:56 UTC_
+_Last updated: 2026-01-21 19:41 UTC_
 
 ## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
 **Published:** Wed, 21 Jan 2026 02:44:06 +0000
@@ -23,6 +23,14 @@ _Last updated: 2026-01-21 18:56 UTC_
 
 <p>Viettel Group has broken ground on what will be Vietnam's first semiconductor chip fabrication plant</p>
 <p>The post <a href="https://www.eetasia.com/viettel-building-vietnams-first-chip-fab/">Viettel Building Vietnam&#8217;s First Chip Fab</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Light Switches Made of Ultra-Thin Semiconductor Layers](https://www.semiconductor-digest.com/light-switches-made-of-ultra-thin-semiconductor-layers/?utm_source=rss&utm_medium=rss&utm_campaign=light-switches-made-of-ultra-thin-semiconductor-layers)
+**Published:** Wed, 21 Jan 2026 19:02:01 +0000
+
+<p>Physics team from Germany demonstrates ultrafast switching process that could be used in optical components.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/light-switches-made-of-ultra-thin-semiconductor-layers/">Light Switches Made of Ultra-Thin Semiconductor Layers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -818,14 +826,6 @@ _Last updated: 2026-01-21 18:56 UTC_
 
 ---
 
-## [CEA-Leti & STMicroelectronics’ Paper at IEDM 2025 Demonstrates Path to Fully Monolithic Silicon RF Front-Ends with 3D Sequential Integration](https://www.semiconductor-digest.com/cea-leti-stmicroelectronics-paper-at-iedm-2025-demonstrates-path-to-fully-monolithic-silicon-rf-front-ends-with-3d-sequential-integration/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-stmicroelectronics-paper-at-iedm-2025-demonstrates-path-to-fully-monolithic-silicon-rf-front-ends-with-3d-sequential-integration)
-**Published:** Tue, 09 Dec 2025 22:00:21 +0000
-
-<p>CEA-Leti and STMicroelectronics today presented results at IEDM 2025 showcasing key enablers for a new high-performance and versatile RF Si platform cointegrating best-in-class active and passive devices used in RF and Optical FEM.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-stmicroelectronics-paper-at-iedm-2025-demonstrates-path-to-fully-monolithic-silicon-rf-front-ends-with-3d-sequential-integration/">CEA-Leti &#038; STMicroelectronics’ Paper at IEDM 2025 Demonstrates Path to Fully Monolithic Silicon RF Front-Ends with 3D Sequential Integration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Exploring SiC MOSFET Architectures, Part 1](https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-1/)
 **Published:** Wed, 21 Jan 2026 15:00:00 +0000
 
@@ -927,14 +927,6 @@ _Last updated: 2026-01-21 18:56 UTC_
 
 <p>On January 9, 2026, the CES concluded successfully in Las Vegas, USA, reaffirming its status as the premier global event for the consumer electronics industry. At the Venetian Convention Center,&#160;Telink&#160;Semiconductor&#160;showcased&#160;its latest generation of SoC chips alongside five immersive technology demonstrations. Highlights&#160;included&#160;true 8K wireless gaming solutions, advanced Edge AI intelligent noise cancellation, innovative&#160;Bluetooth®&#160;Channel Sounding, and multi-device [&#8230;]</p>
 <p>The post <a href="https://www.eetimes.com/telink-semiconductor-showcases-aiot-wireless-innovations-at-ces-2026/">Telink Semiconductor Showcases AIoT Wireless Innovations at CES 2026</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [CES 2026: How Do AMD and Nvidia Physical AI Stories Stack Up?](https://www.eetimes.com/ces-2026-how-do-amd-and-nvidia-physical-ai-stories-stack-up/)
-**Published:** Mon, 19 Jan 2026 10:10:20 +0000
-
-<p>In this video, TIRIAS Research analysts Francis Sideco and Jim McGregor examine AMD and Nvidia’s CES announcements and their implications for AI, the tech industry, and the global economy in 2026.</p>
-<p>The post <a href="https://www.eetimes.com/ces-2026-how-do-amd-and-nvidia-physical-ai-stories-stack-up/">CES 2026: How Do AMD and Nvidia Physical AI Stories Stack Up?</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
