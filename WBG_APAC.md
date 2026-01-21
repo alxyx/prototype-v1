@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-21 17:02 UTC_
+_Last updated: 2026-01-21 18:08 UTC_
 
 ## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
 **Published:** Wed, 21 Jan 2026 02:44:06 +0000
@@ -23,6 +23,22 @@ _Last updated: 2026-01-21 17:02 UTC_
 
 <p>Viettel Group has broken ground on what will be Vietnam's first semiconductor chip fabrication plant</p>
 <p>The post <a href="https://www.eetasia.com/viettel-building-vietnams-first-chip-fab/">Viettel Building Vietnam&#8217;s First Chip Fab</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Polar Light Technologies Achieves Nano-Scale LED; Paves Way to Next-Generation MicroLED](https://www.semiconductor-digest.com/polar-light-technologies-achieves-nano-scale-led-paves-way-to-next-generation-microled/?utm_source=rss&utm_medium=rss&utm_campaign=polar-light-technologies-achieves-nano-scale-led-paves-way-to-next-generation-microled)
+**Published:** Wed, 21 Jan 2026 17:50:10 +0000
+
+<p>This achievement illustrates the extraordinary flexibility of the company's patented pyramidal architecture, developed without requiring the traditional etching process.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/polar-light-technologies-achieves-nano-scale-led-paves-way-to-next-generation-microled/">Polar Light Technologies Achieves Nano-Scale LED; Paves Way to Next-Generation MicroLED</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Jabil Invests in EHT Semi](https://www.semiconductor-digest.com/jabil-invests-in-eht-semi/?utm_source=rss&utm_medium=rss&utm_campaign=jabil-invests-in-eht-semi)
+**Published:** Wed, 21 Jan 2026 17:03:26 +0000
+
+<p>Jabil Inc. announced today a strategic minority investment and manufacturing collaboration with Eagle Harbor Technologies, Inc. (dba, EHT Semi), a pioneer in RF and pulsed-power systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/jabil-invests-in-eht-semi/">Jabil Invests in EHT Semi</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,22 +826,6 @@ _Last updated: 2026-01-21 17:02 UTC_
 
 ---
 
-## [Empower Semiconductor Expands Global Footprint with New Silicon Valley Headquarters and Munich R&D Office](https://www.semiconductor-digest.com/empower-semiconductor-expands-global-footprint-with-new-silicon-valley-headquarters-and-munich-rd-office/?utm_source=rss&utm_medium=rss&utm_campaign=empower-semiconductor-expands-global-footprint-with-new-silicon-valley-headquarters-and-munich-rd-office)
-**Published:** Tue, 09 Dec 2025 21:33:40 +0000
-
-<p>Scaling a dramatic increase in engineering capacity to meet AI and hyperscaler demand.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/empower-semiconductor-expands-global-footprint-with-new-silicon-valley-headquarters-and-munich-rd-office/">Empower Semiconductor Expands Global Footprint with New Silicon Valley Headquarters and Munich R&#038;D Office</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [How RISC-V is Transforming Embedded Systems Design](https://www.semiconductor-digest.com/how-risc-v-is-transforming-embedded-systems-design/?utm_source=rss&utm_medium=rss&utm_campaign=how-risc-v-is-transforming-embedded-systems-design)
-**Published:** Tue, 09 Dec 2025 14:49:47 +0000
-
-<p>RISC-V architecture has emerged as a game-changer, offering flexibility, lower cost, and innovation freedom unimaginable with legacy processors</p>
-<p>The post <a href="https://www.semiconductor-digest.com/how-risc-v-is-transforming-embedded-systems-design/">How RISC-V is Transforming Embedded Systems Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Exploring SiC MOSFET Architectures, Part 1](https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-1/)
 **Published:** Wed, 21 Jan 2026 15:00:00 +0000
 
@@ -903,6 +903,14 @@ _Last updated: 2026-01-21 17:02 UTC_
 
 <img alt="ST Expands SRK1004 Family of Synchronous-Rectifier Controllers." class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/ST_SRK1004_Eval.png?fit=600%2C600" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>SRK1004 controllers provide a gate-drive output suitable for N-channel logic-level or standard level power MOSFETs.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/st-expands-srk1004-family-of-synchronous-rectifier-controllers/">ST Expands SRK1004 Family of Synchronous-Rectifier Controllers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Telink Semiconductor at CES 2026: True 8K Wireless Gaming Breakthrough](https://www.eetimes.com/telink-semiconductor-at-ces-2026-true-8k-wireless-gaming-breakthrough/)
+**Published:** Wed, 21 Jan 2026 18:00:00 +0000
+
+<p>Discover why Telink invests in wireless gaming and how its innovations shape gaming and smart device tech.</p>
+<p>The post <a href="https://www.eetimes.com/telink-semiconductor-at-ces-2026-true-8k-wireless-gaming-breakthrough/">Telink Semiconductor at CES 2026: True 8K Wireless Gaming Breakthrough</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
