@@ -1,6 +1,30 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-21 02:05 UTC_
+_Last updated: 2026-01-21 03:58 UTC_
+
+## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
+**Published:** Wed, 21 Jan 2026 02:44:06 +0000
+
+<p>Tangshan Hongjia has introduced a new wireless module based on Nordic Semiconductor’s next-generation nRF54L15 SoC.</p>
+<p>The post <a href="https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/">Nordic SoC Enables High Performance in Ultra-compact Form Factor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [NXP Unlocks Full Potential of SDVs](https://www.eetasia.com/nxp-unlocks-full-potential-of-sdvs/)
+**Published:** Wed, 21 Jan 2026 02:18:45 +0000
+
+<p>NXP Semiconductors is extending its 5nm S32 automotive roadmap with its new S32N7 super-integration processor series.</p>
+<p>The post <a href="https://www.eetasia.com/nxp-unlocks-full-potential-of-sdvs/">NXP Unlocks Full Potential of SDVs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Viettel Building Vietnam’s First Chip Fab](https://www.eetasia.com/viettel-building-vietnams-first-chip-fab/)
+**Published:** Wed, 21 Jan 2026 02:05:46 +0000
+
+<p>Viettel Group has broken ground on what will be Vietnam's first semiconductor chip fabrication plant</p>
+<p>The post <a href="https://www.eetasia.com/viettel-building-vietnams-first-chip-fab/">Viettel Building Vietnam&#8217;s First Chip Fab</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [IEEE Study Proposes a Novel High-Efficiency Silicon Single-Photon Detector](https://www.semiconductor-digest.com/ieee-study-proposes-a-novel-high-efficiency-silicon-single-photon-detector/?utm_source=rss&utm_medium=rss&utm_campaign=ieee-study-proposes-a-novel-high-efficiency-silicon-single-photon-detector)
 **Published:** Tue, 20 Jan 2026 22:37:03 +0000
