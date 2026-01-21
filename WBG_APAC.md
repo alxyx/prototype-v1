@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-21 11:38 UTC_
+_Last updated: 2026-01-21 13:04 UTC_
 
 ## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
 **Published:** Wed, 21 Jan 2026 02:44:06 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-01-21 11:38 UTC_
 
 ---
 
+## [Part 2 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?](https://www.powerelectronicsnews.com/part-2-of-pens-2025-survey-special-report-what-did-power-electronics-professionals-say/)
+**Published:** Wed, 21 Jan 2026 13:00:00 +0000
+
+<img alt="Part 2 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?" class="webfeedsFeaturedVisual wp-post-image" height="563" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Cover_Image_Survey_47762e.jpg?fit=1000%2C563" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>This installment delves into commonalities in power electronics designs, including converter types, topologies, input voltage levels, output types, and semiconductor types.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/part-2-of-pens-2025-survey-special-report-what-did-power-electronics-professionals-say/">Part 2 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Empower Strengthens its Worldwide Operations](https://www.powerelectronicsnews.com/empower-strengthens-its-worldwide-operations/)
 **Published:** Tue, 20 Jan 2026 14:00:00 +0000
 
@@ -898,14 +906,6 @@ _Last updated: 2026-01-21 11:38 UTC_
 
 ---
 
-## [Diodes Introduces 28V USB-C PD Dual-Role Controllers](https://www.powerelectronicsnews.com/diodes-introduces-28v-usb-c-pd-dual-role-controllers/)
-**Published:** Thu, 15 Jan 2026 16:27:19 +0000
-
-<img alt="Diodes Introduces 28V USB-C PD Dual-Role Controllers." class="webfeedsFeaturedVisual wp-post-image" height="353" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/High-Performance-USB-PD-Dual-Role-Power-DRP-Controllers-Provide-a-Versatile-Solution-for-USB-PD-Equipment__ScaleMaxWidthWzQ2MF0.png?fit=460%2C353" style="display: block; margin-bottom: 5px; clear: both;" width="460" /><p>The new dual-role power delivery controllers handle power requests and outputs in battery-operated portable devices.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/diodes-introduces-28v-usb-c-pd-dual-role-controllers/">Diodes Introduces 28V USB-C PD Dual-Role Controllers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [CES 2026 Signals the Year Physical AI was Born](https://www.eetimes.com/ces-2026-signals-the-year-physical-ai-was-born/)
 **Published:** Tue, 20 Jan 2026 23:00:00 +0000
 
@@ -937,17 +937,24 @@ There can’t be a real semiconductor recovery without a turn up in unit demand 
 
 ---
 
-## [Moving Humanoids From Prototype To Practice](https://www.electronicsforu.com/news/moving-humanoids-from-prototype-to-practice)
-**Published:** Tue, 20 Jan 2026 06:38:09 +0000
+## [JOB: Lead specialist – Power Electronics At General Electric In Bengaluru](https://www.electronicsforu.com/career/lead-specialist-power-electronics-general-electric-bengaluru)
+**Published:** Wed, 21 Jan 2026 09:46:51 +0000
 
-<img alt="Moving Humanoids From Prototype To Practice" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/Xpeng-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From lab to workplace, these humanoid robots built for industrial precision are now ready to perform real tasks at scale. Humanoid robots have long promised to extend AI into physical environments, but progress has been constrained by challenges around reliability, manufacturability, and real world deployment. Many prototypes remain confined to labs or demos, lacking the [&#8230;]
+<img alt="General Electrics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/11/General-Electric-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: GE Aerospace As an Electric Power Lab Specialist, you will play a crucial role in conducting research and development activities related to electrical power systems. You will work in a collaborative environment to innovate and improve existing technologies, as well as develop new solutions in the field of electric power. [&#8230;]
 
 ---
 
-## [Precision Interfaces For AI Liquid Cooling](https://www.electronicsforu.com/news/precision-interfaces-for-ai-liquid-cooling)
-**Published:** Tue, 20 Jan 2026 05:54:40 +0000
+## [JOB: Lead Engineer, Power Electronics At Danfoss In Chennai](https://www.electronicsforu.com/career/lead-engineer-power-electronics-danfoss-chennai)
+**Published:** Wed, 21 Jan 2026 09:33:19 +0000
 
-<img alt="Precision Interfaces For AI Liquid Cooling" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/Quick-Release-Application-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Liquid cooling is no longer optional for AI infrastructure, but reliability at connection points is emerging as the next bottleneck. As AI workloads and high performance computing continue to drive chip power densities higher, traditional air cooling methods are approaching their physical limits. Liquid cooling has rapidly moved from an experimental option to a core [&#8230;]
+<img alt="JOB: Lead Engineer, Power Electronics At Danfoss In Chennai" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2023/06/Danfoss-India-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Chennai Company: Danfoss The Impact You&#8217;ll Make As the Lead Engineer Power Electronics, you’ll play a key role in shaping high-performance, reliable products by driving innovation in power conversion systems and ensuring compliance with global standards What You’ll Be Doing What We&#8217;re Looking For
+
+---
+
+## [A Giant Leap Towards Organic Solar Cells](https://www.electronicsforu.com/news/a-giant-leap-towards-organic-solar-cells)
+**Published:** Wed, 21 Jan 2026 07:12:16 +0000
+
+<img alt="A Giant Leap Towards Organic Solar Cells" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/topics20240911-1_ie_en-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers have improved organic solar cells with advanced molecules, unlocking higher efficiency, flexibility and the potential for widespread solar adoption. As demand for greener energy solutions grows, organic solar cells (OSCs) are emerging as a lightweight, flexible and low-cost alternative to traditional inorganic photovoltaics. Their potential for large-scale applications, including agrivoltaics is substantial, but efficiency [&#8230;]
 
 ---
 
