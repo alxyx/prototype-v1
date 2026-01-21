@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-21 20:45 UTC_
+_Last updated: 2026-01-21 21:42 UTC_
 
 ## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
 **Published:** Wed, 21 Jan 2026 02:44:06 +0000
@@ -23,6 +23,22 @@ _Last updated: 2026-01-21 20:45 UTC_
 
 <p>Viettel Group has broken ground on what will be Vietnam's first semiconductor chip fabrication plant</p>
 <p>The post <a href="https://www.eetasia.com/viettel-building-vietnams-first-chip-fab/">Viettel Building Vietnam&#8217;s First Chip Fab</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [AI-Driven Ultrafast Spectrometer-on-a-Chip: A Revolution in Real-Time Sensing](https://www.semiconductor-digest.com/ai-driven-ultrafast-spectrometer-on-a-chip-a-revolution-in-real-time-sensing/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-ultrafast-spectrometer-on-a-chip-a-revolution-in-real-time-sensing)
+**Published:** Wed, 21 Jan 2026 21:21:02 +0000
+
+<p>A newly developed silicon spectrometer‑on‑a‑chip achieves accurate, noise‑resilient hyperspectral sensing across an extended near‑infrared range.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ai-driven-ultrafast-spectrometer-on-a-chip-a-revolution-in-real-time-sensing/">AI-Driven Ultrafast Spectrometer-on-a-Chip: A Revolution in Real-Time Sensing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications](https://www.semiconductor-digest.com/microchip-introduces-600v-gate-driver-family-for-high-voltage-power-management-applications/?utm_source=rss&utm_medium=rss&utm_campaign=microchip-introduces-600v-gate-driver-family-for-high-voltage-power-management-applications)
+**Published:** Wed, 21 Jan 2026 21:05:51 +0000
+
+<p>Building on Microchip’s power management solutions, these high-voltage gate drivers are designed to facilitate the development of motor control and power conversion systems for industrial and consumer applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/microchip-introduces-600v-gate-driver-family-for-high-voltage-power-management-applications/">Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,19 +826,11 @@ _Last updated: 2026-01-21 20:45 UTC_
 
 ---
 
-## [BrainChip Announces $25 Million Funding Ahead of CES to Power Next-Gen Edge AI](https://www.semiconductor-digest.com/brainchip-announces-funding-ahead-of-ces/?utm_source=rss&utm_medium=rss&utm_campaign=brainchip-announces-funding-ahead-of-ces)
-**Published:** Wed, 10 Dec 2025 21:14:05 +0000
+## [Microchip Launches 600 V Gate Driver Lineup](https://www.powerelectronicsnews.com/microchip-launches-600-v-gate-driver-lineup/)
+**Published:** Wed, 21 Jan 2026 21:36:48 +0000
 
-<p>BrainChip Holdings Ltd. secured a capital raise of $25 million to fuel the development and commercialization of its neuromorphic AI technology and expansion of its product offerings in chips and modules.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/brainchip-announces-funding-ahead-of-ces/">BrainChip Announces $25 Million Funding Ahead of CES to Power Next-Gen Edge AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [China Is Cracking the Global Market for Chip Making Equipment](https://www.semiconductor-digest.com/china-is-cracking-the-global-market-for-chip-making-equipment/?utm_source=rss&utm_medium=rss&utm_campaign=china-is-cracking-the-global-market-for-chip-making-equipment)
-**Published:** Wed, 10 Dec 2025 14:12:52 +0000
-
-<p>A slew of Chinese wafer fab equipment (WFE) vendors has emerged. Even though their global market share remains minuscule, this follows a familiar playbook for ascension to the big time.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/china-is-cracking-the-global-market-for-chip-making-equipment/">China Is Cracking the Global Market for Chip Making Equipment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Microchip Launches 600 V Gate Driver Lineup." class="webfeedsFeaturedVisual wp-post-image" height="444" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Microchip.jpg?fit=799%2C444" style="display: block; margin-bottom: 5px; clear: both;" width="799" /><p>With support for 600 V operation, the new gate driver family extends Microchip’s offering of high-voltage power solutions.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/microchip-launches-600-v-gate-driver-lineup/">Microchip Launches 600 V Gate Driver Lineup</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -895,14 +903,6 @@ _Last updated: 2026-01-21 20:45 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Power Innovations at CES 2026, CHIPX’s Expansion Plan, and SiC SBDs!</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/power-innovations-at-ces-2026-chipxs-expansion-plan-sic-sbds-power-electronics-week-insights/">Power Innovations at CES 2026, CHIPX’s Expansion Plan, SiC SBDs: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ST Expands SRK1004 Family of Synchronous-Rectifier Controllers](https://www.powerelectronicsnews.com/st-expands-srk1004-family-of-synchronous-rectifier-controllers/)
-**Published:** Fri, 16 Jan 2026 15:46:17 +0000
-
-<img alt="ST Expands SRK1004 Family of Synchronous-Rectifier Controllers." class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/ST_SRK1004_Eval.png?fit=600%2C600" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>SRK1004 controllers provide a gate-drive output suitable for N-channel logic-level or standard level power MOSFETs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-expands-srk1004-family-of-synchronous-rectifier-controllers/">ST Expands SRK1004 Family of Synchronous-Rectifier Controllers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
