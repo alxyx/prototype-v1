@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-20 23:37 UTC_
+_Last updated: 2026-01-21 02:05 UTC_
 
 ## [IEEE Study Proposes a Novel High-Efficiency Silicon Single-Photon Detector](https://www.semiconductor-digest.com/ieee-study-proposes-a-novel-high-efficiency-silicon-single-photon-detector/?utm_source=rss&utm_medium=rss&utm_campaign=ieee-study-proposes-a-novel-high-efficiency-silicon-single-photon-detector)
 **Published:** Tue, 20 Jan 2026 22:37:03 +0000
