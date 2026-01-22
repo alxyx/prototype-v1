@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-22 06:50 UTC_
+_Last updated: 2026-01-22 07:42 UTC_
 
 ## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
 **Published:** Wed, 21 Jan 2026 02:44:06 +0000
@@ -919,20 +919,6 @@ _Last updated: 2026-01-22 06:50 UTC_
 
 <p>CES 2026 marks the rise of physical AI as humanoid robots leap into reality. </p>
 <p>The post <a href="https://www.eetimes.com/ces-2026-signals-the-year-physical-ai-was-born/">CES 2026 Signals the Year Physical AI was Born</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [u-blox ZED-X20P processes signals across all GNSS bands](https://www.electronicsweekly.com/news/business/distribution/u-blox-zed-x20p-processes-signals-across-all-gnss-bands-2026-01/)
-**Published:** Wed, 21 Jan 2026 15:35:16 +0000
-
-Mouser is shipping the u-blox ZED-X20P high precision module, which is described as a professional grade all-band, all-constellation GNSS receiver. Basically, the module integrates all-band GNSS with signal modernisation and ...
-
----
-
-## [Semi units look like turning up, says Penn](https://www.electronicsweekly.com/news/business/semi-units-look-like-turning-up-says-penn-2026-01/)
-**Published:** Wed, 21 Jan 2026 06:28:56 +0000
-
-There can’t be a real semiconductor recovery without a turn up in unit demand and it could be starting to happen, said Malcolm Penn, CEO of Future Horizons, at IFS2026 ...
 
 ---
 
