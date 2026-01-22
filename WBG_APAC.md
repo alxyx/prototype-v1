@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-22 11:36 UTC_
+_Last updated: 2026-01-22 13:04 UTC_
 
 ## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
 **Published:** Wed, 21 Jan 2026 02:44:06 +0000
@@ -826,6 +826,22 @@ _Last updated: 2026-01-22 11:36 UTC_
 
 ---
 
+## [Power Electronics Course with QSPICE (Episode 01): Introduction to the Simulation Environment](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-01-introduction-to-the-simulation-environment/)
+**Published:** Thu, 22 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/image_c3b300.jpeg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>This article introduces a new power electronics course designed to help readers understand the fundamental principles of real-world circuits.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-01-introduction-to-the-simulation-environment/">Power Electronics Course with QSPICE (Episode 01): Introduction to the Simulation Environment</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Vishay Debuts High-Efficiency 100 V TMBS Rectifier Modules](https://www.powerelectronicsnews.com/vishay-debuts-high-efficiency-100-v-tmbs-rectifier-modules/)
+**Published:** Thu, 22 Jan 2026 13:00:00 +0000
+
+<img alt="Vishay Debuts High-Efficiency 100 V TMBS Rectifier Modules." class="webfeedsFeaturedVisual wp-post-image" height="533" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Vishay.jpg?fit=799%2C533" style="display: block; margin-bottom: 5px; clear: both;" width="799" /><p>TMBS devices provide drop-in compatibility that helps cut conduction losses and boost efficiency in industrial power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-debuts-high-efficiency-100-v-tmbs-rectifier-modules/">Vishay Debuts High-Efficiency 100 V TMBS Rectifier Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Microchip Launches 600 V Gate Driver Lineup](https://www.powerelectronicsnews.com/microchip-launches-600-v-gate-driver-lineup/)
 **Published:** Wed, 21 Jan 2026 21:36:48 +0000
 
@@ -890,22 +906,6 @@ _Last updated: 2026-01-22 11:36 UTC_
 
 ---
 
-## [The Quest to Make Diamond as Available as Silicon](https://www.powerelectronicsnews.com/the-quest-to-make-diamond-as-available-as-silicon/)
-**Published:** Mon, 19 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1304" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/image_6c3b33.png?fit=1291%2C1304" style="display: block; margin-bottom: 5px; clear: both;" width="1291" /><p>The state of the diamond semiconductor industry and an interview with Adam Khan of Diamond Quanta covering their diamond-on-Si tech.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-quest-to-make-diamond-as-available-as-silicon/">The Quest to Make Diamond as Available as Silicon</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Innovations at CES 2026, CHIPX’s Expansion Plan, SiC SBDs: Power Electronics Week Insights](https://www.powerelectronicsnews.com/power-innovations-at-ces-2026-chipxs-expansion-plan-sic-sbds-power-electronics-week-insights/)
-**Published:** Fri, 16 Jan 2026 15:49:14 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Power Innovations at CES 2026, CHIPX’s Expansion Plan, and SiC SBDs!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-innovations-at-ces-2026-chipxs-expansion-plan-sic-sbds-power-electronics-week-insights/">Power Innovations at CES 2026, CHIPX’s Expansion Plan, SiC SBDs: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Telink Semiconductor at CES 2026: True 8K Wireless Gaming Breakthrough](https://www.eetimes.com/telink-semiconductor-at-ces-2026-true-8k-wireless-gaming-breakthrough/)
 **Published:** Wed, 21 Jan 2026 18:00:00 +0000
 
@@ -936,24 +936,17 @@ There can’t be a real semiconductor recovery without a turn up in unit demand 
 
 ---
 
-## [JOB: Lead specialist – Power Electronics At General Electric In Bengaluru](https://www.electronicsforu.com/career/lead-specialist-power-electronics-general-electric-bengaluru)
-**Published:** Wed, 21 Jan 2026 09:46:51 +0000
+## [JOB: Senior Engineer Cost Out Electronics At Eaton In Pune](https://www.electronicsforu.com/career/senior-engineer-cost-out-electronics-eaton-pune)
+**Published:** Thu, 22 Jan 2026 09:42:17 +0000
 
-<img alt="General Electrics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/11/General-Electric-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: GE Aerospace As an Electric Power Lab Specialist, you will play a crucial role in conducting research and development activities related to electrical power systems. You will work in a collaborative environment to innovate and improve existing technologies, as well as develop new solutions in the field of electric power. [&#8230;]
-
----
-
-## [JOB: Lead Engineer, Power Electronics At Danfoss In Chennai](https://www.electronicsforu.com/career/lead-engineer-power-electronics-danfoss-chennai)
-**Published:** Wed, 21 Jan 2026 09:33:19 +0000
-
-<img alt="JOB: Lead Engineer, Power Electronics At Danfoss In Chennai" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2023/06/Danfoss-India-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Chennai Company: Danfoss The Impact You&#8217;ll Make As the Lead Engineer Power Electronics, you’ll play a key role in shaping high-performance, reliable products by driving innovation in power conversion systems and ensuring compliance with global standards What You’ll Be Doing What We&#8217;re Looking For
+<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton What You’ll Do The primary responsibility of this role is to analyse commercial, technical data of electronic components, PCB gerbers and assemblies, for generating and leading different type of cost out, VAVE, resiliency and NPI projects. It also requires developing and executing category wise strategies, in close collaboration with [&#8230;]
 
 ---
 
-## [A Giant Leap Towards Organic Solar Cells](https://www.electronicsforu.com/news/a-giant-leap-towards-organic-solar-cells)
-**Published:** Wed, 21 Jan 2026 07:12:16 +0000
+## [JOB: Principal Analog Engineer At Renesas Electronics In Bengaluru](https://www.electronicsforu.com/career/principal-analog-engineer-renesas-electronics-bengaluru)
+**Published:** Thu, 22 Jan 2026 09:18:04 +0000
 
-<img alt="A Giant Leap Towards Organic Solar Cells" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/topics20240911-1_ie_en-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers have improved organic solar cells with advanced molecules, unlocking higher efficiency, flexibility and the potential for widespread solar adoption. As demand for greener energy solutions grows, organic solar cells (OSCs) are emerging as a lightweight, flexible and low-cost alternative to traditional inorganic photovoltaics. Their potential for large-scale applications, including agrivoltaics is substantial, but efficiency [&#8230;]
+<img alt="JOB: Principal Analog Engineer At Renesas Electronics In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/IAR_Renesas_Dec-2025-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Renesas Electronics Role Description This is a full-time on-site position based in Bengaluru South for a Principal Analog Engineer at Renesas Electronics. The role involves leading the design and development of cutting-edge analog circuits for semiconductor products. Key responsibilities include defining design specifications, performing circuit design and simulations, [&#8230;]
 
 ---
 
