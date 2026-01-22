@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-22 14:00 UTC_
+_Last updated: 2026-01-22 14:44 UTC_
 
 ## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
 **Published:** Wed, 21 Jan 2026 02:44:06 +0000
