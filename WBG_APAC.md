@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-22 16:50 UTC_
+_Last updated: 2026-01-22 17:43 UTC_
 
 ## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
 **Published:** Wed, 21 Jan 2026 02:44:06 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-01-22 16:50 UTC_
 
 ---
 
+## [How GaN Supports Multi-Market Applications (Podcast)](https://www.powerelectronicsnews.com/how-gan-supports-multi-market-applications-podcast/)
+**Published:** Thu, 22 Jan 2026 17:15:45 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Renesas-600x500-featured-image.png?fit=600%2C500" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>In today’s podcast, we discuss how Renesas’s GaN offering supports the requirements of power applications across AI infrastructure, solar on-board chargers, and DC/DC in EVs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/how-gan-supports-multi-market-applications-podcast/">How GaN Supports Multi-Market Applications (Podcast)</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Power Electronics Course with QSPICE (Episode 01): Introduction to the Simulation Environment](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-01-introduction-to-the-simulation-environment/)
 **Published:** Thu, 22 Jan 2026 13:00:00 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2026-01-22 16:50 UTC_
 
 <img alt="APEC 2026 Unveils Four Distinguished Plenary Speakers for Keynote Session." class="webfeedsFeaturedVisual wp-post-image" height="1267" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/PCI23_0605.jpg?fit=1900%2C1267" style="display: block; margin-bottom: 5px; clear: both;" width="1900" /><p>The keynote presentations at APEC 2026 Plenary Session will cover topics that are relevant to power electronics engineers.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/four-prominent-speakers-selected-for-apec-2026-plenary-session/">Four Prominent Speakers selected for APEC 2026 Plenary Session </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Allegro Introduces Ultra-Low-Loss Isolated Current Sensor](https://www.powerelectronicsnews.com/allegro-introduces-ultra-low-loss-isolated-current-sensor/)
-**Published:** Mon, 19 Jan 2026 15:15:10 +0000
-
-<img alt="Allegro Introduces Ultra-Low-Loss Isolated Current Sensor." class="webfeedsFeaturedVisual wp-post-image" height="1920" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Press-ACS37200-640x480-1.jpg?fit=2560%2C1920" style="display: block; margin-bottom: 5px; clear: both;" width="2560" /><p>The ACS37200 cuts power loss by 90% and reduces space requirements by up to 95% in EV, industrial, and data center systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/allegro-introduces-ultra-low-loss-isolated-current-sensor/">Allegro Introduces Ultra-Low-Loss Isolated Current Sensor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
