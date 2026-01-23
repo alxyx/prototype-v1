@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-23 14:40 UTC_
+_Last updated: 2026-01-23 15:42 UTC_
 
 ## [AMD Ryzen AI Processors Power AI-Driven Automotive & Industrial Experiences](https://www.eetasia.com/embeddednews-amd-ryzen-ai-processors-power-ai-driven-automotive-industrial-experiences/)
 **Published:** Fri, 23 Jan 2026 13:04:20 +0000
@@ -834,6 +834,14 @@ _Last updated: 2026-01-23 14:40 UTC_
 
 ---
 
+## [Magnachip Launches New Generation of 650V and 1200V IGBTs](https://www.powerelectronicsnews.com/magnachip-launches-new-generation-of-650v-and-1200v-igbts/)
+**Published:** Fri, 23 Jan 2026 15:00:00 +0000
+
+<img alt="Magnachip Launches New Field Stop Trench IGBTs." class="webfeedsFeaturedVisual wp-post-image" height="3008" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/PR_IGBT_Photo_260114-final_for_2026.jpg?fit=4520%2C3008" style="display: block; margin-bottom: 5px; clear: both;" width="4520" /><p>The new 650V and 1200V IGBTs feature a new field stop trench-based technology that reduces cell pitch by 40% compared to previous generation. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/magnachip-launches-new-generation-of-650v-and-1200v-igbts/">Magnachip Launches New Generation of 650V and 1200V IGBTs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [ROHM 100-V Power MOSFET for 48 V AI Servers in New Package](https://www.powerelectronicsnews.com/rohm-100-v-power-mosfet-for-48-v-ai-servers-in-new-package/)
 **Published:** Fri, 23 Jan 2026 13:00:00 +0000
 
@@ -903,14 +911,6 @@ _Last updated: 2026-01-23 14:40 UTC_
 
 <img alt="Part 2 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?" class="webfeedsFeaturedVisual wp-post-image" height="563" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Cover_Image_Survey_47762e.jpg?fit=1000%2C563" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>This installment delves into commonalities in power electronics designs, including converter types, topologies, input voltage levels, output types, and semiconductor types.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/part-2-of-pens-2025-survey-special-report-what-did-power-electronics-professionals-say/">Part 2 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Empower Strengthens its Worldwide Operations](https://www.powerelectronicsnews.com/empower-strengthens-its-worldwide-operations/)
-**Published:** Tue, 20 Jan 2026 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3383" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1141746633.jpeg?fit=5080%2C3383" style="display: block; margin-bottom: 5px; clear: both;" width="5080" /><p>Empower Semiconductor's new Milpitas headquarters is intended to accelerate the development of vertical power-delivery platforms.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/empower-strengthens-its-worldwide-operations/">Empower Strengthens its Worldwide Operations</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
