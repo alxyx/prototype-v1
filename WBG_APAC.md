@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-23 21:36 UTC_
+_Last updated: 2026-01-23 22:33 UTC_
 
 ## [AMD Ryzen AI Processors Power AI-Driven Automotive & Industrial Experiences](https://www.eetasia.com/embeddednews-amd-ryzen-ai-processors-power-ai-driven-automotive-industrial-experiences/)
 **Published:** Fri, 23 Jan 2026 13:04:20 +0000
@@ -31,6 +31,30 @@ _Last updated: 2026-01-23 21:36 UTC_
 
 <p>Viettel Group has broken ground on what will be Vietnam's first semiconductor chip fabrication plant</p>
 <p>The post <a href="https://www.eetasia.com/viettel-building-vietnams-first-chip-fab/">Viettel Building Vietnam&#8217;s First Chip Fab</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Omdia: Smartphone AMOLED Shipments to Fall in 2026 as Memory Prices Squeeze Smartphone Makers’ Plans](https://www.semiconductor-digest.com/omdia-smartphone-amoled-shipments-to-fall-in-2026-as-memory-prices-squeeze-smartphone-makers-plans/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-smartphone-amoled-shipments-to-fall-in-2026-as-memory-prices-squeeze-smartphone-makers-plans)
+**Published:** Fri, 23 Jan 2026 22:04:17 +0000
+
+<p>Global smartphone AMOLED shipments are forecast to decline to 810 million units in 2026, down from 817 million units in 2025, according to Omdia’s Smartphone Display Intelligence Service.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-smartphone-amoled-shipments-to-fall-in-2026-as-memory-prices-squeeze-smartphone-makers-plans/">Omdia: Smartphone AMOLED Shipments to Fall in 2026 as Memory Prices Squeeze Smartphone Makers&#8217; Plans</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [FLEX Technology Summit 2026 Spotlights Augmenting Flexible Hybrid Electronics with AI, Digital Twins, and XR](https://www.semiconductor-digest.com/flex-technology-summit-2026-spotlights-augmenting-flexible-hybrid-electronics-with-ai-digital-twins-and-xr/?utm_source=rss&utm_medium=rss&utm_campaign=flex-technology-summit-2026-spotlights-augmenting-flexible-hybrid-electronics-with-ai-digital-twins-and-xr)
+**Published:** Fri, 23 Jan 2026 21:56:47 +0000
+
+<p>The FLEX Technology Summit will be held on February 24-26, 2026, at the Wigwam Arizona Resort in Phoenix, Arizona, celebrating 25 years of innovation in flexible hybrid electronics (FHE), printed electronics, and advanced packaging.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/flex-technology-summit-2026-spotlights-augmenting-flexible-hybrid-electronics-with-ai-digital-twins-and-xr/">FLEX Technology Summit 2026 Spotlights Augmenting Flexible Hybrid Electronics with AI, Digital Twins, and XR</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Texas Tech to Dedicate $24 Million Toward Multipurpose Clean-Room Facility](https://www.semiconductor-digest.com/texas-tech-to-dedicate-24-million-toward-multipurpose-clean-room-facility/?utm_source=rss&utm_medium=rss&utm_campaign=texas-tech-to-dedicate-24-million-toward-multipurpose-clean-room-facility)
+**Published:** Fri, 23 Jan 2026 21:52:28 +0000
+
+<p>The university is matching a $12 million Texas Semiconductor Innovation Fund grant award to build a facility to further semiconductor research and development.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/texas-tech-to-dedicate-24-million-toward-multipurpose-clean-room-facility/">Texas Tech to Dedicate $24 Million Toward Multipurpose Clean-Room Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,30 +831,6 @@ _Last updated: 2026-01-23 21:36 UTC_
 
 <p>As the semiconductor industry enters a transformative growth phase, Korea — a vital hub of the global semiconductor supply chain — is attracting increasing global attention.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semicon-korea-2026-to-showcase-core-semiconductor-technologies-for-the-ai-era/">SEMICON Korea 2026 to Showcase Core Semiconductor Technologies for the AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Siemens and GlobalFoundries Collaborate to Deploy AI-Driven Manufacturing to Strengthen Global Semiconductor Supply](https://www.semiconductor-digest.com/siemens-and-globalfoundries-collaborate/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-and-globalfoundries-collaborate)
-**Published:** Thu, 11 Dec 2025 21:18:15 +0000
-
-<p>Strategic collaboration to enhance performance of semiconductors and other advanced industries based on both companies’ AI-based capabilities.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-and-globalfoundries-collaborate/">Siemens and GlobalFoundries Collaborate to Deploy AI-Driven Manufacturing to Strengthen Global Semiconductor Supply</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [onsemi and FORVIA HELLA Extend Strategic Collaboration with Next-Generation Power Technology](https://www.semiconductor-digest.com/onsemi-and-forvia-hella-extend-strategic-collaboration-with-next-generation-power-technology/?utm_source=rss&utm_medium=rss&utm_campaign=onsemi-and-forvia-hella-extend-strategic-collaboration-with-next-generation-power-technology)
-**Published:** Thu, 11 Dec 2025 21:07:39 +0000
-
-<p>Collaboration will deliver smarter automotive power solutions with superior efficiency and optimized performance.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/onsemi-and-forvia-hella-extend-strategic-collaboration-with-next-generation-power-technology/">onsemi and FORVIA HELLA Extend Strategic Collaboration with Next-Generation Power Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: Semiconductor Quarterly Revenue Surpasses $200B for the First Time as Industry-Wide Growth Accelerates](https://www.semiconductor-digest.com/omdia-semiconductor-quarterly-revenue-surpasses-200b-for-the-first-time-as-industry-wide-growth-accelerates/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-semiconductor-quarterly-revenue-surpasses-200b-for-the-first-time-as-industry-wide-growth-accelerates)
-**Published:** Thu, 11 Dec 2025 20:43:33 +0000
-
-<p>New research from Omdia shows that the semiconductor market delivered a record breaking performance in 3Q25 with industry revenue reaching $216.3bn, up 14.5% quarter-over-quarter (QoQ).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-semiconductor-quarterly-revenue-surpasses-200b-for-the-first-time-as-industry-wide-growth-accelerates/">Omdia: Semiconductor Quarterly Revenue Surpasses $200B for the First Time as Industry-Wide Growth Accelerates</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
