@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-23 11:35 UTC_
+_Last updated: 2026-01-23 13:02 UTC_
 
 ## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
 **Published:** Wed, 21 Jan 2026 02:44:06 +0000
@@ -826,6 +826,30 @@ _Last updated: 2026-01-23 11:35 UTC_
 
 ---
 
+## [ROHM 100-V Power MOSFET for 48 V AI Servers in New Package](https://www.powerelectronicsnews.com/rohm-100-v-power-mosfet-for-48-v-ai-servers-in-new-package/)
+**Published:** Fri, 23 Jan 2026 13:00:00 +0000
+
+<img alt="ROHM Unveils 100V Power MOSFET for 48V AI Servers." class="webfeedsFeaturedVisual wp-post-image" height="607" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/prw_PI1fl_W374YeRf.png?fit=510%2C607" style="display: block; margin-bottom: 5px; clear: both;" width="510" /><p>The new power MOSFET features wide safe operating area (SOA) performance in a compact 5060-size (5.0mm × 6.0mm) package.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/rohm-100-v-power-mosfet-for-48-v-ai-servers-in-new-package/">ROHM 100-V Power MOSFET for 48 V AI Servers in New Package</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Diodes Announces High-Voltage RobustISO Digital Isolators](https://www.powerelectronicsnews.com/diodes-announces-high-voltage-robustiso-digital-isolators/)
+**Published:** Fri, 23 Jan 2026 13:00:00 +0000
+
+<img alt="Diodes Announces High-Voltage RobustISO™ Digital Isolators." class="webfeedsFeaturedVisual wp-post-image" height="353" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Dual-Channel-Digital-Isolators-Provide-Reliable-and-Robust-Isolation-Solutions-for-Digital-Signals__ScaleMaxWidthWzQ2MF0.png?fit=460%2C353" style="display: block; margin-bottom: 5px; clear: both;" width="460" /><p>The API772x digital isolators are designed to satisfy both reinforced and basic isolation specifications under multiple standards bodies.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/diodes-announces-high-voltage-robustiso-digital-isolators/">Diodes Announces High-Voltage RobustISO Digital Isolators</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Diamond Semiconductors, PEN’s 2025 Survey Special Report, SiC MOSFETs Architectures: Power Electronics Week Insights](https://www.powerelectronicsnews.com/diamond-semiconductors-pens-2025-survey-special-report-sic-mosfets-architectures-power-electronics-week-insights/)
+**Published:** Fri, 23 Jan 2026 12:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Diamond Semiconductors, PEN’s 2025 Survey Special Report, and SiC MOSFETs Architectures!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/diamond-semiconductors-pens-2025-survey-special-report-sic-mosfets-architectures-power-electronics-week-insights/">Diamond Semiconductors, PEN’s 2025 Survey Special Report, SiC MOSFETs Architectures: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [How GaN Supports Multi-Market Applications (Podcast)](https://www.powerelectronicsnews.com/how-gan-supports-multi-market-applications-podcast/)
 **Published:** Thu, 22 Jan 2026 17:15:45 +0000
 
@@ -882,30 +906,6 @@ _Last updated: 2026-01-23 11:35 UTC_
 
 ---
 
-## [TDK Launches DC Link Film Capacitors](https://www.powerelectronicsnews.com/tdk-launches-dc-link-film-capacitors/)
-**Published:** Tue, 20 Jan 2026 13:00:00 +0000
-
-<img alt="TDK Launches ModCap UHP Series of DC Link Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="1600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/bild-press-download-en-data.png?fit=2400%2C1600" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new DC link capacitors are optimized for SiC-based inverters requiring low inductances (ESL of 8 nH) and high-frequency operation.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tdk-launches-dc-link-film-capacitors/">TDK Launches DC Link Film Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ABB Re-enters the Solar Inverter Market through Gamesa Electric](https://www.powerelectronicsnews.com/abb-re-enters-the-solar-inverter-market-through-gamesa-electric/)
-**Published:** Tue, 20 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="432" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/image_7d205a.jpeg?fit=768%2C432" style="display: block; margin-bottom: 5px; clear: both;" width="768" /><p>ABB acquires Gamesa Electric’s power electronics business to capitalize on the maturing renewable energy sector.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/abb-re-enters-the-solar-inverter-market-through-gamesa-electric/">ABB Re-enters the Solar Inverter Market through Gamesa Electric</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Four Prominent Speakers selected for APEC 2026 Plenary Session](https://www.powerelectronicsnews.com/four-prominent-speakers-selected-for-apec-2026-plenary-session/)
-**Published:** Mon, 19 Jan 2026 15:19:13 +0000
-
-<img alt="APEC 2026 Unveils Four Distinguished Plenary Speakers for Keynote Session." class="webfeedsFeaturedVisual wp-post-image" height="1267" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/PCI23_0605.jpg?fit=1900%2C1267" style="display: block; margin-bottom: 5px; clear: both;" width="1900" /><p>The keynote presentations at APEC 2026 Plenary Session will cover topics that are relevant to power electronics engineers.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/four-prominent-speakers-selected-for-apec-2026-plenary-session/">Four Prominent Speakers selected for APEC 2026 Plenary Session </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Telink Semiconductor at CES 2026: True 8K Wireless Gaming Breakthrough](https://www.eetimes.com/telink-semiconductor-at-ces-2026-true-8k-wireless-gaming-breakthrough/)
 **Published:** Wed, 21 Jan 2026 18:00:00 +0000
 
@@ -919,20 +919,6 @@ _Last updated: 2026-01-23 11:35 UTC_
 
 <p>CES 2026 marks the rise of physical AI as humanoid robots leap into reality. </p>
 <p>The post <a href="https://www.eetimes.com/ces-2026-signals-the-year-physical-ai-was-born/">CES 2026 Signals the Year Physical AI was Born</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [JOB: Senior Engineer Cost Out Electronics At Eaton In Pune](https://www.electronicsforu.com/career/senior-engineer-cost-out-electronics-eaton-pune)
-**Published:** Thu, 22 Jan 2026 09:42:17 +0000
-
-<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton What You’ll Do The primary responsibility of this role is to analyse commercial, technical data of electronic components, PCB gerbers and assemblies, for generating and leading different type of cost out, VAVE, resiliency and NPI projects. It also requires developing and executing category wise strategies, in close collaboration with [&#8230;]
-
----
-
-## [JOB: Principal Analog Engineer At Renesas Electronics In Bengaluru](https://www.electronicsforu.com/career/principal-analog-engineer-renesas-electronics-bengaluru)
-**Published:** Thu, 22 Jan 2026 09:18:04 +0000
-
-<img alt="JOB: Principal Analog Engineer At Renesas Electronics In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/12/IAR_Renesas_Dec-2025-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Renesas Electronics Role Description This is a full-time on-site position based in Bengaluru South for a Principal Analog Engineer at Renesas Electronics. The role involves leading the design and development of cutting-edge analog circuits for semiconductor products. Key responsibilities include defining design specifications, performing circuit design and simulations, [&#8230;]
 
 ---
 
