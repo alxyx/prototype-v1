@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-23 22:33 UTC_
+_Last updated: 2026-01-23 23:36 UTC_
 
 ## [AMD Ryzen AI Processors Power AI-Driven Automotive & Industrial Experiences](https://www.eetasia.com/embeddednews-amd-ryzen-ai-processors-power-ai-driven-automotive-industrial-experiences/)
 **Published:** Fri, 23 Jan 2026 13:04:20 +0000
@@ -31,6 +31,14 @@ _Last updated: 2026-01-23 22:33 UTC_
 
 <p>Viettel Group has broken ground on what will be Vietnam's first semiconductor chip fabrication plant</p>
 <p>The post <a href="https://www.eetasia.com/viettel-building-vietnams-first-chip-fab/">Viettel Building Vietnam&#8217;s First Chip Fab</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Scintil Photonics, Presto Engineering and CEA-Leti Receive Bpifrance Grant for the CanopAI Project to Advance Photonic Integration for AI and Data Centers](https://www.semiconductor-digest.com/scintil-photonics-presto-engineering-and-cea-leti-receive-bpifrance-grant-for-the-canopai-project-to-advance-photonic-integration-for-ai-and-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=scintil-photonics-presto-engineering-and-cea-leti-receive-bpifrance-grant-for-the-canopai-project-to-advance-photonic-integration-for-ai-and-data-centers)
+**Published:** Fri, 23 Jan 2026 22:25:46 +0000
+
+<p>The CanopAI project addresses key challenges in the test and reliability of photonic integrated circuits, strengthening France’s technological sovereignty in semiconductors and photonics.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/scintil-photonics-presto-engineering-and-cea-leti-receive-bpifrance-grant-for-the-canopai-project-to-advance-photonic-integration-for-ai-and-data-centers/">Scintil Photonics, Presto Engineering and CEA-Leti Receive Bpifrance Grant for the CanopAI Project to Advance Photonic Integration for AI and Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -823,14 +831,6 @@ _Last updated: 2026-01-23 22:33 UTC_
 
 <p>Mitsubishi Chemical Group (MCG), a global provider of advanced materials, and Boston Materials, Inc., a manufacturer of advanced energy transfer materials, today announced a strategic collaboration.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/mitsubishi-chemical-group-and-boston-materials-form-strategic-collaboration-to-advance-semiconductor-packaging-with-breakthrough-liquid-metal-thermal-materials/">Mitsubishi Chemical Group and Boston Materials Form Strategic Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMICON Korea 2026 to Showcase Core Semiconductor Technologies for the AI Era](https://www.semiconductor-digest.com/semicon-korea-2026-to-showcase-core-semiconductor-technologies-for-the-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-korea-2026-to-showcase-core-semiconductor-technologies-for-the-ai-era)
-**Published:** Thu, 11 Dec 2025 21:23:40 +0000
-
-<p>As the semiconductor industry enters a transformative growth phase, Korea — a vital hub of the global semiconductor supply chain — is attracting increasing global attention.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semicon-korea-2026-to-showcase-core-semiconductor-technologies-for-the-ai-era/">SEMICON Korea 2026 to Showcase Core Semiconductor Technologies for the AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
