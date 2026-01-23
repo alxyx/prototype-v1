@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-23 13:02 UTC_
+_Last updated: 2026-01-23 13:57 UTC_
+
+## [AMD Ryzen AI Processors Power AI-Driven Automotive & Industrial Experiences](https://www.eetasia.com/embeddednews-amd-ryzen-ai-processors-power-ai-driven-automotive-industrial-experiences/)
+**Published:** Fri, 23 Jan 2026 13:04:20 +0000
+
+<p>AMD Ryzen AI Embedded P100 &#38; X100 processors integrate Zen 5 CPU, RDNA 3.5 GPU and XDNA 2 NPU for low-power AI acceleration. Delivering up to 50 AI TOPS for automotive, industrial automation and physical AI applications.</p>
+<p>The post <a href="https://www.eetasia.com/embeddednews-amd-ryzen-ai-processors-power-ai-driven-automotive-industrial-experiences/">AMD Ryzen AI Processors Power AI-Driven Automotive &amp; Industrial Experiences</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Nordic SoC Enables High Performance in Ultra-compact Form Factor](https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/)
 **Published:** Wed, 21 Jan 2026 02:44:06 +0000
