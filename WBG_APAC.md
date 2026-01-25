@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-25 13:46 UTC_
+_Last updated: 2026-01-25 14:33 UTC_
 
 ## [AMD Ryzen AI Processors Power AI-Driven Automotive & Industrial Experiences](https://www.eetasia.com/embeddednews-amd-ryzen-ai-processors-power-ai-driven-automotive-industrial-experiences/)
 **Published:** Fri, 23 Jan 2026 13:04:20 +0000
