@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-25 11:32 UTC_
+_Last updated: 2026-01-25 12:59 UTC_
 
 ## [AMD Ryzen AI Processors Power AI-Driven Automotive & Industrial Experiences](https://www.eetasia.com/embeddednews-amd-ryzen-ai-processors-power-ai-driven-automotive-industrial-experiences/)
 **Published:** Fri, 23 Jan 2026 13:04:20 +0000
@@ -927,6 +927,13 @@ _Last updated: 2026-01-25 11:32 UTC_
 
 <p>CES 2026 marks the rise of physical AI as humanoid robots leap into reality. </p>
 <p>The post <a href="https://www.eetimes.com/ces-2026-signals-the-year-physical-ai-was-born/">CES 2026 Signals the Year Physical AI was Born</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Make Your Own Musical Temperature Alarm](https://www.electronicsforu.com/videos-slideshows/make-your-own-musical-temperature-alarm)
+**Published:** Sun, 25 Jan 2026 11:51:23 +0000
+
+<img alt="Make Your Own Musical Temperature Alarm" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/maxresdefault-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />In this video, we explore a DIY proof-of-concept project called “Musical Temperature Alarm”, published on Electronics For You.When the temperature rises (for example, by bringing a hot soldering iron close), the circuit detects it. Once the set limit is crossed, the music starts playing.In this video, we explore a DIY proof-of-concept project called “Musical Temperature [&#8230;]
 
 ---
 
