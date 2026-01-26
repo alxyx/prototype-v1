@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-26 16:48 UTC_
+_Last updated: 2026-01-26 17:44 UTC_
 
 ## [Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift](https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/)
 **Published:** Mon, 26 Jan 2026 01:31:31 +0000
@@ -15,6 +15,22 @@ _Last updated: 2026-01-26 16:48 UTC_
 
 <p>AMD Ryzen AI Embedded P100 &#38; X100 processors integrate Zen 5 CPU, RDNA 3.5 GPU and XDNA 2 NPU for low-power AI acceleration. Delivering up to 50 AI TOPS for automotive, industrial automation and physical AI applications.</p>
 <p>The post <a href="https://www.eetasia.com/embeddednews-amd-ryzen-ai-processors-power-ai-driven-automotive-industrial-experiences/">AMD Ryzen AI Processors Power AI-Driven Automotive &amp; Industrial Experiences</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Chungnam National University Team Pioneers Defect-Free High-Quality Graphene Electrodes](https://www.semiconductor-digest.com/chungnam-national-university-team-pioneers-defect-free-high-quality-graphene-electrodes/?utm_source=rss&utm_medium=rss&utm_campaign=chungnam-national-university-team-pioneers-defect-free-high-quality-graphene-electrodes)
+**Published:** Mon, 26 Jan 2026 17:25:57 +0000
+
+<p>One-step, etch- free patterning enables clean, low-resistance graphene electrodes for transparent and flexible devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/chungnam-national-university-team-pioneers-defect-free-high-quality-graphene-electrodes/">Chungnam National University Team Pioneers Defect-Free High-Quality Graphene Electrodes</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Tenstorrent Announces Participation in CHASSIS Program, Joint Initiative for Automotive Chiplet Technology](https://www.semiconductor-digest.com/tenstorrent-announces-participation-in-chassis-program-joint-initiative-for-automotive-chiplet-technology/?utm_source=rss&utm_medium=rss&utm_campaign=tenstorrent-announces-participation-in-chassis-program-joint-initiative-for-automotive-chiplet-technology)
+**Published:** Mon, 26 Jan 2026 17:21:53 +0000
+
+<p>Tenstorrent is announcing their participation in the CHASSIS program, a three year international research program driving software-defined mobility projects in the EU.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tenstorrent-announces-participation-in-chassis-program-joint-initiative-for-automotive-chiplet-technology/">Tenstorrent Announces Participation in CHASSIS Program, Joint Initiative for Automotive Chiplet Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2026-01-26 16:48 UTC_
 
 <p>Arteris, Inc., a provider of system IP for accelerating semiconductor creation in the AI era, today announced it has entered into a definitive agreement to acquire Cycuity, Inc., a provider of semiconductor cybersecurity assurance.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/arteris-to-expand-portfolio-with-acquisition-of-cycuity/">Arteris to Expand Portfolio with Acquisition of Cycuity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [OMA and NIMS Partner to Launch Semiconductor Technician Credentials](https://www.semiconductor-digest.com/oma-and-nims-partner-to-launch-semiconductor-technician-credentials/?utm_source=rss&utm_medium=rss&utm_campaign=oma-and-nims-partner-to-launch-semiconductor-technician-credentials)
-**Published:** Fri, 12 Dec 2025 18:49:46 +0000
-
-<p>The Ohio Manufacturers’ Association and the National Institute for Metalworking Skills (NIMS) announce the launch of two new microcredentials for the semiconductor industry in 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/oma-and-nims-partner-to-launch-semiconductor-technician-credentials/">OMA and NIMS Partner to Launch Semiconductor Technician Credentials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Mitsubishi Chemical Group and Boston Materials Form Strategic Collaboration](https://www.semiconductor-digest.com/mitsubishi-chemical-group-and-boston-materials-form-strategic-collaboration-to-advance-semiconductor-packaging-with-breakthrough-liquid-metal-thermal-materials/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-chemical-group-and-boston-materials-form-strategic-collaboration-to-advance-semiconductor-packaging-with-breakthrough-liquid-metal-thermal-materials)
-**Published:** Thu, 11 Dec 2025 21:29:17 +0000
-
-<p>Mitsubishi Chemical Group (MCG), a global provider of advanced materials, and Boston Materials, Inc., a manufacturer of advanced energy transfer materials, today announced a strategic collaboration.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/mitsubishi-chemical-group-and-boston-materials-form-strategic-collaboration-to-advance-semiconductor-packaging-with-breakthrough-liquid-metal-thermal-materials/">Mitsubishi Chemical Group and Boston Materials Form Strategic Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
