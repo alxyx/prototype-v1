@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-25 23:34 UTC_
+_Last updated: 2026-01-26 02:10 UTC_
+
+## [Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift](https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/)
+**Published:** Mon, 26 Jan 2026 01:31:31 +0000
+
+<p>Wolfspeed has successfully produced a single-crystal 300mm (12-inch) SiC wafer, marking a critical step toward future high-volume commercialization of the WBG material.</p>
+<p>The post <a href="https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/">Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [AMD Ryzen AI Processors Power AI-Driven Automotive & Industrial Experiences](https://www.eetasia.com/embeddednews-amd-ryzen-ai-processors-power-ai-driven-automotive-industrial-experiences/)
 **Published:** Fri, 23 Jan 2026 13:04:20 +0000
@@ -15,22 +23,6 @@ _Last updated: 2026-01-25 23:34 UTC_
 
 <p>Tangshan Hongjia has introduced a new wireless module based on Nordic Semiconductor’s next-generation nRF54L15 SoC.</p>
 <p>The post <a href="https://www.eetasia.com/nordic-soc-enables-high-performance-in-ultra-compact-form-factor/">Nordic SoC Enables High Performance in Ultra-compact Form Factor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [NXP Unlocks Full Potential of SDVs](https://www.eetasia.com/nxp-unlocks-full-potential-of-sdvs/)
-**Published:** Wed, 21 Jan 2026 02:18:45 +0000
-
-<p>NXP Semiconductors is extending its 5nm S32 automotive roadmap with its new S32N7 super-integration processor series.</p>
-<p>The post <a href="https://www.eetasia.com/nxp-unlocks-full-potential-of-sdvs/">NXP Unlocks Full Potential of SDVs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Viettel Building Vietnam’s First Chip Fab](https://www.eetasia.com/viettel-building-vietnams-first-chip-fab/)
-**Published:** Wed, 21 Jan 2026 02:05:46 +0000
-
-<p>Viettel Group has broken ground on what will be Vietnam's first semiconductor chip fabrication plant</p>
-<p>The post <a href="https://www.eetasia.com/viettel-building-vietnams-first-chip-fab/">Viettel Building Vietnam&#8217;s First Chip Fab</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
