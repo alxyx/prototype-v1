@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-26 07:42 UTC_
+_Last updated: 2026-01-26 08:48 UTC_
 
 ## [Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift](https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/)
 **Published:** Mon, 26 Jan 2026 01:31:31 +0000
@@ -903,14 +903,6 @@ _Last updated: 2026-01-26 07:42 UTC_
 
 <p>Discover why Telink invests in wireless gaming and how its innovations shape gaming and smart device tech.</p>
 <p>The post <a href="https://www.eetimes.com/telink-semiconductor-at-ces-2026-true-8k-wireless-gaming-breakthrough/">Telink Semiconductor at CES 2026: True 8K Wireless Gaming Breakthrough</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [CES 2026 Signals the Year Physical AI was Born](https://www.eetimes.com/ces-2026-signals-the-year-physical-ai-was-born/)
-**Published:** Tue, 20 Jan 2026 23:00:00 +0000
-
-<p>CES 2026 marks the rise of physical AI as humanoid robots leap into reality. </p>
-<p>The post <a href="https://www.eetimes.com/ces-2026-signals-the-year-physical-ai-was-born/">CES 2026 Signals the Year Physical AI was Born</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
