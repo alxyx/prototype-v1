@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-26 17:44 UTC_
+_Last updated: 2026-01-26 18:51 UTC_
 
 ## [Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift](https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/)
 **Published:** Mon, 26 Jan 2026 01:31:31 +0000
@@ -15,6 +15,30 @@ _Last updated: 2026-01-26 17:44 UTC_
 
 <p>AMD Ryzen AI Embedded P100 &#38; X100 processors integrate Zen 5 CPU, RDNA 3.5 GPU and XDNA 2 NPU for low-power AI acceleration. Delivering up to 50 AI TOPS for automotive, industrial automation and physical AI applications.</p>
 <p>The post <a href="https://www.eetasia.com/embeddednews-amd-ryzen-ai-processors-power-ai-driven-automotive-industrial-experiences/">AMD Ryzen AI Processors Power AI-Driven Automotive &amp; Industrial Experiences</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMIFIVE and SAPIEN Semiconductors Sign MOU to Develop Next-Generation Micro-display ‘CMOS Backplane’ Technology](https://www.semiconductor-digest.com/semifive-and-sapien-semiconductors-sign-mou-to-develop-next-generation-micro-display-cmos-backplane-technology/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-and-sapien-semiconductors-sign-mou-to-develop-next-generation-micro-display-cmos-backplane-technology)
+**Published:** Mon, 26 Jan 2026 17:56:43 +0000
+
+<p>SEMIFIVE, a global provider of custom AI semiconductor (ASIC) design solutions, announced today that it has signed a strategic MOU with SAPIEN Semiconductors, a company specializing in advanced micro-LED display driver ASICs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semifive-and-sapien-semiconductors-sign-mou-to-develop-next-generation-micro-display-cmos-backplane-technology/">SEMIFIVE and SAPIEN Semiconductors Sign MOU to Develop Next-Generation Micro-display &#8216;CMOS Backplane&#8217; Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Ricursive Intelligence Raises $300 Million Series A at $4 Billion Valuation to Accelerate AI-Driven Semiconductor Design](https://www.semiconductor-digest.com/ricursive-intelligence-raises-300-million-series-a-at-4-billion-valuation-to-accelerate-ai-driven-semiconductor-design/?utm_source=rss&utm_medium=rss&utm_campaign=ricursive-intelligence-raises-300-million-series-a-at-4-billion-valuation-to-accelerate-ai-driven-semiconductor-design)
+**Published:** Mon, 26 Jan 2026 17:48:49 +0000
+
+<p>Ricursive Intelligence, a frontier AI lab founded by the co-creators of AlphaChip, today announced a $300 million Series A funding round led by Lightspeed Venture Partners at a $4 billion post-money valuation.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ricursive-intelligence-raises-300-million-series-a-at-4-billion-valuation-to-accelerate-ai-driven-semiconductor-design/">Ricursive Intelligence Raises $300 Million Series A at $4 Billion Valuation to Accelerate AI-Driven Semiconductor Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Towards Efficient Self-Powered Screens Using Organic Semiconductors](https://www.semiconductor-digest.com/towards-efficient-self-powered-screens-using-organic-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=towards-efficient-self-powered-screens-using-organic-semiconductors)
+**Published:** Mon, 26 Jan 2026 17:40:04 +0000
+
+<p>Researchers have overcome a major technical challenge to creating organic multifunctional devices that both light up and power themselves.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/towards-efficient-self-powered-screens-using-organic-semiconductors/">Towards Efficient Self-Powered Screens Using Organic Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,30 +815,6 @@ _Last updated: 2026-01-26 17:44 UTC_
 
 <p>Advanced sensing options, whether they are optical, infrared, inductive, LiDAR or ultrasonic, are game changers in allowing manufacturers to better understand the environment in real time on the factory floor.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/sensing-the-shift-trends-in-smart-industrial-automation/">Sensing the Shift: Trends in Smart Industrial Automation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMIFIVE Secures AI Semiconductor Design Projects in Japan](https://www.semiconductor-digest.com/semifive-secures-ai-semiconductor-design-projects-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-secures-ai-semiconductor-design-projects-in-japan)
-**Published:** Fri, 12 Dec 2025 19:22:08 +0000
-
-<p>SEMIFIVE announced today that it has secured multiple AI semiconductor design projects in Japan and recently established its subsidiary in Tokyo, Japan.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semifive-secures-ai-semiconductor-design-projects-in-japan/">SEMIFIVE Secures AI Semiconductor Design Projects in Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CityUHK Pioneers Breakthrough in 3DIC Semiconductor Packaging Materials](https://www.semiconductor-digest.com/cityuhk-pioneers-breakthrough-in-3dic-semiconductor-packaging-materials/?utm_source=rss&utm_medium=rss&utm_campaign=cityuhk-pioneers-breakthrough-in-3dic-semiconductor-packaging-materials)
-**Published:** Fri, 12 Dec 2025 19:10:14 +0000
-
-<p>Strengthening Hong Kong’s role in next-generation semiconductor manufacturing technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cityuhk-pioneers-breakthrough-in-3dic-semiconductor-packaging-materials/">CityUHK Pioneers Breakthrough in 3DIC Semiconductor Packaging Materials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Arteris to Expand Portfolio with Acquisition of Cycuity](https://www.semiconductor-digest.com/arteris-to-expand-portfolio-with-acquisition-of-cycuity/?utm_source=rss&utm_medium=rss&utm_campaign=arteris-to-expand-portfolio-with-acquisition-of-cycuity)
-**Published:** Fri, 12 Dec 2025 18:58:32 +0000
-
-<p>Arteris, Inc., a provider of system IP for accelerating semiconductor creation in the AI era, today announced it has entered into a definitive agreement to acquire Cycuity, Inc., a provider of semiconductor cybersecurity assurance.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/arteris-to-expand-portfolio-with-acquisition-of-cycuity/">Arteris to Expand Portfolio with Acquisition of Cycuity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
