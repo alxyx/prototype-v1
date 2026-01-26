@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-26 11:35 UTC_
+_Last updated: 2026-01-26 13:03 UTC_
 
 ## [Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift](https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/)
 **Published:** Mon, 26 Jan 2026 01:31:31 +0000
@@ -818,6 +818,22 @@ _Last updated: 2026-01-26 11:35 UTC_
 
 ---
 
+## [Exploring SiC MOSFET Architectures, Part 2](https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-2/)
+**Published:** Mon, 26 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1093357651.jpeg?fit=9294%2C5685" style="display: block; margin-bottom: 5px; clear: both;" width="9294" /><p>Part 2 of this series discusses recent innovations and product launches in 2025 from leading SiC device manufacturers, providing an up-to-date perspective on state-of-the-art SiC. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-2/">Exploring SiC MOSFET Architectures, Part 2</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [ICsense Inaugurates a New Electronic Wafer Sort Cleanroom](https://www.powerelectronicsnews.com/icsense-inaugurates-a-new-electronic-wafer-sort-cleanroom/)
+**Published:** Mon, 26 Jan 2026 13:00:00 +0000
+
+<img alt="ICsense Inaugurates a new Electronic Wafer Sort Cleanroom." class="webfeedsFeaturedVisual wp-post-image" height="3024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/ICsense.jpg?fit=4032%2C3024" style="display: block; margin-bottom: 5px; clear: both;" width="4032" /><p>The ISO-7 certified cleanroom expands ICsense’s in-house capabilities for high-volume ASIC production.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/icsense-inaugurates-a-new-electronic-wafer-sort-cleanroom/">ICsense Inaugurates a New Electronic Wafer Sort Cleanroom</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Magnachip Launches New Generation of 650V and 1200V IGBTs](https://www.powerelectronicsnews.com/magnachip-launches-new-generation-of-650v-and-1200v-igbts/)
 **Published:** Fri, 23 Jan 2026 15:00:00 +0000
 
@@ -879,22 +895,6 @@ _Last updated: 2026-01-26 11:35 UTC_
 
 <img alt="Microchip Launches 600 V Gate Driver Lineup." class="webfeedsFeaturedVisual wp-post-image" height="444" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Microchip.jpg?fit=799%2C444" style="display: block; margin-bottom: 5px; clear: both;" width="799" /><p>With support for 600 V operation, the new gate driver family extends Microchip’s offering of high-voltage power solutions.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/microchip-launches-600-v-gate-driver-lineup/">Microchip Launches 600 V Gate Driver Lineup</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Exploring SiC MOSFET Architectures, Part 1](https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-1/)
-**Published:** Wed, 21 Jan 2026 15:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1093357651.jpeg?fit=9294%2C5685" style="display: block; margin-bottom: 5px; clear: both;" width="9294" /><p>Part 1 of this series explores SiC transistor architectures, their unique characteristics, and their advantages/design considerations.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-1/">Exploring SiC MOSFET Architectures, Part 1</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Part 2 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?](https://www.powerelectronicsnews.com/part-2-of-pens-2025-survey-special-report-what-did-power-electronics-professionals-say/)
-**Published:** Wed, 21 Jan 2026 13:00:00 +0000
-
-<img alt="Part 2 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?" class="webfeedsFeaturedVisual wp-post-image" height="563" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Cover_Image_Survey_47762e.jpg?fit=1000%2C563" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>This installment delves into commonalities in power electronics designs, including converter types, topologies, input voltage levels, output types, and semiconductor types.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/part-2-of-pens-2025-survey-special-report-what-did-power-electronics-professionals-say/">Part 2 of PEN’s 2025 Survey Special Report: What did Power Electronics Professionals Say?</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
