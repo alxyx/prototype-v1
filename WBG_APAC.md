@@ -1,12 +1,44 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-27 21:33 UTC_
+_Last updated: 2026-01-27 22:36 UTC_
 
 ## [Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift](https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/)
 **Published:** Mon, 26 Jan 2026 01:31:31 +0000
 
 <p>Wolfspeed has successfully produced a single-crystal 300mm (12-inch) SiC wafer, marking a critical step toward future high-volume commercialization of the WBG material.</p>
 <p>The post <a href="https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/">Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Chungnam National University Develops AI Model to Accelerate Defect-Based Material Design](https://www.semiconductor-digest.com/chungnam-national-university-develops-ai-model-to-accelerate-defect-based-material-design/?utm_source=rss&utm_medium=rss&utm_campaign=chungnam-national-university-develops-ai-model-to-accelerate-defect-based-material-design)
+**Published:** Tue, 27 Jan 2026 22:05:26 +0000
+
+<p>Deep learning reduces simulation times from hours to milliseconds.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/chungnam-national-university-develops-ai-model-to-accelerate-defect-based-material-design/">Chungnam National University Develops AI Model to Accelerate Defect-Based Material Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [La Luce Cristallina Launches CMOS-Compatible Oxide Pseudo-Substrate, Enhancing Scalability for Silicon Photonics and Advanced Electronics](https://www.semiconductor-digest.com/la-luce-cristallina-launches-cmos-compatible-oxide-pseudo-substrate-enhancing-scalability-for-silicon-photonics-and-advanced-electronics/?utm_source=rss&utm_medium=rss&utm_campaign=la-luce-cristallina-launches-cmos-compatible-oxide-pseudo-substrate-enhancing-scalability-for-silicon-photonics-and-advanced-electronics)
+**Published:** Tue, 27 Jan 2026 21:58:56 +0000
+
+<p>La Luce Cristallina today announced it has launched its new CMOS-compatible oxide pseudo-substrate, enabling high-quality, epitaxial strontium titanate (SrTiO₃) films to be grown directly on 200-mm silicon and silicon-on-insulator (SOI) wafers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/la-luce-cristallina-launches-cmos-compatible-oxide-pseudo-substrate-enhancing-scalability-for-silicon-photonics-and-advanced-electronics/">La Luce Cristallina Launches CMOS-Compatible Oxide Pseudo-Substrate, Enhancing Scalability for Silicon Photonics and Advanced Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AmberSemi Announces Silicon Tape-Out of PowerTile Vertical Power Solution for AI Data Centers](https://www.semiconductor-digest.com/ambersemi-announces-silicon-tape-out-of-powertile-vertical-power-solution-for-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=ambersemi-announces-silicon-tape-out-of-powertile-vertical-power-solution-for-ai-data-centers)
+**Published:** Tue, 27 Jan 2026 21:49:57 +0000
+
+<p>Amber Semiconductor, Inc. (AmberSemi), a fabless semiconductor company pioneering the next generation of power management for data centers, today announced the successful tape out of its AmberSemi PowerTile vertical power delivery solution designed specifically for AI processors in data centers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ambersemi-announces-silicon-tape-out-of-powertile-vertical-power-solution-for-ai-data-centers/">AmberSemi Announces Silicon Tape-Out of PowerTile Vertical Power Solution for AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Veeco and imec Develop 300mm Compatible Process to Enable Integration of Barium Titanate on Silicon photonics](https://www.semiconductor-digest.com/veeco-and-imec-develop-300mm-compatible-process-to-enable-integration-of-barium-titanate-on-silicon-photonics/?utm_source=rss&utm_medium=rss&utm_campaign=veeco-and-imec-develop-300mm-compatible-process-to-enable-integration-of-barium-titanate-on-silicon-photonics)
+**Published:** Tue, 27 Jan 2026 21:34:23 +0000
+
+<p>Veeco Instruments Inc. and imec announced today that they have collaboratively developed a 300mm high volume manufacturing compatible process that enables the integration of barium titanate (BaTiO3 or BTO) on a silicon photonics platform.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/veeco-and-imec-develop-300mm-compatible-process-to-enable-integration-of-barium-titanate-on-silicon-photonics/">Veeco and imec Develop 300mm Compatible Process to Enable Integration of Barium Titanate on Silicon photonics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -775,38 +807,6 @@ _Last updated: 2026-01-27 21:33 UTC_
 
 <p>The SACHSEN! joint stand at SEMICON Japan in Tokyo from 17 to 19 December will be the meeting point for innovative technologies and Saxony's top expertise.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semicon-japan-the-german-federal-state-saxony-presents-itself-as-a-key-european-location-for-the-international-microelectronics-industry/">SEMICON Japan: The German Federal State Saxony Presents Itself as a Key European Location for the International Microelectronics Industry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Overcoming Stiction on Elastomeric Seals for Semiconductor Applications](https://www.semiconductor-digest.com/overcoming-stiction-on-elastomeric-seals-for-semiconductor-applications/?utm_source=rss&utm_medium=rss&utm_campaign=overcoming-stiction-on-elastomeric-seals-for-semiconductor-applications)
-**Published:** Mon, 15 Dec 2025 16:07:00 +0000
-
-<p>By addressing the challenge of stiction through innovative materials and surface treatments, OEMs can significantly enhance the performance of their equipment.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/overcoming-stiction-on-elastomeric-seals-for-semiconductor-applications/">Overcoming Stiction on Elastomeric Seals for Semiconductor Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The Growing Demand for Laser-Grade Gases in Semiconductor Manufacturing Process](https://www.semiconductor-digest.com/the-growing-demand-for-laser-grade-gases-in-semiconductor-manufacturing-process/?utm_source=rss&utm_medium=rss&utm_campaign=the-growing-demand-for-laser-grade-gases-in-semiconductor-manufacturing-process)
-**Published:** Mon, 15 Dec 2025 15:48:08 +0000
-
-<p>Efficiency, yield and supply chain security depend on a consistent supply of high-purity gases.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-growing-demand-for-laser-grade-gases-in-semiconductor-manufacturing-process/">The Growing Demand for Laser-Grade Gases in Semiconductor Manufacturing Process</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rethinking Connectivity for Lights-out Semiconductor Manufacturing](https://www.semiconductor-digest.com/rethinking-connectivity-for-lights-out-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=rethinking-connectivity-for-lights-out-semiconductor-manufacturing)
-**Published:** Mon, 15 Dec 2025 15:25:14 +0000
-
-<p>Advanced connectivity platforms are allowing fabs to implement precision gas, chemical and water management, automating delivery systems to dynamically adjust to real-time variations in process requirements. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/rethinking-connectivity-for-lights-out-semiconductor-manufacturing/">Rethinking Connectivity for Lights-out Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Sensing the Shift: Trends in Smart Industrial Automation](https://www.semiconductor-digest.com/sensing-the-shift-trends-in-smart-industrial-automation/?utm_source=rss&utm_medium=rss&utm_campaign=sensing-the-shift-trends-in-smart-industrial-automation)
-**Published:** Mon, 15 Dec 2025 15:01:29 +0000
-
-<p>Advanced sensing options, whether they are optical, infrared, inductive, LiDAR or ultrasonic, are game changers in allowing manufacturers to better understand the environment in real time on the factory floor.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sensing-the-shift-trends-in-smart-industrial-automation/">Sensing the Shift: Trends in Smart Industrial Automation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
