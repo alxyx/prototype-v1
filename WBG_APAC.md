@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-27 09:48 UTC_
+_Last updated: 2026-01-27 10:42 UTC_
 
 ## [Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift](https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/)
 **Published:** Mon, 26 Jan 2026 01:31:31 +0000
@@ -890,10 +890,10 @@ _Last updated: 2026-01-27 09:48 UTC_
 
 ---
 
-## [Make Your Own Musical Temperature Alarm](https://www.electronicsforu.com/videos-slideshows/make-your-own-musical-temperature-alarm)
-**Published:** Sun, 25 Jan 2026 11:51:23 +0000
+## [JOB: Embedded Engineer At Eaton In Pune](https://www.electronicsforu.com/career/embedded-engineer-eaton-pune)
+**Published:** Tue, 27 Jan 2026 09:21:08 +0000
 
-<img alt="Make Your Own Musical Temperature Alarm" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/maxresdefault-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />In this video, we explore a DIY proof-of-concept project called “Musical Temperature Alarm”, published on Electronics For You.When the temperature rises (for example, by bringing a hot soldering iron close), the circuit detects it. Once the set limit is crossed, the music starts playing.In this video, we explore a DIY proof-of-concept project called “Musical Temperature [&#8230;]
+<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton What you’ll do: Responsible for Firmware development for Electrical Industrial Controls products as part of Industrial Control Division(ICD), which is part of PCS. This includes, contribution in product development by understanding product requirements, design &#38; develop feature enhancements and implementation of industrial internet of things (IIOT) protocols like Modbus, BACNet, [&#8230;]
 
 ---
 
