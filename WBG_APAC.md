@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-27 13:08 UTC_
+_Last updated: 2026-01-27 14:02 UTC_
 
 ## [Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift](https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/)
 **Published:** Mon, 26 Jan 2026 01:31:31 +0000
@@ -810,6 +810,14 @@ _Last updated: 2026-01-27 13:08 UTC_
 
 ---
 
+## [ST Unveils Hybrid USB PD Sink Controller](https://www.powerelectronicsnews.com/st-unveils-hybrid-usb-pd-sink-controller/)
+**Published:** Tue, 27 Jan 2026 14:00:00 +0000
+
+<img alt="ST Unveils Hybrid USB PD Sink Controller." class="webfeedsFeaturedVisual wp-post-image" height="1000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/ST-EVAL-SCS007V1.jpg?fit=1000%2C1000" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The STUSB4531 USB PD sink controller uses proprietary negotiation algorithms to establish a power-delivery contract with a source, operating entirely without software support.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-unveils-hybrid-usb-pd-sink-controller/">ST Unveils Hybrid USB PD Sink Controller</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Imec’s Push Towards Industry-Wide 300mm GaN Adoption](https://www.powerelectronicsnews.com/imecs-push-towards-industry-wide-300mm-gan-adoption/)
 **Published:** Tue, 27 Jan 2026 13:00:00 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2026-01-27 13:08 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/image_c3b300.jpeg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>This article introduces a new power electronics course designed to help readers understand the fundamental principles of real-world circuits.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-01-introduction-to-the-simulation-environment/">Power Electronics Course with QSPICE (Episode 01): Introduction to the Simulation Environment</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Vishay Debuts High-Efficiency 100 V TMBS Rectifier Modules](https://www.powerelectronicsnews.com/vishay-debuts-high-efficiency-100-v-tmbs-rectifier-modules/)
-**Published:** Thu, 22 Jan 2026 13:00:00 +0000
-
-<img alt="Vishay Debuts High-Efficiency 100 V TMBS Rectifier Modules." class="webfeedsFeaturedVisual wp-post-image" height="533" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Vishay.jpg?fit=799%2C533" style="display: block; margin-bottom: 5px; clear: both;" width="799" /><p>TMBS devices provide drop-in compatibility that helps cut conduction losses and boost efficiency in industrial power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vishay-debuts-high-efficiency-100-v-tmbs-rectifier-modules/">Vishay Debuts High-Efficiency 100 V TMBS Rectifier Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
