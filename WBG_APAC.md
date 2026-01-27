@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-27 15:45 UTC_
+_Last updated: 2026-01-27 16:45 UTC_
 
 ## [Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift](https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/)
 **Published:** Mon, 26 Jan 2026 01:31:31 +0000
@@ -887,6 +887,21 @@ _Last updated: 2026-01-27 15:45 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/image_c3b300.jpeg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>This article introduces a new power electronics course designed to help readers understand the fundamental principles of real-world circuits.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-01-introduction-to-the-simulation-environment/">Power Electronics Course with QSPICE (Episode 01): Introduction to the Simulation Environment</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [IonQ to Acquire Skywater and European Strategy](https://www.eetimes.com/ionq-to-acquire-skywater-and-european-strategy/)
+**Published:** Tue, 27 Jan 2026 16:00:00 +0000
+
+<p>IonQ-SkyWater acquisition signals a shift to vertical manufacturing for speed. Europe's HiPEAC strategy emphasizes public infrastructure and hybrid classical-quantum integration.</p>
+<p>The post <a href="https://www.eetimes.com/ionq-to-acquire-skywater-and-european-strategy/">IonQ to Acquire Skywater and European Strategy</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [LDOs use Nano Cap tech for stability in extreme environments](https://www.electronicsweekly.com/news/ldos-use-nano-cap-tech-for-stability-in-extreme-environments-2026-01/)
+**Published:** Tue, 27 Jan 2026 15:03:39 +0000
+
+Rohm Semiconductor launches high capacity LDO regulator ICs based on Nano Cap technology
 
 ---
 
