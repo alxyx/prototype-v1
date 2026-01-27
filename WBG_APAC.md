@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-27 11:37 UTC_
+_Last updated: 2026-01-27 13:08 UTC_
 
 ## [Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift](https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/)
 **Published:** Mon, 26 Jan 2026 01:31:31 +0000
@@ -810,6 +810,14 @@ _Last updated: 2026-01-27 11:37 UTC_
 
 ---
 
+## [Imec’s Push Towards Industry-Wide 300mm GaN Adoption](https://www.powerelectronicsnews.com/imecs-push-towards-industry-wide-300mm-gan-adoption/)
+**Published:** Tue, 27 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2242" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1657221021.jpeg?fit=4000%2C2242" style="display: block; margin-bottom: 5px; clear: both;" width="4000" /><p>Imec’s practical approach to their 300-mm GaN program, including the challenges and opportunities of moving to larger wafer diameters. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/imecs-push-towards-industry-wide-300mm-gan-adoption/">Imec’s Push Towards Industry-Wide 300mm GaN Adoption</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Exploring SiC MOSFET Architectures, Part 2](https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-2/)
 **Published:** Mon, 26 Jan 2026 13:00:00 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2026-01-27 11:37 UTC_
 
 <img alt="Vishay Debuts High-Efficiency 100 V TMBS Rectifier Modules." class="webfeedsFeaturedVisual wp-post-image" height="533" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Vishay.jpg?fit=799%2C533" style="display: block; margin-bottom: 5px; clear: both;" width="799" /><p>TMBS devices provide drop-in compatibility that helps cut conduction losses and boost efficiency in industrial power systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/vishay-debuts-high-efficiency-100-v-tmbs-rectifier-modules/">Vishay Debuts High-Efficiency 100 V TMBS Rectifier Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Microchip Launches 600 V Gate Driver Lineup](https://www.powerelectronicsnews.com/microchip-launches-600-v-gate-driver-lineup/)
-**Published:** Wed, 21 Jan 2026 21:36:48 +0000
-
-<img alt="Microchip Launches 600 V Gate Driver Lineup." class="webfeedsFeaturedVisual wp-post-image" height="444" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Microchip.jpg?fit=799%2C444" style="display: block; margin-bottom: 5px; clear: both;" width="799" /><p>With support for 600 V operation, the new gate driver family extends Microchip’s offering of high-voltage power solutions.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/microchip-launches-600-v-gate-driver-lineup/">Microchip Launches 600 V Gate Driver Lineup</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
