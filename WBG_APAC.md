@@ -1,20 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-27 02:07 UTC_
+_Last updated: 2026-01-27 04:02 UTC_
 
 ## [Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift](https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/)
 **Published:** Mon, 26 Jan 2026 01:31:31 +0000
 
 <p>Wolfspeed has successfully produced a single-crystal 300mm (12-inch) SiC wafer, marking a critical step toward future high-volume commercialization of the WBG material.</p>
 <p>The post <a href="https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/">Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [AMD Ryzen AI Processors Power AI-Driven Automotive & Industrial Experiences](https://www.eetasia.com/embeddednews-amd-ryzen-ai-processors-power-ai-driven-automotive-industrial-experiences/)
-**Published:** Fri, 23 Jan 2026 13:04:20 +0000
-
-<p>AMD Ryzen AI Embedded P100 &#38; X100 processors integrate Zen 5 CPU, RDNA 3.5 GPU and XDNA 2 NPU for low-power AI acceleration. Delivering up to 50 AI TOPS for automotive, industrial automation and physical AI applications.</p>
-<p>The post <a href="https://www.eetasia.com/embeddednews-amd-ryzen-ai-processors-power-ai-driven-automotive-industrial-experiences/">AMD Ryzen AI Processors Power AI-Driven Automotive &amp; Industrial Experiences</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
