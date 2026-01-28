@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-28 17:46 UTC_
+_Last updated: 2026-01-28 18:52 UTC_
 
 ## [Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers](https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/)
 **Published:** Wed, 28 Jan 2026 02:42:25 +0000
@@ -23,6 +23,14 @@ _Last updated: 2026-01-28 17:46 UTC_
 
 <p>Micron begins building a major Singapore NAND fab, boosting AI-driven memory supply, advanced manufacturing, and high-tech semiconductor jobs.</p>
 <p>The post <a href="https://www.eetasia.com/micron-starts-construction-of-new-advanced-fab-in-singapore/">Micron Starts Construction of New Advanced Fab in Singapore</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SK hynix to Establish U.S. Arm Specialized in AI Solutions](https://www.semiconductor-digest.com/sk-hynix-to-establish-u-s-arm-specialized-in-ai-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=sk-hynix-to-establish-u-s-arm-specialized-in-ai-solutions)
+**Published:** Wed, 28 Jan 2026 17:46:39 +0000
+
+<p>SK hynix Inc. announced today that it will establish an AI solutions firm, tentatively named AI Company, in the US to find new AI growth engines.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sk-hynix-to-establish-u-s-arm-specialized-in-ai-solutions/">SK hynix to Establish U.S. Arm Specialized in AI Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -815,14 +823,6 @@ _Last updated: 2026-01-28 17:46 UTC_
 
 <p>For the first time, tariffs and trade policy surpass talent risk as the no.1 concern.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ai-boom-drives-semiconductor-industry-confidence-to-near-record-high-but-supply-chain-and-infrastructure-concerns-intensify/">AI-Boom Drives Semiconductor Industry Confidence to Near-Record High, But Supply Chain and Infrastructure Concerns Intensify</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NHanced Semiconductors Leads the Semiconductor Industry in Heterogeneous Hybrid Bonding Production](https://www.semiconductor-digest.com/nhanced-semiconductors-leads-the-semiconductor-industry-in-heterogeneous-hybrid-bonding-production/?utm_source=rss&utm_medium=rss&utm_campaign=nhanced-semiconductors-leads-the-semiconductor-industry-in-heterogeneous-hybrid-bonding-production)
-**Published:** Tue, 16 Dec 2025 21:03:03 +0000
-
-<p>The company’s recently delivered Besi Datacon 8800 CHAMEOultra plus system is the world’s first operational advanced bonder of its kind to enter production.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nhanced-semiconductors-leads-the-semiconductor-industry-in-heterogeneous-hybrid-bonding-production/">NHanced Semiconductors Leads the Semiconductor Industry in Heterogeneous Hybrid Bonding Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
