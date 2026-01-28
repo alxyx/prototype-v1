@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-28 16:53 UTC_
+_Last updated: 2026-01-28 17:46 UTC_
 
 ## [Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers](https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/)
 **Published:** Wed, 28 Jan 2026 02:42:25 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-01-28 16:53 UTC_
 
 <p>Micron begins building a major Singapore NAND fab, boosting AI-driven memory supply, advanced manufacturing, and high-tech semiconductor jobs.</p>
 <p>The post <a href="https://www.eetasia.com/micron-starts-construction-of-new-advanced-fab-in-singapore/">Micron Starts Construction of New Advanced Fab in Singapore</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Valens Semiconductor Announces Operational Efficiency Plan](https://www.semiconductor-digest.com/valens-semiconductor-announces-operational-efficiency-plan/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-announces-operational-efficiency-plan)
+**Published:** Wed, 28 Jan 2026 17:25:42 +0000
+
+<p>Plan includes 10% workforce reduction across various departments.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-announces-operational-efficiency-plan/">Valens Semiconductor Announces Operational Efficiency Plan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SK keyfoundry Launches 4th-Generation 200V High-Voltage 0.18 micron BCD Process](https://www.semiconductor-digest.com/sk-keyfoundry-launches-4th-generation-200v-high-voltage-0-18-micron-bcd-process/?utm_source=rss&utm_medium=rss&utm_campaign=sk-keyfoundry-launches-4th-generation-200v-high-voltage-0-18-micron-bcd-process)
+**Published:** Wed, 28 Jan 2026 17:21:34 +0000
+
+<p>SK keyfoundry announced that it has recently launched its fourth-generation 200V high-voltage 0.18-micron BCD process and will begin full-scale product development with major domestic and global customers, targeting mass production within the year.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sk-keyfoundry-launches-4th-generation-200v-high-voltage-0-18-micron-bcd-process/">SK keyfoundry Launches 4th-Generation 200V High-Voltage 0.18 micron BCD Process</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [New 3D Micro and Nanofabrication Technique Overcomes Material Limitations](https://www.semiconductor-digest.com/new-3d-micro-and-nanofabrication-technique-overcomes-material-limitations/?utm_source=rss&utm_medium=rss&utm_campaign=new-3d-micro-and-nanofabrication-technique-overcomes-material-limitations)
+**Published:** Wed, 28 Jan 2026 16:48:15 +0000
+
+<p>Method relies on light-driven or optofluidic assembly.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-3d-micro-and-nanofabrication-technique-overcomes-material-limitations/">New 3D Micro and Nanofabrication Technique Overcomes Material Limitations</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Outlines 2026 U.S. Policy Priorities to Support Semiconductor Growth, Innovation, and Supply Chain Stability](https://www.semiconductor-digest.com/semi-outlines-2026-u-s-policy-priorities-to-support-semiconductor-growth-innovation-and-supply-chain-stability/?utm_source=rss&utm_medium=rss&utm_campaign=semi-outlines-2026-u-s-policy-priorities-to-support-semiconductor-growth-innovation-and-supply-chain-stability)
+**Published:** Wed, 28 Jan 2026 16:37:51 +0000
+
+<p>Policy priorities focus on trade, workforce, investment certainty, CHIPS Act implementation, and supply chain resilience.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-outlines-2026-u-s-policy-priorities-to-support-semiconductor-growth-innovation-and-supply-chain-stability/">SEMI Outlines 2026 U.S. Policy Priorities to Support Semiconductor Growth, Innovation, and Supply Chain Stability</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,38 +826,6 @@ _Last updated: 2026-01-28 16:53 UTC_
 
 ---
 
-## [Toshiba to Accelerate Semiconductor Design Innovation with Siemens’ EDA Software](https://www.semiconductor-digest.com/toshiba-to-accelerate-semiconductor-design-innovation-with-siemens-eda-software/?utm_source=rss&utm_medium=rss&utm_campaign=toshiba-to-accelerate-semiconductor-design-innovation-with-siemens-eda-software)
-**Published:** Tue, 16 Dec 2025 17:08:39 +0000
-
-<p>Japanese company to leverage a range of Siemens’ EDA technologies to speed design, enhance power integrity and boost overall reliability for its next generation of analog ICs and power devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/toshiba-to-accelerate-semiconductor-design-innovation-with-siemens-eda-software/">Toshiba to Accelerate Semiconductor Design Innovation with Siemens’ EDA Software</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: Automotive OLED Panel Shipments to Grow 11.8% YoY in 2025](https://www.semiconductor-digest.com/omdia-automotive-oled-panel-shipments-to-grow-11-8-yoy-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-automotive-oled-panel-shipments-to-grow-11-8-yoy-in-2025)
-**Published:** Tue, 16 Dec 2025 16:59:32 +0000
-
-<p>Global automotive OLED panel shipments are on track to grow 11.8% year-on-year (YoY) growth in 2025, reaching approximately 3.05 million units, according to Omdia’s Automotive Display Market Intelligence Service.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-automotive-oled-panel-shipments-to-grow-11-8-yoy-in-2025/">Omdia: Automotive OLED Panel Shipments to Grow 11.8% YoY in 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Global Semiconductor Equipment Sales Projected to Reach a Record of $156 Billion in 2027](https://www.semiconductor-digest.com/global-semiconductor-equipment-sales-projected-to-reach-a-record-of-156-billion-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-equipment-sales-projected-to-reach-a-record-of-156-billion-in-2027)
-**Published:** Tue, 16 Dec 2025 16:52:37 +0000
-
-<p>Global sales of total semiconductor manufacturing equipment by original equipment manufacturers (OEMs) are forecast to reach a record high of $133 billion in 2025, growing 13.7% year-on-year, SEMI announced today.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-equipment-sales-projected-to-reach-a-record-of-156-billion-in-2027/">Global Semiconductor Equipment Sales Projected to Reach a Record of $156 Billion in 2027</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMICON Japan: The German Federal State Saxony Presents Itself as a Key European Location for the International Microelectronics Industry](https://www.semiconductor-digest.com/semicon-japan-the-german-federal-state-saxony-presents-itself-as-a-key-european-location-for-the-international-microelectronics-industry/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-japan-the-german-federal-state-saxony-presents-itself-as-a-key-european-location-for-the-international-microelectronics-industry)
-**Published:** Mon, 15 Dec 2025 19:27:45 +0000
-
-<p>The SACHSEN! joint stand at SEMICON Japan in Tokyo from 17 to 19 December will be the meeting point for innovative technologies and Saxony's top expertise.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semicon-japan-the-german-federal-state-saxony-presents-itself-as-a-key-european-location-for-the-international-microelectronics-industry/">SEMICON Japan: The German Federal State Saxony Presents Itself as a Key European Location for the International Microelectronics Industry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Infineon Introduces Flexible USB 2.0 Peripheral Controller](https://www.powerelectronicsnews.com/infineon-introduces-flexible-usb-2-0-peripheral-controller/)
 **Published:** Wed, 28 Jan 2026 14:00:00 +0000
 
@@ -925,7 +925,8 @@ _Last updated: 2026-01-28 16:53 UTC_
 ## [LDOs use Nano Cap tech for stability in extreme environments](https://www.electronicsweekly.com/news/ldos-use-nano-cap-tech-for-stability-in-extreme-environments-2026-01/)
 **Published:** Tue, 27 Jan 2026 15:03:39 +0000
 
-Rohm Semiconductor launches high capacity LDO regulator ICs based on Nano Cap technology
+<p>Rohm Semiconductor launches high capacity LDO regulator ICs based on Nano Cap technology</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/ldos-use-nano-cap-tech-for-stability-in-extreme-environments-2026-01/">LDOs use Nano Cap tech for stability in extreme environments</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
