@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-28 22:41 UTC_
+_Last updated: 2026-01-28 23:39 UTC_
 
 ## [Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers](https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/)
 **Published:** Wed, 28 Jan 2026 02:42:25 +0000
@@ -23,6 +23,46 @@ _Last updated: 2026-01-28 22:41 UTC_
 
 <p>Micron begins building a major Singapore NAND fab, boosting AI-driven memory supply, advanced manufacturing, and high-tech semiconductor jobs.</p>
 <p>The post <a href="https://www.eetasia.com/micron-starts-construction-of-new-advanced-fab-in-singapore/">Micron Starts Construction of New Advanced Fab in Singapore</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Micron Breaks Ground on Advanced Wafer Fabrication Facility in Singapore](https://www.semiconductor-digest.com/micron-breaks-ground-on-advanced-wafer-fabrication-facility-in-singapore/?utm_source=rss&utm_medium=rss&utm_campaign=micron-breaks-ground-on-advanced-wafer-fabrication-facility-in-singapore)
+**Published:** Wed, 28 Jan 2026 23:09:11 +0000
+
+<p>Approximately $24 billion investment over 10 years will support long-term manufacturing requirements and AI-driven demand.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-breaks-ground-on-advanced-wafer-fabrication-facility-in-singapore/">Micron Breaks Ground on Advanced Wafer Fabrication Facility in Singapore</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [New Chip-Sized, Energy-Efficient Optical Amplifier Can Intensify Light 100 Times](https://www.semiconductor-digest.com/new-chip-sized-energy-efficient-optical-amplifier-can-intensify-light-100-times/?utm_source=rss&utm_medium=rss&utm_campaign=new-chip-sized-energy-efficient-optical-amplifier-can-intensify-light-100-times)
+**Published:** Wed, 28 Jan 2026 22:55:12 +0000
+
+<p>Small enough to fit in a smartphone, the optical amplifier developed at Stanford could not only improve fiber optic networks that are the backbone of the internet, but also spur new technologies such as biosensing for environmental toxin detection and medical diagnostics.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-chip-sized-energy-efficient-optical-amplifier-can-intensify-light-100-times/">New Chip-Sized, Energy-Efficient Optical Amplifier Can Intensify Light 100 Times</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Alpha and Omega Semiconductor Unveils its Powerful αMOS E2 600V Super Junction MOSFET Platform](https://www.semiconductor-digest.com/alpha-and-omega-semiconductor-unveils-its-powerful-%ce%b1mos-e2-600v-super-junction-mosfet-platform/?utm_source=rss&utm_medium=rss&utm_campaign=alpha-and-omega-semiconductor-unveils-its-powerful-%25ce%25b1mos-e2-600v-super-junction-mosfet-platform)
+**Published:** Wed, 28 Jan 2026 22:44:36 +0000
+
+<p>Alpha and Omega Semiconductor Limited, a designer, developer, and global supplier of a broad range of discrete power devices, wide band gap power devices, power management ICs, and modules, today unveiled its powerful αMOS E2 600V Super Junction MOSFET platform.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/alpha-and-omega-semiconductor-unveils-its-powerful-%ce%b1mos-e2-600v-super-junction-mosfet-platform/">Alpha and Omega Semiconductor Unveils its Powerful αMOS E2 600V Super Junction MOSFET Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Celera Semiconductor Appoints Bruno Kranzen to its Board of Directors](https://www.semiconductor-digest.com/celera-semiconductor-appoints-bruno-kranzen-to-its-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=celera-semiconductor-appoints-bruno-kranzen-to-its-board-of-directors)
+**Published:** Wed, 28 Jan 2026 22:35:28 +0000
+
+<p>Celera Semiconductor has appointed Bruno Kranzen to its Board of Directors.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/celera-semiconductor-appoints-bruno-kranzen-to-its-board-of-directors/">Celera Semiconductor Appoints Bruno Kranzen to its Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [EMASS Tapes Out 16nm ECS-DoT, Advancing Always-On Edge AI](https://www.semiconductor-digest.com/emass-tapes-out-16nm-ecs-dot-advancing-always-on-edge-ai/?utm_source=rss&utm_medium=rss&utm_campaign=emass-tapes-out-16nm-ecs-dot-advancing-always-on-edge-ai)
+**Published:** Wed, 28 Jan 2026 22:31:55 +0000
+
+<p>EMASS, a Nanoveu subsidiary specializing in next-generation semiconductor technology, today announced the successful tape-out of its 16nm ECS-DoT system-on-chip (SoC).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/emass-tapes-out-16nm-ecs-dot-advancing-always-on-edge-ai/">EMASS Tapes Out 16nm ECS-DoT, Advancing Always-On Edge AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,46 +823,6 @@ _Last updated: 2026-01-28 22:41 UTC_
 
 <p>Collaboration aims to accelerate Europe’s adoption of chiplets and advanced 2.5D and 3D chip packaging solutions.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/avnet-asic-and-bar-ilan-university-launch-innovation-center-for-next-generation-chiplets/">Avnet ASIC and Bar-Ilan University Launch Innovation Center for Next Generation Chiplets</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rapidus Unveils New AI Design Tools for Advanced Semiconductor Manufacturing](https://www.semiconductor-digest.com/rapidus-unveils-new-ai-design-tools-for-advanced-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-unveils-new-ai-design-tools-for-advanced-semiconductor-manufacturing)
-**Published:** Wed, 17 Dec 2025 20:14:21 +0000
-
-<p>Rapidus Corporation today announced a new suite of AI design tools to support its Rapidus AI-Assisted Design Solution (Raads), a key initiative to helping to realize its Rapid and Unified Manufacturing Service (RUMS) concept.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rapidus-unveils-new-ai-design-tools-for-advanced-semiconductor-manufacturing/">Rapidus Unveils New AI Design Tools for Advanced Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ABM Expands Semiconductor and Technical Services Platform with Agreement to Acquire WGNSTAR](https://www.semiconductor-digest.com/abm-expands-semiconductor-and-technical-services-platform-with-agreement-to-acquire-wgnstar/?utm_source=rss&utm_medium=rss&utm_campaign=abm-expands-semiconductor-and-technical-services-platform-with-agreement-to-acquire-wgnstar)
-**Published:** Wed, 17 Dec 2025 20:06:05 +0000
-
-<p>Strategic acquisition will strengthen ABM’s position in fast-growing semiconductor and technology manufacturing markets.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/abm-expands-semiconductor-and-technical-services-platform-with-agreement-to-acquire-wgnstar/">ABM Expands Semiconductor and Technical Services Platform with Agreement to Acquire WGNSTAR</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Texas Instruments Begins Production at New 300mm Semiconductor Manufacturing Facility](https://www.semiconductor-digest.com/texas-instruments-begins-production-at-new-300mm-semiconductor-manufacturing-facility/?utm_source=rss&utm_medium=rss&utm_campaign=texas-instruments-begins-production-at-new-300mm-semiconductor-manufacturing-facility)
-**Published:** Wed, 17 Dec 2025 19:55:19 +0000
-
-<p>Wafer fab will produce tens of millions of chips daily that go into nearly every electronic device.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/texas-instruments-begins-production-at-new-300mm-semiconductor-manufacturing-facility/">Texas Instruments Begins Production at New 300mm Semiconductor Manufacturing Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [When ECO Meets HLS: Navigating Design Changes in Modern SoC Flows](https://www.semiconductor-digest.com/when-eco-meets-hls-navigating-design-changes-in-modern-soc-flows/?utm_source=rss&utm_medium=rss&utm_campaign=when-eco-meets-hls-navigating-design-changes-in-modern-soc-flows)
-**Published:** Wed, 17 Dec 2025 14:07:59 +0000
-
-<p>This article explores why traditional Engineering Change Order (ECO) strategies aren’t useful for High Level Synthesis based design, what engineers can do about it and how the industry is trying to solve this problem.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/when-eco-meets-hls-navigating-design-changes-in-modern-soc-flows/">When ECO Meets HLS: Navigating Design Changes in Modern SoC Flows</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AI-Boom Drives Semiconductor Industry Confidence to Near-Record High, But Supply Chain and Infrastructure Concerns Intensify](https://www.semiconductor-digest.com/ai-boom-drives-semiconductor-industry-confidence-to-near-record-high-but-supply-chain-and-infrastructure-concerns-intensify/?utm_source=rss&utm_medium=rss&utm_campaign=ai-boom-drives-semiconductor-industry-confidence-to-near-record-high-but-supply-chain-and-infrastructure-concerns-intensify)
-**Published:** Tue, 16 Dec 2025 21:17:19 +0000
-
-<p>For the first time, tariffs and trade policy surpass talent risk as the no.1 concern.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ai-boom-drives-semiconductor-industry-confidence-to-near-record-high-but-supply-chain-and-infrastructure-concerns-intensify/">AI-Boom Drives Semiconductor Industry Confidence to Near-Record High, But Supply Chain and Infrastructure Concerns Intensify</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
