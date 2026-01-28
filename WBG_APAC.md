@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-28 13:06 UTC_
+_Last updated: 2026-01-28 14:05 UTC_
 
 ## [Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers](https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/)
 **Published:** Wed, 28 Jan 2026 02:42:25 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-01-28 13:06 UTC_
 
 ---
 
+## [Infineon Introduces Flexible USB 2.0 Peripheral Controller](https://www.powerelectronicsnews.com/infineon-introduces-flexible-usb-2-0-peripheral-controller/)
+**Published:** Wed, 28 Jan 2026 14:00:00 +0000
+
+<img alt="Infineon Introduces Flexible USB 2.0 Peripheral Controller." class="webfeedsFeaturedVisual wp-post-image" height="1110" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Infineon_USB_controller.jpg?fit=2126%2C1110" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The new USB 2.0 peripheral controller is a flexible solution suitable for biometric, medical, robotics, and industrial applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-introduces-flexible-usb-2-0-peripheral-controller/">Infineon Introduces Flexible USB 2.0 Peripheral Controller</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Power Electronics Course with QSPICE (Episode 02): The Circuit Diagram Editor](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-02-the-circuit-diagram-editor/)
 **Published:** Wed, 28 Jan 2026 13:00:00 +0000
 
@@ -898,11 +906,11 @@ _Last updated: 2026-01-28 13:06 UTC_
 
 ---
 
-## [How GaN Supports Multi-Market Applications (Podcast)](https://www.powerelectronicsnews.com/how-gan-supports-multi-market-applications-podcast/)
-**Published:** Thu, 22 Jan 2026 17:15:45 +0000
+## [Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers](https://www.eetimes.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/)
+**Published:** Wed, 28 Jan 2026 14:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Renesas-600x500-featured-image.png?fit=600%2C500" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>In today’s podcast, we discuss how Renesas’s GaN offering supports the requirements of power applications across AI infrastructure, solar on-board chargers, and DC/DC in EVs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/how-gan-supports-multi-market-applications-podcast/">How GaN Supports Multi-Market Applications (Podcast)</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Lightmatter®, the leader in photonic interconnect solutions for AI, and Global Unichip Corp. (GUC), the Advanced ASIC leader and a key enabler for hyperscaler AI infrastructure, today announced a strategic partnership to bring commercial Passage™ 3D Co-Packaged Optics (CPO) solutions to market. </p>
+<p>The post <a href="https://www.eetimes.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/">Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
