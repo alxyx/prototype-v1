@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-27 23:36 UTC_
+_Last updated: 2026-01-28 02:03 UTC_
+
+## [Micron Starts Construction of New Advanced Fab in Singapore](https://www.eetasia.com/micron-starts-construction-of-new-advanced-fab-in-singapore/)
+**Published:** Wed, 28 Jan 2026 01:31:44 +0000
+
+<p>Micron begins building a major Singapore NAND fab, boosting AI-driven memory supply, advanced manufacturing, and high-tech semiconductor jobs.</p>
+<p>The post <a href="https://www.eetasia.com/micron-starts-construction-of-new-advanced-fab-in-singapore/">Micron Starts Construction of New Advanced Fab in Singapore</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift](https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/)
 **Published:** Mon, 26 Jan 2026 01:31:31 +0000
