@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-28 11:37 UTC_
+_Last updated: 2026-01-28 13:06 UTC_
 
 ## [Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers](https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/)
 **Published:** Wed, 28 Jan 2026 02:42:25 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-01-28 11:37 UTC_
 
 ---
 
+## [Power Electronics Course with QSPICE (Episode 02): The Circuit Diagram Editor](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-02-the-circuit-diagram-editor/)
+**Published:** Wed, 28 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>This second installment focuses on using QPSICE's schematic editor, learning how to properly place and connect components.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-02-the-circuit-diagram-editor/">Power Electronics Course with QSPICE (Episode 02): The Circuit Diagram Editor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [ST Unveils Hybrid USB PD Sink Controller](https://www.powerelectronicsnews.com/st-unveils-hybrid-usb-pd-sink-controller/)
 **Published:** Tue, 27 Jan 2026 14:00:00 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2026-01-28 11:37 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Renesas-600x500-featured-image.png?fit=600%2C500" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>In today’s podcast, we discuss how Renesas’s GaN offering supports the requirements of power applications across AI infrastructure, solar on-board chargers, and DC/DC in EVs.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/how-gan-supports-multi-market-applications-podcast/">How GaN Supports Multi-Market Applications (Podcast)</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Electronics Course with QSPICE (Episode 01): Introduction to the Simulation Environment](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-01-introduction-to-the-simulation-environment/)
-**Published:** Thu, 22 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/image_c3b300.jpeg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>This article introduces a new power electronics course designed to help readers understand the fundamental principles of real-world circuits.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-01-introduction-to-the-simulation-environment/">Power Electronics Course with QSPICE (Episode 01): Introduction to the Simulation Environment</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
