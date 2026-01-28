@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-28 08:47 UTC_
+_Last updated: 2026-01-28 09:49 UTC_
 
 ## [Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers](https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/)
 **Published:** Wed, 28 Jan 2026 02:42:25 +0000
@@ -918,13 +918,6 @@ _Last updated: 2026-01-28 08:47 UTC_
 **Published:** Tue, 27 Jan 2026 15:03:39 +0000
 
 Rohm Semiconductor launches high capacity LDO regulator ICs based on Nano Cap technology
-
----
-
-## [JOB: Embedded Engineer At Eaton In Pune](https://www.electronicsforu.com/career/embedded-engineer-eaton-pune)
-**Published:** Tue, 27 Jan 2026 09:21:08 +0000
-
-<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton What you’ll do: Responsible for Firmware development for Electrical Industrial Controls products as part of Industrial Control Division(ICD), which is part of PCS. This includes, contribution in product development by understanding product requirements, design &#38; develop feature enhancements and implementation of industrial internet of things (IIOT) protocols like Modbus, BACNet, [&#8230;]
 
 ---
 
