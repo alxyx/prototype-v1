@@ -1,20 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-28 02:03 UTC_
+_Last updated: 2026-01-28 03:58 UTC_
+
+## [Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers](https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/)
+**Published:** Wed, 28 Jan 2026 02:42:25 +0000
+
+<p>Collaboration combines GUC's ASIC design leadership with Lightmatter's industry-leading 3D CPO platform to redefine AI infrastructure scalability.</p>
+<p>The post <a href="https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/">Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Richard Bergman Appointed Global Business Head of Quest Global’s Semiconductor Division](https://www.eetasia.com/richard-bergman-appointed-global-business-head-of-quest-globals-semiconductor-division/)
+**Published:** Wed, 28 Jan 2026 02:08:59 +0000
+
+<p>Quest Global has appointed Richard Bergman as President &#38; Global Business Head of its Semiconductor business.</p>
+<p>The post <a href="https://www.eetasia.com/richard-bergman-appointed-global-business-head-of-quest-globals-semiconductor-division/">Richard Bergman Appointed Global Business Head of Quest Global&#8217;s Semiconductor Division</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Micron Starts Construction of New Advanced Fab in Singapore](https://www.eetasia.com/micron-starts-construction-of-new-advanced-fab-in-singapore/)
 **Published:** Wed, 28 Jan 2026 01:31:44 +0000
 
 <p>Micron begins building a major Singapore NAND fab, boosting AI-driven memory supply, advanced manufacturing, and high-tech semiconductor jobs.</p>
 <p>The post <a href="https://www.eetasia.com/micron-starts-construction-of-new-advanced-fab-in-singapore/">Micron Starts Construction of New Advanced Fab in Singapore</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift](https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/)
-**Published:** Mon, 26 Jan 2026 01:31:31 +0000
-
-<p>Wolfspeed has successfully produced a single-crystal 300mm (12-inch) SiC wafer, marking a critical step toward future high-volume commercialization of the WBG material.</p>
-<p>The post <a href="https://www.eetasia.com/wolfspeed-unveils-300mm-sic-wafer-signaling-next-manufacturing-shift/">Wolfspeed Unveils 300mm SiC Wafer, Signaling Next Manufacturing Shift</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
