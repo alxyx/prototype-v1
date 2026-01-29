@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-28 23:39 UTC_
+_Last updated: 2026-01-29 02:18 UTC_
 
 ## [Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers](https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/)
 **Published:** Wed, 28 Jan 2026 02:42:25 +0000
