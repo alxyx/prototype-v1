@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-29 05:57 UTC_
+_Last updated: 2026-01-29 07:03 UTC_
 
 ## [AI Server Compute ASIC Shipments to Triple by 2027 a](https://www.eetasia.com/ai-server-compute-asic-shipments-to-triple-by-2027-a/)
 **Published:** Thu, 29 Jan 2026 03:27:59 +0000
@@ -927,14 +927,6 @@ _Last updated: 2026-01-29 05:57 UTC_
 
 <p>IonQ-SkyWater acquisition signals a shift to vertical manufacturing for speed. Europe's HiPEAC strategy emphasizes public infrastructure and hybrid classical-quantum integration.</p>
 <p>The post <a href="https://www.eetimes.com/ionq-to-acquire-skywater-and-european-strategy/">IonQ to Acquire Skywater and European Strategy</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [LDOs use Nano Cap tech for stability in extreme environments](https://www.electronicsweekly.com/news/ldos-use-nano-cap-tech-for-stability-in-extreme-environments-2026-01/)
-**Published:** Tue, 27 Jan 2026 15:03:39 +0000
-
-<p>Rohm Semiconductor launches high capacity LDO regulator ICs based on Nano Cap technology</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/ldos-use-nano-cap-tech-for-stability-in-extreme-environments-2026-01/">LDOs use Nano Cap tech for stability in extreme environments</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
