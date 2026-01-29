@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-29 19:01 UTC_
+_Last updated: 2026-01-29 19:45 UTC_
 
 ## [AI Server Compute ASIC Shipments to Triple by 2027 a](https://www.eetasia.com/ai-server-compute-asic-shipments-to-triple-by-2027-a/)
 **Published:** Thu, 29 Jan 2026 03:27:59 +0000
