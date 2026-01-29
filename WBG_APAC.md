@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-29 08:54 UTC_
+_Last updated: 2026-01-29 09:57 UTC_
 
 ## [AI Server Compute ASIC Shipments to Triple by 2027 a](https://www.eetasia.com/ai-server-compute-asic-shipments-to-triple-by-2027-a/)
 **Published:** Thu, 29 Jan 2026 03:27:59 +0000
@@ -927,6 +927,27 @@ _Last updated: 2026-01-29 08:54 UTC_
 
 <p>IonQ-SkyWater acquisition signals a shift to vertical manufacturing for speed. Europe's HiPEAC strategy emphasizes public infrastructure and hybrid classical-quantum integration.</p>
 <p>The post <a href="https://www.eetimes.com/ionq-to-acquire-skywater-and-european-strategy/">IonQ to Acquire Skywater and European Strategy</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [High Power Devices Using Diamond Heterostructures](https://www.electronicsforu.com/news/high-power-devices-using-diamond-heterostructures)
+**Published:** Thu, 29 Jan 2026 07:07:43 +0000
+
+<img alt="High Power Devices Using Diamond Heterostructures" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/Diamond-heterintegration-image_1600x900-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />By stacking diamond with a 2D material, researchers create compact, high-voltage electronics capable of thriving in extreme heat, radiation, and industrial environments. As demand grows for electronic systems that can operate under high power, extreme heat, and radiation heavy conditions, conventional silicon based devices are approaching their physical limits. Materials that can handle higher voltages [&#8230;]
+
+---
+
+## [High Voltage BCDs Power EV And AI Surge](https://www.electronicsforu.com/news/high-voltage-bcds-power-ev-and-ai-surge)
+**Published:** Thu, 29 Jan 2026 06:49:43 +0000
+
+<img alt="High Voltage BCDs Power EV And AI Surge" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/4U4EYAL3FRB3HB4VTMB3CDF4WY-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Designed for higher voltage systems, the 200V BCD process enables compact, efficient power ICs for EV platforms and AI data centers. As electric vehicles and AI data centres move toward higher voltage architectures, demand is rising for power semiconductors that can handle higher efficiency, reliability, and thermal stress. Automotive platforms are shifting from 12V to [&#8230;]
+
+---
+
+## [Compact Optical Amplifier Boosts Electronics](https://www.electronicsforu.com/news/compact-optical-amplifier-boosts-electronics)
+**Published:** Thu, 29 Jan 2026 06:46:50 +0000
+
+<img alt="Compact Optical Amplifier Boosts Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/tn-5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Stanford researchers unveil an efficient chip-scale optical amplifier that could transform data communications, biosensing, and mobile tech. Stanford University physicists have developed a chip-sized optical amplifier capable of intensifying light roughly 100 times while using only a few hundred milliwatts of power, marking a significant advance for energy-efficient photonic electronics. The research could lead to [&#8230;]
 
 ---
 
