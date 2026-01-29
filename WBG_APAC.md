@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-29 11:45 UTC_
+_Last updated: 2026-01-29 13:12 UTC_
 
 ## [AI Server Compute ASIC Shipments to Triple by 2027 a](https://www.eetasia.com/ai-server-compute-asic-shipments-to-triple-by-2027-a/)
 **Published:** Thu, 29 Jan 2026 03:27:59 +0000
@@ -834,6 +834,22 @@ _Last updated: 2026-01-29 11:45 UTC_
 
 ---
 
+## [A Guide to GaN-on-Si, Part 1](https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-1/)
+**Published:** Thu, 29 Jan 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1152" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/image_b88758.jpeg?fit=2048%2C1152" style="display: block; margin-bottom: 5px; clear: both;" width="2048" /><p>Editor’s Note:&#160; Part 1 of this article explores why GaN-on-silicon substrates offer compelling advantages for power electronics and examines silicon substrate considerations for GaN growth.&#160;...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-1/">A Guide to GaN-on-Si, Part 1</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [AOS Launches αMOS E2 600V Super Junction MOSFET](https://www.powerelectronicsnews.com/aos-launches-%ce%b1mos-e2-600v-super-junction-mosfet/)
+**Published:** Thu, 29 Jan 2026 13:00:00 +0000
+
+<img alt="AOS Launches αMOS E2™ 600V Super Junction MOSFET." class="webfeedsFeaturedVisual wp-post-image" height="1028" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AOS_AOTL037V60DE2.jpg?fit=1200%2C1028" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new super junction MOSFET meets the high efficiency and power density demands in solar inverter systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/aos-launches-%ce%b1mos-e2-600v-super-junction-mosfet/">AOS Launches αMOS E2 600V Super Junction MOSFET</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Infineon Introduces Flexible USB 2.0 Peripheral Controller](https://www.powerelectronicsnews.com/infineon-introduces-flexible-usb-2-0-peripheral-controller/)
 **Published:** Wed, 28 Jan 2026 14:00:00 +0000
 
@@ -895,22 +911,6 @@ _Last updated: 2026-01-29 11:45 UTC_
 
 <img alt="ROHM Unveils 100V Power MOSFET for 48V AI Servers." class="webfeedsFeaturedVisual wp-post-image" height="607" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/prw_PI1fl_W374YeRf.png?fit=510%2C607" style="display: block; margin-bottom: 5px; clear: both;" width="510" /><p>The new power MOSFET features wide safe operating area (SOA) performance in a compact 5060-size (5.0mm × 6.0mm) package.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/rohm-100-v-power-mosfet-for-48-v-ai-servers-in-new-package/">ROHM 100-V Power MOSFET for 48 V AI Servers in New Package</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Diodes Announces High-Voltage RobustISO Digital Isolators](https://www.powerelectronicsnews.com/diodes-announces-high-voltage-robustiso-digital-isolators/)
-**Published:** Fri, 23 Jan 2026 13:00:00 +0000
-
-<img alt="Diodes Announces High-Voltage RobustISO™ Digital Isolators." class="webfeedsFeaturedVisual wp-post-image" height="353" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Dual-Channel-Digital-Isolators-Provide-Reliable-and-Robust-Isolation-Solutions-for-Digital-Signals__ScaleMaxWidthWzQ2MF0.png?fit=460%2C353" style="display: block; margin-bottom: 5px; clear: both;" width="460" /><p>The API772x digital isolators are designed to satisfy both reinforced and basic isolation specifications under multiple standards bodies.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/diodes-announces-high-voltage-robustiso-digital-isolators/">Diodes Announces High-Voltage RobustISO Digital Isolators</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Diamond Semiconductors, PEN’s 2025 Survey Special Report, SiC MOSFETs Architectures: Power Electronics Week Insights](https://www.powerelectronicsnews.com/diamond-semiconductors-pens-2025-survey-special-report-sic-mosfets-architectures-power-electronics-week-insights/)
-**Published:** Fri, 23 Jan 2026 12:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Diamond Semiconductors, PEN’s 2025 Survey Special Report, and SiC MOSFETs Architectures!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/diamond-semiconductors-pens-2025-survey-special-report-sic-mosfets-architectures-power-electronics-week-insights/">Diamond Semiconductors, PEN’s 2025 Survey Special Report, SiC MOSFETs Architectures: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
