@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-29 02:18 UTC_
+_Last updated: 2026-01-29 04:40 UTC_
+
+## [AI Server Compute ASIC Shipments to Triple by 2027 a](https://www.eetasia.com/ai-server-compute-asic-shipments-to-triple-by-2027-a/)
+**Published:** Thu, 29 Jan 2026 03:27:59 +0000
+
+<p>Global shipments of AI server compute ASICs are projected to triple by 2027 compared to 2024 levels, according to Counterpoint Research.</p>
+<p>The post <a href="https://www.eetasia.com/ai-server-compute-asic-shipments-to-triple-by-2027-a/">AI Server Compute ASIC Shipments to Triple by 2027 a</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Lattice to Present Low-Power FPGA and Edge AI Technologies at FPGA-forum 2026](https://www.eetasia.com/lattice-to-present-low-power-fpga-and-edge-ai-technologies-at-fpga-forum-2026/)
+**Published:** Thu, 29 Jan 2026 03:19:50 +0000
+
+<p>Lattice Semiconductor will showcase its latest low-power FPGA technologies and edge AI solutions at FPGA-forum 2026.</p>
+<p>The post <a href="https://www.eetasia.com/lattice-to-present-low-power-fpga-and-edge-ai-technologies-at-fpga-forum-2026/">Lattice to Present Low-Power FPGA and Edge AI Technologies at FPGA-forum 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers](https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/)
 **Published:** Wed, 28 Jan 2026 02:42:25 +0000
@@ -15,14 +31,6 @@ _Last updated: 2026-01-29 02:18 UTC_
 
 <p>Quest Global has appointed Richard Bergman as President &#38; Global Business Head of its Semiconductor business.</p>
 <p>The post <a href="https://www.eetasia.com/richard-bergman-appointed-global-business-head-of-quest-globals-semiconductor-division/">Richard Bergman Appointed Global Business Head of Quest Global&#8217;s Semiconductor Division</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Micron Starts Construction of New Advanced Fab in Singapore](https://www.eetasia.com/micron-starts-construction-of-new-advanced-fab-in-singapore/)
-**Published:** Wed, 28 Jan 2026 01:31:44 +0000
-
-<p>Micron begins building a major Singapore NAND fab, boosting AI-driven memory supply, advanced manufacturing, and high-tech semiconductor jobs.</p>
-<p>The post <a href="https://www.eetasia.com/micron-starts-construction-of-new-advanced-fab-in-singapore/">Micron Starts Construction of New Advanced Fab in Singapore</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
