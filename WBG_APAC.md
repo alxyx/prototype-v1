@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-30 22:40 UTC_
+_Last updated: 2026-01-30 23:40 UTC_
 
 ## [STMicroelectronics’ Eugene Lee on Building a Greener, More Resilient Fab in Singapore](https://www.eetasia.com/stmicroelectronics-eugene-lee-on-building-a-greener-more-resilient-fab-in-singapore/)
 **Published:** Fri, 30 Jan 2026 02:54:15 +0000
@@ -927,14 +927,6 @@ _Last updated: 2026-01-30 22:40 UTC_
 
 <p>Lightmatter®, the leader in photonic interconnect solutions for AI, and Global Unichip Corp. (GUC), the Advanced ASIC leader and a key enabler for hyperscaler AI infrastructure, today announced a strategic partnership to bring commercial Passage™ 3D Co-Packaged Optics (CPO) solutions to market. </p>
 <p>The post <a href="https://www.eetimes.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/">Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [IonQ to Acquire Skywater and European Strategy](https://www.eetimes.com/ionq-to-acquire-skywater-and-european-strategy/)
-**Published:** Tue, 27 Jan 2026 16:00:00 +0000
-
-<p>IonQ-SkyWater acquisition signals a shift to vertical manufacturing for speed. Europe's HiPEAC strategy emphasizes public infrastructure and hybrid classical-quantum integration.</p>
-<p>The post <a href="https://www.eetimes.com/ionq-to-acquire-skywater-and-european-strategy/">IonQ to Acquire Skywater and European Strategy</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
