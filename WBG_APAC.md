@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-30 11:42 UTC_
+_Last updated: 2026-01-30 13:10 UTC_
 
 ## [STMicroelectronics’ Eugene Lee on Building a Greener, More Resilient Fab in Singapore](https://www.eetasia.com/stmicroelectronics-eugene-lee-on-building-a-greener-more-resilient-fab-in-singapore/)
 **Published:** Fri, 30 Jan 2026 02:54:15 +0000
@@ -834,6 +834,22 @@ _Last updated: 2026-01-30 11:42 UTC_
 
 ---
 
+## [Wide Bandgap Monthly Insights – January 2026](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-january-2026/)
+**Published:** Fri, 30 Jan 2026 13:00:00 +0000
+
+<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-january-2026/">Wide Bandgap Monthly Insights &#8211; January 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [ROHM Unveils BD9xxN5 Series of LDO Regulators](https://www.powerelectronicsnews.com/rohm-unveils-bd9xxn5-series-of-ldo-regulators/)
+**Published:** Fri, 30 Jan 2026 13:00:00 +0000
+
+<img alt="ROHM Unveils BD9xxN5 Series of LDO Regulators." class="webfeedsFeaturedVisual wp-post-image" height="478" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Rohm_LDO.png?fit=578%2C478" style="display: block; margin-bottom: 5px; clear: both;" width="578" /><p>The new BD9xxN5 series of low-dropout regulators (LDOs) provides an output current of 500 mA.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/rohm-unveils-bd9xxn5-series-of-ldo-regulators/">ROHM Unveils BD9xxN5 Series of LDO Regulators</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [A Guide to GaN-on-Si, Part 1](https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-1/)
 **Published:** Thu, 29 Jan 2026 13:00:00 +0000
 
@@ -895,22 +911,6 @@ _Last updated: 2026-01-30 11:42 UTC_
 
 <img alt="ICsense Inaugurates a new Electronic Wafer Sort Cleanroom." class="webfeedsFeaturedVisual wp-post-image" height="3024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/ICsense.jpg?fit=4032%2C3024" style="display: block; margin-bottom: 5px; clear: both;" width="4032" /><p>The ISO-7 certified cleanroom expands ICsense’s in-house capabilities for high-volume ASIC production.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/icsense-inaugurates-a-new-electronic-wafer-sort-cleanroom/">ICsense Inaugurates a New Electronic Wafer Sort Cleanroom</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Magnachip Launches New Generation of 650V and 1200V IGBTs](https://www.powerelectronicsnews.com/magnachip-launches-new-generation-of-650v-and-1200v-igbts/)
-**Published:** Fri, 23 Jan 2026 15:00:00 +0000
-
-<img alt="Magnachip Launches New Field Stop Trench IGBTs." class="webfeedsFeaturedVisual wp-post-image" height="3008" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/PR_IGBT_Photo_260114-final_for_2026.jpg?fit=4520%2C3008" style="display: block; margin-bottom: 5px; clear: both;" width="4520" /><p>The new 650V and 1200V IGBTs feature a new field stop trench-based technology that reduces cell pitch by 40% compared to previous generation. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/magnachip-launches-new-generation-of-650v-and-1200v-igbts/">Magnachip Launches New Generation of 650V and 1200V IGBTs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ROHM 100-V Power MOSFET for 48 V AI Servers in New Package](https://www.powerelectronicsnews.com/rohm-100-v-power-mosfet-for-48-v-ai-servers-in-new-package/)
-**Published:** Fri, 23 Jan 2026 13:00:00 +0000
-
-<img alt="ROHM Unveils 100V Power MOSFET for 48V AI Servers." class="webfeedsFeaturedVisual wp-post-image" height="607" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/prw_PI1fl_W374YeRf.png?fit=510%2C607" style="display: block; margin-bottom: 5px; clear: both;" width="510" /><p>The new power MOSFET features wide safe operating area (SOA) performance in a compact 5060-size (5.0mm × 6.0mm) package.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/rohm-100-v-power-mosfet-for-48-v-ai-servers-in-new-package/">ROHM 100-V Power MOSFET for 48 V AI Servers in New Package</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
