@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-30 15:49 UTC_
+_Last updated: 2026-01-30 16:54 UTC_
 
 ## [STMicroelectronics’ Eugene Lee on Building a Greener, More Resilient Fab in Singapore](https://www.eetasia.com/stmicroelectronics-eugene-lee-on-building-a-greener-more-resilient-fab-in-singapore/)
 **Published:** Fri, 30 Jan 2026 02:54:15 +0000
@@ -834,6 +834,14 @@ _Last updated: 2026-01-30 15:49 UTC_
 
 ---
 
+## [GaN-on-Si Substrates, QSPICE Circuit Diagram Editor, 300mm GaN Adoption: Power Electronics Week Insights](https://www.powerelectronicsnews.com/gan-on-si-substrates-qspice-circuit-diagram-editor-300mm-gan-adoption-power-electronics-week-insights/)
+**Published:** Fri, 30 Jan 2026 16:44:53 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on GaN-on-Sil Substrates, QSPICE Circuit Diagram Editor, and 300mm GaN Adoption!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/gan-on-si-substrates-qspice-circuit-diagram-editor-300mm-gan-adoption-power-electronics-week-insights/">GaN-on-Si Substrates, QSPICE Circuit Diagram Editor, 300mm GaN Adoption: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Wide Bandgap Monthly Insights – January 2026](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-january-2026/)
 **Published:** Fri, 30 Jan 2026 13:00:00 +0000
 
@@ -906,11 +914,11 @@ _Last updated: 2026-01-30 15:49 UTC_
 
 ---
 
-## [ICsense Inaugurates a New Electronic Wafer Sort Cleanroom](https://www.powerelectronicsnews.com/icsense-inaugurates-a-new-electronic-wafer-sort-cleanroom/)
-**Published:** Mon, 26 Jan 2026 13:00:00 +0000
+## [Semiconductor Traceability Takes Center Stage at NIST Workshop](https://www.eetimes.com/semiconductor-traceability-takes-center-stage-at-nist-workshop/)
+**Published:** Fri, 30 Jan 2026 16:53:23 +0000
 
-<img alt="ICsense Inaugurates a new Electronic Wafer Sort Cleanroom." class="webfeedsFeaturedVisual wp-post-image" height="3024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/ICsense.jpg?fit=4032%2C3024" style="display: block; margin-bottom: 5px; clear: both;" width="4032" /><p>The ISO-7 certified cleanroom expands ICsense’s in-house capabilities for high-volume ASIC production.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/icsense-inaugurates-a-new-electronic-wafer-sort-cleanroom/">ICsense Inaugurates a New Electronic Wafer Sort Cleanroom</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Semiconductor traceability is too large and too interconnected a challenge to be addressed in isolation.</p>
+<p>The post <a href="https://www.eetimes.com/semiconductor-traceability-takes-center-stage-at-nist-workshop/">Semiconductor Traceability Takes Center Stage at NIST Workshop</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
