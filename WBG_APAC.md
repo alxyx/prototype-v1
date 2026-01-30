@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-30 02:17 UTC_
+_Last updated: 2026-01-30 04:54 UTC_
+
+## [STMicroelectronics’ Eugene Lee on Building a Greener, More Resilient Fab in Singapore](https://www.eetasia.com/stmicroelectronics-eugene-lee-on-building-a-greener-more-resilient-fab-in-singapore/)
+**Published:** Fri, 30 Jan 2026 02:54:15 +0000
+
+<p>STMicroelectronics' district cooling system at its Ang Mo Kio fab cuts energy intensity while supporting high-mix semiconductor manufacturing growth and sustainability.</p>
+<p>The post <a href="https://www.eetasia.com/stmicroelectronics-eugene-lee-on-building-a-greener-more-resilient-fab-in-singapore/">STMicroelectronics&#8217; Eugene Lee on Building a Greener, More Resilient Fab in Singapore</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [AI Server Compute ASIC Shipments to Triple by 2027 a](https://www.eetasia.com/ai-server-compute-asic-shipments-to-triple-by-2027-a/)
 **Published:** Thu, 29 Jan 2026 03:27:59 +0000
@@ -23,14 +31,6 @@ _Last updated: 2026-01-30 02:17 UTC_
 
 <p>Collaboration combines GUC's ASIC design leadership with Lightmatter's industry-leading 3D CPO platform to redefine AI infrastructure scalability.</p>
 <p>The post <a href="https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/">Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Richard Bergman Appointed Global Business Head of Quest Global’s Semiconductor Division](https://www.eetasia.com/richard-bergman-appointed-global-business-head-of-quest-globals-semiconductor-division/)
-**Published:** Wed, 28 Jan 2026 02:08:59 +0000
-
-<p>Quest Global has appointed Richard Bergman as President &#38; Global Business Head of its Semiconductor business.</p>
-<p>The post <a href="https://www.eetasia.com/richard-bergman-appointed-global-business-head-of-quest-globals-semiconductor-division/">Richard Bergman Appointed Global Business Head of Quest Global&#8217;s Semiconductor Division</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -941,13 +941,6 @@ _Last updated: 2026-01-30 02:17 UTC_
 **Published:** Thu, 29 Jan 2026 06:49:43 +0000
 
 <img alt="High Voltage BCDs Power EV And AI Surge" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/4U4EYAL3FRB3HB4VTMB3CDF4WY-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Designed for higher voltage systems, the 200V BCD process enables compact, efficient power ICs for EV platforms and AI data centers. As electric vehicles and AI data centres move toward higher voltage architectures, demand is rising for power semiconductors that can handle higher efficiency, reliability, and thermal stress. Automotive platforms are shifting from 12V to [&#8230;]
-
----
-
-## [Compact Optical Amplifier Boosts Electronics](https://www.electronicsforu.com/news/compact-optical-amplifier-boosts-electronics)
-**Published:** Thu, 29 Jan 2026 06:46:50 +0000
-
-<img alt="Compact Optical Amplifier Boosts Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/tn-5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Stanford researchers unveil an efficient chip-scale optical amplifier that could transform data communications, biosensing, and mobile tech. Stanford University physicists have developed a chip-sized optical amplifier capable of intensifying light roughly 100 times while using only a few hundred milliwatts of power, marking a significant advance for energy-efficient photonic electronics. The research could lead to [&#8230;]
 
 ---
 
