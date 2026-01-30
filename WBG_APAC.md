@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-30 21:42 UTC_
+_Last updated: 2026-01-30 22:40 UTC_
 
 ## [STMicroelectronics’ Eugene Lee on Building a Greener, More Resilient Fab in Singapore](https://www.eetasia.com/stmicroelectronics-eugene-lee-on-building-a-greener-more-resilient-fab-in-singapore/)
 **Published:** Fri, 30 Jan 2026 02:54:15 +0000
@@ -31,6 +31,30 @@ _Last updated: 2026-01-30 21:42 UTC_
 
 <p>Collaboration combines GUC's ASIC design leadership with Lightmatter's industry-leading 3D CPO platform to redefine AI infrastructure scalability.</p>
 <p>The post <a href="https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/">Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [MXene Nanomaterials Enter a New Dimension](https://www.semiconductor-digest.com/mxene-nanomaterials-enter-a-new-dimension/?utm_source=rss&utm_medium=rss&utm_campaign=mxene-nanomaterials-enter-a-new-dimension)
+**Published:** Fri, 30 Jan 2026 22:24:34 +0000
+
+<p>Multilayer nanomaterial MXene flakes created at Drexel University show new promise as 1D scrolls.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/mxene-nanomaterials-enter-a-new-dimension/">MXene Nanomaterials Enter a New Dimension</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ISG to Study Semiconductor Industry Service Providers](https://www.semiconductor-digest.com/isg-to-study-semiconductor-industry-service-providers/?utm_source=rss&utm_medium=rss&utm_campaign=isg-to-study-semiconductor-industry-service-providers)
+**Published:** Fri, 30 Jan 2026 22:12:48 +0000
+
+<p>Information Services Group (ISG), a global AI-centered technology research and advisory firm, has launched a research study examining providers that help semiconductor companies adopt advanced technologies, supported by digital manufacturing and intelligent automation.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/isg-to-study-semiconductor-industry-service-providers/">ISG to Study Semiconductor Industry Service Providers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Kioxia and Sandisk Extend Yokkaichi Joint Venture Agreement Through 2034](https://www.semiconductor-digest.com/kioxia-and-sandisk-extend-yokkaichi-joint-venture-agreement-through-2034/?utm_source=rss&utm_medium=rss&utm_campaign=kioxia-and-sandisk-extend-yokkaichi-joint-venture-agreement-through-2034)
+**Published:** Fri, 30 Jan 2026 22:10:40 +0000
+
+<p>Kioxia Corporation, a subsidiary of Kioxia Holdings Corporation, and Sandisk Corporation today announced the extension of their joint venture agreements at Kioxia’s Yokkaichi Plant for an additional five years.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kioxia-and-sandisk-extend-yokkaichi-joint-venture-agreement-through-2034/">Kioxia and Sandisk Extend Yokkaichi Joint Venture Agreement Through 2034</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,30 +831,6 @@ _Last updated: 2026-01-30 21:42 UTC_
 
 <p>Ecolab Inc. has closed on its previously announced acquisition of Ovivo’s electronics business, a leading and fast-growing global provider of breakthrough ultrapure water technologies for semiconductor manufacturing.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ecolab-closes-acquisition-of-ovivos-electronics-ultrapure-water-business/">Ecolab Closes Acquisition of Ovivo&#8217;s Electronics Ultrapure Water Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [onsemi to Develop Next-Generation GaN Power Devices with GlobalFoundries](https://www.semiconductor-digest.com/onsemi-to-develop-next-generation-gan-power-devices-with-globalfoundries/?utm_source=rss&utm_medium=rss&utm_campaign=onsemi-to-develop-next-generation-gan-power-devices-with-globalfoundries)
-**Published:** Thu, 18 Dec 2025 19:59:55 +0000
-
-<p>Collaboration expands onsemi’s power portfolio to include high-performance 650V lateral GaN solutions for AI data centers, automotive, aerospace, and other critical markets.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/onsemi-to-develop-next-generation-gan-power-devices-with-globalfoundries/">onsemi to Develop Next-Generation GaN Power Devices with GlobalFoundries</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The Nanoparticle Threat: Closing the Semiconductor UPW Metrology Gap](https://www.semiconductor-digest.com/the-nanoparticle-threat-closing-the-semiconductor-upw-metrology-gap/?utm_source=rss&utm_medium=rss&utm_campaign=the-nanoparticle-threat-closing-the-semiconductor-upw-metrology-gap)
-**Published:** Thu, 18 Dec 2025 14:36:52 +0000
-
-<p>The TSI Nano LPM™ System provides consistent, real-time data that process engineers and quality managers need to make informed, data-driven decisions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-nanoparticle-threat-closing-the-semiconductor-upw-metrology-gap/">The Nanoparticle Threat: Closing the Semiconductor UPW Metrology Gap</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Avnet ASIC and Bar-Ilan University Launch Innovation Center for Next Generation Chiplets](https://www.semiconductor-digest.com/avnet-asic-and-bar-ilan-university-launch-innovation-center-for-next-generation-chiplets/?utm_source=rss&utm_medium=rss&utm_campaign=avnet-asic-and-bar-ilan-university-launch-innovation-center-for-next-generation-chiplets)
-**Published:** Wed, 17 Dec 2025 20:25:16 +0000
-
-<p>Collaboration aims to accelerate Europe’s adoption of chiplets and advanced 2.5D and 3D chip packaging solutions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/avnet-asic-and-bar-ilan-university-launch-innovation-center-for-next-generation-chiplets/">Avnet ASIC and Bar-Ilan University Launch Innovation Center for Next Generation Chiplets</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
