@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-01-31 04:24 UTC_
+_Last updated: 2026-01-31 05:52 UTC_
 
 ## [STMicroelectronics’ Eugene Lee on Building a Greener, More Resilient Fab in Singapore](https://www.eetasia.com/stmicroelectronics-eugene-lee-on-building-a-greener-more-resilient-fab-in-singapore/)
 **Published:** Fri, 30 Jan 2026 02:54:15 +0000
@@ -930,17 +930,24 @@ _Last updated: 2026-01-31 04:24 UTC_
 
 ---
 
-## [High Power Devices Using Diamond Heterostructures](https://www.electronicsforu.com/news/high-power-devices-using-diamond-heterostructures)
-**Published:** Thu, 29 Jan 2026 07:07:43 +0000
+## [JOB: Printed Circuit Board Design Engineer At Aether Semiconductors In Sahibzada Ajit Singh Nagar](https://www.electronicsforu.com/career/pcb-design-engineer-aether-semiconductors-sahibzada-ajit-singh-nagar)
+**Published:** Fri, 30 Jan 2026 10:50:47 +0000
 
-<img alt="High Power Devices Using Diamond Heterostructures" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/Diamond-heterintegration-image_1600x900-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />By stacking diamond with a 2D material, researchers create compact, high-voltage electronics capable of thriving in extreme heat, radiation, and industrial environments. As demand grows for electronic systems that can operate under high power, extreme heat, and radiation heavy conditions, conventional silicon based devices are approaching their physical limits. Materials that can handle higher voltages [&#8230;]
+<img alt="JOB: Printed Circuit Board Design Engineer At Aether Semiconductors In Sahibzada Ajit Singh Nagar" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/03/aether-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Sahibzada Ajit Singh Nagar Company: Aether Semiconductors Job Responsibilities for PCB Design Engineer (4-8 Years of Experience) in Semiconductor Equipment Engineering: PCB Design and Development: High-Power and Embedded Systems Integration: Collaboration and Testing: Technical Documentation: Continuous Improvement: Compliance and Standards: Required Skills &#38; Qualifications Basic Requirement
 
 ---
 
-## [High Voltage BCDs Power EV And AI Surge](https://www.electronicsforu.com/news/high-voltage-bcds-power-ev-and-ai-surge)
-**Published:** Thu, 29 Jan 2026 06:49:43 +0000
+## [JOB: Lab Technician At Microchip Technology In Bengaluru](https://www.electronicsforu.com/career/lab-technician-microchip-technology-bengaluru)
+**Published:** Fri, 30 Jan 2026 10:43:49 +0000
 
-<img alt="High Voltage BCDs Power EV And AI Surge" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/4U4EYAL3FRB3HB4VTMB3CDF4WY-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Designed for higher voltage systems, the 200V BCD process enables compact, efficient power ICs for EV platforms and AI data centers. As electric vehicles and AI data centres move toward higher voltage architectures, demand is rising for power semiconductors that can handle higher efficiency, reliability, and thermal stress. Automotive platforms are shifting from 12V to [&#8230;]
+<img alt="JOB: Lab Technician At Microchip Technology In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2017/08/Microchip-Technology-Inc.-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Microchip Technology A Lab Technician specialising in semiconductor testing is responsible for conducting tests and analyses on semiconductor devices and materials. The role involves operating advanced testing equipment, preparing samples, recording and interpreting data, and ensuring compliance with industry standards. The technician supports engineers in the development, quality assurance, and [&#8230;]
+
+---
+
+## [JOB: Linux Device Driver Developer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/linux-device-driver-developer-capgemini-bengaluru)
+**Published:** Fri, 30 Jan 2026 09:26:03 +0000
+
+<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs), printed circuit boards (PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment. Grade [&#8230;]
 
 ---
 
