@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-02 16:55 UTC_
+_Last updated: 2026-02-02 17:52 UTC_
 
 ## [AMD Boosts Space-Grade Portfolio, Extends Mission Timelines](https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/)
 **Published:** Mon, 02 Feb 2026 04:40:31 +0000
@@ -922,24 +922,10 @@ _Last updated: 2026-02-02 16:55 UTC_
 
 ---
 
-## [JOB: Printed Circuit Board Design Engineer At Aether Semiconductors In Sahibzada Ajit Singh Nagar](https://www.electronicsforu.com/career/pcb-design-engineer-aether-semiconductors-sahibzada-ajit-singh-nagar)
-**Published:** Fri, 30 Jan 2026 10:50:47 +0000
+## [Musical Temperature Alarm](https://www.electronicsforu.com/electronics-projects/musical-temperature-alarm)
+**Published:** Mon, 02 Feb 2026 13:04:39 +0000
 
-<img alt="JOB: Printed Circuit Board Design Engineer At Aether Semiconductors In Sahibzada Ajit Singh Nagar" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/03/aether-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Sahibzada Ajit Singh Nagar Company: Aether Semiconductors Job Responsibilities for PCB Design Engineer (4-8 Years of Experience) in Semiconductor Equipment Engineering: PCB Design and Development: High-Power and Embedded Systems Integration: Collaboration and Testing: Technical Documentation: Continuous Improvement: Compliance and Standards: Required Skills &#38; Qualifications Basic Requirement
-
----
-
-## [JOB: Lab Technician At Microchip Technology In Bengaluru](https://www.electronicsforu.com/career/lab-technician-microchip-technology-bengaluru)
-**Published:** Fri, 30 Jan 2026 10:43:49 +0000
-
-<img alt="JOB: Lab Technician At Microchip Technology In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2017/08/Microchip-Technology-Inc.-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Microchip Technology A Lab Technician specialising in semiconductor testing is responsible for conducting tests and analyses on semiconductor devices and materials. The role involves operating advanced testing equipment, preparing samples, recording and interpreting data, and ensuring compliance with industry standards. The technician supports engineers in the development, quality assurance, and [&#8230;]
-
----
-
-## [JOB: Linux Device Driver Developer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/linux-device-driver-developer-capgemini-bengaluru)
-**Published:** Fri, 30 Jan 2026 09:26:03 +0000
-
-<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs), printed circuit boards (PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment. Grade [&#8230;]
+<img alt="Musical Temperature Alarm" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/Authors-prototype-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Monitoring temperature is essential across many applications, from protecting sensitive electronic equipment to maintaining comfortable room conditions. Conventional temperature alarms typically use buzzers or LEDs, providing only visual, monophonic alerts. Here we present a musical temperature alarm that generates a pleasant melody, rather than a simple beep, when a preset temperature threshold is exceeded. The [&#8230;]
 
 ---
 
