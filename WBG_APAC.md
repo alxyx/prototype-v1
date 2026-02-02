@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-02 10:05 UTC_
+_Last updated: 2026-02-02 10:59 UTC_
 
 ## [AMD Boosts Space-Grade Portfolio, Extends Mission Timelines](https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/)
 **Published:** Mon, 02 Feb 2026 04:40:31 +0000
@@ -15,14 +15,6 @@ _Last updated: 2026-02-02 10:05 UTC_
 
 <p>FPT's chip fab will mark a step in Vietnam's effort to expand its role in the global semiconductor supply chain.</p>
 <p>The post <a href="https://www.eetasia.com/fpt-establishs-advanced-semiconductor-testing-and-packaging-plant-in-vietnam/">FPT Establishs Advanced Semiconductor Testing and Packaging Plant in Vietnam</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [STMicroelectronics’ Eugene Lee on Building a Greener, More Resilient Fab in Singapore](https://www.eetasia.com/stmicroelectronics-eugene-lee-on-building-a-greener-more-resilient-fab-in-singapore/)
-**Published:** Fri, 30 Jan 2026 02:54:15 +0000
-
-<p>STMicroelectronics' district cooling system at its Ang Mo Kio fab cuts energy intensity while supporting high-mix semiconductor manufacturing growth and sustainability.</p>
-<p>The post <a href="https://www.eetasia.com/stmicroelectronics-eugene-lee-on-building-a-greener-more-resilient-fab-in-singapore/">STMicroelectronics&#8217; Eugene Lee on Building a Greener, More Resilient Fab in Singapore</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
