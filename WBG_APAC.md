@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-02 14:54 UTC_
+_Last updated: 2026-02-02 15:51 UTC_
 
 ## [AMD Boosts Space-Grade Portfolio, Extends Mission Timelines](https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/)
 **Published:** Mon, 02 Feb 2026 04:40:31 +0000
@@ -903,14 +903,6 @@ _Last updated: 2026-02-02 14:54 UTC_
 
 <p>Semiconductor traceability is too large and too interconnected a challenge to be addressed in isolation.</p>
 <p>The post <a href="https://www.eetimes.com/semiconductor-traceability-takes-center-stage-at-nist-workshop/">Semiconductor Traceability Takes Center Stage at NIST Workshop</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers](https://www.eetimes.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/)
-**Published:** Wed, 28 Jan 2026 14:00:00 +0000
-
-<p>Lightmatter®, the leader in photonic interconnect solutions for AI, and Global Unichip Corp. (GUC), the Advanced ASIC leader and a key enabler for hyperscaler AI infrastructure, today announced a strategic partnership to bring commercial Passage™ 3D Co-Packaged Optics (CPO) solutions to market. </p>
-<p>The post <a href="https://www.eetimes.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/">Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
