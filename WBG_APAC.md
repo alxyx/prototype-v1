@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-02 13:13 UTC_
+_Last updated: 2026-02-02 14:54 UTC_
 
 ## [AMD Boosts Space-Grade Portfolio, Extends Mission Timelines](https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/)
 **Published:** Mon, 02 Feb 2026 04:40:31 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-02 13:13 UTC_
 
 ---
 
+## [Vishay Launches 1200 V SiC MOSFET Power Modules](https://www.powerelectronicsnews.com/vishay-launches-1200-v-sic-mosfet-power-modules/)
+**Published:** Mon, 02 Feb 2026 14:09:33 +0000
+
+<img alt="Vishay Launches 1200 V SiC MOSFET Power Modules." class="webfeedsFeaturedVisual wp-post-image" height="533" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Vishay_SiC_MOSFET.jpg?fit=799%2C533" style="display: block; margin-bottom: 5px; clear: both;" width="799" /><p>The new 1200 V SiC MOSFET power modules in SOT-227 packages target high-efficiency automotive, energy, and industrial systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-launches-1200-v-sic-mosfet-power-modules/">Vishay Launches 1200 V SiC MOSFET Power Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Supercapacitor-Assisted Power Converter](https://www.powerelectronicsnews.com/supercapacitor-assisted-power-converter/)
 **Published:** Mon, 02 Feb 2026 01:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2026-02-02 13:13 UTC_
 
 <img alt="ST Unveils Hybrid USB PD Sink Controller." class="webfeedsFeaturedVisual wp-post-image" height="1000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/ST-EVAL-SCS007V1.jpg?fit=1000%2C1000" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The STUSB4531 USB PD sink controller uses proprietary negotiation algorithms to establish a power-delivery contract with a source, operating entirely without software support.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/st-unveils-hybrid-usb-pd-sink-controller/">ST Unveils Hybrid USB PD Sink Controller</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Imec’s Push Towards Industry-Wide 300mm GaN Adoption](https://www.powerelectronicsnews.com/imecs-push-towards-industry-wide-300mm-gan-adoption/)
-**Published:** Tue, 27 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2242" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1657221021.jpeg?fit=4000%2C2242" style="display: block; margin-bottom: 5px; clear: both;" width="4000" /><p>Imec’s practical approach to their 300-mm GaN program, including the challenges and opportunities of moving to larger wafer diameters. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/imecs-push-towards-industry-wide-300mm-gan-adoption/">Imec’s Push Towards Industry-Wide 300mm GaN Adoption</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
