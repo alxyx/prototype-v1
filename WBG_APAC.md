@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-02 02:25 UTC_
+_Last updated: 2026-02-02 05:12 UTC_
+
+## [AMD Boosts Space-Grade Portfolio, Extends Mission Timelines](https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/)
+**Published:** Mon, 02 Feb 2026 04:40:31 +0000
+
+<p>AMD introduces Class Y qualified Versal AI Core XQRVC1902 with organic lidless packaging for 15-year space missions, plus Versal RF and AI Edge Gen 2 SoCs offering 10x compute boost for next-gen satellite processing.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/">AMD Boosts Space-Grade Portfolio, Extends Mission Timelines</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [FPT Establishs Advanced Semiconductor Testing and Packaging Plant in Vietnam](https://www.eetasia.com/fpt-establishs-advanced-semiconductor-testing-and-packaging-plant-in-vietnam/)
+**Published:** Mon, 02 Feb 2026 02:44:21 +0000
+
+<p>FPT's chip fab will mark a step in Vietnam's effort to expand its role in the global semiconductor supply chain.</p>
+<p>The post <a href="https://www.eetasia.com/fpt-establishs-advanced-semiconductor-testing-and-packaging-plant-in-vietnam/">FPT Establishs Advanced Semiconductor Testing and Packaging Plant in Vietnam</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [STMicroelectronics’ Eugene Lee on Building a Greener, More Resilient Fab in Singapore](https://www.eetasia.com/stmicroelectronics-eugene-lee-on-building-a-greener-more-resilient-fab-in-singapore/)
 **Published:** Fri, 30 Jan 2026 02:54:15 +0000
@@ -23,14 +39,6 @@ _Last updated: 2026-02-02 02:25 UTC_
 
 <p>Lattice Semiconductor will showcase its latest low-power FPGA technologies and edge AI solutions at FPGA-forum 2026.</p>
 <p>The post <a href="https://www.eetasia.com/lattice-to-present-low-power-fpga-and-edge-ai-technologies-at-fpga-forum-2026/">Lattice to Present Low-Power FPGA and Edge AI Technologies at FPGA-forum 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers](https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/)
-**Published:** Wed, 28 Jan 2026 02:42:25 +0000
-
-<p>Collaboration combines GUC's ASIC design leadership with Lightmatter's industry-leading 3D CPO platform to redefine AI infrastructure scalability.</p>
-<p>The post <a href="https://www.eetasia.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/">Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
