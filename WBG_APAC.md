@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-02 06:19 UTC_
+_Last updated: 2026-02-02 08:04 UTC_
 
 ## [AMD Boosts Space-Grade Portfolio, Extends Mission Timelines](https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/)
 **Published:** Mon, 02 Feb 2026 04:40:31 +0000
@@ -23,14 +23,6 @@ _Last updated: 2026-02-02 06:19 UTC_
 
 <p>STMicroelectronics' district cooling system at its Ang Mo Kio fab cuts energy intensity while supporting high-mix semiconductor manufacturing growth and sustainability.</p>
 <p>The post <a href="https://www.eetasia.com/stmicroelectronics-eugene-lee-on-building-a-greener-more-resilient-fab-in-singapore/">STMicroelectronics&#8217; Eugene Lee on Building a Greener, More Resilient Fab in Singapore</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [AI Server Compute ASIC Shipments to Triple by 2027 a](https://www.eetasia.com/ai-server-compute-asic-shipments-to-triple-by-2027-a/)
-**Published:** Thu, 29 Jan 2026 03:27:59 +0000
-
-<p>Global shipments of AI server compute ASICs are projected to triple by 2027 compared to 2024 levels, according to Counterpoint Research.</p>
-<p>The post <a href="https://www.eetasia.com/ai-server-compute-asic-shipments-to-triple-by-2027-a/">AI Server Compute ASIC Shipments to Triple by 2027 a</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -927,6 +919,22 @@ _Last updated: 2026-02-02 06:19 UTC_
 
 <p>Lightmatter®, the leader in photonic interconnect solutions for AI, and Global Unichip Corp. (GUC), the Advanced ASIC leader and a key enabler for hyperscaler AI infrastructure, today announced a strategic partnership to bring commercial Passage™ 3D Co-Packaged Optics (CPO) solutions to market. </p>
 <p>The post <a href="https://www.eetimes.com/lightmatter-and-guc-partner-to-produce-co-packaged-optics-cpo-solutions-for-ai-hyperscalers/">Lightmatter and GUC Partner to Produce Co-Packaged Optics (CPO) Solutions for AI Hyperscalers</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [CEA-Leti’s open access pilot line](https://www.electronicsweekly.com/news/business/cea-letis-open-access-pilot-line-2026-02/)
+**Published:** Mon, 02 Feb 2026 06:14:50 +0000
+
+<p>CEA-Leti’s  €830 million FAMES semiconductor pilot line in Grenoble has been inaugurated. It is running FD-SOI wafers for RF, NVmemories and PMICs. The open-access  line is accessible primarily, but not ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/cea-letis-open-access-pilot-line-2026-02/">CEA-Leti’s open access pilot line</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [MPL and Fraunhofer applying SiC to PICs](https://www.electronicsweekly.com/news/business/mpl-and-fraunhofer-applying-sic-to-pics-2026-02/)
+**Published:** Mon, 02 Feb 2026 06:06:40 +0000
+
+<p>In the ALP-4-SiC project – Atomic Layer Processing for SiC for Applications in Photonics and Quantum Communication – researchers from the Max Planck Institute for the Science of Light (MPL) ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/mpl-and-fraunhofer-applying-sic-to-pics-2026-02/">MPL and Fraunhofer applying SiC to PICs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
