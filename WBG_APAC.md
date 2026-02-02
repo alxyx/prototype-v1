@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-02 05:12 UTC_
+_Last updated: 2026-02-02 06:19 UTC_
 
 ## [AMD Boosts Space-Grade Portfolio, Extends Mission Timelines](https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/)
 **Published:** Mon, 02 Feb 2026 04:40:31 +0000
@@ -31,14 +31,6 @@ _Last updated: 2026-02-02 05:12 UTC_
 
 <p>Global shipments of AI server compute ASICs are projected to triple by 2027 compared to 2024 levels, according to Counterpoint Research.</p>
 <p>The post <a href="https://www.eetasia.com/ai-server-compute-asic-shipments-to-triple-by-2027-a/">AI Server Compute ASIC Shipments to Triple by 2027 a</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Lattice to Present Low-Power FPGA and Edge AI Technologies at FPGA-forum 2026](https://www.eetasia.com/lattice-to-present-low-power-fpga-and-edge-ai-technologies-at-fpga-forum-2026/)
-**Published:** Thu, 29 Jan 2026 03:19:50 +0000
-
-<p>Lattice Semiconductor will showcase its latest low-power FPGA technologies and edge AI solutions at FPGA-forum 2026.</p>
-<p>The post <a href="https://www.eetasia.com/lattice-to-present-low-power-fpga-and-edge-ai-technologies-at-fpga-forum-2026/">Lattice to Present Low-Power FPGA and Edge AI Technologies at FPGA-forum 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
