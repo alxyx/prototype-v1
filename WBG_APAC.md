@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-02 10:59 UTC_
+_Last updated: 2026-02-02 11:49 UTC_
 
 ## [AMD Boosts Space-Grade Portfolio, Extends Mission Timelines](https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/)
 **Published:** Mon, 02 Feb 2026 04:40:31 +0000
@@ -917,7 +917,7 @@ _Last updated: 2026-02-02 10:59 UTC_
 ## [CEA-Leti’s open access pilot line](https://www.electronicsweekly.com/news/business/cea-letis-open-access-pilot-line-2026-02/)
 **Published:** Mon, 02 Feb 2026 06:14:50 +0000
 
-<p>CEA-Leti’s  €830 million FAMES semiconductor pilot line in Grenoble has been inaugurated. It is running FD-SOI wafers for RF, NVmemories and PMICs. The open-access  line is accessible primarily, but not ...</p>
+<p>CEA-Leti’s €830 million FAMES semiconductor pilot line in Grenoble has been inaugurated. It is running FD-SOI wafers for RF, NVmemories and PMICs. The open-access  line is accessible primarily, but not ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/cea-letis-open-access-pilot-line-2026-02/">CEA-Leti’s open access pilot line</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
