@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-02 18:58 UTC_
+_Last updated: 2026-02-02 23:43 UTC_
 
 ## [AMD Boosts Space-Grade Portfolio, Extends Mission Timelines](https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/)
 **Published:** Mon, 02 Feb 2026 04:40:31 +0000
@@ -15,6 +15,38 @@ _Last updated: 2026-02-02 18:58 UTC_
 
 <p>FPT's chip fab will mark a step in Vietnam's effort to expand its role in the global semiconductor supply chain.</p>
 <p>The post <a href="https://www.eetasia.com/fpt-establishs-advanced-semiconductor-testing-and-packaging-plant-in-vietnam/">FPT Establishs Advanced Semiconductor Testing and Packaging Plant in Vietnam</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Real-Time View Inside Microreactor Reveals 2D Semiconductor Growth Secrets](https://www.semiconductor-digest.com/real-time-view-inside-microreactor-reveals-2d-semiconductor-growth-secrets/?utm_source=rss&utm_medium=rss&utm_campaign=real-time-view-inside-microreactor-reveals-2d-semiconductor-growth-secrets)
+**Published:** Mon, 02 Feb 2026 22:21:01 +0000
+
+<p>Researchers directly observe how molten precursor droplets drive the atomic-scale growth of ultra-thin semiconductor crystals.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/real-time-view-inside-microreactor-reveals-2d-semiconductor-growth-secrets/">Real-Time View Inside Microreactor Reveals 2D Semiconductor Growth Secrets</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NanoIC Extends its PDK Portfolio with First A14 Logic and eDRAM Memory PDK](https://www.semiconductor-digest.com/nanoic-extends-its-pdk-portfolio-with-first-a14-logic-and-edram-memory-pdk/?utm_source=rss&utm_medium=rss&utm_campaign=nanoic-extends-its-pdk-portfolio-with-first-a14-logic-and-edram-memory-pdk)
+**Published:** Mon, 02 Feb 2026 22:06:55 +0000
+
+<p>Today, the NanoIC pilot line, a European initiative coordinated by imec and dedicated to accelerating innovation in chip technologies beyond 2nm, announces the release of two new process design kits (PDKs).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nanoic-extends-its-pdk-portfolio-with-first-a14-logic-and-edram-memory-pdk/">NanoIC Extends its PDK Portfolio with First A14 Logic and eDRAM Memory PDK</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Lam Research and CEA-Leti Expand Research and Development Collaboration to Advance Fabrication of Specialty Technologies](https://www.semiconductor-digest.com/lam-research-and-cea-leti-expand-research-and-development-collaboration-to-advance-fabrication-of-specialty-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-and-cea-leti-expand-research-and-development-collaboration-to-advance-fabrication-of-specialty-technologies)
+**Published:** Mon, 02 Feb 2026 21:59:50 +0000
+
+<p>Lam Research Corp. and CEA-Leti, a research institute pioneering micro- and nanotechnologies, today announced a new multi-year agreement to advance the development of next-generation Specialty Technology devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lam-research-and-cea-leti-expand-research-and-development-collaboration-to-advance-fabrication-of-specialty-technologies/">Lam Research and CEA-Leti Expand Research and Development Collaboration to Advance Fabrication of Specialty Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [EUV Tech Celebrates Grand Opening of First Global Office in Singapore](https://www.semiconductor-digest.com/euv-tech-celebrates-grand-opening-of-first-global-office-in-singapore/?utm_source=rss&utm_medium=rss&utm_campaign=euv-tech-celebrates-grand-opening-of-first-global-office-in-singapore)
+**Published:** Mon, 02 Feb 2026 21:46:25 +0000
+
+<p>EUV Tech, a manufacturer of advanced extreme ultraviolet (EUV) metrology equipment, today announced the official grand opening of its new office in Singapore.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/euv-tech-celebrates-grand-opening-of-first-global-office-in-singapore/">EUV Tech Celebrates Grand Opening of First Global Office in Singapore</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,38 +815,6 @@ _Last updated: 2026-02-02 18:58 UTC_
 
 <p>While the global semiconductor market is vast and highly competitive, the UK has carved out a distinctive niche. The heart of this lies in South Wales, home to CSconnected, the world’s first dedicated compound semiconductor cluster.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/how-the-welsh-semiconductor-revolution-is-driving-economic-growth-across-the-uk/">How the Welsh Semiconductor Revolution is Driving Economic Growth Across the UK</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [FAIR Data Principles for Semiconductor Failure Analysis](https://www.semiconductor-digest.com/fair-data-principles-for-semiconductor-failure-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=fair-data-principles-for-semiconductor-failure-analysis)
-**Published:** Fri, 19 Dec 2025 14:13:15 +0000
-
-<p>Over the past few years, microscopy vendors, including ZEISS, have recognized that open interfaces, machine‑readable metadata, and harmonized formats are prerequisites for automation and artificial intelligence (AI)‑assisted analysis</p>
-<p>The post <a href="https://www.semiconductor-digest.com/fair-data-principles-for-semiconductor-failure-analysis/">FAIR Data Principles for Semiconductor Failure Analysis</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TANAKA’s Hybrid Silver Adhesive Paste Redefines Reliability for SiC/GaN Power Modules](https://www.semiconductor-digest.com/tanakas-hybrid-silver-adhesive-paste-redefines-reliability-for-sic-gan-power-modules/?utm_source=rss&utm_medium=rss&utm_campaign=tanakas-hybrid-silver-adhesive-paste-redefines-reliability-for-sic-gan-power-modules)
-**Published:** Fri, 19 Dec 2025 13:57:32 +0000
-
-<p>Senior Manager, Silver Adhesive Global R&#038;D, TANAKA PRECIOUS METAL TECHNOLOGIES Co., Ltd.Shintaroh Abe explains the materials breakthrough enabling high-temperature, pressure-less die attach.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tanakas-hybrid-silver-adhesive-paste-redefines-reliability-for-sic-gan-power-modules/">TANAKA’s Hybrid Silver Adhesive Paste Redefines Reliability for SiC/GaN Power Modules</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Qualcomm Completes Acquisition of Alphawave Semi](https://www.semiconductor-digest.com/qualcomm-completes-acquisition-of-alphawave-semi/?utm_source=rss&utm_medium=rss&utm_campaign=qualcomm-completes-acquisition-of-alphawave-semi)
-**Published:** Thu, 18 Dec 2025 20:17:05 +0000
-
-<p>Qualcomm Incorporated today announced that it has completed its acquisition of Alphawave IP Group plc, approximately one quarter ahead of schedule.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/qualcomm-completes-acquisition-of-alphawave-semi/">Qualcomm Completes Acquisition of Alphawave Semi</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Ecolab Closes Acquisition of Ovivo’s Electronics Ultrapure Water Business](https://www.semiconductor-digest.com/ecolab-closes-acquisition-of-ovivos-electronics-ultrapure-water-business/?utm_source=rss&utm_medium=rss&utm_campaign=ecolab-closes-acquisition-of-ovivos-electronics-ultrapure-water-business)
-**Published:** Thu, 18 Dec 2025 20:05:50 +0000
-
-<p>Ecolab Inc. has closed on its previously announced acquisition of Ovivo’s electronics business, a leading and fast-growing global provider of breakthrough ultrapure water technologies for semiconductor manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ecolab-closes-acquisition-of-ovivos-electronics-ultrapure-water-business/">Ecolab Closes Acquisition of Ovivo&#8217;s Electronics Ultrapure Water Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
