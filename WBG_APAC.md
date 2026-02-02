@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-01 23:39 UTC_
+_Last updated: 2026-02-02 02:25 UTC_
 
 ## [STMicroelectronics’ Eugene Lee on Building a Greener, More Resilient Fab in Singapore](https://www.eetasia.com/stmicroelectronics-eugene-lee-on-building-a-greener-more-resilient-fab-in-singapore/)
 **Published:** Fri, 30 Jan 2026 02:54:15 +0000
@@ -834,6 +834,14 @@ _Last updated: 2026-02-01 23:39 UTC_
 
 ---
 
+## [Supercapacitor-Assisted Power Converter](https://www.powerelectronicsnews.com/supercapacitor-assisted-power-converter/)
+**Published:** Mon, 02 Feb 2026 01:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="332" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/image_fe05e7.jpeg?fit=887%2C332" style="display: block; margin-bottom: 5px; clear: both;" width="887" /><p>This article discusses the key differentiating attributes of supercapacitors and outlines their use in the design of linear converters.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/supercapacitor-assisted-power-converter/">Supercapacitor-Assisted Power Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [GaN-on-Si Substrates, QSPICE Circuit Diagram Editor, 300mm GaN Adoption: Power Electronics Week Insights](https://www.powerelectronicsnews.com/gan-on-si-substrates-qspice-circuit-diagram-editor-300mm-gan-adoption-power-electronics-week-insights/)
 **Published:** Fri, 30 Jan 2026 16:44:53 +0000
 
@@ -903,14 +911,6 @@ _Last updated: 2026-02-01 23:39 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2242" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1657221021.jpeg?fit=4000%2C2242" style="display: block; margin-bottom: 5px; clear: both;" width="4000" /><p>Imec’s practical approach to their 300-mm GaN program, including the challenges and opportunities of moving to larger wafer diameters. </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/imecs-push-towards-industry-wide-300mm-gan-adoption/">Imec’s Push Towards Industry-Wide 300mm GaN Adoption</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Exploring SiC MOSFET Architectures, Part 2](https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-2/)
-**Published:** Mon, 26 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1093357651.jpeg?fit=9294%2C5685" style="display: block; margin-bottom: 5px; clear: both;" width="9294" /><p>Part 2 of this series discusses recent innovations and product launches in 2025 from leading SiC device manufacturers, providing an up-to-date perspective on state-of-the-art SiC. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/exploring-sic-mosfet-architectures-part-2/">Exploring SiC MOSFET Architectures, Part 2</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
