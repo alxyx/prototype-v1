@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-03 02:23 UTC_
+_Last updated: 2026-02-03 05:00 UTC_
+
+## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
+**Published:** Tue, 03 Feb 2026 02:20:44 +0000
+
+<p>Lam Research and CEA-Leti have entered into a new multi-year R&#38;D agreement aimed at advancing next-generation specialty technology devices.</p>
+<p>The post <a href="https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/">Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [AMD Boosts Space-Grade Portfolio, Extends Mission Timelines](https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/)
 **Published:** Mon, 02 Feb 2026 04:40:31 +0000
