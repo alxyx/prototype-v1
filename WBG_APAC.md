@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-03 11:49 UTC_
+_Last updated: 2026-02-03 13:15 UTC_
 
 ## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
 **Published:** Tue, 03 Feb 2026 02:20:44 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-03 11:49 UTC_
 
 ---
 
+## [How the Shift to 48V is Impacting Automotive Audio Design](https://www.powerelectronicsnews.com/how-the-shift-to-48v-is-impacting-automotive-audio-design/)
+**Published:** Tue, 03 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2464" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_846880816.jpeg?fit=4397%2C2464" style="display: block; margin-bottom: 5px; clear: both;" width="4397" /><p>Next-generation vehicles are undergoing several major architectural shifts to support vehicle autonomy, a personalized in-cabin experience, faster charging times, and greater range per charge. To...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/how-the-shift-to-48v-is-impacting-automotive-audio-design/">How the Shift to 48V is Impacting Automotive Audio Design</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Vishay Launches 1200 V SiC MOSFET Power Modules](https://www.powerelectronicsnews.com/vishay-launches-1200-v-sic-mosfet-power-modules/)
 **Published:** Mon, 02 Feb 2026 14:09:33 +0000
 
@@ -890,14 +898,6 @@ _Last updated: 2026-02-03 11:49 UTC_
 
 ---
 
-## [ST Unveils Hybrid USB PD Sink Controller](https://www.powerelectronicsnews.com/st-unveils-hybrid-usb-pd-sink-controller/)
-**Published:** Tue, 27 Jan 2026 14:00:00 +0000
-
-<img alt="ST Unveils Hybrid USB PD Sink Controller." class="webfeedsFeaturedVisual wp-post-image" height="1000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/ST-EVAL-SCS007V1.jpg?fit=1000%2C1000" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The STUSB4531 USB PD sink controller uses proprietary negotiation algorithms to establish a power-delivery contract with a source, operating entirely without software support.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-unveils-hybrid-usb-pd-sink-controller/">ST Unveils Hybrid USB PD Sink Controller</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [India Budget 2026-2027: Semiconductors, Manufacturing, and Tax Reforms](https://www.eetimes.com/india-budget-2026-2027-semiconductors-manufacturing-and-tax-reforms/)
 **Published:** Tue, 03 Feb 2026 01:00:00 +0000
 
@@ -919,14 +919,6 @@ _Last updated: 2026-02-03 11:49 UTC_
 
 <p>Qorvo&#8217;s QPA2597 is a packaged driver amplifier using proven GaN on SiC technology. The QPA2597 operates from 2.0 to 6.0GHz and provides 32 dBm of output with 24 dB of ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/gan-on-sic-driver-amplifier-2026-02/">GaN on SiC driver amplifier</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [CEA-Leti’s open access pilot line](https://www.electronicsweekly.com/news/business/cea-letis-open-access-pilot-line-2026-02/)
-**Published:** Mon, 02 Feb 2026 06:14:50 +0000
-
-<p>CEA-Leti’s €830 million FAMES semiconductor pilot line in Grenoble has been inaugurated. It is running FD-SOI wafers for RF, NVmemories and PMICs. The open-access  line is accessible primarily, but not ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/cea-letis-open-access-pilot-line-2026-02/">CEA-Leti’s open access pilot line</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
