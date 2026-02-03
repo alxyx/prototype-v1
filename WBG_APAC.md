@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-03 22:44 UTC_
+_Last updated: 2026-02-03 23:42 UTC_
 
 ## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
 **Published:** Tue, 03 Feb 2026 02:20:44 +0000
@@ -15,6 +15,30 @@ _Last updated: 2026-02-03 22:44 UTC_
 
 <p>AMD introduces Class Y qualified Versal AI Core XQRVC1902 with organic lidless packaging for 15-year space missions, plus Versal RF and AI Edge Gen 2 SoCs offering 10x compute boost for next-gen satellite processing.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/">AMD Boosts Space-Grade Portfolio, Extends Mission Timelines</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Dassault Systèmes and NVIDIA Partner to Build Industrial AI Platform](https://www.semiconductor-digest.com/dassault-systemes-and-nvidia-partner-to-build-industrial-ai-platform/?utm_source=rss&utm_medium=rss&utm_campaign=dassault-systemes-and-nvidia-partner-to-build-industrial-ai-platform)
+**Published:** Tue, 03 Feb 2026 23:00:53 +0000
+
+<p>Dassault Systèmes and NVIDIA today announced a long-term strategic partnership to establish a shared industrial architecture for mission-critical artificial intelligence across industries.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/dassault-systemes-and-nvidia-partner-to-build-industrial-ai-platform/">Dassault Systèmes and NVIDIA Partner to Build Industrial AI Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Archer Develops Early Biochip Prototype](https://www.semiconductor-digest.com/archer-develops-early-biochip-prototype/?utm_source=rss&utm_medium=rss&utm_campaign=archer-develops-early-biochip-prototype)
+**Published:** Tue, 03 Feb 2026 22:49:49 +0000
+
+<p>This milestone represents the first major step in translating Archer’s Biochip technology from individual laboratory devices into a product suitable for clinical workflows and, ultimately, point of care and at-home potassium monitoring.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/archer-develops-early-biochip-prototype/">Archer Develops Early Biochip Prototype</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Northrop Grumman Awarded Contracting Tool to Accelerate American-Made Microelectronics into Military Systems](https://www.semiconductor-digest.com/northrop-grumman-awarded-contracting-tool-to-accelerate-american-made-microelectronics-into-military-systems/?utm_source=rss&utm_medium=rss&utm_campaign=northrop-grumman-awarded-contracting-tool-to-accelerate-american-made-microelectronics-into-military-systems)
+**Published:** Tue, 03 Feb 2026 22:42:10 +0000
+
+<p>The company is ready to deliver advanced semiconductor solutions over a ten-year period.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/northrop-grumman-awarded-contracting-tool-to-accelerate-american-made-microelectronics-into-military-systems/">Northrop Grumman Awarded Contracting Tool to Accelerate American-Made Microelectronics into Military Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,30 +815,6 @@ _Last updated: 2026-02-03 22:44 UTC_
 
 <p>Merging nanopores and chip-based nanofluidic devices could transform medicine and data analysis.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/fusion-of-nanopores-and-nanofluidic-devices-could-transform-medicine-and-beyond/">Fusion of Nanopores and Nanofluidic Devices Could Transform Medicine and Beyond</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [HKUST Engineering Researchers Developed a Novel Photodetector to Enhance the Performance of On-Chip Light Monitoring](https://www.semiconductor-digest.com/hkust-engineering-researchers-developed-a-novel-photodetector-to-enhance-the-performance-of-on-chip-light-monitoring/?utm_source=rss&utm_medium=rss&utm_campaign=hkust-engineering-researchers-developed-a-novel-photodetector-to-enhance-the-performance-of-on-chip-light-monitoring)
-**Published:** Fri, 19 Dec 2025 19:15:55 +0000
-
-<p>Advancing applications in programmable photonics, biosensing, and lab-on-chip technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hkust-engineering-researchers-developed-a-novel-photodetector-to-enhance-the-performance-of-on-chip-light-monitoring/">HKUST Engineering Researchers Developed a Novel Photodetector to Enhance the Performance of On-Chip Light Monitoring</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [How Chip Manufacturers Can Meet AIs Growing Demand for Processing Power](https://www.semiconductor-digest.com/how-chip-manufacturers-can-meet-ais-growing-demand-for-processing-power/?utm_source=rss&utm_medium=rss&utm_campaign=how-chip-manufacturers-can-meet-ais-growing-demand-for-processing-power)
-**Published:** Fri, 19 Dec 2025 14:41:10 +0000
-
-<p>The introduction of chiplets offers more than just a workaround to Moore’s Law; they provide a means for the semiconductor industry to meet the unique demands of the AI age.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/how-chip-manufacturers-can-meet-ais-growing-demand-for-processing-power/">How Chip Manufacturers Can Meet AIs Growing Demand for Processing Power</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The Critical Role of Process Time Prediction in Semiconductor Manufacturing](https://www.semiconductor-digest.com/the-critical-role-of-process-time-prediction-in-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=the-critical-role-of-process-time-prediction-in-semiconductor-manufacturing)
-**Published:** Fri, 19 Dec 2025 14:37:07 +0000
-
-<p>The semiconductor industry is only beginning to unlock the potential of advanced prediction models. The true breakthrough lies not only in model accuracy, but in integration.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-critical-role-of-process-time-prediction-in-semiconductor-manufacturing/">The Critical Role of Process Time Prediction in Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
