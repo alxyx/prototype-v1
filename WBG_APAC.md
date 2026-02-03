@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-03 09:55 UTC_
+_Last updated: 2026-02-03 10:54 UTC_
 
 ## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
 **Published:** Tue, 03 Feb 2026 02:20:44 +0000
@@ -930,10 +930,17 @@ _Last updated: 2026-02-03 09:55 UTC_
 
 ---
 
-## [Musical Temperature Alarm](https://www.electronicsforu.com/electronics-projects/musical-temperature-alarm)
-**Published:** Mon, 02 Feb 2026 13:04:39 +0000
+## [Sales Intern – Semiconductor / Embedded At Modernize Chip Solutions (MCS) In Bengaluru](https://www.electronicsforu.com/career/sales-intern-semiconductor-embedded-at-modernize-chip-solutions-mcs-in-bengaluru-2)
+**Published:** Tue, 03 Feb 2026 09:02:13 +0000
 
-<img alt="Musical Temperature Alarm" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/01/Authors-prototype-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Monitoring temperature is essential across many applications, from protecting sensitive electronic equipment to maintaining comfortable room conditions. Conventional temperature alarms typically use buzzers or LEDs, providing only visual, monophonic alerts. Here we present a musical temperature alarm that generates a pleasant melody, rather than a simple beep, when a preset temperature threshold is exceeded. The [&#8230;]
+<img alt="Embedded Application Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/Job-Opportunities-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Modernize Chip Solutions (MCS) Modernize Chip Solutions (MCS) is looking for an enthusiastic and proactive Sales Intern (Fresher) to join sales team in Bangalore. Who We’re Looking For Send your CV to: ananya.ojha@modernchipsolutions.com
+
+---
+
+## [Real-Time People And Object Tracking](https://www.electronicsforu.com/news/real-time-people-and-object-tracking)
+**Published:** Tue, 03 Feb 2026 07:54:01 +0000
+
+A 3D sensor tracks people and objects in large spaces. See how AI compute changes real-time analytics and smart infrastructure. Tracking and analyzing people or objects across large spaces can be slow and inaccurate with conventional sensors, especially when AI models demand more compute. Organizations need a solution that delivers precise real-time analytics while handling [&#8230;]
 
 ---
 
