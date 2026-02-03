@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-03 07:07 UTC_
+_Last updated: 2026-02-03 07:56 UTC_
 
 ## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
 **Published:** Tue, 03 Feb 2026 02:20:44 +0000
@@ -901,7 +901,7 @@ _Last updated: 2026-02-03 07:07 UTC_
 ## [India Budget 2026-2027: Semiconductors, Manufacturing, and Tax Reforms](https://www.eetimes.com/india-budget-2026-2027-semiconductors-manufacturing-and-tax-reforms/)
 **Published:** Tue, 03 Feb 2026 01:00:00 +0000
 
-<p>India's 2026-27 Budget reshapes semiconductor and electronics policy.</p>
+<p>India's 2026-2027 budget reshapes semiconductor and electronics policy.</p>
 <p>The post <a href="https://www.eetimes.com/india-budget-2026-2027-semiconductors-manufacturing-and-tax-reforms/">India Budget 2026-2027: Semiconductors, Manufacturing, and Tax Reforms</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
@@ -927,14 +927,6 @@ _Last updated: 2026-02-03 07:07 UTC_
 
 <p>CEA-Leti’s €830 million FAMES semiconductor pilot line in Grenoble has been inaugurated. It is running FD-SOI wafers for RF, NVmemories and PMICs. The open-access  line is accessible primarily, but not ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/cea-letis-open-access-pilot-line-2026-02/">CEA-Leti’s open access pilot line</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [MPL and Fraunhofer applying SiC to PICs](https://www.electronicsweekly.com/news/business/mpl-and-fraunhofer-applying-sic-to-pics-2026-02/)
-**Published:** Mon, 02 Feb 2026 06:06:40 +0000
-
-<p>In the ALP-4-SiC project – Atomic Layer Processing for SiC for Applications in Photonics and Quantum Communication – researchers from the Max Planck Institute for the Science of Light (MPL) ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/mpl-and-fraunhofer-applying-sic-to-pics-2026-02/">MPL and Fraunhofer applying SiC to PICs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
