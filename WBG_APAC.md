@@ -1,20 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-02 23:43 UTC_
+_Last updated: 2026-02-03 02:23 UTC_
 
 ## [AMD Boosts Space-Grade Portfolio, Extends Mission Timelines](https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/)
 **Published:** Mon, 02 Feb 2026 04:40:31 +0000
 
 <p>AMD introduces Class Y qualified Versal AI Core XQRVC1902 with organic lidless packaging for 15-year space missions, plus Versal RF and AI Edge Gen 2 SoCs offering 10x compute boost for next-gen satellite processing.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/">AMD Boosts Space-Grade Portfolio, Extends Mission Timelines</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [FPT Establishs Advanced Semiconductor Testing and Packaging Plant in Vietnam](https://www.eetasia.com/fpt-establishs-advanced-semiconductor-testing-and-packaging-plant-in-vietnam/)
-**Published:** Mon, 02 Feb 2026 02:44:21 +0000
-
-<p>FPT's chip fab will mark a step in Vietnam's effort to expand its role in the global semiconductor supply chain.</p>
-<p>The post <a href="https://www.eetasia.com/fpt-establishs-advanced-semiconductor-testing-and-packaging-plant-in-vietnam/">FPT Establishs Advanced Semiconductor Testing and Packaging Plant in Vietnam</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -895,6 +887,14 @@ _Last updated: 2026-02-02 23:43 UTC_
 
 <img alt="ST Unveils Hybrid USB PD Sink Controller." class="webfeedsFeaturedVisual wp-post-image" height="1000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/ST-EVAL-SCS007V1.jpg?fit=1000%2C1000" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The STUSB4531 USB PD sink controller uses proprietary negotiation algorithms to establish a power-delivery contract with a source, operating entirely without software support.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/st-unveils-hybrid-usb-pd-sink-controller/">ST Unveils Hybrid USB PD Sink Controller</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [India Budget 2026-2027: Semiconductors, Manufacturing, and Tax Reforms](https://www.eetimes.com/india-budget-2026-2027-semiconductors-manufacturing-and-tax-reforms/)
+**Published:** Tue, 03 Feb 2026 01:00:00 +0000
+
+<p>India's 2026-27 Budget reshapes semiconductor and electronics policy.</p>
+<p>The post <a href="https://www.eetimes.com/india-budget-2026-2027-semiconductors-manufacturing-and-tax-reforms/">India Budget 2026-2027: Semiconductors, Manufacturing, and Tax Reforms</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
