@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-03 19:11 UTC_
+_Last updated: 2026-02-03 20:01 UTC_
 
 ## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
 **Published:** Tue, 03 Feb 2026 02:20:44 +0000
@@ -895,6 +895,14 @@ _Last updated: 2026-02-03 19:11 UTC_
 
 <img alt="Infineon Introduces Flexible USB 2.0 Peripheral Controller." class="webfeedsFeaturedVisual wp-post-image" height="1110" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Infineon_USB_controller.jpg?fit=2126%2C1110" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The new USB 2.0 peripheral controller is a flexible solution suitable for biometric, medical, robotics, and industrial applications.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/infineon-introduces-flexible-usb-2-0-peripheral-controller/">Infineon Introduces Flexible USB 2.0 Peripheral Controller</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [The Hidden Physics of Running Data Centers in Orbit](https://www.eetimes.com/the-hidden-physics-of-running-data-centers-in-orbit/)
+**Published:** Tue, 03 Feb 2026 20:00:00 +0000
+
+<p>Discover why thermal management—not rocket launches—poses the real challenge for running data centers in space. </p>
+<p>The post <a href="https://www.eetimes.com/the-hidden-physics-of-running-data-centers-in-orbit/">The Hidden Physics of Running Data Centers in Orbit</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
