@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-03 21:49 UTC_
+_Last updated: 2026-02-03 22:44 UTC_
 
 ## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
 **Published:** Tue, 03 Feb 2026 02:20:44 +0000
@@ -15,6 +15,14 @@ _Last updated: 2026-02-03 21:49 UTC_
 
 <p>AMD introduces Class Y qualified Versal AI Core XQRVC1902 with organic lidless packaging for 15-year space missions, plus Versal RF and AI Edge Gen 2 SoCs offering 10x compute boost for next-gen satellite processing.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-amd-boosts-space-grade-portfolio-extends-mission-timelines/">AMD Boosts Space-Grade Portfolio, Extends Mission Timelines</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter](https://www.semiconductor-digest.com/aaf-international-unveils-industry-first-scannable-high-performance-high-flow-hepa-air-filter/?utm_source=rss&utm_medium=rss&utm_campaign=aaf-international-unveils-industry-first-scannable-high-performance-high-flow-hepa-air-filter)
+**Published:** Tue, 03 Feb 2026 22:01:43 +0000
+
+<p>All-new MEGAcel I High Flow (HF) offers V-Bank Filter Performance with scanning capability, lower installation and maintenance costs, and high strength.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/aaf-international-unveils-industry-first-scannable-high-performance-high-flow-hepa-air-filter/">AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2026-02-03 21:49 UTC_
 
 <p>The semiconductor industry is only beginning to unlock the potential of advanced prediction models. The true breakthrough lies not only in model accuracy, but in integration.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/the-critical-role-of-process-time-prediction-in-semiconductor-manufacturing/">The Critical Role of Process Time Prediction in Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [How the Welsh Semiconductor Revolution is Driving Economic Growth Across the UK](https://www.semiconductor-digest.com/how-the-welsh-semiconductor-revolution-is-driving-economic-growth-across-the-uk/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-welsh-semiconductor-revolution-is-driving-economic-growth-across-the-uk)
-**Published:** Fri, 19 Dec 2025 14:23:19 +0000
-
-<p>While the global semiconductor market is vast and highly competitive, the UK has carved out a distinctive niche. The heart of this lies in South Wales, home to CSconnected, the world’s first dedicated compound semiconductor cluster.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/how-the-welsh-semiconductor-revolution-is-driving-economic-growth-across-the-uk/">How the Welsh Semiconductor Revolution is Driving Economic Growth Across the UK</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
