@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-03 06:05 UTC_
+_Last updated: 2026-02-03 07:07 UTC_
 
 ## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
 **Published:** Tue, 03 Feb 2026 02:20:44 +0000
@@ -911,6 +911,14 @@ _Last updated: 2026-02-03 06:05 UTC_
 
 <p>Semiconductor traceability is too large and too interconnected a challenge to be addressed in isolation.</p>
 <p>The post <a href="https://www.eetimes.com/semiconductor-traceability-takes-center-stage-at-nist-workshop/">Semiconductor Traceability Takes Center Stage at NIST Workshop</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [GaN on SiC driver amplifier](https://www.electronicsweekly.com/news/business/gan-on-sic-driver-amplifier-2026-02/)
+**Published:** Tue, 03 Feb 2026 06:06:13 +0000
+
+<p>Qorvo&#8217;s QPA2597 is a packaged driver amplifier using proven GaN on SiC technology. The QPA2597 operates from 2.0 to 6.0GHz and provides 32 dBm of output with 24 dB of ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/gan-on-sic-driver-amplifier-2026-02/">GaN on SiC driver amplifier</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
