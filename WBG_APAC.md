@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-03 14:57 UTC_
+_Last updated: 2026-02-03 16:05 UTC_
 
 ## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
 **Published:** Tue, 03 Feb 2026 02:20:44 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-03 14:57 UTC_
 
 ---
 
+## [CISSOID Expands Portfolio with 1200 V Half-Bridge IGBT Module](https://www.powerelectronicsnews.com/cissoid-expands-portfolio-with-1200-v-half-bridge-igbt-module/)
+**Published:** Tue, 03 Feb 2026 15:00:00 +0000
+
+<img alt="CISSOID Expands Portfolio with 1200 V Half-Bridge IGBT Module." class="webfeedsFeaturedVisual wp-post-image" height="405" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/CISSOID-CMT-PLA1BL12300MA-1200V-300A-Half-Bridge-IGBT-Module-in-CPAK-EDC.png?fit=720%2C405" style="display: block; margin-bottom: 5px; clear: both;" width="720" /><p>The new 1200V IGBT power module, offered in a CPAK-EDC package, targets high-efficiency and reliable industrial power conversion systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/cissoid-expands-portfolio-with-1200-v-half-bridge-igbt-module/">CISSOID Expands Portfolio with 1200 V Half-Bridge IGBT Module</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [How the Shift to 48V is Impacting Automotive Audio Design](https://www.powerelectronicsnews.com/how-the-shift-to-48v-is-impacting-automotive-audio-design/)
 **Published:** Tue, 03 Feb 2026 13:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2026-02-03 14:57 UTC_
 
 <img alt="Infineon Introduces Flexible USB 2.0 Peripheral Controller." class="webfeedsFeaturedVisual wp-post-image" height="1110" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Infineon_USB_controller.jpg?fit=2126%2C1110" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The new USB 2.0 peripheral controller is a flexible solution suitable for biometric, medical, robotics, and industrial applications.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/infineon-introduces-flexible-usb-2-0-peripheral-controller/">Infineon Introduces Flexible USB 2.0 Peripheral Controller</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Electronics Course with QSPICE (Episode 02): The Circuit Diagram Editor](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-02-the-circuit-diagram-editor/)
-**Published:** Wed, 28 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>This second installment focuses on using QPSICE's schematic editor, learning how to properly place and connect components.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-02-the-circuit-diagram-editor/">Power Electronics Course with QSPICE (Episode 02): The Circuit Diagram Editor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
