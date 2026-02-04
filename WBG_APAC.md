@@ -1,12 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-04 14:21 UTC_
+_Last updated: 2026-02-04 15:56 UTC_
 
 ## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
 **Published:** Tue, 03 Feb 2026 02:20:44 +0000
 
 <p>Lam Research and CEA-Leti have entered into a new multi-year R&#38;D agreement aimed at advancing next-generation specialty technology devices.</p>
 <p>The post <a href="https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/">Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [The Case for High NA EUV: Unlocking the Next Era of Chip Manufacturing](https://www.semiconductor-digest.com/the-case-for-high-na-euv-unlocking-the-next-era-of-chip-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=the-case-for-high-na-euv-unlocking-the-next-era-of-chip-manufacturing)
+**Published:** Wed, 04 Feb 2026 14:33:12 +0000
+
+<p>Imec and its ecosystem partners are pushing the boundaries of High NA EUV lithography and patterning.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-case-for-high-na-euv-unlocking-the-next-era-of-chip-manufacturing/">The Case for High NA EUV: Unlocking the Next Era of Chip Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,14 +807,6 @@ _Last updated: 2026-02-04 14:21 UTC_
 
 <p>Cyient Semiconductors has signed a definitive agreement to acquire a majority stake in Kinetic Technologies.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/cyient-semiconductors-acquires-majority-stake-in-kinetic-technologies/">Cyient Semiconductors Acquires Majority Stake in Kinetic Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Fusion of Nanopores and Nanofluidic Devices Could Transform Medicine and Beyond](https://www.semiconductor-digest.com/fusion-of-nanopores-and-nanofluidic-devices-could-transform-medicine-and-beyond/?utm_source=rss&utm_medium=rss&utm_campaign=fusion-of-nanopores-and-nanofluidic-devices-could-transform-medicine-and-beyond)
-**Published:** Fri, 19 Dec 2025 19:19:53 +0000
-
-<p>Merging nanopores and chip-based nanofluidic devices could transform medicine and data analysis.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/fusion-of-nanopores-and-nanofluidic-devices-could-transform-medicine-and-beyond/">Fusion of Nanopores and Nanofluidic Devices Could Transform Medicine and Beyond</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
