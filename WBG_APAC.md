@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-04 17:59 UTC_
+_Last updated: 2026-02-04 19:06 UTC_
 
 ## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
 **Published:** Tue, 03 Feb 2026 02:20:44 +0000
@@ -810,6 +810,14 @@ _Last updated: 2026-02-04 17:59 UTC_
 
 ---
 
+## [EPC Starts Volume Production of Gen7 EPC2366 eGaN FET](https://www.powerelectronicsnews.com/epc-starts-volume-production-of-gen7-epc2366-egan-fet/)
+**Published:** Wed, 04 Feb 2026 18:48:13 +0000
+
+<img alt="EPC Starts Volume Production of Gen 7 EPC2366 eGaN FET." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/EPC2366-PR-2-333-250-p-L-97.png?fit=333%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="333" /><p>The Gen7 EPC2366 eGaN power transistor offers up to 3x performance over silicon MOSFETs for high-efficiency power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/epc-starts-volume-production-of-gen7-epc2366-egan-fet/">EPC Starts Volume Production of Gen7 EPC2366 eGaN FET</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Sustainable AI Data Center Energy Strategies to Relieve the Grid](https://www.powerelectronicsnews.com/sustainable-ai-data-center-energy-strategies-to-relieve-the-grid/)
 **Published:** Wed, 04 Feb 2026 13:00:00 +0000
 
@@ -879,14 +887,6 @@ _Last updated: 2026-02-04 17:59 UTC_
 
 <img alt="ROHM Unveils BD9xxN5 Series of LDO Regulators." class="webfeedsFeaturedVisual wp-post-image" height="478" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Rohm_LDO.png?fit=578%2C478" style="display: block; margin-bottom: 5px; clear: both;" width="578" /><p>The new BD9xxN5 series of low-dropout regulators (LDOs) provides an output current of 500 mA.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/rohm-unveils-bd9xxn5-series-of-ldo-regulators/">ROHM Unveils BD9xxN5 Series of LDO Regulators</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [A Guide to GaN-on-Si, Part 1](https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-1/)
-**Published:** Thu, 29 Jan 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1152" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/image_b88758.jpeg?fit=2048%2C1152" style="display: block; margin-bottom: 5px; clear: both;" width="2048" /><p>Editor’s Note:&#160; Part 1 of this article explores why GaN-on-silicon substrates offer compelling advantages for power electronics and examines silicon substrate considerations for GaN growth.&#160;...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-1/">A Guide to GaN-on-Si, Part 1</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
