@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-04 02:25 UTC_
+_Last updated: 2026-02-04 04:43 UTC_
 
 ## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
 **Published:** Tue, 03 Feb 2026 02:20:44 +0000
@@ -903,14 +903,6 @@ _Last updated: 2026-02-04 02:25 UTC_
 
 <p>India's 2026-2027 budget reshapes semiconductor and electronics policy.</p>
 <p>The post <a href="https://www.eetimes.com/india-budget-2026-2027-semiconductors-manufacturing-and-tax-reforms/">India Budget 2026-2027: Semiconductors, Manufacturing, and Tax Reforms</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Semiconductor Traceability Takes Center Stage at NIST Workshop](https://www.eetimes.com/semiconductor-traceability-takes-center-stage-at-nist-workshop/)
-**Published:** Fri, 30 Jan 2026 16:53:23 +0000
-
-<p>Semiconductor traceability is too large and too interconnected a challenge to be addressed in isolation.</p>
-<p>The post <a href="https://www.eetimes.com/semiconductor-traceability-takes-center-stage-at-nist-workshop/">Semiconductor Traceability Takes Center Stage at NIST Workshop</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
