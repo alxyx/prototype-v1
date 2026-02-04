@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-04 11:47 UTC_
+_Last updated: 2026-02-04 13:14 UTC_
 
 ## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
 **Published:** Tue, 03 Feb 2026 02:20:44 +0000
@@ -810,6 +810,22 @@ _Last updated: 2026-02-04 11:47 UTC_
 
 ---
 
+## [Sustainable AI Data Center Energy Strategies to Relieve the Grid](https://www.powerelectronicsnews.com/sustainable-ai-data-center-energy-strategies-to-relieve-the-grid/)
+**Published:** Wed, 04 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="673" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/image.png?fit=1199%2C673" style="display: block; margin-bottom: 5px; clear: both;" width="1199" /><p>Since the onset of large-scale computing, data centers have been deployed at a pretty stable rate. Before AI became the foundation of modern computing, most...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/sustainable-ai-data-center-energy-strategies-to-relieve-the-grid/">Sustainable AI Data Center Energy Strategies to Relieve the Grid</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Beyond the Electron: Are Polaritonic Switches the Final Frontier for Power Electronics?](https://www.powerelectronicsnews.com/beyond-the-electron-are-polaritonic-switches-the-final-frontier-for-power-electronics/)
+**Published:** Wed, 04 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3072" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_1549647101.jpeg?fit=5632%2C3072" style="display: block; margin-bottom: 5px; clear: both;" width="5632" /><p>Moving from the transistor's charge-based switching to light-matter hybrids could remove switching losses and redefine the power landscape..</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/beyond-the-electron-are-polaritonic-switches-the-final-frontier-for-power-electronics/">Beyond the Electron: Are Polaritonic Switches the Final Frontier for Power Electronics?</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [CISSOID Expands Portfolio with 1200 V Half-Bridge IGBT Module](https://www.powerelectronicsnews.com/cissoid-expands-portfolio-with-1200-v-half-bridge-igbt-module/)
 **Published:** Tue, 03 Feb 2026 15:00:00 +0000
 
@@ -874,19 +890,11 @@ _Last updated: 2026-02-04 11:47 UTC_
 
 ---
 
-## [AOS Launches αMOS E2 600V Super Junction MOSFET](https://www.powerelectronicsnews.com/aos-launches-%ce%b1mos-e2-600v-super-junction-mosfet/)
-**Published:** Thu, 29 Jan 2026 13:00:00 +0000
+## [Positron’s $230M Funding Led By Financial Trading Firms](https://www.eetimes.com/positron-230-million-funding-led-by-financial-trading-firms/)
+**Published:** Wed, 04 Feb 2026 13:00:00 +0000
 
-<img alt="AOS Launches αMOS E2™ 600V Super Junction MOSFET." class="webfeedsFeaturedVisual wp-post-image" height="1028" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AOS_AOTL037V60DE2.jpg?fit=1200%2C1028" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new super junction MOSFET meets the high efficiency and power density demands in solar inverter systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/aos-launches-%ce%b1mos-e2-600v-super-junction-mosfet/">AOS Launches αMOS E2 600V Super Junction MOSFET</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Infineon Introduces Flexible USB 2.0 Peripheral Controller](https://www.powerelectronicsnews.com/infineon-introduces-flexible-usb-2-0-peripheral-controller/)
-**Published:** Wed, 28 Jan 2026 14:00:00 +0000
-
-<img alt="Infineon Introduces Flexible USB 2.0 Peripheral Controller." class="webfeedsFeaturedVisual wp-post-image" height="1110" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Infineon_USB_controller.jpg?fit=2126%2C1110" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The new USB 2.0 peripheral controller is a flexible solution suitable for biometric, medical, robotics, and industrial applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-introduces-flexible-usb-2-0-peripheral-controller/">Infineon Introduces Flexible USB 2.0 Peripheral Controller</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>FPGA and ASIC AI startup becomes a unicorn after 34 months.</p>
+<p>The post <a href="https://www.eetimes.com/positron-230-million-funding-led-by-financial-trading-firms/">Positron’s $230M Funding Led By Financial Trading Firms</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
