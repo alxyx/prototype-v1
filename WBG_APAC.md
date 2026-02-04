@@ -1,12 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-04 20:49 UTC_
+_Last updated: 2026-02-04 21:48 UTC_
 
 ## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
 **Published:** Tue, 03 Feb 2026 02:20:44 +0000
 
 <p>Lam Research and CEA-Leti have entered into a new multi-year R&#38;D agreement aimed at advancing next-generation specialty technology devices.</p>
 <p>The post <a href="https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/">Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Lam Research Announces Leadership Transitions](https://www.semiconductor-digest.com/lam-research-announces-leadership-transitions/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-announces-leadership-transitions)
+**Published:** Wed, 04 Feb 2026 21:25:45 +0000
+
+<p>Lam Research Corp. today announced it is elevating the roles of two proven leaders as the company enters its next phase of growth.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lam-research-announces-leadership-transitions/">Lam Research Announces Leadership Transitions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,14 +807,6 @@ _Last updated: 2026-02-04 20:49 UTC_
 
 <p>MemryX Inc., a provider of high-performance AI accelerators for edge devices, announced a distribution and solutions partnership with Macnica, Inc., one of Japan's largest semiconductor distributors.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/memryx-and-macnica-announce-partnership-to-accelerate-edge-ai-adoption-in-japan/">MemryX and Macnica Announce Partnership to Accelerate Edge AI Adoption in Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Cyient Semiconductors Acquires Majority Stake in Kinetic Technologies](https://www.semiconductor-digest.com/cyient-semiconductors-acquires-majority-stake-in-kinetic-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=cyient-semiconductors-acquires-majority-stake-in-kinetic-technologies)
-**Published:** Fri, 19 Dec 2025 19:37:33 +0000
-
-<p>Cyient Semiconductors has signed a definitive agreement to acquire a majority stake in Kinetic Technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cyient-semiconductors-acquires-majority-stake-in-kinetic-technologies/">Cyient Semiconductors Acquires Majority Stake in Kinetic Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
