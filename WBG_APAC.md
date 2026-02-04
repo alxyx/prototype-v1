@@ -1,12 +1,36 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-04 22:43 UTC_
+_Last updated: 2026-02-04 23:42 UTC_
 
-## [Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies](https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/)
-**Published:** Tue, 03 Feb 2026 02:20:44 +0000
+## [Cadence’s Anirudh Devgan Appointed to Lam Research BOD](https://www.eetasia.com/cadences-anirudh-devgan-appointed-to-lam-research-bod/)
+**Published:** Wed, 04 Feb 2026 23:17:12 +0000
 
-<p>Lam Research and CEA-Leti have entered into a new multi-year R&#38;D agreement aimed at advancing next-generation specialty technology devices.</p>
-<p>The post <a href="https://www.eetasia.com/lam-research-and-cea-leti-sign-multi-year-deal-to-advance-specialty-semiconductor-technologies/">Lam Research and CEA-Leti Sign Multi-Year Deal to Advance Specialty Semiconductor Technologies</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Lam Research has appointed Cadence CEO and semiconductor industry leader Anirudh Devgan to its board of directors.</p>
+<p>The post <a href="https://www.eetasia.com/cadences-anirudh-devgan-appointed-to-lam-research-bod/">Cadence&#8217;s Anirudh Devgan Appointed to Lam Research BOD</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Texas Instruments to Acquire Silicon Labs](https://www.semiconductor-digest.com/texas-instruments-to-acquire-silicon-labs/?utm_source=rss&utm_medium=rss&utm_campaign=texas-instruments-to-acquire-silicon-labs)
+**Published:** Wed, 04 Feb 2026 22:44:50 +0000
+
+<p>The acquisition will create a global leader in embedded wireless connectivity solutions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/texas-instruments-to-acquire-silicon-labs/">Texas Instruments to Acquire Silicon Labs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens Acquires Canopus AI to Bring AI-Based Metrology to Semiconductor Manufacturing](https://www.semiconductor-digest.com/siemens-acquires-canopus-ai-to-bring-ai-based-metrology-to-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-acquires-canopus-ai-to-bring-ai-based-metrology-to-semiconductor-manufacturing)
+**Published:** Wed, 04 Feb 2026 22:38:02 +0000
+
+<p>Siemens today announced the acquisition of Canopus AI, an innovator in computational and AI-driven metrology solutions, enabling semiconductor manufacturers to achieve new levels of precision and efficiency in wafer and mask inspection processes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-acquires-canopus-ai-to-bring-ai-based-metrology-to-semiconductor-manufacturing/">Siemens Acquires Canopus AI to Bring AI-Based Metrology to Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [EV Group Highlights Hybrid and Fusion Bonding, Layer Transfer and Maskless Lithography Technologies at SEMICON Korea 2026](https://www.semiconductor-digest.com/ev-group-highlights-hybrid-and-fusion-bonding-layer-transfer-and-maskless-lithography-technologies-at-semicon-korea-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-highlights-hybrid-and-fusion-bonding-layer-transfer-and-maskless-lithography-technologies-at-semicon-korea-2026)
+**Published:** Wed, 04 Feb 2026 22:29:10 +0000
+
+<p>These solutions include EVG’s GEMINI FB production wafer bonding systems, the EVG40 D2W die-to-wafer overlay metrology system, the IR LayerRelease layer transfer technology platform and EVG’s high-throughput LITHOSCALE XT maskless exposure system.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ev-group-highlights-hybrid-and-fusion-bonding-layer-transfer-and-maskless-lithography-technologies-at-semicon-korea-2026/">EV Group Highlights Hybrid and Fusion Bonding, Layer Transfer and Maskless Lithography Technologies at SEMICON Korea 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,30 +807,6 @@ _Last updated: 2026-02-04 22:43 UTC_
 
 <p>Rather than playing catch-up in manufacturing today's most advanced chips, U-M researchers advocate preparation to build those of tomorrow.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/what-it-takes-to-bring-semiconductor-manufacturing-back-to-the-us/">What It Takes to Bring Semiconductor Manufacturing Back to the US</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Browser-Based Image Signal Processing (ISP) Demo](https://www.semiconductor-digest.com/browser-based-image-signal-processing-isp-demo/?utm_source=rss&utm_medium=rss&utm_campaign=browser-based-image-signal-processing-isp-demo)
-**Published:** Mon, 29 Dec 2025 14:11:08 +0000
-
-<p>10xEngineers launches an interactive web demo for Infinite-ISP, bringing hardware-grade image signal processing to the browser with zero setup required.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/browser-based-image-signal-processing-isp-demo/">Browser-Based Image Signal Processing (ISP) Demo</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CEA-Leti Worked with STMicroelectronics on  Health & Wellness Breakthrough](https://www.semiconductor-digest.com/cea-leti-worked-with-stmicroelectronics-on-health-wellness-breakthrough/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-worked-with-stmicroelectronics-on-health-wellness-breakthrough)
-**Published:** Fri, 19 Dec 2025 20:24:03 +0000
-
-<p>CEA-Leti has collaborated with STMicroelectronics to unveil a major step toward practical, continuous biochemical monitoring: a wearable patch prototype that analyzes sweat in real time.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-worked-with-stmicroelectronics-on-health-wellness-breakthrough/">CEA-Leti Worked with STMicroelectronics on  Health &#038; Wellness Breakthrough</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [MemryX and Macnica Announce Partnership to Accelerate Edge AI Adoption in Japan](https://www.semiconductor-digest.com/memryx-and-macnica-announce-partnership-to-accelerate-edge-ai-adoption-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=memryx-and-macnica-announce-partnership-to-accelerate-edge-ai-adoption-in-japan)
-**Published:** Fri, 19 Dec 2025 19:39:58 +0000
-
-<p>MemryX Inc., a provider of high-performance AI accelerators for edge devices, announced a distribution and solutions partnership with Macnica, Inc., one of Japan's largest semiconductor distributors.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/memryx-and-macnica-announce-partnership-to-accelerate-edge-ai-adoption-in-japan/">MemryX and Macnica Announce Partnership to Accelerate Edge AI Adoption in Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
