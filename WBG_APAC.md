@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-05 11:49 UTC_
+_Last updated: 2026-02-05 13:24 UTC_
 
 ## [The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation](https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/)
 **Published:** Wed, 04 Feb 2026 23:38:53 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-05 11:49 UTC_
 
 ---
 
+## [A guide to GaN-on-Si, Part 2](https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-2/)
+**Published:** Thu, 05 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2304" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1622459631.jpeg?fit=4224%2C2304" style="display: block; margin-bottom: 5px; clear: both;" width="4224" /><p>Addressing the processing challenges for GaN-on-Si and comparing device architectures for different voltage applications. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-2/">A guide to GaN-on-Si, Part 2</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [EPC Starts Volume Production of Gen7 EPC2366 eGaN FET](https://www.powerelectronicsnews.com/epc-starts-volume-production-of-gen7-epc2366-egan-fet/)
 **Published:** Wed, 04 Feb 2026 18:48:13 +0000
 
@@ -890,14 +898,6 @@ _Last updated: 2026-02-05 11:49 UTC_
 
 ---
 
-## [ROHM Unveils BD9xxN5 Series of LDO Regulators](https://www.powerelectronicsnews.com/rohm-unveils-bd9xxn5-series-of-ldo-regulators/)
-**Published:** Fri, 30 Jan 2026 13:00:00 +0000
-
-<img alt="ROHM Unveils BD9xxN5 Series of LDO Regulators." class="webfeedsFeaturedVisual wp-post-image" height="478" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Rohm_LDO.png?fit=578%2C478" style="display: block; margin-bottom: 5px; clear: both;" width="578" /><p>The new BD9xxN5 series of low-dropout regulators (LDOs) provides an output current of 500 mA.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/rohm-unveils-bd9xxn5-series-of-ldo-regulators/">ROHM Unveils BD9xxN5 Series of LDO Regulators</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Why Now Is the Right Time for Semiconductor Fabs in Germany](https://www.eetimes.com/why-now-is-the-right-time-for-semiconductor-fabs-in-germany/)
 **Published:** Thu, 05 Feb 2026 09:30:00 +0000
 
@@ -927,6 +927,14 @@ _Last updated: 2026-02-05 11:49 UTC_
 
 <p>India's 2026-2027 budget reshapes semiconductor and electronics policy.</p>
 <p>The post <a href="https://www.eetimes.com/india-budget-2026-2027-semiconductors-manufacturing-and-tax-reforms/">India Budget 2026-2027: Semiconductors, Manufacturing, and Tax Reforms</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Siemens Digital buys CanopusAI](https://www.electronicsweekly.com/news/business/siemens-digital-buys-canopusai-2026-02/)
+**Published:** Thu, 05 Feb 2026 06:14:11 +0000
+
+<p>Siemens has bought Canopus AI, a metrology specialist enabling precision and efficiency in wafer and mask inspection processes. “By combining the computational lithography and manufacturing physics simulation capability in our ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/siemens-digital-buys-canopusai-2026-02/">Siemens Digital buys CanopusAI</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
