@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-04 23:42 UTC_
+_Last updated: 2026-02-05 02:19 UTC_
+
+## [The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation](https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/)
+**Published:** Wed, 04 Feb 2026 23:38:53 +0000
+
+<p>True innovation in the year to come boils down to the semiconductor industry's ability to solve the looming crisis around data movement.</p>
+<p>The post <a href="https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/">The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Cadence’s Anirudh Devgan Appointed to Lam Research BOD](https://www.eetasia.com/cadences-anirudh-devgan-appointed-to-lam-research-bod/)
 **Published:** Wed, 04 Feb 2026 23:17:12 +0000
