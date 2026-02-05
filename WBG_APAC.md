@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-05 08:57 UTC_
+_Last updated: 2026-02-05 09:59 UTC_
 
 ## [The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation](https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/)
 **Published:** Wed, 04 Feb 2026 23:38:53 +0000
@@ -895,6 +895,14 @@ _Last updated: 2026-02-05 08:57 UTC_
 
 <img alt="ROHM Unveils BD9xxN5 Series of LDO Regulators." class="webfeedsFeaturedVisual wp-post-image" height="478" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Rohm_LDO.png?fit=578%2C478" style="display: block; margin-bottom: 5px; clear: both;" width="578" /><p>The new BD9xxN5 series of low-dropout regulators (LDOs) provides an output current of 500 mA.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/rohm-unveils-bd9xxn5-series-of-ldo-regulators/">ROHM Unveils BD9xxN5 Series of LDO Regulators</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Why Now Is the Right Time for Semiconductor Fabs in Germany](https://www.eetimes.com/why-now-is-the-right-time-for-semiconductor-fabs-in-germany/)
+**Published:** Thu, 05 Feb 2026 09:30:00 +0000
+
+<p>Relocating the semiconductor industry back to Europe, and specifically to Germany, requires a long-term commitment.</p>
+<p>The post <a href="https://www.eetimes.com/why-now-is-the-right-time-for-semiconductor-fabs-in-germany/">Why Now Is the Right Time for Semiconductor Fabs in Germany</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
