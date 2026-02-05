@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-05 13:24 UTC_
+_Last updated: 2026-02-05 14:56 UTC_
 
 ## [The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation](https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/)
 **Published:** Wed, 04 Feb 2026 23:38:53 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-05 13:24 UTC_
 
 ---
 
+## [Microchip Launches MCPF1525 Power Module for AI Data Centers](https://www.powerelectronicsnews.com/microchip-launches-mcpf1525-power-module-for-ai-data-centers/)
+**Published:** Thu, 05 Feb 2026 14:00:00 +0000
+
+<img alt="Microchip Launches MCPF1525 Power Module for AI Data Centers." class="webfeedsFeaturedVisual wp-post-image" height="569" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Microchip_Power_Module.jpg?fit=1024%2C569" style="display: block; margin-bottom: 5px; clear: both;" width="1024" /><p>The newly introduced MCPF1525 is a compact, stackable power module delivering up to 200A for AI and high-performance data center applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/microchip-launches-mcpf1525-power-module-for-ai-data-centers/">Microchip Launches MCPF1525 Power Module for AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [A guide to GaN-on-Si, Part 2](https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-2/)
 **Published:** Thu, 05 Feb 2026 13:00:00 +0000
 
@@ -890,11 +898,11 @@ _Last updated: 2026-02-05 13:24 UTC_
 
 ---
 
-## [Wide Bandgap Monthly Insights – January 2026](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-january-2026/)
-**Published:** Fri, 30 Jan 2026 13:00:00 +0000
+## [How to Select High-Performance Capacitors for GaN and SiC Power Systems](https://www.eetimes.com/how-to-select-high-performance-capacitors-for-gan-and-sic-power-systems/)
+**Published:** Thu, 05 Feb 2026 14:00:00 +0000
 
-<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-january-2026/">Wide Bandgap Monthly Insights &#8211; January 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Learn how high-performance capacitors address high-frequency, high-temperature challenges in GaN and SiC power system design. </p>
+<p>The post <a href="https://www.eetimes.com/how-to-select-high-performance-capacitors-for-gan-and-sic-power-systems/">How to Select High-Performance Capacitors for GaN and SiC Power Systems </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
