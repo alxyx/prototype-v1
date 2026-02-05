@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-05 22:41 UTC_
+_Last updated: 2026-02-05 23:39 UTC_
 
 ## [The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation](https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/)
 **Published:** Wed, 04 Feb 2026 23:38:53 +0000
@@ -927,14 +927,6 @@ _Last updated: 2026-02-05 22:41 UTC_
 
 <p>Discover why thermal management—not rocket launches—poses the real challenge for running data centers in space. </p>
 <p>The post <a href="https://www.eetimes.com/the-hidden-physics-of-running-data-centers-in-orbit/">The Hidden Physics of Running Data Centers in Orbit</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [India Budget 2026-2027: Semiconductors, Manufacturing, and Tax Reforms](https://www.eetimes.com/india-budget-2026-2027-semiconductors-manufacturing-and-tax-reforms/)
-**Published:** Tue, 03 Feb 2026 01:00:00 +0000
-
-<p>India's 2026-2027 budget reshapes semiconductor and electronics policy.</p>
-<p>The post <a href="https://www.eetimes.com/india-budget-2026-2027-semiconductors-manufacturing-and-tax-reforms/">India Budget 2026-2027: Semiconductors, Manufacturing, and Tax Reforms</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
