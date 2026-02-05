@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-05 19:51 UTC_
+_Last updated: 2026-02-05 20:49 UTC_
 
 ## [The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation](https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/)
 **Published:** Wed, 04 Feb 2026 23:38:53 +0000
@@ -15,6 +15,22 @@ _Last updated: 2026-02-05 19:51 UTC_
 
 <p>Lam Research has appointed Cadence CEO and semiconductor industry leader Anirudh Devgan to its board of directors.</p>
 <p>The post <a href="https://www.eetasia.com/cadences-anirudh-devgan-appointed-to-lam-research-bod/">Cadence&#8217;s Anirudh Devgan Appointed to Lam Research BOD</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Remarkable Material Could Make Electronic Devices More Efficient](https://www.semiconductor-digest.com/remarkable-material-could-make-electronic-devices-more-efficient/?utm_source=rss&utm_medium=rss&utm_campaign=remarkable-material-could-make-electronic-devices-more-efficient)
+**Published:** Thu, 05 Feb 2026 20:16:24 +0000
+
+<p>Scientists have created a new type of material that could enable common electronic devices to work faster and use less energy, a study suggests.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/remarkable-material-could-make-electronic-devices-more-efficient/">Remarkable Material Could Make Electronic Devices More Efficient</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Gelest Announces Collaboration with IBM to Test  Dry Resist EUV Lithography Precursors](https://www.semiconductor-digest.com/gelest-announces-collaboration-with-ibm-to-test-dry-resist-euv-lithography-precursors/?utm_source=rss&utm_medium=rss&utm_campaign=gelest-announces-collaboration-with-ibm-to-test-dry-resist-euv-lithography-precursors)
+**Published:** Thu, 05 Feb 2026 19:59:45 +0000
+
+<p>Collaboration will aim to support materials development and speed innovation.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/gelest-announces-collaboration-with-ibm-to-test-dry-resist-euv-lithography-precursors/">Gelest Announces Collaboration with IBM to Test  Dry Resist EUV Lithography Precursors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2026-02-05 19:51 UTC_
 
 <p>Universal Display Corporation today announced the signing of long-term OLED material supply and license agreements with Tianma, a leading global manufacturer of flat panel displays.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/tianma-and-universal-display-corporation-enter-into-long-term-oled-agreements/">Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [HSC Appoints New Chief Operating Officer](https://www.semiconductor-digest.com/hsc-appoints-new-chief-operating-officer/?utm_source=rss&utm_medium=rss&utm_campaign=hsc-appoints-new-chief-operating-officer)
-**Published:** Mon, 05 Jan 2026 22:24:49 +0000
-
-<p>Hemlock Semiconductor today announced Fernando Signorini has joined its executive leadership team as Chief Operating Officer.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hsc-appoints-new-chief-operating-officer/">HSC Appoints New Chief Operating Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Annual Florida Semiconductor Summit to Showcase the State’s Growing Chip Manufacturing Ecosystem](https://www.semiconductor-digest.com/annual-florida-semiconductor-summit-to-showcase-the-states-growing-chip-manufacturing-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=annual-florida-semiconductor-summit-to-showcase-the-states-growing-chip-manufacturing-ecosystem)
-**Published:** Mon, 05 Jan 2026 21:47:13 +0000
-
-<p>The fourth annual Florida Semiconductor Summit will take place Feb. 23-25, 2026, at the Rosen Shingle Creek hotel in Orlando, exploring the future of semiconductor manufacturing in Florida. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/annual-florida-semiconductor-summit-to-showcase-the-states-growing-chip-manufacturing-ecosystem/">Annual Florida Semiconductor Summit to Showcase the State’s Growing Chip Manufacturing Ecosystem</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
