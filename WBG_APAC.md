@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-05 14:56 UTC_
+_Last updated: 2026-02-05 15:55 UTC_
 
 ## [The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation](https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/)
 **Published:** Wed, 04 Feb 2026 23:38:53 +0000
@@ -15,6 +15,14 @@ _Last updated: 2026-02-05 14:56 UTC_
 
 <p>Lam Research has appointed Cadence CEO and semiconductor industry leader Anirudh Devgan to its board of directors.</p>
 <p>The post <a href="https://www.eetasia.com/cadences-anirudh-devgan-appointed-to-lam-research-bod/">Cadence&#8217;s Anirudh Devgan Appointed to Lam Research BOD</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Practical HLS Veriﬁcation: What It Takes to Ship Silicon](https://www.semiconductor-digest.com/practical-hls-veri%ef%ac%81cation-what-it-takes-to-ship-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=practical-hls-veri%25ef%25ac%2581cation-what-it-takes-to-ship-silicon)
+**Published:** Thu, 05 Feb 2026 15:27:34 +0000
+
+<p>With the development of increasingly complex chips – such as AI accelerators – high-level synthesis (HLS) is transitioning from experimental methodology to a practical approach. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/practical-hls-veri%ef%ac%81cation-what-it-takes-to-ship-silicon/">Practical HLS Veriﬁcation: What It Takes to Ship Silicon</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2026-02-05 14:56 UTC_
 
 <p>The fourth annual Florida Semiconductor Summit will take place Feb. 23-25, 2026, at the Rosen Shingle Creek hotel in Orlando, exploring the future of semiconductor manufacturing in Florida. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/annual-florida-semiconductor-summit-to-showcase-the-states-growing-chip-manufacturing-ecosystem/">Annual Florida Semiconductor Summit to Showcase the State’s Growing Chip Manufacturing Ecosystem</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [What It Takes to Bring Semiconductor Manufacturing Back to the US](https://www.semiconductor-digest.com/what-it-takes-to-bring-semiconductor-manufacturing-back-to-the-us/?utm_source=rss&utm_medium=rss&utm_campaign=what-it-takes-to-bring-semiconductor-manufacturing-back-to-the-us)
-**Published:** Mon, 05 Jan 2026 21:44:05 +0000
-
-<p>Rather than playing catch-up in manufacturing today's most advanced chips, U-M researchers advocate preparation to build those of tomorrow.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/what-it-takes-to-bring-semiconductor-manufacturing-back-to-the-us/">What It Takes to Bring Semiconductor Manufacturing Back to the US</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
