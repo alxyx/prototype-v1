@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-05 07:14 UTC_
+_Last updated: 2026-02-05 08:08 UTC_
 
 ## [The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation](https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/)
 **Published:** Wed, 04 Feb 2026 23:38:53 +0000
@@ -927,13 +927,6 @@ _Last updated: 2026-02-05 07:14 UTC_
 
 <p>Siemens has bought Canopus AI, a metrology specialist enabling precision and efficiency in wafer and mask inspection processes. “By combining the computational lithography and manufacturing physics simulation capability in our ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/siemens-digital-buys-canopusai-2026-02/">Siemens Digital buys CanopusAI</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [JOB: PCB Assembly Engineer At Vecmocon In Noida](https://www.electronicsforu.com/career/pcb-assembly-engineer-vecmocon-noida)
-**Published:** Wed, 04 Feb 2026 08:43:04 +0000
-
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: Vecmocon Job Description We are seeking a detail-oriented and experienced Soldering &#38; Assembly Technician to perform precision assembly and soldering of electronic components and PCBs. The ideal candidate will work as part of a team to assemble products to quality and safety standards in a timely manner. Behavioral Competencies Required Skills
 
 ---
 
