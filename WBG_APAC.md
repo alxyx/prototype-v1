@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-06 05:00 UTC_
+_Last updated: 2026-02-06 06:07 UTC_
 
 ## [The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation](https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/)
 **Published:** Wed, 04 Feb 2026 23:38:53 +0000
@@ -927,6 +927,14 @@ _Last updated: 2026-02-06 05:00 UTC_
 
 <p>Discover why thermal management—not rocket launches—poses the real challenge for running data centers in space. </p>
 <p>The post <a href="https://www.eetimes.com/the-hidden-physics-of-running-data-centers-in-orbit/">The Hidden Physics of Running Data Centers in Orbit</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Siemens Digital buys CanopusAI](https://www.electronicsweekly.com/news/business/siemens-digital-buys-canopusai-2026-02/)
+**Published:** Thu, 05 Feb 2026 06:14:11 +0000
+
+<p>Siemens has bought Canopus AI, a metrology specialist enabling precision and efficiency in wafer and mask inspection processes. “By combining the computational lithography and manufacturing physics simulation capability in our ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/siemens-digital-buys-canopusai-2026-02/">Siemens Digital buys CanopusAI</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
