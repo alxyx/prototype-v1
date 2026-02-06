@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-06 13:14 UTC_
+_Last updated: 2026-02-06 14:19 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -927,14 +927,6 @@ _Last updated: 2026-02-06 13:14 UTC_
 
 <p>FPGA and ASIC AI startup becomes a unicorn after 34 months.</p>
 <p>The post <a href="https://www.eetimes.com/positron-230-million-funding-led-by-financial-trading-firms/">Positron’s $230M Funding Led By Financial Trading Firms</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [The Hidden Physics of Running Data Centers in Orbit](https://www.eetimes.com/the-hidden-physics-of-running-data-centers-in-orbit/)
-**Published:** Tue, 03 Feb 2026 20:00:00 +0000
-
-<p>Discover why thermal management—not rocket launches—poses the real challenge for running data centers in space. </p>
-<p>The post <a href="https://www.eetimes.com/the-hidden-physics-of-running-data-centers-in-orbit/">The Hidden Physics of Running Data Centers in Orbit</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
