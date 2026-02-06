@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-06 14:19 UTC_
+_Last updated: 2026-02-06 15:54 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -826,6 +826,38 @@ _Last updated: 2026-02-06 14:19 UTC_
 
 ---
 
+## [RIR Launches SiC MPS Diodes for EV and Power Systems](https://www.powerelectronicsnews.com/rir-launches-sic-mps-diodes-for-ev-and-power-systems/)
+**Published:** Fri, 06 Feb 2026 15:00:00 +0000
+
+<img alt="RIR Launches SiC MPS Diodes for EV and Power Systems." class="webfeedsFeaturedVisual wp-post-image" height="802" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/RIR_PR.jpg?fit=1380%2C802" style="display: block; margin-bottom: 5px; clear: both;" width="1380" /><p>The new SiC MPS diodes deliver high efficiency, ruggedness, and reliability for EVs, data centres, and energy systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/rir-launches-sic-mps-diodes-for-ev-and-power-systems/">RIR Launches SiC MPS Diodes for EV and Power Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [ST Finalizes Acquisition of NXP MEMS Sensors Business](https://www.powerelectronicsnews.com/st-finalizes-acquisition-of-nxp-mems-sensors-business/)
+**Published:** Fri, 06 Feb 2026 15:00:00 +0000
+
+<img alt="ST Finalizes Acquisition of NXP MEMS Sensors Business." class="webfeedsFeaturedVisual wp-post-image" height="797" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/stmicroelectronics-catania-wafer-front-view.jpg?fit=1200%2C797" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The acquisition expands ST’s capabilities in automotive safety and industrial sensing, strengthening its global MEMS portfolio.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-finalizes-acquisition-of-nxp-mems-sensors-business/">ST Finalizes Acquisition of NXP MEMS Sensors Business</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [TDK Introduces Stackable µPOL Modules](https://www.powerelectronicsnews.com/tdk-introduces-stackable-%c2%b5pol-modules/)
+**Published:** Fri, 06 Feb 2026 14:58:21 +0000
+
+<img alt="TDK Introduces Stackable µPOL Modules." class="webfeedsFeaturedVisual wp-post-image" height="1153" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/20260205-TDK-Press-Image-1.jpg?fit=2000%2C1153" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>The FS1525 stackable point-of-load converter delivers up to 25 A per module and up to 200 A in vertical power delivery designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tdk-introduces-stackable-%c2%b5pol-modules/">TDK Introduces Stackable µPOL Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Supercapacitors, Automotive Shift to 48V, Polaritonic Switches: Power Electronics Week Insights](https://www.powerelectronicsnews.com/supercapacitors-automotive-shift-to-48v-polaritonic-switches-power-electronics-week-insights/)
+**Published:** Fri, 06 Feb 2026 14:54:21 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Supercapacitors, Automotive Shift to 48V, and Polaritonic Switches!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/supercapacitors-automotive-shift-to-48v-polaritonic-switches-power-electronics-week-insights/">Supercapacitors, Automotive Shift to 48V, Polaritonic Switches: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Reliable Power for Autonomous Defense Vehicles](https://www.powerelectronicsnews.com/reliable-power-for-autonomous-defense-vehicles/)
 **Published:** Fri, 06 Feb 2026 13:00:00 +0000
 
@@ -871,38 +903,6 @@ _Last updated: 2026-02-06 14:19 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="673" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/image.png?fit=1199%2C673" style="display: block; margin-bottom: 5px; clear: both;" width="1199" /><p>Since the onset of large-scale computing, data centers have been deployed at a pretty stable rate. Before AI became the foundation of modern computing, most...</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/sustainable-ai-data-center-energy-strategies-to-relieve-the-grid/">Sustainable AI Data Center Energy Strategies to Relieve the Grid</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Beyond the Electron: Are Polaritonic Switches the Final Frontier for Power Electronics?](https://www.powerelectronicsnews.com/beyond-the-electron-are-polaritonic-switches-the-final-frontier-for-power-electronics/)
-**Published:** Wed, 04 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3072" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_1549647101.jpeg?fit=5632%2C3072" style="display: block; margin-bottom: 5px; clear: both;" width="5632" /><p>Moving from the transistor's charge-based switching to light-matter hybrids could remove switching losses and redefine the power landscape..</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/beyond-the-electron-are-polaritonic-switches-the-final-frontier-for-power-electronics/">Beyond the Electron: Are Polaritonic Switches the Final Frontier for Power Electronics?</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [CISSOID Expands Portfolio with 1200 V Half-Bridge IGBT Module](https://www.powerelectronicsnews.com/cissoid-expands-portfolio-with-1200-v-half-bridge-igbt-module/)
-**Published:** Tue, 03 Feb 2026 15:00:00 +0000
-
-<img alt="CISSOID Expands Portfolio with 1200 V Half-Bridge IGBT Module." class="webfeedsFeaturedVisual wp-post-image" height="405" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/CISSOID-CMT-PLA1BL12300MA-1200V-300A-Half-Bridge-IGBT-Module-in-CPAK-EDC.png?fit=720%2C405" style="display: block; margin-bottom: 5px; clear: both;" width="720" /><p>The new 1200V IGBT power module, offered in a CPAK-EDC package, targets high-efficiency and reliable industrial power conversion systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/cissoid-expands-portfolio-with-1200-v-half-bridge-igbt-module/">CISSOID Expands Portfolio with 1200 V Half-Bridge IGBT Module</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [How the Shift to 48V is Impacting Automotive Audio Design](https://www.powerelectronicsnews.com/how-the-shift-to-48v-is-impacting-automotive-audio-design/)
-**Published:** Tue, 03 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2464" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_846880816.jpeg?fit=4397%2C2464" style="display: block; margin-bottom: 5px; clear: both;" width="4397" /><p>Next-generation vehicles are undergoing several major architectural shifts to support vehicle autonomy, a personalized in-cabin experience, faster charging times, and greater range per charge. To...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/how-the-shift-to-48v-is-impacting-automotive-audio-design/">How the Shift to 48V is Impacting Automotive Audio Design</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Vishay Launches 1200 V SiC MOSFET Power Modules](https://www.powerelectronicsnews.com/vishay-launches-1200-v-sic-mosfet-power-modules/)
-**Published:** Mon, 02 Feb 2026 14:09:33 +0000
-
-<img alt="Vishay Launches 1200 V SiC MOSFET Power Modules." class="webfeedsFeaturedVisual wp-post-image" height="533" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Vishay_SiC_MOSFET.jpg?fit=799%2C533" style="display: block; margin-bottom: 5px; clear: both;" width="799" /><p>The new 1200 V SiC MOSFET power modules in SOT-227 packages target high-efficiency automotive, energy, and industrial systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vishay-launches-1200-v-sic-mosfet-power-modules/">Vishay Launches 1200 V SiC MOSFET Power Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
