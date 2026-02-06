@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-06 10:54 UTC_
+_Last updated: 2026-02-06 11:47 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -935,6 +935,22 @@ _Last updated: 2026-02-06 10:54 UTC_
 
 <p>Discover why thermal management—not rocket launches—poses the real challenge for running data centers in space. </p>
 <p>The post <a href="https://www.eetimes.com/the-hidden-physics-of-running-data-centers-in-orbit/">The Hidden Physics of Running Data Centers in Orbit</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Singapore lab replaces interposer copper with micro LEDs](https://www.electronicsweekly.com/news/business/singapore-lab-replaces-interposer-copper-with-optical-fibre-2026-02/)
+**Published:** Fri, 06 Feb 2026 09:44:05 +0000
+
+<p>Replacing copper in semiconductor packaging with microLED optical links increases data rates and speed while resolving the issues of heat generation encountered by more traditional designs. Singapore’s NSC (New Silicon ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/singapore-lab-replaces-interposer-copper-with-optical-fibre-2026-02/">Singapore lab replaces interposer copper with micro LEDs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [RF GaN on 11% CAGR to hit $2.4bn in 2031](https://www.electronicsweekly.com/news/business/rf-gan-on-11-cagr-to-hit-2-4bn-in-2031-2026-02/)
+**Published:** Fri, 06 Feb 2026 06:12:27 +0000
+
+<p>RF GaN is on a strong growth trajectory, says Yole, with the  market expected to reach ~$2.4 billion by 2031. Defence is the main growth engine, heading toward ~$1 billion ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/rf-gan-on-11-cagr-to-hit-2-4bn-in-2031-2026-02/">RF GaN on 11% CAGR to hit $2.4bn in 2031</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
