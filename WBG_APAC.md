@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-06 11:47 UTC_
+_Last updated: 2026-02-06 13:14 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -826,6 +826,22 @@ _Last updated: 2026-02-06 11:47 UTC_
 
 ---
 
+## [Reliable Power for Autonomous Defense Vehicles](https://www.powerelectronicsnews.com/reliable-power-for-autonomous-defense-vehicles/)
+**Published:** Fri, 06 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1887" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Vehicule-militaire_gaia_converter.jpg?fit=3000%2C1887" style="display: block; margin-bottom: 5px; clear: both;" width="3000" /><p>From aerial systems to underwater vehicles, the next generation of autonomous platforms relies on advanced power solutions.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/reliable-power-for-autonomous-defense-vehicles/">Reliable Power for Autonomous Defense Vehicles</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Wolfspeed Introduces TOLT Package Portfolio](https://www.powerelectronicsnews.com/wolfspeed-introduces-tolt-package-portfolio/)
+**Published:** Fri, 06 Feb 2026 13:00:00 +0000
+
+<img alt="Wolfspeed Introduces TOLT Package Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Wolfspeed_power_TOLT_package_web.png?fit=500%2C500" style="display: block; margin-bottom: 5px; clear: both;" width="500" /><p>The TOLT package portfolio is designed to improve power density and thermal performance in AI and hyperscale datacenter power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-introduces-tolt-package-portfolio/">Wolfspeed Introduces TOLT Package Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Microchip Launches MCPF1525 Power Module for AI Data Centers](https://www.powerelectronicsnews.com/microchip-launches-mcpf1525-power-module-for-ai-data-centers/)
 **Published:** Thu, 05 Feb 2026 14:00:00 +0000
 
@@ -887,22 +903,6 @@ _Last updated: 2026-02-06 11:47 UTC_
 
 <img alt="Vishay Launches 1200 V SiC MOSFET Power Modules." class="webfeedsFeaturedVisual wp-post-image" height="533" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/Vishay_SiC_MOSFET.jpg?fit=799%2C533" style="display: block; margin-bottom: 5px; clear: both;" width="799" /><p>The new 1200 V SiC MOSFET power modules in SOT-227 packages target high-efficiency automotive, energy, and industrial systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/vishay-launches-1200-v-sic-mosfet-power-modules/">Vishay Launches 1200 V SiC MOSFET Power Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Supercapacitor-Assisted Power Converter](https://www.powerelectronicsnews.com/supercapacitor-assisted-power-converter/)
-**Published:** Mon, 02 Feb 2026 01:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="332" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/image_fe05e7.jpeg?fit=887%2C332" style="display: block; margin-bottom: 5px; clear: both;" width="887" /><p>This article discusses the key differentiating attributes of supercapacitors and outlines their use in the design of linear converters.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/supercapacitor-assisted-power-converter/">Supercapacitor-Assisted Power Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [GaN-on-Si Substrates, QSPICE Circuit Diagram Editor, 300mm GaN Adoption: Power Electronics Week Insights](https://www.powerelectronicsnews.com/gan-on-si-substrates-qspice-circuit-diagram-editor-300mm-gan-adoption-power-electronics-week-insights/)
-**Published:** Fri, 30 Jan 2026 16:44:53 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on GaN-on-Sil Substrates, QSPICE Circuit Diagram Editor, and 300mm GaN Adoption!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/gan-on-si-substrates-qspice-circuit-diagram-editor-300mm-gan-adoption-power-electronics-week-insights/">GaN-on-Si Substrates, QSPICE Circuit Diagram Editor, 300mm GaN Adoption: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
