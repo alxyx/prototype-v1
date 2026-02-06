@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-06 06:07 UTC_
+_Last updated: 2026-02-06 07:10 UTC_
 
 ## [The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation](https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/)
 **Published:** Wed, 04 Feb 2026 23:38:53 +0000
@@ -930,11 +930,11 @@ _Last updated: 2026-02-06 06:07 UTC_
 
 ---
 
-## [Siemens Digital buys CanopusAI](https://www.electronicsweekly.com/news/business/siemens-digital-buys-canopusai-2026-02/)
-**Published:** Thu, 05 Feb 2026 06:14:11 +0000
+## [RF GaN on 11% CAGR to hit $2.4bn in 2031](https://www.electronicsweekly.com/news/business/rf-gan-on-11-cagr-to-hit-2-4bn-in-2031-2026-02/)
+**Published:** Fri, 06 Feb 2026 06:12:27 +0000
 
-<p>Siemens has bought Canopus AI, a metrology specialist enabling precision and efficiency in wafer and mask inspection processes. “By combining the computational lithography and manufacturing physics simulation capability in our ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/siemens-digital-buys-canopusai-2026-02/">Siemens Digital buys CanopusAI</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>RF GaN is on a strong growth trajectory, says Yole, with the  market expected to reach ~$2.4 billion by 2031. Defence is the main growth engine, heading toward ~$1 billion ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/rf-gan-on-11-cagr-to-hit-2-4bn-in-2031-2026-02/">RF GaN on 11% CAGR to hit $2.4bn in 2031</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
