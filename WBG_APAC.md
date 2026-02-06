@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-06 16:58 UTC_
+_Last updated: 2026-02-06 17:55 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -23,6 +23,22 @@ _Last updated: 2026-02-06 16:58 UTC_
 
 <p>Lam Research has appointed Cadence CEO and semiconductor industry leader Anirudh Devgan to its board of directors.</p>
 <p>The post <a href="https://www.eetasia.com/cadences-anirudh-devgan-appointed-to-lam-research-bod/">Cadence&#8217;s Anirudh Devgan Appointed to Lam Research BOD</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [INU Researchers Present Roadmap of Ultra-Thin Crystalline Silicon-Based Bioelectronics](https://www.semiconductor-digest.com/inu-researchers-present-roadmap-of-ultra-thin-crystalline-silicon-based-bioelectronics/?utm_source=rss&utm_medium=rss&utm_campaign=inu-researchers-present-roadmap-of-ultra-thin-crystalline-silicon-based-bioelectronics)
+**Published:** Fri, 06 Feb 2026 17:06:57 +0000
+
+<p>Ultra-thin crystalline silicon is an exciting material for next-generation bioelectronics, transforming rigid silicon into flexible nanomembranes while preserving superior electrical performance and CMOS compatibility.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/inu-researchers-present-roadmap-of-ultra-thin-crystalline-silicon-based-bioelectronics/">INU Researchers Present Roadmap of Ultra-Thin Crystalline Silicon-Based Bioelectronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SiTime to Acquire Renesas’ Timing Business](https://www.semiconductor-digest.com/sitime-to-acquire-renesas-timing-business/?utm_source=rss&utm_medium=rss&utm_campaign=sitime-to-acquire-renesas-timing-business)
+**Published:** Fri, 06 Feb 2026 16:48:00 +0000
+
+<p>SiTime Corporation, the Precision Timing company, and Renesas Electronics Corporation, a premier supplier of advanced semiconductors, today announced that SiTime and Renesas’ consolidated subsidiary, Renesas Electronics America Inc., have signed a definitive agreement whereby SiTime will acquire certain assets related to Renesas’ timing business.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sitime-to-acquire-renesas-timing-business/">SiTime to Acquire Renesas’ Timing Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,19 +826,11 @@ _Last updated: 2026-02-06 16:58 UTC_
 
 ---
 
-## [NXP Advances Edge AI Leadership with New eIQ Agentic AI Framework](https://www.semiconductor-digest.com/nxp-advances-edge-ai-leadership-with-new-eiq-agentic-ai-framework/?utm_source=rss&utm_medium=rss&utm_campaign=nxp-advances-edge-ai-leadership-with-new-eiq-agentic-ai-framework)
-**Published:** Tue, 06 Jan 2026 22:01:49 +0000
+## [Toshiba Samples TB9104FTG Gate Driver](https://www.powerelectronicsnews.com/toshiba-samples-tb9104ftg-gate-driver/)
+**Published:** Fri, 06 Feb 2026 17:00:00 +0000
 
-<p>NXP Semiconductors N.V. today announced its new eIQ Agentic AI Framework, advancing its leadership in secure, real-time edge AI.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nxp-advances-edge-ai-leadership-with-new-eiq-agentic-ai-framework/">NXP Advances Edge AI Leadership with New eIQ Agentic AI Framework</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Upbeat Technology Sets New Industry Standard with Novel MEMS Technology](https://www.semiconductor-digest.com/upbeat-technology-sets-new-industry-standard-with-novel-mems-technology/?utm_source=rss&utm_medium=rss&utm_campaign=upbeat-technology-sets-new-industry-standard-with-novel-mems-technology)
-**Published:** Tue, 06 Jan 2026 21:41:52 +0000
-
-<p>Upbeat Technology, a pioneer in ultra-low-power compute, voice, and edge AI sensing solutions, today announced its new family of UPM01 and UPM02 high-bandwidth MEMS vibration sensors. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/upbeat-technology-sets-new-industry-standard-with-novel-mems-technology/">Upbeat Technology Sets New Industry Standard with Novel MEMS Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Toshiba Samples TB9104FTG Gate Driver." class="webfeedsFeaturedVisual wp-post-image" height="628" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/TB9104FTG.jpg?fit=1200%2C628" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The TB9104FTG gate driver is designed for high-current automotive brushed DC motors in body system applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/toshiba-samples-tb9104ftg-gate-driver/">Toshiba Samples TB9104FTG Gate Driver</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -895,14 +903,6 @@ _Last updated: 2026-02-06 16:58 UTC_
 
 <img alt="EPC Starts Volume Production of Gen 7 EPC2366 eGaN FET." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/EPC2366-PR-2-333-250-p-L-97.png?fit=333%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="333" /><p>The Gen7 EPC2366 eGaN power transistor offers up to 3x performance over silicon MOSFETs for high-efficiency power systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/epc-starts-volume-production-of-gen7-epc2366-egan-fet/">EPC Starts Volume Production of Gen7 EPC2366 eGaN FET</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Sustainable AI Data Center Energy Strategies to Relieve the Grid](https://www.powerelectronicsnews.com/sustainable-ai-data-center-energy-strategies-to-relieve-the-grid/)
-**Published:** Wed, 04 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="673" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/image.png?fit=1199%2C673" style="display: block; margin-bottom: 5px; clear: both;" width="1199" /><p>Since the onset of large-scale computing, data centers have been deployed at a pretty stable rate. Before AI became the foundation of modern computing, most...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/sustainable-ai-data-center-energy-strategies-to-relieve-the-grid/">Sustainable AI Data Center Energy Strategies to Relieve the Grid</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
