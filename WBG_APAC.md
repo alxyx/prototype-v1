@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-06 15:54 UTC_
+_Last updated: 2026-02-06 16:58 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -23,6 +23,22 @@ _Last updated: 2026-02-06 15:54 UTC_
 
 <p>Lam Research has appointed Cadence CEO and semiconductor industry leader Anirudh Devgan to its board of directors.</p>
 <p>The post <a href="https://www.eetasia.com/cadences-anirudh-devgan-appointed-to-lam-research-bod/">Cadence&#8217;s Anirudh Devgan Appointed to Lam Research BOD</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Researchers Boost Perovskite Solar Cell Performance Via Interface Engineering](https://www.semiconductor-digest.com/researchers-boost-perovskite-solar-cell-performance-via-interface-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-boost-perovskite-solar-cell-performance-via-interface-engineering)
+**Published:** Fri, 06 Feb 2026 16:40:39 +0000
+
+<p>Researchers from the Qingdao Institute of Bioenergy and Bioprocess Technology (QIBEBT) of the Chinese Academy of Sciences, in collaboration with international partners, have engineered a thin two-dimensional perovskite phase at the buried interface of three-dimensional (3D) perovskite solar cells (PSCs) to boost device performance and operational stability.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/researchers-boost-perovskite-solar-cell-performance-via-interface-engineering/">Researchers Boost Perovskite Solar Cell Performance Via Interface Engineering</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Global Chips Market Hitting Record High Sales Figures in 2025](https://www.semiconductor-digest.com/global-chips-market-hitting-record-high-sales-figures-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=global-chips-market-hitting-record-high-sales-figures-in-2025)
+**Published:** Fri, 06 Feb 2026 15:55:20 +0000
+
+<p>The European Semiconductors Industry Association (ESIA) announced today that global semiconductor sales reached US$ 791.69 billion in 2025, which means a marked 26.1% increase on a year-on-year basis.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-chips-market-hitting-record-high-sales-figures-in-2025/">Global Chips Market Hitting Record High Sales Figures in 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,22 +823,6 @@ _Last updated: 2026-02-06 15:54 UTC_
 
 <p>Upbeat Technology, a pioneer in ultra-low-power compute, voice, and edge AI sensing solutions, today announced its new family of UPM01 and UPM02 high-bandwidth MEMS vibration sensors. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/upbeat-technology-sets-new-industry-standard-with-novel-mems-technology/">Upbeat Technology Sets New Industry Standard with Novel MEMS Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Marvell to Acquire XConn Technologies](https://www.semiconductor-digest.com/marvell-to-acquire-xconn-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=marvell-to-acquire-xconn-technologies)
-**Published:** Tue, 06 Jan 2026 21:27:06 +0000
-
-<p>Marvell Technology, Inc. today announced it has entered into a definitive agreement to acquire XConn Technologies, a provider of advanced PCIe and CXL switching silicon.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/marvell-to-acquire-xconn-technologies/">Marvell to Acquire XConn Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements](https://www.semiconductor-digest.com/tianma-and-universal-display-corporation-enter-into-long-term-oled-agreements/?utm_source=rss&utm_medium=rss&utm_campaign=tianma-and-universal-display-corporation-enter-into-long-term-oled-agreements)
-**Published:** Mon, 05 Jan 2026 22:38:44 +0000
-
-<p>Universal Display Corporation today announced the signing of long-term OLED material supply and license agreements with Tianma, a leading global manufacturer of flat panel displays.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tianma-and-universal-display-corporation-enter-into-long-term-oled-agreements/">Tianma and Universal Display Corporation Enter into Long-Term OLED Agreements</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
