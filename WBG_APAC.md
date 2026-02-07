@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-07 22:40 UTC_
+_Last updated: 2026-02-07 23:43 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
