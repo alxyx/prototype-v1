@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-09 16:10 UTC_
+_Last updated: 2026-02-09 19:29 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -911,14 +911,6 @@ _Last updated: 2026-02-09 16:10 UTC_
 
 <p>Learn how high-performance capacitors address high-frequency, high-temperature challenges in GaN and SiC power system design. </p>
 <p>The post <a href="https://www.eetimes.com/how-to-select-high-performance-capacitors-for-gan-and-sic-power-systems/">How to Select High-Performance Capacitors for GaN and SiC Power Systems </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Why Now Is the Right Time for Semiconductor Fabs in Germany](https://www.eetimes.com/why-now-is-the-right-time-for-semiconductor-fabs-in-germany/)
-**Published:** Thu, 05 Feb 2026 09:30:00 +0000
-
-<p>Relocating the semiconductor industry back to Europe, and specifically to Germany, requires a long-term commitment.</p>
-<p>The post <a href="https://www.eetimes.com/why-now-is-the-right-time-for-semiconductor-fabs-in-germany/">Why Now Is the Right Time for Semiconductor Fabs in Germany</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
