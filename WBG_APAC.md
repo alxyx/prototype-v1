@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-09 11:58 UTC_
+_Last updated: 2026-02-09 13:24 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-02-09 11:58 UTC_
 
 ---
 
+## [An Analysis of the Longevity of Modern EV Batteries](https://www.powerelectronicsnews.com/an-analysis-of-the-longevity-of-modern-ev-batteries/)
+**Published:** Mon, 09 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="686" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/image_e5b39b.png?fit=1219%2C686" style="display: block; margin-bottom: 5px; clear: both;" width="1219" /><p>Real-world fast-charging data suggests that long-term charging habits matter more than occasional excursions to 100% or near-empty levels.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/an-analysis-of-the-longevity-of-modern-ev-batteries/">An Analysis of the Longevity of Modern EV Batteries </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Toshiba Samples TB9104FTG Gate Driver](https://www.powerelectronicsnews.com/toshiba-samples-tb9104ftg-gate-driver/)
 **Published:** Fri, 06 Feb 2026 17:00:00 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2026-02-09 11:58 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2304" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1622459631.jpeg?fit=4224%2C2304" style="display: block; margin-bottom: 5px; clear: both;" width="4224" /><p>Addressing the processing challenges for GaN-on-Si and comparing device architectures for different voltage applications. </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-2/">A guide to GaN-on-Si, Part 2</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [EPC Starts Volume Production of Gen7 EPC2366 eGaN FET](https://www.powerelectronicsnews.com/epc-starts-volume-production-of-gen7-epc2366-egan-fet/)
-**Published:** Wed, 04 Feb 2026 18:48:13 +0000
-
-<img alt="EPC Starts Volume Production of Gen 7 EPC2366 eGaN FET." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/EPC2366-PR-2-333-250-p-L-97.png?fit=333%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="333" /><p>The Gen7 EPC2366 eGaN power transistor offers up to 3x performance over silicon MOSFETs for high-efficiency power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/epc-starts-volume-production-of-gen7-epc2366-egan-fet/">EPC Starts Volume Production of Gen7 EPC2366 eGaN FET</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
