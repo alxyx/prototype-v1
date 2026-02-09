@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-09 05:15 UTC_
+_Last updated: 2026-02-09 07:19 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -930,19 +930,11 @@ _Last updated: 2026-02-09 05:15 UTC_
 
 ---
 
-## [Singapore lab replaces interposer copper with micro LEDs](https://www.electronicsweekly.com/news/business/singapore-lab-replaces-interposer-copper-with-optical-fibre-2026-02/)
-**Published:** Fri, 06 Feb 2026 09:44:05 +0000
+## [2025 semi sales up 25.6% YoY](https://www.electronicsweekly.com/news/business/2025-semi-sales-up-25-6-yoy-2026-02/)
+**Published:** Mon, 09 Feb 2026 06:26:26 +0000
 
-<p>Replacing copper in semiconductor packaging with microLED optical links increases data rates and speed while resolving the issues of heat generation encountered by more traditional designs. Singapore’s NSC (New Silicon ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/singapore-lab-replaces-interposer-copper-with-optical-fibre-2026-02/">Singapore lab replaces interposer copper with micro LEDs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [RF GaN on 11% CAGR to hit $2.4bn in 2031](https://www.electronicsweekly.com/news/business/rf-gan-on-11-cagr-to-hit-2-4bn-in-2031-2026-02/)
-**Published:** Fri, 06 Feb 2026 06:12:27 +0000
-
-<p>RF GaN is on a strong growth trajectory, says Yole, with the  market expected to reach ~$2.4 billion by 2031. Defence is the main growth engine, heading toward ~$1 billion ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/rf-gan-on-11-cagr-to-hit-2-4bn-in-2031-2026-02/">RF GaN on 11% CAGR to hit $2.4bn in 2031</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>2025 semiconductor sales grew 25.6% to reach $791.7 billion compared to the 2024 total of $630.5 billion, says the SIA. Q4 sales were up 37.1% YoY and 13.5% QoQ  at ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/2025-semi-sales-up-25-6-yoy-2026-02/">2025 semi sales up 25.6% YoY</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
