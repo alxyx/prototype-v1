@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-09 07:19 UTC_
+_Last updated: 2026-02-09 09:08 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -919,14 +919,6 @@ _Last updated: 2026-02-09 07:19 UTC_
 
 <p>Relocating the semiconductor industry back to Europe, and specifically to Germany, requires a long-term commitment.</p>
 <p>The post <a href="https://www.eetimes.com/why-now-is-the-right-time-for-semiconductor-fabs-in-germany/">Why Now Is the Right Time for Semiconductor Fabs in Germany</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Positron’s $230M Funding Led By Financial Trading Firms](https://www.eetimes.com/positron-230-million-funding-led-by-financial-trading-firms/)
-**Published:** Wed, 04 Feb 2026 13:00:00 +0000
-
-<p>FPGA and ASIC AI startup becomes a unicorn after 34 months.</p>
-<p>The post <a href="https://www.eetimes.com/positron-230-million-funding-led-by-financial-trading-firms/">Positron’s $230M Funding Led By Financial Trading Firms</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
