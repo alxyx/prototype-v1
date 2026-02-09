@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-09 21:53 UTC_
+_Last updated: 2026-02-09 22:50 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-02-09 21:53 UTC_
 
 <p>Lam Research has appointed Cadence CEO and semiconductor industry leader Anirudh Devgan to its board of directors.</p>
 <p>The post <a href="https://www.eetasia.com/cadences-anirudh-devgan-appointed-to-lam-research-bod/">Cadence&#8217;s Anirudh Devgan Appointed to Lam Research BOD</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Monolithic Power Systems Announces CFO Transition](https://www.semiconductor-digest.com/monolithic-power-systems-announces-cfo-transition/?utm_source=rss&utm_medium=rss&utm_campaign=monolithic-power-systems-announces-cfo-transition)
+**Published:** Mon, 09 Feb 2026 22:27:28 +0000
+
+<p>Monolithic Power Systems, Inc., a fabless global company that provides high-performance, semiconductor-based power electronics solutions, today announced that Bernie Blegen will retire from his position as Executive Vice President and CFO.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/monolithic-power-systems-announces-cfo-transition/">Monolithic Power Systems Announces CFO Transition</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Tower Semiconductor Teams with NVIDIA to Advance AI Infrastructure](https://www.semiconductor-digest.com/tower-semiconductor-teams-with-nvidia-to-advance-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-teams-with-nvidia-to-advance-ai-infrastructure)
+**Published:** Mon, 09 Feb 2026 22:22:50 +0000
+
+<p>Tower Semiconductor today announced it is scaling AI infrastructure deployments with high performance silicon photonics for 1.6T data center optical modules designed for NVIDIA networking protocols.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-teams-with-nvidia-to-advance-ai-infrastructure/">Tower Semiconductor Teams with NVIDIA to Advance AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [How Ultra-Thin Metal Films Learned to Follow the Curve](https://www.semiconductor-digest.com/how-ultra-thin-metal-films-learned-to-follow-the-curve/?utm_source=rss&utm_medium=rss&utm_campaign=how-ultra-thin-metal-films-learned-to-follow-the-curve)
+**Published:** Mon, 09 Feb 2026 22:14:18 +0000
+
+<p>From curved displays to smart glasses, many next-generation optoelectronic devices are moving beyond flat surfaces. But one key component has struggled to follow: transparent conducting films.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/how-ultra-thin-metal-films-learned-to-follow-the-curve/">How Ultra-Thin Metal Films Learned to Follow the Curve</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [IBM Opens Global RFP for AI-Driven Solutions](https://www.semiconductor-digest.com/ibm-opens-global-rfp-for-ai-driven-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-opens-global-rfp-for-ai-driven-solutions)
+**Published:** Mon, 09 Feb 2026 22:10:53 +0000
+
+<p>IBM announced a global request for proposals (RFP) for the next cohort of the IBM Impact Accelerator focused on AI for transformative education and workforce development.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ibm-opens-global-rfp-for-ai-driven-solutions/">IBM Opens Global RFP for AI-Driven Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,38 +823,6 @@ _Last updated: 2026-02-09 21:53 UTC_
 
 <p>Researchers at Princeton and North Carolina State University have developed a technique that substantially improves the ability to convert low-energy light into a high-energy version.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/optics-research-uses-dim-light-to-produce-bright-leds/">Optics Research Uses Dim Light to Produce Bright LEDs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GSME Secures $35M Series B Funding](https://www.semiconductor-digest.com/gsme-secures-35m-series-b-funding/?utm_source=rss&utm_medium=rss&utm_campaign=gsme-secures-35m-series-b-funding)
-**Published:** Wed, 07 Jan 2026 22:53:45 +0000
-
-<p>GS Microelectronics U.S., Inc. (GSME) today announced a $35 million Series B round led by Maverick Silicon to expand its semiconductor services platform across advanced packaging, design enablement, and supply chain visibility.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/gsme-secures-35m-series-b-funding/">GSME Secures $35M Series B Funding</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AECO Corp. Announces Promotion of Maryann Remner to President](https://www.semiconductor-digest.com/aeco-corp-announces-promotion-of-maryann-remner-to-president/?utm_source=rss&utm_medium=rss&utm_campaign=aeco-corp-announces-promotion-of-maryann-remner-to-president)
-**Published:** Wed, 07 Jan 2026 22:25:58 +0000
-
-<p>AECO Corp. announced the promotion of Maryann Remner to President, effective immediately.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/aeco-corp-announces-promotion-of-maryann-remner-to-president/">AECO Corp. Announces Promotion of Maryann Remner to President</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Industry Strategy Symposium 2026 Gathers Executives to Analyze Semiconductor Industry Challenges and Opportunities](https://www.semiconductor-digest.com/semi-industry-strategy-symposium-2026-gathers-executives-to-analyze-semiconductor-industry-challenges-and-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=semi-industry-strategy-symposium-2026-gathers-executives-to-analyze-semiconductor-industry-challenges-and-opportunities)
-**Published:** Wed, 07 Jan 2026 22:17:13 +0000
-
-<p>SEMI, the industry association serving the global semiconductor and electronics design and manufacturing supply chain, will hold its annual Industry Strategy Symposium (ISS) on Sunday, January 11 through Wednesday, January 14 at the Ritz-Carlton Hotel in Half Moon Bay, Calif.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-industry-strategy-symposium-2026-gathers-executives-to-analyze-semiconductor-industry-challenges-and-opportunities/">SEMI Industry Strategy Symposium 2026 Gathers Executives to Analyze Semiconductor Industry Challenges and Opportunities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Cadence Launches Partner Ecosystem to Accelerate Chiplet Time to Market](https://www.semiconductor-digest.com/cadence-launches-partner-ecosystem-to-accelerate-chiplet-time-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-launches-partner-ecosystem-to-accelerate-chiplet-time-to-market)
-**Published:** Tue, 06 Jan 2026 22:17:25 +0000
-
-<p>Strategic collaborations with Samsung Foundry, Arm and others enable Cadence to deliver pre-validated chiplet solutions based on the Cadence Physical AI chiplet platform.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cadence-launches-partner-ecosystem-to-accelerate-chiplet-time-to-market/">Cadence Launches Partner Ecosystem to Accelerate Chiplet Time to Market</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
