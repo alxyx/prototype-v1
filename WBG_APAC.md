@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-09 20:53 UTC_
+_Last updated: 2026-02-09 21:53 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-02-09 20:53 UTC_
 
 ---
 
+## [Inside 2025’s SiC Power Module Innovations, Part 1](https://www.powerelectronicsnews.com/inside-2025s-sic-power-module-innovations-part-1/)
+**Published:** Mon, 09 Feb 2026 21:10:31 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_1388847533-1.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>Editor’s Note: This two-part series covers 11 different power module releases in 2025. The article is split for readability, with Part 2 continuing the manufacturer...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/inside-2025s-sic-power-module-innovations-part-1/">Inside 2025’s SiC Power Module Innovations, Part 1</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [An Analysis of the Longevity of Modern EV Batteries](https://www.powerelectronicsnews.com/an-analysis-of-the-longevity-of-modern-ev-batteries/)
 **Published:** Mon, 09 Feb 2026 13:00:00 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2026-02-09 20:53 UTC_
 
 <img alt="Microchip Launches MCPF1525 Power Module for AI Data Centers." class="webfeedsFeaturedVisual wp-post-image" height="569" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Microchip_Power_Module.jpg?fit=1024%2C569" style="display: block; margin-bottom: 5px; clear: both;" width="1024" /><p>The newly introduced MCPF1525 is a compact, stackable power module delivering up to 200A for AI and high-performance data center applications.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/microchip-launches-mcpf1525-power-module-for-ai-data-centers/">Microchip Launches MCPF1525 Power Module for AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [A guide to GaN-on-Si, Part 2](https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-2/)
-**Published:** Thu, 05 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2304" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1622459631.jpeg?fit=4224%2C2304" style="display: block; margin-bottom: 5px; clear: both;" width="4224" /><p>Addressing the processing challenges for GaN-on-Si and comparing device architectures for different voltage applications. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/a-guide-to-gan-on-si-part-2/">A guide to GaN-on-Si, Part 2</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
