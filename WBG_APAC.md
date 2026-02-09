@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-09 15:06 UTC_
+_Last updated: 2026-02-09 16:10 UTC_
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -922,11 +922,11 @@ _Last updated: 2026-02-09 15:06 UTC_
 
 ---
 
-## [2025 semi sales up 25.6% YoY](https://www.electronicsweekly.com/news/business/2025-semi-sales-up-25-6-yoy-2026-02/)
+## [2025 semi sales up 25.6% y-o-y](https://www.electronicsweekly.com/news/business/2025-semi-sales-up-25-6-yoy-2026-02/)
 **Published:** Mon, 09 Feb 2026 06:26:26 +0000
 
-<p>2025 semiconductor sales grew 25.6% to reach $791.7 billion compared to the 2024 total of $630.5 billion, says the SIA. Q4 sales were up 37.1% YoY and 13.5% QoQ  at ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/2025-semi-sales-up-25-6-yoy-2026-02/">2025 semi sales up 25.6% YoY</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>2025 semiconductor sales grew 25.6% to reach $791.7bn compared to the 2024 total of $630.5bn, says the SIA. Q4 sales were up 37.1% y-o-y and 13.5% q-o-q  at $236.6bn. December ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/2025-semi-sales-up-25-6-yoy-2026-02/">2025 semi sales up 25.6% y-o-y</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
