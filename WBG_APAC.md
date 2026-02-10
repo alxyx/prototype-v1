@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-10 16:26 UTC_
+_Last updated: 2026-02-10 18:16 UTC_
 
 ## [Physical AI: Fueling the Next Wave of Semiconductor Growth](https://www.eetasia.com/physical-ai-fueling-the-next-wave-of-semiconductor-growth/)
 **Published:** Tue, 10 Feb 2026 01:38:33 +0000
@@ -911,14 +911,6 @@ _Last updated: 2026-02-10 16:26 UTC_
 
 <p>Vexlum, the Finnish manufacturer of semiconductor lasers, has raised €10m, consisting of €6m in equity funding from Kvantec, Tesi (Finnish Industry Investment Ltd) and the EIC Fund, plus a €2.4m ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/vexlum-raises-e10m-2026-02/">Vexlum raises €10m</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [2025 semi sales up 25.6% y-o-y](https://www.electronicsweekly.com/news/business/2025-semi-sales-up-25-6-yoy-2026-02/)
-**Published:** Mon, 09 Feb 2026 06:26:26 +0000
-
-<p>2025 semiconductor sales grew 25.6% to reach $791.7bn compared to the 2024 total of $630.5bn, says the SIA. Q4 sales were up 37.1% y-o-y and 13.5% q-o-q  at $236.6bn. December ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/2025-semi-sales-up-25-6-yoy-2026-02/">2025 semi sales up 25.6% y-o-y</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
