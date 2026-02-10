@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-10 13:28 UTC_
+_Last updated: 2026-02-10 15:12 UTC_
 
 ## [Physical AI: Fueling the Next Wave of Semiconductor Growth](https://www.eetasia.com/physical-ai-fueling-the-next-wave-of-semiconductor-growth/)
 **Published:** Tue, 10 Feb 2026 01:38:33 +0000
@@ -922,10 +922,10 @@ _Last updated: 2026-02-10 13:28 UTC_
 
 ---
 
-## [RISC-V And The Future Of Semiconductor Independence](https://www.electronicsforu.com/technology-trends/risc-v-and-the-future-of-semiconductor-independence)
-**Published:** Mon, 09 Feb 2026 12:14:30 +0000
+## [JOB: Engineer – Production (PCBA) At PCB Power In Gandhinagar](https://www.electronicsforu.com/career/engineer-production-pcba-pcb-power-gandhinagar)
+**Published:** Tue, 10 Feb 2026 08:56:52 +0000
 
-<img alt="RISC-V And The Future Of Semiconductor Independence" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/09/smart-microchip-background-motherboard-closeup-technology-remix-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Can countries truly secure their semiconductor future, which is not a mere component anymore? In this pursuit, RISC-V seems to be the turning point, returning technological control to national hands. How is it reshaping innovation, sovereignty, and global computing? Semiconductors are no longer just components; they are the backbone of national security, technological leadership, and [&#8230;]
+<img alt="JOB: Engineer - Production (PCBA) At PCB Power In Gandhinagar" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/pcb-e-black-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Gandhinagar Company: PCB Power Job Responsibilities Machine Operation: Operate, monitor, and maintain SMT line equipment (screen printers, pick-and-place, reflow ovens) to ensure efficient PCB production. Setup &#38; Changeover: Perform machine setup, changeovers, and component loading (feeders) according to work orders and bills of materials (BOM). Quality Control: Perform visual inspections and use [&#8230;]
 
 ---
 
