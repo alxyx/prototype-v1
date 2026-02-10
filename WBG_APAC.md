@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-10 05:18 UTC_
+_Last updated: 2026-02-10 07:18 UTC_
 
 ## [Physical AI: Fueling the Next Wave of Semiconductor Growth](https://www.eetasia.com/physical-ai-fueling-the-next-wave-of-semiconductor-growth/)
 **Published:** Tue, 10 Feb 2026 01:38:33 +0000
@@ -903,6 +903,14 @@ _Last updated: 2026-02-10 05:18 UTC_
 
 <img alt="Microchip Launches MCPF1525 Power Module for AI Data Centers." class="webfeedsFeaturedVisual wp-post-image" height="569" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Microchip_Power_Module.jpg?fit=1024%2C569" style="display: block; margin-bottom: 5px; clear: both;" width="1024" /><p>The newly introduced MCPF1525 is a compact, stackable power module delivering up to 200A for AI and high-performance data center applications.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/microchip-launches-mcpf1525-power-module-for-ai-data-centers/">Microchip Launches MCPF1525 Power Module for AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Vexlum raises €10m](https://www.electronicsweekly.com/news/business/vexlum-raises-e10m-2026-02/)
+**Published:** Tue, 10 Feb 2026 06:18:42 +0000
+
+<p>Vexlum, the Finnish manufacturer of semiconductor lasers, has raised €10 million consisting of €6 million in equity funding from Kvantec, Tesi (Finnish Industry Investment Ltd) and the EIC Fund plus ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/vexlum-raises-e10m-2026-02/">Vexlum raises €10m</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
