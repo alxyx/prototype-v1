@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-10 07:18 UTC_
+_Last updated: 2026-02-10 09:10 UTC_
 
 ## [Physical AI: Fueling the Next Wave of Semiconductor Growth](https://www.eetasia.com/physical-ai-fueling-the-next-wave-of-semiconductor-growth/)
 **Published:** Tue, 10 Feb 2026 01:38:33 +0000
@@ -10,11 +10,11 @@ _Last updated: 2026-02-10 07:18 UTC_
 
 ---
 
-## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
+## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/embeddednews-2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
 
 <p>AI will move beyond screens and software and become more deeply embedded in the physical world.</p>
-<p>The post <a href="https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/">2026 Tech Predictions: When AI Gets Physical</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The post <a href="https://www.eetasia.com/embeddednews-2026-tech-predictions-when-ai-gets-physical/">2026 Tech Predictions: When AI Gets Physical</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
