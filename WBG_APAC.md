@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-09 23:52 UTC_
+_Last updated: 2026-02-10 02:43 UTC_
+
+## [Physical AI: Fueling the Next Wave of Semiconductor Growth](https://www.eetasia.com/physical-ai-fueling-the-next-wave-of-semiconductor-growth/)
+**Published:** Tue, 10 Feb 2026 01:38:33 +0000
+
+<p>Future edge AI advances will accelerate embodied intelligence, humanoid robots, heterogeneous SoCs, and real-time sensing.</p>
+<p>The post <a href="https://www.eetasia.com/physical-ai-fueling-the-next-wave-of-semiconductor-growth/">Physical AI: Fueling the Next Wave of Semiconductor Growth</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/2026-tech-predictions-when-ai-gets-physical/)
 **Published:** Fri, 06 Feb 2026 09:29:17 +0000
@@ -15,14 +23,6 @@ _Last updated: 2026-02-09 23:52 UTC_
 
 <p>True innovation in the year to come boils down to the semiconductor industry's ability to solve the looming crisis around data movement.</p>
 <p>The post <a href="https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/">The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Cadence’s Anirudh Devgan Appointed to Lam Research BOD](https://www.eetasia.com/cadences-anirudh-devgan-appointed-to-lam-research-bod/)
-**Published:** Wed, 04 Feb 2026 23:17:12 +0000
-
-<p>Lam Research has appointed Cadence CEO and semiconductor industry leader Anirudh Devgan to its board of directors.</p>
-<p>The post <a href="https://www.eetasia.com/cadences-anirudh-devgan-appointed-to-lam-research-bod/">Cadence&#8217;s Anirudh Devgan Appointed to Lam Research BOD</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -903,14 +903,6 @@ _Last updated: 2026-02-09 23:52 UTC_
 
 <img alt="Microchip Launches MCPF1525 Power Module for AI Data Centers." class="webfeedsFeaturedVisual wp-post-image" height="569" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Microchip_Power_Module.jpg?fit=1024%2C569" style="display: block; margin-bottom: 5px; clear: both;" width="1024" /><p>The newly introduced MCPF1525 is a compact, stackable power module delivering up to 200A for AI and high-performance data center applications.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/microchip-launches-mcpf1525-power-module-for-ai-data-centers/">Microchip Launches MCPF1525 Power Module for AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [How to Select High-Performance Capacitors for GaN and SiC Power Systems](https://www.eetimes.com/how-to-select-high-performance-capacitors-for-gan-and-sic-power-systems/)
-**Published:** Thu, 05 Feb 2026 14:00:00 +0000
-
-<p>Learn how high-performance capacitors address high-frequency, high-temperature challenges in GaN and SiC power system design. </p>
-<p>The post <a href="https://www.eetimes.com/how-to-select-high-performance-capacitors-for-gan-and-sic-power-systems/">How to Select High-Performance Capacitors for GaN and SiC Power Systems </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
