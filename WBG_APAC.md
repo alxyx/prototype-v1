@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-10 18:16 UTC_
+_Last updated: 2026-02-10 20:15 UTC_
 
 ## [Physical AI: Fueling the Next Wave of Semiconductor Growth](https://www.eetasia.com/physical-ai-fueling-the-next-wave-of-semiconductor-growth/)
 **Published:** Tue, 10 Feb 2026 01:38:33 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-02-10 18:16 UTC_
 
 <p>True innovation in the year to come boils down to the semiconductor industry's ability to solve the looming crisis around data movement.</p>
 <p>The post <a href="https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/">The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Keysight Enables Enterprise-Scale AI Adoption in Semiconductor Design with SOS Enterprise](https://www.semiconductor-digest.com/keysight-enables-enterprise-scale-ai-adoption-in-semiconductor-design-with-sos-enterprise/?utm_source=rss&utm_medium=rss&utm_campaign=keysight-enables-enterprise-scale-ai-adoption-in-semiconductor-design-with-sos-enterprise)
+**Published:** Tue, 10 Feb 2026 19:40:50 +0000
+
+<p>Software automates engineering data governance and traceability across distributed organizations to accelerate AI integration.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/keysight-enables-enterprise-scale-ai-adoption-in-semiconductor-design-with-sos-enterprise/">Keysight Enables Enterprise-Scale AI Adoption in Semiconductor Design with SOS Enterprise</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Cadence Unleashes ChipStack AI Super Agent](https://www.semiconductor-digest.com/cadence-unleashes-chipstack-ai-super-agent/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-unleashes-chipstack-ai-super-agent)
+**Published:** Tue, 10 Feb 2026 19:36:22 +0000
+
+<p>Cadence today announced a transformative step forward in redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent—an agentic AI solution for front-end silicon design and verification.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cadence-unleashes-chipstack-ai-super-agent/">Cadence Unleashes ChipStack AI Super Agent</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Empower Introduces High-Density Embedded Silicon Capacitors to Advance Next-Generation AI and HPC Performance](https://www.semiconductor-digest.com/empower-introduces-high-density-embedded-silicon-capacitors-to-advance-next-generation-ai-and-hpc-performance/?utm_source=rss&utm_medium=rss&utm_campaign=empower-introduces-high-density-embedded-silicon-capacitors-to-advance-next-generation-ai-and-hpc-performance)
+**Published:** Tue, 10 Feb 2026 19:30:52 +0000
+
+<p>Empower Semiconductor will present the latest power delivery network–optimization strategies at Chiplet Summit and DesignCon 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/empower-introduces-high-density-embedded-silicon-capacitors-to-advance-next-generation-ai-and-hpc-performance/">Empower Introduces High-Density Embedded Silicon Capacitors to Advance Next-Generation AI and HPC Performance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Reports 2025 Annual Worldwide Silicon Wafer Shipments and Revenue Results](https://www.semiconductor-digest.com/semi-reports-2025-annual-worldwide-silicon-wafer-shipments-and-revenue-results/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-2025-annual-worldwide-silicon-wafer-shipments-and-revenue-results)
+**Published:** Tue, 10 Feb 2026 19:24:54 +0000
+
+<p>Worldwide silicon wafer shipments in 2025 increased 5.8% to 12,973 million square inches (MSI) while wafer revenue slipped 1.2% to $11.4 billion over the same period.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-2025-annual-worldwide-silicon-wafer-shipments-and-revenue-results/">SEMI Reports 2025 Annual Worldwide Silicon Wafer Shipments and Revenue Results</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,35 +826,11 @@ _Last updated: 2026-02-10 18:16 UTC_
 
 ---
 
-## [Micron Announces Groundbreaking for Historic New York Megafab](https://www.semiconductor-digest.com/micron-announces-groundbreaking-for-historic-new-york-megafab/?utm_source=rss&utm_medium=rss&utm_campaign=micron-announces-groundbreaking-for-historic-new-york-megafab)
-**Published:** Thu, 08 Jan 2026 22:26:32 +0000
+## [Navitas Introduces All-GaN DC-DC Platform for 800V Data Centers](https://www.powerelectronicsnews.com/navitas-introduces-all-gan-dc-dc-platform-for-800v-data-centers/)
+**Published:** Tue, 10 Feb 2026 18:18:56 +0000
 
-<p>Marking the start of construction on the largest semiconductor manufacturing facility in U.S. history, Micron executives to join federal, state and local leaders to celebrate the $100 billion project in Central New York.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-announces-groundbreaking-for-historic-new-york-megafab/">Micron Announces Groundbreaking for Historic New York Megafab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEEQC Establishes US-Taiwan Quantum Technology Ecosystem Through Strategic Partnerships in Advanced Electronics and Semiconductor Manufacturing  Share](https://www.semiconductor-digest.com/seeqc-establishes-us-taiwan-quantum-technology-ecosystem-through-strategic-partnerships-in-advanced-electronics-and-semiconductor-manufacturing-share/?utm_source=rss&utm_medium=rss&utm_campaign=seeqc-establishes-us-taiwan-quantum-technology-ecosystem-through-strategic-partnerships-in-advanced-electronics-and-semiconductor-manufacturing-share)
-**Published:** Thu, 08 Jan 2026 22:04:37 +0000
-
-<p>SEEQC today announced a new US-Taiwan quantum technology ecosystem that brings together leading semiconductor, electronics, and academic partners to accelerate the commercialization of its Single Flux Quantum (SFQ)-based quantum computing platform.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/seeqc-establishes-us-taiwan-quantum-technology-ecosystem-through-strategic-partnerships-in-advanced-electronics-and-semiconductor-manufacturing-share/">SEEQC Establishes US-Taiwan Quantum Technology Ecosystem Through Strategic Partnerships in Advanced Electronics and Semiconductor Manufacturing  Share</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Greene Tweed Highlights Dedicated PFAS-Free Product Portfolio for the Evolving Fluoropolymers Landscape](https://www.semiconductor-digest.com/greene-tweed-highlights-dedicated-pfas-free-product-portfolio-for-the-evolving-fluoropolymers-landscape/?utm_source=rss&utm_medium=rss&utm_campaign=greene-tweed-highlights-dedicated-pfas-free-product-portfolio-for-the-evolving-fluoropolymers-landscape)
-**Published:** Thu, 08 Jan 2026 21:17:36 +0000
-
-<p>This expanding portfolio reinforces Greene Tweed’s commitment to its role as a material innovator and trusted partner in helping customers navigate the use of PFAS-free products.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/greene-tweed-highlights-dedicated-pfas-free-product-portfolio-for-the-evolving-fluoropolymers-landscape/">Greene Tweed Highlights Dedicated PFAS-Free Product Portfolio for the Evolving Fluoropolymers Landscape</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Optics Research Uses Dim Light to Produce Bright LEDs](https://www.semiconductor-digest.com/optics-research-uses-dim-light-to-produce-bright-leds/?utm_source=rss&utm_medium=rss&utm_campaign=optics-research-uses-dim-light-to-produce-bright-leds)
-**Published:** Wed, 07 Jan 2026 22:58:41 +0000
-
-<p>Researchers at Princeton and North Carolina State University have developed a technique that substantially improves the ability to convert low-energy light into a high-energy version.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/optics-research-uses-dim-light-to-produce-bright-leds/">Optics Research Uses Dim Light to Produce Bright LEDs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Navitas Introduces 10 kW All-GaN DC-DC Platform for 800 V Data Center Architectures." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Navitas_PR.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>All-GaN DC-DC platform supports 800 V and ±400 V architectures, delivering up to 98.5% efficiency for AI data center power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/navitas-introduces-all-gan-dc-dc-platform-for-800v-data-centers/">Navitas Introduces All-GaN DC-DC Platform for 800V Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -895,14 +903,6 @@ _Last updated: 2026-02-10 18:16 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1887" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Vehicule-militaire_gaia_converter.jpg?fit=3000%2C1887" style="display: block; margin-bottom: 5px; clear: both;" width="3000" /><p>From aerial systems to underwater vehicles, the next generation of autonomous platforms relies on advanced power solutions.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/reliable-power-for-autonomous-defense-vehicles/">Reliable Power for Autonomous Defense Vehicles</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wolfspeed Introduces TOLT Package Portfolio](https://www.powerelectronicsnews.com/wolfspeed-introduces-tolt-package-portfolio/)
-**Published:** Fri, 06 Feb 2026 13:00:00 +0000
-
-<img alt="Wolfspeed Introduces TOLT Package Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Wolfspeed_power_TOLT_package_web.png?fit=500%2C500" style="display: block; margin-bottom: 5px; clear: both;" width="500" /><p>The TOLT package portfolio is designed to improve power density and thermal performance in AI and hyperscale datacenter power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-introduces-tolt-package-portfolio/">Wolfspeed Introduces TOLT Package Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
