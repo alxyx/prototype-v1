@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-11 20:53 UTC_
+_Last updated: 2026-02-11 21:47 UTC_
 
 ## [Cadence Pioneers New Frontier in Chip Design and Verification](https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/)
 **Published:** Wed, 11 Feb 2026 03:10:19 +0000
@@ -15,6 +15,38 @@ _Last updated: 2026-02-11 20:53 UTC_
 
 <p>GaN technology is increasingly positioning itself as a viable replacement for silicon in modern power conversion systems.</p>
 <p>The post <a href="https://www.eetasia.com/gans-technological-superiority-how-epc-is-winning-against-mosfets-in-power-conversion/">GaN&#8217;s Technological Superiority: How EPC is Winning Against MOSFETs in Power Conversion</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Marvell Completes Acquisition of XConn Technologies](https://www.semiconductor-digest.com/marvell-completes-acquisition-of-xconn-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=marvell-completes-acquisition-of-xconn-technologies)
+**Published:** Wed, 11 Feb 2026 21:28:13 +0000
+
+<p>Marvell Technology, Inc. today announced that it has completed its previously announced acquisition of XConn Technologies, a provider of advanced PCIe and CXL switching silicon.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/marvell-completes-acquisition-of-xconn-technologies/">Marvell Completes Acquisition of XConn Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AI and Process Integration: Charting the Future of Polymer Composite Manufacturing](https://www.semiconductor-digest.com/ai-and-process-integration-charting-the-future-of-polymer-composite-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-process-integration-charting-the-future-of-polymer-composite-manufacturing)
+**Published:** Wed, 11 Feb 2026 21:20:15 +0000
+
+<p>Lightweight, high-strength polymer composites are essential to modern engineering. Yet their manufacturing remains complex, slow, and often reliant on manual adjustments.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ai-and-process-integration-charting-the-future-of-polymer-composite-manufacturing/">AI and Process Integration: Charting the Future of Polymer Composite Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [New Biosensor Technology Could Improve Glucose Monitoring](https://www.semiconductor-digest.com/new-biosensor-technology-could-improve-glucose-monitoring/?utm_source=rss&utm_medium=rss&utm_campaign=new-biosensor-technology-could-improve-glucose-monitoring)
+**Published:** Wed, 11 Feb 2026 21:16:25 +0000
+
+<p>A wearable biosensor developed by Washington State University researchers could improve wireless glucose monitoring for people with diabetes, making it more cost-effective, accurate, and less invasive than current models.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-biosensor-technology-could-improve-glucose-monitoring/">New Biosensor Technology Could Improve Glucose Monitoring</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Omdia: Accelerating Depreciation of OLED and LCD Manufacturing Capacity Set to Improve FPD Profitability](https://www.semiconductor-digest.com/omdia-accelerating-depreciation-of-oled-and-lcd-manufacturing-capacity-set-to-improve-fpd-profitability/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-accelerating-depreciation-of-oled-and-lcd-manufacturing-capacity-set-to-improve-fpd-profitability)
+**Published:** Wed, 11 Feb 2026 21:11:29 +0000
+
+<p>According to the latest display industry research from Omdia, the depreciation of flat panel display (FPD) manufacturing equipment is accelerating, easing cost pressures on OLED and LCD panel manufacturers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-accelerating-depreciation-of-oled-and-lcd-manufacturing-capacity-set-to-improve-fpd-profitability/">Omdia: Accelerating Depreciation of OLED and LCD Manufacturing Capacity Set to Improve FPD Profitability</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,38 +815,6 @@ _Last updated: 2026-02-11 20:53 UTC_
 
 <p>Duke engineers publish new method to use analog radio waves to boost energy-efficient edge AI.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/using-the-physics-of-radio-waves-to-empower-smarter-edge-devices/">Using the Physics of Radio Waves to Empower Smarter Edge Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Illinois Tech Researcher Finds Where Lithium Ions Reside in New Solid-State Electrolyte That Could Lead to Improved Batteries](https://www.semiconductor-digest.com/illinois-tech-researcher-finds-where-lithium-ions-reside-in-new-solid-state-electrolyte-that-could-lead-to-improved-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=illinois-tech-researcher-finds-where-lithium-ions-reside-in-new-solid-state-electrolyte-that-could-lead-to-improved-batteries)
-**Published:** Fri, 09 Jan 2026 23:33:27 +0000
-
-<p>Research Professor of Chemistry James Kaduk co-authored a paper in Science that details a material with high ionic conductivity—even at low temperatures—which could prove crucial in developing next generation of lithium batteries.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/illinois-tech-researcher-finds-where-lithium-ions-reside-in-new-solid-state-electrolyte-that-could-lead-to-improved-batteries/">Illinois Tech Researcher Finds Where Lithium Ions Reside in New Solid-State Electrolyte That Could Lead to Improved Batteries</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Soitec Appoints Laurent Remont CEO, Effective April 2026](https://www.semiconductor-digest.com/soitec-appoints-laurent-remont-ceo-effective-april-2026/?utm_source=rss&utm_medium=rss&utm_campaign=soitec-appoints-laurent-remont-ceo-effective-april-2026)
-**Published:** Fri, 09 Jan 2026 23:27:17 +0000
-
-<p>Soitec announces that its Board of Directors has appointed Laurent Rémont as Chief Executive Officer, effective April 1, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/soitec-appoints-laurent-remont-ceo-effective-april-2026/">Soitec Appoints Laurent Remont CEO, Effective April 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Si2’s OpenAccess Coalition Announces 2026 Board of Directors](https://www.semiconductor-digest.com/si2s-openaccess-coalition-announces-2026-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=si2s-openaccess-coalition-announces-2026-board-of-directors)
-**Published:** Fri, 09 Jan 2026 23:20:20 +0000
-
-<p>The OpenAccess Coalition is pleased to announce its 2026 Board of Directors, now representing 16 member companies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/si2s-openaccess-coalition-announces-2026-board-of-directors/">Si2’s OpenAccess Coalition Announces 2026 Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [2026 Outlook: Executive Viewpoints](https://www.semiconductor-digest.com/2026-outlook-executive-viewpoints/?utm_source=rss&utm_medium=rss&utm_campaign=2026-outlook-executive-viewpoints)
-**Published:** Fri, 09 Jan 2026 15:53:57 +0000
-
-<p>Each year, Semiconductor Digest turns to industry leaders and analysts to get their viewpoints on what they expect to see in the coming year in terms of critical tech and business trends. Hot topics continue to be artificial intelligence, cloud computing, energy efficiency, the supply chain, increased use of compound semiconductors, advanced packaging, 3D integration, chiplets and sustainability. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/2026-outlook-executive-viewpoints/">2026 Outlook: Executive Viewpoints</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
