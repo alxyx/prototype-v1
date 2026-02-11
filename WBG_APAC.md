@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-11 10:08 UTC_
+_Last updated: 2026-02-11 11:05 UTC_
 
 ## [Cadence Pioneers New Frontier in Chip Design and Verification](https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/)
 **Published:** Wed, 11 Feb 2026 03:10:19 +0000
@@ -895,14 +895,6 @@ _Last updated: 2026-02-11 10:08 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1887" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Vehicule-militaire_gaia_converter.jpg?fit=3000%2C1887" style="display: block; margin-bottom: 5px; clear: both;" width="3000" /><p>From aerial systems to underwater vehicles, the next generation of autonomous platforms relies on advanced power solutions.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/reliable-power-for-autonomous-defense-vehicles/">Reliable Power for Autonomous Defense Vehicles</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Vexlum raises €10m](https://www.electronicsweekly.com/news/business/vexlum-raises-e10m-2026-02/)
-**Published:** Tue, 10 Feb 2026 06:18:42 +0000
-
-<p>Vexlum, the Finnish manufacturer of semiconductor lasers, has raised €10m, consisting of €6m in equity funding from Kvantec, Tesi (Finnish Industry Investment Ltd) and the EIC Fund, plus a €2.4m ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/vexlum-raises-e10m-2026-02/">Vexlum raises €10m</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
