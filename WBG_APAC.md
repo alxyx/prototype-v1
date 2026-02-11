@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-11 11:59 UTC_
+_Last updated: 2026-02-11 13:25 UTC_
 
 ## [Cadence Pioneers New Frontier in Chip Design and Verification](https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/)
 **Published:** Wed, 11 Feb 2026 03:10:19 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-11 11:59 UTC_
 
 ---
 
+## [Power Electronics Course with QSPICE (Episode 03): The Concept of Efficiency](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-03-the-concept-of-efficiency/)
+**Published:** Wed, 11 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>Efficiency is not just a performance indicator but serious constraint that impacts reliability, thermal design, power density, and cost.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-03-the-concept-of-efficiency/">Power Electronics Course with QSPICE (Episode 03): The Concept of Efficiency</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Navitas Introduces All-GaN DC-DC Platform for 800V Data Centers](https://www.powerelectronicsnews.com/navitas-introduces-all-gan-dc-dc-platform-for-800v-data-centers/)
 **Published:** Tue, 10 Feb 2026 18:18:56 +0000
 
@@ -890,11 +898,19 @@ _Last updated: 2026-02-11 11:59 UTC_
 
 ---
 
-## [Reliable Power for Autonomous Defense Vehicles](https://www.powerelectronicsnews.com/reliable-power-for-autonomous-defense-vehicles/)
-**Published:** Fri, 06 Feb 2026 13:00:00 +0000
+## [Lam Research, CEA-Leti Open Fast Lane for Specialty Technologies](https://www.eetimes.com/lam-research-cea-leti-open-fast-lane-for-specialty-technologies/)
+**Published:** Wed, 11 Feb 2026 13:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1887" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Vehicule-militaire_gaia_converter.jpg?fit=3000%2C1887" style="display: block; margin-bottom: 5px; clear: both;" width="3000" /><p>From aerial systems to underwater vehicles, the next generation of autonomous platforms relies on advanced power solutions.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/reliable-power-for-autonomous-defense-vehicles/">Reliable Power for Autonomous Defense Vehicles</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Lam Research and CEA-Leti team up to speed specialty semiconductor innovation.</p>
+<p>The post <a href="https://www.eetimes.com/lam-research-cea-leti-open-fast-lane-for-specialty-technologies/">Lam Research, CEA-Leti Open Fast Lane for Specialty Technologies</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [EPC licenses eGaN technology to Renesas](https://www.electronicsweekly.com/news/business/epc-licenses-egan-technology-to-renesas-2026-02/)
+**Published:** Wed, 11 Feb 2026 12:12:13 +0000
+
+<p>Efficient Power Conversion (EPC), the enhancement-mode gallium nitride (eGaN) power devices specialist, has licensed its eGaN technology to Renesas. Under the agreement, Renesas will gain access to EPC’s  eGaN technology ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/epc-licenses-egan-technology-to-renesas-2026-02/">EPC licenses eGaN technology to Renesas</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
