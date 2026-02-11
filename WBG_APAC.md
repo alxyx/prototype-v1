@@ -1,20 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-11 02:39 UTC_
+_Last updated: 2026-02-11 05:17 UTC_
+
+## [Cadence Pioneers New Frontier in Chip Design and Verification](https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/)
+**Published:** Wed, 11 Feb 2026 03:10:19 +0000
+
+<p>Cadence is redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent.</p>
+<p>The post <a href="https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/">Cadence Pioneers New Frontier in Chip Design and Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [GaN’s Technological Superiority: How EPC is Winning Against MOSFETs in Power Conversion](https://www.eetasia.com/gans-technological-superiority-how-epc-is-winning-against-mosfets-in-power-conversion/)
 **Published:** Wed, 11 Feb 2026 02:04:32 +0000
 
 <p>GaN technology is increasingly positioning itself as a viable replacement for silicon in modern power conversion systems.</p>
 <p>The post <a href="https://www.eetasia.com/gans-technological-superiority-how-epc-is-winning-against-mosfets-in-power-conversion/">GaN&#8217;s Technological Superiority: How EPC is Winning Against MOSFETs in Power Conversion</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Physical AI: Fueling the Next Wave of Semiconductor Growth](https://www.eetasia.com/physical-ai-fueling-the-next-wave-of-semiconductor-growth/)
-**Published:** Tue, 10 Feb 2026 01:38:33 +0000
-
-<p>Future edge AI advances will accelerate embodied intelligence, humanoid robots, heterogeneous SoCs, and real-time sensing.</p>
-<p>The post <a href="https://www.eetasia.com/physical-ai-fueling-the-next-wave-of-semiconductor-growth/">Physical AI: Fueling the Next Wave of Semiconductor Growth</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
