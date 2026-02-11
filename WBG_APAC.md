@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-11 13:25 UTC_
+_Last updated: 2026-02-11 15:07 UTC_
 
 ## [Cadence Pioneers New Frontier in Chip Design and Verification](https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/)
 **Published:** Wed, 11 Feb 2026 03:10:19 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-11 13:25 UTC_
 
 ---
 
+## [ST Introduces Ultra-Compact Thyristor Gate Driver](https://www.powerelectronicsnews.com/st-introduces-ultra-compact-thyristor-gate-driver/)
+**Published:** Wed, 11 Feb 2026 14:00:00 +0000
+
+<img alt="ST Introduces Ultra-Compact Thyristor Gate Driver Targeting AC-Powered Appliances." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/N4714I-Feb-9-2026-STSID140-thyristor_IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new ultra-compact thyristor gate driver with integrated isolation enables slimmer AC appliance designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-ultra-compact-thyristor-gate-driver/">ST Introduces Ultra-Compact Thyristor Gate Driver</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Power Electronics Course with QSPICE (Episode 03): The Concept of Efficiency](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-03-the-concept-of-efficiency/)
 **Published:** Wed, 11 Feb 2026 13:00:00 +0000
 
@@ -890,14 +898,6 @@ _Last updated: 2026-02-11 13:25 UTC_
 
 ---
 
-## [Supercapacitors, Automotive Shift to 48V, Polaritonic Switches: Power Electronics Week Insights](https://www.powerelectronicsnews.com/supercapacitors-automotive-shift-to-48v-polaritonic-switches-power-electronics-week-insights/)
-**Published:** Fri, 06 Feb 2026 14:54:21 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Supercapacitors, Automotive Shift to 48V, and Polaritonic Switches!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/supercapacitors-automotive-shift-to-48v-polaritonic-switches-power-electronics-week-insights/">Supercapacitors, Automotive Shift to 48V, Polaritonic Switches: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Lam Research, CEA-Leti Open Fast Lane for Specialty Technologies](https://www.eetimes.com/lam-research-cea-leti-open-fast-lane-for-specialty-technologies/)
 **Published:** Wed, 11 Feb 2026 13:00:00 +0000
 
@@ -914,10 +914,10 @@ _Last updated: 2026-02-11 13:25 UTC_
 
 ---
 
-## [JOB: Engineer – Production (PCBA) At PCB Power In Gandhinagar](https://www.electronicsforu.com/career/engineer-production-pcba-pcb-power-gandhinagar)
-**Published:** Tue, 10 Feb 2026 08:56:52 +0000
+## [GaN DC-DC Platform For AI Data Centers](https://www.electronicsforu.com/news/gan-dc-dc-platform-for-ai-data-centers)
+**Published:** Wed, 11 Feb 2026 08:14:07 +0000
 
-<img alt="JOB: Engineer - Production (PCBA) At PCB Power In Gandhinagar" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/pcb-e-black-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Gandhinagar Company: PCB Power Job Responsibilities Machine Operation: Operate, monitor, and maintain SMT line equipment (screen printers, pick-and-place, reflow ovens) to ensure efficient PCB production. Setup &#38; Changeover: Perform machine setup, changeovers, and component loading (feeders) according to work orders and bills of materials (BOM). Quality Control: Perform visual inspections and use [&#8230;]
+<img alt="GaN DC-DC Platform For AI Data Centers" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/unnamed-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Full-brick design pushes 2.1 kW/in³ power density to support next-gen HVDC AI infrastructure. A new 10 kW DC-DC power platform by Navitas Semiconductor is aiming to accelerate the shift toward 800 VDC architectures in AI data centers, delivering up to 98.5% peak efficiency and 2.1 kW/in³ power density in a compact full-brick footprint. Designed for [&#8230;]
 
 ---
 
