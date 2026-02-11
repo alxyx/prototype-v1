@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-11 19:20 UTC_
+_Last updated: 2026-02-11 20:53 UTC_
 
 ## [Cadence Pioneers New Frontier in Chip Design and Verification](https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/)
 **Published:** Wed, 11 Feb 2026 03:10:19 +0000
