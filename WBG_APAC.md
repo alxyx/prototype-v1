@@ -1,28 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-10 23:51 UTC_
+_Last updated: 2026-02-11 02:39 UTC_
+
+## [GaN’s Technological Superiority: How EPC is Winning Against MOSFETs in Power Conversion](https://www.eetasia.com/gans-technological-superiority-how-epc-is-winning-against-mosfets-in-power-conversion/)
+**Published:** Wed, 11 Feb 2026 02:04:32 +0000
+
+<p>GaN technology is increasingly positioning itself as a viable replacement for silicon in modern power conversion systems.</p>
+<p>The post <a href="https://www.eetasia.com/gans-technological-superiority-how-epc-is-winning-against-mosfets-in-power-conversion/">GaN&#8217;s Technological Superiority: How EPC is Winning Against MOSFETs in Power Conversion</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Physical AI: Fueling the Next Wave of Semiconductor Growth](https://www.eetasia.com/physical-ai-fueling-the-next-wave-of-semiconductor-growth/)
 **Published:** Tue, 10 Feb 2026 01:38:33 +0000
 
 <p>Future edge AI advances will accelerate embodied intelligence, humanoid robots, heterogeneous SoCs, and real-time sensing.</p>
 <p>The post <a href="https://www.eetasia.com/physical-ai-fueling-the-next-wave-of-semiconductor-growth/">Physical AI: Fueling the Next Wave of Semiconductor Growth</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [2026 Tech Predictions: When AI Gets Physical](https://www.eetasia.com/embeddednews-2026-tech-predictions-when-ai-gets-physical/)
-**Published:** Fri, 06 Feb 2026 09:29:17 +0000
-
-<p>AI will move beyond screens and software and become more deeply embedded in the physical world.</p>
-<p>The post <a href="https://www.eetasia.com/embeddednews-2026-tech-predictions-when-ai-gets-physical/">2026 Tech Predictions: When AI Gets Physical</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation](https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/)
-**Published:** Wed, 04 Feb 2026 23:38:53 +0000
-
-<p>True innovation in the year to come boils down to the semiconductor industry's ability to solve the looming crisis around data movement.</p>
-<p>The post <a href="https://www.eetasia.com/the-data-dilemma-cracking-the-code-of-data-movement-for-the-next-wave-of-semiconductor-innovation/">The Data Dilemma: Cracking the Code of Data Movement for the Next Wave of Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
