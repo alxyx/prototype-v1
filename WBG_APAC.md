@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-12 13:23 UTC_
+_Last updated: 2026-02-12 15:02 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,30 @@ _Last updated: 2026-02-12 13:23 UTC_
 
 ---
 
+## [VPT Introduces VSCPL1210SG Point-of-Load Converter](https://www.powerelectronicsnews.com/vpt-introduces-vscpl1210sg-point-of-load-converter/)
+**Published:** Thu, 12 Feb 2026 15:00:00 +0000
+
+<img alt="VPT Introduces VSCPL1210SG Point-of-Load Converter." class="webfeedsFeaturedVisual wp-post-image" height="498" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/VPT.png?fit=1048%2C498" style="display: block; margin-bottom: 5px; clear: both;" width="1048" /><p>The VSC Series is developed for small satellite platforms operating in low Earth orbit, as well as for NASA Class D missions.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vpt-introduces-vscpl1210sg-point-of-load-converter/">VPT Introduces VSCPL1210SG Point-of-Load Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Allegro Introduces High-Accuracy Hall-Effect Current Sensor](https://www.powerelectronicsnews.com/allegro-introduces-high-accuracy-hall-effect-current-sensor/)
+**Published:** Thu, 12 Feb 2026 14:52:21 +0000
+
+<img alt="Allegro MicroSystems Introduces High-Accuracy Hall-Effect Current Sensor." class="webfeedsFeaturedVisual wp-post-image" height="900" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Press-ACS37017-16x9-1.jpg?fit=1600%2C900" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new Hall-effect current sensor delivers best accuracy for high-voltage power conversion in AI, automotive, and energy systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/allegro-introduces-high-accuracy-hall-effect-current-sensor/">Allegro Introduces High-Accuracy Hall-Effect Current Sensor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Empower Semiconductor Launches New Silicon Capacitors](https://www.powerelectronicsnews.com/empower-semiconductor-launches-new-silicon-capacitors/)
+**Published:** Thu, 12 Feb 2026 14:41:54 +0000
+
+<img alt="Empower Semiconductor Launches New ECAP™ Silicon Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="2750" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Empower_ECAPs_WithLogo_V02.jpg?fit=6000%2C2750" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>The new ECAP™ silicon capacitors feature ultralow ESL/ESR, enhancing power integrity for AI and HPC processors.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/empower-semiconductor-launches-new-silicon-capacitors/">Empower Semiconductor Launches New Silicon Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [NTT solved the current limitation in AlN transistors](https://www.powerelectronicsnews.com/ntt-solved-the-current-limitation-in-aln-transistors/)
 **Published:** Thu, 12 Feb 2026 13:00:00 +0000
 
@@ -871,30 +895,6 @@ _Last updated: 2026-02-12 13:23 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="686" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/image_e5b39b.png?fit=1219%2C686" style="display: block; margin-bottom: 5px; clear: both;" width="1219" /><p>Real-world fast-charging data suggests that long-term charging habits matter more than occasional excursions to 100% or near-empty levels.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/an-analysis-of-the-longevity-of-modern-ev-batteries/">An Analysis of the Longevity of Modern EV Batteries </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Toshiba Samples TB9104FTG Gate Driver](https://www.powerelectronicsnews.com/toshiba-samples-tb9104ftg-gate-driver/)
-**Published:** Fri, 06 Feb 2026 17:00:00 +0000
-
-<img alt="Toshiba Samples TB9104FTG Gate Driver." class="webfeedsFeaturedVisual wp-post-image" height="628" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/TB9104FTG.jpg?fit=1200%2C628" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The TB9104FTG gate driver is designed for high-current automotive brushed DC motors in body system applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/toshiba-samples-tb9104ftg-gate-driver/">Toshiba Samples TB9104FTG Gate Driver</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [RIR Launches SiC MPS Diodes for EV and Power Systems](https://www.powerelectronicsnews.com/rir-launches-sic-mps-diodes-for-ev-and-power-systems/)
-**Published:** Fri, 06 Feb 2026 15:00:00 +0000
-
-<img alt="RIR Launches SiC MPS Diodes for EV and Power Systems." class="webfeedsFeaturedVisual wp-post-image" height="802" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/RIR_PR.jpg?fit=1380%2C802" style="display: block; margin-bottom: 5px; clear: both;" width="1380" /><p>The new SiC MPS diodes deliver high efficiency, ruggedness, and reliability for EVs, data centres, and energy systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/rir-launches-sic-mps-diodes-for-ev-and-power-systems/">RIR Launches SiC MPS Diodes for EV and Power Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ST Finalizes Acquisition of NXP MEMS Sensors Business](https://www.powerelectronicsnews.com/st-finalizes-acquisition-of-nxp-mems-sensors-business/)
-**Published:** Fri, 06 Feb 2026 15:00:00 +0000
-
-<img alt="ST Finalizes Acquisition of NXP MEMS Sensors Business." class="webfeedsFeaturedVisual wp-post-image" height="797" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/stmicroelectronics-catania-wafer-front-view.jpg?fit=1200%2C797" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The acquisition expands ST’s capabilities in automotive safety and industrial sensing, strengthening its global MEMS portfolio.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-finalizes-acquisition-of-nxp-mems-sensors-business/">ST Finalizes Acquisition of NXP MEMS Sensors Business</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
