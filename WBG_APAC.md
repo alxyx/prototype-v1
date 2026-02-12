@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-12 11:53 UTC_
+_Last updated: 2026-02-12 13:23 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-12 11:53 UTC_
 
 ---
 
+## [NTT solved the current limitation in AlN transistors](https://www.powerelectronicsnews.com/ntt-solved-the-current-limitation-in-aln-transistors/)
+**Published:** Thu, 12 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="450" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/image_e16b1d.png?fit=800%2C450" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>NTT researchers have addressed two primary loss mechanisms in AlN power transistors: the contact resistance and the channel resistance. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ntt-solved-the-current-limitation-in-aln-transistors/">NTT solved the current limitation in AlN transistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [ST Introduces Ultra-Compact Thyristor Gate Driver](https://www.powerelectronicsnews.com/st-introduces-ultra-compact-thyristor-gate-driver/)
 **Published:** Wed, 11 Feb 2026 14:00:00 +0000
 
@@ -890,14 +898,6 @@ _Last updated: 2026-02-12 11:53 UTC_
 
 ---
 
-## [TDK Introduces Stackable µPOL Modules](https://www.powerelectronicsnews.com/tdk-introduces-stackable-%c2%b5pol-modules/)
-**Published:** Fri, 06 Feb 2026 14:58:21 +0000
-
-<img alt="TDK Introduces Stackable µPOL Modules." class="webfeedsFeaturedVisual wp-post-image" height="1153" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/20260205-TDK-Press-Image-1.jpg?fit=2000%2C1153" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>The FS1525 stackable point-of-load converter delivers up to 25 A per module and up to 200 A in vertical power delivery designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tdk-introduces-stackable-%c2%b5pol-modules/">TDK Introduces Stackable µPOL Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Lam Research, CEA-Leti Open Fast Lane for Specialty Technologies](https://www.eetimes.com/lam-research-cea-leti-open-fast-lane-for-specialty-technologies/)
 **Published:** Wed, 11 Feb 2026 13:00:00 +0000
 
@@ -925,13 +925,6 @@ _Last updated: 2026-02-12 11:53 UTC_
 **Published:** Thu, 12 Feb 2026 07:44:03 +0000
 
 <img alt="JOB: Physical Design Engineer At Quest Global In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/06/quest-global-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Quest Global As a Physical Design Engineer, you will be responsible for designing and implementing physical design solutions for our projects. You will work closely with our engineering team to ensure the successful execution of our designs. Key Responsibilities Qualifications
-
----
-
-## [Power Chips Built For Solar And Storage](https://www.electronicsforu.com/news/power-chips-built-for-solar-and-storage)
-**Published:** Thu, 12 Feb 2026 06:49:25 +0000
-
-<img alt="Power Chips Built For Solar And Storage" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/PR_IGBT_Photo_260114-2048x1363-2-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As solar and storage systems scale, power chips are becoming the bottleneck. This design approach aims to remove that limit. Read on… Designers of solar inverters and industrial energy storage systems face growing pressure to deliver higher power density, better efficiency, and stable operation under high voltage and current. Magnachip Semiconductor has introduced a new [&#8230;]
 
 ---
 
