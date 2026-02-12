@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-12 16:08 UTC_
+_Last updated: 2026-02-12 17:13 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -15,6 +15,14 @@ _Last updated: 2026-02-12 16:08 UTC_
 
 <p>Cadence is redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/">Cadence Pioneers New Frontier in Chip Design and Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable](https://www.semiconductor-digest.com/new-fraunhofer-ipms-chip-makes-ph-measurements-easier-and-devices-more-robust-and-portable/?utm_source=rss&utm_medium=rss&utm_campaign=new-fraunhofer-ipms-chip-makes-ph-measurements-easier-and-devices-more-robust-and-portable)
+**Published:** Thu, 12 Feb 2026 16:54:40 +0000
+
+<p>Fraunhofer Institute for Photonic Microsystems IPMS has achieved another breakthrough in pH measurement technology. Researchers have developed a new technology that makes pH measurements significantly more robust, simple, and reliable.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-fraunhofer-ipms-chip-makes-ph-measurements-easier-and-devices-more-robust-and-portable/">New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,14 +818,6 @@ _Last updated: 2026-02-12 16:08 UTC_
 
 ---
 
-## [Using the Physics of Radio Waves to Empower Smarter Edge Devices](https://www.semiconductor-digest.com/using-the-physics-of-radio-waves-to-empower-smarter-edge-devices/?utm_source=rss&utm_medium=rss&utm_campaign=using-the-physics-of-radio-waves-to-empower-smarter-edge-devices)
-**Published:** Mon, 12 Jan 2026 01:24:47 +0000
-
-<p>Duke engineers publish new method to use analog radio waves to boost energy-efficient edge AI.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/using-the-physics-of-radio-waves-to-empower-smarter-edge-devices/">Using the Physics of Radio Waves to Empower Smarter Edge Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [VPT Introduces VSCPL1210SG Point-of-Load Converter](https://www.powerelectronicsnews.com/vpt-introduces-vscpl1210sg-point-of-load-converter/)
 **Published:** Thu, 12 Feb 2026 15:00:00 +0000
 
@@ -903,6 +903,14 @@ _Last updated: 2026-02-12 16:08 UTC_
 
 <p>Lam Research and CEA-Leti team up to speed specialty semiconductor innovation.</p>
 <p>The post <a href="https://www.eetimes.com/lam-research-cea-leti-open-fast-lane-for-specialty-technologies/">Lam Research, CEA-Leti Open Fast Lane for Specialty Technologies</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [EPC licenses eGaN technology to Renesas](https://www.electronicsweekly.com/news/business/epc-licenses-egan-technology-to-renesas-2026-02/)
+**Published:** Wed, 11 Feb 2026 12:12:13 +0000
+
+<p>Efficient Power Conversion (EPC), the enhancement-mode gallium nitride (eGaN) power devices specialist, has licensed its eGaN technology to Renesas. Under the agreement, Renesas will gain access to EPC’s  eGaN technology ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/epc-licenses-egan-technology-to-renesas-2026-02/">EPC licenses eGaN technology to Renesas</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
