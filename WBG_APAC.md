@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-12 15:02 UTC_
+_Last updated: 2026-02-12 16:08 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -903,14 +903,6 @@ _Last updated: 2026-02-12 15:02 UTC_
 
 <p>Lam Research and CEA-Leti team up to speed specialty semiconductor innovation.</p>
 <p>The post <a href="https://www.eetimes.com/lam-research-cea-leti-open-fast-lane-for-specialty-technologies/">Lam Research, CEA-Leti Open Fast Lane for Specialty Technologies</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [EPC licenses eGaN technology to Renesas](https://www.electronicsweekly.com/news/business/epc-licenses-egan-technology-to-renesas-2026-02/)
-**Published:** Wed, 11 Feb 2026 12:12:13 +0000
-
-<p>Efficient Power Conversion (EPC), the enhancement-mode gallium nitride (eGaN) power devices specialist, has licensed its eGaN technology to Renesas. Under the agreement, Renesas will gain access to EPC’s  eGaN technology ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/epc-licenses-egan-technology-to-renesas-2026-02/">EPC licenses eGaN technology to Renesas</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
