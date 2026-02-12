@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-12 17:13 UTC_
+_Last updated: 2026-02-12 18:14 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -15,6 +15,30 @@ _Last updated: 2026-02-12 17:13 UTC_
 
 <p>Cadence is redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/">Cadence Pioneers New Frontier in Chip Design and Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [GigaDevice Extends European Reach with SEMITRON Partnership for DACH region](https://www.semiconductor-digest.com/gigadevice-extends-european-reach-with-semitron-partnership-for-dach-region/?utm_source=rss&utm_medium=rss&utm_campaign=gigadevice-extends-european-reach-with-semitron-partnership-for-dach-region)
+**Published:** Thu, 12 Feb 2026 17:24:49 +0000
+
+<p>GigaDevice, a semiconductor company specializing in Flash memory, 32-bit microcontrollers (MCUs), sensors, and analog products, has entered into a distribution agreement with SEMITRON, a electronic component distributor that specializes with a focus on the DACH region.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/gigadevice-extends-european-reach-with-semitron-partnership-for-dach-region/">GigaDevice Extends European Reach with SEMITRON Partnership for DACH region</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Rolling Out the Carpet for Spin Qubits with New Chip Architecture](https://www.semiconductor-digest.com/rolling-out-the-carpet-for-spin-qubits-with-new-chip-architecture/?utm_source=rss&utm_medium=rss&utm_campaign=rolling-out-the-carpet-for-spin-qubits-with-new-chip-architecture)
+**Published:** Thu, 12 Feb 2026 17:17:20 +0000
+
+<p>Researchers at QuTech in Delft, The Netherlands, have developed a new chip architecture that could make it easier to test and scale up quantum processors based on semiconductor spin qubits.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rolling-out-the-carpet-for-spin-qubits-with-new-chip-architecture/">Rolling Out the Carpet for Spin Qubits with New Chip Architecture</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Nonlinear Stiffness Softening Unlocks High-Performance MEMS Sensing in Compact Devices](https://www.semiconductor-digest.com/nonlinear-stiffness-softening-unlocks-high-performance-mems-sensing-in-compact-devices/?utm_source=rss&utm_medium=rss&utm_campaign=nonlinear-stiffness-softening-unlocks-high-performance-mems-sensing-in-compact-devices)
+**Published:** Thu, 12 Feb 2026 17:10:07 +0000
+
+<p>Achieving both high sensitivity and a wide dynamic range remains a central challenge in microelectromechanical accelerometers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nonlinear-stiffness-softening-unlocks-high-performance-mems-sensing-in-compact-devices/">Nonlinear Stiffness Softening Unlocks High-Performance MEMS Sensing in Compact Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,30 +815,6 @@ _Last updated: 2026-02-12 17:13 UTC_
 
 <p>Electronic System Design (ESD) industry revenue increased 8.8% to $5,566.4 million in the third quarter of 2025 from the $5,114.5 million registered in the third quarter of 2024, the ESD Alliance announced today.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/esd-alliance-reports-electronic-system-design-industry-posts-5-6-billion-in-revenue-in-q3-2025/">ESD Alliance Reports Electronic System Design Industry Posts $5.6 Billion in Revenue in Q3 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices](https://www.semiconductor-digest.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/?utm_source=rss&utm_medium=rss&utm_campaign=nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices)
-**Published:** Mon, 12 Jan 2026 01:37:54 +0000
-
-<p>Nordic Semiconductor is bringing AI intelligence and functionality to the smallest battery-powered IoT devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nordic-semiconductor-simplifies-edge-ai-for-billions-of-iot-devices/">Nordic Semiconductor Simplifies Edge AI for Billions of IoT Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Global Semiconductor Sales Increase 29.8% Year-to-Year in November](https://www.semiconductor-digest.com/global-semiconductor-sales-increase-29-8-year-to-year-in-november/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-sales-increase-29-8-year-to-year-in-november)
-**Published:** Mon, 12 Jan 2026 01:32:22 +0000
-
-<p>November’s sales mark the global industry’s highest-ever monthly total; worldwide chip sales increase 3.5% month-to-month.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-sales-increase-29-8-year-to-year-in-november/">Global Semiconductor Sales Increase 29.8% Year-to-Year in November</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Gleason Chosen for Tennessee’s AI Advisory Council](https://www.semiconductor-digest.com/gleason-chosen-for-tennessees-ai-advisory-council/?utm_source=rss&utm_medium=rss&utm_campaign=gleason-chosen-for-tennessees-ai-advisory-council)
-**Published:** Mon, 12 Jan 2026 01:28:06 +0000
-
-<p>Shaun Gleason, director of the Partnerships Office at the Department of Energy’s Oak Ridge National Laboratory, has been appointed to Tennessee’s Artificial Intelligence Advisory Council.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/gleason-chosen-for-tennessees-ai-advisory-council/">Gleason Chosen for Tennessee’s AI Advisory Council</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
