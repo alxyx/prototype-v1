@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-12 06:21 UTC_
+_Last updated: 2026-02-12 08:06 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -914,24 +914,17 @@ _Last updated: 2026-02-12 06:21 UTC_
 
 ---
 
-## [GaN Power Devices For EV Electronics](https://www.electronicsforu.com/news/gan-power-devices-for-ev-electronics)
-**Published:** Thu, 12 Feb 2026 05:18:07 +0000
+## [JOB: Physical Design Engineer At Quest Global In Bengaluru](https://www.electronicsforu.com/career/physical-design-engineer-quest-global-bengaluru)
+**Published:** Thu, 12 Feb 2026 07:44:03 +0000
 
-<img alt="GaN Power Devices For EV Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/redefining-gan-power-d-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An advanced gate design could reshape EV and data center power systems. Researchers at the Indian Institute of Science (IISc) have made a notable advance in gallium nitride (GaN) power transistor technology that addresses key hurdles slowing its adoption in electric vehicles (EVs), data centers and other high-power electronic systems. The work, detailed in recent [&#8230;]
-
----
-
-## [AI Enhance Analog Layout Automation Efficiency](https://www.electronicsforu.com/news/ai-enhance-analog-layout-automation-efficiency)
-**Published:** Thu, 12 Feb 2026 05:14:11 +0000
-
-<img alt="AI Enhance Analog Layout Automation Efficiency" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/ai-learns-to-perform-a-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers at Pohang University of Science and Technology have developed an AI‑driven method that could transform how analog semiconductor layouts the physical blueprints of circuits are created, potentially cutting design effort and speeding production in electronics.&#160; Designing analog circuit layouts is notoriously challenging and manual. Unlike digital circuits, analog layouts require careful placement and routing [&#8230;]
+<img alt="JOB: Physical Design Engineer At Quest Global In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/06/quest-global-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Quest Global As a Physical Design Engineer, you will be responsible for designing and implementing physical design solutions for our projects. You will work closely with our engineering team to ensure the successful execution of our designs. Key Responsibilities Qualifications
 
 ---
 
-## [GaN DC-DC Platform For AI Data Centers](https://www.electronicsforu.com/news/gan-dc-dc-platform-for-ai-data-centers)
-**Published:** Wed, 11 Feb 2026 08:14:07 +0000
+## [Power Chips Built For Solar And Storage](https://www.electronicsforu.com/news/power-chips-built-for-solar-and-storage)
+**Published:** Thu, 12 Feb 2026 06:49:25 +0000
 
-<img alt="GaN DC-DC Platform For AI Data Centers" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/unnamed-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Full-brick design pushes 2.1 kW/in³ power density to support next-gen HVDC AI infrastructure. A new 10 kW DC-DC power platform by Navitas Semiconductor is aiming to accelerate the shift toward 800 VDC architectures in AI data centers, delivering up to 98.5% peak efficiency and 2.1 kW/in³ power density in a compact full-brick footprint. Designed for [&#8230;]
+<img alt="Power Chips Built For Solar And Storage" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/PR_IGBT_Photo_260114-2048x1363-2-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As solar and storage systems scale, power chips are becoming the bottleneck. This design approach aims to remove that limit. Read on… Designers of solar inverters and industrial energy storage systems face growing pressure to deliver higher power density, better efficiency, and stable operation under high voltage and current. Magnachip Semiconductor has introduced a new [&#8230;]
 
 ---
 
