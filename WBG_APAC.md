@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-12 05:12 UTC_
+_Last updated: 2026-02-12 06:21 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -911,6 +911,20 @@ _Last updated: 2026-02-12 05:12 UTC_
 
 <p>Efficient Power Conversion (EPC), the enhancement-mode gallium nitride (eGaN) power devices specialist, has licensed its eGaN technology to Renesas. Under the agreement, Renesas will gain access to EPC’s  eGaN technology ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/epc-licenses-egan-technology-to-renesas-2026-02/">EPC licenses eGaN technology to Renesas</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [GaN Power Devices For EV Electronics](https://www.electronicsforu.com/news/gan-power-devices-for-ev-electronics)
+**Published:** Thu, 12 Feb 2026 05:18:07 +0000
+
+<img alt="GaN Power Devices For EV Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/redefining-gan-power-d-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An advanced gate design could reshape EV and data center power systems. Researchers at the Indian Institute of Science (IISc) have made a notable advance in gallium nitride (GaN) power transistor technology that addresses key hurdles slowing its adoption in electric vehicles (EVs), data centers and other high-power electronic systems. The work, detailed in recent [&#8230;]
+
+---
+
+## [AI Enhance Analog Layout Automation Efficiency](https://www.electronicsforu.com/news/ai-enhance-analog-layout-automation-efficiency)
+**Published:** Thu, 12 Feb 2026 05:14:11 +0000
+
+<img alt="AI Enhance Analog Layout Automation Efficiency" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/ai-learns-to-perform-a-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers at Pohang University of Science and Technology have developed an AI‑driven method that could transform how analog semiconductor layouts the physical blueprints of circuits are created, potentially cutting design effort and speeding production in electronics.&#160; Designing analog circuit layouts is notoriously challenging and manual. Unlike digital circuits, analog layouts require careful placement and routing [&#8230;]
 
 ---
 
