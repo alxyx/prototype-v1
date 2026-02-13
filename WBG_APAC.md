@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-13 14:54 UTC_
+_Last updated: 2026-02-13 15:55 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-13 14:54 UTC_
 
 ---
 
+## [AlN Power Transistors, SiC Power Module Innovations, Longevity of EV Batteries: Power Electronics Week Insights](https://www.powerelectronicsnews.com/aln-power-transistors-sic-power-module-innovations-longevity-of-ev-batteries-power-electronics-week-insights/)
+**Published:** Fri, 13 Feb 2026 15:38:50 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on AlN Power Transistors, SiC Power Module Innovations, and Longevity of EV Batteries!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/aln-power-transistors-sic-power-module-innovations-longevity-of-ev-batteries-power-electronics-week-insights/">AlN Power Transistors, SiC Power Module Innovations, Longevity of EV Batteries: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Osmotic Power: A Viable Renewable Energy Solution](https://www.powerelectronicsnews.com/osmotic-power-a-viable-renewable-energy-solution/)
 **Published:** Fri, 13 Feb 2026 13:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2026-02-13 14:54 UTC_
 
 <img alt="Navitas Introduces 10 kW All-GaN DC-DC Platform for 800 V Data Center Architectures." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Navitas_PR.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>All-GaN DC-DC platform supports 800 V and ±400 V architectures, delivering up to 98.5% efficiency for AI data center power systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/navitas-introduces-all-gan-dc-dc-platform-for-800v-data-centers/">Navitas Introduces All-GaN DC-DC Platform for 800V Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Addressing next-generation AI infrastructure with software-defined GaN power architectures](https://www.powerelectronicsnews.com/addressing-next-generation-ai-infrastructure-with-software-defined-gan-power-architectures/)
-**Published:** Tue, 10 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_643031254.jpeg?fit=6000%2C4000" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>A conversation with Wise Integration executives on their digitally-controlled GaN technology and its use in next-gen data centers.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/addressing-next-generation-ai-infrastructure-with-software-defined-gan-power-architectures/">Addressing next-generation AI infrastructure with software-defined GaN power architectures </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
