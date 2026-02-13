@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-13 11:45 UTC_
+_Last updated: 2026-02-13 13:14 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,22 @@ _Last updated: 2026-02-13 11:45 UTC_
 
 ---
 
+## [Osmotic Power: A Viable Renewable Energy Solution](https://www.powerelectronicsnews.com/osmotic-power-a-viable-renewable-energy-solution/)
+**Published:** Fri, 13 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3651" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_341009459.jpeg?fit=5477%2C3651" style="display: block; margin-bottom: 5px; clear: both;" width="5477" /><p>Water has been a source of energy generation for thousands of years. Osmotic power generation has seen some key advances of the last couple of...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/osmotic-power-a-viable-renewable-energy-solution/">Osmotic Power: A Viable Renewable Energy Solution</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Infineon Acquires ams OSRAM Non-Optical Sensor Portfolio](https://www.powerelectronicsnews.com/infineon-acquires-ams-osram-non-optical-sensor-portfolio/)
+**Published:** Fri, 13 Feb 2026 13:00:00 +0000
+
+<img alt="Infineon Acquires ams OSRAM Non-Optical Sensor Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="1417" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/jochen-hanebeck.jpg?fit=2126%2C1417" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>With this acquisition, Infineon expands its sensor business, enhancing automotive, industrial, and medical sensor capabilities.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-acquires-ams-osram-non-optical-sensor-portfolio/">Infineon Acquires ams OSRAM Non-Optical Sensor Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [VPT Introduces VSCPL1210SG Point-of-Load Converter](https://www.powerelectronicsnews.com/vpt-introduces-vscpl1210sg-point-of-load-converter/)
 **Published:** Thu, 12 Feb 2026 15:00:00 +0000
 
@@ -882,22 +898,6 @@ _Last updated: 2026-02-13 11:45 UTC_
 
 ---
 
-## [Inside 2025’s SiC Power Module Innovations, Part 1](https://www.powerelectronicsnews.com/inside-2025s-sic-power-module-innovations-part-1/)
-**Published:** Mon, 09 Feb 2026 21:10:31 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_1388847533-1.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>Editor’s Note: This two-part series covers 11 different power module releases in 2025. The article is split for readability, with Part 2 continuing the manufacturer...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/inside-2025s-sic-power-module-innovations-part-1/">Inside 2025’s SiC Power Module Innovations, Part 1</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [An Analysis of the Longevity of Modern EV Batteries](https://www.powerelectronicsnews.com/an-analysis-of-the-longevity-of-modern-ev-batteries/)
-**Published:** Mon, 09 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="686" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/image_e5b39b.png?fit=1219%2C686" style="display: block; margin-bottom: 5px; clear: both;" width="1219" /><p>Real-world fast-charging data suggests that long-term charging habits matter more than occasional excursions to 100% or near-empty levels.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/an-analysis-of-the-longevity-of-modern-ev-batteries/">An Analysis of the Longevity of Modern EV Batteries </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Qatar’s Deep Tech Ambitions Come Into Focus](https://www.eetimes.com/qatars-deep-tech-ambitions-come-into-focus/)
 **Published:** Fri, 13 Feb 2026 08:00:00 +0000
 
@@ -911,6 +911,14 @@ _Last updated: 2026-02-13 11:45 UTC_
 
 <p>Lam Research and CEA-Leti team up to speed specialty semiconductor innovation.</p>
 <p>The post <a href="https://www.eetimes.com/lam-research-cea-leti-open-fast-lane-for-specialty-technologies/">Lam Research, CEA-Leti Open Fast Lane for Specialty Technologies</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Silanna LiDAR laser firing ICs combine charging and firing](https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/silanna-lidar-laser-firing-ics-combine-charging-and-firing-2026-02/)
+**Published:** Fri, 13 Feb 2026 11:46:35 +0000
+
+<p>Silanna Semiconductor is announcing its FirePower laser firing system ICs are now available in production quantities. They aim at LiDAR and rangefinder applications. Specifically, there is the SL2001 (above) and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/silanna-lidar-laser-firing-ics-combine-charging-and-firing-2026-02/">Silanna LiDAR laser firing ICs combine charging and firing</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
