@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-13 17:53 UTC_
+_Last updated: 2026-02-13 19:05 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-13 17:53 UTC_
 
 ---
 
+## [Navitas Launches 5th-Gen GeneSiC HV MOSFET Platform](https://www.powerelectronicsnews.com/navitas-launches-5th-gen-genesic-hv-mosfet-platform/)
+**Published:** Fri, 13 Feb 2026 18:04:29 +0000
+
+<img alt="Navitas Launches 5th-Gen GeneSiC HV MOSFET Platform." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Navitas_TAP_PR.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new TAP architecture improves efficiency, switching performance, and long-term reliability for high-voltage power conversion applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/navitas-launches-5th-gen-genesic-hv-mosfet-platform/">Navitas Launches 5th-Gen GeneSiC HV MOSFET Platform</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [AlN Power Transistors, SiC Power Module Innovations, Longevity of EV Batteries: Power Electronics Week Insights](https://www.powerelectronicsnews.com/aln-power-transistors-sic-power-module-innovations-longevity-of-ev-batteries-power-electronics-week-insights/)
 **Published:** Fri, 13 Feb 2026 15:38:50 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2026-02-13 17:53 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>Efficiency is not just a performance indicator but serious constraint that impacts reliability, thermal design, power density, and cost.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-03-the-concept-of-efficiency/">Power Electronics Course with QSPICE (Episode 03): The Concept of Efficiency</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Navitas Introduces All-GaN DC-DC Platform for 800V Data Centers](https://www.powerelectronicsnews.com/navitas-introduces-all-gan-dc-dc-platform-for-800v-data-centers/)
-**Published:** Tue, 10 Feb 2026 18:18:56 +0000
-
-<img alt="Navitas Introduces 10 kW All-GaN DC-DC Platform for 800 V Data Center Architectures." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Navitas_PR.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>All-GaN DC-DC platform supports 800 V and ±400 V architectures, delivering up to 98.5% efficiency for AI data center power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/navitas-introduces-all-gan-dc-dc-platform-for-800v-data-centers/">Navitas Introduces All-GaN DC-DC Platform for 800V Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
