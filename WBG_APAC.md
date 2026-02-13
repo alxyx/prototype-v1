@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-13 20:53 UTC_
+_Last updated: 2026-02-13 21:49 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -15,6 +15,22 @@ _Last updated: 2026-02-13 20:53 UTC_
 
 <p>Cadence is redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/">Cadence Pioneers New Frontier in Chip Design and Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [IEEE Study Demonstrates Deployment-Ready Quantum Entanglement Source](https://www.semiconductor-digest.com/ieee-study-demonstrates-deployment-ready-quantum-entanglement-source/?utm_source=rss&utm_medium=rss&utm_campaign=ieee-study-demonstrates-deployment-ready-quantum-entanglement-source)
+**Published:** Fri, 13 Feb 2026 21:29:42 +0000
+
+<p>Researchers explore how reliable quantum entanglement states can be generated and distributed through off-the shelf components.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ieee-study-demonstrates-deployment-ready-quantum-entanglement-source/">IEEE Study Demonstrates Deployment-Ready Quantum Entanglement Source</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Si2 Compact Model Coalition Announces 2026 International Compact Modeling Conference](https://www.semiconductor-digest.com/si2-compact-model-coalition-announces-2026-international-compact-modeling-conference/?utm_source=rss&utm_medium=rss&utm_campaign=si2-compact-model-coalition-announces-2026-international-compact-modeling-conference)
+**Published:** Fri, 13 Feb 2026 21:10:28 +0000
+
+<p>The Si2 Compact Model Coalition, IEEE, and IEEE EDS are sponsoring the second edition of the International Compact Modeling Conference (ICMC), a two-day in-person event bringing together global experts in design, process technology, and model development to discuss advancements in semiconductor device modeling.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/si2-compact-model-coalition-announces-2026-international-compact-modeling-conference/">Si2 Compact Model Coalition Announces 2026 International Compact Modeling Conference</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2026-02-13 20:53 UTC_
 
 <p>Organic light-emitting diodes (OLEDs) are widely used in smartphones and TVs thanks to their excellent color reproduction and thin, flexible planar structure.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/kaist-develops-oled-technology-with-double-the-screen-brightness/">KAIST Develops OLED Technology with Double the Screen Brightness​</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [L&T Semiconductor Technologies Launches India’s Cellular IoT Module Business](https://www.semiconductor-digest.com/lt-semiconductor-technologies-launches-indias-cellular-iot-module-business/?utm_source=rss&utm_medium=rss&utm_campaign=lt-semiconductor-technologies-launches-indias-cellular-iot-module-business)
-**Published:** Tue, 13 Jan 2026 00:33:47 +0000
-
-<p>L&#038;T Semiconductor Technologies Limited announced its entry into the Cellular IoT Module business during CES 2026 — marking a significant expansion of its semiconductor portfolio. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/lt-semiconductor-technologies-launches-indias-cellular-iot-module-business/">L&#038;T Semiconductor Technologies Launches India’s Cellular IoT Module Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ESD Alliance Reports Electronic System Design Industry Posts $5.6 Billion in Revenue in Q3 2025](https://www.semiconductor-digest.com/esd-alliance-reports-electronic-system-design-industry-posts-5-6-billion-in-revenue-in-q3-2025/?utm_source=rss&utm_medium=rss&utm_campaign=esd-alliance-reports-electronic-system-design-industry-posts-5-6-billion-in-revenue-in-q3-2025)
-**Published:** Tue, 13 Jan 2026 00:26:36 +0000
-
-<p>Electronic System Design (ESD) industry revenue increased 8.8% to $5,566.4 million in the third quarter of 2025 from the $5,114.5 million registered in the third quarter of 2024, the ESD Alliance announced today.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/esd-alliance-reports-electronic-system-design-industry-posts-5-6-billion-in-revenue-in-q3-2025/">ESD Alliance Reports Electronic System Design Industry Posts $5.6 Billion in Revenue in Q3 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
