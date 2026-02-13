@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-13 07:24 UTC_
+_Last updated: 2026-02-13 08:56 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -898,6 +898,14 @@ _Last updated: 2026-02-13 07:24 UTC_
 
 ---
 
+## [Qatar’s Deep Tech Ambitions Come Into Focus](https://www.eetimes.com/qatars-deep-tech-ambitions-come-into-focus/)
+**Published:** Fri, 13 Feb 2026 08:00:00 +0000
+
+<p>Qatar accelerates deep-tech domination with major AI, quantum, and semiconductor investments.</p>
+<p>The post <a href="https://www.eetimes.com/qatars-deep-tech-ambitions-come-into-focus/">Qatar’s Deep Tech Ambitions Come Into Focus</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Lam Research, CEA-Leti Open Fast Lane for Specialty Technologies](https://www.eetimes.com/lam-research-cea-leti-open-fast-lane-for-specialty-technologies/)
 **Published:** Wed, 11 Feb 2026 13:00:00 +0000
 
@@ -906,11 +914,25 @@ _Last updated: 2026-02-13 07:24 UTC_
 
 ---
 
-## [EPC licenses eGaN technology to Renesas](https://www.electronicsweekly.com/news/business/epc-licenses-egan-technology-to-renesas-2026-02/)
-**Published:** Wed, 11 Feb 2026 12:12:13 +0000
+## [DCPI market to top $80bn in 2030](https://www.electronicsweekly.com/news/business/dcpi-market-to-top-80bn-in-2030-2026-02/)
+**Published:** Fri, 13 Feb 2026 06:11:31 +0000
 
-<p>Efficient Power Conversion (EPC), the enhancement-mode gallium nitride (eGaN) power devices specialist, has licensed its eGaN technology to Renesas. Under the agreement, Renesas will gain access to EPC’s  eGaN technology ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/epc-licenses-egan-technology-to-renesas-2026-02/">EPC licenses eGaN technology to Renesas</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>The Data Centre Physical Infrastructure (DCPI) market is projected to grow at a mid-teens CAGR from 2025 to 2030 to reach more than $80 billion, says Dell’Oro. While demand signals ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/dcpi-market-to-top-80bn-in-2030-2026-02/">DCPI market to top $80bn in 2030</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [JOB:  Power Electronics Engineer At PierSight In Ahmedabad](https://www.electronicsforu.com/career/power-electronics-engineer-piersight-ahmedabad)
+**Published:** Fri, 13 Feb 2026 08:48:27 +0000
+
+<img alt="Hardware Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/Job-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Ahmedabad Company: PierSight You will play a critical role in designing, analysing, building, and validating space-grade power electronics systems.  Key Responsibilities Qualifications UG: B. Tech / B. E. in Electrical, Electronics, Instrumentation&#160; PG: Any Postgraduate in Electrical, Electronics, Instrumentation-related subjects
+
+---
+
+## [JOB: ASIC Design Engineer (TCP02) At HPE In Kolkata And Bengaluru](https://www.electronicsforu.com/career/asic-design-engineer-tcp02-hpe-kolkata-bengaluru)
+**Published:** Fri, 13 Feb 2026 08:37:29 +0000
+
+<img alt="JOB: ASIC Design Engineer (TCP02) At HPE In Kolkata And Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/hpe-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru / Kolkata Company: HPE HPE- Juniper Silicon team seeks&#160;ASIC&#160;Design Engineers to develop next generation of&#160;ASICs for our core routers, switches, and firewalls. What You’ll Do What You Need To Bring
 
 ---
 
