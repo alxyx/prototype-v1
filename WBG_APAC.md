@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-13 21:49 UTC_
+_Last updated: 2026-02-13 22:48 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -15,6 +15,22 @@ _Last updated: 2026-02-13 21:49 UTC_
 
 <p>Cadence is redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/">Cadence Pioneers New Frontier in Chip Design and Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Monogoto and Nordic Semiconductor Collaborate to Accelerate the nuSIM Ecosystem for IoT-Optimized Integrated Connectivity](https://www.semiconductor-digest.com/monogoto-and-nordic-semiconductor-collaborate-to-accelerate-the-nusim-ecosystem-for-iot-optimized-integrated-connectivity/?utm_source=rss&utm_medium=rss&utm_campaign=monogoto-and-nordic-semiconductor-collaborate-to-accelerate-the-nusim-ecosystem-for-iot-optimized-integrated-connectivity)
+**Published:** Fri, 13 Feb 2026 21:51:38 +0000
+
+<p>Monogoto announces a strategic cooperation with Nordic Semiconductor, a global leader in low-power wireless solutions, to accelerate the adoption of nuSIM (provided by Redtea-Mobile), an integrated SIM (iSIM) approach optimized for IoT devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/monogoto-and-nordic-semiconductor-collaborate-to-accelerate-the-nusim-ecosystem-for-iot-optimized-integrated-connectivity/">Monogoto and Nordic Semiconductor Collaborate to Accelerate the nuSIM Ecosystem for IoT-Optimized Integrated Connectivity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Distinguished Researcher Elected to National Academy of Engineering](https://www.semiconductor-digest.com/distinguished-researcher-elected-to-national-academy-of-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=distinguished-researcher-elected-to-national-academy-of-engineering)
+**Published:** Fri, 13 Feb 2026 21:46:15 +0000
+
+<p>Dr. Bruce Gnade, professor emeritus of materials science and engineering and director of workforce development at the North Texas Semiconductor Institute at The University of Texas at Dallas, was elected Feb. 10 as a member of the National Academy of Engineering (NAE), one of the highest professional distinctions accorded to an engineer.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/distinguished-researcher-elected-to-national-academy-of-engineering/">Distinguished Researcher Elected to National Academy of Engineering</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2026-02-13 21:49 UTC_
 
 <p>Advanced bare dies for diverse embedding needs, enabling lower power consumption in power electronics equipment.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/mitsubishi-electric-to-ship-samples-of-four-new-trench-sic-mosfet-bare-dies-for-power-semiconductors/">Mitsubishi Electric to Ship Samples of Four New Trench SiC-MOSFET Bare Dies for Power Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Magnachip Announces the Retirement of Director Ilbok Lee](https://www.semiconductor-digest.com/magnachip-announces-the-retirement-of-director-ilbok-lee/?utm_source=rss&utm_medium=rss&utm_campaign=magnachip-announces-the-retirement-of-director-ilbok-lee)
-**Published:** Wed, 14 Jan 2026 17:42:20 +0000
-
-<p>Magnachip Semiconductor Corporation today announced that Ilbok Lee has notified the Company of his intention to retire from the Company’s Board of Directors, to be effective at the Company’s next scheduled Board meeting to be held on January 14, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/magnachip-announces-the-retirement-of-director-ilbok-lee/">Magnachip Announces the Retirement of Director Ilbok Lee</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [KAIST Develops OLED Technology with Double the Screen Brightness​](https://www.semiconductor-digest.com/kaist-develops-oled-technology-with-double-the-screen-brightness/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-develops-oled-technology-with-double-the-screen-brightness)
-**Published:** Tue, 13 Jan 2026 00:46:06 +0000
-
-<p>Organic light-emitting diodes (OLEDs) are widely used in smartphones and TVs thanks to their excellent color reproduction and thin, flexible planar structure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kaist-develops-oled-technology-with-double-the-screen-brightness/">KAIST Develops OLED Technology with Double the Screen Brightness​</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
