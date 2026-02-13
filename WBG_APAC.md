@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-13 06:13 UTC_
+_Last updated: 2026-02-13 07:24 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -914,10 +914,24 @@ _Last updated: 2026-02-13 06:13 UTC_
 
 ---
 
-## [JOB: SoC / IP RTL Design Engineer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/soc-ip-rtl-design-engineer-capgemini-bengaluru)
-**Published:** Thu, 12 Feb 2026 08:35:20 +0000
+## [Solving Gate Leakage In GaN Devices](https://www.electronicsforu.com/news/solving-gate-leakage-in-gan-devices)
+**Published:** Fri, 13 Feb 2026 07:16:47 +0000
 
-<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic&#160;programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs),&#160;printed circuit boards&#160;(PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment; Job Description &#8211; Grade [&#8230;]
+<img alt="Solving Gate Leakage In GaN Devices" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/Gan-team-2.jpg-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A gate design cuts leakage, raises threshold voltage, and improves stability in GaN power devices, clearing a barrier to wider use in power systems. GaN devices can reduce energy losses and shrink the size of power converters and other power modules by up to three times, but their adoption has been limited due to constraints [&#8230;]
+
+---
+
+## [Bridging The Gap Between Classroom And Industry](https://www.electronicsforu.com/news/bridging-the-gap-between-classroom-and-industry)
+**Published:** Fri, 13 Feb 2026 07:07:32 +0000
+
+<img alt="Bridging The Gap Between Classroom And Industry" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/image-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What happens when students stop building for grades and start building like engineers? This competition tested more than ideas. It tested real-world skills. India’s electronics sector continues to face a problem. Students graduate with theoretical knowledge but limited exposure to engineering practice. Classrooms teach circuit theory, microprocessors, and programming basics, but industry demands experience in [&#8230;]
+
+---
+
+## [Stable Switching In Noisy Environments](https://www.electronicsforu.com/news/stable-switching-in-noisy-environments)
+**Published:** Fri, 13 Feb 2026 06:52:19 +0000
+
+<img alt="Stable Switching In Noisy Environments" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/unnamed-26-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Heat, power loss, and switching issues slow high-voltage systems. A 1200V silicon carbide platform can fix them. Here’s what makes it different. Navitas Semiconductor has introduced its 5th-generation GeneSiC silicon carbide (SiC) platform, adding a new 1200V MOSFET family. The new devices improve power conversion performance with a 35% improvement in the balance between conduction [&#8230;]
 
 ---
 
