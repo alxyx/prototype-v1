@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-13 05:06 UTC_
+_Last updated: 2026-02-13 06:13 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -918,13 +918,6 @@ _Last updated: 2026-02-13 05:06 UTC_
 **Published:** Thu, 12 Feb 2026 08:35:20 +0000
 
 <img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic&#160;programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs),&#160;printed circuit boards&#160;(PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment; Job Description &#8211; Grade [&#8230;]
-
----
-
-## [JOB: Physical Design Engineer At Quest Global In Bengaluru](https://www.electronicsforu.com/career/physical-design-engineer-quest-global-bengaluru)
-**Published:** Thu, 12 Feb 2026 07:44:03 +0000
-
-<img alt="JOB: Physical Design Engineer At Quest Global In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/06/quest-global-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Quest Global As a Physical Design Engineer, you will be responsible for designing and implementing physical design solutions for our projects. You will work closely with our engineering team to ensure the successful execution of our designs. Key Responsibilities Qualifications
 
 ---
 
