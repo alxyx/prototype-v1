@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-14 20:41 UTC_
+_Last updated: 2026-02-14 21:39 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -911,6 +911,22 @@ _Last updated: 2026-02-14 20:41 UTC_
 
 <p>Lam Research and CEA-Leti team up to speed specialty semiconductor innovation.</p>
 <p>The post <a href="https://www.eetimes.com/lam-research-cea-leti-open-fast-lane-for-specialty-technologies/">Lam Research, CEA-Leti Open Fast Lane for Specialty Technologies</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Silanna LiDAR laser firing ICs combine charging and firing](https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/silanna-lidar-laser-firing-ics-combine-charging-and-firing-2026-02/)
+**Published:** Fri, 13 Feb 2026 11:46:35 +0000
+
+<p>Silanna Semiconductor is announcing its FirePower laser firing system ICs are now available in production quantities. They aim at LiDAR and rangefinder applications. Specifically, there is the SL2001 (above) and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/analogue-linear-mixed-signal-ics/silanna-lidar-laser-firing-ics-combine-charging-and-firing-2026-02/">Silanna LiDAR laser firing ICs combine charging and firing</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [DCPI market to top $80bn in 2030](https://www.electronicsweekly.com/news/business/dcpi-market-to-top-80bn-in-2030-2026-02/)
+**Published:** Fri, 13 Feb 2026 06:11:31 +0000
+
+<p>The Data Centre Physical Infrastructure (DCPI) market is projected to grow at a mid-teens CAGR from 2025 to 2030 to reach more than $80 billion, says Dell’Oro. While demand signals ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/dcpi-market-to-top-80bn-in-2030-2026-02/">DCPI market to top $80bn in 2030</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
