@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-16 17:52 UTC_
+_Last updated: 2026-02-16 18:57 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-16 17:52 UTC_
 
 ---
 
+## [Coming Soon – Power Corner](https://www.powerelectronicsnews.com/coming-soon-power-corner/)
+**Published:** Mon, 16 Feb 2026 18:06:09 +0000
+
+<p>Coming Soon! PEN&#8217;s Power Corner, a weekly video series hosted by Aalyia Shaukat featuring exclusive interviews with leading experts and executives across the power electronics...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/coming-soon-power-corner/">Coming Soon &#8211; Power Corner</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [2025 Power Survey Findings](https://www.powerelectronicsnews.com/2026-power-survey-findings/)
 **Published:** Mon, 16 Feb 2026 13:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2026-02-16 17:52 UTC_
 
 <img alt="Allegro MicroSystems Introduces High-Accuracy Hall-Effect Current Sensor." class="webfeedsFeaturedVisual wp-post-image" height="900" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Press-ACS37017-16x9-1.jpg?fit=1600%2C900" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new Hall-effect current sensor delivers best accuracy for high-voltage power conversion in AI, automotive, and energy systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/allegro-introduces-high-accuracy-hall-effect-current-sensor/">Allegro Introduces High-Accuracy Hall-Effect Current Sensor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Empower Semiconductor Launches New Silicon Capacitors](https://www.powerelectronicsnews.com/empower-semiconductor-launches-new-silicon-capacitors/)
-**Published:** Thu, 12 Feb 2026 14:41:54 +0000
-
-<img alt="Empower Semiconductor Launches New ECAP™ Silicon Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="2750" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Empower_ECAPs_WithLogo_V02.jpg?fit=6000%2C2750" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>The new ECAP™ silicon capacitors feature ultralow ESL/ESR, enhancing power integrity for AI and HPC processors.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/empower-semiconductor-launches-new-silicon-capacitors/">Empower Semiconductor Launches New Silicon Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
