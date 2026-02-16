@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-16 08:08 UTC_
+_Last updated: 2026-02-16 09:04 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -933,13 +933,6 @@ _Last updated: 2026-02-16 08:08 UTC_
 **Published:** Mon, 16 Feb 2026 07:15:30 +0000
 
 <img alt="Pushing Memory Bandwidth Into The AI Era" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/Samsung-Semiconductors-Industry-First-Commercial-HBM4_main2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />With doubled I/O interfaces and refined low voltage TSV design, HBM4 reshapes how memory stacks sustain throughput under data centre scale loads. Samsung Electronics has introduced its HBM4 memory and begun mass production, marking what it describes as an industry first for the next-generation high-bandwidth memory standard. The device targets AI computing and data center [&#8230;]
-
----
-
-## [JOB:  Power Electronics Engineer At PierSight In Ahmedabad](https://www.electronicsforu.com/career/power-electronics-engineer-piersight-ahmedabad)
-**Published:** Fri, 13 Feb 2026 08:48:27 +0000
-
-<img alt="Hardware Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/Job-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Ahmedabad Company: PierSight You will play a critical role in designing, analysing, building, and validating space-grade power electronics systems.  Key Responsibilities Qualifications UG: B. Tech / B. E. in Electrical, Electronics, Instrumentation&#160; PG: Any Postgraduate in Electrical, Electronics, Instrumentation-related subjects
 
 ---
 
