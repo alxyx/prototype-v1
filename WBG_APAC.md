@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-16 20:46 UTC_
+_Last updated: 2026-02-16 21:43 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -15,6 +15,14 @@ _Last updated: 2026-02-16 20:46 UTC_
 
 <p>Cadence is redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/">Cadence Pioneers New Frontier in Chip Design and Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [ITRI Breaks Ground on Advanced Semiconductor R&D Center Featuring a 12-Inch Pilot Line](https://www.semiconductor-digest.com/itri-breaks-ground-on-advanced-semiconductor-rd-center-featuring-a-12-inch-pilot-line/?utm_source=rss&utm_medium=rss&utm_campaign=itri-breaks-ground-on-advanced-semiconductor-rd-center-featuring-a-12-inch-pilot-line)
+**Published:** Mon, 16 Feb 2026 21:16:05 +0000
+
+<p>The Advanced Semiconductor R&#038;D Center has officially broken ground at the headquarters campus of the Industrial Technology Research Institute (ITRI) in Hsinchu.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/itri-breaks-ground-on-advanced-semiconductor-rd-center-featuring-a-12-inch-pilot-line/">ITRI Breaks Ground on Advanced Semiconductor R&#038;D Center Featuring a 12-Inch Pilot Line</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2026-02-16 20:46 UTC_
 
 <p>Siemens today announced it has acquired ASTER Technologies, a privately held market leader in printed circuit board assembly (PCBA) test verification and engineering software.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/siemens-acquires-aster-technologies/">Siemens Acquires ASTER Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Mitsubishi Electric to Ship Samples of Four New Trench SiC-MOSFET Bare Dies for Power Semiconductors](https://www.semiconductor-digest.com/mitsubishi-electric-to-ship-samples-of-four-new-trench-sic-mosfet-bare-dies-for-power-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-electric-to-ship-samples-of-four-new-trench-sic-mosfet-bare-dies-for-power-semiconductors)
-**Published:** Wed, 14 Jan 2026 17:51:55 +0000
-
-<p>Advanced bare dies for diverse embedding needs, enabling lower power consumption in power electronics equipment.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/mitsubishi-electric-to-ship-samples-of-four-new-trench-sic-mosfet-bare-dies-for-power-semiconductors/">Mitsubishi Electric to Ship Samples of Four New Trench SiC-MOSFET Bare Dies for Power Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
