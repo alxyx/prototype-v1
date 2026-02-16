@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-16 06:24 UTC_
+_Last updated: 2026-02-16 08:08 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -922,11 +922,17 @@ _Last updated: 2026-02-16 06:24 UTC_
 
 ---
 
-## [DCPI market to top $80bn in 2030](https://www.electronicsweekly.com/news/business/dcpi-market-to-top-80bn-in-2030-2026-02/)
-**Published:** Fri, 13 Feb 2026 06:11:31 +0000
+## [Bare Carbon Fibres Become Microactuators](https://www.electronicsforu.com/news/bare-carbon-fibres-become-microactuators)
+**Published:** Mon, 16 Feb 2026 07:32:07 +0000
 
-<p>The Data Centre Physical Infrastructure (DCPI) market is projected to grow at a mid-teens CAGR from 2025 to 2030 to reach more than $80 billion, says Dell’Oro. While demand signals ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/dcpi-market-to-top-80bn-in-2030-2026-02/">DCPI market to top $80bn in 2030</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="Bare Carbon Fibres Become Microactuators" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/1770975569_01-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A simple voltage pulse causes unmodified carbon microfibers to bend and recover, revealing unexpected actuation behaviour at microscopic scale. Researchers at the Institute of Physical Chemistry, Polish Academy of Sciences (IChF) have developed a method to control the motion of pristine carbon microfibers using electricity. The proof-of-concept study, published in Nature Communications, shows that unmodified [&#8230;]
+
+---
+
+## [Pushing Memory Bandwidth Into The AI Era](https://www.electronicsforu.com/news/pushing-memory-bandwidth-into-the-ai-era)
+**Published:** Mon, 16 Feb 2026 07:15:30 +0000
+
+<img alt="Pushing Memory Bandwidth Into The AI Era" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/Samsung-Semiconductors-Industry-First-Commercial-HBM4_main2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />With doubled I/O interfaces and refined low voltage TSV design, HBM4 reshapes how memory stacks sustain throughput under data centre scale loads. Samsung Electronics has introduced its HBM4 memory and begun mass production, marking what it describes as an industry first for the next-generation high-bandwidth memory standard. The device targets AI computing and data center [&#8230;]
 
 ---
 
@@ -934,13 +940,6 @@ _Last updated: 2026-02-16 06:24 UTC_
 **Published:** Fri, 13 Feb 2026 08:48:27 +0000
 
 <img alt="Hardware Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/Job-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Ahmedabad Company: PierSight You will play a critical role in designing, analysing, building, and validating space-grade power electronics systems.  Key Responsibilities Qualifications UG: B. Tech / B. E. in Electrical, Electronics, Instrumentation&#160; PG: Any Postgraduate in Electrical, Electronics, Instrumentation-related subjects
-
----
-
-## [JOB: ASIC Design Engineer (TCP02) At HPE In Kolkata And Bengaluru](https://www.electronicsforu.com/career/asic-design-engineer-tcp02-hpe-kolkata-bengaluru)
-**Published:** Fri, 13 Feb 2026 08:37:29 +0000
-
-<img alt="JOB: ASIC Design Engineer (TCP02) At HPE In Kolkata And Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/hpe-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru / Kolkata Company: HPE HPE- Juniper Silicon team seeks&#160;ASIC&#160;Design Engineers to develop next generation of&#160;ASICs for our core routers, switches, and firewalls. What You’ll Do What You Need To Bring
 
 ---
 
