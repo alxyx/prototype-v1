@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-16 21:43 UTC_
+_Last updated: 2026-02-16 22:43 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -15,6 +15,30 @@ _Last updated: 2026-02-16 21:43 UTC_
 
 <p>Cadence is redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/">Cadence Pioneers New Frontier in Chip Design and Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Victor Peng Joins Rambus Board of Directors](https://www.semiconductor-digest.com/victor-peng-joins-rambus-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=victor-peng-joins-rambus-board-of-directors)
+**Published:** Mon, 16 Feb 2026 22:07:29 +0000
+
+<p>Rambus Inc., a chip and silicon IP provider making data faster and safer, today announced the appointment of Victor Peng to its Board of Directors, effective Thursday, February 12, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/victor-peng-joins-rambus-board-of-directors/">Victor Peng Joins Rambus Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [POET Technologies Wins Lightwave Award for Advanced AI Connectivity](https://www.semiconductor-digest.com/poet-technologies-wins-lightwave-award-for-advanced-ai-connectivity/?utm_source=rss&utm_medium=rss&utm_campaign=poet-technologies-wins-lightwave-award-for-advanced-ai-connectivity)
+**Published:** Mon, 16 Feb 2026 21:35:09 +0000
+
+<p>POET Technologies Inc. today announced it has earned an Elite Score and a category win in the Lightwave Innovation Reviews 13th annual awards.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/poet-technologies-wins-lightwave-award-for-advanced-ai-connectivity/">POET Technologies Wins Lightwave Award for Advanced AI Connectivity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AMD and TCS to Bring ‘Helios’ Rack-Scale AI Architecture to India](https://www.semiconductor-digest.com/amd-and-tcs-to-bring-helios-rack-scale-ai-architecture-to-india/?utm_source=rss&utm_medium=rss&utm_campaign=amd-and-tcs-to-bring-helios-rack-scale-ai-architecture-to-india)
+**Published:** Mon, 16 Feb 2026 21:30:15 +0000
+
+<p>AMD and Tata Consultancy Services have expanded their strategic collaboration.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/amd-and-tcs-to-bring-helios-rack-scale-ai-architecture-to-india/">AMD and TCS to Bring ‘Helios’ Rack-Scale AI Architecture to India</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,30 +815,6 @@ _Last updated: 2026-02-16 21:43 UTC_
 
 <p>Overcoming the limitations of fully stretchable OLEDs through an exciplex-assisted phosphorescent layer and MXene-contact stretchable electrodes.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/seoul-national-university-drexel-university-team-achieve-worlds-highest-efficiency-fully-stretchable-oleds-with-17-external-quantum-efficiency/">Seoul National University-Drexel University Team Achieve World&#8217;s Highest Efficiency Fully Stretchable OLEDs with 17% External Quantum Efficiency</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Startup Island TAIWAN Silicon Valley Hub Marks First Anniversary](https://www.semiconductor-digest.com/startup-island-taiwan-silicon-valley-hub-marks-first-anniversary/?utm_source=rss&utm_medium=rss&utm_campaign=startup-island-taiwan-silicon-valley-hub-marks-first-anniversary)
-**Published:** Wed, 14 Jan 2026 21:51:53 +0000
-
-<p>Startup Island TAIWAN Silicon Valley Hub celebrated its first anniversary on January 12 (U.S. Pacific Time) in Palo Alto.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/startup-island-taiwan-silicon-valley-hub-marks-first-anniversary/">Startup Island TAIWAN Silicon Valley Hub Marks First Anniversary</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Synopsys Enters Definitive Agreement with GlobalFoundries For Sale of Processor IP Solutions Business](https://www.semiconductor-digest.com/synopsys-enters-definitive-agreement-with-globalfoundries-for-sale-of-processor-ip-solutions-business/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-enters-definitive-agreement-with-globalfoundries-for-sale-of-processor-ip-solutions-business)
-**Published:** Wed, 14 Jan 2026 21:48:29 +0000
-
-<p>Synopsys, Inc. today announced it has entered into a definitive agreement for the sale of its Processor IP Solutions business to GlobalFoundries.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/synopsys-enters-definitive-agreement-with-globalfoundries-for-sale-of-processor-ip-solutions-business/">Synopsys Enters Definitive Agreement with GlobalFoundries For Sale of Processor IP Solutions Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Siemens Acquires ASTER Technologies](https://www.semiconductor-digest.com/siemens-acquires-aster-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-acquires-aster-technologies)
-**Published:** Wed, 14 Jan 2026 17:54:55 +0000
-
-<p>Siemens today announced it has acquired ASTER Technologies, a privately held market leader in printed circuit board assembly (PCBA) test verification and engineering software.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-acquires-aster-technologies/">Siemens Acquires ASTER Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
