@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-16 13:18 UTC_
+_Last updated: 2026-02-16 14:56 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -903,14 +903,6 @@ _Last updated: 2026-02-16 13:18 UTC_
 
 <p>Qatar accelerates deep-tech domination with major AI, quantum, and semiconductor investments.</p>
 <p>The post <a href="https://www.eetimes.com/qatars-deep-tech-ambitions-come-into-focus/">Qatar’s Deep Tech Ambitions Come Into Focus</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Lam Research, CEA-Leti Open Fast Lane for Specialty Technologies](https://www.eetimes.com/lam-research-cea-leti-open-fast-lane-for-specialty-technologies/)
-**Published:** Wed, 11 Feb 2026 13:00:00 +0000
-
-<p>Lam Research and CEA-Leti team up to speed specialty semiconductor innovation.</p>
-<p>The post <a href="https://www.eetimes.com/lam-research-cea-leti-open-fast-lane-for-specialty-technologies/">Lam Research, CEA-Leti Open Fast Lane for Specialty Technologies</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
