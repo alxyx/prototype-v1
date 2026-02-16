@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-16 05:13 UTC_
+_Last updated: 2026-02-16 06:24 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -941,13 +941,6 @@ _Last updated: 2026-02-16 05:13 UTC_
 **Published:** Fri, 13 Feb 2026 08:37:29 +0000
 
 <img alt="JOB: ASIC Design Engineer (TCP02) At HPE In Kolkata And Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/hpe-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru / Kolkata Company: HPE HPE- Juniper Silicon team seeks&#160;ASIC&#160;Design Engineers to develop next generation of&#160;ASICs for our core routers, switches, and firewalls. What You’ll Do What You Need To Bring
-
----
-
-## [Solving Gate Leakage In GaN Devices](https://www.electronicsforu.com/news/solving-gate-leakage-in-gan-devices)
-**Published:** Fri, 13 Feb 2026 07:16:47 +0000
-
-<img alt="Solving Gate Leakage In GaN Devices" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/Gan-team-2.jpg-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A gate design cuts leakage, raises threshold voltage, and improves stability in GaN power devices, clearing a barrier to wider use in power systems. GaN devices can reduce energy losses and shrink the size of power converters and other power modules by up to three times, but their adoption has been limited due to constraints [&#8230;]
 
 ---
 
