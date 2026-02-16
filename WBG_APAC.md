@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-16 09:04 UTC_
+_Last updated: 2026-02-16 10:09 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -922,17 +922,24 @@ _Last updated: 2026-02-16 09:04 UTC_
 
 ---
 
+## [How cocotb Is Transforming Digital Design Verification](https://www.electronicsforu.com/technology-trends/how-cocotb-is-transforming-digital-design-verification)
+**Published:** Mon, 16 Feb 2026 09:40:40 +0000
+
+<img alt="How cocotb Is Transforming Digital Design Verification" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/2-1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Its use results in faster development, cleaner testbenches, and a modern software-oriented approach to validating FPGA and ASIC designs without replacing your existing simulator. Verification has always been one of the most resource-intensive phases of digital design. Whether building FPGA-based embedded controllers or high-complexity ASICs, engineers spend substantial time validating RTL functionality before committing to [&#8230;]
+
+---
+
+## [JOB: Hardware Engineer – Technical Specialist At Carrier In Hyderabad](https://www.electronicsforu.com/career/hardware-engineer-technical-specialist-carrier-hyderabad)
+**Published:** Mon, 16 Feb 2026 09:11:46 +0000
+
+<img alt="JOB: Hardware Engineer - Technical Specialist At Carrier In Hyderabad" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/05/carrier-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Hyderabad Company: Carrier About The Role Senior Electrical and Electronics Engineering professional with deep knowledge and highly developed technical expertise. Directs activities in the discipline and represents the organisation at external events. Evaluates operating systems, provides technical training, designs electronic components, and develops implementation schedules. Key Responsibilities Embedded Hardware design and development. [&#8230;]
+
+---
+
 ## [Bare Carbon Fibres Become Microactuators](https://www.electronicsforu.com/news/bare-carbon-fibres-become-microactuators)
 **Published:** Mon, 16 Feb 2026 07:32:07 +0000
 
 <img alt="Bare Carbon Fibres Become Microactuators" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/1770975569_01-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A simple voltage pulse causes unmodified carbon microfibers to bend and recover, revealing unexpected actuation behaviour at microscopic scale. Researchers at the Institute of Physical Chemistry, Polish Academy of Sciences (IChF) have developed a method to control the motion of pristine carbon microfibers using electricity. The proof-of-concept study, published in Nature Communications, shows that unmodified [&#8230;]
-
----
-
-## [Pushing Memory Bandwidth Into The AI Era](https://www.electronicsforu.com/news/pushing-memory-bandwidth-into-the-ai-era)
-**Published:** Mon, 16 Feb 2026 07:15:30 +0000
-
-<img alt="Pushing Memory Bandwidth Into The AI Era" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/Samsung-Semiconductors-Industry-First-Commercial-HBM4_main2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />With doubled I/O interfaces and refined low voltage TSV design, HBM4 reshapes how memory stacks sustain throughput under data centre scale loads. Samsung Electronics has introduced its HBM4 memory and begun mass production, marking what it describes as an industry first for the next-generation high-bandwidth memory standard. The device targets AI computing and data center [&#8230;]
 
 ---
 
