@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-17 14:58 UTC_
+_Last updated: 2026-02-17 16:06 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-17 14:58 UTC_
 
 ---
 
+## [Taking Stock of China’s EUV Lithography Efforts](https://www.powerelectronicsnews.com/taking-stock-of-chinas-euv-lithography-efforts/)
+**Published:** Tue, 17 Feb 2026 16:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3456" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_836719578.jpeg?fit=5632%2C3456" style="display: block; margin-bottom: 5px; clear: both;" width="5632" /><p>Should press reports of a secret Chinese EUV tool prototype be taken as evidence of a rapidly closing technology gap?</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/taking-stock-of-chinas-euv-lithography-efforts/">Taking Stock of China’s EUV Lithography Efforts</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Inside 2025’s SiC Power Module Innovations, Part 2](https://www.powerelectronicsnews.com/inside-2025s-sic-power-module-innovations-part-2/)
 **Published:** Tue, 17 Feb 2026 13:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2026-02-17 14:58 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3651" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_341009459.jpeg?fit=5477%2C3651" style="display: block; margin-bottom: 5px; clear: both;" width="5477" /><p>Water has been a source of energy generation for thousands of years. Osmotic power generation has seen some key advances of the last couple of...</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/osmotic-power-a-viable-renewable-energy-solution/">Osmotic Power: A Viable Renewable Energy Solution</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Infineon Acquires ams OSRAM Non-Optical Sensor Portfolio](https://www.powerelectronicsnews.com/infineon-acquires-ams-osram-non-optical-sensor-portfolio/)
-**Published:** Fri, 13 Feb 2026 13:00:00 +0000
-
-<img alt="Infineon Acquires ams OSRAM Non-Optical Sensor Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="1417" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/jochen-hanebeck.jpg?fit=2126%2C1417" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>With this acquisition, Infineon expands its sensor business, enhancing automotive, industrial, and medical sensor capabilities.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-acquires-ams-osram-non-optical-sensor-portfolio/">Infineon Acquires ams OSRAM Non-Optical Sensor Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
