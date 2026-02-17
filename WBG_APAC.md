@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-17 02:21 UTC_
+_Last updated: 2026-02-17 05:06 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -925,13 +925,6 @@ _Last updated: 2026-02-17 02:21 UTC_
 **Published:** Mon, 16 Feb 2026 09:11:46 +0000
 
 <img alt="JOB: Hardware Engineer - Technical Specialist At Carrier In Hyderabad" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/05/carrier-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Hyderabad Company: Carrier About The Role Senior Electrical and Electronics Engineering professional with deep knowledge and highly developed technical expertise. Directs activities in the discipline and represents the organisation at external events. Evaluates operating systems, provides technical training, designs electronic components, and develops implementation schedules. Key Responsibilities Embedded Hardware design and development. [&#8230;]
-
----
-
-## [Bare Carbon Fibres Become Microactuators](https://www.electronicsforu.com/news/bare-carbon-fibres-become-microactuators)
-**Published:** Mon, 16 Feb 2026 07:32:07 +0000
-
-<img alt="Bare Carbon Fibres Become Microactuators" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/1770975569_01-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A simple voltage pulse causes unmodified carbon microfibers to bend and recover, revealing unexpected actuation behaviour at microscopic scale. Researchers at the Institute of Physical Chemistry, Polish Academy of Sciences (IChF) have developed a method to control the motion of pristine carbon microfibers using electricity. The proof-of-concept study, published in Nature Communications, shows that unmodified [&#8230;]
 
 ---
 
