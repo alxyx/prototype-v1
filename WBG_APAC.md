@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-17 11:52 UTC_
+_Last updated: 2026-02-17 13:18 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,22 @@ _Last updated: 2026-02-17 11:52 UTC_
 
 ---
 
+## [Inside 2025’s SiC Power Module Innovations, Part 2](https://www.powerelectronicsnews.com/inside-2025s-sic-power-module-innovations-part-2/)
+**Published:** Tue, 17 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_517090053.jpeg?fit=6000%2C4000" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>A thorough rundown of 11 different SiC power module releases in 2025 across the power electronics industry. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/inside-2025s-sic-power-module-innovations-part-2/">Inside 2025’s SiC Power Module Innovations, Part 2</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Infineon Introduces New EiceDRIVER Isolated Gate Drivers](https://www.powerelectronicsnews.com/infineon-introduces-new-eicedriver-isolated-gate-drivers/)
+**Published:** Tue, 17 Feb 2026 13:00:00 +0000
+
+<img alt="Infineon Introduces EiceDRIVER 1ED301xMC12I Isolated Gate Drivers." class="webfeedsFeaturedVisual wp-post-image" height="2126" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/x3-lite-1ed301x-ldso-6-1-top-view.jpg?fit=1579%2C2126" style="display: block; margin-bottom: 5px; clear: both;" width="1579" /><p>Opto-emulator-compatible isolated gate drivers deliver high CMTI, fast switching, and robust performance for SiC and silicon power stages.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-introduces-new-eicedriver-isolated-gate-drivers/">Infineon Introduces New EiceDRIVER Isolated Gate Drivers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Coming Soon – Power Corner](https://www.powerelectronicsnews.com/coming-soon-power-corner/)
 **Published:** Mon, 16 Feb 2026 18:06:09 +0000
 
@@ -879,22 +895,6 @@ _Last updated: 2026-02-17 11:52 UTC_
 
 <img alt="Infineon Acquires ams OSRAM Non-Optical Sensor Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="1417" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/jochen-hanebeck.jpg?fit=2126%2C1417" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>With this acquisition, Infineon expands its sensor business, enhancing automotive, industrial, and medical sensor capabilities.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/infineon-acquires-ams-osram-non-optical-sensor-portfolio/">Infineon Acquires ams OSRAM Non-Optical Sensor Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [VPT Introduces VSCPL1210SG Point-of-Load Converter](https://www.powerelectronicsnews.com/vpt-introduces-vscpl1210sg-point-of-load-converter/)
-**Published:** Thu, 12 Feb 2026 15:00:00 +0000
-
-<img alt="VPT Introduces VSCPL1210SG Point-of-Load Converter." class="webfeedsFeaturedVisual wp-post-image" height="498" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/VPT.png?fit=1048%2C498" style="display: block; margin-bottom: 5px; clear: both;" width="1048" /><p>The VSC Series is developed for small satellite platforms operating in low Earth orbit, as well as for NASA Class D missions.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vpt-introduces-vscpl1210sg-point-of-load-converter/">VPT Introduces VSCPL1210SG Point-of-Load Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Allegro Introduces High-Accuracy Hall-Effect Current Sensor](https://www.powerelectronicsnews.com/allegro-introduces-high-accuracy-hall-effect-current-sensor/)
-**Published:** Thu, 12 Feb 2026 14:52:21 +0000
-
-<img alt="Allegro MicroSystems Introduces High-Accuracy Hall-Effect Current Sensor." class="webfeedsFeaturedVisual wp-post-image" height="900" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Press-ACS37017-16x9-1.jpg?fit=1600%2C900" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new Hall-effect current sensor delivers best accuracy for high-voltage power conversion in AI, automotive, and energy systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/allegro-introduces-high-accuracy-hall-effect-current-sensor/">Allegro Introduces High-Accuracy Hall-Effect Current Sensor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
