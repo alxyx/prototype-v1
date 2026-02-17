@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-17 21:50 UTC_
+_Last updated: 2026-02-17 22:45 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -15,6 +15,46 @@ _Last updated: 2026-02-17 21:50 UTC_
 
 <p>Cadence is redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/">Cadence Pioneers New Frontier in Chip Design and Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Lam Research Deepens Investment in Boise](https://www.semiconductor-digest.com/lam-research-deepens-investment-in-boise/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-deepens-investment-in-boise)
+**Published:** Tue, 17 Feb 2026 22:21:46 +0000
+
+<p>The new office will initially support approximately 150 Lam personnel from the greater Boise area focused on collaborative research, development and high-volume manufacturing of Micron's leading-edge memory technology, with room for future growth. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/lam-research-deepens-investment-in-boise/">Lam Research Deepens Investment in Boise</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Tower Semiconductor and Scintil Photonics Announce Availability of World’s First Heterogeneously Integrated DWDM Lasers for AI Infrastructure](https://www.semiconductor-digest.com/tower-semiconductor-and-scintil-photonics-announce-availability-of-worlds-first-heterogeneously-integrated-dwdm-lasers-for-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-and-scintil-photonics-announce-availability-of-worlds-first-heterogeneously-integrated-dwdm-lasers-for-ai-infrastructure)
+**Published:** Tue, 17 Feb 2026 22:13:11 +0000
+
+<p>Tower Semiconductor, the foundry for high-value analog semiconductor solutions, and Scintil Photonics, the technology leader in Heterogeneous Integrated Photonics for next-generation AI infrastructure, today announced availability of the world's first heterogeneously integrated Dense Wavelength Division Multiplexing (DWDM) laser sources for AI infrastructure using Scintil's SHIP (Scintil Heterogeneous Integrated Photonics) technology.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-and-scintil-photonics-announce-availability-of-worlds-first-heterogeneously-integrated-dwdm-lasers-for-ai-infrastructure/">Tower Semiconductor and Scintil Photonics Announce Availability of World&#8217;s First Heterogeneously Integrated DWDM Lasers for AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [2026 Device Research Conference Announces Call for Papers](https://www.semiconductor-digest.com/2026-device-research-conference-announces-call-for-papers/?utm_source=rss&utm_medium=rss&utm_campaign=2026-device-research-conference-announces-call-for-papers)
+**Published:** Tue, 17 Feb 2026 22:08:10 +0000
+
+<p>The Device Research Conference (DRC), the world’s longest running device research meeting, has announced a Call for Papers for DRC 2026, the conference’s 84th anniversary.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/2026-device-research-conference-announces-call-for-papers/">2026 Device Research Conference Announces Call for Papers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Keysight Unveils 3D Interconnect Designer for Chiplet and 3DIC Advanced Package Designs](https://www.semiconductor-digest.com/keysight-unveils-3d-interconnect-designer-for-chiplet-and-3dic-advanced-package-designs/?utm_source=rss&utm_medium=rss&utm_campaign=keysight-unveils-3d-interconnect-designer-for-chiplet-and-3dic-advanced-package-designs)
+**Published:** Tue, 17 Feb 2026 22:02:05 +0000
+
+<p>Keysight Technologies, Inc. today introduced 3D Interconnect Designer, a new addition to its Electronic Design Automation (EDA) portfolio.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/keysight-unveils-3d-interconnect-designer-for-chiplet-and-3dic-advanced-package-designs/">Keysight Unveils 3D Interconnect Designer for Chiplet and 3DIC Advanced Package Designs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [GlobalFoundries and Renesas Expand Partnership to Accelerate U.S. Semiconductor Manufacturing](https://www.semiconductor-digest.com/globalfoundries-and-renesas-expand-partnership-to-accelerate-u-s-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-renesas-expand-partnership-to-accelerate-u-s-semiconductor-manufacturing)
+**Published:** Tue, 17 Feb 2026 21:54:47 +0000
+
+<p>Multi‑billion-dollar collaboration strengthens supply chain resiliency and supports growing demand for chips powering smart vehicles and next-generation industrial system.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-renesas-expand-partnership-to-accelerate-u-s-semiconductor-manufacturing/">GlobalFoundries and Renesas Expand Partnership to Accelerate U.S. Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -775,46 +815,6 @@ _Last updated: 2026-02-17 21:50 UTC_
 
 <p>Sonotec will invest heavily in its SEMIFLOW product series in response to rapidly changing market requirements.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/sonotecs-2026-outlook/">SONOTEC’s 2026 Outlook</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The Entirely Curvilinear Photomask Era Has Arrived](https://www.semiconductor-digest.com/the-entirely-curvilinear-photomask-era-has-arrived/?utm_source=rss&utm_medium=rss&utm_campaign=the-entirely-curvilinear-photomask-era-has-arrived)
-**Published:** Fri, 16 Jan 2026 14:31:52 +0000
-
-<p>Semiconductor manufacturing has reached a curve in the road – one driven by the convergence of GPU acceleration, pixel-based computing, eBeam multi-beam mask writers, and entirely curvilinear inverse lithography technology (ILT).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-entirely-curvilinear-photomask-era-has-arrived/">The Entirely Curvilinear Photomask Era Has Arrived</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [From Roadmaps to Reality: Unlocking Scalable Photonic IC Manufacturing](https://www.semiconductor-digest.com/from-roadmaps-to-reality-unlocking-scalable-photonic-ic-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=from-roadmaps-to-reality-unlocking-scalable-photonic-ic-manufacturing)
-**Published:** Fri, 16 Jan 2026 13:50:24 +0000
-
-<p>Over the past decade, Photonic Integrated Circuits (PICs), have evolved from specialized telecom components into enabling technologies for applications that need to move data fast and with low power. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/from-roadmaps-to-reality-unlocking-scalable-photonic-ic-manufacturing/">From Roadmaps to Reality: Unlocking Scalable Photonic IC Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Applied Brain Research Closes Seed Funding Round to Accelerate Edge AI Voice Processing](https://www.semiconductor-digest.com/applied-brain-research-closes-seed-funding-round-to-accelerate-edge-ai-voice-processing/?utm_source=rss&utm_medium=rss&utm_campaign=applied-brain-research-closes-seed-funding-round-to-accelerate-edge-ai-voice-processing)
-**Published:** Wed, 14 Jan 2026 23:02:37 +0000
-
-<p>Applied Brain Research announced today the successful closure of its oversubscribed seed funding round.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/applied-brain-research-closes-seed-funding-round-to-accelerate-edge-ai-voice-processing/">Applied Brain Research Closes Seed Funding Round to Accelerate Edge AI Voice Processing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: Large-Area Display Shipments Grew 2.9% Year Over Year in 2025](https://www.semiconductor-digest.com/omdia-large-area-display-shipments-grew-2-9-year-over-year-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-large-area-display-shipments-grew-2-9-year-over-year-in-2025)
-**Published:** Wed, 14 Jan 2026 22:46:30 +0000
-
-<p>Despite ongoing global economic uncertainty and the introduction of new US tariff policies, large-area display shipments grew 2.9% year-over-year (YoY) in 2025 based on Omdia’s latest forecast.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-large-area-display-shipments-grew-2-9-year-over-year-in-2025/">Omdia: Large-Area Display Shipments Grew 2.9% Year Over Year in 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Seoul National University-Drexel University Team Achieve World’s Highest Efficiency Fully Stretchable OLEDs with 17% External Quantum Efficiency](https://www.semiconductor-digest.com/seoul-national-university-drexel-university-team-achieve-worlds-highest-efficiency-fully-stretchable-oleds-with-17-external-quantum-efficiency/?utm_source=rss&utm_medium=rss&utm_campaign=seoul-national-university-drexel-university-team-achieve-worlds-highest-efficiency-fully-stretchable-oleds-with-17-external-quantum-efficiency)
-**Published:** Wed, 14 Jan 2026 22:02:01 +0000
-
-<p>Overcoming the limitations of fully stretchable OLEDs through an exciplex-assisted phosphorescent layer and MXene-contact stretchable electrodes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/seoul-national-university-drexel-university-team-achieve-worlds-highest-efficiency-fully-stretchable-oleds-with-17-external-quantum-efficiency/">Seoul National University-Drexel University Team Achieve World&#8217;s Highest Efficiency Fully Stretchable OLEDs with 17% External Quantum Efficiency</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
