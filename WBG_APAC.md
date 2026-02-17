@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-17 05:06 UTC_
+_Last updated: 2026-02-17 06:11 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -914,17 +914,10 @@ _Last updated: 2026-02-17 05:06 UTC_
 
 ---
 
-## [How cocotb Is Transforming Digital Design Verification](https://www.electronicsforu.com/technology-trends/how-cocotb-is-transforming-digital-design-verification)
-**Published:** Mon, 16 Feb 2026 09:40:40 +0000
+## [A Lidar That Sees Motion In 4D](https://www.electronicsforu.com/special/a-lidar-that-sees-motion-in-4d)
+**Published:** Tue, 17 Feb 2026 05:09:48 +0000
 
-<img alt="How cocotb Is Transforming Digital Design Verification" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/2-1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Its use results in faster development, cleaner testbenches, and a modern software-oriented approach to validating FPGA and ASIC designs without replacing your existing simulator. Verification has always been one of the most resource-intensive phases of digital design. Whether building FPGA-based embedded controllers or high-complexity ASICs, engineers spend substantial time validating RTL functionality before committing to [&#8230;]
-
----
-
-## [JOB: Hardware Engineer – Technical Specialist At Carrier In Hyderabad](https://www.electronicsforu.com/career/hardware-engineer-technical-specialist-carrier-hyderabad)
-**Published:** Mon, 16 Feb 2026 09:11:46 +0000
-
-<img alt="JOB: Hardware Engineer - Technical Specialist At Carrier In Hyderabad" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/05/carrier-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Hyderabad Company: Carrier About The Role Senior Electrical and Electronics Engineering professional with deep knowledge and highly developed technical expertise. Directs activities in the discipline and represents the organisation at external events. Evaluates operating systems, provides technical training, designs electronic components, and develops implementation schedules. Key Responsibilities Embedded Hardware design and development. [&#8230;]
+<img alt="A Lidar That Sees Motion In 4D" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/aeva-omni-NR-v4.3-2048x1058-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />This 4D LiDAR sensor sees all around, tracks speed and distance together, and helps machines move safely in tight spaces. Let us find out more! Aeva has introduced Omni, a short-range 4D LiDAR sensor for physical AI systems that need awareness in close spaces. Omni provides a 360-degree horizontal and 90-degree vertical field of view [&#8230;]
 
 ---
 
