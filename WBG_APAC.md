@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-17 17:12 UTC_
+_Last updated: 2026-02-17 18:11 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -845,7 +845,7 @@ _Last updated: 2026-02-17 17:12 UTC_
 ## [Coming Soon – Power Corner](https://www.powerelectronicsnews.com/coming-soon-power-corner/)
 **Published:** Mon, 16 Feb 2026 18:06:09 +0000
 
-<p>Coming Soon! PEN&#8217;s Power Corner, a weekly video series hosted by Aalyia Shaukat featuring exclusive interviews with leading experts and executives across the power electronics...</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Power-Corner-Logo-2.png?fit=2000%2C2000" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>Coming Soon! PEN&#8217;s Power Corner, a weekly video series hosted by Aalyia Shaukat featuring exclusive interviews with leading experts and executives across the power electronics...</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/coming-soon-power-corner/">Coming Soon &#8211; Power Corner</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
