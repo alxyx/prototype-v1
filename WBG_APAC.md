@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-17 10:58 UTC_
+_Last updated: 2026-02-17 11:52 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -914,17 +914,17 @@ _Last updated: 2026-02-17 10:58 UTC_
 
 ---
 
+## [India Opens Full RTL-To-GDS Design Flow For Students And Startups](https://www.electronicsforu.com/news/india-opens-full-rtl-to-gds-design-flow-for-students-and-startups)
+**Published:** Tue, 17 Feb 2026 11:00:42 +0000
+
+<img alt="India Opens Full RTL-To-GDS Design Flow For Students And Startups" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/unnamed-24-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Paving the way for students, researchers, and startups alike, India’s chip designers can now turn ideas into real silicon using open source tools on an Indian process node.&#160; A milestone for India’s semiconductor ecosystem, VSD (VLSI System Design) has successfully demonstrated a working open source RTL-to-GDS flow on the Indian SCL 180 nm process node. For [&#8230;]
+
+---
+
 ## [JOB: Senior PCB Design Engineer At Motionmatics In Noida](https://www.electronicsforu.com/career/senior-pcb-design-engineer-motionmatics-noida)
 **Published:** Tue, 17 Feb 2026 09:36:37 +0000
 
 <img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Motionmatics is seeking an experienced Senior PCB Design Engineer for advanced embedded hardware development projects. Experience: Minimum 7 years (Mandatory) Key Requirements Salary: As per the candidate’s capabilities Location: Noida Share CV at: ramakant@motionmatics.in
-
----
-
-## [Secure Vision Chip For CCTV](https://www.electronicsforu.com/news/secure-vision-chip-for-cctv)
-**Published:** Tue, 17 Feb 2026 06:32:40 +0000
-
-<img alt="Secure Vision Chip For CCTV" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/semiconductor-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A vision chip runs on-device video analytics with edge AI and hardware security, reducing cloud use in CCTV systems. Here is what it brings. Mindgrove Technologies plans to release its V2600 system-on-chip in late 2026 for CCTV and surveillance systems that require built-in security and on-device processing. The chip is designed to run video analytics [&#8230;]
 
 ---
 
