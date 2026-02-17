@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-17 07:19 UTC_
+_Last updated: 2026-02-17 09:02 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -918,13 +918,6 @@ _Last updated: 2026-02-17 07:19 UTC_
 **Published:** Tue, 17 Feb 2026 06:32:40 +0000
 
 <img alt="Secure Vision Chip For CCTV" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/semiconductor-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A vision chip runs on-device video analytics with edge AI and hardware security, reducing cloud use in CCTV systems. Here is what it brings. Mindgrove Technologies plans to release its V2600 system-on-chip in late 2026 for CCTV and surveillance systems that require built-in security and on-device processing. The chip is designed to run video analytics [&#8230;]
-
----
-
-## [A Lidar That Sees Motion In 4D](https://www.electronicsforu.com/special/a-lidar-that-sees-motion-in-4d)
-**Published:** Tue, 17 Feb 2026 05:09:48 +0000
-
-<img alt="A Lidar That Sees Motion In 4D" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/aeva-omni-NR-v4.3-2048x1058-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />This 4D LiDAR sensor sees all around, tracks speed and distance together, and helps machines move safely in tight spaces. Let us find out more! Aeva has introduced Omni, a short-range 4D LiDAR sensor for physical AI systems that need awareness in close spaces. Omni provides a 360-degree horizontal and 90-degree vertical field of view [&#8230;]
 
 ---
 
