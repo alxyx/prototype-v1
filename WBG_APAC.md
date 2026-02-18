@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-18 11:51 UTC_
+_Last updated: 2026-02-18 13:19 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-18 11:51 UTC_
 
 ---
 
+## [Power Electronics Course with QSPICE (Episode 4): Efficiency in Steady State](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-4-efficiency-in-steady-state/)
+**Published:** Wed, 18 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/figure-00-power-course-1.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>In the last installment of the course, we addressed the general concept of efficiency, introduced the physical and energetic definitions of the term, and clarified...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-4-efficiency-in-steady-state/">Power Electronics Course with QSPICE (Episode 4): Efficiency in Steady State</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [GaN Goes Big: How 300 mm Wafers are Powering the Next Generation of Data Centers](https://www.powerelectronicsnews.com/gan-goes-big-how-300-mm-wafers-are-powering-the-next-generation-of-data-centers/)
 **Published:** Wed, 18 Feb 2026 09:00:00 +0000
 
@@ -890,11 +898,11 @@ _Last updated: 2026-02-18 11:51 UTC_
 
 ---
 
-## [AlN Power Transistors, SiC Power Module Innovations, Longevity of EV Batteries: Power Electronics Week Insights](https://www.powerelectronicsnews.com/aln-power-transistors-sic-power-module-innovations-longevity-of-ev-batteries-power-electronics-week-insights/)
-**Published:** Fri, 13 Feb 2026 15:38:50 +0000
+## [Alpha and Omega releases AOTL037V60DE2 600V super junction mosfet](https://www.electronicsweekly.com/news/products/power-supplies/alpha-and-omega-releases-aotl037v60de2-600v-super-junction-mosfet-2026-02/)
+**Published:** Wed, 18 Feb 2026 11:22:05 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on AlN Power Transistors, SiC Power Module Innovations, and Longevity of EV Batteries!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/aln-power-transistors-sic-power-module-innovations-longevity-of-ev-batteries-power-electronics-week-insights/">AlN Power Transistors, SiC Power Module Innovations, Longevity of EV Batteries: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>The AOTL037V60DE2, a 600V mosfet from Alpha and Omega Semiconductor (AOS), is its first high-voltage product to use the company&#8217;s αMOS E2 600V Super Junction MOSFET platform. Addressing high efficiency ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/alpha-and-omega-releases-aotl037v60de2-600v-super-junction-mosfet-2026-02/">Alpha and Omega releases AOTL037V60DE2 600V super junction mosfet</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
