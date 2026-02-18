@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-18 09:00 UTC_
+_Last updated: 2026-02-18 10:03 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-18 09:00 UTC_
 
 ---
 
+## [GaN Goes Big: How 300 mm Wafers are Powering the Next Generation of Data Centers](https://www.powerelectronicsnews.com/gan-goes-big-how-300-mm-wafers-are-powering-the-next-generation-of-data-centers/)
+**Published:** Wed, 18 Feb 2026 09:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="340" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/lam_research_pc_feb18_Data-Center-600x340-1.jpg?fit=600%2C340" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>The energy demand on data centers has reached an all-time high, with AI projected to increase power consumption exponentially in the coming years. To address that demand, the computing industry must embrace generational change – something as drastic as adopting a viable alternative to silicon.  Gallium Nitride (GaN) represents such a change. GaN can help data centers meet the growing demands of AI by enabling more efficient power delivery and reducing energy consumption.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/gan-goes-big-how-300-mm-wafers-are-powering-the-next-generation-of-data-centers/">GaN Goes Big: How 300 mm Wafers are Powering the Next Generation of Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Taking Stock of China’s EUV Lithography Efforts](https://www.powerelectronicsnews.com/taking-stock-of-chinas-euv-lithography-efforts/)
 **Published:** Tue, 17 Feb 2026 16:00:00 +0000
 
@@ -887,22 +895,6 @@ _Last updated: 2026-02-18 09:00 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on AlN Power Transistors, SiC Power Module Innovations, and Longevity of EV Batteries!</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/aln-power-transistors-sic-power-module-innovations-longevity-of-ev-batteries-power-electronics-week-insights/">AlN Power Transistors, SiC Power Module Innovations, Longevity of EV Batteries: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Osmotic Power: A Viable Renewable Energy Solution](https://www.powerelectronicsnews.com/osmotic-power-a-viable-renewable-energy-solution/)
-**Published:** Fri, 13 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3651" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_341009459.jpeg?fit=5477%2C3651" style="display: block; margin-bottom: 5px; clear: both;" width="5477" /><p>Water has been a source of energy generation for thousands of years. Osmotic power generation has seen some key advances of the last couple of...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/osmotic-power-a-viable-renewable-energy-solution/">Osmotic Power: A Viable Renewable Energy Solution</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Qatar’s Deep Tech Ambitions Come Into Focus](https://www.eetimes.com/qatars-deep-tech-ambitions-come-into-focus/)
-**Published:** Fri, 13 Feb 2026 08:00:00 +0000
-
-<p>Qatar accelerates deep-tech domination with major AI, quantum, and semiconductor investments.</p>
-<p>The post <a href="https://www.eetimes.com/qatars-deep-tech-ambitions-come-into-focus/">Qatar’s Deep Tech Ambitions Come Into Focus</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
