@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-18 17:18 UTC_
+_Last updated: 2026-02-18 19:09 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -898,11 +898,11 @@ _Last updated: 2026-02-18 17:18 UTC_
 
 ---
 
-## [Alpha and Omega releases AOTL037V60DE2 600V super junction mosfet](https://www.electronicsweekly.com/news/products/power-supplies/alpha-and-omega-releases-aotl037v60de2-600v-super-junction-mosfet-2026-02/)
+## [Alpha and Omega releases 600V super junction mosfet](https://www.electronicsweekly.com/news/products/power-supplies/alpha-and-omega-releases-aotl037v60de2-600v-super-junction-mosfet-2026-02/)
 **Published:** Wed, 18 Feb 2026 11:22:05 +0000
 
 <p>The AOTL037V60DE2, a 600V mosfet from Alpha and Omega Semiconductor (AOS), is its first high-voltage product to use the company&#8217;s αMOS E2 600V Super Junction MOSFET platform. Addressing high efficiency ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/alpha-and-omega-releases-aotl037v60de2-600v-super-junction-mosfet-2026-02/">Alpha and Omega releases AOTL037V60DE2 600V super junction mosfet</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/alpha-and-omega-releases-aotl037v60de2-600v-super-junction-mosfet-2026-02/">Alpha and Omega releases 600V super junction mosfet</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
