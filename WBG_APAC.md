@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-18 22:47 UTC_
+_Last updated: 2026-02-18 23:44 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -15,6 +15,30 @@ _Last updated: 2026-02-18 22:47 UTC_
 
 <p>Cadence is redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/">Cadence Pioneers New Frontier in Chip Design and Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [CEA-Leti Validates First Ultra-Fast, Battery-Operated EPR Spectrometer at Chip Scale](https://www.semiconductor-digest.com/cea-leti-validates-first-ultra-fast-battery-operated-epr-spectrometer-at-chip-scale/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-validates-first-ultra-fast-battery-operated-epr-spectrometer-at-chip-scale)
+**Published:** Wed, 18 Feb 2026 22:57:44 +0000
+
+<p>Researchers at CEA-Leti and CEA-IRIG-SyMMES have validated a chip-scale electron paramagnetic resonance (EPR) spectrometer that achieves unprecedented scan speed, spectral span, and sensitivity from a battery-operated integrated circuit.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-validates-first-ultra-fast-battery-operated-epr-spectrometer-at-chip-scale/">CEA-Leti Validates First Ultra-Fast, Battery-Operated EPR Spectrometer at Chip Scale</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Rising Wafer Starts and Advanced Nodes Fuel Photolithography Materials Growth](https://www.semiconductor-digest.com/rising-wafer-starts-and-advanced-nodes-fuel-photolithography-materials-growth/?utm_source=rss&utm_medium=rss&utm_campaign=rising-wafer-starts-and-advanced-nodes-fuel-photolithography-materials-growth)
+**Published:** Wed, 18 Feb 2026 22:49:28 +0000
+
+<p>Photolithography materials revenues are forecast to continue their upward trajectory in 2026 supported by increasing wafer starts and the expanding complexity of advanced semiconductor devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rising-wafer-starts-and-advanced-nodes-fuel-photolithography-materials-growth/">Rising Wafer Starts and Advanced Nodes Fuel Photolithography Materials Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Draper and the Northeast Microelectronics Coalition Announce Chip Design and Packaging Services](https://www.semiconductor-digest.com/draper-and-the-northeast-microelectronics-coalition-announce-chip-design-and-packaging-services/?utm_source=rss&utm_medium=rss&utm_campaign=draper-and-the-northeast-microelectronics-coalition-announce-chip-design-and-packaging-services)
+**Published:** Wed, 18 Feb 2026 22:37:50 +0000
+
+<p>Draper and the Northeast Microelectronics Coalition (NEMC) today announced that Draper will provide advisory services and support to startups and small companies within NEMC's membership to de-risk and accelerate lab-to-fab technology transition.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/draper-and-the-northeast-microelectronics-coalition-announce-chip-design-and-packaging-services/">Draper and the Northeast Microelectronics Coalition Announce Chip Design and Packaging Services</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,30 +815,6 @@ _Last updated: 2026-02-18 22:47 UTC_
 
 <p>CEA-Leti today demonstrated a co-packaged microLED and organic photodetector (OPD) architecture that enables optical sensing functions.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/cea-leti-demonstrates-combined-microled-and-organic-photodetector-architecture-for-display-integrated-optical-sensing/">CEA-Leti Demonstrates Combined MicroLED and Organic Photodetector Architecture For Display-Integrated Optical Sensing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Industrial Display Revenues Grow 24% YoY in 2025, Led by AUO Display Plus](https://www.semiconductor-digest.com/industrial-display-revenues-grow-24-yoy-in-2025-led-by-auo-display-plus/?utm_source=rss&utm_medium=rss&utm_campaign=industrial-display-revenues-grow-24-yoy-in-2025-led-by-auo-display-plus)
-**Published:** Mon, 19 Jan 2026 19:07:04 +0000
-
-<p>Global industrial display panel makers achieved revenues reaching $3.4 billion in 2025, representing a 24% year-on-year (YoY) increase, according to Omdia's Industrial and Public Display &#038; OEM Intelligence Service.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/industrial-display-revenues-grow-24-yoy-in-2025-led-by-auo-display-plus/">Industrial Display Revenues Grow 24% YoY in 2025, Led by AUO Display Plus</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Semiconductor Materials Markets Enter 2026 with a Promising Momentum](https://www.semiconductor-digest.com/semiconductor-materials-markets-enter-2026-with-a-promising-momentum/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-materials-markets-enter-2026-with-a-promising-momentum)
-**Published:** Mon, 19 Jan 2026 19:02:57 +0000
-
-<p>Growth is increasingly supported by process complexity rather than wafer volumes alone, while geopolitical dynamics and uneven supply-chain localization continue to influence pricing, sourcing, and investment decisions as the industry enters 2026. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-materials-markets-enter-2026-with-a-promising-momentum/">Semiconductor Materials Markets Enter 2026 with a Promising Momentum</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Department of Commerce and NIST Announce CHIPS Research and Development Letter of Intent with xLight](https://www.semiconductor-digest.com/department-of-commerce-and-nist-announce-chips-research-and-development-letter-of-intent-with-xlight/?utm_source=rss&utm_medium=rss&utm_campaign=department-of-commerce-and-nist-announce-chips-research-and-development-letter-of-intent-with-xlight)
-**Published:** Mon, 19 Jan 2026 18:57:21 +0000
-
-<p>This would be the first award NIST will make after assuming leadership of the National Semiconductor Technology Center in the Trump administration.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/department-of-commerce-and-nist-announce-chips-research-and-development-letter-of-intent-with-xlight/">Department of Commerce and NIST Announce CHIPS Research and Development Letter of Intent with xLight</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
