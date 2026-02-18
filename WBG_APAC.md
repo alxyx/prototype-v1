@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-18 21:49 UTC_
+_Last updated: 2026-02-18 22:47 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -15,6 +15,14 @@ _Last updated: 2026-02-18 21:49 UTC_
 
 <p>Cadence is redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/">Cadence Pioneers New Frontier in Chip Design and Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Renesas Develops SoC Technologies for Automotive Multi-Domain ECUs Essential for the SDV Era](https://www.semiconductor-digest.com/renesas-develops-soc-technologies-for-automotive/?utm_source=rss&utm_medium=rss&utm_campaign=renesas-develops-soc-technologies-for-automotive)
+**Published:** Wed, 18 Feb 2026 22:20:33 +0000
+
+<p>Renesas Electronics Corporation, a supplier of advanced semiconductor solutions, has developed three System-on-Chip (SoC) technologies for automotive multi-domain electronic control units (ECUs).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/renesas-develops-soc-technologies-for-automotive/">Renesas Develops SoC Technologies for Automotive Multi-Domain ECUs Essential for the SDV Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,14 +815,6 @@ _Last updated: 2026-02-18 21:49 UTC_
 
 <p>This would be the first award NIST will make after assuming leadership of the National Semiconductor Technology Center in the Trump administration.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/department-of-commerce-and-nist-announce-chips-research-and-development-letter-of-intent-with-xlight/">Department of Commerce and NIST Announce CHIPS Research and Development Letter of Intent with xLight</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Former Altera CEO Sandra Rivera Assumes Role as VSORA’s Chair of the Board](https://www.semiconductor-digest.com/former-altera-ceo-sandra-rivera-assumes-role-as-vsoras-chair-of-the-board/?utm_source=rss&utm_medium=rss&utm_campaign=former-altera-ceo-sandra-rivera-assumes-role-as-vsoras-chair-of-the-board)
-**Published:** Mon, 19 Jan 2026 18:48:58 +0000
-
-<p>Sandra Rivera, former CEO of Altera, an Intel FPGA spinout, today assumed the role of Chair of the Board of Directors of VSORA, a French  technology leader redefining AI inference for next-generation data centers, cloud infrastructure and edge.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/former-altera-ceo-sandra-rivera-assumes-role-as-vsoras-chair-of-the-board/">Former Altera CEO Sandra Rivera Assumes Role as VSORA’s Chair of the Board</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
