@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-18 14:58 UTC_
+_Last updated: 2026-02-18 16:06 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -15,6 +15,46 @@ _Last updated: 2026-02-18 14:58 UTC_
 
 <p>Cadence is redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/">Cadence Pioneers New Frontier in Chip Design and Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Hammond Power Solutions to Acquire AEG Power Solutions](https://www.semiconductor-digest.com/hammond-power-solutions-to-acquire-aeg-power-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=hammond-power-solutions-to-acquire-aeg-power-solutions)
+**Published:** Wed, 18 Feb 2026 15:03:21 +0000
+
+<p>Hammond Power Solutions Inc., a provider of dry-type transformers and power quality solutions, announced that it has signed a definitive agreement to acquire AEG Power Solutions, subject to regulatory approvals and customary closing conditions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hammond-power-solutions-to-acquire-aeg-power-solutions/">Hammond Power Solutions to Acquire AEG Power Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Imec Unveils 7‑bit, 175GS/s Massively Time-Interleaved Slope-ADC](https://www.semiconductor-digest.com/imec-unveils-7-bit-175gs-s-massively-time-interleaved-slope-adc/?utm_source=rss&utm_medium=rss&utm_campaign=imec-unveils-7-bit-175gs-s-massively-time-interleaved-slope-adc)
+**Published:** Wed, 18 Feb 2026 14:57:50 +0000
+
+<p>Patented linearization and switched input buffer techniques ensure precise signal conversion and wide bandwidth at high speeds.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/imec-unveils-7-bit-175gs-s-massively-time-interleaved-slope-adc/">Imec Unveils 7‑bit, 175GS/s Massively Time-Interleaved Slope-ADC</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [EV Group Unveils Next-Generation EVG120 Resist Processing System for ﻿ ﻿High-Volume Manufacturing](https://www.semiconductor-digest.com/ev-group-unveils-next-generation-evg120-resist-processing-system-for-high-volume-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-unveils-next-generation-evg120-resist-processing-system-for-high-volume-manufacturing)
+**Published:** Wed, 18 Feb 2026 14:53:56 +0000
+
+<p>New ultra-compact platform adds in-situ resist thickness metrology, wafer edge exposure and ﻿EVG150-class performance in a smaller-scale, highly flexible format.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ev-group-unveils-next-generation-evg120-resist-processing-system-for-high-volume-manufacturing/">EV Group Unveils Next-Generation EVG120 Resist Processing System for ﻿ ﻿High-Volume Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [LINTEC Develops Resin Coating Process for Flatter Semiconductor Wafers during Back Grinding](https://www.semiconductor-digest.com/lintec-develops-resin-coating-process-for-flatter-semiconductor-wafers-during-back-grinding/?utm_source=rss&utm_medium=rss&utm_campaign=lintec-develops-resin-coating-process-for-flatter-semiconductor-wafers-during-back-grinding)
+**Published:** Wed, 18 Feb 2026 14:50:28 +0000
+
+<p>LINTEC has developed Pattern Coating Before Lamination (PCBL), a process for the back grinding of semiconductor wafers that reduces thickness variation caused by step height differences on the circuit surface.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lintec-develops-resin-coating-process-for-flatter-semiconductor-wafers-during-back-grinding/">LINTEC Develops Resin Coating Process for Flatter Semiconductor Wafers during Back Grinding</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [CEA Demonstrates First Dynamically Routed Electro-Optical Router for Photonic Interposers](https://www.semiconductor-digest.com/cea-demonstrates-first-dynamically-routed-electro-optical-router-for-photonic-interposers/?utm_source=rss&utm_medium=rss&utm_campaign=cea-demonstrates-first-dynamically-routed-electro-optical-router-for-photonic-interposers)
+**Published:** Wed, 18 Feb 2026 14:46:18 +0000
+
+<p>Researchers from CEA-List and CEA-Leti today unveiled at ISSCC  the first electro-optical router with dynamic, frame-level optical routing integrated with CMOS control logic, marking a major step toward practical optical networking inside advanced chiplet-based packages.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cea-demonstrates-first-dynamically-routed-electro-optical-router-for-photonic-interposers/">CEA Demonstrates First Dynamically Routed Electro-Optical Router for Photonic Interposers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -775,46 +815,6 @@ _Last updated: 2026-02-18 14:58 UTC_
 
 <p>Sandra Rivera, former CEO of Altera, an Intel FPGA spinout, today assumed the role of Chair of the Board of Directors of VSORA, a French  technology leader redefining AI inference for next-generation data centers, cloud infrastructure and edge.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/former-altera-ceo-sandra-rivera-assumes-role-as-vsoras-chair-of-the-board/">Former Altera CEO Sandra Rivera Assumes Role as VSORA’s Chair of the Board</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SINGULUS TECHNOLOGIES Receives New Order for MicroLED Deposition System](https://www.semiconductor-digest.com/singulus-technologies-receives-new-order-for-microled-deposition-system/?utm_source=rss&utm_medium=rss&utm_campaign=singulus-technologies-receives-new-order-for-microled-deposition-system)
-**Published:** Mon, 19 Jan 2026 18:44:40 +0000
-
-<p>SINGULUS TECHNOLOGIES has received a follow-up order for a TIMARIS deposition system for the production of MicroLEDs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/singulus-technologies-receives-new-order-for-microled-deposition-system/">SINGULUS TECHNOLOGIES Receives New Order for MicroLED Deposition System</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Northrop Grumman Accelerates Microelectronics Testing Under DARPA Program](https://www.semiconductor-digest.com/northrop-grumman-accelerates-microelectronics-testing-under-darpa-program/?utm_source=rss&utm_medium=rss&utm_campaign=northrop-grumman-accelerates-microelectronics-testing-under-darpa-program)
-**Published:** Fri, 16 Jan 2026 22:03:37 +0000
-
-<p>Advanced technology enhances testing speed ten-fold for microelectronics used in space and nuclear facilities.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/northrop-grumman-accelerates-microelectronics-testing-under-darpa-program/">Northrop Grumman Accelerates Microelectronics Testing Under DARPA Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Greene Tweed Welcomes Thomas J. Castle as New Chief Operating  Officer](https://www.semiconductor-digest.com/greene-tweed-welcomes-thomas-j-castle-as-new-chief-operating-officer/?utm_source=rss&utm_medium=rss&utm_campaign=greene-tweed-welcomes-thomas-j-castle-as-new-chief-operating-officer)
-**Published:** Fri, 16 Jan 2026 21:57:12 +0000
-
-<p>Greene Tweed has appointed Thomas (T.J.) Castle as its new Chief Operating Officer (COO).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/greene-tweed-welcomes-thomas-j-castle-as-new-chief-operating-officer/">Greene Tweed Welcomes Thomas J. Castle as New Chief Operating  Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AI’s Water Demand to Surge Nearly 130% by 2050](https://www.semiconductor-digest.com/ais-water-demand-to-surge-nearly-130-by-2050/?utm_source=rss&utm_medium=rss&utm_campaign=ais-water-demand-to-surge-nearly-130-by-2050)
-**Published:** Fri, 16 Jan 2026 21:53:06 +0000
-
-<p>Analysis finds AI could add 30 trillion liters of annual water demand, but targeted reuse and digital infrastructure investments can substantially offset demand and protect communities.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ais-water-demand-to-surge-nearly-130-by-2050/">AI’s Water Demand to Surge Nearly 130% by 2050 </a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SONOTEC’s 2026 Outlook](https://www.semiconductor-digest.com/sonotecs-2026-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=sonotecs-2026-outlook)
-**Published:** Fri, 16 Jan 2026 15:06:25 +0000
-
-<p>Sonotec will invest heavily in its SEMIFLOW product series in response to rapidly changing market requirements.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sonotecs-2026-outlook/">SONOTEC’s 2026 Outlook</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
