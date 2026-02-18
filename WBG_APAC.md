@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-18 13:19 UTC_
+_Last updated: 2026-02-18 14:58 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-18 13:19 UTC_
 
 ---
 
+## [ST Unveils 4-Channel Automotive High-Side Driver](https://www.powerelectronicsnews.com/st-unveils-4-channel-automotive-high-side-driver/)
+**Published:** Wed, 18 Feb 2026 13:32:48 +0000
+
+<img alt="ST Unveils 4-Channel Automotive High-Side Driver." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/ST_N4751A.jpg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>This high-side driver powers automotive loads with 4V minimum voltage, ensuring reliability even in extreme cold cranking conditions.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-unveils-4-channel-automotive-high-side-driver/">ST Unveils 4-Channel Automotive High-Side Driver</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Power Electronics Course with QSPICE (Episode 4): Efficiency in Steady State](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-4-efficiency-in-steady-state/)
 **Published:** Wed, 18 Feb 2026 13:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2026-02-18 13:19 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/EPC_Renesas_image.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>A partnership with Renesas, which offers high-voltage GaN, suggests an opportunity for EPC to broaden its low- and medium-voltage portfolio.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/epc-aims-to-broaden-gan-reach-in-strategic-renesas-partnership/">EPC Aims to Broaden GaN Reach in Strategic Renesas Partnership </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Navitas Launches 5th-Gen GeneSiC HV MOSFET Platform](https://www.powerelectronicsnews.com/navitas-launches-5th-gen-genesic-hv-mosfet-platform/)
-**Published:** Fri, 13 Feb 2026 18:04:29 +0000
-
-<img alt="Navitas Launches 5th-Gen GeneSiC HV MOSFET Platform." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Navitas_TAP_PR.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new TAP architecture improves efficiency, switching performance, and long-term reliability for high-voltage power conversion applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/navitas-launches-5th-gen-genesic-hv-mosfet-platform/">Navitas Launches 5th-Gen GeneSiC HV MOSFET Platform</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
