@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-19 08:59 UTC_
+_Last updated: 2026-02-19 10:02 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -906,6 +906,13 @@ _Last updated: 2026-02-19 08:59 UTC_
 
 ---
 
+## [Hardware Certification Intern At Nebero Systems Private Limited In Mohpa](https://www.electronicsforu.com/career/hardware-certification-intern-at-nebero-systems-private-limited-in-mohpa)
+**Published:** Thu, 19 Feb 2026 09:09:42 +0000
+
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Mohpa Company: Nebero Systems Private Limited This is an internship role for a Hardware Certification Intern based on-site in Mohpa. The intern will assist with various hardware development tasks, contribute to circuit design, and support the evaluation of hardware systems for certification. Responsibilities include performing testing, analyzing hardware performance, and [&#8230;]
+
+---
+
 ## [JOB: Design Engineer – Power Electronics At Ather Energy In Bengaluru](https://www.electronicsforu.com/career/design-engineer-power-electronics-ather-energy-bengaluru)
 **Published:** Thu, 19 Feb 2026 08:48:55 +0000
 
@@ -920,10 +927,10 @@ _Last updated: 2026-02-19 08:59 UTC_
 
 ---
 
-## [Faster Light For Radiation Detection](https://www.electronicsforu.com/news/faster-light-for-radiation-detection)
+## [Researchers Developed Hybrid Perovskite Materials that Produce Faster and Stronger Light Under Radiation](https://www.electronicsforu.com/news/faster-light-for-radiation-detection)
 **Published:** Thu, 19 Feb 2026 05:59:55 +0000
 
-<img alt="Faster Light For Radiation Detection" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/oklahoma-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new material uses its organic part to produce faster and stronger light under radiation, helping improve speed and efficiency in radiation detectors. Researchers at the University of Oklahoma have developed hybrid perovskite materials that produce faster and stronger light under radiation. The advance could improve radiation detectors used for neutron, X ray, and gamma [&#8230;]
+<img alt="Researchers Developed Hybrid Perovskite Materials that Produce Faster and Stronger Light Under Radiation" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/oklahoma-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new material uses its organic part to produce faster and stronger light under radiation, helping improve speed and efficiency in radiation detectors. Researchers at the University of Oklahoma have developed hybrid perovskite materials that produce faster and stronger light under radiation. The advance could improve radiation detectors used for neutron, X ray, and gamma [&#8230;]
 
 ---
 
