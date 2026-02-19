@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-19 11:52 UTC_
+_Last updated: 2026-02-19 13:20 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-19 11:52 UTC_
 
 ---
 
+## [Analyzing industry efforts in scaling diamond semiconductor technology](https://www.powerelectronicsnews.com/analyzing-industry-efforts-in-scaling-diamond-semiconductor-technology/)
+**Published:** Thu, 19 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="506" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Cover-Image.jpg?fit=960%2C506" style="display: block; margin-bottom: 5px; clear: both;" width="960" /><p>Diamond’s first large-scale impact will be through integration into existing systems rather than absolute replacement of silicon or SiC.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/analyzing-industry-efforts-in-scaling-diamond-semiconductor-technology/">Analyzing industry efforts in scaling diamond semiconductor technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [ST Unveils 4-Channel Automotive High-Side Driver](https://www.powerelectronicsnews.com/st-unveils-4-channel-automotive-high-side-driver/)
 **Published:** Wed, 18 Feb 2026 13:32:48 +0000
 
@@ -890,19 +898,18 @@ _Last updated: 2026-02-19 11:52 UTC_
 
 ---
 
-## [EPC Aims to Broaden GaN Reach in Strategic Renesas Partnership](https://www.powerelectronicsnews.com/epc-aims-to-broaden-gan-reach-in-strategic-renesas-partnership/)
-**Published:** Mon, 16 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/EPC_Renesas_image.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>A partnership with Renesas, which offers high-voltage GaN, suggests an opportunity for EPC to broaden its low- and medium-voltage portfolio.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/epc-aims-to-broaden-gan-reach-in-strategic-renesas-partnership/">EPC Aims to Broaden GaN Reach in Strategic Renesas Partnership </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Alpha and Omega releases 600V super junction mosfet](https://www.electronicsweekly.com/news/products/power-supplies/alpha-and-omega-releases-aotl037v60de2-600v-super-junction-mosfet-2026-02/)
 **Published:** Wed, 18 Feb 2026 11:22:05 +0000
 
 <p>The AOTL037V60DE2, a 600V mosfet from Alpha and Omega Semiconductor (AOS), is its first high-voltage product to use the company&#8217;s αMOS E2 600V Super Junction MOSFET platform. Addressing high efficiency ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/alpha-and-omega-releases-aotl037v60de2-600v-super-junction-mosfet-2026-02/">Alpha and Omega releases 600V super junction mosfet</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [DIY: Audio Signal–Controlled LED Display Using LM3914](https://www.electronicsforu.com/videos-slideshows/diy-audio-signal-controlled-led-display-using-lm3914)
+**Published:** Thu, 19 Feb 2026 12:26:20 +0000
+
+<img alt="DIY: Audio Signal–Controlled LED Display Using LM3914" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/maxresdefault-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />This DIY project illustrates a simple and effective method of converting an audio signal into a visual LED display using the LM3914 LED driver IC. The circuit responds to the amplitude of an audio or music signal and displays it as a rising LED pattern, making it useful as an audio level indicator or music [&#8230;]
 
 ---
 
@@ -924,13 +931,6 @@ _Last updated: 2026-02-19 11:52 UTC_
 **Published:** Thu, 19 Feb 2026 08:17:21 +0000
 
 <img alt="JOB: Hardware Engineer - Power Electronics At Ohmium In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/06/Ohmium-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Ohmium Key Responsibilities Required Qualifications &#38; Skills
-
----
-
-## [Researchers Developed Hybrid Perovskite Materials that Produce Faster and Stronger Light Under Radiation](https://www.electronicsforu.com/news/faster-light-for-radiation-detection)
-**Published:** Thu, 19 Feb 2026 05:59:55 +0000
-
-<img alt="Researchers Developed Hybrid Perovskite Materials that Produce Faster and Stronger Light Under Radiation" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/oklahoma-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new material uses its organic part to produce faster and stronger light under radiation, helping improve speed and efficiency in radiation detectors. Researchers at the University of Oklahoma have developed hybrid perovskite materials that produce faster and stronger light under radiation. The advance could improve radiation detectors used for neutron, X ray, and gamma [&#8230;]
 
 ---
 
