@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-19 07:25 UTC_
+_Last updated: 2026-02-19 08:59 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -903,6 +903,20 @@ _Last updated: 2026-02-19 07:25 UTC_
 
 <p>The AOTL037V60DE2, a 600V mosfet from Alpha and Omega Semiconductor (AOS), is its first high-voltage product to use the company&#8217;s αMOS E2 600V Super Junction MOSFET platform. Addressing high efficiency ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/alpha-and-omega-releases-aotl037v60de2-600v-super-junction-mosfet-2026-02/">Alpha and Omega releases 600V super junction mosfet</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [JOB: Design Engineer – Power Electronics At Ather Energy In Bengaluru](https://www.electronicsforu.com/career/design-engineer-power-electronics-ather-energy-bengaluru)
+**Published:** Thu, 19 Feb 2026 08:48:55 +0000
+
+<img alt="JOB: Design Engineer - Power Electronics At Ather Energy In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="127" src="https://www.electronicsforu.com/wp-contents/uploads/2023/07/ather-energy.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Ather Energy What You’ll Do What We Are Looking for Expert Level:&#160;Power Electronics Design &#38; Analysis Engineering DVT of Power Converters/Inverters/Drives Advanced Level:&#160;Design and Analysis of High Frequency Magnetics Thermal Testing, Pre-Compliance &#38; Certification Testing per Safety &#38; Regulatory standards Semiconductor Device Characteristics – MOSFETs, IGBTs, Thyristors, Rectifiers Power Management [&#8230;]
+
+---
+
+## [JOB: Hardware Engineer – Power Electronics At Ohmium In Bengaluru](https://www.electronicsforu.com/career/hardware-engineer-power-electronics-ohmium-bengaluru)
+**Published:** Thu, 19 Feb 2026 08:17:21 +0000
+
+<img alt="JOB: Hardware Engineer - Power Electronics At Ohmium In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/06/Ohmium-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Ohmium Key Responsibilities Required Qualifications &#38; Skills
 
 ---
 
