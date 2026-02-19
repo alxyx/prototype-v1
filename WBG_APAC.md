@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-19 13:20 UTC_
+_Last updated: 2026-02-19 15:00 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,22 @@ _Last updated: 2026-02-19 13:20 UTC_
 
 ---
 
+## [ST Launches Isolated 4A Gate Drivers](https://www.powerelectronicsnews.com/st-launches-isolated-4a-gate-drivers/)
+**Published:** Thu, 19 Feb 2026 15:00:00 +0000
+
+<img alt="ST Launches Isolated 4A Gate Drivers for Automotive and Industrial Applications." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/ST_N4753A.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>Automotive-grade gate drivers offer 4A current, 60ns response, and high-voltage isolation for automotive and industrial uses.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-launches-isolated-4a-gate-drivers/">ST Launches Isolated 4A Gate Drivers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [SemiQ Announces New SiC Power Solutions](https://www.powerelectronicsnews.com/semiq-announces-new-sic-power-solutions/)
+**Published:** Thu, 19 Feb 2026 14:00:00 +0000
+
+<img alt="SemiQ Announces New SiC Power Solutions." class="webfeedsFeaturedVisual wp-post-image" height="1932" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/SemiQ_PR.jpg?fit=3000%2C1932" style="display: block; margin-bottom: 5px; clear: both;" width="3000" /><p>These SiC power solutions are designed to meet the demands of high-power infrastructure and next-generation AI datacenters.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/semiq-announces-new-sic-power-solutions/">SemiQ Announces New SiC Power Solutions</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Analyzing industry efforts in scaling diamond semiconductor technology](https://www.powerelectronicsnews.com/analyzing-industry-efforts-in-scaling-diamond-semiconductor-technology/)
 **Published:** Thu, 19 Feb 2026 13:00:00 +0000
 
@@ -879,22 +895,6 @@ _Last updated: 2026-02-19 13:20 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Power-Corner-Logo-2.png?fit=2000%2C2000" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>Coming Soon! PEN&#8217;s Power Corner, a weekly video series hosted by Aalyia Shaukat featuring exclusive interviews with leading experts and executives across the power electronics...</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/coming-soon-power-corner/">Coming Soon &#8211; Power Corner</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [2025 Power Survey Findings](https://www.powerelectronicsnews.com/2026-power-survey-findings/)
-**Published:** Mon, 16 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="981" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Power-Electronics-Survey-Report-2025-Full-Page-Ad-1.jpg?fit=1327%2C981" style="display: block; margin-bottom: 5px; clear: both;" width="1327" /><p>The 2025 Power Survey reveals&#160;emerging power trends, key challenges in component and system design, and recommendations for designers to stay relevant in the power electronics...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/2026-power-survey-findings/">2025 Power Survey Findings</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Danisense Expands DN1000ID Current Transducer Family](https://www.powerelectronicsnews.com/danisense-expands-dn1000id-current-transducer-family/)
-**Published:** Mon, 16 Feb 2026 13:00:00 +0000
-
-<img alt="Danisense Expands DN1000ID Current Transducer Family." class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/DN1000ID-CP02_angle.jpg?fit=1080%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1080" /><p>The DN1000ID-CP02 current transducer offers increased creepage, clearance, and voltage ratings for precise high-current measurements.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/danisense-expands-dn1000id-current-transducer-family/">Danisense Expands DN1000ID Current Transducer Family</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
