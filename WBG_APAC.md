@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-19 05:06 UTC_
+_Last updated: 2026-02-19 06:13 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -906,10 +906,10 @@ _Last updated: 2026-02-19 05:06 UTC_
 
 ---
 
-## [JOB: Staff Engineer, ASIC Development Engineering At SanDisk In Bengaluru](https://www.electronicsforu.com/career/staff-engineer-asic-development-engineering-sandisk-bengaluru)
-**Published:** Wed, 18 Feb 2026 07:57:06 +0000
+## [Faster Light For Radiation Detection](https://www.electronicsforu.com/news/faster-light-for-radiation-detection)
+**Published:** Thu, 19 Feb 2026 05:59:55 +0000
 
-<img alt="JOB: Staff Engineer, ASIC Development Engineering At SanDisk In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/04/sandisk-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: SanDisk This role is ideal for a seasoned MSIP methodology leader who enjoys solving complex cross-domain problems, working closely with foundries, and driving innovation across flows, tools, and teams. Key Responsibilities Qualifications Desirable Skills
+<img alt="Faster Light For Radiation Detection" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/oklahoma-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new material uses its organic part to produce faster and stronger light under radiation, helping improve speed and efficiency in radiation detectors. Researchers at the University of Oklahoma have developed hybrid perovskite materials that produce faster and stronger light under radiation. The advance could improve radiation detectors used for neutron, X ray, and gamma [&#8230;]
 
 ---
 
