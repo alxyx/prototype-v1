@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-20 15:52 UTC_
+_Last updated: 2026-02-20 22:42 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-02-20 15:52 UTC_
 
 ---
 
+## [Diamond Semiconductors, EUV Lithography, EPC-Renesas Partnership: Power Electronics Week Insights](https://www.powerelectronicsnews.com/diamond-semiconductors-euv-lithography-epc-renesas-partnership-power-electronics-week-insights/)
+**Published:** Fri, 20 Feb 2026 16:28:27 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Diamond Semiconductors, EUV Lithography, and EPC-Renesas Partnership!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/diamond-semiconductors-euv-lithography-epc-renesas-partnership-power-electronics-week-insights/">Diamond Semiconductors, EUV Lithography, EPC-Renesas Partnership: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [GaN Powers Humanoid Robots](https://www.powerelectronicsnews.com/gan-powers-humanoid-robots/)
 **Published:** Fri, 20 Feb 2026 13:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2026-02-20 15:52 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3456" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_836719578.jpeg?fit=5632%2C3456" style="display: block; margin-bottom: 5px; clear: both;" width="5632" /><p>Should press reports of a secret Chinese EUV tool prototype be taken as evidence of a rapidly closing technology gap?</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/taking-stock-of-chinas-euv-lithography-efforts/">Taking Stock of China’s EUV Lithography Efforts</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Inside 2025’s SiC Power Module Innovations, Part 2](https://www.powerelectronicsnews.com/inside-2025s-sic-power-module-innovations-part-2/)
-**Published:** Tue, 17 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_517090053.jpeg?fit=6000%2C4000" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>A thorough rundown of 11 different SiC power module releases in 2025 across the power electronics industry. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/inside-2025s-sic-power-module-innovations-part-2/">Inside 2025’s SiC Power Module Innovations, Part 2</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
