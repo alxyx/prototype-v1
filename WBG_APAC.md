@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-19 22:46 UTC_
+_Last updated: 2026-02-20 15:52 UTC_
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
@@ -15,6 +15,30 @@ _Last updated: 2026-02-19 22:46 UTC_
 
 <p>Cadence is redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/">Cadence Pioneers New Frontier in Chip Design and Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Micro LED Display Revenue to Double to $105M in 2026 Driven by Near-Eye Smart Watch and Public Display Applications](https://www.semiconductor-digest.com/micro-led-display-revenue-to-double-to-105m-in-2026-driven-by-near-eye-smart-watch-and-public-display-applications/?utm_source=rss&utm_medium=rss&utm_campaign=micro-led-display-revenue-to-double-to-105m-in-2026-driven-by-near-eye-smart-watch-and-public-display-applications)
+**Published:** Thu, 19 Feb 2026 23:45:02 +0000
+
+<p>Micro LED display revenue is projected to grow 100% year-over-year (YoY), increasing from $52.4 million in 2025 to $105.4 million in 2026, according to the Omdia Micro LED Display Market Tracker.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micro-led-display-revenue-to-double-to-105m-in-2026-driven-by-near-eye-smart-watch-and-public-display-applications/">Micro LED Display Revenue to Double to $105M in 2026 Driven by Near-Eye Smart Watch and Public Display Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Circuit Raises $30M to Scale Expertise in Manufacturing and Service](https://www.semiconductor-digest.com/circuit-raises-30m-to-scale-expertise-in-manufacturing-and-service/?utm_source=rss&utm_medium=rss&utm_campaign=circuit-raises-30m-to-scale-expertise-in-manufacturing-and-service)
+**Published:** Thu, 19 Feb 2026 23:30:17 +0000
+
+<p>Circuit, an Austin-based company building an AI platform for manufacturing and service organizations, today announced it has raised $30 million from individual investors.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/circuit-raises-30m-to-scale-expertise-in-manufacturing-and-service/">Circuit Raises $30M to Scale Expertise in Manufacturing and Service</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Lightelligence Launches Second Generation Optoelectronic Accelerated Computing Card](https://www.semiconductor-digest.com/lightelligence-launches-second-generation-optoelectronic-accelerated-computing-card/?utm_source=rss&utm_medium=rss&utm_campaign=lightelligence-launches-second-generation-optoelectronic-accelerated-computing-card)
+**Published:** Thu, 19 Feb 2026 23:27:53 +0000
+
+<p>Lightelligence today confirmed immediate availability of Photonic Arithmetic Computing Engine2 (PACE2), an optoelectronic accelerated computing card designed to deliver high-performance, programmability and versatility through advanced photonic packaging.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lightelligence-launches-second-generation-optoelectronic-accelerated-computing-card/">Lightelligence Launches Second Generation Optoelectronic Accelerated Computing Card</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,27 +818,19 @@ _Last updated: 2026-02-19 22:46 UTC_
 
 ---
 
-## [SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways](https://www.semiconductor-digest.com/semi-foundation-approved-by-the-u-s-department-of-labor-as-a-national-apprenticeship-sponsor-to-expand-semiconductor-workforce-pathways/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-approved-by-the-u-s-department-of-labor-as-a-national-apprenticeship-sponsor-to-expand-semiconductor-workforce-pathways)
-**Published:** Tue, 20 Jan 2026 22:11:06 +0000
+## [GaN Powers Humanoid Robots](https://www.powerelectronicsnews.com/gan-powers-humanoid-robots/)
+**Published:** Fri, 20 Feb 2026 13:00:00 +0000
 
-<p>The SEMI Foundation today announced it has been officially approved by the U.S. Department of Labor (USDOL) as a National Apprenticeship Sponsor, a major milestone that strengthens industry-led workforce development and expands access to high-quality, earn-and-learn pathways across the U.S. semiconductor ecosystem.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-foundation-approved-by-the-u-s-department-of-labor-as-a-national-apprenticeship-sponsor-to-expand-semiconductor-workforce-pathways/">SEMI Foundation Approved by the U.S. Department of Labor as a National Apprenticeship Sponsor to Expand Semiconductor Workforce Pathways</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Thermonat Makes Nanoscale Thermal Prediction Practical for Real-World Chip Design](https://www.semiconductor-digest.com/thermonat-makes-nanoscale-thermal-prediction-practical-for-real-world-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=thermonat-makes-nanoscale-thermal-prediction-practical-for-real-world-chip-design)
-**Published:** Tue, 20 Jan 2026 21:58:53 +0000
-
-<p>Rapid-start research moves from exploration to commercialization.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/thermonat-makes-nanoscale-thermal-prediction-practical-for-real-world-chip-design/">Thermonat Makes Nanoscale Thermal Prediction Practical for Real-World Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="7292" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_1496409034.jpeg?fit=4926%2C7292" style="display: block; margin-bottom: 5px; clear: both;" width="4926" /><p>Exploring the benefits of GaN HEMTs in the various joints of humanoid robotics, including wrist/elbow/ankle and hip/knee/shoulder.  </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/gan-powers-humanoid-robots/">GaN Powers Humanoid Robots</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [CEA-Leti Demonstrates Combined MicroLED and Organic Photodetector Architecture For Display-Integrated Optical Sensing](https://www.semiconductor-digest.com/cea-leti-demonstrates-combined-microled-and-organic-photodetector-architecture-for-display-integrated-optical-sensing/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-demonstrates-combined-microled-and-organic-photodetector-architecture-for-display-integrated-optical-sensing)
-**Published:** Tue, 20 Jan 2026 21:53:30 +0000
+## [Vishay Introduces AEC-Q200 Qualified Thick Film Chip Resistors](https://www.powerelectronicsnews.com/vishay-introduces-aec-q200-qualified-thick-film-chip-resistors/)
+**Published:** Fri, 20 Feb 2026 13:00:00 +0000
 
-<p>CEA-Leti today demonstrated a co-packaged microLED and organic photodetector (OPD) architecture that enables optical sensing functions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-demonstrates-combined-microled-and-organic-photodetector-architecture-for-display-integrated-optical-sensing/">CEA-Leti Demonstrates Combined MicroLED and Organic Photodetector Architecture For Display-Integrated Optical Sensing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Vishay Introduces AEC-Q200 Qualified 0201 Thick Film Chip Resistors." class="webfeedsFeaturedVisual wp-post-image" height="533" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Vishay_PR.jpg?fit=799%2C533" style="display: block; margin-bottom: 5px; clear: both;" width="799" /><p>Ultra-compact components enable board space savings while supporting high reliability, broad resistance options, and operation up to 155°C.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-introduces-aec-q200-qualified-thick-film-chip-resistors/">Vishay Introduces AEC-Q200 Qualified Thick Film Chip Resistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,63 +898,11 @@ _Last updated: 2026-02-19 22:46 UTC_
 
 ---
 
-## [Infineon Introduces New EiceDRIVER Isolated Gate Drivers](https://www.powerelectronicsnews.com/infineon-introduces-new-eicedriver-isolated-gate-drivers/)
-**Published:** Tue, 17 Feb 2026 13:00:00 +0000
-
-<img alt="Infineon Introduces EiceDRIVER 1ED301xMC12I Isolated Gate Drivers." class="webfeedsFeaturedVisual wp-post-image" height="2126" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/x3-lite-1ed301x-ldso-6-1-top-view.jpg?fit=1579%2C2126" style="display: block; margin-bottom: 5px; clear: both;" width="1579" /><p>Opto-emulator-compatible isolated gate drivers deliver high CMTI, fast switching, and robust performance for SiC and silicon power stages.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-introduces-new-eicedriver-isolated-gate-drivers/">Infineon Introduces New EiceDRIVER Isolated Gate Drivers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Coming Soon – Power Corner](https://www.powerelectronicsnews.com/coming-soon-power-corner/)
-**Published:** Mon, 16 Feb 2026 18:06:09 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Power-Corner-Logo-2.png?fit=2000%2C2000" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>Coming Soon! PEN&#8217;s Power Corner, a weekly video series hosted by Aalyia Shaukat featuring exclusive interviews with leading experts and executives across the power electronics...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/coming-soon-power-corner/">Coming Soon &#8211; Power Corner</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Taalas Specializes to Extremes for Extraordinary Token Speed](https://www.eetimes.com/taalas-specializes-to-extremes-for-extraordinary-token-speed/)
 **Published:** Thu, 19 Feb 2026 16:00:00 +0000
 
 <p>The AI chip startup is borrowing some ideas from the structured ASICs of the early 2000s to rapidly turn around new tape-outs for different models</p>
 <p>The post <a href="https://www.eetimes.com/taalas-specializes-to-extremes-for-extraordinary-token-speed/">Taalas Specializes to Extremes for Extraordinary Token Speed</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Alpha and Omega releases 600V super junction mosfet](https://www.electronicsweekly.com/news/products/power-supplies/alpha-and-omega-releases-aotl037v60de2-600v-super-junction-mosfet-2026-02/)
-**Published:** Wed, 18 Feb 2026 11:22:05 +0000
-
-<p>The AOTL037V60DE2, a 600V mosfet from Alpha and Omega Semiconductor (AOS), is its first high-voltage product to use the company&#8217;s αMOS E2 600V Super Junction MOSFET platform. Addressing high efficiency ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/alpha-and-omega-releases-aotl037v60de2-600v-super-junction-mosfet-2026-02/">Alpha and Omega releases 600V super junction mosfet</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [DIY: Audio Signal–Controlled LED Display Using LM3914](https://www.electronicsforu.com/videos-slideshows/diy-audio-signal-controlled-led-display-using-lm3914)
-**Published:** Thu, 19 Feb 2026 12:26:20 +0000
-
-<img alt="DIY: Audio Signal–Controlled LED Display Using LM3914" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/maxresdefault-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />This DIY project illustrates a simple and effective method of converting an audio signal into a visual LED display using the LM3914 LED driver IC. The circuit responds to the amplitude of an audio or music signal and displays it as a rising LED pattern, making it useful as an audio level indicator or music [&#8230;]
-
----
-
-## [Hardware Certification Intern At Nebero Systems Private Limited In Mohpa](https://www.electronicsforu.com/career/hardware-certification-intern-at-nebero-systems-private-limited-in-mohpa)
-**Published:** Thu, 19 Feb 2026 09:09:42 +0000
-
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Mohpa Company: Nebero Systems Private Limited This is an internship role for a Hardware Certification Intern based on-site in Mohpa. The intern will assist with various hardware development tasks, contribute to circuit design, and support the evaluation of hardware systems for certification. Responsibilities include performing testing, analyzing hardware performance, and [&#8230;]
-
----
-
-## [JOB: Design Engineer – Power Electronics At Ather Energy In Bengaluru](https://www.electronicsforu.com/career/design-engineer-power-electronics-ather-energy-bengaluru)
-**Published:** Thu, 19 Feb 2026 08:48:55 +0000
-
-<img alt="JOB: Design Engineer - Power Electronics At Ather Energy In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="127" src="https://www.electronicsforu.com/wp-contents/uploads/2023/07/ather-energy.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Ather Energy What You’ll Do What We Are Looking for Expert Level:&#160;Power Electronics Design &#38; Analysis Engineering DVT of Power Converters/Inverters/Drives Advanced Level:&#160;Design and Analysis of High Frequency Magnetics Thermal Testing, Pre-Compliance &#38; Certification Testing per Safety &#38; Regulatory standards Semiconductor Device Characteristics – MOSFETs, IGBTs, Thyristors, Rectifiers Power Management [&#8230;]
-
----
-
-## [JOB: Hardware Engineer – Power Electronics At Ohmium In Bengaluru](https://www.electronicsforu.com/career/hardware-engineer-power-electronics-ohmium-bengaluru)
-**Published:** Thu, 19 Feb 2026 08:17:21 +0000
-
-<img alt="JOB: Hardware Engineer - Power Electronics At Ohmium In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/06/Ohmium-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Ohmium Key Responsibilities Required Qualifications &#38; Skills
 
 ---
 
