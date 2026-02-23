@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-22 20:41 UTC_
+_Last updated: 2026-02-23 02:28 UTC_
+
+## [QuiX Quantum Partners with Taiwan’s Artilux to Advance Photonic Quantum Computing](https://www.eetasia.com/quix-quantum-partners-with-taiwans-artilux-to-advance-photonic-quantum-computing/)
+**Published:** Mon, 23 Feb 2026 01:35:33 +0000
+
+<p>QuiX Quantum and Artilux, a Taiwan-based developer of advanced semiconductor-based photonic detector technologies, have signed a Memorandum of Understanding (MoU) aimed at strengthening hardware integration, improving manufacturability, and lowering operational energy requirements in photonic quantum computing systems. As quantum computing matures into real-world applications, operating efficiently beyond specialized laboratory environments is becoming increasingly critical. The [&#8230;]</p>
+<p>The post <a href="https://www.eetasia.com/quix-quantum-partners-with-taiwans-artilux-to-advance-photonic-quantum-computing/">QuiX Quantum Partners with Taiwan&#8217;s Artilux to Advance Photonic Quantum Computing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
 **Published:** Thu, 12 Feb 2026 02:14:50 +0000
