@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-23 02:28 UTC_
+_Last updated: 2026-02-23 05:12 UTC_
 
 ## [QuiX Quantum Partners with Taiwan’s Artilux to Advance Photonic Quantum Computing](https://www.eetasia.com/quix-quantum-partners-with-taiwans-artilux-to-advance-photonic-quantum-computing/)
 **Published:** Mon, 23 Feb 2026 01:35:33 +0000
@@ -15,14 +15,6 @@ _Last updated: 2026-02-23 02:28 UTC_
 
 <p>GCT and Skylo will jointly pursue chip and module certification to enable a new class of multi-use devices to advance next-generation satellite connectivity.</p>
 <p>The post <a href="https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/">GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Cadence Pioneers New Frontier in Chip Design and Verification](https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/)
-**Published:** Wed, 11 Feb 2026 03:10:19 +0000
-
-<p>Cadence is redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent.</p>
-<p>The post <a href="https://www.eetasia.com/cadence-pioneers-new-frontier-in-chip-design-and-verification/">Cadence Pioneers New Frontier in Chip Design and Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -911,6 +903,13 @@ _Last updated: 2026-02-23 02:28 UTC_
 
 <p>The AI chip startup is borrowing some ideas from the structured ASICs of the early 2000s to rapidly turn around new tape-outs for different models</p>
 <p>The post <a href="https://www.eetimes.com/taalas-specializes-to-extremes-for-extraordinary-token-speed/">Taalas Specializes to Extremes for Extraordinary Token Speed</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Twin-Fingerprints Chip For Crypto Security](https://www.electronicsforu.com/news/twin-fingerprints-chip-for-crypto-security)
+**Published:** Mon, 23 Feb 2026 04:44:09 +0000
+
+<img alt="Twin-Fingerprints Chip For Crypto Security" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/MIT-PUF-Authent-01_0-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />MIT’s new fabrication trick gives paired chips matching physical IDs for secure, server-less authentication. In hardware security news, researchers at the Massachusetts Institute of Technology have developed a new chip-processing method that could tighten cryptographic security at the device level by creating paired physical fingerprints on microchips. This technique addresses a longstanding challenge in secure [&#8230;]
 
 ---
 
