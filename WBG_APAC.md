@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-23 06:22 UTC_
+_Last updated: 2026-02-23 09:08 UTC_
 
 ## [QuiX Quantum Partners with Taiwan’s Artilux to Advance Photonic Quantum Computing](https://www.eetasia.com/quix-quantum-partners-with-taiwans-artilux-to-advance-photonic-quantum-computing/)
 **Published:** Mon, 23 Feb 2026 01:35:33 +0000
@@ -906,17 +906,17 @@ _Last updated: 2026-02-23 06:22 UTC_
 
 ---
 
-## [Twin-Chip Fabrication For Electronics Security](https://www.electronicsforu.com/news/twin-chip-fabrication-for-electronics-security)
-**Published:** Mon, 23 Feb 2026 05:32:15 +0000
+## [JOB: ASIC Design Engineer (TCP02) At HPE In Kolkata And Bengaluru](https://www.electronicsforu.com/career/asic-design-engineer-tcp02-hpe-kolkata-bengaluru)
+**Published:** Mon, 23 Feb 2026 08:42:05 +0000
 
-<img alt="Twin-Chip Fabrication For Electronics Security" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/chip-processing-method-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New MIT process embeds matching hardware fingerprints in paired chips for direct, server-free authentication. Researchers at the Massachusetts Institute of Technology have unveiled a novel chip-fabrication technique that could reshape hardware-level security for electronic systems by enabling paired microchips to authenticate one another directly using shared physical identifiers.&#160; At the core of the approach is [&#8230;]
+<img alt="JOB: ASIC Design Engineer (TCP02) At HPE In Kolkata And Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/hpe-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru / Kolkata Company: HPE HPE- Juniper Silicon team seeks&#160;ASIC&#160;Design Engineers to develop next generation of&#160;ASICs for our core routers, switches, and firewalls. What You’ll Do What You Need To Bring
 
 ---
 
-## [Twin-Fingerprints Chip For Crypto Security](https://www.electronicsforu.com/news/twin-fingerprints-chip-for-crypto-security)
-**Published:** Mon, 23 Feb 2026 04:44:09 +0000
+## [Organic Cathode Pushes Battery Limits](https://www.electronicsforu.com/news/organic-cathode-pushes-battery-limits)
+**Published:** Mon, 23 Feb 2026 07:50:27 +0000
 
-<img alt="Twin-Fingerprints Chip For Crypto Security" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/MIT-PUF-Authent-01_0-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />MIT’s new fabrication trick gives paired chips matching physical IDs for secure, server-less authentication. In hardware security news, researchers at the Massachusetts Institute of Technology have developed a new chip-processing method that could tighten cryptographic security at the device level by creating paired physical fingerprints on microchips. This technique addresses a longstanding challenge in secure [&#8230;]
+<img alt="Organic Cathode Pushes Battery Limits" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/virtual_attach_file-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A conductive polymer design that can deliver higher energy density, wider temperature tolerance and improved safety in lithium ion cells. Researchers from Tianjin University and South China University of Technology have developed an organic lithium ion battery built around an engineered cathode material. The study describes a conductive polymer electrode designed to address long standing [&#8230;]
 
 ---
 
