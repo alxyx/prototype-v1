@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-23 13:19 UTC_
+_Last updated: 2026-02-23 21:13 UTC_
 
 ## [QuiX Quantum Partners with Taiwan’s Artilux to Advance Photonic Quantum Computing](https://www.eetasia.com/quix-quantum-partners-with-taiwans-artilux-to-advance-photonic-quantum-computing/)
 **Published:** Mon, 23 Feb 2026 01:35:33 +0000
@@ -15,6 +15,71 @@ _Last updated: 2026-02-23 13:19 UTC_
 
 <p>GCT and Skylo will jointly pursue chip and module certification to enable a new class of multi-use devices to advance next-generation satellite connectivity.</p>
 <p>The post <a href="https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/">GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [IEDM: Power Looms as Major Challenge](https://www.semiconductor-digest.com/iedm-power-looms-as-major-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=iedm-power-looms-as-major-challenge)
+**Published:** Mon, 23 Feb 2026 18:12:32 +0000
+
+<p>While training artificial intelligence models has created a strong revenue stream for many companies, inference processing at the edge is proving to be a much tougher challenge.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/iedm-power-looms-as-major-challenge/">IEDM: Power Looms as Major Challenge</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Oxide Semiconductors and Ferroelectrics Command Attention at IEDM](https://www.semiconductor-digest.com/oxide-semiconductors-and-ferroelectrics-command-attention-at-iedm/?utm_source=rss&utm_medium=rss&utm_campaign=oxide-semiconductors-and-ferroelectrics-command-attention-at-iedm)
+**Published:** Mon, 23 Feb 2026 18:11:07 +0000
+
+<p>Oxide semiconductors and ferroelectrics both offer “a promising pathway” for low-power memories</p>
+<p>The post <a href="https://www.semiconductor-digest.com/oxide-semiconductors-and-ferroelectrics-command-attention-at-iedm/">Oxide Semiconductors and Ferroelectrics Command Attention at IEDM</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Laser Marking for Wide-Bandgap Semiconductors: Meeting the Demands of SiC and GaN](https://www.semiconductor-digest.com/laser-marking-for-wide-bandgap-semiconductors-meeting-the-demands-of-sic-and-gan/?utm_source=rss&utm_medium=rss&utm_campaign=laser-marking-for-wide-bandgap-semiconductors-meeting-the-demands-of-sic-and-gan)
+**Published:** Mon, 23 Feb 2026 18:09:41 +0000
+
+<p>The transition to wide-bandgap materials like SiC and GaN necessitates adjustments to laser marking processes due to their distinct material characteristics.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/laser-marking-for-wide-bandgap-semiconductors-meeting-the-demands-of-sic-and-gan/">Laser Marking for Wide-Bandgap Semiconductors: Meeting the Demands of SiC and GaN</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Taara Unveils Photonics Platform](https://www.semiconductor-digest.com/taara-unveils-photonics-platform/?utm_source=rss&utm_medium=rss&utm_campaign=taara-unveils-photonics-platform)
+**Published:** Mon, 23 Feb 2026 16:37:17 +0000
+
+<p>Taara, a graduate of X, Google’s Moonshot Factory, unveiled Taara Photonics, the world’s first wireless communication platform based on optical phased arrays</p>
+<p>The post <a href="https://www.semiconductor-digest.com/taara-unveils-photonics-platform/">Taara Unveils Photonics Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Performance Boosters to Scale Monolithic CFET Across Multiple Logic Technology Nodes](https://www.semiconductor-digest.com/performance-boosters-to-scale-monolithic-cfet-across-multiple-logic-technology-nodes/?utm_source=rss&utm_medium=rss&utm_campaign=performance-boosters-to-scale-monolithic-cfet-across-multiple-logic-technology-nodes)
+**Published:** Mon, 23 Feb 2026 16:15:47 +0000
+
+<p>This DTCO study is supported by experimental demonstration of hybrid channel orientations which are needed for A3. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/performance-boosters-to-scale-monolithic-cfet-across-multiple-logic-technology-nodes/">Performance Boosters to Scale Monolithic CFET Across Multiple Logic Technology Nodes</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [3D Dry Resist: Revolutionizing Chip Manufacturing for the AI Era](https://www.semiconductor-digest.com/3d-dry-resist-revolutionizing-chip-manufacturing-for-the-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=3d-dry-resist-revolutionizing-chip-manufacturing-for-the-ai-era)
+**Published:** Mon, 23 Feb 2026 16:00:33 +0000
+
+<p>Dry resist isn't merely an incremental improvement; it's a strategic imperative for manufacturers to unlock the next generation of AI capabilities.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/3d-dry-resist-revolutionizing-chip-manufacturing-for-the-ai-era/">3D Dry Resist: Revolutionizing Chip Manufacturing for the AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Cadence Completes Acquisition of Hexagon’s D&E Business](https://www.semiconductor-digest.com/cadence-completes-acquisition-of-hexagons-de-business/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-completes-acquisition-of-hexagons-de-business)
+**Published:** Mon, 23 Feb 2026 15:19:03 +0000
+
+<p>Cadence has completed its previously announced acquisition of Hexagon AB’s Design and Engineering (“D&#038;E”) business, significantly expanding its System Design and Analysis (SDA) portfolio and strategically positioning the company to capitalize on the Physical AI opportunity. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/cadence-completes-acquisition-of-hexagons-de-business/">Cadence Completes Acquisition of Hexagon’s D&amp;E Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Irresistible Materials and TOK Announce Strategic EUV  Collaboration](https://www.semiconductor-digest.com/irresistible-materials-and-tok-announce-strategic-euv-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=irresistible-materials-and-tok-announce-strategic-euv-collaboration)
+**Published:** Mon, 23 Feb 2026 15:06:32 +0000
+
+<p>The collaboration combines Irresistible Materials’ advanced photoresist materials platform with TOK’s long-standing market leadership and world-class manufacturing<br />
+﻿to drive innovations for EUV lithography.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/irresistible-materials-and-tok-announce-strategic-euv-collaboration/">Irresistible Materials and TOK Announce Strategic EUV  Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -754,67 +819,19 @@ _Last updated: 2026-02-23 13:19 UTC_
 
 ---
 
-## [AI-Driven Ultrafast Spectrometer-on-a-Chip: A Revolution in Real-Time Sensing](https://www.semiconductor-digest.com/ai-driven-ultrafast-spectrometer-on-a-chip-a-revolution-in-real-time-sensing/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-ultrafast-spectrometer-on-a-chip-a-revolution-in-real-time-sensing)
-**Published:** Wed, 21 Jan 2026 21:21:02 +0000
+## [GaN and SiC Power Designs Address Factory Automation Challenges](https://www.powerelectronicsnews.com/gan-and-sic-power-designs-address-factory-automation-challenges/)
+**Published:** Mon, 23 Feb 2026 14:27:59 +0000
 
-<p>A newly developed silicon spectrometer‑on‑a‑chip achieves accurate, noise‑resilient hyperspectral sensing across an extended near‑infrared range.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ai-driven-ultrafast-spectrometer-on-a-chip-a-revolution-in-real-time-sensing/">AI-Driven Ultrafast Spectrometer-on-a-Chip: A Revolution in Real-Time Sensing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications](https://www.semiconductor-digest.com/microchip-introduces-600v-gate-driver-family-for-high-voltage-power-management-applications/?utm_source=rss&utm_medium=rss&utm_campaign=microchip-introduces-600v-gate-driver-family-for-high-voltage-power-management-applications)
-**Published:** Wed, 21 Jan 2026 21:05:51 +0000
-
-<p>Building on Microchip’s power management solutions, these high-voltage gate drivers are designed to facilitate the development of motor control and power conversion systems for industrial and consumer applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/microchip-introduces-600v-gate-driver-family-for-high-voltage-power-management-applications/">Microchip Introduces 600V Gate Driver Family for High-Voltage Power Management Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="477" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Cover-Image-1.jpg?fit=848%2C477" style="display: block; margin-bottom: 5px; clear: both;" width="848" /><p>GaN and SiC enable engineers to design and scale power systems to meet the stringent requirements of modern automated factories.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/gan-and-sic-power-designs-address-factory-automation-challenges/">GaN and SiC Power Designs Address Factory Automation Challenges </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Light Switches Made of Ultra-Thin Semiconductor Layers](https://www.semiconductor-digest.com/light-switches-made-of-ultra-thin-semiconductor-layers/?utm_source=rss&utm_medium=rss&utm_campaign=light-switches-made-of-ultra-thin-semiconductor-layers)
-**Published:** Wed, 21 Jan 2026 19:02:01 +0000
+## [Keysight Unveils Next-Generation Infiniium XR8 Oscilloscopes](https://www.powerelectronicsnews.com/keysight-unveils-next-generation-infiniium-xr8-oscilloscopes/)
+**Published:** Mon, 23 Feb 2026 14:11:05 +0000
 
-<p>Physics team from Germany demonstrates ultrafast switching process that could be used in optical components.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/light-switches-made-of-ultra-thin-semiconductor-layers/">Light Switches Made of Ultra-Thin Semiconductor Layers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Polar Light Technologies Achieves Nano-Scale LED; Paves Way to Next-Generation MicroLED](https://www.semiconductor-digest.com/polar-light-technologies-achieves-nano-scale-led-paves-way-to-next-generation-microled/?utm_source=rss&utm_medium=rss&utm_campaign=polar-light-technologies-achieves-nano-scale-led-paves-way-to-next-generation-microled)
-**Published:** Wed, 21 Jan 2026 17:50:10 +0000
-
-<p>This achievement illustrates the extraordinary flexibility of the company's patented pyramidal architecture, developed without requiring the traditional etching process.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/polar-light-technologies-achieves-nano-scale-led-paves-way-to-next-generation-microled/">Polar Light Technologies Achieves Nano-Scale LED; Paves Way to Next-Generation MicroLED</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Jabil Invests in EHT Semi](https://www.semiconductor-digest.com/jabil-invests-in-eht-semi/?utm_source=rss&utm_medium=rss&utm_campaign=jabil-invests-in-eht-semi)
-**Published:** Wed, 21 Jan 2026 17:03:26 +0000
-
-<p>Jabil Inc. announced today a strategic minority investment and manufacturing collaboration with Eagle Harbor Technologies, Inc. (dba, EHT Semi), a pioneer in RF and pulsed-power systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/jabil-invests-in-eht-semi/">Jabil Invests in EHT Semi</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IEEE Study Proposes a Novel High-Efficiency Silicon Single-Photon Detector](https://www.semiconductor-digest.com/ieee-study-proposes-a-novel-high-efficiency-silicon-single-photon-detector/?utm_source=rss&utm_medium=rss&utm_campaign=ieee-study-proposes-a-novel-high-efficiency-silicon-single-photon-detector)
-**Published:** Tue, 20 Jan 2026 22:37:03 +0000
-
-<p>Silicon single-photon detectors (Si SPDs) play a central role in quantum photonics and single-photon imaging for detecting single photons in the visible spectrum.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ieee-study-proposes-a-novel-high-efficiency-silicon-single-photon-detector/">IEEE Study Proposes a Novel High-Efficiency Silicon Single-Photon Detector</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Entegris Announces CFO Transition](https://www.semiconductor-digest.com/entegris-announces-cfo-transition/?utm_source=rss&utm_medium=rss&utm_campaign=entegris-announces-cfo-transition)
-**Published:** Tue, 20 Jan 2026 22:23:44 +0000
-
-<p>Entegris, Inc. today announced that Linda LaGorga will step down as Chief Financial Officer, by mutual agreement, effective February 28, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/entegris-announces-cfo-transition/">Entegris Announces CFO Transition</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CEA-Leti Advances Silicon-Integrated Quantum Cascade Lasers for Mid-Infrared Photonics](https://www.semiconductor-digest.com/cea-leti-advances-silicon-integrated-quantum-cascade-lasers-for-mid-infrared-photonics/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-advances-silicon-integrated-quantum-cascade-lasers-for-mid-infrared-photonics)
-**Published:** Tue, 20 Jan 2026 22:19:07 +0000
-
-<p>CEA-Leti today presented new research at SPIE Photonics West highlighting major progress in the integration of quantum cascade lasers (QCLs) with silicon photonic platforms for mid-infrared (MIR) applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-advances-silicon-integrated-quantum-cascade-lasers-for-mid-infrared-photonics/">CEA-Leti Advances Silicon-Integrated Quantum Cascade Lasers for Mid-Infrared Photonics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Keysight Unveils Next-Generation Infiniium XR8 Oscilloscopes." class="webfeedsFeaturedVisual wp-post-image" height="328" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Keysight_XR8.jpg?fit=582%2C328" style="display: block; margin-bottom: 5px; clear: both;" width="582" /><p>Infiniium XR8 oscilloscopes optimize performance, efficiency, and signal integrity for high-speed interface testing and development.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/keysight-unveils-next-generation-infiniium-xr8-oscilloscopes/">Keysight Unveils Next-Generation Infiniium XR8 Oscilloscopes</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -879,22 +896,6 @@ _Last updated: 2026-02-23 13:19 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/figure-00-power-course-1.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>In the last installment of the course, we addressed the general concept of efficiency, introduced the physical and energetic definitions of the term, and clarified...</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-4-efficiency-in-steady-state/">Power Electronics Course with QSPICE (Episode 4): Efficiency in Steady State</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [GaN Goes Big: How 300 mm Wafers are Powering the Next Generation of Data Centers](https://www.powerelectronicsnews.com/gan-goes-big-how-300-mm-wafers-are-powering-the-next-generation-of-data-centers/)
-**Published:** Wed, 18 Feb 2026 09:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="340" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/lam_research_pc_feb18_Data-Center-600x340-1.jpg?fit=600%2C340" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>The energy demand on data centers has reached an all-time high, with AI projected to increase power consumption exponentially in the coming years. To address that demand, the computing industry must embrace generational change – something as drastic as adopting a viable alternative to silicon.  Gallium Nitride (GaN) represents such a change. GaN can help data centers meet the growing demands of AI by enabling more efficient power delivery and reducing energy consumption.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/gan-goes-big-how-300-mm-wafers-are-powering-the-next-generation-of-data-centers/">GaN Goes Big: How 300 mm Wafers are Powering the Next Generation of Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Taking Stock of China’s EUV Lithography Efforts](https://www.powerelectronicsnews.com/taking-stock-of-chinas-euv-lithography-efforts/)
-**Published:** Tue, 17 Feb 2026 16:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3456" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_836719578.jpeg?fit=5632%2C3456" style="display: block; margin-bottom: 5px; clear: both;" width="5632" /><p>Should press reports of a secret Chinese EUV tool prototype be taken as evidence of a rapidly closing technology gap?</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/taking-stock-of-chinas-euv-lithography-efforts/">Taking Stock of China’s EUV Lithography Efforts</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
