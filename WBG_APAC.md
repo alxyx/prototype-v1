@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-23 09:08 UTC_
+_Last updated: 2026-02-23 11:54 UTC_
 
 ## [QuiX Quantum Partners with Taiwan’s Artilux to Advance Photonic Quantum Computing](https://www.eetasia.com/quix-quantum-partners-with-taiwans-artilux-to-advance-photonic-quantum-computing/)
 **Published:** Mon, 23 Feb 2026 01:35:33 +0000
@@ -903,6 +903,13 @@ _Last updated: 2026-02-23 09:08 UTC_
 
 <p>The AI chip startup is borrowing some ideas from the structured ASICs of the early 2000s to rapidly turn around new tape-outs for different models</p>
 <p>The post <a href="https://www.eetimes.com/taalas-specializes-to-extremes-for-extraordinary-token-speed/">Taalas Specializes to Extremes for Extraordinary Token Speed</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [JOB: Member Technical Staff At Siemens In Noida](https://www.electronicsforu.com/career/member-technical-staff-siemens-2)
+**Published:** Mon, 23 Feb 2026 09:10:32 +0000
+
+<img alt="Designer Electrotechnical" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/siemens-logo-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: Siemens This role involves developing and implementing emulation test plans to validate sophisticated semiconductor products. The engineer will leverage hardware description languages such as Verilog and VHDL to design, implement, and debug emulation models. Teamwork is a key aspect of this role, as it requires close coordination with design, verification, [&#8230;]
 
 ---
 
