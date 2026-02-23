@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-23 05:12 UTC_
+_Last updated: 2026-02-23 06:22 UTC_
 
 ## [QuiX Quantum Partners with Taiwan’s Artilux to Advance Photonic Quantum Computing](https://www.eetasia.com/quix-quantum-partners-with-taiwans-artilux-to-advance-photonic-quantum-computing/)
 **Published:** Mon, 23 Feb 2026 01:35:33 +0000
@@ -903,6 +903,13 @@ _Last updated: 2026-02-23 05:12 UTC_
 
 <p>The AI chip startup is borrowing some ideas from the structured ASICs of the early 2000s to rapidly turn around new tape-outs for different models</p>
 <p>The post <a href="https://www.eetimes.com/taalas-specializes-to-extremes-for-extraordinary-token-speed/">Taalas Specializes to Extremes for Extraordinary Token Speed</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Twin-Chip Fabrication For Electronics Security](https://www.electronicsforu.com/news/twin-chip-fabrication-for-electronics-security)
+**Published:** Mon, 23 Feb 2026 05:32:15 +0000
+
+<img alt="Twin-Chip Fabrication For Electronics Security" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/chip-processing-method-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New MIT process embeds matching hardware fingerprints in paired chips for direct, server-free authentication. Researchers at the Massachusetts Institute of Technology have unveiled a novel chip-fabrication technique that could reshape hardware-level security for electronic systems by enabling paired microchips to authenticate one another directly using shared physical identifiers.&#160; At the core of the approach is [&#8230;]
 
 ---
 
