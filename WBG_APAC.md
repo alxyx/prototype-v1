@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-23 11:54 UTC_
+_Last updated: 2026-02-23 13:19 UTC_
 
 ## [QuiX Quantum Partners with Taiwan’s Artilux to Advance Photonic Quantum Computing](https://www.eetasia.com/quix-quantum-partners-with-taiwans-artilux-to-advance-photonic-quantum-computing/)
 **Published:** Mon, 23 Feb 2026 01:35:33 +0000
@@ -917,13 +917,6 @@ _Last updated: 2026-02-23 11:54 UTC_
 **Published:** Mon, 23 Feb 2026 08:42:05 +0000
 
 <img alt="JOB: ASIC Design Engineer (TCP02) At HPE In Kolkata And Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/hpe-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru / Kolkata Company: HPE HPE- Juniper Silicon team seeks&#160;ASIC&#160;Design Engineers to develop next generation of&#160;ASICs for our core routers, switches, and firewalls. What You’ll Do What You Need To Bring
-
----
-
-## [Organic Cathode Pushes Battery Limits](https://www.electronicsforu.com/news/organic-cathode-pushes-battery-limits)
-**Published:** Mon, 23 Feb 2026 07:50:27 +0000
-
-<img alt="Organic Cathode Pushes Battery Limits" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/virtual_attach_file-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A conductive polymer design that can deliver higher energy density, wider temperature tolerance and improved safety in lithium ion cells. Researchers from Tianjin University and South China University of Technology have developed an organic lithium ion battery built around an engineered cathode material. The study describes a conductive polymer electrode designed to address long standing [&#8230;]
 
 ---
 
