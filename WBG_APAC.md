@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-24 05:07 UTC_
+_Last updated: 2026-02-24 06:13 UTC_
 
 ## [Why Physical Prototyping is Becoming Too Expensive for Modern Semiconductor Fabs](https://www.eetasia.com/why-physical-prototyping-is-becoming-too-expensive-for-modern-semiconductor-fabs/)
 **Published:** Tue, 24 Feb 2026 01:12:27 +0000
@@ -926,13 +926,6 @@ _Last updated: 2026-02-24 05:07 UTC_
 **Published:** Mon, 23 Feb 2026 09:10:32 +0000
 
 <img alt="Designer Electrotechnical" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/siemens-logo-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: Siemens This role involves developing and implementing emulation test plans to validate sophisticated semiconductor products. The engineer will leverage hardware description languages such as Verilog and VHDL to design, implement, and debug emulation models. Teamwork is a key aspect of this role, as it requires close coordination with design, verification, [&#8230;]
-
----
-
-## [JOB: ASIC Design Engineer (TCP02) At HPE In Kolkata And Bengaluru](https://www.electronicsforu.com/career/asic-design-engineer-tcp02-hpe-kolkata-bengaluru)
-**Published:** Mon, 23 Feb 2026 08:42:05 +0000
-
-<img alt="JOB: ASIC Design Engineer (TCP02) At HPE In Kolkata And Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/hpe-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru / Kolkata Company: HPE HPE- Juniper Silicon team seeks&#160;ASIC&#160;Design Engineers to develop next generation of&#160;ASICs for our core routers, switches, and firewalls. What You’ll Do What You Need To Bring
 
 ---
 
