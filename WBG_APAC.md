@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-24 02:21 UTC_
+_Last updated: 2026-02-24 05:07 UTC_
 
 ## [Why Physical Prototyping is Becoming Too Expensive for Modern Semiconductor Fabs](https://www.eetasia.com/why-physical-prototyping-is-becoming-too-expensive-for-modern-semiconductor-fabs/)
 **Published:** Tue, 24 Feb 2026 01:12:27 +0000
@@ -912,6 +912,13 @@ _Last updated: 2026-02-24 02:21 UTC_
 
 <p>The AI chip startup is borrowing some ideas from the structured ASICs of the early 2000s to rapidly turn around new tape-outs for different models</p>
 <p>The post <a href="https://www.eetimes.com/taalas-specializes-to-extremes-for-extraordinary-token-speed/">Taalas Specializes to Extremes for Extraordinary Token Speed</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Thermal Design Reshapes AI Chips](https://www.electronicsforu.com/news/thermal-design-reshapes-ai-chips)
+**Published:** Tue, 24 Feb 2026 04:40:15 +0000
+
+<img alt="Thermal Design Reshapes AI Chips" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/professor-taesung-kims-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Thermal constraining technique stabilizes ferroelectric transistors, boosting efficiency and endurance for next-gen electronics. A team led by Professor Taesung Kim at Sungkyunkwan University has unveiled a semiconductor design technique that uses thermal forces to dramatically improve next-generation AI chip performance while trimming energy use a development that could help solve one of electronics’ toughest challenges: [&#8230;]
 
 ---
 
