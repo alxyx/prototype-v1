@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-24 06:13 UTC_
+_Last updated: 2026-02-24 13:21 UTC_
 
 ## [Why Physical Prototyping is Becoming Too Expensive for Modern Semiconductor Fabs](https://www.eetasia.com/why-physical-prototyping-is-becoming-too-expensive-for-modern-semiconductor-fabs/)
 **Published:** Tue, 24 Feb 2026 01:12:27 +0000
@@ -827,6 +827,14 @@ _Last updated: 2026-02-24 06:13 UTC_
 
 ---
 
+## [A Guide to the Reliability Estimation of PoL Converters](https://www.powerelectronicsnews.com/a-guide-to-the-reliability-estimation-of-pol-converters/)
+**Published:** Tue, 24 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2592" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_84129823.jpeg?fit=3888%2C2592" style="display: block; margin-bottom: 5px; clear: both;" width="3888" /><p>Understanding PoL converter reliability estimates using the common FIT, MTBF, and MTTF metrics on the output capacitor.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/a-guide-to-the-reliability-estimation-of-pol-converters/">A Guide to the Reliability Estimation of PoL Converters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [GaN and SiC Power Designs Address Factory Automation Challenges](https://www.powerelectronicsnews.com/gan-and-sic-power-designs-address-factory-automation-challenges/)
 **Published:** Mon, 23 Feb 2026 14:27:59 +0000
 
@@ -899,14 +907,6 @@ _Last updated: 2026-02-24 06:13 UTC_
 
 ---
 
-## [Power Electronics Course with QSPICE (Episode 4): Efficiency in Steady State](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-4-efficiency-in-steady-state/)
-**Published:** Wed, 18 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/figure-00-power-course-1.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>In the last installment of the course, we addressed the general concept of efficiency, introduced the physical and energetic definitions of the term, and clarified...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-4-efficiency-in-steady-state/">Power Electronics Course with QSPICE (Episode 4): Efficiency in Steady State</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Taalas Specializes to Extremes for Extraordinary Token Speed](https://www.eetimes.com/taalas-specializes-to-extremes-for-extraordinary-token-speed/)
 **Published:** Thu, 19 Feb 2026 16:00:00 +0000
 
@@ -915,17 +915,25 @@ _Last updated: 2026-02-24 06:13 UTC_
 
 ---
 
+## [Compound semi substrate market growing at 14% CAGR](https://www.electronicsweekly.com/news/business/compound-semi-substrate-market-growing-at-14-cagr-2026-02/)
+**Published:** Tue, 24 Feb 2026 06:18:47 +0000
+
+<p>The compound semiconductor substrate and open epiwafer markets are projected to reach almost $5.2 billion in total by 2031, growing at around 14% CAGR. Automotive electrification drives SiC substrates, RF ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/compound-semi-substrate-market-growing-at-14-cagr-2026-02/">Compound semi substrate market growing at 14% CAGR</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [PXI Express Platforms For Semiconductor Testing](https://www.electronicsforu.com/news/express-platforms-for-semiconductor-testing)
+**Published:** Tue, 24 Feb 2026 08:03:56 +0000
+
+<img alt="PXI Express Platforms For Semiconductor Testing" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/PR-banner_450x300-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As semiconductor testing grows more complex, PXI Express platforms can bring changes at both the measurement channel and system architecture levels. ADLINK Technology has introduced two new PXI Express platforms, the PXIe 9908 Source Measurement Unit and the PXES 2596 chassis, aimed at semiconductor and electronic test and measurement applications. The additions expand its PXI [&#8230;]
+
+---
+
 ## [Thermal Design Reshapes AI Chips](https://www.electronicsforu.com/news/thermal-design-reshapes-ai-chips)
 **Published:** Tue, 24 Feb 2026 04:40:15 +0000
 
 <img alt="Thermal Design Reshapes AI Chips" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/professor-taesung-kims-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Thermal constraining technique stabilizes ferroelectric transistors, boosting efficiency and endurance for next-gen electronics. A team led by Professor Taesung Kim at Sungkyunkwan University has unveiled a semiconductor design technique that uses thermal forces to dramatically improve next-generation AI chip performance while trimming energy use a development that could help solve one of electronics’ toughest challenges: [&#8230;]
-
----
-
-## [JOB: Member Technical Staff At Siemens In Noida](https://www.electronicsforu.com/career/member-technical-staff-siemens-2)
-**Published:** Mon, 23 Feb 2026 09:10:32 +0000
-
-<img alt="Designer Electrotechnical" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/siemens-logo-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: Siemens This role involves developing and implementing emulation test plans to validate sophisticated semiconductor products. The engineer will leverage hardware description languages such as Verilog and VHDL to design, implement, and debug emulation models. Teamwork is a key aspect of this role, as it requires close coordination with design, verification, [&#8230;]
 
 ---
 
