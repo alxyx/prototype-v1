@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-23 21:13 UTC_
+_Last updated: 2026-02-24 02:21 UTC_
+
+## [Why Physical Prototyping is Becoming Too Expensive for Modern Semiconductor Fabs](https://www.eetasia.com/why-physical-prototyping-is-becoming-too-expensive-for-modern-semiconductor-fabs/)
+**Published:** Tue, 24 Feb 2026 01:12:27 +0000
+
+<p>Crafting ideas in digital spaces is the only way to preserve what finite resources are available to makers.</p>
+<p>The post <a href="https://www.eetasia.com/why-physical-prototyping-is-becoming-too-expensive-for-modern-semiconductor-fabs/">Why Physical Prototyping is Becoming Too Expensive for Modern Semiconductor Fabs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [QuiX Quantum Partners with Taiwan’s Artilux to Advance Photonic Quantum Computing](https://www.eetasia.com/quix-quantum-partners-with-taiwans-artilux-to-advance-photonic-quantum-computing/)
 **Published:** Mon, 23 Feb 2026 01:35:33 +0000
