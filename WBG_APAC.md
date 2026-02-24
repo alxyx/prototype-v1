@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-24 13:21 UTC_
+_Last updated: 2026-02-24 16:14 UTC_
 
 ## [Why Physical Prototyping is Becoming Too Expensive for Modern Semiconductor Fabs](https://www.eetasia.com/why-physical-prototyping-is-becoming-too-expensive-for-modern-semiconductor-fabs/)
 **Published:** Tue, 24 Feb 2026 01:12:27 +0000
@@ -23,6 +23,22 @@ _Last updated: 2026-02-24 13:21 UTC_
 
 <p>GCT and Skylo will jointly pursue chip and module certification to enable a new class of multi-use devices to advance next-generation satellite connectivity.</p>
 <p>The post <a href="https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/">GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Materials-Driven Solutions for 2.5D/3D and Fan-Out WLP](https://www.semiconductor-digest.com/materials-driven-solutions-for-2-5d-3d-and-fan-out-wlp/?utm_source=rss&utm_medium=rss&utm_campaign=materials-driven-solutions-for-2-5d-3d-and-fan-out-wlp)
+**Published:** Tue, 24 Feb 2026 14:52:26 +0000
+
+<p>As semiconductor architectures evolve toward greater integration and miniaturization, yield challenges will increasingly hinge on how materials perform, interact, and age under real-world conditions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/materials-driven-solutions-for-2-5d-3d-and-fan-out-wlp/">Materials-Driven Solutions for 2.5D/3D and Fan-Out WLP</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Close Collaboration Needed in the AI Era](https://www.semiconductor-digest.com/close-collaboration-needed-in-the-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=close-collaboration-needed-in-the-ai-era)
+**Published:** Tue, 24 Feb 2026 14:51:16 +0000
+
+<p>The interactions between OSAT suppliers, chiplet vendors, and foundries are becoming “much more intimate as we move forward."</p>
+<p>The post <a href="https://www.semiconductor-digest.com/close-collaboration-needed-in-the-ai-era/">Close Collaboration Needed in the AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -811,19 +827,11 @@ _Last updated: 2026-02-24 13:21 UTC_
 
 ---
 
-## [AMD Appoints KC McClure to Board of Directors](https://www.semiconductor-digest.com/amd-appoints-kc-mcclure-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=amd-appoints-kc-mcclure-to-board-of-directors)
-**Published:** Wed, 21 Jan 2026 21:52:18 +0000
+## [TDK Introduces New DC Link Capacitors](https://www.powerelectronicsnews.com/tdk-introduces-new-dc-link-capacitors/)
+**Published:** Tue, 24 Feb 2026 15:00:00 +0000
 
-<p>AMD (NASDAQ: AMD) today announced the appointment of KC McClure to its board of directors.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/amd-appoints-kc-mcclure-to-board-of-directors/">AMD Appoints KC McClure to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries Appoints Ganesh Moorthy to Board of Directors](https://www.semiconductor-digest.com/globalfoundries-appoints-ganesh-moorthy-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-appoints-ganesh-moorthy-to-board-of-directors)
-**Published:** Wed, 21 Jan 2026 21:46:50 +0000
-
-<p>Seasoned semiconductor industry leader brings decades of operational and strategic expertise to GF’s Board.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-appoints-ganesh-moorthy-to-board-of-directors/">GlobalFoundries Appoints Ganesh Moorthy to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="TDK Introduces New DC Link Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="334" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/TDK_capacitors.png?fit=445%2C334" style="display: block; margin-bottom: 5px; clear: both;" width="445" /><p>The new aluminum electrolytic capacitors enhance DC link reliability and efficiency in EV on-board chargers.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tdk-introduces-new-dc-link-capacitors/">TDK Introduces New DC Link Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -896,14 +904,6 @@ _Last updated: 2026-02-24 13:21 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="506" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Cover-Image.jpg?fit=960%2C506" style="display: block; margin-bottom: 5px; clear: both;" width="960" /><p>Diamond’s first large-scale impact will be through integration into existing systems rather than absolute replacement of silicon or SiC.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/analyzing-industry-efforts-in-scaling-diamond-semiconductor-technology/">Analyzing industry efforts in scaling diamond semiconductor technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ST Unveils 4-Channel Automotive High-Side Driver](https://www.powerelectronicsnews.com/st-unveils-4-channel-automotive-high-side-driver/)
-**Published:** Wed, 18 Feb 2026 13:32:48 +0000
-
-<img alt="ST Unveils 4-Channel Automotive High-Side Driver." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/ST_N4751A.jpg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>This high-side driver powers automotive loads with 4V minimum voltage, ensuring reliability even in extreme cold cranking conditions.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-unveils-4-channel-automotive-high-side-driver/">ST Unveils 4-Channel Automotive High-Side Driver</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
