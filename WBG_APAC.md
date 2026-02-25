@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-25 05:08 UTC_
+_Last updated: 2026-02-25 13:20 UTC_
 
 ## [Taiwan’s ITRI Breaks Ground on Advanced Semiconductor R&D Center in Hsinchu](https://www.eetasia.com/taiwans-itri-breaks-ground-on-advanced-semiconductor-rd-center-in-hsinchu/)
 **Published:** Wed, 25 Feb 2026 02:09:19 +0000
@@ -835,6 +835,14 @@ _Last updated: 2026-02-25 05:08 UTC_
 
 ---
 
+## [Direct-to-Chip Liquid Cooling Technology for HPC](https://www.powerelectronicsnews.com/direct-to-chip-liquid-cooling-technology-for-hpc/)
+**Published:** Wed, 25 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3072" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_1316783897.jpeg?fit=3072%2C3072" style="display: block; margin-bottom: 5px; clear: both;" width="3072" /><p>An introduction to different direct-to-chip cooling architectures used in AI data centers and high performance computing applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/direct-to-chip-liquid-cooling-technology-for-hpc/">Direct-to-Chip Liquid Cooling Technology for HPC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [TDK Introduces New DC Link Capacitors](https://www.powerelectronicsnews.com/tdk-introduces-new-dc-link-capacitors/)
 **Published:** Tue, 24 Feb 2026 15:00:00 +0000
 
@@ -907,19 +915,11 @@ _Last updated: 2026-02-25 05:08 UTC_
 
 ---
 
-## [Analyzing industry efforts in scaling diamond semiconductor technology](https://www.powerelectronicsnews.com/analyzing-industry-efforts-in-scaling-diamond-semiconductor-technology/)
-**Published:** Thu, 19 Feb 2026 13:00:00 +0000
+## [Ireland offers Master’s degree in IC design](https://www.electronicsweekly.com/news/business/ireland-adds-masters-degree-in-ic-design-2026-02/)
+**Published:** Wed, 25 Feb 2026 06:05:38 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="506" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Cover-Image.jpg?fit=960%2C506" style="display: block; margin-bottom: 5px; clear: both;" width="960" /><p>Diamond’s first large-scale impact will be through integration into existing systems rather than absolute replacement of silicon or SiC.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/analyzing-industry-efforts-in-scaling-diamond-semiconductor-technology/">Analyzing industry efforts in scaling diamond semiconductor technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Taalas Specializes to Extremes for Extraordinary Token Speed](https://www.eetimes.com/taalas-specializes-to-extremes-for-extraordinary-token-speed/)
-**Published:** Thu, 19 Feb 2026 16:00:00 +0000
-
-<p>The AI chip startup is borrowing some ideas from the structured ASICs of the early 2000s to rapidly turn around new tape-outs for different models</p>
-<p>The post <a href="https://www.eetimes.com/taalas-specializes-to-extremes-for-extraordinary-token-speed/">Taalas Specializes to Extremes for Extraordinary Token Speed</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>A master&#8217;s degree in circuit design has been announced by Maynooth University, aimed at helping to grow Ireland&#8217;s semiconductor industry. The new course &#8211; the Master of Engineering Science in ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/ireland-adds-masters-degree-in-ic-design-2026-02/">Ireland offers Master’s degree in IC design</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -931,10 +931,31 @@ _Last updated: 2026-02-25 05:08 UTC_
 
 ---
 
-## [PXI Express Platforms For Semiconductor Testing](https://www.electronicsforu.com/news/express-platforms-for-semiconductor-testing)
-**Published:** Tue, 24 Feb 2026 08:03:56 +0000
+## [Build & Learn Electronics Circuit On Breadboard](https://www.electronicsforu.com/videos-slideshows/build-learn-electronics-circuit-on-breadboard)
+**Published:** Wed, 25 Feb 2026 12:11:10 +0000
 
-<img alt="PXI Express Platforms For Semiconductor Testing" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/PR-banner_450x300-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As semiconductor testing grows more complex, PXI Express platforms can bring changes at both the measurement channel and system architecture levels. ADLINK Technology has introduced two new PXI Express platforms, the PXIe 9908 Source Measurement Unit and the PXES 2596 chassis, aimed at semiconductor and electronic test and measurement applications. The additions expand its PXI [&#8230;]
+<img alt="Build &amp; Learn Electronics Circuit On Breadboard" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/build-and-learn-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Welcome to Build &#38; Learn Electronics Circuit On Breadboard — a hands-on guide designed to help you understand and create basic electronic circuits using a breadboard. This educational slideshow takes you step by step through the core concepts of electronics, from identifying essential components like resistors, LEDs, and buzzers, to learning how to read and [&#8230;]
+
+---
+
+## [JOB: Engineer 1 – Electrical Component At General Electric In Pallavaram](https://www.electronicsforu.com/career/engineer-1-electrical-component-general-electric-pallavaram)
+**Published:** Wed, 25 Feb 2026 10:02:20 +0000
+
+<img alt="General Electrics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/11/General-Electric-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pallavaram Company: General Electric Summary Provide solution, execute basic &#38; detailed design for all Protection &#38; Control applications involving switch yard and generator circuits for SAS &#38; conventional projects from 33kV to 765kV as per customer specification and internal standards. Initiate technical discussion and secure customer approval on Engineering documents; Deliver quality [&#8230;]
+
+---
+
+## [JOB: ASIC Design Engineer, High Speed IO At NVIDIA In Bengaluru And Hyderabad](https://www.electronicsforu.com/career/asic-design-engineer-high-speed-io-nvidia-bengaluru-and-hyderabad)
+**Published:** Wed, 25 Feb 2026 09:27:05 +0000
+
+<img alt="JOB: ASIC Design Engineer, High Speed IO At NVIDIA In Bengaluru And Hyderabad" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2023/06/nvidia-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru and Hyderabad Company: NVIDIA As a designer, be responsible for making architectural trade-offs based on feature/performance/power requirements, analyze system implications, come up with the micro-architecture, implement RTL, drive the verification, close timing, and support silicon validation. During the course of a project you would end up driving the following aspects of [&#8230;]
+
+---
+
+## [JOB: DFT Engineer At Larsen & Toubro In Bengaluru](https://www.electronicsforu.com/career/dft-engineer-larsen-toubro-bengaluru)
+**Published:** Wed, 25 Feb 2026 09:05:07 +0000
+
+<img alt="JOB: DFT Engineer At Larsen &amp; Toubro In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/06/larsentoubro-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Larsen &#38; Toubro The Design for Testability (DFT) engineering organisation at L&#38;T Semiconductor Technologies (LTSCT) pioneers innovative methods and technologies in the areas of DFT architecture, verification, and post-silicon bring-up of state-of-the-art semiconductor chips, such as System on a Chip (SoCs), developed using the latest semiconductor technology nodes. Areas of [&#8230;]
 
 ---
 
