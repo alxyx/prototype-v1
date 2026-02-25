@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-24 16:14 UTC_
+_Last updated: 2026-02-25 05:08 UTC_
+
+## [Taiwan’s ITRI Breaks Ground on Advanced Semiconductor R&D Center in Hsinchu](https://www.eetasia.com/taiwans-itri-breaks-ground-on-advanced-semiconductor-rd-center-in-hsinchu/)
+**Published:** Wed, 25 Feb 2026 02:09:19 +0000
+
+<p>ITRI's soon-to-rise Advanced Semiconductor R&#38;D Center marks a new step in Taiwan's semiconductor development strategy.</p>
+<p>The post <a href="https://www.eetasia.com/taiwans-itri-breaks-ground-on-advanced-semiconductor-rd-center-in-hsinchu/">Taiwan&#8217;s ITRI Breaks Ground on Advanced Semiconductor R&amp;D Center in Hsinchu</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Humanoids & Robotics in 2026: Early Reality of the “Physical AI” Era](https://www.eetasia.com/humanoids-robotics-in-2026-early-reality-of-the-physical-ai-era/)
+**Published:** Wed, 25 Feb 2026 01:47:19 +0000
+
+<p>Robots are evolving to systems that can interpret goals in natural language, plan multi‑step tasks, and adapt to changing environments.</p>
+<p>The post <a href="https://www.eetasia.com/humanoids-robotics-in-2026-early-reality-of-the-physical-ai-era/">Humanoids &amp; Robotics in 2026: Early Reality of the &#8220;Physical AI&#8221; Era</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Why Physical Prototyping is Becoming Too Expensive for Modern Semiconductor Fabs](https://www.eetasia.com/why-physical-prototyping-is-becoming-too-expensive-for-modern-semiconductor-fabs/)
 **Published:** Tue, 24 Feb 2026 01:12:27 +0000
@@ -18,11 +34,11 @@ _Last updated: 2026-02-24 16:14 UTC_
 
 ---
 
-## [GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity](https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/)
-**Published:** Thu, 12 Feb 2026 02:14:50 +0000
+## [New Partnership to Meet Growing Demand for Lead Frames in North America](https://www.semiconductor-digest.com/new-partnership-to-meet-growing-demand-for-lead-frames-in-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=new-partnership-to-meet-growing-demand-for-lead-frames-in-north-america)
+**Published:** Tue, 24 Feb 2026 16:17:35 +0000
 
-<p>GCT and Skylo will jointly pursue chip and module certification to enable a new class of multi-use devices to advance next-generation satellite connectivity.</p>
-<p>The post <a href="https://www.eetasia.com/gct-semiconductor-collaborating-with-skylo-to-accelerate-global-satellite-connectivity/">GCT Semiconductor Collaborating with Skylo to Accelerate Global Satellite Connectivity</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Batten &#038; Allen has forged a partnership with the US-based Neu Dynamics Corporation to help meet North America’s growing demand for precision-manufactured semiconductor lead frames.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-partnership-to-meet-growing-demand-for-lead-frames-in-north-america/">New Partnership to Meet Growing Demand for Lead Frames in North America</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -104,6 +120,14 @@ _Last updated: 2026-02-24 16:14 UTC_
 <p>The collaboration combines Irresistible Materials’ advanced photoresist materials platform with TOK’s long-standing market leadership and world-class manufacturing<br />
 ﻿to drive innovations for EUV lithography.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/irresistible-materials-and-tok-announce-strategic-euv-collaboration/">Irresistible Materials and TOK Announce Strategic EUV  Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [IMAPS Announces Purchase of the 3D InCites Platform](https://www.semiconductor-digest.com/imaps-announces-purchase-of-the-3d-incites-platform/?utm_source=rss&utm_medium=rss&utm_campaign=imaps-announces-purchase-of-the-3d-incites-platform)
+**Published:** Thu, 19 Feb 2026 23:52:59 +0000
+
+<p>The technical and media platform for microelectronics and advanced packaging is now a part of the IMAPS portfolio.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/imaps-announces-purchase-of-the-3d-incites-platform/">IMAPS Announces Purchase of the 3D InCites Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -811,22 +835,6 @@ _Last updated: 2026-02-24 16:14 UTC_
 
 ---
 
-## [Micron Signs Letter of Intent to Purchase Tongluo Site](https://www.semiconductor-digest.com/micron-signs-letter-of-intent-to-purchase-tongluo-site/?utm_source=rss&utm_medium=rss&utm_campaign=micron-signs-letter-of-intent-to-purchase-tongluo-site)
-**Published:** Wed, 21 Jan 2026 22:06:51 +0000
-
-<p>Acquisition to add 300,000 square feet of memory cleanroom space.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-signs-letter-of-intent-to-purchase-tongluo-site/">Micron Signs Letter of Intent to Purchase Tongluo Site</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Mobix Labs and Peraso Engage in Further Discussions Regarding a Potential Strategic Transaction](https://www.semiconductor-digest.com/mobix-labs-and-peraso-engage-in-further-discussions-regarding-a-potential-strategic-transaction/?utm_source=rss&utm_medium=rss&utm_campaign=mobix-labs-and-peraso-engage-in-further-discussions-regarding-a-potential-strategic-transaction)
-**Published:** Wed, 21 Jan 2026 22:00:50 +0000
-
-<p>Mobix Labs, Inc., agrowing fabless semiconductor and connectivity company serving the defense, aerospace, and high-reliability markets, today announced that it engaged in further discussions with Peraso, Inc. regarding a potential strategic transaction.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/mobix-labs-and-peraso-engage-in-further-discussions-regarding-a-potential-strategic-transaction/">Mobix Labs and Peraso Engage in Further Discussions Regarding a Potential Strategic Transaction</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [TDK Introduces New DC Link Capacitors](https://www.powerelectronicsnews.com/tdk-introduces-new-dc-link-capacitors/)
 **Published:** Tue, 24 Feb 2026 15:00:00 +0000
 
@@ -927,13 +935,6 @@ _Last updated: 2026-02-24 16:14 UTC_
 **Published:** Tue, 24 Feb 2026 08:03:56 +0000
 
 <img alt="PXI Express Platforms For Semiconductor Testing" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/PR-banner_450x300-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As semiconductor testing grows more complex, PXI Express platforms can bring changes at both the measurement channel and system architecture levels. ADLINK Technology has introduced two new PXI Express platforms, the PXIe 9908 Source Measurement Unit and the PXES 2596 chassis, aimed at semiconductor and electronic test and measurement applications. The additions expand its PXI [&#8230;]
-
----
-
-## [Thermal Design Reshapes AI Chips](https://www.electronicsforu.com/news/thermal-design-reshapes-ai-chips)
-**Published:** Tue, 24 Feb 2026 04:40:15 +0000
-
-<img alt="Thermal Design Reshapes AI Chips" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/professor-taesung-kims-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Thermal constraining technique stabilizes ferroelectric transistors, boosting efficiency and endurance for next-gen electronics. A team led by Professor Taesung Kim at Sungkyunkwan University has unveiled a semiconductor design technique that uses thermal forces to dramatically improve next-generation AI chip performance while trimming energy use a development that could help solve one of electronics’ toughest challenges: [&#8230;]
 
 ---
 
