@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-26 11:01 UTC_
+_Last updated: 2026-02-26 21:46 UTC_
 
 ## [Industry Veteran Ben Lee Appointed Strategic Advisor at Efinix](https://www.eetasia.com/industry-veteran-ben-lee-appointed-strategic-advisor-at-efinix/)
 **Published:** Thu, 26 Feb 2026 01:58:36 +0000
@@ -31,6 +31,30 @@ _Last updated: 2026-02-26 11:01 UTC_
 
 <p>Robots are evolving to systems that can interpret goals in natural language, plan multi‑step tasks, and adapt to changing environments.</p>
 <p>The post <a href="https://www.eetasia.com/humanoids-robotics-in-2026-early-reality-of-the-physical-ai-era/">Humanoids &amp; Robotics in 2026: Early Reality of the &#8220;Physical AI&#8221; Era</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [James Redstone Joins SIA as Director of Government Affairs](https://www.semiconductor-digest.com/james-redstone-joins-sia-as-director-of-government-affairs/?utm_source=rss&utm_medium=rss&utm_campaign=james-redstone-joins-sia-as-director-of-government-affairs)
+**Published:** Thu, 26 Feb 2026 14:52:53 +0000
+
+<p>The Semiconductor Industry Association (SIA) today announced James Redstone has joined the association as director of government affairs. In this role, Redstone will work with Congress, the White House, and federal agencies to advance the industry’s policy priorities. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/james-redstone-joins-sia-as-director-of-government-affairs/">James Redstone Joins SIA as Director of Government Affairs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [First AI-Driven SoC Verification Solution Created](https://www.semiconductor-digest.com/first-ai-driven-soc-verification-solution-created/?utm_source=rss&utm_medium=rss&utm_campaign=first-ai-driven-soc-verification-solution-created)
+**Published:** Thu, 26 Feb 2026 14:30:06 +0000
+
+<p>Breker Verification Systems and Moores LabAI formalized a partnership to create the first AI-driven SoC verification flow integrating Breker’s Trek Test Suite Synthesis with Moores Lab agentic AI technology.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/first-ai-driven-soc-verification-solution-created/">First AI-Driven SoC Verification Solution Created</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Reduce and Reuse in the Fab for a More Sustainable Future](https://www.semiconductor-digest.com/reduce-and-reuse-in-the-fab-for-a-more-sustainable-future/?utm_source=rss&utm_medium=rss&utm_campaign=reduce-and-reuse-in-the-fab-for-a-more-sustainable-future)
+**Published:** Thu, 26 Feb 2026 14:22:06 +0000
+
+<p>We have created design of experiments (DOEs) around the chemical concentrations used in wet benches to gain a deeper insight into how we can improve efficiency and make the wafer-cleaning process more sustainable.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/reduce-and-reuse-in-the-fab-for-a-more-sustainable-future/">Reduce and Reuse in the Fab for a More Sustainable Future</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -811,34 +835,26 @@ _Last updated: 2026-02-26 11:01 UTC_
 
 ---
 
-## [Towards Efficient Self-Powered Screens Using Organic Semiconductors](https://www.semiconductor-digest.com/towards-efficient-self-powered-screens-using-organic-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=towards-efficient-self-powered-screens-using-organic-semiconductors)
-**Published:** Mon, 26 Jan 2026 17:40:04 +0000
+## [Power Corner: Allegro’s Vijay Mangtani Explains Power-Thru Isolated Gate Driver Technology](https://www.powerelectronicsnews.com/power-corner-allegros-vijay-mangtani-explains-power-thru-isolated-gate-driver-technology/)
+**Published:** Thu, 26 Feb 2026 13:00:00 +0000
 
-<p>Researchers have overcome a major technical challenge to creating organic multifunctional devices that both light up and power themselves.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/towards-efficient-self-powered-screens-using-organic-semiconductors/">Towards Efficient Self-Powered Screens Using Organic Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Chungnam National University Team Pioneers Defect-Free High-Quality Graphene Electrodes](https://www.semiconductor-digest.com/chungnam-national-university-team-pioneers-defect-free-high-quality-graphene-electrodes/?utm_source=rss&utm_medium=rss&utm_campaign=chungnam-national-university-team-pioneers-defect-free-high-quality-graphene-electrodes)
-**Published:** Mon, 26 Jan 2026 17:25:57 +0000
-
-<p>One-step, etch- free patterning enables clean, low-resistance graphene electrodes for transparent and flexible devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/chungnam-national-university-team-pioneers-defect-free-high-quality-graphene-electrodes/">Chungnam National University Team Pioneers Defect-Free High-Quality Graphene Electrodes</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1387" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Featured-image-of-Allegro_Vijay-Mangtani.png?fit=2351%2C1387" style="display: block; margin-bottom: 5px; clear: both;" width="2351" /><p>An in-depth look at Allegro Microsystems' Power-Thru isolated gate driver technology and its impact on next-generation power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-allegros-vijay-mangtani-explains-power-thru-isolated-gate-driver-technology/">Power Corner: Allegro&#8217;s Vijay Mangtani Explains Power-Thru Isolated Gate Driver Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Tenstorrent Announces Participation in CHASSIS Program, Joint Initiative for Automotive Chiplet Technology](https://www.semiconductor-digest.com/tenstorrent-announces-participation-in-chassis-program-joint-initiative-for-automotive-chiplet-technology/?utm_source=rss&utm_medium=rss&utm_campaign=tenstorrent-announces-participation-in-chassis-program-joint-initiative-for-automotive-chiplet-technology)
-**Published:** Mon, 26 Jan 2026 17:21:53 +0000
+## [Bourns Launches Four New Multilayer Chip Inductor Series](https://www.powerelectronicsnews.com/bourns-launches-four-new-multilayer-chip-inductor-series/)
+**Published:** Thu, 26 Feb 2026 13:00:00 +0000
 
-<p>Tenstorrent is announcing their participation in the CHASSIS program, a three year international research program driving software-defined mobility projects in the EU.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tenstorrent-announces-participation-in-chassis-program-joint-initiative-for-automotive-chiplet-technology/">Tenstorrent Announces Participation in CHASSIS Program, Joint Initiative for Automotive Chiplet Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Bourns Launches Four New Multilayer Chip Inductor Series." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/bourns_ce_series_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new multilayer chip inductors offer compact sizes, high SRF, and stable performance for  RF and mobile applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/bourns-launches-four-new-multilayer-chip-inductor-series/">Bourns Launches Four New Multilayer Chip Inductor Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
 ## [ST Introduces MasterGaN6 GaN Power ICs](https://www.powerelectronicsnews.com/st-introduces-mastergan6-gan-power-ics/)
 **Published:** Wed, 25 Feb 2026 15:00:00 +0000
 
-<img alt="ST Introduces MasterGaN6 GaN Power ICs." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/N4756D-Feb-24-2026-MASTERGAN6_IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>MasterGaN6 power ICs integrates driver, protections, and fast switching to support compact and efficient power converters.</p>
+<img alt="ST Introduces MasterGaN6 GaN Power ICs." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/N4756D-Feb-24-2026-MASTERGAN6_IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>MasterGaN6 power ICs integrate driver, protections, and fast switching to support compact and efficient power converters.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-mastergan6-gan-power-ics/">ST Introduces MasterGaN6 GaN Power ICs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
@@ -896,22 +912,6 @@ _Last updated: 2026-02-26 11:01 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="7292" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_1496409034.jpeg?fit=4926%2C7292" style="display: block; margin-bottom: 5px; clear: both;" width="4926" /><p>Exploring the benefits of GaN HEMTs in the various joints of humanoid robotics, including wrist/elbow/ankle and hip/knee/shoulder.  </p>
 <p>The post <a href="https://www.powerelectronicsnews.com/gan-powers-humanoid-robots/">GaN Powers Humanoid Robots</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Vishay Introduces AEC-Q200 Qualified Thick Film Chip Resistors](https://www.powerelectronicsnews.com/vishay-introduces-aec-q200-qualified-thick-film-chip-resistors/)
-**Published:** Fri, 20 Feb 2026 13:00:00 +0000
-
-<img alt="Vishay Introduces AEC-Q200 Qualified 0201 Thick Film Chip Resistors." class="webfeedsFeaturedVisual wp-post-image" height="533" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Vishay_PR.jpg?fit=799%2C533" style="display: block; margin-bottom: 5px; clear: both;" width="799" /><p>Ultra-compact components enable board space savings while supporting high reliability, broad resistance options, and operation up to 155°C.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vishay-introduces-aec-q200-qualified-thick-film-chip-resistors/">Vishay Introduces AEC-Q200 Qualified Thick Film Chip Resistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ST Launches Isolated 4A Gate Drivers](https://www.powerelectronicsnews.com/st-launches-isolated-4a-gate-drivers/)
-**Published:** Thu, 19 Feb 2026 15:00:00 +0000
-
-<img alt="ST Launches Isolated 4A Gate Drivers for Automotive and Industrial Applications." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/ST_N4753A.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>Automotive-grade gate drivers offer 4A current, 60ns response, and high-voltage isolation for automotive and industrial uses.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-launches-isolated-4a-gate-drivers/">ST Launches Isolated 4A Gate Drivers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
