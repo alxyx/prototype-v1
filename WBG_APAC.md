@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-25 13:20 UTC_
+_Last updated: 2026-02-26 11:01 UTC_
+
+## [Industry Veteran Ben Lee Appointed Strategic Advisor at Efinix](https://www.eetasia.com/industry-veteran-ben-lee-appointed-strategic-advisor-at-efinix/)
+**Published:** Thu, 26 Feb 2026 01:58:36 +0000
+
+<p>Semiconductor industry veteran Ben Lee has joined Efinix as a strategic advisor.</p>
+<p>The post <a href="https://www.eetasia.com/industry-veteran-ben-lee-appointed-strategic-advisor-at-efinix/">Industry Veteran Ben Lee Appointed Strategic Advisor at Efinix</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [3 Semiconductor-enabled Innovations Impacting How We Experience the World](https://www.eetasia.com/3-semiconductor-enabled-innovations-impacting-how-we-experience-the-world/)
+**Published:** Thu, 26 Feb 2026 01:29:59 +0000
+
+<p>Strides in safer systems, smaller devices and AI adoption will shape tomorrow’s technology.</p>
+<p>The post <a href="https://www.eetasia.com/3-semiconductor-enabled-innovations-impacting-how-we-experience-the-world/">3 Semiconductor-enabled Innovations Impacting How We Experience the World</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Taiwan’s ITRI Breaks Ground on Advanced Semiconductor R&D Center in Hsinchu](https://www.eetasia.com/taiwans-itri-breaks-ground-on-advanced-semiconductor-rd-center-in-hsinchu/)
 **Published:** Wed, 25 Feb 2026 02:09:19 +0000
@@ -18,19 +34,35 @@ _Last updated: 2026-02-25 13:20 UTC_
 
 ---
 
-## [Why Physical Prototyping is Becoming Too Expensive for Modern Semiconductor Fabs](https://www.eetasia.com/why-physical-prototyping-is-becoming-too-expensive-for-modern-semiconductor-fabs/)
-**Published:** Tue, 24 Feb 2026 01:12:27 +0000
+## [Imec Unlocks Lever for EUV Dose Reduction](https://www.semiconductor-digest.com/imec-unlocks-lever-for-euv-dose-reduction/?utm_source=rss&utm_medium=rss&utm_campaign=imec-unlocks-lever-for-euv-dose-reduction)
+**Published:** Wed, 25 Feb 2026 20:16:08 +0000
 
-<p>Crafting ideas in digital spaces is the only way to preserve what finite resources are available to makers.</p>
-<p>The post <a href="https://www.eetasia.com/why-physical-prototyping-is-becoming-too-expensive-for-modern-semiconductor-fabs/">Why Physical Prototyping is Becoming Too Expensive for Modern Semiconductor Fabs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The findings reveal that controlling gas composition, especially oxygen levels, during critical lithography steps dramatically optimizes metal-oxide resist performance for next-generation, high-throughput EUV patterning.  </p>
+<p>The post <a href="https://www.semiconductor-digest.com/imec-unlocks-lever-for-euv-dose-reduction/">Imec Unlocks Lever for EUV Dose Reduction</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [QuiX Quantum Partners with Taiwan’s Artilux to Advance Photonic Quantum Computing](https://www.eetasia.com/quix-quantum-partners-with-taiwans-artilux-to-advance-photonic-quantum-computing/)
-**Published:** Mon, 23 Feb 2026 01:35:33 +0000
+## [AI-Driven Device Scaling Fuels Next Phase of CMP Consumables Growth](https://www.semiconductor-digest.com/ai-driven-device-scaling-fuels-next-phase-of-cmp-consumables-growth/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-device-scaling-fuels-next-phase-of-cmp-consumables-growth)
+**Published:** Wed, 25 Feb 2026 19:40:09 +0000
 
-<p>QuiX Quantum and Artilux, a Taiwan-based developer of advanced semiconductor-based photonic detector technologies, have signed a Memorandum of Understanding (MoU) aimed at strengthening hardware integration, improving manufacturability, and lowering operational energy requirements in photonic quantum computing systems. As quantum computing matures into real-world applications, operating efficiently beyond specialized laboratory environments is becoming increasingly critical. The [&#8230;]</p>
-<p>The post <a href="https://www.eetasia.com/quix-quantum-partners-with-taiwans-artilux-to-advance-photonic-quantum-computing/">QuiX Quantum Partners with Taiwan&#8217;s Artilux to Advance Photonic Quantum Computing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>TechInsights reports that combined CMP slurry and pad revenues totaled approximately $3.8 billion in 2025 and are projected to grow 10.3% in 2026 to roughly $4.2 billion. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/ai-driven-device-scaling-fuels-next-phase-of-cmp-consumables-growth/">AI-Driven Device Scaling Fuels Next Phase of CMP Consumables Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Engineering Resilience – Building a Quality-Driven Supply Chain](https://www.semiconductor-digest.com/engineering-resilience-building-a-quality-driven-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=engineering-resilience-building-a-quality-driven-supply-chain)
+**Published:** Wed, 25 Feb 2026 18:06:28 +0000
+
+<p>The industry is transitioning from a quest for the lowest possible cost to an imperative for guaranteed quality and systemic resilience. We are moving toward a model where the value of a component is no longer measured solely by its price point, but by the reliability of the ecosystem that produced it. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/engineering-resilience-building-a-quality-driven-supply-chain/">Engineering Resilience – Building a Quality-Driven Supply Chain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Axelera AI Secures More Than $250 Million Funding](https://www.semiconductor-digest.com/axelera-ai-secures-more-than-250-million-funding/?utm_source=rss&utm_medium=rss&utm_campaign=axelera-ai-secures-more-than-250-million-funding)
+**Published:** Wed, 25 Feb 2026 17:53:00 +0000
+
+<p>European AI semiconductor leader earns backing from funds managed by Innovation Industries and SiteGround Capital along with EU institutions; edge-first architecture addresses AI's critical energy and cooling constraints</p>
+<p>The post <a href="https://www.semiconductor-digest.com/axelera-ai-secures-more-than-250-million-funding/">Axelera AI Secures More Than $250 Million Funding</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -803,35 +835,11 @@ _Last updated: 2026-02-25 13:20 UTC_
 
 ---
 
-## [Scintil Photonics, Presto Engineering and CEA-Leti Receive Bpifrance Grant for the CanopAI Project to Advance Photonic Integration for AI and Data Centers](https://www.semiconductor-digest.com/scintil-photonics-presto-engineering-and-cea-leti-receive-bpifrance-grant-for-the-canopai-project-to-advance-photonic-integration-for-ai-and-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=scintil-photonics-presto-engineering-and-cea-leti-receive-bpifrance-grant-for-the-canopai-project-to-advance-photonic-integration-for-ai-and-data-centers)
-**Published:** Fri, 23 Jan 2026 22:25:46 +0000
+## [ST Introduces MasterGaN6 GaN Power ICs](https://www.powerelectronicsnews.com/st-introduces-mastergan6-gan-power-ics/)
+**Published:** Wed, 25 Feb 2026 15:00:00 +0000
 
-<p>The CanopAI project addresses key challenges in the test and reliability of photonic integrated circuits, strengthening France’s technological sovereignty in semiconductors and photonics.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/scintil-photonics-presto-engineering-and-cea-leti-receive-bpifrance-grant-for-the-canopai-project-to-advance-photonic-integration-for-ai-and-data-centers/">Scintil Photonics, Presto Engineering and CEA-Leti Receive Bpifrance Grant for the CanopAI Project to Advance Photonic Integration for AI and Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: Smartphone AMOLED Shipments to Fall in 2026 as Memory Prices Squeeze Smartphone Makers’ Plans](https://www.semiconductor-digest.com/omdia-smartphone-amoled-shipments-to-fall-in-2026-as-memory-prices-squeeze-smartphone-makers-plans/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-smartphone-amoled-shipments-to-fall-in-2026-as-memory-prices-squeeze-smartphone-makers-plans)
-**Published:** Fri, 23 Jan 2026 22:04:17 +0000
-
-<p>Global smartphone AMOLED shipments are forecast to decline to 810 million units in 2026, down from 817 million units in 2025, according to Omdia’s Smartphone Display Intelligence Service.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-smartphone-amoled-shipments-to-fall-in-2026-as-memory-prices-squeeze-smartphone-makers-plans/">Omdia: Smartphone AMOLED Shipments to Fall in 2026 as Memory Prices Squeeze Smartphone Makers&#8217; Plans</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [FLEX Technology Summit 2026 Spotlights Augmenting Flexible Hybrid Electronics with AI, Digital Twins, and XR](https://www.semiconductor-digest.com/flex-technology-summit-2026-spotlights-augmenting-flexible-hybrid-electronics-with-ai-digital-twins-and-xr/?utm_source=rss&utm_medium=rss&utm_campaign=flex-technology-summit-2026-spotlights-augmenting-flexible-hybrid-electronics-with-ai-digital-twins-and-xr)
-**Published:** Fri, 23 Jan 2026 21:56:47 +0000
-
-<p>The FLEX Technology Summit will be held on February 24-26, 2026, at the Wigwam Arizona Resort in Phoenix, Arizona, celebrating 25 years of innovation in flexible hybrid electronics (FHE), printed electronics, and advanced packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/flex-technology-summit-2026-spotlights-augmenting-flexible-hybrid-electronics-with-ai-digital-twins-and-xr/">FLEX Technology Summit 2026 Spotlights Augmenting Flexible Hybrid Electronics with AI, Digital Twins, and XR</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Texas Tech to Dedicate $24 Million Toward Multipurpose Clean-Room Facility](https://www.semiconductor-digest.com/texas-tech-to-dedicate-24-million-toward-multipurpose-clean-room-facility/?utm_source=rss&utm_medium=rss&utm_campaign=texas-tech-to-dedicate-24-million-toward-multipurpose-clean-room-facility)
-**Published:** Fri, 23 Jan 2026 21:52:28 +0000
-
-<p>The university is matching a $12 million Texas Semiconductor Innovation Fund grant award to build a facility to further semiconductor research and development.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/texas-tech-to-dedicate-24-million-toward-multipurpose-clean-room-facility/">Texas Tech to Dedicate $24 Million Toward Multipurpose Clean-Room Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="ST Introduces MasterGaN6 GaN Power ICs." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/N4756D-Feb-24-2026-MASTERGAN6_IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>MasterGaN6 power ICs integrates driver, protections, and fast switching to support compact and efficient power converters.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-mastergan6-gan-power-ics/">ST Introduces MasterGaN6 GaN Power ICs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -907,55 +915,46 @@ _Last updated: 2026-02-25 13:20 UTC_
 
 ---
 
-## [SemiQ Announces New SiC Power Solutions](https://www.powerelectronicsnews.com/semiq-announces-new-sic-power-solutions/)
-**Published:** Thu, 19 Feb 2026 14:00:00 +0000
+## [Integrating eFPGA for Hybrid Signal Processing Architectures](https://www.eetimes.com/integrating-efpga-for-hybrid-signal-processing-architectures/)
+**Published:** Wed, 25 Feb 2026 14:00:00 +0000
 
-<img alt="SemiQ Announces New SiC Power Solutions." class="webfeedsFeaturedVisual wp-post-image" height="1932" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/SemiQ_PR.jpg?fit=3000%2C1932" style="display: block; margin-bottom: 5px; clear: both;" width="3000" /><p>These SiC power solutions are designed to meet the demands of high-power infrastructure and next-generation AI datacenters.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/semiq-announces-new-sic-power-solutions/">SemiQ Announces New SiC Power Solutions</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Ireland offers Master’s degree in IC design](https://www.electronicsweekly.com/news/business/ireland-adds-masters-degree-in-ic-design-2026-02/)
-**Published:** Wed, 25 Feb 2026 06:05:38 +0000
-
-<p>A master&#8217;s degree in circuit design has been announced by Maynooth University, aimed at helping to grow Ireland&#8217;s semiconductor industry. The new course &#8211; the Master of Engineering Science in ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/ireland-adds-masters-degree-in-ic-design-2026-02/">Ireland offers Master’s degree in IC design</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Fixed logic or software? eFPGA offers a smarter middle ground—enabling reconfigurable, ASIC-class signal processing without the re-spin. Here's how to architect it.</p>
+<p>The post <a href="https://www.eetimes.com/integrating-efpga-for-hybrid-signal-processing-architectures/">Integrating eFPGA for Hybrid Signal Processing Architectures </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
-## [Compound semi substrate market growing at 14% CAGR](https://www.electronicsweekly.com/news/business/compound-semi-substrate-market-growing-at-14-cagr-2026-02/)
-**Published:** Tue, 24 Feb 2026 06:18:47 +0000
+## [JOB: Physical Design Lead At BITSILICA In Bengaluru And Hyderabad](https://www.electronicsforu.com/career/physical-design-lead-bitsilica-bengaluru-hyderabad)
+**Published:** Thu, 26 Feb 2026 09:21:06 +0000
 
-<p>The compound semiconductor substrate and open epiwafer markets are projected to reach almost $5.2 billion in total by 2031, growing at around 14% CAGR. Automotive electrification drives SiC substrates, RF ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/compound-semi-substrate-market-growing-at-14-cagr-2026-02/">Compound semi substrate market growing at 14% CAGR</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Build & Learn Electronics Circuit On Breadboard](https://www.electronicsforu.com/videos-slideshows/build-learn-electronics-circuit-on-breadboard)
-**Published:** Wed, 25 Feb 2026 12:11:10 +0000
-
-<img alt="Build &amp; Learn Electronics Circuit On Breadboard" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/build-and-learn-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Welcome to Build &#38; Learn Electronics Circuit On Breadboard — a hands-on guide designed to help you understand and create basic electronic circuits using a breadboard. This educational slideshow takes you step by step through the core concepts of electronics, from identifying essential components like resistors, LEDs, and buzzers, to learning how to read and [&#8230;]
+<img alt="Lead Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/jobs-shutterstock-ubj750-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What You&#8217;ll Own What We&#8217;re Looking For Preferred
 
 ---
 
-## [JOB: Engineer 1 – Electrical Component At General Electric In Pallavaram](https://www.electronicsforu.com/career/engineer-1-electrical-component-general-electric-pallavaram)
-**Published:** Wed, 25 Feb 2026 10:02:20 +0000
+## [JOB: GET / Deputy Manager – Semiconductor Research At Moglix In Noida](https://www.electronicsforu.com/career/get-deputy-manager-semiconductor-research-moglix-noida)
+**Published:** Thu, 26 Feb 2026 09:03:33 +0000
 
-<img alt="General Electrics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/11/General-Electric-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pallavaram Company: General Electric Summary Provide solution, execute basic &#38; detailed design for all Protection &#38; Control applications involving switch yard and generator circuits for SAS &#38; conventional projects from 33kV to 765kV as per customer specification and internal standards. Initiate technical discussion and secure customer approval on Engineering documents; Deliver quality [&#8230;]
-
----
-
-## [JOB: ASIC Design Engineer, High Speed IO At NVIDIA In Bengaluru And Hyderabad](https://www.electronicsforu.com/career/asic-design-engineer-high-speed-io-nvidia-bengaluru-and-hyderabad)
-**Published:** Wed, 25 Feb 2026 09:27:05 +0000
-
-<img alt="JOB: ASIC Design Engineer, High Speed IO At NVIDIA In Bengaluru And Hyderabad" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2023/06/nvidia-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru and Hyderabad Company: NVIDIA As a designer, be responsible for making architectural trade-offs based on feature/performance/power requirements, analyze system implications, come up with the micro-architecture, implement RTL, drive the verification, close timing, and support silicon validation. During the course of a project you would end up driving the following aspects of [&#8230;]
+<img alt="Internship" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/lam-job-search-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Eligibility: B.Tech / M.Tech (Tier 1 institutes &#8211; IIT/NIT/DCE/BITS, etc) Experience: 0–3 Years Location: Noida Key Responsibilities Interested candidates can share their CV at lakshay.sharma@moglix.com
 
 ---
 
-## [JOB: DFT Engineer At Larsen & Toubro In Bengaluru](https://www.electronicsforu.com/career/dft-engineer-larsen-toubro-bengaluru)
-**Published:** Wed, 25 Feb 2026 09:05:07 +0000
+## [Researchers at Deutsche Telekom and Qunnect Successfully Test Quantum Teleportation over a 30-kilometer Commercial Fibre Network](https://www.electronicsforu.com/news/quantum-teleportation-in-commercial-network)
+**Published:** Thu, 26 Feb 2026 07:25:18 +0000
 
-<img alt="JOB: DFT Engineer At Larsen &amp; Toubro In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/06/larsentoubro-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Larsen &#38; Toubro The Design for Testability (DFT) engineering organisation at L&#38;T Semiconductor Technologies (LTSCT) pioneers innovative methods and technologies in the areas of DFT architecture, verification, and post-silicon bring-up of state-of-the-art semiconductor chips, such as System on a Chip (SoCs), developed using the latest semiconductor technology nodes. Areas of [&#8230;]
+<img alt="Researchers at Deutsche Telekom and Qunnect Successfully Test Quantum Teleportation over a 30-kilometer Commercial Fibre Network" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/bi-260219-teleportation-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />When commercial fibres carries entangled photons, quantum states can be reconstructed kilometres apart, offering a glimpse at scalable quantum communication beyond laboratories. Researchers at Deutsche Telekom’s T-Labs and Qunnect have demonstrated quantum teleportation over a 30-kilometer commercial fibre network in Berlin. The trial employed commercially available entanglement distribution hardware alongside classical data traffic, achieving an [&#8230;]
+
+---
+
+## [New Study Revealed Quantum Material Converting Signals Without Magnets](https://www.electronicsforu.com/news/quantum-material-converting-signals-without-magnets)
+**Published:** Thu, 26 Feb 2026 07:17:16 +0000
+
+<img alt="New Study Revealed Quantum Material Converting Signals Without Magnets" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/IE-Photo-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As quantum Hall effects interact with subtle material vibrations, energy conversion occurs naturally, pointing toward ultra-efficient, low-voltage operation in wearable and remote sensing devices. Researchers from the QUT School of Chemistry and Physics and Nanyang Technological University have studied a quantum material capable of converting alternating signals into direct current without requiring magnets or bulky [&#8230;]
+
+---
+
+## [Researchers Developed Ultralow Voltage Chips (0.6 volts) for AI and IoT Devices](https://www.electronicsforu.com/news/ultralow-voltage-chips-for-ai-and-iot-devices)
+**Published:** Thu, 26 Feb 2026 07:10:41 +0000
+
+<img alt="Researchers Developed Ultralow Voltage Chips (0.6 volts) for AI and IoT Devices" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/IE-Photo-12-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />When logic and memory operate at the same ultralow voltage, data transfer becomes seamless, hinting at new efficiencies in AI models, edge devices, and wearable electronics. A team of researchers from Peking University has developed a nano-gate ferroelectric transistor that operates at an ultralow voltage of 0.6 volts. The design shrinks the physical size of [&#8230;]
 
 ---
 
