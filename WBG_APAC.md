@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-27 08:00 UTC_
+_Last updated: 2026-02-27 13:13 UTC_
 
 ## [Industry Veteran Ben Lee Appointed Strategic Advisor at Efinix](https://www.eetasia.com/industry-veteran-ben-lee-appointed-strategic-advisor-at-efinix/)
 **Published:** Thu, 26 Feb 2026 01:58:36 +0000
@@ -835,6 +835,30 @@ _Last updated: 2026-02-27 08:00 UTC_
 
 ---
 
+## [The Realities of the AI and Quantum Computing Intersection](https://www.powerelectronicsnews.com/the-realities-of-the-ai-and-quantum-computing-intersection/)
+**Published:** Fri, 27 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1125" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/image_6856a7.png?fit=1125%2C1125" style="display: block; margin-bottom: 5px; clear: both;" width="1125" /><p>Tracing the history of scientific and technological progress shows that breakthroughs are rarely isolated events. Instead, they emerge within narratives—anchored in markets and institutions—that frame...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-realities-of-the-ai-and-quantum-computing-intersection/">The Realities of the AI and Quantum Computing Intersection</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [From Spin-Orbit to Magnonics: The Rashba Effect in GaN Heterostructures for Next-Gen Neural Networks](https://www.powerelectronicsnews.com/from-spin-orbit-to-magnonics-the-rashba-effect-in-gan-heterostructures-for-next-gen-neural-networks/)
+**Published:** Fri, 27 Feb 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_1756990609.jpeg?fit=5760%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5760" /><p>The Rashba effect in GaN can represent a path to overcoming the Von Neumann bottleneck; the material can be used in magnonic neural networks.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/from-spin-orbit-to-magnonics-the-rashba-effect-in-gan-heterostructures-for-next-gen-neural-networks/">From Spin-Orbit to Magnonics: The Rashba Effect in GaN Heterostructures for Next-Gen Neural Networks</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [TDK Corporation Expands HWS3000 Series](https://www.powerelectronicsnews.com/tdk-corporation-expands-hws3000-series/)
+**Published:** Fri, 27 Feb 2026 13:00:00 +0000
+
+<img alt="TDK Corporation Expands HWS3000 Series." class="webfeedsFeaturedVisual wp-post-image" height="1600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Press-picture_20260224_TDK-Press-Release_HWS3000GT4_LA243_E_FINAL.jpg?fit=2400%2C1600" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new HWS3000GT4 adds 340–528 VAC three-phase input, 3 kW output, and full programmability for flexible industrial power applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tdk-corporation-expands-hws3000-series/">TDK Corporation Expands HWS3000 Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Power Corner: Allegro’s Vijay Mangtani Explains Power-Thru Isolated Gate Driver Technology](https://www.powerelectronicsnews.com/power-corner-allegros-vijay-mangtani-explains-power-thru-isolated-gate-driver-technology/)
 **Published:** Thu, 26 Feb 2026 13:00:00 +0000
 
@@ -891,30 +915,6 @@ _Last updated: 2026-02-27 08:00 UTC_
 
 ---
 
-## [Keysight Unveils Next-Generation Infiniium XR8 Oscilloscopes](https://www.powerelectronicsnews.com/keysight-unveils-next-generation-infiniium-xr8-oscilloscopes/)
-**Published:** Mon, 23 Feb 2026 14:11:05 +0000
-
-<img alt="Keysight Unveils Next-Generation Infiniium XR8 Oscilloscopes." class="webfeedsFeaturedVisual wp-post-image" height="328" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Keysight_XR8.jpg?fit=582%2C328" style="display: block; margin-bottom: 5px; clear: both;" width="582" /><p>Infiniium XR8 oscilloscopes optimize performance, efficiency, and signal integrity for high-speed interface testing and development.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/keysight-unveils-next-generation-infiniium-xr8-oscilloscopes/">Keysight Unveils Next-Generation Infiniium XR8 Oscilloscopes</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Diamond Semiconductors, EUV Lithography, EPC-Renesas Partnership: Power Electronics Week Insights](https://www.powerelectronicsnews.com/diamond-semiconductors-euv-lithography-epc-renesas-partnership-power-electronics-week-insights/)
-**Published:** Fri, 20 Feb 2026 16:28:27 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Diamond Semiconductors, EUV Lithography, and EPC-Renesas Partnership!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/diamond-semiconductors-euv-lithography-epc-renesas-partnership-power-electronics-week-insights/">Diamond Semiconductors, EUV Lithography, EPC-Renesas Partnership: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [GaN Powers Humanoid Robots](https://www.powerelectronicsnews.com/gan-powers-humanoid-robots/)
-**Published:** Fri, 20 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="7292" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_1496409034.jpeg?fit=4926%2C7292" style="display: block; margin-bottom: 5px; clear: both;" width="4926" /><p>Exploring the benefits of GaN HEMTs in the various joints of humanoid robotics, including wrist/elbow/ankle and hip/knee/shoulder.  </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/gan-powers-humanoid-robots/">GaN Powers Humanoid Robots</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Integrating eFPGA for Hybrid Signal Processing Architectures](https://www.eetimes.com/integrating-efpga-for-hybrid-signal-processing-architectures/)
 **Published:** Wed, 25 Feb 2026 14:00:00 +0000
 
@@ -931,17 +931,17 @@ _Last updated: 2026-02-27 08:00 UTC_
 
 ---
 
-## [JOB: Physical Design Lead At BITSILICA In Bengaluru And Hyderabad](https://www.electronicsforu.com/career/physical-design-lead-bitsilica-bengaluru-hyderabad)
-**Published:** Thu, 26 Feb 2026 09:21:06 +0000
+## [Q-FlexiViT For Smarter Intrusion Detection](https://www.electronicsforu.com/market-verticals/q-flexivit-for-smarter-intrusion-detection)
+**Published:** Fri, 27 Feb 2026 09:28:51 +0000
 
-<img alt="Lead Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/jobs-shutterstock-ubj750-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What You&#8217;ll Own What We&#8217;re Looking For Preferred
+<img alt="Q-FlexiViT For Smarter Intrusion Detection" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/Modern-process-of-finding-IDS-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />In the race to outsmart evolving cyber threats, Q-FlexiViT’s quantum-inspired vision transformer slashes false alarms and boosts accuracy. Could this transform intrusion detection forever? Modern networks generate huge volumes of encrypted and fast-changing traffic. Classic intrusion detection systems struggle here: rule-based engines miss new attack patterns, while simple machine-learning models either overfit or raise too [&#8230;]
 
 ---
 
-## [JOB: GET / Deputy Manager – Semiconductor Research At Moglix In Noida](https://www.electronicsforu.com/career/get-deputy-manager-semiconductor-research-moglix-noida)
-**Published:** Thu, 26 Feb 2026 09:03:33 +0000
+## [JOB: PCB Librarian And Component Engineer At Astrome In Bengaluru](https://www.electronicsforu.com/career/pcb-librarian-component-engineer-astrome-bengaluru)
+**Published:** Fri, 27 Feb 2026 08:59:39 +0000
 
-<img alt="Internship" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/lam-job-search-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Eligibility: B.Tech / M.Tech (Tier 1 institutes &#8211; IIT/NIT/DCE/BITS, etc) Experience: 0–3 Years Location: Noida Key Responsibilities Interested candidates can share their CV at lakshay.sharma@moglix.com
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Astrome About the Job Requirements
 
 ---
 
