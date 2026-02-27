@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-27 07:14 UTC_
+_Last updated: 2026-02-27 08:00 UTC_
 
 ## [Industry Veteran Ben Lee Appointed Strategic Advisor at Efinix](https://www.eetasia.com/industry-veteran-ben-lee-appointed-strategic-advisor-at-efinix/)
 **Published:** Thu, 26 Feb 2026 01:58:36 +0000
@@ -942,27 +942,6 @@ _Last updated: 2026-02-27 07:14 UTC_
 **Published:** Thu, 26 Feb 2026 09:03:33 +0000
 
 <img alt="Internship" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/lam-job-search-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Eligibility: B.Tech / M.Tech (Tier 1 institutes &#8211; IIT/NIT/DCE/BITS, etc) Experience: 0–3 Years Location: Noida Key Responsibilities Interested candidates can share their CV at lakshay.sharma@moglix.com
-
----
-
-## [Researchers at Deutsche Telekom and Qunnect Successfully Test Quantum Teleportation over a 30-kilometer Commercial Fibre Network](https://www.electronicsforu.com/news/quantum-teleportation-in-commercial-network)
-**Published:** Thu, 26 Feb 2026 07:25:18 +0000
-
-<img alt="Researchers at Deutsche Telekom and Qunnect Successfully Test Quantum Teleportation over a 30-kilometer Commercial Fibre Network" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/bi-260219-teleportation-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />When commercial fibres carries entangled photons, quantum states can be reconstructed kilometres apart, offering a glimpse at scalable quantum communication beyond laboratories. Researchers at Deutsche Telekom’s T-Labs and Qunnect have demonstrated quantum teleportation over a 30-kilometer commercial fibre network in Berlin. The trial employed commercially available entanglement distribution hardware alongside classical data traffic, achieving an [&#8230;]
-
----
-
-## [New Study Revealed Quantum Material Converting Signals Without Magnets](https://www.electronicsforu.com/news/quantum-material-converting-signals-without-magnets)
-**Published:** Thu, 26 Feb 2026 07:17:16 +0000
-
-<img alt="New Study Revealed Quantum Material Converting Signals Without Magnets" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/IE-Photo-11-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As quantum Hall effects interact with subtle material vibrations, energy conversion occurs naturally, pointing toward ultra-efficient, low-voltage operation in wearable and remote sensing devices. Researchers from the QUT School of Chemistry and Physics and Nanyang Technological University have studied a quantum material capable of converting alternating signals into direct current without requiring magnets or bulky [&#8230;]
-
----
-
-## [Researchers Developed Ultralow Voltage Chips (0.6 volts) for AI and IoT Devices](https://www.electronicsforu.com/news/ultralow-voltage-chips-for-ai-and-iot-devices)
-**Published:** Thu, 26 Feb 2026 07:10:41 +0000
-
-<img alt="Researchers Developed Ultralow Voltage Chips (0.6 volts) for AI and IoT Devices" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/IE-Photo-12-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />When logic and memory operate at the same ultralow voltage, data transfer becomes seamless, hinting at new efficiencies in AI models, edge devices, and wearable electronics. A team of researchers from Peking University has developed a nano-gate ferroelectric transistor that operates at an ultralow voltage of 0.6 volts. The design shrinks the physical size of [&#8230;]
 
 ---
 
