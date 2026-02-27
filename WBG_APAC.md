@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-27 16:55 UTC_
+_Last updated: 2026-02-27 20:45 UTC_
 
 ## [Industry Veteran Ben Lee Appointed Strategic Advisor at Efinix](https://www.eetasia.com/industry-veteran-ben-lee-appointed-strategic-advisor-at-efinix/)
 **Published:** Thu, 26 Feb 2026 01:58:36 +0000
@@ -912,6 +912,14 @@ _Last updated: 2026-02-27 16:55 UTC_
 
 <img alt="TDK Introduces New DC Link Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="334" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/TDK_capacitors.png?fit=445%2C334" style="display: block; margin-bottom: 5px; clear: both;" width="445" /><p>The new aluminum electrolytic capacitors enhance DC link reliability and efficiency in EV on-board chargers.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/tdk-introduces-new-dc-link-capacitors/">TDK Introduces New DC Link Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Taiwan’s Tech Industry](https://www.eetimes.com/taiwans-tech-industry/)
+**Published:** Fri, 27 Feb 2026 18:00:00 +0000
+
+<p>The Made in Taiwan report examines Taiwan’s technology industry, focusing on its role in semiconductor manufacturing, power electronics, embedded systems design, and AI. The small island of Taiwan is a global leader in chip manufacturing, packaging, design, and test, and its position in the global economy is only getting larger as it bolsters its system integration capabilities.  As Taiwan sets the next stage [&#8230;]</p>
+<p>The post <a href="https://www.eetimes.com/taiwans-tech-industry/">Taiwan&#8217;s Tech Industry</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
