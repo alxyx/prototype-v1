@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-27 20:45 UTC_
+_Last updated: 2026-02-27 22:37 UTC_
 
 ## [Industry Veteran Ben Lee Appointed Strategic Advisor at Efinix](https://www.eetasia.com/industry-veteran-ben-lee-appointed-strategic-advisor-at-efinix/)
 **Published:** Thu, 26 Feb 2026 01:58:36 +0000
