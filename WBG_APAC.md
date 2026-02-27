@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-26 22:47 UTC_
+_Last updated: 2026-02-27 07:14 UTC_
 
 ## [Industry Veteran Ben Lee Appointed Strategic Advisor at Efinix](https://www.eetasia.com/industry-veteran-ben-lee-appointed-strategic-advisor-at-efinix/)
 **Published:** Thu, 26 Feb 2026 01:58:36 +0000
@@ -920,6 +920,14 @@ _Last updated: 2026-02-26 22:47 UTC_
 
 <p>Fixed logic or software? eFPGA offers a smarter middle ground—enabling reconfigurable, ASIC-class signal processing without the re-spin. Here's how to architect it.</p>
 <p>The post <a href="https://www.eetimes.com/integrating-efpga-for-hybrid-signal-processing-architectures/">Integrating eFPGA for Hybrid Signal Processing Architectures </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Semiconductor Intelligence forecasts 30% semi growth this year](https://www.electronicsweekly.com/news/business/semiconductor-intelligence-forecasts-30-semi-growth-this-year-2026-02/)
+**Published:** Fri, 27 Feb 2026 06:19:17 +0000
+
+<p>The global semiconductor market in 2025 was $792 billion, according to WSTS. 2025 was up 25.6% from 2024, the strongest growth since 26.2% in the COVID recovery year 2021, reports ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/semiconductor-intelligence-forecasts-30-semi-growth-this-year-2026-02/">Semiconductor Intelligence forecasts 30% semi growth this year</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
