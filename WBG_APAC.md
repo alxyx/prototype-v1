@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-02-27 13:13 UTC_
+_Last updated: 2026-02-27 16:55 UTC_
 
 ## [Industry Veteran Ben Lee Appointed Strategic Advisor at Efinix](https://www.eetasia.com/industry-veteran-ben-lee-appointed-strategic-advisor-at-efinix/)
 **Published:** Thu, 26 Feb 2026 01:58:36 +0000
@@ -31,6 +31,54 @@ _Last updated: 2026-02-27 13:13 UTC_
 
 <p>Robots are evolving to systems that can interpret goals in natural language, plan multi‑step tasks, and adapt to changing environments.</p>
 <p>The post <a href="https://www.eetasia.com/humanoids-robotics-in-2026-early-reality-of-the-physical-ai-era/">Humanoids &amp; Robotics in 2026: Early Reality of the &#8220;Physical AI&#8221; Era</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Rapidus Secures $1.7B in Funding](https://www.semiconductor-digest.com/rapidus-secures-1-7b-in-funding/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-secures-1-7b-in-funding)
+**Published:** Fri, 27 Feb 2026 16:21:31 +0000
+
+<p>This funding plan will enable Rapidus to steadily progress from its current R&#038;D phase to mass production of 2nm logic semiconductors by 2027</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rapidus-secures-1-7b-in-funding/">Rapidus Secures $1.7B in Funding</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Beyond Moore’s Law: Why the Next Era of Computing Will Be Powered by Light](https://www.semiconductor-digest.com/beyond-moores-law-why-the-next-era-of-computing-will-be-powered-by-light/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-moores-law-why-the-next-era-of-computing-will-be-powered-by-light)
+**Published:** Fri, 27 Feb 2026 14:48:38 +0000
+
+<p>As electronic computing reaches its physical and thermal limits, silicon photonics offers a sustainable path forward. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/beyond-moores-law-why-the-next-era-of-computing-will-be-powered-by-light/">Beyond Moore&#8217;s Law: Why the Next Era of Computing Will Be Powered by Light</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens Accelerates IC Design and Verification with Agentic AI in Questa One](https://www.semiconductor-digest.com/siemens-accelerates-ic-design-and-verification-with-agentic-ai-in-questa-one/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-accelerates-ic-design-and-verification-with-agentic-ai-in-questa-one)
+**Published:** Fri, 27 Feb 2026 14:40:14 +0000
+
+<p>Siemens announced the Questa One Agentic Toolkit, which brings domain scoped agentic AI workflows to its Questa™ One smart verification software portfolio to accelerate creation, verification planning, execution, debugging and closure.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-accelerates-ic-design-and-verification-with-agentic-ai-in-questa-one/">Siemens Accelerates IC Design and Verification with Agentic AI in Questa One</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Kurtz Ersa Goes Semiconductor](https://www.semiconductor-digest.com/kurtz-ersa-goes-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=kurtz-ersa-goes-semiconductor)
+**Published:** Fri, 27 Feb 2026 14:27:43 +0000
+
+<p>ATV Technologie GmbH officially became part of the Kurtz Ersa Group and will operate under the new name Kurtz Ersa Semicon GmbH.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kurtz-ersa-goes-semiconductor/">Kurtz Ersa Goes Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AI-Powered Design Automation is Redefining Chip Engineering and Silicon Innovation](https://www.semiconductor-digest.com/ai-powered-design-automation-is-redefining-chip-engineering-and-silicon-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=ai-powered-design-automation-is-redefining-chip-engineering-and-silicon-innovation)
+**Published:** Fri, 27 Feb 2026 14:19:38 +0000
+
+<p>From predictive semiconductor design tools to AI accelerators and data center ASIC optimization, artificial intelligence is redefining how chips are imagined, built, and deployed.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ai-powered-design-automation-is-redefining-chip-engineering-and-silicon-innovation/">AI-Powered Design Automation is Redefining Chip Engineering and Silicon Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Rogue Valley Microdevices Completes Deal with Bridge Tronic](https://www.semiconductor-digest.com/rogue-valley-microdevices-completes-deal-with-bridge-tronic/?utm_source=rss&utm_medium=rss&utm_campaign=rogue-valley-microdevices-completes-deal-with-bridge-tronic)
+**Published:** Fri, 27 Feb 2026 14:10:38 +0000
+
+<p>Rogue Valley Microdevices (RVM) marks major milestones in the build-out of its new 50,000 sq-ft microfabrication facility in Palm Bay, Florida.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rogue-valley-microdevices-completes-deal-with-bridge-tronic/">Rogue Valley Microdevices Completes Deal with Bridge Tronic</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -787,51 +835,19 @@ _Last updated: 2026-02-27 13:13 UTC_
 
 ---
 
-## [Chungnam National University Develops AI Model to Accelerate Defect-Based Material Design](https://www.semiconductor-digest.com/chungnam-national-university-develops-ai-model-to-accelerate-defect-based-material-design/?utm_source=rss&utm_medium=rss&utm_campaign=chungnam-national-university-develops-ai-model-to-accelerate-defect-based-material-design)
-**Published:** Tue, 27 Jan 2026 22:05:26 +0000
+## [DTC Liquid Cooling, PoL Converter Reliability Estimation, GaN and SiC in Factory Automation: Power Electronics Week Insights](https://www.powerelectronicsnews.com/dtc-liquid-cooling-pol-converter-reliability-estimation-gan-and-sic-in-factory-automation-power-electronics-week-insights/)
+**Published:** Fri, 27 Feb 2026 15:27:35 +0000
 
-<p>Deep learning reduces simulation times from hours to milliseconds.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/chungnam-national-university-develops-ai-model-to-accelerate-defect-based-material-design/">Chungnam National University Develops AI Model to Accelerate Defect-Based Material Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [La Luce Cristallina Launches CMOS-Compatible Oxide Pseudo-Substrate, Enhancing Scalability for Silicon Photonics and Advanced Electronics](https://www.semiconductor-digest.com/la-luce-cristallina-launches-cmos-compatible-oxide-pseudo-substrate-enhancing-scalability-for-silicon-photonics-and-advanced-electronics/?utm_source=rss&utm_medium=rss&utm_campaign=la-luce-cristallina-launches-cmos-compatible-oxide-pseudo-substrate-enhancing-scalability-for-silicon-photonics-and-advanced-electronics)
-**Published:** Tue, 27 Jan 2026 21:58:56 +0000
-
-<p>La Luce Cristallina today announced it has launched its new CMOS-compatible oxide pseudo-substrate, enabling high-quality, epitaxial strontium titanate (SrTiO₃) films to be grown directly on 200-mm silicon and silicon-on-insulator (SOI) wafers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/la-luce-cristallina-launches-cmos-compatible-oxide-pseudo-substrate-enhancing-scalability-for-silicon-photonics-and-advanced-electronics/">La Luce Cristallina Launches CMOS-Compatible Oxide Pseudo-Substrate, Enhancing Scalability for Silicon Photonics and Advanced Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on DTC Liquid Cooling, PoL Converter Reliability Estimation, and GaN and SiC in Factory Automation!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/dtc-liquid-cooling-pol-converter-reliability-estimation-gan-and-sic-in-factory-automation-power-electronics-week-insights/">DTC Liquid Cooling, PoL Converter Reliability Estimation, GaN and SiC in Factory Automation: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [AmberSemi Announces Silicon Tape-Out of PowerTile Vertical Power Solution for AI Data Centers](https://www.semiconductor-digest.com/ambersemi-announces-silicon-tape-out-of-powertile-vertical-power-solution-for-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=ambersemi-announces-silicon-tape-out-of-powertile-vertical-power-solution-for-ai-data-centers)
-**Published:** Tue, 27 Jan 2026 21:49:57 +0000
+## [Wide Bandgap Monthly Insights – February 2026](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-february-2026/)
+**Published:** Fri, 27 Feb 2026 15:27:29 +0000
 
-<p>Amber Semiconductor, Inc. (AmberSemi), a fabless semiconductor company pioneering the next generation of power management for data centers, today announced the successful tape out of its AmberSemi PowerTile vertical power delivery solution designed specifically for AI processors in data centers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ambersemi-announces-silicon-tape-out-of-powertile-vertical-power-solution-for-ai-data-centers/">AmberSemi Announces Silicon Tape-Out of PowerTile Vertical Power Solution for AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Veeco and imec Develop 300mm Compatible Process to Enable Integration of Barium Titanate on Silicon photonics](https://www.semiconductor-digest.com/veeco-and-imec-develop-300mm-compatible-process-to-enable-integration-of-barium-titanate-on-silicon-photonics/?utm_source=rss&utm_medium=rss&utm_campaign=veeco-and-imec-develop-300mm-compatible-process-to-enable-integration-of-barium-titanate-on-silicon-photonics)
-**Published:** Tue, 27 Jan 2026 21:34:23 +0000
-
-<p>Veeco Instruments Inc. and imec announced today that they have collaboratively developed a 300mm high volume manufacturing compatible process that enables the integration of barium titanate (BaTiO3 or BTO) on a silicon photonics platform.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/veeco-and-imec-develop-300mm-compatible-process-to-enable-integration-of-barium-titanate-on-silicon-photonics/">Veeco and imec Develop 300mm Compatible Process to Enable Integration of Barium Titanate on Silicon photonics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMIFIVE and SAPIEN Semiconductors Sign MOU to Develop Next-Generation Micro-display ‘CMOS Backplane’ Technology](https://www.semiconductor-digest.com/semifive-and-sapien-semiconductors-sign-mou-to-develop-next-generation-micro-display-cmos-backplane-technology/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-and-sapien-semiconductors-sign-mou-to-develop-next-generation-micro-display-cmos-backplane-technology)
-**Published:** Mon, 26 Jan 2026 17:56:43 +0000
-
-<p>SEMIFIVE, a global provider of custom AI semiconductor (ASIC) design solutions, announced today that it has signed a strategic MOU with SAPIEN Semiconductors, a company specializing in advanced micro-LED display driver ASICs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semifive-and-sapien-semiconductors-sign-mou-to-develop-next-generation-micro-display-cmos-backplane-technology/">SEMIFIVE and SAPIEN Semiconductors Sign MOU to Develop Next-Generation Micro-display &#8216;CMOS Backplane&#8217; Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Ricursive Intelligence Raises $300 Million Series A at $4 Billion Valuation to Accelerate AI-Driven Semiconductor Design](https://www.semiconductor-digest.com/ricursive-intelligence-raises-300-million-series-a-at-4-billion-valuation-to-accelerate-ai-driven-semiconductor-design/?utm_source=rss&utm_medium=rss&utm_campaign=ricursive-intelligence-raises-300-million-series-a-at-4-billion-valuation-to-accelerate-ai-driven-semiconductor-design)
-**Published:** Mon, 26 Jan 2026 17:48:49 +0000
-
-<p>Ricursive Intelligence, a frontier AI lab founded by the co-creators of AlphaChip, today announced a $300 million Series A funding round led by Lightspeed Venture Partners at a $4 billion post-money valuation.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ricursive-intelligence-raises-300-million-series-a-at-4-billion-valuation-to-accelerate-ai-driven-semiconductor-design/">Ricursive Intelligence Raises $300 Million Series A at $4 Billion Valuation to Accelerate AI-Driven Semiconductor Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-february-2026/">Wide Bandgap Monthly Insights &#8211; February 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -899,19 +915,11 @@ _Last updated: 2026-02-27 13:13 UTC_
 
 ---
 
-## [A Guide to the Reliability Estimation of PoL Converters](https://www.powerelectronicsnews.com/a-guide-to-the-reliability-estimation-of-pol-converters/)
-**Published:** Tue, 24 Feb 2026 13:00:00 +0000
+## [From AI’s Origins to Smart Devices: Selecting the Right Devices for Smart Deployment](https://www.eetimes.com/from-ais-origins-to-smart-devices-selecting-the-right-devices-for-smart-deployment/)
+**Published:** Fri, 27 Feb 2026 15:31:34 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2592" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_84129823.jpeg?fit=3888%2C2592" style="display: block; margin-bottom: 5px; clear: both;" width="3888" /><p>Understanding PoL converter reliability estimates using the common FIT, MTBF, and MTTF metrics on the output capacitor.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/a-guide-to-the-reliability-estimation-of-pol-converters/">A Guide to the Reliability Estimation of PoL Converters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [GaN and SiC Power Designs Address Factory Automation Challenges](https://www.powerelectronicsnews.com/gan-and-sic-power-designs-address-factory-automation-challenges/)
-**Published:** Mon, 23 Feb 2026 14:27:59 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="477" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Cover-Image-1.jpg?fit=848%2C477" style="display: block; margin-bottom: 5px; clear: both;" width="848" /><p>GaN and SiC enable engineers to design and scale power systems to meet the stringent requirements of modern automated factories.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/gan-and-sic-power-designs-address-factory-automation-challenges/">GaN and SiC Power Designs Address Factory Automation Challenges </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>A Quick Look Back: How AI Got Started&#160; Artificial intelligence (AI)&#160;began in the 1950s with rule-based systems. Over time, machine&#160;learning&#160;and deep learning enabled AI to learn from data. By the 2010s, AI powered voice assistants, recommendation engines, and self-driving cars.&#160; As AI matured, centralized cloud computing revealed&#160;limitations—especially in real-time, privacy-sensitive, and power-constrained applications. This led&#160;to&#160;progression&#160;(figure [&#8230;]</p>
+<p>The post <a href="https://www.eetimes.com/from-ais-origins-to-smart-devices-selecting-the-right-devices-for-smart-deployment/">From AI’s Origins to Smart Devices: Selecting the Right Devices for Smart Deployment</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
