@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-01 13:52 UTC_
+_Last updated: 2026-03-01 16:43 UTC_
 
 ## [Industry Veteran Ben Lee Appointed Strategic Advisor at Efinix](https://www.eetasia.com/industry-veteran-ben-lee-appointed-strategic-advisor-at-efinix/)
 **Published:** Thu, 26 Feb 2026 01:58:36 +0000
@@ -915,6 +915,14 @@ _Last updated: 2026-03-01 13:52 UTC_
 
 ---
 
+## [Strengthening Semiconductor Obsolescence Management Through Traceability](https://www.eetimes.com/strengthening-semiconductor-obsolescence-management-through-traceability/)
+**Published:** Sun, 01 Mar 2026 14:00:00 +0000
+
+<p>Discover why modern traceability standards like SAE AS6496 are critical for obsolescence management and how Rochester Electronics ensures compliance. </p>
+<p>The post <a href="https://www.eetimes.com/strengthening-semiconductor-obsolescence-management-through-traceability/">Strengthening Semiconductor Obsolescence Management Through Traceability</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Taiwan’s Tech Industry](https://www.eetimes.com/taiwans-tech-industry/)
 **Published:** Fri, 27 Feb 2026 18:00:00 +0000
 
@@ -928,14 +936,6 @@ _Last updated: 2026-03-01 13:52 UTC_
 
 <p>A Quick Look Back: How AI Got Started&#160; Artificial intelligence (AI)&#160;began in the 1950s with rule-based systems. Over time, machine&#160;learning&#160;and deep learning enabled AI to learn from data. By the 2010s, AI powered voice assistants, recommendation engines, and self-driving cars.&#160; As AI matured, centralized cloud computing revealed&#160;limitations—especially in real-time, privacy-sensitive, and power-constrained applications. This led&#160;to&#160;progression&#160;(figure [&#8230;]</p>
 <p>The post <a href="https://www.eetimes.com/from-ais-origins-to-smart-devices-selecting-the-right-devices-for-smart-deployment/">From AI’s Origins to Smart Devices: Selecting the Right Devices for Smart Deployment</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Integrating eFPGA for Hybrid Signal Processing Architectures](https://www.eetimes.com/integrating-efpga-for-hybrid-signal-processing-architectures/)
-**Published:** Wed, 25 Feb 2026 14:00:00 +0000
-
-<p>Fixed logic or software? eFPGA offers a smarter middle ground—enabling reconfigurable, ASIC-class signal processing without the re-spin. Here's how to architect it.</p>
-<p>The post <a href="https://www.eetimes.com/integrating-efpga-for-hybrid-signal-processing-architectures/">Integrating eFPGA for Hybrid Signal Processing Architectures </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
