@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-02 14:17 UTC_
+_Last updated: 2026-03-02 17:06 UTC_
 
 ## [DNP Joins Rapidus Funding Round to Accelerate 2nm Semiconductor Mass Production by 2027](https://www.eetasia.com/dnp-joins-rapidus-funding-round-to-accelerate-2nm-semiconductor-mass-production-by-2027/)
 **Published:** Mon, 02 Mar 2026 04:09:07 +0000
@@ -31,6 +31,30 @@ _Last updated: 2026-03-02 14:17 UTC_
 
 <p>Strides in safer systems, smaller devices and AI adoption will shape tomorrow’s technology.</p>
 <p>The post <a href="https://www.eetasia.com/3-semiconductor-enabled-innovations-impacting-how-we-experience-the-world/">3 Semiconductor-enabled Innovations Impacting How We Experience the World</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Challenge Meets Opportunity: Navigating the Modern Semiconductor Supply Chain](https://www.semiconductor-digest.com/challenge-meets-opportunity-navigating-the-modern-semiconductor-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=challenge-meets-opportunity-navigating-the-modern-semiconductor-supply-chain)
+**Published:** Mon, 02 Mar 2026 15:24:43 +0000
+
+<p>Three materials that play in different parts of the supply chain are showcased: tantalum, precious metals, and scandium.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/challenge-meets-opportunity-navigating-the-modern-semiconductor-supply-chain/">Challenge Meets Opportunity: Navigating the Modern Semiconductor Supply Chain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Optimizing Chip Efficiency Starts at the Engineered Substrate](https://www.semiconductor-digest.com/optimizing-chip-efficiency-starts-at-the-engineered-substrate/?utm_source=rss&utm_medium=rss&utm_campaign=optimizing-chip-efficiency-starts-at-the-engineered-substrate)
+**Published:** Mon, 02 Mar 2026 14:49:27 +0000
+
+<p>Engineered substrates and 3D advanced chip stacking are critical enablers of heterogeneous integration.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/optimizing-chip-efficiency-starts-at-the-engineered-substrate/">Optimizing Chip Efficiency Starts at the Engineered Substrate</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Engineering Considerations for Flexible Heaters in Semiconductor Fabrication](https://www.semiconductor-digest.com/engineering-considerations-for-flexible-heaters-in-semiconductor-fabrication/?utm_source=rss&utm_medium=rss&utm_campaign=engineering-considerations-for-flexible-heaters-in-semiconductor-fabrication)
+**Published:** Mon, 02 Mar 2026 14:41:49 +0000
+
+<p>The choice of heater material, bonding method, circuit architecture and sensor choice can influence overall effectiveness, longevity and thermal precision.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/engineering-considerations-for-flexible-heaters-in-semiconductor-fabrication/">Engineering Considerations for Flexible Heaters in Semiconductor Fabrication</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -811,27 +835,11 @@ _Last updated: 2026-03-02 14:17 UTC_
 
 ---
 
-## [SK keyfoundry Launches 4th-Generation 200V High-Voltage 0.18 micron BCD Process](https://www.semiconductor-digest.com/sk-keyfoundry-launches-4th-generation-200v-high-voltage-0-18-micron-bcd-process/?utm_source=rss&utm_medium=rss&utm_campaign=sk-keyfoundry-launches-4th-generation-200v-high-voltage-0-18-micron-bcd-process)
-**Published:** Wed, 28 Jan 2026 17:21:34 +0000
+## [MIKROE Unveils Development Board for Automotive Motor Control](https://www.powerelectronicsnews.com/mikroe-unveils-development-board-for-automotive-motor-control/)
+**Published:** Mon, 02 Mar 2026 15:00:00 +0000
 
-<p>SK keyfoundry announced that it has recently launched its fourth-generation 200V high-voltage 0.18-micron BCD process and will begin full-scale product development with major domestic and global customers, targeting mass production within the year.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sk-keyfoundry-launches-4th-generation-200v-high-voltage-0-18-micron-bcd-process/">SK keyfoundry Launches 4th-Generation 200V High-Voltage 0.18 micron BCD Process</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New 3D Micro and Nanofabrication Technique Overcomes Material Limitations](https://www.semiconductor-digest.com/new-3d-micro-and-nanofabrication-technique-overcomes-material-limitations/?utm_source=rss&utm_medium=rss&utm_campaign=new-3d-micro-and-nanofabrication-technique-overcomes-material-limitations)
-**Published:** Wed, 28 Jan 2026 16:48:15 +0000
-
-<p>Method relies on light-driven or optofluidic assembly.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-3d-micro-and-nanofabrication-technique-overcomes-material-limitations/">New 3D Micro and Nanofabrication Technique Overcomes Material Limitations</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Outlines 2026 U.S. Policy Priorities to Support Semiconductor Growth, Innovation, and Supply Chain Stability](https://www.semiconductor-digest.com/semi-outlines-2026-u-s-policy-priorities-to-support-semiconductor-growth-innovation-and-supply-chain-stability/?utm_source=rss&utm_medium=rss&utm_campaign=semi-outlines-2026-u-s-policy-priorities-to-support-semiconductor-growth-innovation-and-supply-chain-stability)
-**Published:** Wed, 28 Jan 2026 16:37:51 +0000
-
-<p>Policy priorities focus on trade, workforce, investment certainty, CHIPS Act implementation, and supply chain resilience.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-outlines-2026-u-s-policy-priorities-to-support-semiconductor-growth-innovation-and-supply-chain-stability/">SEMI Outlines 2026 U.S. Policy Priorities to Support Semiconductor Growth, Innovation, and Supply Chain Stability</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="MIKROE Unveils Development Board for Automotive Motor Control." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/smartmcd-banner-pr.jpg?fit=1920%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>The development board integrates MCU and relay drivers for rapid prototyping of automotive body electronics and actuators.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/mikroe-unveils-development-board-for-automotive-motor-control/">MIKROE Unveils Development Board for Automotive Motor Control</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -907,14 +915,6 @@ _Last updated: 2026-03-02 14:17 UTC_
 
 ---
 
-## [ST Introduces MasterGaN6 GaN Power ICs](https://www.powerelectronicsnews.com/st-introduces-mastergan6-gan-power-ics/)
-**Published:** Wed, 25 Feb 2026 15:00:00 +0000
-
-<img alt="ST Introduces MasterGaN6 GaN Power ICs." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/N4756D-Feb-24-2026-MASTERGAN6_IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>MasterGaN6 power ICs integrate driver, protections, and fast switching to support compact and efficient power converters.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-mastergan6-gan-power-ics/">ST Introduces MasterGaN6 GaN Power ICs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Strengthening Semiconductor Obsolescence Management Through Traceability](https://www.eetimes.com/strengthening-semiconductor-obsolescence-management-through-traceability/)
 **Published:** Sun, 01 Mar 2026 14:00:00 +0000
 
@@ -950,7 +950,7 @@ _Last updated: 2026-03-02 14:17 UTC_
 ## [High margins and low volumes](https://www.electronicsweekly.com/news/business/high-margins-and-low-volumes-2026-03/)
 **Published:** Mon, 02 Mar 2026 06:20:46 +0000
 
-<p>Semiconductor sales will grow 26% this year to $975 billion, says a report from Deloitte’s.  AI chips will be responsible for half the revenues while making up 0.2% of the ...</p>
+<p>Semiconductor sales will grow 26% this year to $975bn, says a report from Deloitte’s.  AI chips will be responsible for half the revenues while making up 0.2% of the units, ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/high-margins-and-low-volumes-2026-03/">High margins and low volumes</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
