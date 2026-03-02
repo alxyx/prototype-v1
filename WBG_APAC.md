@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-02 11:45 UTC_
+_Last updated: 2026-03-02 14:17 UTC_
 
 ## [DNP Joins Rapidus Funding Round to Accelerate 2nm Semiconductor Mass Production by 2027](https://www.eetasia.com/dnp-joins-rapidus-funding-round-to-accelerate-2nm-semiconductor-mass-production-by-2027/)
 **Published:** Mon, 02 Mar 2026 04:09:07 +0000
@@ -835,6 +835,22 @@ _Last updated: 2026-03-02 11:45 UTC_
 
 ---
 
+## [240-W Battery-Charging System for Portable Devices and Power Appliances Using USB-C PD](https://www.powerelectronicsnews.com/240-w-battery-charging-system-for-portable-devices-and-power-appliances-using-usb-c-pd/)
+**Published:** Mon, 02 Mar 2026 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="800" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_605065614.jpeg?fit=1200%2C800" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>Universal and simplified, two- to 12-cell battery-charging system design using Infineon’s EZ-PD™ PMG1-B2</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/240-w-battery-charging-system-for-portable-devices-and-power-appliances-using-usb-c-pd/">240-W Battery-Charging System for Portable Devices and Power Appliances Using USB-C PD</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [PEN eBook March 2026 – Electrification in Practice: Converting, Storing, and Delivering Clean Energy](https://www.powerelectronicsnews.com/pen-ebook-march-2026-electrification-in-practice-converting-storing-and-delivering-clean-energy/)
+**Published:** Mon, 02 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1119" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Cover-image.png?fit=793%2C1119" style="display: block; margin-bottom: 5px; clear: both;" width="793" /><p>This issue examines how power electronics addresses thermal, efficiency, size, and cost challenges across the electrification landscape. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/pen-ebook-march-2026-electrification-in-practice-converting-storing-and-delivering-clean-energy/">PEN eBook March 2026 – Electrification in Practice: Converting, Storing, and Delivering Clean Energy </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [DTC Liquid Cooling, PoL Converter Reliability Estimation, GaN and SiC in Factory Automation: Power Electronics Week Insights](https://www.powerelectronicsnews.com/dtc-liquid-cooling-pol-converter-reliability-estimation-gan-and-sic-in-factory-automation-power-electronics-week-insights/)
 **Published:** Fri, 27 Feb 2026 15:27:35 +0000
 
@@ -899,22 +915,6 @@ _Last updated: 2026-03-02 11:45 UTC_
 
 ---
 
-## [Direct-to-Chip Liquid Cooling Technology for HPC](https://www.powerelectronicsnews.com/direct-to-chip-liquid-cooling-technology-for-hpc/)
-**Published:** Wed, 25 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3072" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_1316783897.jpeg?fit=3072%2C3072" style="display: block; margin-bottom: 5px; clear: both;" width="3072" /><p>An introduction to different direct-to-chip cooling architectures used in AI data centers and high performance computing applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/direct-to-chip-liquid-cooling-technology-for-hpc/">Direct-to-Chip Liquid Cooling Technology for HPC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TDK Introduces New DC Link Capacitors](https://www.powerelectronicsnews.com/tdk-introduces-new-dc-link-capacitors/)
-**Published:** Tue, 24 Feb 2026 15:00:00 +0000
-
-<img alt="TDK Introduces New DC Link Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="334" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/TDK_capacitors.png?fit=445%2C334" style="display: block; margin-bottom: 5px; clear: both;" width="445" /><p>The new aluminum electrolytic capacitors enhance DC link reliability and efficiency in EV on-board chargers.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tdk-introduces-new-dc-link-capacitors/">TDK Introduces New DC Link Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Strengthening Semiconductor Obsolescence Management Through Traceability](https://www.eetimes.com/strengthening-semiconductor-obsolescence-management-through-traceability/)
 **Published:** Sun, 01 Mar 2026 14:00:00 +0000
 
@@ -936,6 +936,14 @@ _Last updated: 2026-03-02 11:45 UTC_
 
 <p>A Quick Look Back: How AI Got Started&#160; Artificial intelligence (AI)&#160;began in the 1950s with rule-based systems. Over time, machine&#160;learning&#160;and deep learning enabled AI to learn from data. By the 2010s, AI powered voice assistants, recommendation engines, and self-driving cars.&#160; As AI matured, centralized cloud computing revealed&#160;limitations—especially in real-time, privacy-sensitive, and power-constrained applications. This led&#160;to&#160;progression&#160;(figure [&#8230;]</p>
 <p>The post <a href="https://www.eetimes.com/from-ais-origins-to-smart-devices-selecting-the-right-devices-for-smart-deployment/">From AI’s Origins to Smart Devices: Selecting the Right Devices for Smart Deployment</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Rohm licenses TSMC GaN process technology](https://www.electronicsweekly.com/news/business/rohm-licenses-tsmc-gan-process-technology-2026-03/)
+**Published:** Mon, 02 Mar 2026 11:32:36 +0000
+
+<p>Rohm is licensing TSMC’s GaN process technology and installing it at its Hamamatsu fab. Rohm has been running a GaN process at Hamamatsu for four years, initially with a 150V ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/rohm-licenses-tsmc-gan-process-technology-2026-03/">Rohm licenses TSMC GaN process technology</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
