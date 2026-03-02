@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-02 06:06 UTC_
+_Last updated: 2026-03-02 07:17 UTC_
 
 ## [DNP Joins Rapidus Funding Round to Accelerate 2nm Semiconductor Mass Production by 2027](https://www.eetasia.com/dnp-joins-rapidus-funding-round-to-accelerate-2nm-semiconductor-mass-production-by-2027/)
 **Published:** Mon, 02 Mar 2026 04:09:07 +0000
@@ -939,11 +939,19 @@ _Last updated: 2026-03-02 06:06 UTC_
 
 ---
 
-## [Semiconductor Intelligence forecasts 30% semi growth this year](https://www.electronicsweekly.com/news/business/semiconductor-intelligence-forecasts-30-semi-growth-this-year-2026-02/)
-**Published:** Fri, 27 Feb 2026 06:19:17 +0000
+## [High margins and low volumes](https://www.electronicsweekly.com/news/business/high-margins-and-low-volumes-2026-03/)
+**Published:** Mon, 02 Mar 2026 06:20:46 +0000
 
-<p>The global semiconductor market in 2025 was $792 billion, according to WSTS. 2025 was up 25.6% from 2024, the strongest growth since 26.2% in the COVID recovery year 2021, reports ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/semiconductor-intelligence-forecasts-30-semi-growth-this-year-2026-02/">Semiconductor Intelligence forecasts 30% semi growth this year</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Semiconductor sales will grow 26% this year to $975 billion, says a report from Deloitte’s.  AI chips will be responsible for half the revenues while making up 0.2% of the ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/high-margins-and-low-volumes-2026-03/">High margins and low volumes</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Nordic reference design integrates Aliro and Matter](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nordic-reference-design-integrates-aliro-and-matter-2026-03/)
+**Published:** Mon, 02 Mar 2026 06:01:26 +0000
+
+<p>Nordic Semiconductor has brought out a new reference design enabling secure, interoperable access control solutions for commercial and residential applications using Aliro and Matter. The release coincides with the Aliro ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nordic-reference-design-integrates-aliro-and-matter-2026-03/">Nordic reference design integrates Aliro and Matter</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
