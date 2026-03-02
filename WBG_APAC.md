@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-01 18:47 UTC_
+_Last updated: 2026-03-02 06:06 UTC_
+
+## [DNP Joins Rapidus Funding Round to Accelerate 2nm Semiconductor Mass Production by 2027](https://www.eetasia.com/dnp-joins-rapidus-funding-round-to-accelerate-2nm-semiconductor-mass-production-by-2027/)
+**Published:** Mon, 02 Mar 2026 04:09:07 +0000
+
+<p>As Rapidus targets mass production in 2027, DNP aims to establish high-yield, short-lead-time production of 2nm EUV photomasks at an early stage.</p>
+<p>The post <a href="https://www.eetasia.com/dnp-joins-rapidus-funding-round-to-accelerate-2nm-semiconductor-mass-production-by-2027/">DNP Joins Rapidus Funding Round to Accelerate 2nm Semiconductor Mass Production by 2027</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Ceva Highlights Breakthrough Year for AI Licensing, Physical AI Adoption in 2025](https://www.eetasia.com/ceva-highlights-breakthrough-year-for-ai-licensing-physical-ai-adoption-in-2025/)
+**Published:** Mon, 02 Mar 2026 03:30:14 +0000
+
+<p>The year 2025 marked a breakthrough year for Ceva's AI licensing business.</p>
+<p>The post <a href="https://www.eetasia.com/ceva-highlights-breakthrough-year-for-ai-licensing-physical-ai-adoption-in-2025/">Ceva Highlights Breakthrough Year for AI Licensing, Physical AI Adoption in 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Industry Veteran Ben Lee Appointed Strategic Advisor at Efinix](https://www.eetasia.com/industry-veteran-ben-lee-appointed-strategic-advisor-at-efinix/)
 **Published:** Thu, 26 Feb 2026 01:58:36 +0000
@@ -15,22 +31,6 @@ _Last updated: 2026-03-01 18:47 UTC_
 
 <p>Strides in safer systems, smaller devices and AI adoption will shape tomorrow’s technology.</p>
 <p>The post <a href="https://www.eetasia.com/3-semiconductor-enabled-innovations-impacting-how-we-experience-the-world/">3 Semiconductor-enabled Innovations Impacting How We Experience the World</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Taiwan’s ITRI Breaks Ground on Advanced Semiconductor R&D Center in Hsinchu](https://www.eetasia.com/taiwans-itri-breaks-ground-on-advanced-semiconductor-rd-center-in-hsinchu/)
-**Published:** Wed, 25 Feb 2026 02:09:19 +0000
-
-<p>ITRI's soon-to-rise Advanced Semiconductor R&#38;D Center marks a new step in Taiwan's semiconductor development strategy.</p>
-<p>The post <a href="https://www.eetasia.com/taiwans-itri-breaks-ground-on-advanced-semiconductor-rd-center-in-hsinchu/">Taiwan&#8217;s ITRI Breaks Ground on Advanced Semiconductor R&amp;D Center in Hsinchu</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Humanoids & Robotics in 2026: Early Reality of the “Physical AI” Era](https://www.eetasia.com/humanoids-robotics-in-2026-early-reality-of-the-physical-ai-era/)
-**Published:** Wed, 25 Feb 2026 01:47:19 +0000
-
-<p>Robots are evolving to systems that can interpret goals in natural language, plan multi‑step tasks, and adapt to changing environments.</p>
-<p>The post <a href="https://www.eetasia.com/humanoids-robotics-in-2026-early-reality-of-the-physical-ai-era/">Humanoids &amp; Robotics in 2026: Early Reality of the &#8220;Physical AI&#8221; Era</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
