@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-02 10:58 UTC_
+_Last updated: 2026-03-02 11:45 UTC_
 
 ## [DNP Joins Rapidus Funding Round to Accelerate 2nm Semiconductor Mass Production by 2027](https://www.eetasia.com/dnp-joins-rapidus-funding-round-to-accelerate-2nm-semiconductor-mass-production-by-2027/)
 **Published:** Mon, 02 Mar 2026 04:09:07 +0000
@@ -959,13 +959,6 @@ _Last updated: 2026-03-02 10:58 UTC_
 **Published:** Mon, 02 Mar 2026 09:46:54 +0000
 
 <img alt="Four-Legged Robots That Can Move Across Any Terrain" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/SCORP-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />India’s first commercial four-legged robot is redefining industrial operations, executing hazardous tasks and powering advanced research with robots purpose-built for real-world environments. In 2019, Aditya Pratap Singh Rajawat began exploring legged robots at IIT Kanpur, working alongside Prof. Shakti S. Gupta under the guidance of Prof. Mangal Kothari and collaborating with defence research labs. The [&#8230;]
-
----
-
-## [Chip Qualified For Low And Medium Orbit Missions](https://www.electronicsforu.com/news/chip-qualified-for-low-and-medium-orbit-missions)
-**Published:** Mon, 02 Mar 2026 07:38:51 +0000
-
-<img alt="Chip Qualified For Low And Medium Orbit Missions" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/satellite-e1660585537615-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A chip has been cleared for European space use. It can handle computing, data transfer, and basic tasks on satellites in low and medium orbit. NanoXplore and STMicroelectronics have qualified the NG-ULTRA SoC FPGA for space use under the ESCC 9030 standard, making it the first device certified under this European specification for plastic-packaged microcircuits. [&#8230;]
 
 ---
 
