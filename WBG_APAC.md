@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-03 13:11 UTC_
+_Last updated: 2026-03-03 17:12 UTC_
 
 ## [DNP Joins Rapidus Funding Round to Accelerate 2nm Semiconductor Mass Production by 2027](https://www.eetasia.com/dnp-joins-rapidus-funding-round-to-accelerate-2nm-semiconductor-mass-production-by-2027/)
 **Published:** Mon, 02 Mar 2026 04:09:07 +0000
@@ -15,6 +15,30 @@ _Last updated: 2026-03-03 13:11 UTC_
 
 <p>The year 2025 marked a breakthrough year for Ceva's AI licensing business.</p>
 <p>The post <a href="https://www.eetasia.com/ceva-highlights-breakthrough-year-for-ai-licensing-physical-ai-adoption-in-2025/">Ceva Highlights Breakthrough Year for AI Licensing, Physical AI Adoption in 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [AI is Rewriting the Semiconductor M&A Playbook – Memory is Where it Hits Hardest](https://www.semiconductor-digest.com/ai-is-rewriting-the-semiconductor-ma-playbook-memory-is-where-it-hits-hardest/?utm_source=rss&utm_medium=rss&utm_campaign=ai-is-rewriting-the-semiconductor-ma-playbook-memory-is-where-it-hits-hardest)
+**Published:** Tue, 03 Mar 2026 15:17:07 +0000
+
+<p>AI-driven supply constraints are shifting semiconductor deal logic from IP-centric to capacity-centric valuations across the memory, advanced packaging, and power semiconductor stack</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ai-is-rewriting-the-semiconductor-ma-playbook-memory-is-where-it-hits-hardest/">AI is Rewriting the Semiconductor M&amp;A Playbook &#8211; Memory is Where it Hits Hardest</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Menlo Micro and Purdue Advance Commercial Cryogenic Switching for Scalable Quantum Computing](https://www.semiconductor-digest.com/menlo-micro-and-purdue-advance-commercial-cryogenic-switching-for-scalable-quantum-computing/?utm_source=rss&utm_medium=rss&utm_campaign=menlo-micro-and-purdue-advance-commercial-cryogenic-switching-for-scalable-quantum-computing)
+**Published:** Tue, 03 Mar 2026 14:46:06 +0000
+
+<p>Menlo Microsystems and Purdue University demonstrated a commercial-ready architecture for quantum control and readout electronics at cryogenic temperatures</p>
+<p>The post <a href="https://www.semiconductor-digest.com/menlo-micro-and-purdue-advance-commercial-cryogenic-switching-for-scalable-quantum-computing/">Menlo Micro and Purdue Advance Commercial Cryogenic Switching for Scalable Quantum Computing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TANAKA Establishes Transfer Technology for its Sintered Gold Bonding Technology](https://www.semiconductor-digest.com/tanaka-establishes-transfer-technology-for-its-sintered-gold-bonding-technology/?utm_source=rss&utm_medium=rss&utm_campaign=tanaka-establishes-transfer-technology-for-its-sintered-gold-bonding-technology)
+**Published:** Tue, 03 Mar 2026 13:29:13 +0000
+
+<p>The seamless application on substrates with complex shapes will improve semiconductor performance through enhanced miniaturization of semiconductor wiring and greater integration for various types of chips</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tanaka-establishes-transfer-technology-for-its-sintered-gold-bonding-technology/">TANAKA Establishes Transfer Technology for its Sintered Gold Bonding Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -795,27 +819,19 @@ _Last updated: 2026-03-03 13:11 UTC_
 
 ---
 
-## [EMASS Tapes Out 16nm ECS-DoT, Advancing Always-On Edge AI](https://www.semiconductor-digest.com/emass-tapes-out-16nm-ecs-dot-advancing-always-on-edge-ai/?utm_source=rss&utm_medium=rss&utm_campaign=emass-tapes-out-16nm-ecs-dot-advancing-always-on-edge-ai)
-**Published:** Wed, 28 Jan 2026 22:31:55 +0000
+## [Open-End Winding Configuration for SiC-based Motor Drives](https://www.powerelectronicsnews.com/open-end-winding-configuration-for-sic-based-motor-drives/)
+**Published:** Tue, 03 Mar 2026 15:00:00 +0000
 
-<p>EMASS, a Nanoveu subsidiary specializing in next-generation semiconductor technology, today announced the successful tape-out of its 16nm ECS-DoT system-on-chip (SoC).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/emass-tapes-out-16nm-ecs-dot-advancing-always-on-edge-ai/">EMASS Tapes Out 16nm ECS-DoT, Advancing Always-On Edge AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SK hynix to Establish U.S. Arm Specialized in AI Solutions](https://www.semiconductor-digest.com/sk-hynix-to-establish-u-s-arm-specialized-in-ai-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=sk-hynix-to-establish-u-s-arm-specialized-in-ai-solutions)
-**Published:** Wed, 28 Jan 2026 17:46:39 +0000
-
-<p>SK hynix Inc. announced today that it will establish an AI solutions firm, tentatively named AI Company, in the US to find new AI growth engines.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sk-hynix-to-establish-u-s-arm-specialized-in-ai-solutions/">SK hynix to Establish U.S. Arm Specialized in AI Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_714494410.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>Addressing the overvoltage and fast rise time concerns of using SiC in AC motor drives through the open-end winding configuration.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/open-end-winding-configuration-for-sic-based-motor-drives/">Open-End Winding Configuration for SiC-based Motor Drives</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Valens Semiconductor Announces Operational Efficiency Plan](https://www.semiconductor-digest.com/valens-semiconductor-announces-operational-efficiency-plan/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-announces-operational-efficiency-plan)
-**Published:** Wed, 28 Jan 2026 17:25:42 +0000
+## [Bourns Expands MF-LSMF PPTC Fuse Series](https://www.powerelectronicsnews.com/bourns-expands-mf-lsmf-pptc-fuse-series/)
+**Published:** Tue, 03 Mar 2026 14:00:00 +0000
 
-<p>Plan includes 10% workforce reduction across various departments.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-announces-operational-efficiency-plan/">Valens Semiconductor Announces Operational Efficiency Plan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Bourns Expands MF-LSMF PPTC Fuse Series." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/bourns_mflsmf_extension_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new PPTC resettable fuse series extends the hold current (Ihold) to 7 A and the voltage rating to 72 V.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/bourns-expands-mf-lsmf-pptc-fuse-series/">Bourns Expands MF-LSMF PPTC Fuse Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -880,22 +896,6 @@ _Last updated: 2026-03-03 13:11 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_1756990609.jpeg?fit=5760%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5760" /><p>The Rashba effect in GaN can represent a path to overcoming the Von Neumann bottleneck; the material can be used in magnonic neural networks.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/from-spin-orbit-to-magnonics-the-rashba-effect-in-gan-heterostructures-for-next-gen-neural-networks/">From Spin-Orbit to Magnonics: The Rashba Effect in GaN Heterostructures for Next-Gen Neural Networks</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TDK Corporation Expands HWS3000 Series](https://www.powerelectronicsnews.com/tdk-corporation-expands-hws3000-series/)
-**Published:** Fri, 27 Feb 2026 13:00:00 +0000
-
-<img alt="TDK Corporation Expands HWS3000 Series." class="webfeedsFeaturedVisual wp-post-image" height="1600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Press-picture_20260224_TDK-Press-Release_HWS3000GT4_LA243_E_FINAL.jpg?fit=2400%2C1600" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new HWS3000GT4 adds 340–528 VAC three-phase input, 3 kW output, and full programmability for flexible industrial power applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tdk-corporation-expands-hws3000-series/">TDK Corporation Expands HWS3000 Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Corner: Allegro’s Vijay Mangtani Explains Power-Thru Isolated Gate Driver Technology](https://www.powerelectronicsnews.com/power-corner-allegros-vijay-mangtani-explains-power-thru-isolated-gate-driver-technology/)
-**Published:** Thu, 26 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1387" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Featured-image-of-Allegro_Vijay-Mangtani.png?fit=2351%2C1387" style="display: block; margin-bottom: 5px; clear: both;" width="2351" /><p>An in-depth look at Allegro Microsystems' Power-Thru isolated gate driver technology and its impact on next-generation power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-allegros-vijay-mangtani-explains-power-thru-isolated-gate-driver-technology/">Power Corner: Allegro&#8217;s Vijay Mangtani Explains Power-Thru Isolated Gate Driver Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
