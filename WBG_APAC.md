@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-03 06:04 UTC_
+_Last updated: 2026-03-03 13:11 UTC_
 
 ## [DNP Joins Rapidus Funding Round to Accelerate 2nm Semiconductor Mass Production by 2027](https://www.eetasia.com/dnp-joins-rapidus-funding-round-to-accelerate-2nm-semiconductor-mass-production-by-2027/)
 **Published:** Mon, 02 Mar 2026 04:09:07 +0000
@@ -819,6 +819,14 @@ _Last updated: 2026-03-03 06:04 UTC_
 
 ---
 
+## [Power Electronics Course with QSPICE (Episode 05): Efficiency in Dynamic Steady State](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-05-efficiency-in-dynamic-steady-state/)
+**Published:** Tue, 03 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>In this installment of the power electronics course, we delve into the heart of the real challenge of power system design: dynamic efficiency.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-05-efficiency-in-dynamic-steady-state/">Power Electronics Course with QSPICE (Episode 05): Efficiency in Dynamic Steady State</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [MIKROE Unveils Development Board for Automotive Motor Control](https://www.powerelectronicsnews.com/mikroe-unveils-development-board-for-automotive-motor-control/)
 **Published:** Mon, 02 Mar 2026 15:00:00 +0000
 
@@ -891,14 +899,6 @@ _Last updated: 2026-03-03 06:04 UTC_
 
 ---
 
-## [Bourns Launches Four New Multilayer Chip Inductor Series](https://www.powerelectronicsnews.com/bourns-launches-four-new-multilayer-chip-inductor-series/)
-**Published:** Thu, 26 Feb 2026 13:00:00 +0000
-
-<img alt="Bourns Launches Four New Multilayer Chip Inductor Series." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/bourns_ce_series_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new multilayer chip inductors offer compact sizes, high SRF, and stable performance for  RF and mobile applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/bourns-launches-four-new-multilayer-chip-inductor-series/">Bourns Launches Four New Multilayer Chip Inductor Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Strengthening Semiconductor Obsolescence Management Through Traceability](https://www.eetimes.com/strengthening-semiconductor-obsolescence-management-through-traceability/)
 **Published:** Sun, 01 Mar 2026 14:00:00 +0000
 
@@ -923,6 +923,14 @@ _Last updated: 2026-03-03 06:04 UTC_
 
 ---
 
+## [Advantages of GaN-on-Si HEMT for 5G mm-wave range](https://www.electronicsweekly.com/news/business/advantages-of-gan-on-si-hemt-for-5g-mm-wave-2026-03/)
+**Published:** Tue, 03 Mar 2026 06:11:26 +0000
+
+<p>Researchers at Soitec and Nanyang Technological University have reported 60%+ power-added efficiency (PAE), for moderately scaled GaN-on-Si  HEMTs at 30GHz operation. The devices also perform with state-of-the-art noise figures down ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/advantages-of-gan-on-si-hemt-for-5g-mm-wave-2026-03/">Advantages of GaN-on-Si HEMT for 5G mm-wave range</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Rohm licenses TSMC GaN process technology](https://www.electronicsweekly.com/news/business/rohm-licenses-tsmc-gan-process-technology-2026-03/)
 **Published:** Mon, 02 Mar 2026 11:32:36 +0000
 
@@ -931,26 +939,10 @@ _Last updated: 2026-03-03 06:04 UTC_
 
 ---
 
-## [High margins and low volumes](https://www.electronicsweekly.com/news/business/high-margins-and-low-volumes-2026-03/)
-**Published:** Mon, 02 Mar 2026 06:20:46 +0000
+## [Accelerating RISC-V Verification With Quality And Security At The Core](https://www.electronicsforu.com/electronics-startups/accelerating-risc-v-verification-with-quality-and-security-at-the-core)
+**Published:** Tue, 03 Mar 2026 12:38:19 +0000
 
-<p>Semiconductor sales will grow 26% this year to $975bn, says a report from Deloitte’s.  AI chips will be responsible for half the revenues while making up 0.2% of the units, ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/high-margins-and-low-volumes-2026-03/">High margins and low volumes</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Nordic reference design integrates Aliro and Matter](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nordic-reference-design-integrates-aliro-and-matter-2026-03/)
-**Published:** Mon, 02 Mar 2026 06:01:26 +0000
-
-<p>Nordic Semiconductor has brought out a new reference design enabling secure, interoperable access control solutions for commercial and residential applications using Aliro and Matter. The release coincides with the Aliro ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nordic-reference-design-integrates-aliro-and-matter-2026-03/">Nordic reference design integrates Aliro and Matter</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [All-In-One AI Network Testing](https://www.electronicsforu.com/news/all-in-one-ai-network-testing)
-**Published:** Tue, 03 Mar 2026 05:53:28 +0000
-
-<img alt="All-In-One AI Network Testing" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Ethernet-Traffic-Emulators-Cellular-Base-Station-Design-Emulators-Cellular-ORAN-Emulators-ORAN-Emulators-1600x900-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />One setup brings data, AI training, and testing together, helping teams check AI-based network functions before real-world use. Keysight Technologies, Samsung Electronics, and NVIDIA have put together a working AI-RAN validation flow that brings data generation, AI/ML training, and benchmarking into one setup. The focus is on testing AI-driven RAN modules using the Physical Uplink [&#8230;]
+<img alt="Accelerating RISC-V Verification With Quality And Security At The Core" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/images-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As the RISC-V ecosystem grows, startups struggle to verify complex chips before tape-out. Chennai-based startup addresses this with a unified, Python-friendly, AI-assisted pre-silicon platform that streamlines verification, early software bring-up, and security analysis in one workflow. Founded in 2021 and headquartered in Chennai, Vyoma Systems is a deep-tech semiconductor startup redefining how RISC-V chips are [&#8230;]
 
 ---
 
