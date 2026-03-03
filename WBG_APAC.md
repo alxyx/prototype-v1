@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-02 22:41 UTC_
+_Last updated: 2026-03-03 06:04 UTC_
 
 ## [DNP Joins Rapidus Funding Round to Accelerate 2nm Semiconductor Mass Production by 2027](https://www.eetasia.com/dnp-joins-rapidus-funding-round-to-accelerate-2nm-semiconductor-mass-production-by-2027/)
 **Published:** Mon, 02 Mar 2026 04:09:07 +0000
@@ -15,22 +15,6 @@ _Last updated: 2026-03-02 22:41 UTC_
 
 <p>The year 2025 marked a breakthrough year for Ceva's AI licensing business.</p>
 <p>The post <a href="https://www.eetasia.com/ceva-highlights-breakthrough-year-for-ai-licensing-physical-ai-adoption-in-2025/">Ceva Highlights Breakthrough Year for AI Licensing, Physical AI Adoption in 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Industry Veteran Ben Lee Appointed Strategic Advisor at Efinix](https://www.eetasia.com/industry-veteran-ben-lee-appointed-strategic-advisor-at-efinix/)
-**Published:** Thu, 26 Feb 2026 01:58:36 +0000
-
-<p>Semiconductor industry veteran Ben Lee has joined Efinix as a strategic advisor.</p>
-<p>The post <a href="https://www.eetasia.com/industry-veteran-ben-lee-appointed-strategic-advisor-at-efinix/">Industry Veteran Ben Lee Appointed Strategic Advisor at Efinix</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [3 Semiconductor-enabled Innovations Impacting How We Experience the World](https://www.eetasia.com/3-semiconductor-enabled-innovations-impacting-how-we-experience-the-world/)
-**Published:** Thu, 26 Feb 2026 01:29:59 +0000
-
-<p>Strides in safer systems, smaller devices and AI adoption will shape tomorrow’s technology.</p>
-<p>The post <a href="https://www.eetasia.com/3-semiconductor-enabled-innovations-impacting-how-we-experience-the-world/">3 Semiconductor-enabled Innovations Impacting How We Experience the World</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -963,10 +947,10 @@ _Last updated: 2026-03-02 22:41 UTC_
 
 ---
 
-## [Four-Legged Robots That Can Move Across Any Terrain](https://www.electronicsforu.com/electronics-startups/four-legged-robots-that-can-move-across-any-terrain)
-**Published:** Mon, 02 Mar 2026 09:46:54 +0000
+## [All-In-One AI Network Testing](https://www.electronicsforu.com/news/all-in-one-ai-network-testing)
+**Published:** Tue, 03 Mar 2026 05:53:28 +0000
 
-<img alt="Four-Legged Robots That Can Move Across Any Terrain" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/SCORP-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />India’s first commercial four-legged robot is redefining industrial operations, executing hazardous tasks and powering advanced research with robots purpose-built for real-world environments. In 2019, Aditya Pratap Singh Rajawat began exploring legged robots at IIT Kanpur, working alongside Prof. Shakti S. Gupta under the guidance of Prof. Mangal Kothari and collaborating with defence research labs. The [&#8230;]
+<img alt="All-In-One AI Network Testing" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Ethernet-Traffic-Emulators-Cellular-Base-Station-Design-Emulators-Cellular-ORAN-Emulators-ORAN-Emulators-1600x900-1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />One setup brings data, AI training, and testing together, helping teams check AI-based network functions before real-world use. Keysight Technologies, Samsung Electronics, and NVIDIA have put together a working AI-RAN validation flow that brings data generation, AI/ML training, and benchmarking into one setup. The focus is on testing AI-driven RAN modules using the Physical Uplink [&#8230;]
 
 ---
 
