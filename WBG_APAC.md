@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-03 17:12 UTC_
+_Last updated: 2026-03-03 21:47 UTC_
 
 ## [DNP Joins Rapidus Funding Round to Accelerate 2nm Semiconductor Mass Production by 2027](https://www.eetasia.com/dnp-joins-rapidus-funding-round-to-accelerate-2nm-semiconductor-mass-production-by-2027/)
 **Published:** Mon, 02 Mar 2026 04:09:07 +0000
@@ -899,6 +899,14 @@ _Last updated: 2026-03-03 17:12 UTC_
 
 ---
 
+## [MIPS, GlobalFoundries Bet on Physical AI](https://www.eetimes.com/mips-globalfoundries-bet-on-physical-ai/)
+**Published:** Tue, 03 Mar 2026 18:00:00 +0000
+
+<p>MIPS and GlobalFoundries join forces to drive the next era of physical AI and RISC-V for autonomous tech.</p>
+<p>The post <a href="https://www.eetimes.com/mips-globalfoundries-bet-on-physical-ai/">MIPS, GlobalFoundries Bet on Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Strengthening Semiconductor Obsolescence Management Through Traceability](https://www.eetimes.com/strengthening-semiconductor-obsolescence-management-through-traceability/)
 **Published:** Sun, 01 Mar 2026 14:00:00 +0000
 
@@ -912,14 +920,6 @@ _Last updated: 2026-03-03 17:12 UTC_
 
 <p>The Made in Taiwan report examines Taiwan’s technology industry, focusing on its role in semiconductor manufacturing, power electronics, embedded systems design, and AI. The small island of Taiwan is a global leader in chip manufacturing, packaging, design, and test, and its position in the global economy is only getting larger as it bolsters its system integration capabilities.  As Taiwan sets the next stage [&#8230;]</p>
 <p>The post <a href="https://www.eetimes.com/taiwans-tech-industry/">Taiwan&#8217;s Tech Industry</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [From AI’s Origins to Smart Devices: Selecting the Right Devices for Smart Deployment](https://www.eetimes.com/from-ais-origins-to-smart-devices-selecting-the-right-devices-for-smart-deployment/)
-**Published:** Fri, 27 Feb 2026 15:31:34 +0000
-
-<p>A Quick Look Back: How AI Got Started&#160; Artificial intelligence (AI)&#160;began in the 1950s with rule-based systems. Over time, machine&#160;learning&#160;and deep learning enabled AI to learn from data. By the 2010s, AI powered voice assistants, recommendation engines, and self-driving cars.&#160; As AI matured, centralized cloud computing revealed&#160;limitations—especially in real-time, privacy-sensitive, and power-constrained applications. This led&#160;to&#160;progression&#160;(figure [&#8230;]</p>
-<p>The post <a href="https://www.eetimes.com/from-ais-origins-to-smart-devices-selecting-the-right-devices-for-smart-deployment/">From AI’s Origins to Smart Devices: Selecting the Right Devices for Smart Deployment</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
