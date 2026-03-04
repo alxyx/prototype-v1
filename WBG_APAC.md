@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-04 08:52 UTC_
+_Last updated: 2026-03-04 17:52 UTC_
 
 ## [CSconnected Announces £1M Investment in Final Call to Supply Chain Development Program](https://www.semiconductor-digest.com/csconnected-announces-1m-investment-in-final-call-to-supply-chain-development-program/?utm_source=rss&utm_medium=rss&utm_campaign=csconnected-announces-1m-investment-in-final-call-to-supply-chain-development-program)
 **Published:** Wed, 04 Mar 2026 01:00:07 +0000
@@ -803,6 +803,22 @@ _Last updated: 2026-03-04 08:52 UTC_
 
 ---
 
+## [NoMIS Power Introduces Two Medium-Voltage SiC MOSFETs](https://www.powerelectronicsnews.com/nomis-power-introduces-two-medium-voltage-sic-mosfets/)
+**Published:** Wed, 04 Mar 2026 15:00:00 +0000
+
+<img alt="NoMIS Power Introduces 3.3 kV and 1.7 kV Medium-Voltage SiC MOSFETs." class="webfeedsFeaturedVisual wp-post-image" height="1890" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Mailchimp.jpg?fit=2700%2C1890" style="display: block; margin-bottom: 5px; clear: both;" width="2700" /><p>The new planar SiC devices target MV converters with low losses, high dv/dt capability, and 175°C operation.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/nomis-power-introduces-two-medium-voltage-sic-mosfets/">NoMIS Power Introduces Two Medium-Voltage SiC MOSFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Simplifying Motor Control for Drones with ESC Reference Design](https://www.powerelectronicsnews.com/simplifying-motor-control-for-drones-with-esc-reference-design/)
+**Published:** Wed, 04 Mar 2026 13:00:00 +0000
+
+<img alt="The reference design for drone motor drives showing the power board (left) and fully assembled board (right)." class="webfeedsFeaturedVisual wp-post-image" height="1440" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Figure-5.jpg?fit=2560%2C1440" style="display: block; margin-bottom: 5px; clear: both;" width="2560" /><p>Infineon’s REF_ESC_48V_80A_FOC is an out-of-the-box, 24 V to 60 V drone motor ESC reference design with full software support.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/simplifying-motor-control-for-drones-with-esc-reference-design/">Simplifying Motor Control for Drones with ESC Reference Design</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Open-End Winding Configuration for SiC-based Motor Drives](https://www.powerelectronicsnews.com/open-end-winding-configuration-for-sic-based-motor-drives/)
 **Published:** Tue, 03 Mar 2026 15:00:00 +0000
 
@@ -864,22 +880,6 @@ _Last updated: 2026-03-04 08:52 UTC_
 
 <img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-february-2026/">Wide Bandgap Monthly Insights &#8211; February 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [The Realities of the AI and Quantum Computing Intersection](https://www.powerelectronicsnews.com/the-realities-of-the-ai-and-quantum-computing-intersection/)
-**Published:** Fri, 27 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1125" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/image_6856a7.png?fit=1125%2C1125" style="display: block; margin-bottom: 5px; clear: both;" width="1125" /><p>Tracing the history of scientific and technological progress shows that breakthroughs are rarely isolated events. Instead, they emerge within narratives—anchored in markets and institutions—that frame...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-realities-of-the-ai-and-quantum-computing-intersection/">The Realities of the AI and Quantum Computing Intersection</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [From Spin-Orbit to Magnonics: The Rashba Effect in GaN Heterostructures for Next-Gen Neural Networks](https://www.powerelectronicsnews.com/from-spin-orbit-to-magnonics-the-rashba-effect-in-gan-heterostructures-for-next-gen-neural-networks/)
-**Published:** Fri, 27 Feb 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_1756990609.jpeg?fit=5760%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5760" /><p>The Rashba effect in GaN can represent a path to overcoming the Von Neumann bottleneck; the material can be used in magnonic neural networks.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/from-spin-orbit-to-magnonics-the-rashba-effect-in-gan-heterostructures-for-next-gen-neural-networks/">From Spin-Orbit to Magnonics: The Rashba Effect in GaN Heterostructures for Next-Gen Neural Networks</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
