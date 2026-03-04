@@ -1,22 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-04 02:16 UTC_
-
-## [DNP Joins Rapidus Funding Round to Accelerate 2nm Semiconductor Mass Production by 2027](https://www.eetasia.com/dnp-joins-rapidus-funding-round-to-accelerate-2nm-semiconductor-mass-production-by-2027/)
-**Published:** Mon, 02 Mar 2026 04:09:07 +0000
-
-<p>As Rapidus targets mass production in 2027, DNP aims to establish high-yield, short-lead-time production of 2nm EUV photomasks at an early stage.</p>
-<p>The post <a href="https://www.eetasia.com/dnp-joins-rapidus-funding-round-to-accelerate-2nm-semiconductor-mass-production-by-2027/">DNP Joins Rapidus Funding Round to Accelerate 2nm Semiconductor Mass Production by 2027</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Ceva Highlights Breakthrough Year for AI Licensing, Physical AI Adoption in 2025](https://www.eetasia.com/ceva-highlights-breakthrough-year-for-ai-licensing-physical-ai-adoption-in-2025/)
-**Published:** Mon, 02 Mar 2026 03:30:14 +0000
-
-<p>The year 2025 marked a breakthrough year for Ceva's AI licensing business.</p>
-<p>The post <a href="https://www.eetasia.com/ceva-highlights-breakthrough-year-for-ai-licensing-physical-ai-adoption-in-2025/">Ceva Highlights Breakthrough Year for AI Licensing, Physical AI Adoption in 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
+_Last updated: 2026-03-04 08:52 UTC_
 
 ## [CSconnected Announces £1M Investment in Final Call to Supply Chain Development Program](https://www.semiconductor-digest.com/csconnected-announces-1m-investment-in-final-call-to-supply-chain-development-program/?utm_source=rss&utm_medium=rss&utm_campaign=csconnected-announces-1m-investment-in-final-call-to-supply-chain-development-program)
 **Published:** Wed, 04 Mar 2026 01:00:07 +0000
@@ -912,30 +896,6 @@ _Last updated: 2026-03-04 02:16 UTC_
 
 <p>Discover why modern traceability standards like SAE AS6496 are critical for obsolescence management and how Rochester Electronics ensures compliance. </p>
 <p>The post <a href="https://www.eetimes.com/strengthening-semiconductor-obsolescence-management-through-traceability/">Strengthening Semiconductor Obsolescence Management Through Traceability</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Taiwan’s Tech Industry](https://www.eetimes.com/taiwans-tech-industry/)
-**Published:** Fri, 27 Feb 2026 18:00:00 +0000
-
-<p>The Made in Taiwan report examines Taiwan’s technology industry, focusing on its role in semiconductor manufacturing, power electronics, embedded systems design, and AI. The small island of Taiwan is a global leader in chip manufacturing, packaging, design, and test, and its position in the global economy is only getting larger as it bolsters its system integration capabilities.  As Taiwan sets the next stage [&#8230;]</p>
-<p>The post <a href="https://www.eetimes.com/taiwans-tech-industry/">Taiwan&#8217;s Tech Industry</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Advantages of GaN-on-Si HEMT for 5G mm-wave range](https://www.electronicsweekly.com/news/business/advantages-of-gan-on-si-hemt-for-5g-mm-wave-2026-03/)
-**Published:** Tue, 03 Mar 2026 06:11:26 +0000
-
-<p>Researchers at Soitec and Nanyang Technological University have reported 60%+ power-added efficiency (PAE), for moderately scaled GaN-on-Si  HEMTs at 30GHz operation. The devices also perform with state-of-the-art noise figures down ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/advantages-of-gan-on-si-hemt-for-5g-mm-wave-2026-03/">Advantages of GaN-on-Si HEMT for 5G mm-wave range</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Rohm licenses TSMC GaN process technology](https://www.electronicsweekly.com/news/business/rohm-licenses-tsmc-gan-process-technology-2026-03/)
-**Published:** Mon, 02 Mar 2026 11:32:36 +0000
-
-<p>Rohm is licensing TSMC’s GaN process technology and installing it at its Hamamatsu fab. Rohm has been running a GaN process at Hamamatsu for four years, initially with a 150V ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/rohm-licenses-tsmc-gan-process-technology-2026-03/">Rohm licenses TSMC GaN process technology</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
