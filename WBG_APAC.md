@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-04 17:52 UTC_
+_Last updated: 2026-03-04 19:52 UTC_
 
 ## [CSconnected Announces £1M Investment in Final Call to Supply Chain Development Program](https://www.semiconductor-digest.com/csconnected-announces-1m-investment-in-final-call-to-supply-chain-development-program/?utm_source=rss&utm_medium=rss&utm_campaign=csconnected-announces-1m-investment-in-final-call-to-supply-chain-development-program)
 **Published:** Wed, 04 Mar 2026 01:00:07 +0000
