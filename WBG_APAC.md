@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-03 21:47 UTC_
+_Last updated: 2026-03-04 02:16 UTC_
 
 ## [DNP Joins Rapidus Funding Round to Accelerate 2nm Semiconductor Mass Production by 2027](https://www.eetasia.com/dnp-joins-rapidus-funding-round-to-accelerate-2nm-semiconductor-mass-production-by-2027/)
 **Published:** Mon, 02 Mar 2026 04:09:07 +0000
@@ -15,6 +15,14 @@ _Last updated: 2026-03-03 21:47 UTC_
 
 <p>The year 2025 marked a breakthrough year for Ceva's AI licensing business.</p>
 <p>The post <a href="https://www.eetasia.com/ceva-highlights-breakthrough-year-for-ai-licensing-physical-ai-adoption-in-2025/">Ceva Highlights Breakthrough Year for AI Licensing, Physical AI Adoption in 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [CSconnected Announces £1M Investment in Final Call to Supply Chain Development Program](https://www.semiconductor-digest.com/csconnected-announces-1m-investment-in-final-call-to-supply-chain-development-program/?utm_source=rss&utm_medium=rss&utm_campaign=csconnected-announces-1m-investment-in-final-call-to-supply-chain-development-program)
+**Published:** Wed, 04 Mar 2026 01:00:07 +0000
+
+<p>CSconnected, the world’s first compound semiconductor cluster, has announced the fourth and final funding round of its £1 million Supply Chain Development Programme, delivered in partnership with Cardiff Capital Region (CCR).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/csconnected-announces-1m-investment-in-final-call-to-supply-chain-development-program/">CSconnected Announces £1M Investment in Final Call to Supply Chain Development Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -808,14 +816,6 @@ _Last updated: 2026-03-03 21:47 UTC_
 
 <p>Alpha and Omega Semiconductor Limited, a designer, developer, and global supplier of a broad range of discrete power devices, wide band gap power devices, power management ICs, and modules, today unveiled its powerful αMOS E2 600V Super Junction MOSFET platform.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/alpha-and-omega-semiconductor-unveils-its-powerful-%ce%b1mos-e2-600v-super-junction-mosfet-platform/">Alpha and Omega Semiconductor Unveils its Powerful αMOS E2 600V Super Junction MOSFET Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Celera Semiconductor Appoints Bruno Kranzen to its Board of Directors](https://www.semiconductor-digest.com/celera-semiconductor-appoints-bruno-kranzen-to-its-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=celera-semiconductor-appoints-bruno-kranzen-to-its-board-of-directors)
-**Published:** Wed, 28 Jan 2026 22:35:28 +0000
-
-<p>Celera Semiconductor has appointed Bruno Kranzen to its Board of Directors.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/celera-semiconductor-appoints-bruno-kranzen-to-its-board-of-directors/">Celera Semiconductor Appoints Bruno Kranzen to its Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
