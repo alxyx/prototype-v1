@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-05 04:58 UTC_
+_Last updated: 2026-03-05 15:00 UTC_
 
 ## [Fraunhofer IPMS Expands Its Service Portfolio to Include Ultratrace Elemental Analysis on Wafers](https://www.semiconductor-digest.com/fraunhofer-ipms-expands-its-service-portfolio-to-include-ultratrace-elemental-analysis-on-wafers/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-ipms-expands-its-service-portfolio-to-include-ultratrace-elemental-analysis-on-wafers)
 **Published:** Wed, 04 Mar 2026 22:11:35 +0000
@@ -803,6 +803,22 @@ _Last updated: 2026-03-05 04:58 UTC_
 
 ---
 
+## [ROHM Integrates TSMC GaN Process for In-House Production](https://www.powerelectronicsnews.com/rohm-integrates-tsmc-gan-process-for-in-house-production/)
+**Published:** Thu, 05 Mar 2026 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1093357651.jpeg?fit=9294%2C5685" style="display: block; margin-bottom: 5px; clear: both;" width="9294" /><p>The technology transfer to ROHM's Hamamatsu fab targets strong GaN supply for AI servers and EV power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/rohm-integrates-tsmc-gan-process-for-in-house-production/">ROHM Integrates TSMC GaN Process for In-House Production</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Corner: Cyient Semiconductors’ CEO Suman Narayan on Building an Intelligent Power Silicon Platform](https://www.powerelectronicsnews.com/power-corner-cyient-semiconductors-ceo-suman-narayan-on-building-an-intelligent-power-silicon-platform/)
+**Published:** Thu, 05 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1389" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Featured-image-of-CyientSemi_Suman-Narayan.png?fit=2356%2C1389" style="display: block; margin-bottom: 5px; clear: both;" width="2356" /><p>Cyient Semiconductors’ CEO details how strategic partnerships enable them to create a full-lifecycle, intelligent power silicon platform. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-cyient-semiconductors-ceo-suman-narayan-on-building-an-intelligent-power-silicon-platform/">Power Corner: Cyient Semiconductors&#8217; CEO Suman Narayan on Building an Intelligent Power Silicon Platform</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [NoMIS Power Introduces Two Medium-Voltage SiC MOSFETs](https://www.powerelectronicsnews.com/nomis-power-introduces-two-medium-voltage-sic-mosfets/)
 **Published:** Wed, 04 Mar 2026 15:00:00 +0000
 
@@ -867,30 +883,6 @@ _Last updated: 2026-03-05 04:58 UTC_
 
 ---
 
-## [DTC Liquid Cooling, PoL Converter Reliability Estimation, GaN and SiC in Factory Automation: Power Electronics Week Insights](https://www.powerelectronicsnews.com/dtc-liquid-cooling-pol-converter-reliability-estimation-gan-and-sic-in-factory-automation-power-electronics-week-insights/)
-**Published:** Fri, 27 Feb 2026 15:27:35 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on DTC Liquid Cooling, PoL Converter Reliability Estimation, and GaN and SiC in Factory Automation!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/dtc-liquid-cooling-pol-converter-reliability-estimation-gan-and-sic-in-factory-automation-power-electronics-week-insights/">DTC Liquid Cooling, PoL Converter Reliability Estimation, GaN and SiC in Factory Automation: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wide Bandgap Monthly Insights – February 2026](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-february-2026/)
-**Published:** Fri, 27 Feb 2026 15:27:29 +0000
-
-<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-february-2026/">Wide Bandgap Monthly Insights &#8211; February 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Taiwan Builds the Future](https://www.eetimes.com/taiwan-builds-the-future/)
-**Published:** Wed, 04 Mar 2026 23:00:00 +0000
-
-<p>Taiwan is on track to set new records in chip production and technology development, driven by steady global demand related to artificial intelligence. The island is an indispensable part of the global electronics supply chain, doing much of the semiconductor design, fabrication, packaging, and test for global brands ranging from Apple to Toyota. In addition, [&#8230;]</p>
-<p>The post <a href="https://www.eetimes.com/taiwan-builds-the-future/">Taiwan Builds the Future</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
 ## [MIPS, GlobalFoundries Bet on Physical AI](https://www.eetimes.com/mips-globalfoundries-bet-on-physical-ai/)
 **Published:** Tue, 03 Mar 2026 18:00:00 +0000
 
@@ -899,18 +891,19 @@ _Last updated: 2026-03-05 04:58 UTC_
 
 ---
 
-## [Strengthening Semiconductor Obsolescence Management Through Traceability](https://www.eetimes.com/strengthening-semiconductor-obsolescence-management-through-traceability/)
-**Published:** Sun, 01 Mar 2026 14:00:00 +0000
+## [NLM Photonics sampling 1.6T and 3.2T silicon-organic hybrid (SOH) photonic ICs](https://www.electronicsweekly.com/news/business/nlm-photonics-sampling-its-1-6t-and-3-2t-silicon-organic-hybrid-soh-photonic-ics-2026-03/)
+**Published:** Thu, 05 Mar 2026 06:26:51 +0000
 
-<p>Discover why modern traceability standards like SAE AS6496 are critical for obsolescence management and how Rochester Electronics ensures compliance. </p>
-<p>The post <a href="https://www.eetimes.com/strengthening-semiconductor-obsolescence-management-through-traceability/">Strengthening Semiconductor Obsolescence Management Through Traceability</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>NLM Photonics of Seattle is sampling its 1.6T and 3.2T silicon-organic hybrid (SOH) photonic integrated circuits (PICs) to select customers. The 1.6T DR8 PIC built with NLM’s patented Selerion-HTX, an ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/nlm-photonics-sampling-its-1-6t-and-3-2t-silicon-organic-hybrid-soh-photonic-ics-2026-03/">NLM Photonics sampling 1.6T and 3.2T silicon-organic hybrid (SOH) photonic ICs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Accelerating RISC-V Verification With Quality And Security At The Core](https://www.electronicsforu.com/electronics-startups/accelerating-risc-v-verification-with-quality-and-security-at-the-core)
-**Published:** Tue, 03 Mar 2026 12:38:19 +0000
+## [1nm gate-length ferroelectric transistor operates at 0.6V](https://www.electronicsweekly.com/news/business/1nm-ferroelectric-transistor-2026-03/)
+**Published:** Thu, 05 Mar 2026 06:26:22 +0000
 
-<img alt="Accelerating RISC-V Verification With Quality And Security At The Core" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/images-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As the RISC-V ecosystem grows, startups struggle to verify complex chips before tape-out. Chennai-based startup addresses this with a unified, Python-friendly, AI-assisted pre-silicon platform that streamlines verification, early software bring-up, and security analysis in one workflow. Founded in 2021 and headquartered in Chennai, Vyoma Systems is a deep-tech semiconductor startup redefining how RISC-V chips are [&#8230;]
+<p>Researchers at Peking University have scaled the physical gate length of a ferroelectric transistor down to 1nm and propose a novel “nanogate ultra-low-power ferroelectric transistor” architecture. By  engineering the device ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/1nm-ferroelectric-transistor-2026-03/">1nm gate-length ferroelectric transistor operates at 0.6V</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
