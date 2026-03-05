@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-05 15:00 UTC_
+_Last updated: 2026-03-05 20:06 UTC_
+
+## [What’s in the March Issue?](https://www.semiconductor-digest.com/whats-in-the-march-issue-6/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-march-issue-6)
+**Published:** Thu, 05 Mar 2026 19:48:37 +0000
+
+<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the January/February issue. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-march-issue-6/">What&#8217;s in the March Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
 
 ## [Fraunhofer IPMS Expands Its Service Portfolio to Include Ultratrace Elemental Analysis on Wafers](https://www.semiconductor-digest.com/fraunhofer-ipms-expands-its-service-portfolio-to-include-ultratrace-elemental-analysis-on-wafers/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-ipms-expands-its-service-portfolio-to-include-ultratrace-elemental-analysis-on-wafers)
 **Published:** Wed, 04 Mar 2026 22:11:35 +0000
@@ -795,11 +803,11 @@ _Last updated: 2026-03-05 15:00 UTC_
 
 ---
 
-## [ISG to Study Semiconductor Industry Service Providers](https://www.semiconductor-digest.com/isg-to-study-semiconductor-industry-service-providers/?utm_source=rss&utm_medium=rss&utm_campaign=isg-to-study-semiconductor-industry-service-providers)
-**Published:** Fri, 30 Jan 2026 22:12:48 +0000
+## [Infineon Launches CoolGaN Drive 600V G5 Integrated Half-Bridge](https://www.powerelectronicsnews.com/infineon-launches-coolgan-drive-600v-g5-integrated-half-bridge/)
+**Published:** Thu, 05 Mar 2026 15:00:00 +0000
 
-<p>Information Services Group (ISG), a global AI-centered technology research and advisory firm, has launched a research study examining providers that help semiconductor companies adopt advanced technologies, supported by digital manufacturing and intelligent automation.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/isg-to-study-semiconductor-industry-service-providers/">ISG to Study Semiconductor Industry Service Providers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="nfineon Launches CoolGaN Drive HB 600 V G5 Integrated Half-Bridge." class="webfeedsFeaturedVisual wp-post-image" height="1276" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/coolgan-drive-650-v-g5-tflga-27-2.jpg?fit=2126%2C1276" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The 600 V GaN half-bridge features integrated drivers that reduce the component count and simplify the layout.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-launches-coolgan-drive-600v-g5-integrated-half-bridge/">Infineon Launches CoolGaN Drive 600V G5 Integrated Half-Bridge</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -875,14 +883,6 @@ _Last updated: 2026-03-05 15:00 UTC_
 
 ---
 
-## [PEN eBook March 2026 – Electrification in Practice: Converting, Storing, and Delivering Clean Energy](https://www.powerelectronicsnews.com/pen-ebook-march-2026-electrification-in-practice-converting-storing-and-delivering-clean-energy/)
-**Published:** Mon, 02 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1119" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Cover-image.png?fit=793%2C1119" style="display: block; margin-bottom: 5px; clear: both;" width="793" /><p>This issue examines how power electronics addresses thermal, efficiency, size, and cost challenges across the electrification landscape. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/pen-ebook-march-2026-electrification-in-practice-converting-storing-and-delivering-clean-energy/">PEN eBook March 2026 – Electrification in Practice: Converting, Storing, and Delivering Clean Energy </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [MIPS, GlobalFoundries Bet on Physical AI](https://www.eetimes.com/mips-globalfoundries-bet-on-physical-ai/)
 **Published:** Tue, 03 Mar 2026 18:00:00 +0000
 
@@ -904,6 +904,27 @@ _Last updated: 2026-03-05 15:00 UTC_
 
 <p>Researchers at Peking University have scaled the physical gate length of a ferroelectric transistor down to 1nm and propose a novel “nanogate ultra-low-power ferroelectric transistor” architecture. By  engineering the device ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/1nm-ferroelectric-transistor-2026-03/">1nm gate-length ferroelectric transistor operates at 0.6V</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [JOB: ASIC Verification Engineer At HPE In Kolkata](https://www.electronicsforu.com/career/asic-verification-engineer-hpe-kolkata)
+**Published:** Thu, 05 Mar 2026 09:08:30 +0000
+
+<img alt="JOB: ASIC Verification Engineer At HPE In Kolkata" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/hpe-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Kolkata Company: HPE What You&#8217;ll Do What You Need to Bring Additional Skills Accountability, Accountability, Action Planning, Active Learning, Active Listening, Agile Methodology, Agile Scrum Development, Analytical Thinking, Bias, Coaching, Creativity, Critical Thinking, Cross-Functional Teamwork, Data Analysis Management, Data Collection Management (Inactive), Data Controls, Design, Design Thinking, Empathy, Follow-Through, Group Problem Solving, [&#8230;]
+
+---
+
+## [Gold Plated Reed Relays For High Voltage Systems](https://www.electronicsforu.com/news/gold-plated-reed-relays-for-high-voltage-systems)
+**Published:** Thu, 05 Mar 2026 06:30:58 +0000
+
+<img alt="Gold Plated Reed Relays For High Voltage Systems" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/9105_series_reed_relay_featuredimg-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Built for automated test and instrumentation platforms, the relay can integrate vacuum sealed contacts and gold plated leads to support insulation and switching reliability. Coto Technology has released the CotoClassic 9105 Series, a gold plated reed relay developed for high voltage systems requiring strong insulation performance and long term operational stability. For high voltage applications [&#8230;]
+
+---
+
+## [Reflow Compatible Silver Sintering For Semiconductor Packaging](https://www.electronicsforu.com/news/reflow-compatible-silver-sintering-for-semiconductor-packaging)
+**Published:** Thu, 05 Mar 2026 06:24:56 +0000
+
+<img alt="Reflow Compatible Silver Sintering For Semiconductor Packaging" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/PR-SUBMISSION-LOGO-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As power densities rise in automotive and AI hardware, a solder-able sintering material that can target thermal conductivity and interconnect stability without pressure based processing. YINCAE Advanced Materials has introduced TM230D, a 3 in 1 solder-able sintering material developed for advanced semiconductor packaging applications. As power densities increase across power modules, automotive electronics, and AI [&#8230;]
 
 ---
 
