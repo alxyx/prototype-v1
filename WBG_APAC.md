@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-06 07:52 UTC_
+_Last updated: 2026-03-06 15:54 UTC_
 
 ## [What’s in the March Issue?](https://www.semiconductor-digest.com/whats-in-the-march-issue-6/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-march-issue-6)
 **Published:** Thu, 05 Mar 2026 19:48:37 +0000
@@ -803,6 +803,22 @@ _Last updated: 2026-03-06 07:52 UTC_
 
 ---
 
+## [How NVIDIA’s 800V Data Center Vision and GaN Innovation Are Re-shaping High-Density Power Delivery](https://www.powerelectronicsnews.com/how-nvidias-800v-data-center-vision-and-gan-innovation-are-re-shaping-high-density-power-delivery/)
+**Published:** Fri, 06 Mar 2026 15:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3584" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_800657784.jpeg?fit=5376%2C3584" style="display: block; margin-bottom: 5px; clear: both;" width="5376" /><p>A look at EPC's 6 kW 800V-to-12.5V DC/DC converter using GaN in a modular input-series, output-parallel (ISOP) LLC topology.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/how-nvidias-800v-data-center-vision-and-gan-innovation-are-re-shaping-high-density-power-delivery/">How NVIDIA’s 800V Data Center Vision and GaN Innovation Are Re-shaping High-Density Power Delivery</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Navitas, EPFL to Showcase 250 kW SST at APEC](https://www.powerelectronicsnews.com/navitas-epfl-to-showcase-250-kw-sst-at-apec/)
+**Published:** Fri, 06 Mar 2026 13:00:00 +0000
+
+<img alt="Navitas, EPFL to Showcase 250 kW Solid-State Transformer at APEC." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Navitas_EPFL.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The 250 kW solid-state transformer (SST) uses 3.3 kV and 1.2 kV SiC devices to convert 3.3 kV AC to 800 VDC for AI data centers.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/navitas-epfl-to-showcase-250-kw-sst-at-apec/">Navitas, EPFL to Showcase 250 kW SST at APEC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Wolfspeed Unveils 10 kV SiC Power MOSFET](https://www.powerelectronicsnews.com/wolfspeed-unveils-10-kv-sic-power-mosfet/)
 **Published:** Thu, 05 Mar 2026 21:09:03 +0000
 
@@ -867,22 +883,6 @@ _Last updated: 2026-03-06 07:52 UTC_
 
 ---
 
-## [Power Electronics Course with QSPICE (Episode 05): Efficiency in Dynamic Steady State](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-05-efficiency-in-dynamic-steady-state/)
-**Published:** Tue, 03 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>In this installment of the power electronics course, we delve into the heart of the real challenge of power system design: dynamic efficiency.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-05-efficiency-in-dynamic-steady-state/">Power Electronics Course with QSPICE (Episode 05): Efficiency in Dynamic Steady State</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [MIKROE Unveils Development Board for Automotive Motor Control](https://www.powerelectronicsnews.com/mikroe-unveils-development-board-for-automotive-motor-control/)
-**Published:** Mon, 02 Mar 2026 15:00:00 +0000
-
-<img alt="MIKROE Unveils Development Board for Automotive Motor Control." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/smartmcd-banner-pr.jpg?fit=1920%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>The development board integrates MCU and relay drivers for rapid prototyping of automotive body electronics and actuators.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/mikroe-unveils-development-board-for-automotive-motor-control/">MIKROE Unveils Development Board for Automotive Motor Control</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [MIPS, GlobalFoundries Bet on Physical AI](https://www.eetimes.com/mips-globalfoundries-bet-on-physical-ai/)
 **Published:** Tue, 03 Mar 2026 18:00:00 +0000
 
@@ -899,10 +899,17 @@ _Last updated: 2026-03-06 07:52 UTC_
 
 ---
 
-## [Sleek Desktop Built For Modern Workspaces](https://www.electronicsforu.com/news/sleek-desktop-built-for-modern-workspaces)
-**Published:** Fri, 06 Mar 2026 05:24:33 +0000
+## [JOB: DSP Engineer At NXP Semiconductors In Pune](https://www.electronicsforu.com/career/job-dsp-engineer-at-nxp-semiconductors-in-pune)
+**Published:** Fri, 06 Mar 2026 09:36:47 +0000
 
-<img alt="Sleek Desktop Built For Modern Workspaces" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Screenshot-2026-03-06-105145-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A newly launched compact computing device combines elegant design, reliable performance and upgrade flexibility while highlighting local manufacturing capabilities. A new compact desktop system by Thinvent Technologies has entered the market with a focus on minimalist design, practical performance and local manufacturing. Built with a precision-engineered aluminum body, the device is designed to blend into [&#8230;]
+<img alt="JOB: DSP Engineer At NXP Semiconductors In Pune" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2023/05/nxp-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Pune Company: NXP Semiconductor Responsibilities for this position include, but not limited to: Qualifications
+
+---
+
+## [JOB: Thermal Engineer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/thermal-engineer-capgemini-bengaluru)
+**Published:** Fri, 06 Mar 2026 09:22:23 +0000
+
+<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic&#160;programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs),&#160;printed circuit boards&#160;(PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment; Job Description &#8211; Grade [&#8230;]
 
 ---
 
