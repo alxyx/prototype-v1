@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-06 15:54 UTC_
+_Last updated: 2026-03-06 20:46 UTC_
+
+## [SEMI Recognizes U.S. Senator Todd Young with Government Leadership Award for Outstanding Support of American Chip Industry](https://www.semiconductor-digest.com/semi-recognizes-u-s-senator-todd-young-with-government-leadership-award-for-outstanding-support-of-american-chip-industry/?utm_source=rss&utm_medium=rss&utm_campaign=semi-recognizes-u-s-senator-todd-young-with-government-leadership-award-for-outstanding-support-of-american-chip-industry)
+**Published:** Fri, 06 Mar 2026 19:55:47 +0000
+
+<p>SEMI Americas President Joe Stockunas gave the award to Senator Young at a reception on March 4 at the U.S. Capitol during the SEMI Washington Fly-In.  </p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-recognizes-u-s-senator-todd-young-with-government-leadership-award-for-outstanding-support-of-american-chip-industry/">SEMI Recognizes U.S. Senator Todd Young with Government Leadership Award for Outstanding Support of American Chip Industry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
 
 ## [What’s in the March Issue?](https://www.semiconductor-digest.com/whats-in-the-march-issue-6/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-march-issue-6)
 **Published:** Thu, 05 Mar 2026 19:48:37 +0000
@@ -795,11 +803,11 @@ _Last updated: 2026-03-06 15:54 UTC_
 
 ---
 
-## [MXene Nanomaterials Enter a New Dimension](https://www.semiconductor-digest.com/mxene-nanomaterials-enter-a-new-dimension/?utm_source=rss&utm_medium=rss&utm_campaign=mxene-nanomaterials-enter-a-new-dimension)
-**Published:** Fri, 30 Jan 2026 22:24:34 +0000
+## [PEN eBook March 2026, SiC-Based Motor Drives, QSPICE Power Electronics Course: Power Electronics Week Insights](https://www.powerelectronicsnews.com/pen-ebook-march-2026-sic-based-motor-drives-qspice-power-electronics-course-power-electronics-week-insights/)
+**Published:** Fri, 06 Mar 2026 16:03:01 +0000
 
-<p>Multilayer nanomaterial MXene flakes created at Drexel University show new promise as 1D scrolls.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/mxene-nanomaterials-enter-a-new-dimension/">MXene Nanomaterials Enter a New Dimension</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on PEN eBook March 2026, SiC-Based Motor Drives, and QSPICE Power Electronics Course!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/pen-ebook-march-2026-sic-based-motor-drives-qspice-power-electronics-course-power-electronics-week-insights/">PEN eBook March 2026, SiC-Based Motor Drives, QSPICE Power Electronics Course: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -872,14 +880,6 @@ _Last updated: 2026-03-06 15:54 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_714494410.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>Addressing the overvoltage and fast rise time concerns of using SiC in AC motor drives through the open-end winding configuration.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/open-end-winding-configuration-for-sic-based-motor-drives/">Open-End Winding Configuration for SiC-based Motor Drives</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Bourns Expands MF-LSMF PPTC Fuse Series](https://www.powerelectronicsnews.com/bourns-expands-mf-lsmf-pptc-fuse-series/)
-**Published:** Tue, 03 Mar 2026 14:00:00 +0000
-
-<img alt="Bourns Expands MF-LSMF PPTC Fuse Series." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/bourns_mflsmf_extension_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new PPTC resettable fuse series extends the hold current (Ihold) to 7 A and the voltage rating to 72 V.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/bourns-expands-mf-lsmf-pptc-fuse-series/">Bourns Expands MF-LSMF PPTC Fuse Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
