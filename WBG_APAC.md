@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-06 00:04 UTC_
+_Last updated: 2026-03-06 07:04 UTC_
 
 ## [What’s in the March Issue?](https://www.semiconductor-digest.com/whats-in-the-march-issue-6/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-march-issue-6)
 **Published:** Thu, 05 Mar 2026 19:48:37 +0000
@@ -891,40 +891,18 @@ _Last updated: 2026-03-06 00:04 UTC_
 
 ---
 
-## [NLM Photonics sampling 1.6T and 3.2T silicon-organic hybrid (SOH) photonic ICs](https://www.electronicsweekly.com/news/business/nlm-photonics-sampling-its-1-6t-and-3-2t-silicon-organic-hybrid-soh-photonic-ics-2026-03/)
-**Published:** Thu, 05 Mar 2026 06:26:51 +0000
+## [Here come the Feelies](https://www.electronicsweekly.com/news/business/here-come-the-feelies-2026-03/)
+**Published:** Fri, 06 Mar 2026 06:27:00 +0000
 
-<p>NLM Photonics of Seattle is sampling its 1.6T and 3.2T silicon-organic hybrid (SOH) photonic integrated circuits (PICs) to select customers. The 1.6T DR8 PIC built with NLM’s patented Selerion-HTX, an ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/nlm-photonics-sampling-its-1-6t-and-3-2t-silicon-organic-hybrid-soh-photonic-ics-2026-03/">NLM Photonics sampling 1.6T and 3.2T silicon-organic hybrid (SOH) photonic ICs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [1nm gate-length ferroelectric transistor operates at 0.6V](https://www.electronicsweekly.com/news/business/1nm-ferroelectric-transistor-2026-03/)
-**Published:** Thu, 05 Mar 2026 06:26:22 +0000
-
-<p>Researchers at Peking University have scaled the physical gate length of a ferroelectric transistor down to 1nm and propose a novel “nanogate ultra-low-power ferroelectric transistor” architecture. By  engineering the device ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/1nm-ferroelectric-transistor-2026-03/">1nm gate-length ferroelectric transistor operates at 0.6V</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>NTT DOCOMO has developed a new system powered by FEEL TECH haptic technology that allows fans to experience physical sensations transmitted from artists, creating a stronger sense of closeness with ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/here-come-the-feelies-2026-03/">Here come the Feelies</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [JOB: ASIC Verification Engineer At HPE In Kolkata](https://www.electronicsforu.com/career/asic-verification-engineer-hpe-kolkata)
-**Published:** Thu, 05 Mar 2026 09:08:30 +0000
+## [Sleek Desktop Built For Modern Workspaces](https://www.electronicsforu.com/news/sleek-desktop-built-for-modern-workspaces)
+**Published:** Fri, 06 Mar 2026 05:24:33 +0000
 
-<img alt="JOB: ASIC Verification Engineer At HPE In Kolkata" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/hpe-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Kolkata Company: HPE What You&#8217;ll Do What You Need to Bring Additional Skills Accountability, Accountability, Action Planning, Active Learning, Active Listening, Agile Methodology, Agile Scrum Development, Analytical Thinking, Bias, Coaching, Creativity, Critical Thinking, Cross-Functional Teamwork, Data Analysis Management, Data Collection Management (Inactive), Data Controls, Design, Design Thinking, Empathy, Follow-Through, Group Problem Solving, [&#8230;]
-
----
-
-## [Gold Plated Reed Relays For High Voltage Systems](https://www.electronicsforu.com/news/gold-plated-reed-relays-for-high-voltage-systems)
-**Published:** Thu, 05 Mar 2026 06:30:58 +0000
-
-<img alt="Gold Plated Reed Relays For High Voltage Systems" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/9105_series_reed_relay_featuredimg-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Built for automated test and instrumentation platforms, the relay can integrate vacuum sealed contacts and gold plated leads to support insulation and switching reliability. Coto Technology has released the CotoClassic 9105 Series, a gold plated reed relay developed for high voltage systems requiring strong insulation performance and long term operational stability. For high voltage applications [&#8230;]
-
----
-
-## [Reflow Compatible Silver Sintering For Semiconductor Packaging](https://www.electronicsforu.com/news/reflow-compatible-silver-sintering-for-semiconductor-packaging)
-**Published:** Thu, 05 Mar 2026 06:24:56 +0000
-
-<img alt="Reflow Compatible Silver Sintering For Semiconductor Packaging" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/PR-SUBMISSION-LOGO-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As power densities rise in automotive and AI hardware, a solder-able sintering material that can target thermal conductivity and interconnect stability without pressure based processing. YINCAE Advanced Materials has introduced TM230D, a 3 in 1 solder-able sintering material developed for advanced semiconductor packaging applications. As power densities increase across power modules, automotive electronics, and AI [&#8230;]
+<img alt="Sleek Desktop Built For Modern Workspaces" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Screenshot-2026-03-06-105145-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A newly launched compact computing device combines elegant design, reliable performance and upgrade flexibility while highlighting local manufacturing capabilities. A new compact desktop system by Thinvent Technologies has entered the market with a focus on minimalist design, practical performance and local manufacturing. Built with a precision-engineered aluminum body, the device is designed to blend into [&#8230;]
 
 ---
 
