@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-05 20:51 UTC_
+_Last updated: 2026-03-06 00:04 UTC_
 
 ## [What’s in the March Issue?](https://www.semiconductor-digest.com/whats-in-the-march-issue-6/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-march-issue-6)
 **Published:** Thu, 05 Mar 2026 19:48:37 +0000
@@ -803,6 +803,14 @@ _Last updated: 2026-03-05 20:51 UTC_
 
 ---
 
+## [Wolfspeed Unveils 10 kV SiC Power MOSFET](https://www.powerelectronicsnews.com/wolfspeed-unveils-10-kv-sic-power-mosfet/)
+**Published:** Thu, 05 Mar 2026 21:09:03 +0000
+
+<img alt="Wolfspeed Unveils 10 kV SiC Power MOSFET." class="webfeedsFeaturedVisual wp-post-image" height="711" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/CPM3-10000-0300A-PR.png?fit=1000%2C711" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The new 10 kV SiC power MOSFET targets medium-voltage converters, grid infrastructure, and pulsed-power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-unveils-10-kv-sic-power-mosfet/">Wolfspeed Unveils 10 kV SiC Power MOSFET</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Infineon Launches CoolGaN Drive 600V G5 Integrated Half-Bridge](https://www.powerelectronicsnews.com/infineon-launches-coolgan-drive-600v-g5-integrated-half-bridge/)
 **Published:** Thu, 05 Mar 2026 15:00:00 +0000
 
@@ -872,14 +880,6 @@ _Last updated: 2026-03-05 20:51 UTC_
 
 <img alt="MIKROE Unveils Development Board for Automotive Motor Control." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/smartmcd-banner-pr.jpg?fit=1920%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>The development board integrates MCU and relay drivers for rapid prototyping of automotive body electronics and actuators.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/mikroe-unveils-development-board-for-automotive-motor-control/">MIKROE Unveils Development Board for Automotive Motor Control</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [240-W Battery-Charging System for Portable Devices and Power Appliances Using USB-C PD](https://www.powerelectronicsnews.com/240-w-battery-charging-system-for-portable-devices-and-power-appliances-using-usb-c-pd/)
-**Published:** Mon, 02 Mar 2026 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="800" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/AdobeStock_605065614.jpeg?fit=1200%2C800" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>Universal and simplified, two- to 12-cell battery-charging system design using Infineon’s EZ-PD™ PMG1-B2</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/240-w-battery-charging-system-for-portable-devices-and-power-appliances-using-usb-c-pd/">240-W Battery-Charging System for Portable Devices and Power Appliances Using USB-C PD</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
