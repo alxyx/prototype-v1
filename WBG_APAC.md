@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-06 07:04 UTC_
+_Last updated: 2026-03-06 07:52 UTC_
 
 ## [What’s in the March Issue?](https://www.semiconductor-digest.com/whats-in-the-march-issue-6/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-march-issue-6)
 **Published:** Thu, 05 Mar 2026 19:48:37 +0000
