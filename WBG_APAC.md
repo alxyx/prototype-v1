@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-07 07:42 UTC_
+_Last updated: 2026-03-07 10:38 UTC_
 
 ## [SEMI Recognizes U.S. Senator Todd Young with Government Leadership Award for Outstanding Support of American Chip Industry](https://www.semiconductor-digest.com/semi-recognizes-u-s-senator-todd-young-with-government-leadership-award-for-outstanding-support-of-american-chip-industry/?utm_source=rss&utm_medium=rss&utm_campaign=semi-recognizes-u-s-senator-todd-young-with-government-leadership-award-for-outstanding-support-of-american-chip-industry)
 **Published:** Fri, 06 Mar 2026 19:55:47 +0000
