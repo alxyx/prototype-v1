@@ -1,6 +1,38 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-08 14:38 UTC_
+_Last updated: 2026-03-09 06:10 UTC_
+
+## [TI Partners with NVIDIA to Accelerate Next-gen Physical AI](https://www.eetasia.com/ti-partners-with-nvidia-to-accelerate-next-gen-physical-ai/)
+**Published:** Mon, 09 Mar 2026 03:21:29 +0000
+
+<p>TI connects NVIDIA physical AI compute to real-world applications with deterministic control, sensing, power and safety at every subsystem.</p>
+<p>The post <a href="https://www.eetasia.com/ti-partners-with-nvidia-to-accelerate-next-gen-physical-ai/">TI Partners with NVIDIA to Accelerate Next-gen Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [ACM Research Receives Multiple Advanced Packaging Equipment Orders](https://www.semiconductor-digest.com/acm-research-receives-multiple-advanced-packaging-equipment-orders/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-receives-multiple-advanced-packaging-equipment-orders)
+**Published:** Sun, 08 Mar 2026 23:45:50 +0000
+
+<p>ACM Research, Inc., a supplier of wafer and panel processing solutions for semiconductor and advanced packaging applications, today announced it has received multiple advanced packaging equipment orders from leading global semiconductor and technology customers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/acm-research-receives-multiple-advanced-packaging-equipment-orders/">ACM Research Receives Multiple Advanced Packaging Equipment Orders</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens Accelerates Integrated Circuit Design and Verification with Agentic AI in Questa One](https://www.semiconductor-digest.com/siemens-accelerates-integrated-circuit-design-and-verification-with-agentic-ai-in-questa-one/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-accelerates-integrated-circuit-design-and-verification-with-agentic-ai-in-questa-one)
+**Published:** Sun, 08 Mar 2026 23:32:43 +0000
+
+<p>Siemens today announced the Questa One Agentic Toolkit, which brings domain-scoped agentic AI workflows to its Questa One smart verification software portfolio.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-accelerates-integrated-circuit-design-and-verification-with-agentic-ai-in-questa-one/">Siemens Accelerates Integrated Circuit Design and Verification with Agentic AI in Questa One</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [PhotonIC Debuts Product Portfolio Based Upon Its Platform: Resiliency of Optoelectronic Chip Supply-Chain](https://www.semiconductor-digest.com/photonic-debuts-product-portfolio-based-upon-its-platform-resiliency-of-optoelectronic-chip-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=photonic-debuts-product-portfolio-based-upon-its-platform-resiliency-of-optoelectronic-chip-supply-chain)
+**Published:** Sun, 08 Mar 2026 23:18:39 +0000
+
+<p>The ROCS platform leverages CMOS and SiGe processes across multi-fabs worldwide; Company to showcase 10G – 1.6T products at OFC 2026 in Los Angeles, CA.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/photonic-debuts-product-portfolio-based-upon-its-platform-resiliency-of-optoelectronic-chip-supply-chain/">PhotonIC Debuts Product Portfolio Based Upon Its Platform: Resiliency of Optoelectronic Chip Supply-Chain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
 
 ## [SEMI Recognizes U.S. Senator Todd Young with Government Leadership Award for Outstanding Support of American Chip Industry](https://www.semiconductor-digest.com/semi-recognizes-u-s-senator-todd-young-with-government-leadership-award-for-outstanding-support-of-american-chip-industry/?utm_source=rss&utm_medium=rss&utm_campaign=semi-recognizes-u-s-senator-todd-young-with-government-leadership-award-for-outstanding-support-of-american-chip-industry)
 **Published:** Fri, 06 Mar 2026 19:55:47 +0000
@@ -779,30 +811,6 @@ _Last updated: 2026-03-08 14:38 UTC_
 
 ---
 
-## [NanoIC Extends its PDK Portfolio with First A14 Logic and eDRAM Memory PDK](https://www.semiconductor-digest.com/nanoic-extends-its-pdk-portfolio-with-first-a14-logic-and-edram-memory-pdk/?utm_source=rss&utm_medium=rss&utm_campaign=nanoic-extends-its-pdk-portfolio-with-first-a14-logic-and-edram-memory-pdk)
-**Published:** Mon, 02 Feb 2026 22:06:55 +0000
-
-<p>Today, the NanoIC pilot line, a European initiative coordinated by imec and dedicated to accelerating innovation in chip technologies beyond 2nm, announces the release of two new process design kits (PDKs).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nanoic-extends-its-pdk-portfolio-with-first-a14-logic-and-edram-memory-pdk/">NanoIC Extends its PDK Portfolio with First A14 Logic and eDRAM Memory PDK</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lam Research and CEA-Leti Expand Research and Development Collaboration to Advance Fabrication of Specialty Technologies](https://www.semiconductor-digest.com/lam-research-and-cea-leti-expand-research-and-development-collaboration-to-advance-fabrication-of-specialty-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-and-cea-leti-expand-research-and-development-collaboration-to-advance-fabrication-of-specialty-technologies)
-**Published:** Mon, 02 Feb 2026 21:59:50 +0000
-
-<p>Lam Research Corp. and CEA-Leti, a research institute pioneering micro- and nanotechnologies, today announced a new multi-year agreement to advance the development of next-generation Specialty Technology devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lam-research-and-cea-leti-expand-research-and-development-collaboration-to-advance-fabrication-of-specialty-technologies/">Lam Research and CEA-Leti Expand Research and Development Collaboration to Advance Fabrication of Specialty Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [EUV Tech Celebrates Grand Opening of First Global Office in Singapore](https://www.semiconductor-digest.com/euv-tech-celebrates-grand-opening-of-first-global-office-in-singapore/?utm_source=rss&utm_medium=rss&utm_campaign=euv-tech-celebrates-grand-opening-of-first-global-office-in-singapore)
-**Published:** Mon, 02 Feb 2026 21:46:25 +0000
-
-<p>EUV Tech, a manufacturer of advanced extreme ultraviolet (EUV) metrology equipment, today announced the official grand opening of its new office in Singapore.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/euv-tech-celebrates-grand-opening-of-first-global-office-in-singapore/">EUV Tech Celebrates Grand Opening of First Global Office in Singapore</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [PEN eBook March 2026, SiC-Based Motor Drives, QSPICE Power Electronics Course: Power Electronics Week Insights](https://www.powerelectronicsnews.com/pen-ebook-march-2026-sic-based-motor-drives-qspice-power-electronics-course-power-electronics-week-insights/)
 **Published:** Fri, 06 Mar 2026 16:03:01 +0000
 
@@ -883,19 +891,18 @@ _Last updated: 2026-03-08 14:38 UTC_
 
 ---
 
-## [MIPS, GlobalFoundries Bet on Physical AI](https://www.eetimes.com/mips-globalfoundries-bet-on-physical-ai/)
-**Published:** Tue, 03 Mar 2026 18:00:00 +0000
-
-<p>MIPS and GlobalFoundries join forces to drive the next era of physical AI and RISC-V for autonomous tech.</p>
-<p>The post <a href="https://www.eetimes.com/mips-globalfoundries-bet-on-physical-ai/">MIPS, GlobalFoundries Bet on Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
 ## [Here come the Feelies](https://www.electronicsweekly.com/news/business/here-come-the-feelies-2026-03/)
 **Published:** Fri, 06 Mar 2026 06:27:00 +0000
 
 <p>NTT DOCOMO has developed a new system powered by FEEL TECH haptic technology that allows fans to experience physical sensations transmitted from artists, creating a stronger sense of closeness with ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/here-come-the-feelies-2026-03/">Here come the Feelies</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Chip-Scale Thermometers For Processor Monitoring](https://www.electronicsforu.com/news/chip-scale-thermometers-for-processor-monitoring)
+**Published:** Mon, 09 Mar 2026 05:51:32 +0000
+
+<img alt="Chip-Scale Thermometers For Processor Monitoring" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/tiny-thermometers-offe-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Micrometer-scale sensors embedded in chips enable ultrafast, real-time monitoring of processor temperatures to improve thermal management in advanced electronics. Researchers at&#160; Pennsylvania State University have developed microscopic thermometers that can be embedded directly into semiconductor chips, enabling rapid and precise monitoring of processor temperatures at the transistor level. The breakthrough could help engineers better manage [&#8230;]
 
 ---
 
