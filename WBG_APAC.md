@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-09 19:06 UTC_
+_Last updated: 2026-03-09 21:47 UTC_
 
 ## [Arrow Electronics and Infineon Collaborate on Reference Design for Motor Control Applications](https://www.eetasia.com/arrow-electronics-and-infineon-collaborate-on-reference-design-for-motor-control-applications/)
 **Published:** Mon, 09 Mar 2026 06:36:08 +0000
