@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-09 11:48 UTC_
+_Last updated: 2026-03-09 19:06 UTC_
 
 ## [Arrow Electronics and Infineon Collaborate on Reference Design for Motor Control Applications](https://www.eetasia.com/arrow-electronics-and-infineon-collaborate-on-reference-design-for-motor-control-applications/)
 **Published:** Mon, 09 Mar 2026 06:36:08 +0000
@@ -819,6 +819,22 @@ _Last updated: 2026-03-09 11:48 UTC_
 
 ---
 
+## [Solid-State Transformers in the Spotlight](https://www.powerelectronicsnews.com/solid-state-transformers-in-the-spotlight/)
+**Published:** Mon, 09 Mar 2026 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_643031254.jpeg?fit=6000%2C4000" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>SSTs are in the spotlight, with accelerating investment in SST companies like Heron Power, DG Matrix, and Amperesand, raising major funding.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/solid-state-transformers-in-the-spotlight/">Solid-State Transformers in the Spotlight</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Russelectric Centralized Paralleling Systems for Critical Power](https://www.powerelectronicsnews.com/russelectric-centralized-paralleling-systems-for-critical-power/)
+**Published:** Mon, 09 Mar 2026 13:00:00 +0000
+
+<img alt="Russelectric Centralized Paralleling Systems for Critical Power." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/BOM-Spotlight-NR-Photo-PCS.jpg?fit=1500%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>Central architectures improve redundancy, control integrity, and scalability in critical facilities.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/russelectric-centralized-paralleling-systems-for-critical-power/">Russelectric Centralized Paralleling Systems for Critical Power</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [PEN eBook March 2026, SiC-Based Motor Drives, QSPICE Power Electronics Course: Power Electronics Week Insights](https://www.powerelectronicsnews.com/pen-ebook-march-2026-sic-based-motor-drives-qspice-power-electronics-course-power-electronics-week-insights/)
 **Published:** Fri, 06 Mar 2026 16:03:01 +0000
 
@@ -883,35 +899,34 @@ _Last updated: 2026-03-09 11:48 UTC_
 
 ---
 
-## [Simplifying Motor Control for Drones with ESC Reference Design](https://www.powerelectronicsnews.com/simplifying-motor-control-for-drones-with-esc-reference-design/)
-**Published:** Wed, 04 Mar 2026 13:00:00 +0000
+## [Telonic announces UK release of Siglent SMM3000X SMUs](https://www.electronicsweekly.com/news/products/test-measurement-products/telonic-announces-uk-release-of-siglent-smm3000x-smus-2026-03/)
+**Published:** Mon, 09 Mar 2026 11:17:29 +0000
 
-<img alt="The reference design for drone motor drives showing the power board (left) and fully assembled board (right)." class="webfeedsFeaturedVisual wp-post-image" height="1440" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/02/Figure-5.jpg?fit=2560%2C1440" style="display: block; margin-bottom: 5px; clear: both;" width="2560" /><p>Infineon’s REF_ESC_48V_80A_FOC is an out-of-the-box, 24 V to 60 V drone motor ESC reference design with full software support.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/simplifying-motor-control-for-drones-with-esc-reference-design/">Simplifying Motor Control for Drones with ESC Reference Design</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Open-End Winding Configuration for SiC-based Motor Drives](https://www.powerelectronicsnews.com/open-end-winding-configuration-for-sic-based-motor-drives/)
-**Published:** Tue, 03 Mar 2026 15:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_714494410.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>Addressing the overvoltage and fast rise time concerns of using SiC in AC motor drives through the open-end winding configuration.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/open-end-winding-configuration-for-sic-based-motor-drives/">Open-End Winding Configuration for SiC-based Motor Drives</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Telonic Instruments, the official UK representative of Siglent Technologies, is announcing the UK release of the Siglent SMM3000X series of Source/Measure Units (SMUs). They target engineers working in semiconductor device ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/test-measurement-products/telonic-announces-uk-release-of-siglent-smm3000x-smus-2026-03/">Telonic announces UK release of Siglent SMM3000X SMUs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [January semi sales up 46% YoY says SIA](https://www.electronicsweekly.com/news/business/january-semi-sales-up-46-says-sia-2026-03/)
+## [January semi sales up 46% y-o-y, says SIA](https://www.electronicsweekly.com/news/business/january-semi-sales-up-46-says-sia-2026-03/)
 **Published:** Mon, 09 Mar 2026 06:26:40 +0000
 
-<p>January semiconductor sales of $82.5 billion were up 3.7% on December’s $79.6 billion and up 46.1% on the $56.5 billion sales in January 2025, says the SIA. “Following the semiconductor ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/january-semi-sales-up-46-says-sia-2026-03/">January semi sales up 46% YoY says SIA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>January semiconductor sales of $82.5bn were up 3.7% on December’s $79.6bn and up 46.1% on the $56.5bn sales in January 2025, says the SIA. “Following the semiconductor industry’s highest-ever sales ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/january-semi-sales-up-46-says-sia-2026-03/">January semi sales up 46% y-o-y, says SIA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
 ## [Schoolchildren explore space](https://www.electronicsweekly.com/news/design/stem/schoolchildren-explore-space-2026-03/)
 **Published:** Mon, 09 Mar 2026 06:15:24 +0000
 
-<p>North East school has partnered with solar and space physics experts from Northumbria University for a project supported by a Royal Society Partnership Grant which aims to bring academic research ...</p>
+<p>A north-east school has partnered with solar and space physics experts from Northumbria University for a project supported by a Royal Society Partnership Grant, which aims to bring academic research ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/design/stem/schoolchildren-explore-space-2026-03/">Schoolchildren explore space</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Enterprise Power For AI Systems Is The Next Major Frontier?](https://www.electronicsforu.com/electronics-startups/enterprise-power-for-ai-systems-is-the-next-major-frontier)
+**Published:** Mon, 09 Mar 2026 12:08:20 +0000
+
+<img alt="Enterprise Power For AI Systems Is The Next Major Frontier?" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Screenshot-2025-01-27-at-4-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />To set new reliability standards for data centres worldwide, a semiconductor startup is redefining AI power delivery, optimising voltage conversion and efficiency at unprecedented scales. A Bengaluru-based start-up, C2i, is developing semiconductor solutions for artificial intelligence (AI) infrastructure, targeting one of the sector’s toughest challenges: efficient power delivery for hyperscale data centres and graphics processing [&#8230;]
 
 ---
 
