@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-09 06:10 UTC_
+_Last updated: 2026-03-09 08:59 UTC_
+
+## [Arrow Electronics and Infineon Collaborate on Reference Design for Motor Control Applications](https://www.eetasia.com/arrow-electronics-and-infineon-collaborate-on-reference-design-for-motor-control-applications/)
+**Published:** Mon, 09 Mar 2026 06:36:08 +0000
+
+<p>Arrow Electronics and Infineon's REF_ARIF240GaN is a 240W USB PD 3.2 reference design for battery-powered motor control applications.</p>
+<p>The post <a href="https://www.eetasia.com/arrow-electronics-and-infineon-collaborate-on-reference-design-for-motor-control-applications/">Arrow Electronics and Infineon Collaborate on Reference Design for Motor Control Applications</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [TI Partners with NVIDIA to Accelerate Next-gen Physical AI](https://www.eetasia.com/ti-partners-with-nvidia-to-accelerate-next-gen-physical-ai/)
 **Published:** Mon, 09 Mar 2026 03:21:29 +0000
@@ -891,32 +899,33 @@ _Last updated: 2026-03-09 06:10 UTC_
 
 ---
 
-## [Here come the Feelies](https://www.electronicsweekly.com/news/business/here-come-the-feelies-2026-03/)
-**Published:** Fri, 06 Mar 2026 06:27:00 +0000
+## [January semi sales up 46% YoY says SIA](https://www.electronicsweekly.com/news/business/january-semi-sales-up-46-says-sia-2026-03/)
+**Published:** Mon, 09 Mar 2026 06:26:40 +0000
 
-<p>NTT DOCOMO has developed a new system powered by FEEL TECH haptic technology that allows fans to experience physical sensations transmitted from artists, creating a stronger sense of closeness with ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/here-come-the-feelies-2026-03/">Here come the Feelies</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Chip-Scale Thermometers For Processor Monitoring](https://www.electronicsforu.com/news/chip-scale-thermometers-for-processor-monitoring)
-**Published:** Mon, 09 Mar 2026 05:51:32 +0000
-
-<img alt="Chip-Scale Thermometers For Processor Monitoring" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/tiny-thermometers-offe-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Micrometer-scale sensors embedded in chips enable ultrafast, real-time monitoring of processor temperatures to improve thermal management in advanced electronics. Researchers at&#160; Pennsylvania State University have developed microscopic thermometers that can be embedded directly into semiconductor chips, enabling rapid and precise monitoring of processor temperatures at the transistor level. The breakthrough could help engineers better manage [&#8230;]
+<p>January semiconductor sales of $82.5 billion were up 3.7% on December’s $79.6 billion and up 46.1% on the $56.5 billion sales in January 2025, says the SIA. “Following the semiconductor ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/january-semi-sales-up-46-says-sia-2026-03/">January semi sales up 46% YoY says SIA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [JOB: DSP Engineer At NXP Semiconductors In Pune](https://www.electronicsforu.com/career/job-dsp-engineer-at-nxp-semiconductors-in-pune)
-**Published:** Fri, 06 Mar 2026 09:36:47 +0000
+## [Schoolchildren explore space](https://www.electronicsweekly.com/news/design/stem/schoolchildren-explore-space-2026-03/)
+**Published:** Mon, 09 Mar 2026 06:15:24 +0000
 
-<img alt="JOB: DSP Engineer At NXP Semiconductors In Pune" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2023/05/nxp-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Pune Company: NXP Semiconductor Responsibilities for this position include, but not limited to: Qualifications
+<p>North East school has partnered with solar and space physics experts from Northumbria University for a project supported by a Royal Society Partnership Grant which aims to bring academic research ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/design/stem/schoolchildren-explore-space-2026-03/">Schoolchildren explore space</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [JOB: Thermal Engineer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/thermal-engineer-capgemini-bengaluru)
-**Published:** Fri, 06 Mar 2026 09:22:23 +0000
+## [JOB: Analog Layout Engineer At Accenture In Bengaluru](https://www.electronicsforu.com/career/analog-layout-engineer-accenture-bengaluru)
+**Published:** Mon, 09 Mar 2026 07:44:59 +0000
 
-<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic&#160;programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs),&#160;printed circuit boards&#160;(PCBs), and electronic systems; and developing and designing methods of using electrical power and electronic equipment; Job Description &#8211; Grade [&#8230;]
+<img alt="JOB: Analog Layout Engineer At Accenture In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/06/accenture-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Accenture Project Role Description: Design the physical layout of analog circuits, ensuring proper component placement and routing for optimal performance. Address parasitic effects, signal integrity, and power distribution to meet design specifications. Collaborate to ensure the layout meets functional, electrical, and manufacturing requirements. Assistant Engineer Role and Responsibilities: Execution of Standard [&#8230;]
+
+---
+
+## [Integrated EV Drive For Higher Power Density](https://www.electronicsforu.com/news/integrated-ev-drive-for-higher-power-density)
+**Published:** Mon, 09 Mar 2026 07:32:45 +0000
+
+<img alt="Integrated EV Drive For Higher Power Density" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/image001EHXM-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Integrating the motor and inverter into a compact assembly can help electric vehicles achieve higher efficiency while simplifying powertrain architecture. The Ministry of Electronics and Information Technology (MeitY) has introduced a 30 kW integrated drive system designed to support more efficient electric vehicle powertrains while strengthening domestic capabilities in advanced power electronics. The system was [&#8230;]
 
 ---
 
