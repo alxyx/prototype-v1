@@ -1,6 +1,38 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-10 02:15 UTC_
+_Last updated: 2026-03-10 16:14 UTC_
+
+## [AW 2026 Concludes on Strong, Puts Highlight on Physical AI and Humanoids](https://www.eetasia.com/aw-2026-concludes-on-strong-puts-highlight-on-physical-ai-and-humanoids/)
+**Published:** Tue, 10 Mar 2026 09:03:18 +0000
+
+<p>AW 2026 spotlighted next-generation technologies based on physical AI and humanoid robotics, presenting both the present and future of autonomous manufacturing.</p>
+<p>The post <a href="https://www.eetasia.com/aw-2026-concludes-on-strong-puts-highlight-on-physical-ai-and-humanoids/">AW 2026 Concludes on Strong, Puts Highlight on Physical AI and Humanoids</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Wolfspeed Unveils 10kV SiC Power MOSFET](https://www.eetasia.com/wolfspeed-unveils-10kv-sic-power-mosfet/)
+**Published:** Tue, 10 Mar 2026 02:44:47 +0000
+
+<p>Wolfspeed has launched what is considered to be the industry's first commercially available 10kV SiC power MOSFET.</p>
+<p>The post <a href="https://www.eetasia.com/wolfspeed-unveils-10kv-sic-power-mosfet/">Wolfspeed Unveils 10kV SiC Power MOSFET</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Rayence Strengthens Capabilities of X-Ray Inspection Platforms with Latest Detector Series](https://www.eetasia.com/rayence-strengthens-capabilities-of-x-ray-inspection-platforms-with-latest-detector-series/)
+**Published:** Tue, 10 Mar 2026 02:38:28 +0000
+
+<p>Rayence's latest CMOS X-ray detector Flash Series is designed for semiconductor AXI systems and high-speed 3D X-ray CT inspection platforms.</p>
+<p>The post <a href="https://www.eetasia.com/rayence-strengthens-capabilities-of-x-ray-inspection-platforms-with-latest-detector-series/">Rayence Strengthens Capabilities of X-Ray Inspection Platforms with Latest Detector Series</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Nordic Semiconductor Launches Entry-level Bluetooth LE SoCs](https://www.eetasia.com/nordic-semiconductor-launches-entry-level-bluetooth-le-socs/)
+**Published:** Tue, 10 Mar 2026 02:11:48 +0000
+
+<p>Nordic Semiconductor has unveiled its new entry-level, ultra-low-power Bluetooth Low LE SoCs – the nRF54LS05A and nRF54LS05B.</p>
+<p>The post <a href="https://www.eetasia.com/nordic-semiconductor-launches-entry-level-bluetooth-le-socs/">Nordic Semiconductor Launches Entry-level Bluetooth LE SoCs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Arrow Electronics and Infineon Collaborate on Reference Design for Motor Control Applications](https://www.eetasia.com/arrow-electronics-and-infineon-collaborate-on-reference-design-for-motor-control-applications/)
 **Published:** Mon, 09 Mar 2026 06:36:08 +0000
@@ -819,6 +851,22 @@ _Last updated: 2026-03-10 02:15 UTC_
 
 ---
 
+## [ST Releases ML-Based Motor Control Software Pack](https://www.powerelectronicsnews.com/st-releases-ml-based-motor-control-software-pack/)
+**Published:** Tue, 10 Mar 2026 15:00:00 +0000
+
+<img alt="ST Releases ML-Based Motor Control Software Pack." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/N4762D-Mar-9-2026-Machine-learning-sw-pack-for-motor-control_IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new software integrates machine learning with FOC motor control for condition monitoring and predictive maintenance.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-releases-ml-based-motor-control-software-pack/">ST Releases ML-Based Motor Control Software Pack</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Electronics Course with QSPICE (Episode 06): Power Diodes and Rectifiers](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-06-power-diodes-and-rectifiers/)
+**Published:** Tue, 10 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/figure-00-power-course-1.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>In this article, we examine the electronic behavior of power diodes in QSPICE simulations. These components allow for the passage of high currents, and their...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-06-power-diodes-and-rectifiers/">Power Electronics Course with QSPICE (Episode 06): Power Diodes and Rectifiers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Solid-State Transformers in the Spotlight](https://www.powerelectronicsnews.com/solid-state-transformers-in-the-spotlight/)
 **Published:** Mon, 09 Mar 2026 14:00:00 +0000
 
@@ -883,64 +931,27 @@ _Last updated: 2026-03-10 02:15 UTC_
 
 ---
 
-## [Power Corner: Cyient Semiconductors’ CEO Suman Narayan on Building an Intelligent Power Silicon Platform](https://www.powerelectronicsnews.com/power-corner-cyient-semiconductors-ceo-suman-narayan-on-building-an-intelligent-power-silicon-platform/)
-**Published:** Thu, 05 Mar 2026 13:00:00 +0000
+## [GigaDevice Expands GD25UF Series Density Empowering AI Computing with 1.2V Ultra-Low Power Storage](https://www.eetimes.com/gigadevice-expands-gd25uf-series-density-empowering-ai-computing-with-1-2v-ultra-low-power-storage/)
+**Published:** Tue, 10 Mar 2026 08:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1389" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Featured-image-of-CyientSemi_Suman-Narayan.png?fit=2356%2C1389" style="display: block; margin-bottom: 5px; clear: both;" width="2356" /><p>Cyient Semiconductors’ CEO details how strategic partnerships enable them to create a full-lifecycle, intelligent power silicon platform. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-cyient-semiconductors-ceo-suman-narayan-on-building-an-intelligent-power-silicon-platform/">Power Corner: Cyient Semiconductors&#8217; CEO Suman Narayan on Building an Intelligent Power Silicon Platform</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [NoMIS Power Introduces Two Medium-Voltage SiC MOSFETs](https://www.powerelectronicsnews.com/nomis-power-introduces-two-medium-voltage-sic-mosfets/)
-**Published:** Wed, 04 Mar 2026 15:00:00 +0000
-
-<img alt="NoMIS Power Introduces 3.3 kV and 1.7 kV Medium-Voltage SiC MOSFETs." class="webfeedsFeaturedVisual wp-post-image" height="1890" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Mailchimp.jpg?fit=2700%2C1890" style="display: block; margin-bottom: 5px; clear: both;" width="2700" /><p>The new planar SiC devices target MV converters with low losses, high dv/dt capability, and 175°C operation.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/nomis-power-introduces-two-medium-voltage-sic-mosfets/">NoMIS Power Introduces Two Medium-Voltage SiC MOSFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>GigaDevice announces expanded density range of its GD25UF series 1.2V ultra-low power SPI NOR Flash, now from 8Mb to 256Mb. Covering applications from high-performance AI computing to low-power battery-operated devices, it enables longer battery life and miniaturization for wearables, hearables, AI ASICs, medical devices and edge AI applications.</p>
+<p>The post <a href="https://www.eetimes.com/gigadevice-expands-gd25uf-series-density-empowering-ai-computing-with-1-2v-ultra-low-power-storage/">GigaDevice Expands GD25UF Series Density Empowering AI Computing with 1.2V Ultra-Low Power Storage</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
-## [Telonic announces UK release of Siglent SMM3000X SMUs](https://www.electronicsweekly.com/news/products/test-measurement-products/telonic-announces-uk-release-of-siglent-smm3000x-smus-2026-03/)
-**Published:** Mon, 09 Mar 2026 11:17:29 +0000
+## [Embedded: congatec unveils first Arm SMARC module](https://www.electronicsweekly.com/news/products/bus-systems-sbcs/congatec-unveils-first-arm-smarc-module-2026-03/)
+**Published:** Tue, 10 Mar 2026 12:51:03 +0000
 
-<p>Telonic Instruments, the official UK representative of Siglent Technologies, is announcing the UK release of the Siglent SMM3000X series of Source/Measure Units (SMUs). They target engineers working in semiconductor device ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/test-measurement-products/telonic-announces-uk-release-of-siglent-smm3000x-smus-2026-03/">Telonic announces UK release of Siglent SMM3000X SMUs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [January semi sales up 46% y-o-y, says SIA](https://www.electronicsweekly.com/news/business/january-semi-sales-up-46-says-sia-2026-03/)
-**Published:** Mon, 09 Mar 2026 06:26:40 +0000
-
-<p>January semiconductor sales of $82.5bn were up 3.7% on December’s $79.6bn and up 46.1% on the $56.5bn sales in January 2025, says the SIA. “Following the semiconductor industry’s highest-ever sales ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/january-semi-sales-up-46-says-sia-2026-03/">January semi sales up 46% y-o-y, says SIA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>At Embedded World, congatec announced its first Arm-based CoM (computer on module) based on NXP Semiconductor&#8217;s i.MX95 processor. The conga-SMX95 is the first Arm-based module in congatec&#8217;s aReady.CoM range, which ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/bus-systems-sbcs/congatec-unveils-first-arm-smarc-module-2026-03/">Embedded: congatec unveils first Arm SMARC module</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Schoolchildren explore space](https://www.electronicsweekly.com/news/design/stem/schoolchildren-explore-space-2026-03/)
-**Published:** Mon, 09 Mar 2026 06:15:24 +0000
+## [Arrow and NXP supporting customers preparing for EU Cyber Resiliency Acy](https://www.electronicsweekly.com/news/business/arrow-and-nxp-supporting-customers-preparing-for-eu-cyber-resiliency-acy-2026-03/)
+**Published:** Tue, 10 Mar 2026 06:14:15 +0000
 
-<p>A north-east school has partnered with solar and space physics experts from Northumbria University for a project supported by a Royal Society Partnership Grant, which aims to bring academic research ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/design/stem/schoolchildren-explore-space-2026-03/">Schoolchildren explore space</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Enterprise Power For AI Systems Is The Next Major Frontier?](https://www.electronicsforu.com/electronics-startups/enterprise-power-for-ai-systems-is-the-next-major-frontier)
-**Published:** Mon, 09 Mar 2026 12:08:20 +0000
-
-<img alt="Enterprise Power For AI Systems Is The Next Major Frontier?" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Screenshot-2025-01-27-at-4-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />To set new reliability standards for data centres worldwide, a semiconductor startup is redefining AI power delivery, optimising voltage conversion and efficiency at unprecedented scales. A Bengaluru-based start-up, C2i, is developing semiconductor solutions for artificial intelligence (AI) infrastructure, targeting one of the sector’s toughest challenges: efficient power delivery for hyperscale data centres and graphics processing [&#8230;]
-
----
-
-## [JOB: Analog Layout Engineer At Accenture In Bengaluru](https://www.electronicsforu.com/career/analog-layout-engineer-accenture-bengaluru)
-**Published:** Mon, 09 Mar 2026 07:44:59 +0000
-
-<img alt="JOB: Analog Layout Engineer At Accenture In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/06/accenture-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Accenture Project Role Description: Design the physical layout of analog circuits, ensuring proper component placement and routing for optimal performance. Address parasitic effects, signal integrity, and power distribution to meet design specifications. Collaborate to ensure the layout meets functional, electrical, and manufacturing requirements. Assistant Engineer Role and Responsibilities: Execution of Standard [&#8230;]
-
----
-
-## [Integrated EV Drive For Higher Power Density](https://www.electronicsforu.com/news/integrated-ev-drive-for-higher-power-density)
-**Published:** Mon, 09 Mar 2026 07:32:45 +0000
-
-<img alt="Integrated EV Drive For Higher Power Density" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/image001EHXM-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Integrating the motor and inverter into a compact assembly can help electric vehicles achieve higher efficiency while simplifying powertrain architecture. The Ministry of Electronics and Information Technology (MeitY) has introduced a 30 kW integrated drive system designed to support more efficient electric vehicle powertrains while strengthening domestic capabilities in advanced power electronics. The system was [&#8230;]
+<p>Arrow Electronics is collaborating with NXP Semiconductors to support customers preparing for the EU Cyber Resilience Act (CRA), which sets mandatory essential cybersecurity requirements for products with digital elements sold ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/arrow-and-nxp-supporting-customers-preparing-for-eu-cyber-resiliency-acy-2026-03/">Arrow and NXP supporting customers preparing for EU Cyber Resiliency Acy</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
