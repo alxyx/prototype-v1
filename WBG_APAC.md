@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-10 16:14 UTC_
+_Last updated: 2026-03-10 19:51 UTC_
 
 ## [AW 2026 Concludes on Strong, Puts Highlight on Physical AI and Humanoids](https://www.eetasia.com/aw-2026-concludes-on-strong-puts-highlight-on-physical-ai-and-humanoids/)
 **Published:** Tue, 10 Mar 2026 09:03:18 +0000
