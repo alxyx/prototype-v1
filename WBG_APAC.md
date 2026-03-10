@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-09 21:47 UTC_
+_Last updated: 2026-03-10 02:15 UTC_
 
 ## [Arrow Electronics and Infineon Collaborate on Reference Design for Motor Control Applications](https://www.eetasia.com/arrow-electronics-and-infineon-collaborate-on-reference-design-for-motor-control-applications/)
 **Published:** Mon, 09 Mar 2026 06:36:08 +0000
@@ -15,6 +15,46 @@ _Last updated: 2026-03-09 21:47 UTC_
 
 <p>TI connects NVIDIA physical AI compute to real-world applications with deterministic control, sensing, power and safety at every subsystem.</p>
 <p>The post <a href="https://www.eetasia.com/ti-partners-with-nvidia-to-accelerate-next-gen-physical-ai/">TI Partners with NVIDIA to Accelerate Next-gen Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Nearfield Instruments Introduces Sidewall Imaging Mode for Advanced 3D Semiconductor Metrology](https://www.semiconductor-digest.com/nearfield-instruments-introduces-sidewall-imaging-mode-for-advanced-3d-semiconductor-metrology/?utm_source=rss&utm_medium=rss&utm_campaign=nearfield-instruments-introduces-sidewall-imaging-mode-for-advanced-3d-semiconductor-metrology)
+**Published:** Tue, 10 Mar 2026 01:34:58 +0000
+
+<p>Real-time, non-destructive 3D process control drives innovation in energy-efficient AI chip manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nearfield-instruments-introduces-sidewall-imaging-mode-for-advanced-3d-semiconductor-metrology/">Nearfield Instruments Introduces Sidewall Imaging Mode for Advanced 3D Semiconductor Metrology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Sydney Researchers Build Ultra-Compact AI Chip Operating at Speed of Light](https://www.semiconductor-digest.com/sydney-researchers-build-ultra-compact-ai-chip-operating-at-speed-of-light/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-researchers-build-ultra-compact-ai-chip-operating-at-speed-of-light)
+**Published:** Tue, 10 Mar 2026 01:32:01 +0000
+
+<p>Australian researchers have built an ultra-compact artificial intelligence (AI) chip that is able to make calculations using the power of light, at the speed of light.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sydney-researchers-build-ultra-compact-ai-chip-operating-at-speed-of-light/">Sydney Researchers Build Ultra-Compact AI Chip Operating at Speed of Light</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ScaleBridge Labs and Silicon Catalyst Launch National Initiative to Accelerate Semiconductor Innovation for the Defense Industry](https://www.semiconductor-digest.com/scalebridge-labs-and-silicon-catalyst-launch-national-initiative-to-accelerate-semiconductor-innovation-for-the-defense-industry/?utm_source=rss&utm_medium=rss&utm_campaign=scalebridge-labs-and-silicon-catalyst-launch-national-initiative-to-accelerate-semiconductor-innovation-for-the-defense-industry)
+**Published:** Tue, 10 Mar 2026 01:28:34 +0000
+
+<p>Collaboration to enable dual-use semiconductor startups to access government markets and scale technologies vital to U.S. national security.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/scalebridge-labs-and-silicon-catalyst-launch-national-initiative-to-accelerate-semiconductor-innovation-for-the-defense-industry/">ScaleBridge Labs and Silicon Catalyst Launch National Initiative to Accelerate Semiconductor Innovation for the Defense Industry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [MEMS & Sensors Executive Congress 2026 to Explore MEMS and Sensors at the Edge of Perception](https://www.semiconductor-digest.com/mems-sensors-executive-congress-2026-to-explore-mems-and-sensors-at-the-edge-of-perception/?utm_source=rss&utm_medium=rss&utm_campaign=mems-sensors-executive-congress-2026-to-explore-mems-and-sensors-at-the-edge-of-perception)
+**Published:** Tue, 10 Mar 2026 01:25:40 +0000
+
+<p>The conference will spotlight emerging sensor opportunities across automotive, industrial, consumer, aerospace, healthcare, and intelligent systems markets.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/mems-sensors-executive-congress-2026-to-explore-mems-and-sensors-at-the-edge-of-perception/">MEMS &#038; Sensors Executive Congress 2026 to Explore MEMS and Sensors at the Edge of Perception</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [STMicroelectronics Enters High-Volume Production of its Silicon Photonics Platform](https://www.semiconductor-digest.com/stmicroelectronics-enters-high-volume-production-of-its-silicon-photonics-platform/?utm_source=rss&utm_medium=rss&utm_campaign=stmicroelectronics-enters-high-volume-production-of-its-silicon-photonics-platform)
+**Published:** Tue, 10 Mar 2026 01:22:08 +0000
+
+<p>STMicroelectronics is now entering high-volume production for its silicon photonics-based PIC100 platform used by hyperscalers for optical interconnect for data centers and AI clusters.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/stmicroelectronics-enters-high-volume-production-of-its-silicon-photonics-platform/">STMicroelectronics Enters High-Volume Production of its Silicon Photonics Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -776,46 +816,6 @@ _Last updated: 2026-03-09 21:47 UTC_
 
 <p>Imec and its ecosystem partners are pushing the boundaries of High NA EUV lithography and patterning.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/the-case-for-high-na-euv-unlocking-the-next-era-of-chip-manufacturing/">The Case for High NA EUV: Unlocking the Next Era of Chip Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Dassault Systèmes and NVIDIA Partner to Build Industrial AI Platform](https://www.semiconductor-digest.com/dassault-systemes-and-nvidia-partner-to-build-industrial-ai-platform/?utm_source=rss&utm_medium=rss&utm_campaign=dassault-systemes-and-nvidia-partner-to-build-industrial-ai-platform)
-**Published:** Tue, 03 Feb 2026 23:00:53 +0000
-
-<p>Dassault Systèmes and NVIDIA today announced a long-term strategic partnership to establish a shared industrial architecture for mission-critical artificial intelligence across industries.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/dassault-systemes-and-nvidia-partner-to-build-industrial-ai-platform/">Dassault Systèmes and NVIDIA Partner to Build Industrial AI Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Archer Develops Early Biochip Prototype](https://www.semiconductor-digest.com/archer-develops-early-biochip-prototype/?utm_source=rss&utm_medium=rss&utm_campaign=archer-develops-early-biochip-prototype)
-**Published:** Tue, 03 Feb 2026 22:49:49 +0000
-
-<p>This milestone represents the first major step in translating Archer’s Biochip technology from individual laboratory devices into a product suitable for clinical workflows and, ultimately, point of care and at-home potassium monitoring.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/archer-develops-early-biochip-prototype/">Archer Develops Early Biochip Prototype</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Northrop Grumman Awarded Contracting Tool to Accelerate American-Made Microelectronics into Military Systems](https://www.semiconductor-digest.com/northrop-grumman-awarded-contracting-tool-to-accelerate-american-made-microelectronics-into-military-systems/?utm_source=rss&utm_medium=rss&utm_campaign=northrop-grumman-awarded-contracting-tool-to-accelerate-american-made-microelectronics-into-military-systems)
-**Published:** Tue, 03 Feb 2026 22:42:10 +0000
-
-<p>The company is ready to deliver advanced semiconductor solutions over a ten-year period.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/northrop-grumman-awarded-contracting-tool-to-accelerate-american-made-microelectronics-into-military-systems/">Northrop Grumman Awarded Contracting Tool to Accelerate American-Made Microelectronics into Military Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter](https://www.semiconductor-digest.com/aaf-international-unveils-industry-first-scannable-high-performance-high-flow-hepa-air-filter/?utm_source=rss&utm_medium=rss&utm_campaign=aaf-international-unveils-industry-first-scannable-high-performance-high-flow-hepa-air-filter)
-**Published:** Tue, 03 Feb 2026 22:01:43 +0000
-
-<p>All-new MEGAcel I High Flow (HF) offers V-Bank Filter Performance with scanning capability, lower installation and maintenance costs, and high strength.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/aaf-international-unveils-industry-first-scannable-high-performance-high-flow-hepa-air-filter/">AAF International Unveils Industry-First Scannable, High-Performance, High-Flow HEPA Air Filter</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Real-Time View Inside Microreactor Reveals 2D Semiconductor Growth Secrets](https://www.semiconductor-digest.com/real-time-view-inside-microreactor-reveals-2d-semiconductor-growth-secrets/?utm_source=rss&utm_medium=rss&utm_campaign=real-time-view-inside-microreactor-reveals-2d-semiconductor-growth-secrets)
-**Published:** Mon, 02 Feb 2026 22:21:01 +0000
-
-<p>Researchers directly observe how molten precursor droplets drive the atomic-scale growth of ultra-thin semiconductor crystals.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/real-time-view-inside-microreactor-reveals-2d-semiconductor-growth-secrets/">Real-Time View Inside Microreactor Reveals 2D Semiconductor Growth Secrets</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
