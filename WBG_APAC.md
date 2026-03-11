@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-11 13:15 UTC_
+_Last updated: 2026-03-11 14:59 UTC_
 
 ## [IBM and Lam Research Collaborating to Advance Sub-1nm Logic Scaling](https://www.eetasia.com/ibm-and-lam-research-collaborating-to-advance-sub-1nm-logic-scaling/)
 **Published:** Wed, 11 Mar 2026 02:40:28 +0000
@@ -936,14 +936,6 @@ _Last updated: 2026-03-11 13:15 UTC_
 
 <p>GigaDevice announces expanded density range of its GD25UF series 1.2V ultra-low power SPI NOR Flash, now from 8Mb to 256Mb. Covering applications from high-performance AI computing to low-power battery-operated devices, it enables longer battery life and miniaturization for wearables, hearables, AI ASICs, medical devices and edge AI applications.</p>
 <p>The post <a href="https://www.eetimes.com/gigadevice-expands-gd25uf-series-density-empowering-ai-computing-with-1-2v-ultra-low-power-storage/">GigaDevice Expands GD25UF Series Density Empowering AI Computing with 1.2V Ultra-Low Power Storage</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Embedded: congatec unveils first Arm SMARC module](https://www.electronicsweekly.com/news/products/bus-systems-sbcs/congatec-unveils-first-arm-smarc-module-2026-03/)
-**Published:** Tue, 10 Mar 2026 12:51:03 +0000
-
-<p>At Embedded World, congatec announced its first Arm-based CoM (computer on module) based on NXP Semiconductor&#8217;s i.MX95 processor. The conga-SMX95 is the first Arm-based module in congatec&#8217;s aReady.CoM range, which ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/bus-systems-sbcs/congatec-unveils-first-arm-smarc-module-2026-03/">Embedded: congatec unveils first Arm SMARC module</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
