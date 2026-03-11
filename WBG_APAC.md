@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-11 14:59 UTC_
+_Last updated: 2026-03-11 19:08 UTC_
 
 ## [IBM and Lam Research Collaborating to Advance Sub-1nm Logic Scaling](https://www.eetasia.com/ibm-and-lam-research-collaborating-to-advance-sub-1nm-logic-scaling/)
 **Published:** Wed, 11 Mar 2026 02:40:28 +0000
