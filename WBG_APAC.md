@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-10 19:51 UTC_
+_Last updated: 2026-03-11 06:03 UTC_
+
+## [IBM and Lam Research Collaborating to Advance Sub-1nm Logic Scaling](https://www.eetasia.com/ibm-and-lam-research-collaborating-to-advance-sub-1nm-logic-scaling/)
+**Published:** Wed, 11 Mar 2026 02:40:28 +0000
+
+<p>IBM and Lam Research have signed a new five-year agreement aimed at advancing logic semiconductor manufacturing to the sub-1nm node.</p>
+<p>The post <a href="https://www.eetasia.com/ibm-and-lam-research-collaborating-to-advance-sub-1nm-logic-scaling/">IBM and Lam Research Collaborating to Advance Sub-1nm Logic Scaling</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [AW 2026 Concludes on Strong, Puts Highlight on Physical AI and Humanoids](https://www.eetasia.com/aw-2026-concludes-on-strong-puts-highlight-on-physical-ai-and-humanoids/)
 **Published:** Tue, 10 Mar 2026 09:03:18 +0000
@@ -42,11 +50,19 @@ _Last updated: 2026-03-10 19:51 UTC_
 
 ---
 
-## [TI Partners with NVIDIA to Accelerate Next-gen Physical AI](https://www.eetasia.com/ti-partners-with-nvidia-to-accelerate-next-gen-physical-ai/)
-**Published:** Mon, 09 Mar 2026 03:21:29 +0000
+## [IBM and Lam Research Announce Collaboration to Advance Sub-1nm Logic Scaling](https://www.semiconductor-digest.com/ibm-and-lam-research-announce-collaboration-to-advance-sub-1nm-logic-scaling/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-and-lam-research-announce-collaboration-to-advance-sub-1nm-logic-scaling)
+**Published:** Wed, 11 Mar 2026 00:59:29 +0000
 
-<p>TI connects NVIDIA physical AI compute to real-world applications with deterministic control, sensing, power and safety at every subsystem.</p>
-<p>The post <a href="https://www.eetasia.com/ti-partners-with-nvidia-to-accelerate-next-gen-physical-ai/">TI Partners with NVIDIA to Accelerate Next-gen Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Agreement includes development of novel materials, advanced processes, and High-NA EUV lithography techniques to enable future logic nodes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ibm-and-lam-research-announce-collaboration-to-advance-sub-1nm-logic-scaling/">IBM and Lam Research Announce Collaboration to Advance Sub-1nm Logic Scaling</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Applied Materials and Micron Partner To Advance U.S. Innovation in Next-Generation AI Memory Solutions](https://www.semiconductor-digest.com/applied-materials-and-micron-partner-to-advance-u-s-innovation-in-next-generation-ai-memory-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-and-micron-partner-to-advance-u-s-innovation-in-next-generation-ai-memory-solutions)
+**Published:** Wed, 11 Mar 2026 00:43:14 +0000
+
+<p>Companies to work together at Applied’s EPIC Center in Silicon Valley to accelerate development of advanced DRAM, high-bandwidth memory and NAND storage for future AI applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-and-micron-partner-to-advance-u-s-innovation-in-next-generation-ai-memory-solutions/">Applied Materials and Micron Partner To Advance U.S. Innovation in Next-Generation AI Memory Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -835,22 +851,6 @@ _Last updated: 2026-03-10 19:51 UTC_
 
 ---
 
-## [Lam Research Announces Leadership Transitions](https://www.semiconductor-digest.com/lam-research-announces-leadership-transitions/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-announces-leadership-transitions)
-**Published:** Wed, 04 Feb 2026 21:25:45 +0000
-
-<p>Lam Research Corp. today announced it is elevating the roles of two proven leaders as the company enters its next phase of growth.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lam-research-announces-leadership-transitions/">Lam Research Announces Leadership Transitions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The Case for High NA EUV: Unlocking the Next Era of Chip Manufacturing](https://www.semiconductor-digest.com/the-case-for-high-na-euv-unlocking-the-next-era-of-chip-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=the-case-for-high-na-euv-unlocking-the-next-era-of-chip-manufacturing)
-**Published:** Wed, 04 Feb 2026 14:33:12 +0000
-
-<p>Imec and its ecosystem partners are pushing the boundaries of High NA EUV lithography and patterning.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-case-for-high-na-euv-unlocking-the-next-era-of-chip-manufacturing/">The Case for High NA EUV: Unlocking the Next Era of Chip Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [ST Releases ML-Based Motor Control Software Pack](https://www.powerelectronicsnews.com/st-releases-ml-based-motor-control-software-pack/)
 **Published:** Tue, 10 Mar 2026 15:00:00 +0000
 
@@ -952,6 +952,13 @@ _Last updated: 2026-03-10 19:51 UTC_
 
 <p>Arrow Electronics is collaborating with NXP Semiconductors to support customers preparing for the EU Cyber Resilience Act (CRA), which sets mandatory essential cybersecurity requirements for products with digital elements sold ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/arrow-and-nxp-supporting-customers-preparing-for-eu-cyber-resiliency-acy-2026-03/">Arrow and NXP supporting customers preparing for EU Cyber Resiliency Acy</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Power Devices For High Current Designs](https://www.electronicsforu.com/news/power-devices-for-high-current-designs)
+**Published:** Wed, 11 Mar 2026 05:58:43 +0000
+
+<img alt="Power Devices For High Current Designs" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/unnamed-12-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Two power chips reduce power loss. They support motor drives, power supplies, and battery systems, and work in surface-mount and through-hole designs. iDEAL Semiconductor has expanded its SuperQ 200V MOSFET portfolio with two new devices designed for widely used power packages. The additions target applications such as motor drives, switched-mode power supplies, and other high-current [&#8230;]
 
 ---
 
