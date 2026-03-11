@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-11 07:09 UTC_
+_Last updated: 2026-03-11 11:47 UTC_
 
 ## [IBM and Lam Research Collaborating to Advance Sub-1nm Logic Scaling](https://www.eetasia.com/ibm-and-lam-research-collaborating-to-advance-sub-1nm-logic-scaling/)
 **Published:** Wed, 11 Mar 2026 02:40:28 +0000
@@ -947,10 +947,10 @@ _Last updated: 2026-03-11 07:09 UTC_
 
 ---
 
-## [Power Devices For High Current Designs](https://www.electronicsforu.com/news/power-devices-for-high-current-designs)
-**Published:** Wed, 11 Mar 2026 05:58:43 +0000
+## [JOB: Digital Design Engineer At Texas Instruments In Bengaluru](https://www.electronicsforu.com/career/digital-design-engineer-texas-instruments)
+**Published:** Wed, 11 Mar 2026 08:55:00 +0000
 
-<img alt="Power Devices For High Current Designs" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/unnamed-12-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Two power chips reduce power loss. They support motor drives, power supplies, and battery systems, and work in surface-mount and through-hole designs. iDEAL Semiconductor has expanded its SuperQ 200V MOSFET portfolio with two new devices designed for widely used power packages. The additions target applications such as motor drives, switched-mode power supplies, and other high-current [&#8230;]
+<img alt="JOB: Digital Design Engineer At Texas Instruments In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/06/Texas-Instruments-logo-infront-of-office-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Texas Instruments Are you looking for a career at one of the leading semiconductor companies in the world. Texas Instruments (TI) is looking for a&#160;Digital Design Engineer&#160;to join the team of enthusiastic engineers who develops highly complex mixed signal devices for audio applications with industry leading performance. These audio products [&#8230;]
 
 ---
 
