@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-11 11:47 UTC_
+_Last updated: 2026-03-11 13:15 UTC_
 
 ## [IBM and Lam Research Collaborating to Advance Sub-1nm Logic Scaling](https://www.eetasia.com/ibm-and-lam-research-collaborating-to-advance-sub-1nm-logic-scaling/)
 **Published:** Wed, 11 Mar 2026 02:40:28 +0000
@@ -851,6 +851,22 @@ _Last updated: 2026-03-11 11:47 UTC_
 
 ---
 
+## [Wolfspeed Explores 300 mm SiC Platform for AI Packaging](https://www.powerelectronicsnews.com/wolfspeed-explores-300-mm-sic-platform-for-ai-packaging/)
+**Published:** Wed, 11 Mar 2026 13:10:26 +0000
+
+<img alt="Wolfspeed Explores 300 mm SiC Platform for AI Packaging." class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/300mm-AI-PR-Fig1.png?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The 300 mm silicon carbide wafers have been evaluated as materials platform for advanced AI and HPC packaging.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-explores-300-mm-sic-platform-for-ai-packaging/">Wolfspeed Explores 300 mm SiC Platform for AI Packaging</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Current Source Inverter for Wound Field Synchronous Motor Drives](https://www.powerelectronicsnews.com/current-source-inverter-for-wound-field-synchronous-motor-drives/)
+**Published:** Wed, 11 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5400" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_625725476.jpeg?fit=7300%2C5400" style="display: block; margin-bottom: 5px; clear: both;" width="7300" /><p>A current source inverter (CSI) provides some key advantages over conventional voltage source inverters in medium and high-speed motor drive applications. A wound-field synchronous motor...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/current-source-inverter-for-wound-field-synchronous-motor-drives/">Current Source Inverter for Wound Field Synchronous Motor Drives</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [ST Releases ML-Based Motor Control Software Pack](https://www.powerelectronicsnews.com/st-releases-ml-based-motor-control-software-pack/)
 **Published:** Tue, 10 Mar 2026 15:00:00 +0000
 
@@ -912,22 +928,6 @@ _Last updated: 2026-03-11 11:47 UTC_
 
 <img alt="Wolfspeed Unveils 10 kV SiC Power MOSFET." class="webfeedsFeaturedVisual wp-post-image" height="711" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/CPM3-10000-0300A-PR.png?fit=1000%2C711" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The new 10 kV SiC power MOSFET targets medium-voltage converters, grid infrastructure, and pulsed-power systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-unveils-10-kv-sic-power-mosfet/">Wolfspeed Unveils 10 kV SiC Power MOSFET</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Infineon Launches CoolGaN Drive 600V G5 Integrated Half-Bridge](https://www.powerelectronicsnews.com/infineon-launches-coolgan-drive-600v-g5-integrated-half-bridge/)
-**Published:** Thu, 05 Mar 2026 15:00:00 +0000
-
-<img alt="nfineon Launches CoolGaN Drive HB 600 V G5 Integrated Half-Bridge." class="webfeedsFeaturedVisual wp-post-image" height="1276" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/coolgan-drive-650-v-g5-tflga-27-2.jpg?fit=2126%2C1276" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The 600 V GaN half-bridge features integrated drivers that reduce the component count and simplify the layout.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-launches-coolgan-drive-600v-g5-integrated-half-bridge/">Infineon Launches CoolGaN Drive 600V G5 Integrated Half-Bridge</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ROHM Integrates TSMC GaN Process for In-House Production](https://www.powerelectronicsnews.com/rohm-integrates-tsmc-gan-process-for-in-house-production/)
-**Published:** Thu, 05 Mar 2026 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1093357651.jpeg?fit=9294%2C5685" style="display: block; margin-bottom: 5px; clear: both;" width="9294" /><p>The technology transfer to ROHM's Hamamatsu fab targets strong GaN supply for AI servers and EV power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/rohm-integrates-tsmc-gan-process-for-in-house-production/">ROHM Integrates TSMC GaN Process for In-House Production</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
