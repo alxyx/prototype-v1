@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-11 06:03 UTC_
+_Last updated: 2026-03-11 07:09 UTC_
 
 ## [IBM and Lam Research Collaborating to Advance Sub-1nm Logic Scaling](https://www.eetasia.com/ibm-and-lam-research-collaborating-to-advance-sub-1nm-logic-scaling/)
 **Published:** Wed, 11 Mar 2026 02:40:28 +0000
@@ -944,14 +944,6 @@ _Last updated: 2026-03-11 06:03 UTC_
 
 <p>At Embedded World, congatec announced its first Arm-based CoM (computer on module) based on NXP Semiconductor&#8217;s i.MX95 processor. The conga-SMX95 is the first Arm-based module in congatec&#8217;s aReady.CoM range, which ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/products/bus-systems-sbcs/congatec-unveils-first-arm-smarc-module-2026-03/">Embedded: congatec unveils first Arm SMARC module</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Arrow and NXP supporting customers preparing for EU Cyber Resiliency Acy](https://www.electronicsweekly.com/news/business/arrow-and-nxp-supporting-customers-preparing-for-eu-cyber-resiliency-acy-2026-03/)
-**Published:** Tue, 10 Mar 2026 06:14:15 +0000
-
-<p>Arrow Electronics is collaborating with NXP Semiconductors to support customers preparing for the EU Cyber Resilience Act (CRA), which sets mandatory essential cybersecurity requirements for products with digital elements sold ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/arrow-and-nxp-supporting-customers-preparing-for-eu-cyber-resiliency-acy-2026-03/">Arrow and NXP supporting customers preparing for EU Cyber Resiliency Acy</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
