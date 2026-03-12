@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-12 02:23 UTC_
+_Last updated: 2026-03-12 05:04 UTC_
+
+## [Infineon and UMC Partner to Promote Supply Chain Emissions Reductions](https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/)
+**Published:** Thu, 12 Mar 2026 02:34:02 +0000
+
+<p>Infineon and UMC will cooperate on decarbonization across their semiconductor supply chains and strengthening sustainability practices.</p>
+<p>The post <a href="https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/">Infineon and UMC Partner to Promote Supply Chain Emissions Reductions</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Wolfspeed 300mm SiC Platform to Enable Next‑Gen AI and HPC Packaging Solutions](https://www.eetasia.com/wolfspeed-300mm-sic-platform-to-enable-next%e2%80%91gen-ai-and-hpc-packaging-solutions/)
 **Published:** Thu, 12 Mar 2026 02:05:56 +0000
@@ -18,35 +26,11 @@ _Last updated: 2026-03-12 02:23 UTC_
 
 ---
 
-## [AW 2026 Concludes on Strong, Puts Highlight on Physical AI and Humanoids](https://www.eetasia.com/aw-2026-concludes-on-strong-puts-highlight-on-physical-ai-and-humanoids/)
+## [AW 2026 Concludes on Strong Note, Puts Highlight on Physical AI and Humanoids](https://www.eetasia.com/aw-2026-concludes-on-strong-puts-highlight-on-physical-ai-and-humanoids/)
 **Published:** Tue, 10 Mar 2026 09:03:18 +0000
 
 <p>AW 2026 spotlighted next-generation technologies based on physical AI and humanoid robotics, presenting both the present and future of autonomous manufacturing.</p>
-<p>The post <a href="https://www.eetasia.com/aw-2026-concludes-on-strong-puts-highlight-on-physical-ai-and-humanoids/">AW 2026 Concludes on Strong, Puts Highlight on Physical AI and Humanoids</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Wolfspeed Unveils 10kV SiC Power MOSFET](https://www.eetasia.com/wolfspeed-unveils-10kv-sic-power-mosfet/)
-**Published:** Tue, 10 Mar 2026 02:44:47 +0000
-
-<p>Wolfspeed has launched what is considered to be the industry's first commercially available 10kV SiC power MOSFET.</p>
-<p>The post <a href="https://www.eetasia.com/wolfspeed-unveils-10kv-sic-power-mosfet/">Wolfspeed Unveils 10kV SiC Power MOSFET</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Rayence Strengthens Capabilities of X-Ray Inspection Platforms with Latest Detector Series](https://www.eetasia.com/rayence-strengthens-capabilities-of-x-ray-inspection-platforms-with-latest-detector-series/)
-**Published:** Tue, 10 Mar 2026 02:38:28 +0000
-
-<p>Rayence's latest CMOS X-ray detector Flash Series is designed for semiconductor AXI systems and high-speed 3D X-ray CT inspection platforms.</p>
-<p>The post <a href="https://www.eetasia.com/rayence-strengthens-capabilities-of-x-ray-inspection-platforms-with-latest-detector-series/">Rayence Strengthens Capabilities of X-Ray Inspection Platforms with Latest Detector Series</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Nordic Semiconductor Launches Entry-level Bluetooth LE SoCs](https://www.eetasia.com/nordic-semiconductor-launches-entry-level-bluetooth-le-socs/)
-**Published:** Tue, 10 Mar 2026 02:11:48 +0000
-
-<p>Nordic Semiconductor has unveiled its new entry-level, ultra-low-power Bluetooth Low LE SoCs – the nRF54LS05A and nRF54LS05B.</p>
-<p>The post <a href="https://www.eetasia.com/nordic-semiconductor-launches-entry-level-bluetooth-le-socs/">Nordic Semiconductor Launches Entry-level Bluetooth LE SoCs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The post <a href="https://www.eetasia.com/aw-2026-concludes-on-strong-puts-highlight-on-physical-ai-and-humanoids/">AW 2026 Concludes on Strong Note, Puts Highlight on Physical AI and Humanoids</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -936,6 +920,13 @@ _Last updated: 2026-03-12 02:23 UTC_
 
 <p>GigaDevice announces expanded density range of its GD25UF series 1.2V ultra-low power SPI NOR Flash, now from 8Mb to 256Mb. Covering applications from high-performance AI computing to low-power battery-operated devices, it enables longer battery life and miniaturization for wearables, hearables, AI ASICs, medical devices and edge AI applications.</p>
 <p>The post <a href="https://www.eetimes.com/gigadevice-expands-gd25uf-series-density-empowering-ai-computing-with-1-2v-ultra-low-power-storage/">GigaDevice Expands GD25UF Series Density Empowering AI Computing with 1.2V Ultra-Low Power Storage</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Retina Inspired Biohybrid Image Sensor](https://www.electronicsforu.com/news/retina-inspired-biohybrid-image-sensor)
+**Published:** Thu, 12 Mar 2026 04:35:00 +0000
+
+<img alt="Retina Inspired Biohybrid Image Sensor" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/a-sensor-that-sees-lik-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Organic electronics and electrolyte mimic photoreceptor response for next-gen artificial vision systems. Researchers at Tor Vergata University of Rome have developed a biohybrid image sensor that mimics how the animal retina detects light, potentially advancing artificial vision technologies and neuromorphic electronics. The device, called BIOPIX, integrates organic electronics with a water-based biological electrolyte to emulate [&#8230;]
 
 ---
 
