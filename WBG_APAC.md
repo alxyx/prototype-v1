@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-12 08:55 UTC_
+_Last updated: 2026-03-12 19:55 UTC_
 
 ## [Infineon and UMC Partner to Promote Supply Chain Emissions Reductions](https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/)
 **Published:** Thu, 12 Mar 2026 02:34:02 +0000
@@ -835,6 +835,30 @@ _Last updated: 2026-03-12 08:55 UTC_
 
 ---
 
+## [Navitas Adds QDPAK and TO-247-4L for 1200 V SiC MOSFETs](https://www.powerelectronicsnews.com/navitas-adds-qdpak-and-to-247-4l-for-1200-v-sic-mosfets/)
+**Published:** Thu, 12 Mar 2026 14:00:00 +0000
+
+<img alt="Navitas Expands SiC MOSFET Packaging with QDPAK and TO-247-4L." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Navitas_PR.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new GeneSiC SiC MOSFET packages target AI data centers, grid infrastructure, and industrial electrification.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/navitas-adds-qdpak-and-to-247-4l-for-1200-v-sic-mosfets/">Navitas Adds QDPAK and TO-247-4L for 1200 V SiC MOSFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Corner: Empower Semiconductor CEO Tim Phillips on Closing the Gap Between Power and Processor](https://www.powerelectronicsnews.com/power-corner-empower-semiconductor-ceo-tim-phillips-on-closing-the-gap-between-power-and-processor/)
+**Published:** Thu, 12 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Empower-Semi.png?fit=1982%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1982" /><p>Description Empower Semiconductor CEO Tim Phillips joins Power Corner to discuss the company&#8217;s Crescendo platform—an EDN Product of the Year winner—and how it enables vertical...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-empower-semiconductor-ceo-tim-phillips-on-closing-the-gap-between-power-and-processor/">Power Corner: Empower Semiconductor CEO Tim Phillips on Closing the Gap Between Power and Processor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [iDEAL Semiconductor Introduces 200-V SuperQ MOSFETs](https://www.powerelectronicsnews.com/ideal-semiconductor-introduces-200-v-superq-mosfets/)
+**Published:** Thu, 12 Mar 2026 13:00:00 +0000
+
+<img alt="iDEAL Semiconductor Introduces 200-V SuperQ MOSFETs." class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/IdealSemiconductor.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>The new SuperQ MOSFETs, available in TOLL and TO-220 packages, target high-current motor drives and power conversion.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ideal-semiconductor-introduces-200-v-superq-mosfets/">iDEAL Semiconductor Introduces 200-V SuperQ MOSFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Wolfspeed Explores 300 mm SiC Platform for AI Packaging](https://www.powerelectronicsnews.com/wolfspeed-explores-300-mm-sic-platform-for-ai-packaging/)
 **Published:** Wed, 11 Mar 2026 13:10:26 +0000
 
@@ -891,35 +915,19 @@ _Last updated: 2026-03-12 08:55 UTC_
 
 ---
 
-## [How NVIDIA’s 800V Data Center Vision and GaN Innovation Are Re-shaping High-Density Power Delivery](https://www.powerelectronicsnews.com/how-nvidias-800v-data-center-vision-and-gan-innovation-are-re-shaping-high-density-power-delivery/)
-**Published:** Fri, 06 Mar 2026 15:00:00 +0000
+## [Embedded: Winners of the embedded award 2026](https://www.electronicsweekly.com/news/embedded-winners-of-the-embedded-award-2026-2026-03/)
+**Published:** Thu, 12 Mar 2026 11:46:26 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3584" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_800657784.jpeg?fit=5376%2C3584" style="display: block; margin-bottom: 5px; clear: both;" width="5376" /><p>A look at EPC's 6 kW 800V-to-12.5V DC/DC converter using GaN in a modular input-series, output-parallel (ISOP) LLC topology.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/how-nvidias-800v-data-center-vision-and-gan-innovation-are-re-shaping-high-density-power-delivery/">How NVIDIA’s 800V Data Center Vision and GaN Innovation Are Re-shaping High-Density Power Delivery</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Navitas, EPFL to Showcase 250 kW SST at APEC](https://www.powerelectronicsnews.com/navitas-epfl-to-showcase-250-kw-sst-at-apec/)
-**Published:** Fri, 06 Mar 2026 13:00:00 +0000
-
-<img alt="Navitas, EPFL to Showcase 250 kW Solid-State Transformer at APEC." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Navitas_EPFL.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The 250 kW solid-state transformer (SST) uses 3.3 kV and 1.2 kV SiC devices to convert 3.3 kV AC to 800 VDC for AI data centers.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/navitas-epfl-to-showcase-250-kw-sst-at-apec/">Navitas, EPFL to Showcase 250 kW SST at APEC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Ahead of the last day of Embedded World, the organisers of the exhibition and conference announced their winners of the &#8220;embedded award&#8221; for 2026 at a ceremony in Nuremberg. &#8220;The ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/embedded-winners-of-the-embedded-award-2026-2026-03/">Embedded: Winners of the embedded award 2026</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Wolfspeed Unveils 10 kV SiC Power MOSFET](https://www.powerelectronicsnews.com/wolfspeed-unveils-10-kv-sic-power-mosfet/)
-**Published:** Thu, 05 Mar 2026 21:09:03 +0000
+## [Rohm and Toshiba in talks about merging their power semi units](https://www.electronicsweekly.com/news/business/fohm-and-toshiba-in-talks-about-merging-their-power-semi-units-2026-03/)
+**Published:** Thu, 12 Mar 2026 11:17:12 +0000
 
-<img alt="Wolfspeed Unveils 10 kV SiC Power MOSFET." class="webfeedsFeaturedVisual wp-post-image" height="711" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/CPM3-10000-0300A-PR.png?fit=1000%2C711" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The new 10 kV SiC power MOSFET targets medium-voltage converters, grid infrastructure, and pulsed-power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-unveils-10-kv-sic-power-mosfet/">Wolfspeed Unveils 10 kV SiC Power MOSFET</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [GigaDevice Expands GD25UF Series Density Empowering AI Computing with 1.2V Ultra-Low Power Storage](https://www.eetimes.com/gigadevice-expands-gd25uf-series-density-empowering-ai-computing-with-1-2v-ultra-low-power-storage/)
-**Published:** Tue, 10 Mar 2026 08:00:00 +0000
-
-<p>GigaDevice announces expanded density range of its GD25UF series 1.2V ultra-low power SPI NOR Flash, now from 8Mb to 256Mb. Covering applications from high-performance AI computing to low-power battery-operated devices, it enables longer battery life and miniaturization for wearables, hearables, AI ASICs, medical devices and edge AI applications.</p>
-<p>The post <a href="https://www.eetimes.com/gigadevice-expands-gd25uf-series-density-empowering-ai-computing-with-1-2v-ultra-low-power-storage/">GigaDevice Expands GD25UF Series Density Empowering AI Computing with 1.2V Ultra-Low Power Storage</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Rohm and Toshiba are in talks to merge their power semiconductor businesses, reports the Nikkei. The report comes after last week’s news that Denso is proposing to take over Rohm. ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/fohm-and-toshiba-in-talks-about-merging-their-power-semi-units-2026-03/">Rohm and Toshiba in talks about merging their power semi units</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
