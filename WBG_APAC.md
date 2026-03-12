@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-12 05:04 UTC_
+_Last updated: 2026-03-12 08:55 UTC_
 
 ## [Infineon and UMC Partner to Promote Supply Chain Emissions Reductions](https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/)
 **Published:** Thu, 12 Mar 2026 02:34:02 +0000
@@ -923,17 +923,24 @@ _Last updated: 2026-03-12 05:04 UTC_
 
 ---
 
-## [Retina Inspired Biohybrid Image Sensor](https://www.electronicsforu.com/news/retina-inspired-biohybrid-image-sensor)
-**Published:** Thu, 12 Mar 2026 04:35:00 +0000
+## [Miniature Lasers For Portable Biosensing](https://www.electronicsforu.com/news/miniature-lasers-for-portable-biosensing)
+**Published:** Thu, 12 Mar 2026 07:59:41 +0000
 
-<img alt="Retina Inspired Biohybrid Image Sensor" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/a-sensor-that-sees-lik-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Organic electronics and electrolyte mimic photoreceptor response for next-gen artificial vision systems. Researchers at Tor Vergata University of Rome have developed a biohybrid image sensor that mimics how the animal retina detects light, potentially advancing artificial vision technologies and neuromorphic electronics. The device, called BIOPIX, integrates organic electronics with a water-based biological electrolyte to emulate [&#8230;]
+<img alt="Miniature Lasers For Portable Biosensing" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/minimal-laserteknologi-kan-ta-labbet-hem-till-dig_foto_erik-stranberg_chalmers-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Traditional plasmonic biosensors rely on bulky optical setups. A semiconductor chip packed with tiny lasers hints at a far more compact sensing architecture for portable electronics. Researchers at Chalmers University of Technology have developed a miniature laser technology that could support the development of compact biosensors capable of performing certain laboratory tests outside traditional clinical [&#8230;]
 
 ---
 
-## [JOB: Digital Design Engineer At Texas Instruments In Bengaluru](https://www.electronicsforu.com/career/digital-design-engineer-texas-instruments)
-**Published:** Wed, 11 Mar 2026 08:55:00 +0000
+## [Bluetooth SoCs For Sensors And Tags](https://www.electronicsforu.com/news/bluetooth-socs-for-sensors-and-tags)
+**Published:** Thu, 12 Mar 2026 05:51:48 +0000
 
-<img alt="JOB: Digital Design Engineer At Texas Instruments In Bengaluru" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/06/Texas-Instruments-logo-infront-of-office-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Texas Instruments Are you looking for a career at one of the leading semiconductor companies in the world. Texas Instruments (TI) is looking for a&#160;Digital Design Engineer&#160;to join the team of enthusiastic engineers who develops highly complex mixed signal devices for audio applications with industry leading performance. These audio products [&#8230;]
+<img alt="Bluetooth SoCs For Sensors And Tags" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/nRF54LS05-1-Press_release_article-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Two Bluetooth chips support sensors, tags, beacons, remotes, and PC devices. They include tools to build, update, and manage devices. Two new entry-level Bluetooth Low Energy SoCs from Nordic Semiconductor target simple wireless products such as sensors, tags, beacons, remotes, and PC peripherals. The devices — nRF54LS05A and nRF54LS05B — can work either as the [&#8230;]
+
+---
+
+## [Arm Module With OS And IoT Support](https://www.electronicsforu.com/news/arm-module-with-os-and-iot-support)
+**Published:** Thu, 12 Mar 2026 05:31:21 +0000
+
+<img alt="Arm Module With OS And IoT Support" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/unnamed-28-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An Arm computer module comes with software, OS, and IoT tools set up. This helps developers reduce setup work and build systems faster. The congatec has expanded its aReady. software building blocks to support Arm-based Computer-on-Modules. The first product in this expansion is the conga-SMX95 SMARC module, built on processors from NXP Semiconductors in the [&#8230;]
 
 ---
 
