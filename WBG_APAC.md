@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-11 19:08 UTC_
+_Last updated: 2026-03-12 02:23 UTC_
+
+## [Wolfspeed 300mm SiC Platform to Enable Next‑Gen AI and HPC Packaging Solutions](https://www.eetasia.com/wolfspeed-300mm-sic-platform-to-enable-next%e2%80%91gen-ai-and-hpc-packaging-solutions/)
+**Published:** Thu, 12 Mar 2026 02:05:56 +0000
+
+<p>Patent-pending innovations deliver scalable materials building blocks for advanced AI and high-performance computing packaging solutions.</p>
+<p>The post <a href="https://www.eetasia.com/wolfspeed-300mm-sic-platform-to-enable-next%e2%80%91gen-ai-and-hpc-packaging-solutions/">Wolfspeed 300mm SiC Platform to Enable Next‑Gen AI and HPC Packaging Solutions</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [IBM and Lam Research Collaborating to Advance Sub-1nm Logic Scaling](https://www.eetasia.com/ibm-and-lam-research-collaborating-to-advance-sub-1nm-logic-scaling/)
 **Published:** Wed, 11 Mar 2026 02:40:28 +0000
@@ -42,11 +50,75 @@ _Last updated: 2026-03-11 19:08 UTC_
 
 ---
 
-## [Arrow Electronics and Infineon Collaborate on Reference Design for Motor Control Applications](https://www.eetasia.com/arrow-electronics-and-infineon-collaborate-on-reference-design-for-motor-control-applications/)
-**Published:** Mon, 09 Mar 2026 06:36:08 +0000
+## [Global Semiconductor Sales Increase 3.7% Month-to-Month in January](https://www.semiconductor-digest.com/global-semiconductor-sales-increase-3-7-month-to-month-in-january/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-sales-increase-3-7-month-to-month-in-january)
+**Published:** Thu, 12 Mar 2026 00:54:33 +0000
 
-<p>Arrow Electronics and Infineon's REF_ARIF240GaN is a 240W USB PD 3.2 reference design for battery-powered motor control applications.</p>
-<p>The post <a href="https://www.eetasia.com/arrow-electronics-and-infineon-collaborate-on-reference-design-for-motor-control-applications/">Arrow Electronics and Infineon Collaborate on Reference Design for Motor Control Applications</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Worldwide chip sales increase 46.1% year-to-year.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-sales-increase-3-7-month-to-month-in-january/">Global Semiconductor Sales Increase 3.7% Month-to-Month in January</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI ISS Europe 2026 Opens as Leaders Convene to Navigate Geopolitics](https://www.semiconductor-digest.com/semi-iss-europe-2026-opens-as-leaders-convene-to-navigate-geopolitics/?utm_source=rss&utm_medium=rss&utm_campaign=semi-iss-europe-2026-opens-as-leaders-convene-to-navigate-geopolitics)
+**Published:** Thu, 12 Mar 2026 00:51:54 +0000
+
+<p>The SEMI Industry Strategy Symposium Europe (ISS Europe) 2026 opened in Sopot, Poland, convening top executives, industry experts, policymakers, and thought leaders at a pivotal moment for Europe’s semiconductor industry.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-iss-europe-2026-opens-as-leaders-convene-to-navigate-geopolitics/">SEMI ISS Europe 2026 Opens as Leaders Convene to Navigate Geopolitics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [A Dynamic Twist of Light’s ‘Handedness’](https://www.semiconductor-digest.com/a-dynamic-twist-of-lights-handedness/?utm_source=rss&utm_medium=rss&utm_campaign=a-dynamic-twist-of-lights-handedness)
+**Published:** Thu, 12 Mar 2026 00:48:29 +0000
+
+<p>MEMS-photonic device achieves tunable intrinsic optical chirality for new sensing, quantum tools.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/a-dynamic-twist-of-lights-handedness/">A Dynamic Twist of Light’s &#8216;Handedness&#8217;</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Ayar Labs and Wiwynn Partner to Bring Co-Packaged Optics to Rack-Scale AI Systems](https://www.semiconductor-digest.com/ayar-labs-and-wiwynn-partner-to-bring-co-packaged-optics-to-rack-scale-ai-systems/?utm_source=rss&utm_medium=rss&utm_campaign=ayar-labs-and-wiwynn-partner-to-bring-co-packaged-optics-to-rack-scale-ai-systems)
+**Published:** Thu, 12 Mar 2026 00:38:01 +0000
+
+<p>Collaboration moves CPO beyond component-level innovation and into deployable AI infrastructure for hyperscale workloads.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ayar-labs-and-wiwynn-partner-to-bring-co-packaged-optics-to-rack-scale-ai-systems/">Ayar Labs and Wiwynn Partner to Bring Co-Packaged Optics to Rack-Scale AI Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [FAMES Announces 2026 Open-Access Call for Chip Industry Stakeholders](https://www.semiconductor-digest.com/fames-announces-2026-open-access-call-for-chip-industry-stakeholders/?utm_source=rss&utm_medium=rss&utm_campaign=fames-announces-2026-open-access-call-for-chip-industry-stakeholders)
+**Published:** Thu, 12 Mar 2026 00:32:04 +0000
+
+<p>The FAMES Pilot Line today launched its second Open-Access Call for European semiconductor stakeholders to join the groundbreaking EU initiative focused on new chip architectures to boost European tech sovereignty.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/fames-announces-2026-open-access-call-for-chip-industry-stakeholders/">FAMES Announces 2026 Open-Access Call for Chip Industry Stakeholders</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Advanced Packaging International Conference Program to Feature a Presentation from NHanced Semiconductors President Robert Patti](https://www.semiconductor-digest.com/advanced-packaging-international-conference-program-to-feature-a-presentation-from-nhanced-semiconductors-president-robert-patti/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-packaging-international-conference-program-to-feature-a-presentation-from-nhanced-semiconductors-president-robert-patti)
+**Published:** Thu, 12 Mar 2026 00:15:38 +0000
+
+<p>At the first Advanced Packaging International Conference, NHanced Semiconductors president Robert Patti will present a talk entitled “Foundry 2.0: A New Foundation For Semiconductors &#038; Innovation” on April 21st  as part of a series of expert talks at the event.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/advanced-packaging-international-conference-program-to-feature-a-presentation-from-nhanced-semiconductors-president-robert-patti/">Advanced Packaging International Conference Program to Feature a Presentation from NHanced Semiconductors President Robert Patti</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032](https://www.semiconductor-digest.com/omdia-polarizer-less-oled-display-shipments-to-reach-244-million-units-by-2032/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-polarizer-less-oled-display-shipments-to-reach-244-million-units-by-2032)
+**Published:** Wed, 11 Mar 2026 20:10:25 +0000
+
+<p>New research from Omdia forecasts that global shipments of polarizer-less OLED displays will reach 244 million units by 2032. reflecting a compound annual growth rate (CAGR) of 22.7% between 2026 and 2032.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-polarizer-less-oled-display-shipments-to-reach-244-million-units-by-2032/">Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Amber Semiconductor Raises $30 Million Series C Financing](https://www.semiconductor-digest.com/amber-semiconductor-raises-30-million-series-c-financing/?utm_source=rss&utm_medium=rss&utm_campaign=amber-semiconductor-raises-30-million-series-c-financing)
+**Published:** Wed, 11 Mar 2026 20:07:54 +0000
+
+<p>Amber Semiconductor, a fabless semiconductor company pioneering the next generation power management for AI data centers, today announced the initial closing of its $30 million Series C financing round from new and existing investors.  </p>
+<p>The post <a href="https://www.semiconductor-digest.com/amber-semiconductor-raises-30-million-series-c-financing/">Amber Semiconductor Raises $30 Million Series C Financing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [CEA-Leti and NcodiN Partner to Industrialize 300mm Silicon Photonics for Bandwidth-Hungry AI Interconnects](https://www.semiconductor-digest.com/cea-leti-and-ncodin-partner-to-industrialize-300mm-silicon-photonics-for-bandwidth-hungry-ai-interconnects/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-and-ncodin-partner-to-industrialize-300mm-silicon-photonics-for-bandwidth-hungry-ai-interconnects)
+**Published:** Wed, 11 Mar 2026 19:44:04 +0000
+
+<p>CEA-Leti and NcodiN, a French deep-tech startup pioneering nanolaser-enabled photonic interconnects, today announced a strategic collaboration to industrialize NcodiN’s optical interposer technology on a 300mm integrated photonics process.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-and-ncodin-partner-to-industrialize-300mm-silicon-photonics-for-bandwidth-hungry-ai-interconnects/">CEA-Leti and NcodiN Partner to Industrialize 300mm Silicon Photonics for Bandwidth-Hungry AI Interconnects</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -776,78 +848,6 @@ _Last updated: 2026-03-11 19:08 UTC_
 
 <p>Ultra-thin crystalline silicon is an exciting material for next-generation bioelectronics, transforming rigid silicon into flexible nanomembranes while preserving superior electrical performance and CMOS compatibility.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/inu-researchers-present-roadmap-of-ultra-thin-crystalline-silicon-based-bioelectronics/">INU Researchers Present Roadmap of Ultra-Thin Crystalline Silicon-Based Bioelectronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SiTime to Acquire Renesas’ Timing Business](https://www.semiconductor-digest.com/sitime-to-acquire-renesas-timing-business/?utm_source=rss&utm_medium=rss&utm_campaign=sitime-to-acquire-renesas-timing-business)
-**Published:** Fri, 06 Feb 2026 16:48:00 +0000
-
-<p>SiTime Corporation, the Precision Timing company, and Renesas Electronics Corporation, a premier supplier of advanced semiconductors, today announced that SiTime and Renesas’ consolidated subsidiary, Renesas Electronics America Inc., have signed a definitive agreement whereby SiTime will acquire certain assets related to Renesas’ timing business.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sitime-to-acquire-renesas-timing-business/">SiTime to Acquire Renesas’ Timing Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Researchers Boost Perovskite Solar Cell Performance Via Interface Engineering](https://www.semiconductor-digest.com/researchers-boost-perovskite-solar-cell-performance-via-interface-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-boost-perovskite-solar-cell-performance-via-interface-engineering)
-**Published:** Fri, 06 Feb 2026 16:40:39 +0000
-
-<p>Researchers from the Qingdao Institute of Bioenergy and Bioprocess Technology (QIBEBT) of the Chinese Academy of Sciences, in collaboration with international partners, have engineered a thin two-dimensional perovskite phase at the buried interface of three-dimensional (3D) perovskite solar cells (PSCs) to boost device performance and operational stability.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/researchers-boost-perovskite-solar-cell-performance-via-interface-engineering/">Researchers Boost Perovskite Solar Cell Performance Via Interface Engineering</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Global Chips Market Hitting Record High Sales Figures in 2025](https://www.semiconductor-digest.com/global-chips-market-hitting-record-high-sales-figures-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=global-chips-market-hitting-record-high-sales-figures-in-2025)
-**Published:** Fri, 06 Feb 2026 15:55:20 +0000
-
-<p>The European Semiconductors Industry Association (ESIA) announced today that global semiconductor sales reached US$ 791.69 billion in 2025, which means a marked 26.1% increase on a year-on-year basis.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-chips-market-hitting-record-high-sales-figures-in-2025/">Global Chips Market Hitting Record High Sales Figures in 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Remarkable Material Could Make Electronic Devices More Efficient](https://www.semiconductor-digest.com/remarkable-material-could-make-electronic-devices-more-efficient/?utm_source=rss&utm_medium=rss&utm_campaign=remarkable-material-could-make-electronic-devices-more-efficient)
-**Published:** Thu, 05 Feb 2026 20:16:24 +0000
-
-<p>Scientists have created a new type of material that could enable common electronic devices to work faster and use less energy, a study suggests.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/remarkable-material-could-make-electronic-devices-more-efficient/">Remarkable Material Could Make Electronic Devices More Efficient</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Gelest Announces Collaboration with IBM to Test  Dry Resist EUV Lithography Precursors](https://www.semiconductor-digest.com/gelest-announces-collaboration-with-ibm-to-test-dry-resist-euv-lithography-precursors/?utm_source=rss&utm_medium=rss&utm_campaign=gelest-announces-collaboration-with-ibm-to-test-dry-resist-euv-lithography-precursors)
-**Published:** Thu, 05 Feb 2026 19:59:45 +0000
-
-<p>Collaboration will aim to support materials development and speed innovation.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/gelest-announces-collaboration-with-ibm-to-test-dry-resist-euv-lithography-precursors/">Gelest Announces Collaboration with IBM to Test  Dry Resist EUV Lithography Precursors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Practical HLS Veriﬁcation: What It Takes to Ship Silicon](https://www.semiconductor-digest.com/practical-hls-veri%ef%ac%81cation-what-it-takes-to-ship-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=practical-hls-veri%25ef%25ac%2581cation-what-it-takes-to-ship-silicon)
-**Published:** Thu, 05 Feb 2026 15:27:34 +0000
-
-<p>With the development of increasingly complex chips – such as AI accelerators – high-level synthesis (HLS) is transitioning from experimental methodology to a practical approach. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/practical-hls-veri%ef%ac%81cation-what-it-takes-to-ship-silicon/">Practical HLS Veriﬁcation: What It Takes to Ship Silicon</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Texas Instruments to Acquire Silicon Labs](https://www.semiconductor-digest.com/texas-instruments-to-acquire-silicon-labs/?utm_source=rss&utm_medium=rss&utm_campaign=texas-instruments-to-acquire-silicon-labs)
-**Published:** Wed, 04 Feb 2026 22:44:50 +0000
-
-<p>The acquisition will create a global leader in embedded wireless connectivity solutions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/texas-instruments-to-acquire-silicon-labs/">Texas Instruments to Acquire Silicon Labs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Siemens Acquires Canopus AI to Bring AI-Based Metrology to Semiconductor Manufacturing](https://www.semiconductor-digest.com/siemens-acquires-canopus-ai-to-bring-ai-based-metrology-to-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-acquires-canopus-ai-to-bring-ai-based-metrology-to-semiconductor-manufacturing)
-**Published:** Wed, 04 Feb 2026 22:38:02 +0000
-
-<p>Siemens today announced the acquisition of Canopus AI, an innovator in computational and AI-driven metrology solutions, enabling semiconductor manufacturers to achieve new levels of precision and efficiency in wafer and mask inspection processes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-acquires-canopus-ai-to-bring-ai-based-metrology-to-semiconductor-manufacturing/">Siemens Acquires Canopus AI to Bring AI-Based Metrology to Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [EV Group Highlights Hybrid and Fusion Bonding, Layer Transfer and Maskless Lithography Technologies at SEMICON Korea 2026](https://www.semiconductor-digest.com/ev-group-highlights-hybrid-and-fusion-bonding-layer-transfer-and-maskless-lithography-technologies-at-semicon-korea-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-highlights-hybrid-and-fusion-bonding-layer-transfer-and-maskless-lithography-technologies-at-semicon-korea-2026)
-**Published:** Wed, 04 Feb 2026 22:29:10 +0000
-
-<p>These solutions include EVG’s GEMINI FB production wafer bonding systems, the EVG40 D2W die-to-wafer overlay metrology system, the IR LayerRelease layer transfer technology platform and EVG’s high-throughput LITHOSCALE XT maskless exposure system.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ev-group-highlights-hybrid-and-fusion-bonding-layer-transfer-and-maskless-lithography-technologies-at-semicon-korea-2026/">EV Group Highlights Hybrid and Fusion Bonding, Layer Transfer and Maskless Lithography Technologies at SEMICON Korea 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
