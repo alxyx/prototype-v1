@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-12 19:55 UTC_
+_Last updated: 2026-03-13 02:18 UTC_
 
 ## [Infineon and UMC Partner to Promote Supply Chain Emissions Reductions](https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/)
 **Published:** Thu, 12 Mar 2026 02:34:02 +0000
@@ -912,6 +912,14 @@ _Last updated: 2026-03-12 19:55 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on PEN eBook March 2026, SiC-Based Motor Drives, and QSPICE Power Electronics Course!</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/pen-ebook-march-2026-sic-based-motor-drives-qspice-power-electronics-course-power-electronics-week-insights/">PEN eBook March 2026, SiC-Based Motor Drives, QSPICE Power Electronics Course: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [The Silicon Hegemon](https://www.eetimes.com/the-silicon-hegemon/)
+**Published:** Thu, 12 Mar 2026 22:00:00 +0000
+
+<p>Taiwan remains the semiconductor industry's stronghold in 2026, with a tech roadmap aimed at next-generation AI systems.</p>
+<p>The post <a href="https://www.eetimes.com/the-silicon-hegemon/">The Silicon Hegemon</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
