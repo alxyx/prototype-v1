@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-13 02:18 UTC_
+_Last updated: 2026-03-13 09:53 UTC_
 
 ## [Infineon and UMC Partner to Promote Supply Chain Emissions Reductions](https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/)
 **Published:** Thu, 12 Mar 2026 02:34:02 +0000
@@ -23,14 +23,6 @@ _Last updated: 2026-03-13 02:18 UTC_
 
 <p>IBM and Lam Research have signed a new five-year agreement aimed at advancing logic semiconductor manufacturing to the sub-1nm node.</p>
 <p>The post <a href="https://www.eetasia.com/ibm-and-lam-research-collaborating-to-advance-sub-1nm-logic-scaling/">IBM and Lam Research Collaborating to Advance Sub-1nm Logic Scaling</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [AW 2026 Concludes on Strong Note, Puts Highlight on Physical AI and Humanoids](https://www.eetasia.com/aw-2026-concludes-on-strong-puts-highlight-on-physical-ai-and-humanoids/)
-**Published:** Tue, 10 Mar 2026 09:03:18 +0000
-
-<p>AW 2026 spotlighted next-generation technologies based on physical AI and humanoid robotics, presenting both the present and future of autonomous manufacturing.</p>
-<p>The post <a href="https://www.eetasia.com/aw-2026-concludes-on-strong-puts-highlight-on-physical-ai-and-humanoids/">AW 2026 Concludes on Strong Note, Puts Highlight on Physical AI and Humanoids</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -923,6 +915,14 @@ _Last updated: 2026-03-13 02:18 UTC_
 
 ---
 
+## [Sheffield University to lead UK electronics design R&D push](https://www.electronicsweekly.com/news/research-news/sheffield-university-to-lead-electronics-design-rd-push-2026-03/)
+**Published:** Fri, 13 Mar 2026 06:13:37 +0000
+
+<p>The University of Sheffield is leading a £12.5 million national research centre to strengthen the UK’s ability to design electronic systems and support the UK Semiconductor Strategy. The Centre for ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/research-news/sheffield-university-to-lead-electronics-design-rd-push-2026-03/">Sheffield University to lead UK electronics design R&amp;D push</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Embedded: Winners of the embedded award 2026](https://www.electronicsweekly.com/news/embedded-winners-of-the-embedded-award-2026-2026-03/)
 **Published:** Thu, 12 Mar 2026 11:46:26 +0000
 
@@ -939,24 +939,24 @@ _Last updated: 2026-03-13 02:18 UTC_
 
 ---
 
-## [Miniature Lasers For Portable Biosensing](https://www.electronicsforu.com/news/miniature-lasers-for-portable-biosensing)
-**Published:** Thu, 12 Mar 2026 07:59:41 +0000
+## [Quantum Dots Built For Single Photon Emission](https://www.electronicsforu.com/news/quantum-dots-built-for-single-photon-emission)
+**Published:** Fri, 13 Mar 2026 06:55:54 +0000
 
-<img alt="Miniature Lasers For Portable Biosensing" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/minimal-laserteknologi-kan-ta-labbet-hem-till-dig_foto_erik-stranberg_chalmers-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Traditional plasmonic biosensors rely on bulky optical setups. A semiconductor chip packed with tiny lasers hints at a far more compact sensing architecture for portable electronics. Researchers at Chalmers University of Technology have developed a miniature laser technology that could support the development of compact biosensors capable of performing certain laboratory tests outside traditional clinical [&#8230;]
-
----
-
-## [Bluetooth SoCs For Sensors And Tags](https://www.electronicsforu.com/news/bluetooth-socs-for-sensors-and-tags)
-**Published:** Thu, 12 Mar 2026 05:51:48 +0000
-
-<img alt="Bluetooth SoCs For Sensors And Tags" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/nRF54LS05-1-Press_release_article-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Two Bluetooth chips support sensors, tags, beacons, remotes, and PC devices. They include tools to build, update, and manage devices. Two new entry-level Bluetooth Low Energy SoCs from Nordic Semiconductor target simple wireless products such as sensors, tags, beacons, remotes, and PC peripherals. The devices — nRF54LS05A and nRF54LS05B — can work either as the [&#8230;]
+<img alt="Quantum Dots Built For Single Photon Emission" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/quantum-dots-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A method to make quantum dots lets them release single photons. The approach could support quantum communication systems and photonic quantum computing. Scientists from the Gleb Wataghin Physics Institute of the State University of Campinas in Brazil developed a way to manufacture semiconductor quantum dots that emit single photons. The step could support quantum communication [&#8230;]
 
 ---
 
-## [Arm Module With OS And IoT Support](https://www.electronicsforu.com/news/arm-module-with-os-and-iot-support)
-**Published:** Thu, 12 Mar 2026 05:31:21 +0000
+## [400V DC eFuse Protection Reference Design](https://www.electronicsforu.com/electronics-projects/400v-dc-efuse-protection-reference-design)
+**Published:** Fri, 13 Mar 2026 06:24:47 +0000
 
-<img alt="Arm Module With OS And IoT Support" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/unnamed-28-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An Arm computer module comes with software, OS, and IoT tools set up. This helps developers reduce setup work and build systems faster. The congatec has expanded its aReady. software building blocks to support Arm-based Computer-on-Modules. The first product in this expansion is the conga-SMX95 SMARC module, built on processors from NXP Semiconductors in the [&#8230;]
+<img alt="400V DC eFuse Protection Reference Design" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Fig_1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A high-voltage, bidirectional electronic fuse architecture demonstrating ultra-fast fault protection, low-loss SiC switching, and isolated current monitoring for 400V DC power systems up to 40 kW. For engineers designing high-voltage power electronics, protecting DC power buses from short circuits, overloads, and inrush currents is a critical design challenge. Mechanical relays and traditional fuses often struggle [&#8230;]
+
+---
+
+## [Fitting High Power Into Smaller AI Infrastructure](https://www.electronicsforu.com/news/fitting-high-power-into-smaller-ai-infrastructure)
+**Published:** Fri, 13 Mar 2026 06:04:19 +0000
+
+<img alt="Fitting High Power Into Smaller AI Infrastructure" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/unnamed-29-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new power device design could change how power fits inside AI systems by moving heat out faster and helping engineers pack more power into smaller racks. Navitas Semiconductor has introduced two new package options for its fifth-generation GeneSiC silicon carbide power devices, aimed at improving power density and thermal performance in high-power systems. The [&#8230;]
 
 ---
 
