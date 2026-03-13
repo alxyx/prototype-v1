@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-13 17:48 UTC_
+_Last updated: 2026-03-13 18:56 UTC_
 
 ## [Infineon and UMC Partner to Promote Supply Chain Emissions Reductions](https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/)
 **Published:** Thu, 12 Mar 2026 02:34:02 +0000
@@ -23,6 +23,22 @@ _Last updated: 2026-03-13 17:48 UTC_
 
 <p>IBM and Lam Research have signed a new five-year agreement aimed at advancing logic semiconductor manufacturing to the sub-1nm node.</p>
 <p>The post <a href="https://www.eetasia.com/ibm-and-lam-research-collaborating-to-advance-sub-1nm-logic-scaling/">IBM and Lam Research Collaborating to Advance Sub-1nm Logic Scaling</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Salience Labs and Keysight Collaborate to Develop First Optical Circuit Switch Testing Environment](https://www.semiconductor-digest.com/salience-labs-and-keysight-collaborate-to-develop-first-optical-circuit-switch-testing-environment/?utm_source=rss&utm_medium=rss&utm_campaign=salience-labs-and-keysight-collaborate-to-develop-first-optical-circuit-switch-testing-environment)
+**Published:** Fri, 13 Mar 2026 18:35:32 +0000
+
+<p>Salience Labs Limited and Keysight Technologies, Inc. today announced a strategic collaboration to develop the first optical circuit switch (OCS) testing environment.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/salience-labs-and-keysight-collaborate-to-develop-first-optical-circuit-switch-testing-environment/">Salience Labs and Keysight Collaborate to Develop First Optical Circuit Switch Testing Environment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Qnity Expands Domestic Manufacturing Footprint](https://www.semiconductor-digest.com/qnity-expands-domestic-manufacturing-footprint/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-expands-domestic-manufacturing-footprint)
+**Published:** Fri, 13 Mar 2026 18:28:24 +0000
+
+<p>Qnity Electronics, Inc., a technology solutions leader across the semiconductor value chain, today celebrated the opening of its new 385,000-square-foot facility with a ribbon-cutting ceremony in Newark, Delaware.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/qnity-expands-domestic-manufacturing-footprint/">Qnity Expands Domestic Manufacturing Footprint</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -808,22 +824,6 @@ _Last updated: 2026-03-13 17:48 UTC_
 
 <p>IBM announced a global request for proposals (RFP) for the next cohort of the IBM Impact Accelerator focused on AI for transformative education and workforce development.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ibm-opens-global-rfp-for-ai-driven-solutions/">IBM Opens Global RFP for AI-Driven Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [What’s in the January/February Issue?](https://www.semiconductor-digest.com/whats-in-the-january-february-issue-5/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-january-february-issue-5)
-**Published:** Fri, 06 Feb 2026 20:40:34 +0000
-
-<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the January/February issue. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-january-february-issue-5/">What&#8217;s in the January/February Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [INU Researchers Present Roadmap of Ultra-Thin Crystalline Silicon-Based Bioelectronics](https://www.semiconductor-digest.com/inu-researchers-present-roadmap-of-ultra-thin-crystalline-silicon-based-bioelectronics/?utm_source=rss&utm_medium=rss&utm_campaign=inu-researchers-present-roadmap-of-ultra-thin-crystalline-silicon-based-bioelectronics)
-**Published:** Fri, 06 Feb 2026 17:06:57 +0000
-
-<p>Ultra-thin crystalline silicon is an exciting material for next-generation bioelectronics, transforming rigid silicon into flexible nanomembranes while preserving superior electrical performance and CMOS compatibility.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/inu-researchers-present-roadmap-of-ultra-thin-crystalline-silicon-based-bioelectronics/">INU Researchers Present Roadmap of Ultra-Thin Crystalline Silicon-Based Bioelectronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
