@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-13 18:56 UTC_
+_Last updated: 2026-03-13 21:49 UTC_
 
 ## [Infineon and UMC Partner to Promote Supply Chain Emissions Reductions](https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/)
 **Published:** Thu, 12 Mar 2026 02:34:02 +0000
@@ -23,6 +23,30 @@ _Last updated: 2026-03-13 18:56 UTC_
 
 <p>IBM and Lam Research have signed a new five-year agreement aimed at advancing logic semiconductor manufacturing to the sub-1nm node.</p>
 <p>The post <a href="https://www.eetasia.com/ibm-and-lam-research-collaborating-to-advance-sub-1nm-logic-scaling/">IBM and Lam Research Collaborating to Advance Sub-1nm Logic Scaling</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Axcelis Announces CFO Transition](https://www.semiconductor-digest.com/axcelis-announces-cfo-transition/?utm_source=rss&utm_medium=rss&utm_campaign=axcelis-announces-cfo-transition)
+**Published:** Fri, 13 Mar 2026 20:26:45 +0000
+
+<p>Axcelis Technologies, Inc. today announced that David Ryzhik, Senior Vice President of Investor Relations and Corporate Strategy, has been appointed Interim Chief Financial Officer, effective March 12.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/axcelis-announces-cfo-transition/">Axcelis Announces CFO Transition</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [New Tools and Techniques Accelerate Gallium Oxide as Next-Generation Power Semiconductor](https://www.semiconductor-digest.com/new-tools-and-techniques-accelerate-gallium-oxide-as-next-generation-power-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=new-tools-and-techniques-accelerate-gallium-oxide-as-next-generation-power-semiconductor)
+**Published:** Fri, 13 Mar 2026 20:18:37 +0000
+
+<p>Researchers at Nagoya University present six advances in gallium oxide thin-film growth, including a world-first result growing the material on low-cost silicon substrates.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-tools-and-techniques-accelerate-gallium-oxide-as-next-generation-power-semiconductor/">New Tools and Techniques Accelerate Gallium Oxide as Next-Generation Power Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Avicena Launches the World’s First microLED Optical Interconnect Evaluation Kit](https://www.semiconductor-digest.com/avicena-launches-the-worlds-first-microled-optical-interconnect-evaluation-kit/?utm_source=rss&utm_medium=rss&utm_campaign=avicena-launches-the-worlds-first-microled-optical-interconnect-evaluation-kit)
+**Published:** Fri, 13 Mar 2026 18:52:37 +0000
+
+<p>Avicena, the pioneer in microLED-based optical interconnects, today announced the LightBundle.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/avicena-launches-the-worlds-first-microled-optical-interconnect-evaluation-kit/">Avicena Launches the World’s First microLED Optical Interconnect Evaluation Kit</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -800,30 +824,6 @@ _Last updated: 2026-03-13 18:56 UTC_
 
 <p>Monolithic Power Systems, Inc., a fabless global company that provides high-performance, semiconductor-based power electronics solutions, today announced that Bernie Blegen will retire from his position as Executive Vice President and CFO.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/monolithic-power-systems-announces-cfo-transition/">Monolithic Power Systems Announces CFO Transition</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Tower Semiconductor Teams with NVIDIA to Advance AI Infrastructure](https://www.semiconductor-digest.com/tower-semiconductor-teams-with-nvidia-to-advance-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-teams-with-nvidia-to-advance-ai-infrastructure)
-**Published:** Mon, 09 Feb 2026 22:22:50 +0000
-
-<p>Tower Semiconductor today announced it is scaling AI infrastructure deployments with high performance silicon photonics for 1.6T data center optical modules designed for NVIDIA networking protocols.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-teams-with-nvidia-to-advance-ai-infrastructure/">Tower Semiconductor Teams with NVIDIA to Advance AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [How Ultra-Thin Metal Films Learned to Follow the Curve](https://www.semiconductor-digest.com/how-ultra-thin-metal-films-learned-to-follow-the-curve/?utm_source=rss&utm_medium=rss&utm_campaign=how-ultra-thin-metal-films-learned-to-follow-the-curve)
-**Published:** Mon, 09 Feb 2026 22:14:18 +0000
-
-<p>From curved displays to smart glasses, many next-generation optoelectronic devices are moving beyond flat surfaces. But one key component has struggled to follow: transparent conducting films.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/how-ultra-thin-metal-films-learned-to-follow-the-curve/">How Ultra-Thin Metal Films Learned to Follow the Curve</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IBM Opens Global RFP for AI-Driven Solutions](https://www.semiconductor-digest.com/ibm-opens-global-rfp-for-ai-driven-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-opens-global-rfp-for-ai-driven-solutions)
-**Published:** Mon, 09 Feb 2026 22:10:53 +0000
-
-<p>IBM announced a global request for proposals (RFP) for the next cohort of the IBM Impact Accelerator focused on AI for transformative education and workforce development.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ibm-opens-global-rfp-for-ai-driven-solutions/">IBM Opens Global RFP for AI-Driven Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
