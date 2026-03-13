@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-13 11:45 UTC_
+_Last updated: 2026-03-13 17:48 UTC_
 
 ## [Infineon and UMC Partner to Promote Supply Chain Emissions Reductions](https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/)
 **Published:** Thu, 12 Mar 2026 02:34:02 +0000
@@ -827,6 +827,30 @@ _Last updated: 2026-03-13 11:45 UTC_
 
 ---
 
+## [Panasonic Introduces FineX Transparent EMI Shielding Film](https://www.powerelectronicsnews.com/panasonic-introduces-finex-transparent-emi-shielding-film/)
+**Published:** Fri, 13 Mar 2026 15:00:00 +0000
+
+<img alt="Panasonic Introduces FineX Transparent EMI Shielding Film." class="webfeedsFeaturedVisual wp-post-image" height="1063" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/npi_FineX_pr_online-1.jpg?fit=1535%2C1063" style="display: block; margin-bottom: 5px; clear: both;" width="1535" /><p>The transparent conductive film combines high optical transmissivity, low resistance, and flexible EMI shielding.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/panasonic-introduces-finex-transparent-emi-shielding-film/">Panasonic Introduces FineX Transparent EMI Shielding Film</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Solid-State Transformers, Current Source Inverter in Motor Drives, Innovations in Grid-to-Rack: Power Electronics Week Insights](https://www.powerelectronicsnews.com/solid-state-transformers-current-source-inverter-in-motor-drives-innovations-in-grid-to-rack-power-electronics-week-insights/)
+**Published:** Fri, 13 Mar 2026 15:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Solid-State Transformers, Current Source Inverter in Motor Drives, and Innovations in Grid-to-Rack!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/solid-state-transformers-current-source-inverter-in-motor-drives-innovations-in-grid-to-rack-power-electronics-week-insights/">Solid-State Transformers, Current Source Inverter in Motor Drives, Innovations in Grid-to-Rack: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Innovations in Grid-to-Rack Make Data Centers More Efficient](https://www.powerelectronicsnews.com/innovations-in-grid-to-rack-make-data-centers-more-efficient/)
+**Published:** Fri, 13 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2880" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_350459236.jpeg?fit=5120%2C2880" style="display: block; margin-bottom: 5px; clear: both;" width="5120" /><p>Traditional grid-to-rack systems transfer power from the substation to servers, passing through several power-conversion stages that introduce power losses and reduce overall efficiency. Following a...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/innovations-in-grid-to-rack-make-data-centers-more-efficient/">Innovations in Grid-to-Rack Make Data Centers More Efficient</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Navitas Adds QDPAK and TO-247-4L for 1200 V SiC MOSFETs](https://www.powerelectronicsnews.com/navitas-adds-qdpak-and-to-247-4l-for-1200-v-sic-mosfets/)
 **Published:** Thu, 12 Mar 2026 14:00:00 +0000
 
@@ -883,27 +907,11 @@ _Last updated: 2026-03-13 11:45 UTC_
 
 ---
 
-## [Solid-State Transformers in the Spotlight](https://www.powerelectronicsnews.com/solid-state-transformers-in-the-spotlight/)
-**Published:** Mon, 09 Mar 2026 14:00:00 +0000
+## [Embedded World 2026 Wrap: Key Highlights](https://www.eetimes.com/embedded-world-2026-wrap-key-highlights/)
+**Published:** Fri, 13 Mar 2026 14:24:36 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_643031254.jpeg?fit=6000%2C4000" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>SSTs are in the spotlight, with accelerating investment in SST companies like Heron Power, DG Matrix, and Amperesand, raising major funding.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/solid-state-transformers-in-the-spotlight/">Solid-State Transformers in the Spotlight</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Russelectric Centralized Paralleling Systems for Critical Power](https://www.powerelectronicsnews.com/russelectric-centralized-paralleling-systems-for-critical-power/)
-**Published:** Mon, 09 Mar 2026 13:00:00 +0000
-
-<img alt="Russelectric Centralized Paralleling Systems for Critical Power." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/BOM-Spotlight-NR-Photo-PCS.jpg?fit=1500%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>Central architectures improve redundancy, control integrity, and scalability in critical facilities.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/russelectric-centralized-paralleling-systems-for-critical-power/">Russelectric Centralized Paralleling Systems for Critical Power</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [PEN eBook March 2026, SiC-Based Motor Drives, QSPICE Power Electronics Course: Power Electronics Week Insights](https://www.powerelectronicsnews.com/pen-ebook-march-2026-sic-based-motor-drives-qspice-power-electronics-course-power-electronics-week-insights/)
-**Published:** Fri, 06 Mar 2026 16:03:01 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on PEN eBook March 2026, SiC-Based Motor Drives, and QSPICE Power Electronics Course!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/pen-ebook-march-2026-sic-based-motor-drives-qspice-power-electronics-course-power-electronics-week-insights/">PEN eBook March 2026, SiC-Based Motor Drives, QSPICE Power Electronics Course: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Discover the biggest trends in physical AI and robotics from Embedded World 2026.</p>
+<p>The post <a href="https://www.eetimes.com/embedded-world-2026-wrap-key-highlights/">Embedded World 2026 Wrap: Key Highlights</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -928,14 +936,6 @@ _Last updated: 2026-03-13 11:45 UTC_
 
 <p>Ahead of the last day of Embedded World, the organisers of the exhibition and conference announced their winners of the &#8220;embedded award&#8221; for 2026 at a ceremony in Nuremberg. &#8220;The ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/embedded-winners-of-the-embedded-award-2026-2026-03/">Embedded: Winners of the embedded award 2026</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Rohm and Toshiba in talks about merging their power semi units](https://www.electronicsweekly.com/news/business/fohm-and-toshiba-in-talks-about-merging-their-power-semi-units-2026-03/)
-**Published:** Thu, 12 Mar 2026 11:17:12 +0000
-
-<p>Rohm and Toshiba are in talks to merge their power semiconductor businesses, reports the Nikkei. The report comes after last week’s news that Denso is proposing to take over Rohm. ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/fohm-and-toshiba-in-talks-about-merging-their-power-semi-units-2026-03/">Rohm and Toshiba in talks about merging their power semi units</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
