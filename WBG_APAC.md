@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-13 22:41 UTC_
+_Last updated: 2026-03-14 07:48 UTC_
 
 ## [Infineon and UMC Partner to Promote Supply Chain Emissions Reductions](https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/)
 **Published:** Thu, 12 Mar 2026 02:34:02 +0000
