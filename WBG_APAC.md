@@ -1,28 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-15 23:44 UTC_
+_Last updated: 2026-03-16 13:26 UTC_
+
+## [MetaOptics Helping Build End-to-end Metalens Manufacturing Capabilities in Taiwan](https://www.eetasia.com/metaoptics-helping-build-end-to-end-metalens-manufacturing-capabilities-in-taiwan/)
+**Published:** Mon, 16 Mar 2026 02:58:30 +0000
+
+<p>MetaOptics' shipment of Automatic Metalens Tester reinforces its commitment to supporting Taiwan's advanced semiconductor ecosystems.</p>
+<p>The post <a href="https://www.eetasia.com/metaoptics-helping-build-end-to-end-metalens-manufacturing-capabilities-in-taiwan/">MetaOptics Helping Build End-to-end Metalens Manufacturing Capabilities in Taiwan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Infineon and UMC Partner to Promote Supply Chain Emissions Reductions](https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/)
 **Published:** Thu, 12 Mar 2026 02:34:02 +0000
 
 <p>Infineon and UMC will cooperate on decarbonization across their semiconductor supply chains and strengthening sustainability practices.</p>
 <p>The post <a href="https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/">Infineon and UMC Partner to Promote Supply Chain Emissions Reductions</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Wolfspeed 300mm SiC Platform to Enable Next‑Gen AI and HPC Packaging Solutions](https://www.eetasia.com/wolfspeed-300mm-sic-platform-to-enable-next%e2%80%91gen-ai-and-hpc-packaging-solutions/)
-**Published:** Thu, 12 Mar 2026 02:05:56 +0000
-
-<p>Patent-pending innovations deliver scalable materials building blocks for advanced AI and high-performance computing packaging solutions.</p>
-<p>The post <a href="https://www.eetasia.com/wolfspeed-300mm-sic-platform-to-enable-next%e2%80%91gen-ai-and-hpc-packaging-solutions/">Wolfspeed 300mm SiC Platform to Enable Next‑Gen AI and HPC Packaging Solutions</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [IBM and Lam Research Collaborating to Advance Sub-1nm Logic Scaling](https://www.eetasia.com/ibm-and-lam-research-collaborating-to-advance-sub-1nm-logic-scaling/)
-**Published:** Wed, 11 Mar 2026 02:40:28 +0000
-
-<p>IBM and Lam Research have signed a new five-year agreement aimed at advancing logic semiconductor manufacturing to the sub-1nm node.</p>
-<p>The post <a href="https://www.eetasia.com/ibm-and-lam-research-collaborating-to-advance-sub-1nm-logic-scaling/">IBM and Lam Research Collaborating to Advance Sub-1nm Logic Scaling</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -827,6 +819,14 @@ _Last updated: 2026-03-15 23:44 UTC_
 
 ---
 
+## [Bourns Expands SRN3010BTA Automotive Inductor Series](https://www.powerelectronicsnews.com/bourns-expands-srn3010bta-automotive-inductor-series/)
+**Published:** Mon, 16 Mar 2026 13:00:00 +0000
+
+<img alt="Bourns Expands SRN3010BTA Automotive Inductor Series." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/bourns_srn3010bta_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new AEC-Q200 compliant semi-shielded power inductor offers 33 µH inductance and enhanced mechanical reliability.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/bourns-expands-srn3010bta-automotive-inductor-series/">Bourns Expands SRN3010BTA Automotive Inductor Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Panasonic Introduces FineX Transparent EMI Shielding Film](https://www.powerelectronicsnews.com/panasonic-introduces-finex-transparent-emi-shielding-film/)
 **Published:** Fri, 13 Mar 2026 15:00:00 +0000
 
@@ -899,11 +899,11 @@ _Last updated: 2026-03-15 23:44 UTC_
 
 ---
 
-## [Power Electronics Course with QSPICE (Episode 06): Power Diodes and Rectifiers](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-06-power-diodes-and-rectifiers/)
-**Published:** Tue, 10 Mar 2026 13:00:00 +0000
+## [Middle East Turmoil: Materials Shortage, Fuel Price Hike Disrupting Chip Industry](https://www.eetimes.com/middle-east-turmoil-materials-shortage-fuel-price-hike-disrupting-chip-industry/)
+**Published:** Mon, 16 Mar 2026 08:27:21 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/figure-00-power-course-1.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>In this article, we examine the electronic behavior of power diodes in QSPICE simulations. These components allow for the passage of high currents, and their...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-06-power-diodes-and-rectifiers/">Power Electronics Course with QSPICE (Episode 06): Power Diodes and Rectifiers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Here is how a prolonged war in the Middle East could turn into a disaster for the semiconductor business.</p>
+<p>The post <a href="https://www.eetimes.com/middle-east-turmoil-materials-shortage-fuel-price-hike-disrupting-chip-industry/">Middle East Turmoil: Materials Shortage, Fuel Price Hike Disrupting Chip Industry</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -923,40 +923,39 @@ _Last updated: 2026-03-15 23:44 UTC_
 
 ---
 
-## [Sheffield University to lead UK electronics design R&D push](https://www.electronicsweekly.com/news/research-news/sheffield-university-to-lead-electronics-design-rd-push-2026-03/)
-**Published:** Fri, 13 Mar 2026 06:13:37 +0000
+## [USPTO seeks input on WIPO Riyadh Design Law Treaty (RDLT)](https://www.electronicsweekly.com/news/business/uspto-seeks-input-on-wipo-riyadh-design-law-treaty-rdlt-2026-03/)
+**Published:** Mon, 16 Mar 2026 06:12:12 +0000
 
-<p>The University of Sheffield is leading a £12.5 million national research centre to strengthen the UK’s ability to design electronic systems and support the UK Semiconductor Strategy. The Centre for ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/research-news/sheffield-university-to-lead-electronics-design-rd-push-2026-03/">Sheffield University to lead UK electronics design R&amp;D push</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Embedded: Winners of the embedded award 2026](https://www.electronicsweekly.com/news/embedded-winners-of-the-embedded-award-2026-2026-03/)
-**Published:** Thu, 12 Mar 2026 11:46:26 +0000
-
-<p>Ahead of the last day of Embedded World, the organisers of the exhibition and conference announced their winners of the &#8220;embedded award&#8221; for 2026 at a ceremony in Nuremberg. &#8220;The ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/embedded-winners-of-the-embedded-award-2026-2026-03/">Embedded: Winners of the embedded award 2026</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>United States Patent and Trademark Office (USPTO) is requesting input from interested parties on the World Intellectual Property Organisation (WIPO) Riyadh Design Law Treaty (RDLT), adopted by WIPO member states ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/uspto-seeks-input-on-wipo-riyadh-design-law-treaty-rdlt-2026-03/">USPTO seeks input on WIPO Riyadh Design Law Treaty (RDLT)</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Quantum Dots Built For Single Photon Emission](https://www.electronicsforu.com/news/quantum-dots-built-for-single-photon-emission)
-**Published:** Fri, 13 Mar 2026 06:55:54 +0000
+## [JOB: Physical Design Engineer At Digicomm Semiconductor](https://www.electronicsforu.com/career/physical-design-engineer-digicomm-semiconductor)
+**Published:** Mon, 16 Mar 2026 10:13:04 +0000
 
-<img alt="Quantum Dots Built For Single Photon Emission" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/quantum-dots-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A method to make quantum dots lets them release single photons. The approach could support quantum communication systems and photonic quantum computing. Scientists from the Gleb Wataghin Physics Institute of the State University of Campinas in Brazil developed a way to manufacture semiconductor quantum dots that emit single photons. The step could support quantum communication [&#8230;]
-
----
-
-## [400V DC eFuse Protection Reference Design](https://www.electronicsforu.com/electronics-projects/400v-dc-efuse-protection-reference-design)
-**Published:** Fri, 13 Mar 2026 06:24:47 +0000
-
-<img alt="400V DC eFuse Protection Reference Design" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Fig_1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A high-voltage, bidirectional electronic fuse architecture demonstrating ultra-fast fault protection, low-loss SiC switching, and isolated current monitoring for 400V DC power systems up to 40 kW. For engineers designing high-voltage power electronics, protecting DC power buses from short circuits, overloads, and inrush currents is a critical design challenge. Mechanical relays and traditional fuses often struggle [&#8230;]
+<img alt="Garuda3d" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/jobs5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru/ Pune/ Hyderabad/ Noida Company: Digicomm Semiconductor Qualifications BTECH/MTECH Job Description
 
 ---
 
-## [Fitting High Power Into Smaller AI Infrastructure](https://www.electronicsforu.com/news/fitting-high-power-into-smaller-ai-infrastructure)
-**Published:** Fri, 13 Mar 2026 06:04:19 +0000
+## [JOB: PCB Design Engineer, Electronic Systems At Tesla In Pune](https://www.electronicsforu.com/career/pcb-design-engineer-electronic-systems-tesla-pune)
+**Published:** Mon, 16 Mar 2026 10:07:48 +0000
 
-<img alt="Fitting High Power Into Smaller AI Infrastructure" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/unnamed-29-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new power device design could change how power fits inside AI systems by moving heat out faster and helping engineers pack more power into smaller racks. Navitas Semiconductor has introduced two new package options for its fifth-generation GeneSiC silicon carbide power devices, aimed at improving power density and thermal performance in high-power systems. The [&#8230;]
+<img alt="JOB: PCB Design Engineer, Electronic Systems At Tesla In Pune" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/04/ZZD_Tesla-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Tesla What to Expect The high speed layout team is responsible for layout of the physical hardware that delivers the autonomous driving capability, high performance computing and infotainment experience to Tesla vehicles and Tesla Super Computer AI. The team designs the complex, high speed printed circuit boards that delivers on [&#8230;]
+
+---
+
+## [Fac Tec China 2026: Your Gateway To The Factories Of Tomorrow – Driving Efficiency, Safety, And Sustainability](https://www.electronicsforu.com/press-releases/fac-tec-china-2026-your-gateway-to-the-factories-of-tomorrow-driving-efficiency-safety-and-sustainability)
+**Published:** Mon, 16 Mar 2026 08:26:19 +0000
+
+<img alt="Fac Tec China 2026: Your Gateway To The Factories Of Tomorrow – Driving Efficiency, Safety, And Sustainability" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Fac-Tec-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Organized by RX, Fac Tec China will take place from June 2–4, 2026, at the ShanghaiWorld Expo Exhibition &#38; Convention Center. This premier trade event comes at apivotal moment for the global electronics manufacturing industry, as companies facemounting pressure to improve efficiency, adopt sustainable practices, and upgrade tointelligent, flexible factory systems. Global demand for advanced [&#8230;]
+
+---
+
+## [Single Chip Runs AI Tasks And Wireless Communication](https://www.electronicsforu.com/special/single-chip-runs-ai-tasks-and-wireless-communication)
+**Published:** Mon, 16 Mar 2026 06:15:21 +0000
+
+<img alt="Single Chip Runs AI Tasks And Wireless Communication" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/NW-NXP-NEW-IMX-93W-FUSES-EDGE-OG-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An edge processor combines AI acceleration with secure tri-radio wireless in one chip, aiming to simplify system design and enable physical AI devices to operate locally. NXP Semiconductors has introduced the i.MX 93W applications processor, expanding its i.MX 93 family and targeting systems that run physical AI at the edge. The processor integrates a dedicated [&#8230;]
 
 ---
 
