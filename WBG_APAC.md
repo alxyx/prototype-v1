@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-17 09:09 UTC_
+_Last updated: 2026-03-17 16:22 UTC_
 
 ## [MetaOptics Helping Build End-to-end Metalens Manufacturing Capabilities in Taiwan](https://www.eetasia.com/metaoptics-helping-build-end-to-end-metalens-manufacturing-capabilities-in-taiwan/)
 **Published:** Mon, 16 Mar 2026 02:58:30 +0000
@@ -811,6 +811,30 @@ _Last updated: 2026-03-17 09:09 UTC_
 
 ---
 
+## [Navitas Unveils 800V–6V DC-DC Power Board for AI Servers](https://www.powerelectronicsnews.com/navitas-unveils-800v-6v-dc-dc-power-board-for-ai-servers/)
+**Published:** Tue, 17 Mar 2026 15:00:00 +0000
+
+<img alt="Navitas Unveils 800V–6V DC-DC Power Board for AI Servers." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/PR437-20kW.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The GaN-based power delivery board enables direct 800 V to 6 V conversion, targeting higher efficiency and density in AI data center systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/navitas-unveils-800v-6v-dc-dc-power-board-for-ai-servers/">Navitas Unveils 800V–6V DC-DC Power Board for AI Servers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [EPC Unveils EPC91202 GaN-Based 3-Phase BLDC Inverter Board](https://www.powerelectronicsnews.com/epc-unveils-epc91202-gan-based-3-phase-bldc-inverter-board/)
+**Published:** Tue, 17 Mar 2026 14:00:00 +0000
+
+<img alt="EPC Unveils EPC91202 GaN-Based 3-Phase BLDC Inverter Board." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/EPC91202-pr-graphic-333-250-p-L-97.png?fit=312%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="312" /><p>The evaluation board delivers up to 50 ARMS phase current and 150 kHz PWM for high-efficiency BLDC motor drive designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/epc-unveils-epc91202-gan-based-3-phase-bldc-inverter-board/">EPC Unveils EPC91202 GaN-Based 3-Phase BLDC Inverter Board</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Planar Magnetics in 800VDC Datacenter Power Architecture](https://www.powerelectronicsnews.com/planar-magnetics-in-800vdc-datacenter-power-architecture/)
+**Published:** Tue, 17 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2118" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_682811184.jpeg?fit=3765%2C2118" style="display: block; margin-bottom: 5px; clear: both;" width="3765" /><p>Planar matrix transformers are emerging as the key magnetic solution for Nvidia's 800 VDC AI datacenter power architecture.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/planar-magnetics-in-800vdc-datacenter-power-architecture/">Planar Magnetics in 800VDC Datacenter Power Architecture</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Software Support Closes the Gap in Power Conversion Design](https://www.powerelectronicsnews.com/software-support-closes-the-gap-in-power-conversion-design/)
 **Published:** Mon, 16 Mar 2026 14:00:00 +0000
 
@@ -867,27 +891,11 @@ _Last updated: 2026-03-17 09:09 UTC_
 
 ---
 
-## [iDEAL Semiconductor Introduces 200-V SuperQ MOSFETs](https://www.powerelectronicsnews.com/ideal-semiconductor-introduces-200-v-superq-mosfets/)
-**Published:** Thu, 12 Mar 2026 13:00:00 +0000
+## [From DX to AX: AW 2026 Signals the Rise of Autonomous Manufacturing](https://www.eetimes.com/from-dx-to-ax-aw-2026-signals-the-rise-of-autonomous-manufacturing/)
+**Published:** Tue, 17 Mar 2026 12:08:11 +0000
 
-<img alt="iDEAL Semiconductor Introduces 200-V SuperQ MOSFETs." class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/IdealSemiconductor.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>The new SuperQ MOSFETs, available in TOLL and TO-220 packages, target high-current motor drives and power conversion.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/ideal-semiconductor-introduces-200-v-superq-mosfets/">iDEAL Semiconductor Introduces 200-V SuperQ MOSFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wolfspeed Explores 300 mm SiC Platform for AI Packaging](https://www.powerelectronicsnews.com/wolfspeed-explores-300-mm-sic-platform-for-ai-packaging/)
-**Published:** Wed, 11 Mar 2026 13:10:26 +0000
-
-<img alt="Wolfspeed Explores 300 mm SiC Platform for AI Packaging." class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/300mm-AI-PR-Fig1.png?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The 300 mm silicon carbide wafers have been evaluated as materials platform for advanced AI and HPC packaging.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-explores-300-mm-sic-platform-for-ai-packaging/">Wolfspeed Explores 300 mm SiC Platform for AI Packaging</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Current Source Inverter for Wound Field Synchronous Motor Drives](https://www.powerelectronicsnews.com/current-source-inverter-for-wound-field-synchronous-motor-drives/)
-**Published:** Wed, 11 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5400" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_625725476.jpeg?fit=7300%2C5400" style="display: block; margin-bottom: 5px; clear: both;" width="7300" /><p>A current source inverter (CSI) provides some key advantages over conventional voltage source inverters in medium and high-speed motor drive applications. A wound-field synchronous motor...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/current-source-inverter-for-wound-field-synchronous-motor-drives/">Current Source Inverter for Wound Field Synchronous Motor Drives</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Edge AI, robotics, and digital twins are converging to enable physical AI-driven manufacturing systems.</p>
+<p>The post <a href="https://www.eetimes.com/from-dx-to-ax-aw-2026-signals-the-rise-of-autonomous-manufacturing/">From DX to AX: AW 2026 Signals the Rise of Autonomous Manufacturing</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -931,25 +939,38 @@ _Last updated: 2026-03-17 09:09 UTC_
 
 ---
 
-## [MIRL research hub to spearhead miro:bit innovations](https://www.electronicsweekly.com/news/design/stem/mirl-research-hub-to-spearhead-mirobit-innovations-2026-03/)
-**Published:** Mon, 16 Mar 2026 15:14:05 +0000
+## [Make Your Own Rotary Switch Timer](https://www.electronicsforu.com/videos-slideshows/make-your-own-rotary-switch-timer)
+**Published:** Tue, 17 Mar 2026 11:15:52 +0000
 
-<p>Lancaster University and the micro:bit Educational Foundation are collaborating on a research hub, MIRL. It will address innovations in physical computing and digital education. MIRL stands for the Micro:bit Innovation ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/design/stem/mirl-research-hub-to-spearhead-mirobit-innovations-2026-03/">MIRL research hub to spearhead miro:bit innovations</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [ROHM’s New SiC Power Modules Now Available for Online Purchase!](https://www.electronicsforu.com/press-releases/rohms-new-sic-power-modules-now-available-for-online-purchase)
-**Published:** Tue, 17 Mar 2026 06:05:10 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/product-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ROHM has begun online sales of new SiC molded modules: TRCDRIVE pack, HSDIP20 and DOT-247. Amid growing concerns over tightening global power supply and the increasing importance of energy conservation, these products promote the adoption of high-efficiency power conversion using SiC in a wider range of applications. These products are available for online purchase from [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/maxresdefault-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Learn the basics of designing and building a Rotary Switch–Selectable Timer for industrial and domestic applications. This project explains how a rotary switch is used to select different time delays, ranging from 10 seconds to 6 minutes, to control an appliance using the CD4060 timer IC. It is ideal for understanding timer selection concepts and [&#8230;]
 
 ---
 
-## [Leakage-Free Transistor Enables 3D Chips](https://www.electronicsforu.com/news/leakage-free-transistor-enables-3d-chips)
-**Published:** Tue, 17 Mar 2026 05:48:12 +0000
+## [JOB: HVDC- Control & Protection Engineer At Hitachi In Chennai](https://www.electronicsforu.com/career/hvdc-control-protection-engineer-hitachi-chennai)
+**Published:** Tue, 17 Mar 2026 09:41:06 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/dgist-develops-key-tra-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New vertical device architecture promises stable, ultra-dense semiconductor stacking for future AI and high-performance electronics. Researchers have developed a new transistor architecture designed to support the next generation of 3D stacked semiconductors, addressing one of the biggest challenges in ultra-dense chip design—current leakage. The innovation could enable more efficient processors for AI, high-performance computing, and [&#8230;]
+<img alt="R&amp;D Engineer- Power System" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/01/hitachi-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Chennai Company: Hitachi The technical marketing engineer for Mission Critical Telecommunication Solutions (MCS) has the global responsibility to enable the Pre-Sales &#38; Sales community of the different regional HUBs to understand technical market requirements for wired telecommunication networks and ensure customer interaction in line with the global solution/product strategy. Support sales organisations [&#8230;]
+
+---
+
+## [JOB: ASIC Design Engineer At HPE In Kolkata](https://www.electronicsforu.com/career/asic-design-engineer-at-hpe-kolkata)
+**Published:** Tue, 17 Mar 2026 09:30:01 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/hpe-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Kolkata Company: HPE Designs, analyses, develops, modifies and evaluates VLSI components and hardware systems. Determines architecture and logic design, design verification through software developed for component and system simulation, and builds physical implementations through development of multidimensional designs involving the layout of complex integrated circuits. Analyses designs to establish operating data, conducts [&#8230;]
+
+---
+
+## [Power Board Amplifies Data Center Architecture](https://www.electronicsforu.com/news/power-board-amplifies-data-center-architecture)
+**Published:** Tue, 17 Mar 2026 09:26:10 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/pr437-20kw-v3-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if data center power could skip a step? A new board enables direct conversion, cutting stages, reducing losses, and changing how systems are built. Navitas Semiconductor has introduced a DC-DC power delivery board that converts 800 V directly to 6 V in a single stage, removing the 48 V intermediate bus converter from server [&#8230;]
+
+---
+
+## [Embedded Engineer Intern At Intugine In Bengaluru](https://www.electronicsforu.com/career/embedded-engineer-intern-at-intugine-in-bengaluru)
+**Published:** Tue, 17 Mar 2026 09:18:09 +0000
+
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Intugine We are looking for a motivated Embedded Engineer Intern to work closely with our Embedded Systems and IoT team. The intern will be involved across the full lifecycle of IoT projects — from early-stage R&#38;D and proof-of-concepts (POCs) to field deployment and go-live support. This role is hands-on and execution-focused, ideal for candidates [&#8230;]
 
 ---
 
