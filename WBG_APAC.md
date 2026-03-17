@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-16 13:26 UTC_
+_Last updated: 2026-03-17 02:21 UTC_
 
 ## [MetaOptics Helping Build End-to-end Metalens Manufacturing Capabilities in Taiwan](https://www.eetasia.com/metaoptics-helping-build-end-to-end-metalens-manufacturing-capabilities-in-taiwan/)
 **Published:** Mon, 16 Mar 2026 02:58:30 +0000
@@ -15,6 +15,78 @@ _Last updated: 2026-03-16 13:26 UTC_
 
 <p>Infineon and UMC will cooperate on decarbonization across their semiconductor supply chains and strengthening sustainability practices.</p>
 <p>The post <a href="https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/">Infineon and UMC Partner to Promote Supply Chain Emissions Reductions</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Manz Asia and Epson Form Strategic Partnership to Advance Inkjet Technology for Semiconductor Manufacturing](https://www.semiconductor-digest.com/manz-asia-and-epson-form-strategic-partnership-to-advance-inkjet-technology-for-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=manz-asia-and-epson-form-strategic-partnership-to-advance-inkjet-technology-for-semiconductor-manufacturing)
+**Published:** Tue, 17 Mar 2026 00:09:32 +0000
+
+<p> Semiconductor advanced packaging equipment manufacturer Manz Asia today announced a strategic partnership with Seiko Epson Corporation (Epson) aimed at accelerating the adoption of advanced inkjet technology in semiconductor manufacturing. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/manz-asia-and-epson-form-strategic-partnership-to-advance-inkjet-technology-for-semiconductor-manufacturing/">Manz Asia and Epson Form Strategic Partnership to Advance Inkjet Technology for Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Kinaxis Advances Large-Scale Supply Chain Optimization with NVIDIA AI](https://www.semiconductor-digest.com/kinaxis-advances-large-scale-supply-chain-optimization-with-nvidia-ai/?utm_source=rss&utm_medium=rss&utm_campaign=kinaxis-advances-large-scale-supply-chain-optimization-with-nvidia-ai)
+**Published:** Mon, 16 Mar 2026 23:57:21 +0000
+
+<p>Kinaxis Inc. today announced a new milestone in advancing large-scale supply chain optimization within the Kinaxis Maestro platform.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kinaxis-advances-large-scale-supply-chain-optimization-with-nvidia-ai/">Kinaxis Advances Large-Scale Supply Chain Optimization with NVIDIA AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Cadence and NVIDIA Unveil Accelerated Engineering Solutions Purpose-Built for Agentic AI Chip and System Design​](https://www.semiconductor-digest.com/cadence-and-nvidia-unveil-accelerated-engineering-solutions-purpose-built-for-agentic-ai-chip-and-system-design/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-and-nvidia-unveil-accelerated-engineering-solutions-purpose-built-for-agentic-ai-chip-and-system-design)
+**Published:** Mon, 16 Mar 2026 23:54:00 +0000
+
+<p>New agentic integrated circuit (IC) and physical AI accelerated solutions enable engineers to solve previously impossible chip, system and AI factory challenges.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cadence-and-nvidia-unveil-accelerated-engineering-solutions-purpose-built-for-agentic-ai-chip-and-system-design/">Cadence and NVIDIA Unveil Accelerated Engineering Solutions Purpose-Built for Agentic AI Chip and System Design​</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Vibrating Atomic Tip Sculpts 3D Memory Channels Into Fragile Semiconductors](https://www.semiconductor-digest.com/vibrating-atomic-tip-sculpts-3d-memory-channels-into-fragile-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=vibrating-atomic-tip-sculpts-3d-memory-channels-into-fragile-semiconductors)
+**Published:** Mon, 16 Mar 2026 23:49:16 +0000
+
+<p>Publishing in International Journal of Extreme Manufacturing, Prof. Yanquan Geng's team at Harbin Institute of Technology has devised a way to carve variable-depth, three-dimensional trenches into gallium antimonide, a notably brittle semiconductor, using a microscopic tip vibrating thousands of times per second.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/vibrating-atomic-tip-sculpts-3d-memory-channels-into-fragile-semiconductors/">Vibrating Atomic Tip Sculpts 3D Memory Channels Into Fragile Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [DGIST Develops Key Transistor for Next-Generation 3D Stacked Semiconductors Based on Successful Development of a Novel Sandwich-Structured Transistor](https://www.semiconductor-digest.com/dgist-develops-key-transistor-for-next-generation-3d-stacked-semiconductors-based-on-successful-development-of-a-novel-sandwich-structured-transistor/?utm_source=rss&utm_medium=rss&utm_campaign=dgist-develops-key-transistor-for-next-generation-3d-stacked-semiconductors-based-on-successful-development-of-a-novel-sandwich-structured-transistor)
+**Published:** Mon, 16 Mar 2026 23:45:35 +0000
+
+<p>A research team led by Professor Jae Eun Jang and Dr. Goeun Pyo from the Department of Electrical Engineering and Computer Science at DGIST (President Kunwoo Lee) has developed, for the first time in the world, “dual-modulated vertically stacked transistors” that operate stably without current leakage even in two-dimensional nanoscale channel structures.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/dgist-develops-key-transistor-for-next-generation-3d-stacked-semiconductors-based-on-successful-development-of-a-novel-sandwich-structured-transistor/">DGIST Develops Key Transistor for Next-Generation 3D Stacked Semiconductors Based on Successful Development of a Novel Sandwich-Structured Transistor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Europe and the Polish Taiwanese Chamber of Commerce Partner to Accelerate Semiconductor Industry Expansions in Poland](https://www.semiconductor-digest.com/semi-europe-and-the-polish-taiwanese-chamber-of-commerce-partner-to-accelerate-semiconductor-industry-expansions-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=semi-europe-and-the-polish-taiwanese-chamber-of-commerce-partner-to-accelerate-semiconductor-industry-expansions-in-poland)
+**Published:** Mon, 16 Mar 2026 22:43:43 +0000
+
+<p>SEMI Europe today announced the signing of a new two‑year Memorandum of Understanding (MoU) with the Polish‑Taiwanese Chamber of Commerce, establishing a strategic partnership to advance semiconductor industry development and support the green transition across the sector.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-europe-and-the-polish-taiwanese-chamber-of-commerce-partner-to-accelerate-semiconductor-industry-expansions-in-poland/">SEMI Europe and the Polish Taiwanese Chamber of Commerce Partner to Accelerate Semiconductor Industry Expansions in Poland</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens Launches Fuse EDA AI Agent for Automation Across Semiconductor, 3D IC and PCB System Workflows](https://www.semiconductor-digest.com/siemens-launches-fuse-eda-ai-agent-for-automation-across-semiconductor-3d-ic-and-pcb-system-workflows/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-launches-fuse-eda-ai-agent-for-automation-across-semiconductor-3d-ic-and-pcb-system-workflows)
+**Published:** Mon, 16 Mar 2026 22:36:40 +0000
+
+<p>Siemens today announced the Fuse EDA AI Agent system, a purpose-built domain-scoped autonomous AI agent that plans and orchestrates multi-tool and multi-agent complex semiconductor, 3D IC and printed circuit board (PCB) system workflows that span across design, verification and manufacturing sign-off.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-launches-fuse-eda-ai-agent-for-automation-across-semiconductor-3d-ic-and-pcb-system-workflows/">Siemens Launches Fuse EDA AI Agent for Automation Across Semiconductor, 3D IC and PCB System Workflows</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NXP Delivers New Innovations for Advanced Physical AI with NVIDIA](https://www.semiconductor-digest.com/nxp-delivers-new-innovations-for-advanced-physical-ai-with-nvidia/?utm_source=rss&utm_medium=rss&utm_campaign=nxp-delivers-new-innovations-for-advanced-physical-ai-with-nvidia)
+**Published:** Mon, 16 Mar 2026 22:31:54 +0000
+
+<p>NXP Semiconductors N.V. today announced innovative robotics solutions for reliable, secure, real-time data processing and transport and advanced networking, enabling sensor fusion, machine vision and precision motor control.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nxp-delivers-new-innovations-for-advanced-physical-ai-with-nvidia/">NXP Delivers New Innovations for Advanced Physical AI with NVIDIA</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [STMicroelectronics and Leopard Imaging Accelerate Robotics Vision with NVIDIA Jetson-Ready Multi-Sensor Module](https://www.semiconductor-digest.com/stmicroelectronics-and-leopard-imaging-accelerate-robotics-vision-with-nvidia-jetson-ready-multi-sensor-module/?utm_source=rss&utm_medium=rss&utm_campaign=stmicroelectronics-and-leopard-imaging-accelerate-robotics-vision-with-nvidia-jetson-ready-multi-sensor-module)
+**Published:** Mon, 16 Mar 2026 22:29:00 +0000
+
+<p>STMicroelectronics and Leopard Imaging have introduced an all-in-one multimodal vision module for humanoid and other advanced robotics systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/stmicroelectronics-and-leopard-imaging-accelerate-robotics-vision-with-nvidia-jetson-ready-multi-sensor-module/">STMicroelectronics and Leopard Imaging Accelerate Robotics Vision with NVIDIA Jetson-Ready Multi-Sensor Module</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -747,75 +819,11 @@ _Last updated: 2026-03-16 13:26 UTC_
 
 ---
 
-## [Marvell Completes Acquisition of XConn Technologies](https://www.semiconductor-digest.com/marvell-completes-acquisition-of-xconn-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=marvell-completes-acquisition-of-xconn-technologies)
-**Published:** Wed, 11 Feb 2026 21:28:13 +0000
+## [Software Support Closes the Gap in Power Conversion Design](https://www.powerelectronicsnews.com/software-support-closes-the-gap-in-power-conversion-design/)
+**Published:** Mon, 16 Mar 2026 14:00:00 +0000
 
-<p>Marvell Technology, Inc. today announced that it has completed its previously announced acquisition of XConn Technologies, a provider of advanced PCIe and CXL switching silicon.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/marvell-completes-acquisition-of-xconn-technologies/">Marvell Completes Acquisition of XConn Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AI and Process Integration: Charting the Future of Polymer Composite Manufacturing](https://www.semiconductor-digest.com/ai-and-process-integration-charting-the-future-of-polymer-composite-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-process-integration-charting-the-future-of-polymer-composite-manufacturing)
-**Published:** Wed, 11 Feb 2026 21:20:15 +0000
-
-<p>Lightweight, high-strength polymer composites are essential to modern engineering. Yet their manufacturing remains complex, slow, and often reliant on manual adjustments.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ai-and-process-integration-charting-the-future-of-polymer-composite-manufacturing/">AI and Process Integration: Charting the Future of Polymer Composite Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New Biosensor Technology Could Improve Glucose Monitoring](https://www.semiconductor-digest.com/new-biosensor-technology-could-improve-glucose-monitoring/?utm_source=rss&utm_medium=rss&utm_campaign=new-biosensor-technology-could-improve-glucose-monitoring)
-**Published:** Wed, 11 Feb 2026 21:16:25 +0000
-
-<p>A wearable biosensor developed by Washington State University researchers could improve wireless glucose monitoring for people with diabetes, making it more cost-effective, accurate, and less invasive than current models.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-biosensor-technology-could-improve-glucose-monitoring/">New Biosensor Technology Could Improve Glucose Monitoring</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: Accelerating Depreciation of OLED and LCD Manufacturing Capacity Set to Improve FPD Profitability](https://www.semiconductor-digest.com/omdia-accelerating-depreciation-of-oled-and-lcd-manufacturing-capacity-set-to-improve-fpd-profitability/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-accelerating-depreciation-of-oled-and-lcd-manufacturing-capacity-set-to-improve-fpd-profitability)
-**Published:** Wed, 11 Feb 2026 21:11:29 +0000
-
-<p>According to the latest display industry research from Omdia, the depreciation of flat panel display (FPD) manufacturing equipment is accelerating, easing cost pressures on OLED and LCD panel manufacturers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-accelerating-depreciation-of-oled-and-lcd-manufacturing-capacity-set-to-improve-fpd-profitability/">Omdia: Accelerating Depreciation of OLED and LCD Manufacturing Capacity Set to Improve FPD Profitability</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Keysight Enables Enterprise-Scale AI Adoption in Semiconductor Design with SOS Enterprise](https://www.semiconductor-digest.com/keysight-enables-enterprise-scale-ai-adoption-in-semiconductor-design-with-sos-enterprise/?utm_source=rss&utm_medium=rss&utm_campaign=keysight-enables-enterprise-scale-ai-adoption-in-semiconductor-design-with-sos-enterprise)
-**Published:** Tue, 10 Feb 2026 19:40:50 +0000
-
-<p>Software automates engineering data governance and traceability across distributed organizations to accelerate AI integration.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/keysight-enables-enterprise-scale-ai-adoption-in-semiconductor-design-with-sos-enterprise/">Keysight Enables Enterprise-Scale AI Adoption in Semiconductor Design with SOS Enterprise</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Cadence Unleashes ChipStack AI Super Agent](https://www.semiconductor-digest.com/cadence-unleashes-chipstack-ai-super-agent/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-unleashes-chipstack-ai-super-agent)
-**Published:** Tue, 10 Feb 2026 19:36:22 +0000
-
-<p>Cadence today announced a transformative step forward in redefining how semiconductors are designed with the launch of the ChipStack AI Super Agent—an agentic AI solution for front-end silicon design and verification.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cadence-unleashes-chipstack-ai-super-agent/">Cadence Unleashes ChipStack AI Super Agent</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Empower Introduces High-Density Embedded Silicon Capacitors to Advance Next-Generation AI and HPC Performance](https://www.semiconductor-digest.com/empower-introduces-high-density-embedded-silicon-capacitors-to-advance-next-generation-ai-and-hpc-performance/?utm_source=rss&utm_medium=rss&utm_campaign=empower-introduces-high-density-embedded-silicon-capacitors-to-advance-next-generation-ai-and-hpc-performance)
-**Published:** Tue, 10 Feb 2026 19:30:52 +0000
-
-<p>Empower Semiconductor will present the latest power delivery network–optimization strategies at Chiplet Summit and DesignCon 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/empower-introduces-high-density-embedded-silicon-capacitors-to-advance-next-generation-ai-and-hpc-performance/">Empower Introduces High-Density Embedded Silicon Capacitors to Advance Next-Generation AI and HPC Performance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Reports 2025 Annual Worldwide Silicon Wafer Shipments and Revenue Results](https://www.semiconductor-digest.com/semi-reports-2025-annual-worldwide-silicon-wafer-shipments-and-revenue-results/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-2025-annual-worldwide-silicon-wafer-shipments-and-revenue-results)
-**Published:** Tue, 10 Feb 2026 19:24:54 +0000
-
-<p>Worldwide silicon wafer shipments in 2025 increased 5.8% to 12,973 million square inches (MSI) while wafer revenue slipped 1.2% to $11.4 billion over the same period.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-2025-annual-worldwide-silicon-wafer-shipments-and-revenue-results/">SEMI Reports 2025 Annual Worldwide Silicon Wafer Shipments and Revenue Results</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Monolithic Power Systems Announces CFO Transition](https://www.semiconductor-digest.com/monolithic-power-systems-announces-cfo-transition/?utm_source=rss&utm_medium=rss&utm_campaign=monolithic-power-systems-announces-cfo-transition)
-**Published:** Mon, 09 Feb 2026 22:27:28 +0000
-
-<p>Monolithic Power Systems, Inc., a fabless global company that provides high-performance, semiconductor-based power electronics solutions, today announced that Bernie Blegen will retire from his position as Executive Vice President and CFO.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/monolithic-power-systems-announces-cfo-transition/">Monolithic Power Systems Announces CFO Transition</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4480" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_1500850888.jpeg?fit=6720%2C4480" style="display: block; margin-bottom: 5px; clear: both;" width="6720" /><p>As power supply design cycles accelerate, software ecosystems are lowering the barrier to digital control for hardware designers.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/software-support-closes-the-gap-in-power-conversion-design/">Software Support Closes the Gap in Power Conversion Design</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -891,11 +899,11 @@ _Last updated: 2026-03-16 13:26 UTC_
 
 ---
 
-## [ST Releases ML-Based Motor Control Software Pack](https://www.powerelectronicsnews.com/st-releases-ml-based-motor-control-software-pack/)
-**Published:** Tue, 10 Mar 2026 15:00:00 +0000
+## [ABLIC Expands Market Presence with High-Value Analog Solutions in Europe and the US](https://www.eetimes.com/ablic-expands-market-presence-with-high-value-analog-solutions-in-europe-and-the-us/)
+**Published:** Mon, 16 Mar 2026 16:00:00 +0000
 
-<img alt="ST Releases ML-Based Motor Control Software Pack." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/N4762D-Mar-9-2026-Machine-learning-sw-pack-for-motor-control_IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new software integrates machine learning with FOC motor control for condition monitoring and predictive maintenance.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-releases-ml-based-motor-control-software-pack/">ST Releases ML-Based Motor Control Software Pack</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>ABLIC develops&#160;high-value-added analog semiconductors&#160;and has&#160;become&#160;a global leader in niche fields. Over the past few years, the company has&#160;laid&#160;the groundwork for business expansion through acquisitions and organizational restructuring.&#160;In&#160;2026,&#160;ABLIC&#160;is poised to translate these efforts into a&#160;clear&#160;growth trajectory&#160;while&#160;accelerating&#160;business expansion in Europe and the United States. We spoke with Seiji Tanaka,&#160;Representative&#160;Director and&#160;President of ABLIC, about the company’s strategy.&#160; ● [&#8230;]</p>
+<p>The post <a href="https://www.eetimes.com/ablic-expands-market-presence-with-high-value-analog-solutions-in-europe-and-the-us/">ABLIC Expands Market Presence with High-Value Analog Solutions in Europe and the US</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -920,6 +928,14 @@ _Last updated: 2026-03-16 13:26 UTC_
 
 <p>Taiwan remains the semiconductor industry's stronghold in 2026, with a tech roadmap aimed at next-generation AI systems.</p>
 <p>The post <a href="https://www.eetimes.com/the-silicon-hegemon/">The Silicon Hegemon</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [MIRL research hub to spearhead miro:bit innovations](https://www.electronicsweekly.com/news/design/stem/mirl-research-hub-to-spearhead-mirobit-innovations-2026-03/)
+**Published:** Mon, 16 Mar 2026 15:14:05 +0000
+
+<p>Lancaster University and the micro:bit Educational Foundation are collaborating on a research hub, MIRL. It will address innovations in physical computing and digital education. MIRL stands for the Micro:bit Innovation ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/design/stem/mirl-research-hub-to-spearhead-mirobit-innovations-2026-03/">MIRL research hub to spearhead miro:bit innovations</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
