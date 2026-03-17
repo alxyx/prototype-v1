@@ -1,20 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-17 02:21 UTC_
+_Last updated: 2026-03-17 09:09 UTC_
 
 ## [MetaOptics Helping Build End-to-end Metalens Manufacturing Capabilities in Taiwan](https://www.eetasia.com/metaoptics-helping-build-end-to-end-metalens-manufacturing-capabilities-in-taiwan/)
 **Published:** Mon, 16 Mar 2026 02:58:30 +0000
 
 <p>MetaOptics' shipment of Automatic Metalens Tester reinforces its commitment to supporting Taiwan's advanced semiconductor ecosystems.</p>
 <p>The post <a href="https://www.eetasia.com/metaoptics-helping-build-end-to-end-metalens-manufacturing-capabilities-in-taiwan/">MetaOptics Helping Build End-to-end Metalens Manufacturing Capabilities in Taiwan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Infineon and UMC Partner to Promote Supply Chain Emissions Reductions](https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/)
-**Published:** Thu, 12 Mar 2026 02:34:02 +0000
-
-<p>Infineon and UMC will cooperate on decarbonization across their semiconductor supply chains and strengthening sustainability practices.</p>
-<p>The post <a href="https://www.eetasia.com/infineon-and-umc-partner-to-promote-supply-chain-emissions-reductions/">Infineon and UMC Partner to Promote Supply Chain Emissions Reductions</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -899,6 +891,14 @@ _Last updated: 2026-03-17 02:21 UTC_
 
 ---
 
+## [Industrial Robotics Drive Shift Toward Physical AI](https://www.eetimes.com/industrial-robotics-drive-shift-toward-physical-ai/)
+**Published:** Tue, 17 Mar 2026 07:00:00 +0000
+
+<p>Industrial robotics leap into physical AI, empowering factories with real-time smarts.</p>
+<p>The post <a href="https://www.eetimes.com/industrial-robotics-drive-shift-toward-physical-ai/">Industrial Robotics Drive Shift Toward Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [ABLIC Expands Market Presence with High-Value Analog Solutions in Europe and the US](https://www.eetimes.com/ablic-expands-market-presence-with-high-value-analog-solutions-in-europe-and-the-us/)
 **Published:** Mon, 16 Mar 2026 16:00:00 +0000
 
@@ -939,39 +939,17 @@ _Last updated: 2026-03-17 02:21 UTC_
 
 ---
 
-## [USPTO seeks input on WIPO Riyadh Design Law Treaty (RDLT)](https://www.electronicsweekly.com/news/business/uspto-seeks-input-on-wipo-riyadh-design-law-treaty-rdlt-2026-03/)
-**Published:** Mon, 16 Mar 2026 06:12:12 +0000
+## [ROHM’s New SiC Power Modules Now Available for Online Purchase!](https://www.electronicsforu.com/press-releases/rohms-new-sic-power-modules-now-available-for-online-purchase)
+**Published:** Tue, 17 Mar 2026 06:05:10 +0000
 
-<p>United States Patent and Trademark Office (USPTO) is requesting input from interested parties on the World Intellectual Property Organisation (WIPO) Riyadh Design Law Treaty (RDLT), adopted by WIPO member states ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/uspto-seeks-input-on-wipo-riyadh-design-law-treaty-rdlt-2026-03/">USPTO seeks input on WIPO Riyadh Design Law Treaty (RDLT)</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [JOB: Physical Design Engineer At Digicomm Semiconductor](https://www.electronicsforu.com/career/physical-design-engineer-digicomm-semiconductor)
-**Published:** Mon, 16 Mar 2026 10:13:04 +0000
-
-<img alt="Garuda3d" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/jobs5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru/ Pune/ Hyderabad/ Noida Company: Digicomm Semiconductor Qualifications BTECH/MTECH Job Description
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/product-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />ROHM has begun online sales of new SiC molded modules: TRCDRIVE pack, HSDIP20 and DOT-247. Amid growing concerns over tightening global power supply and the increasing importance of energy conservation, these products promote the adoption of high-efficiency power conversion using SiC in a wider range of applications. These products are available for online purchase from [&#8230;]
 
 ---
 
-## [JOB: PCB Design Engineer, Electronic Systems At Tesla In Pune](https://www.electronicsforu.com/career/pcb-design-engineer-electronic-systems-tesla-pune)
-**Published:** Mon, 16 Mar 2026 10:07:48 +0000
+## [Leakage-Free Transistor Enables 3D Chips](https://www.electronicsforu.com/news/leakage-free-transistor-enables-3d-chips)
+**Published:** Tue, 17 Mar 2026 05:48:12 +0000
 
-<img alt="JOB: PCB Design Engineer, Electronic Systems At Tesla In Pune" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/04/ZZD_Tesla-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Tesla What to Expect The high speed layout team is responsible for layout of the physical hardware that delivers the autonomous driving capability, high performance computing and infotainment experience to Tesla vehicles and Tesla Super Computer AI. The team designs the complex, high speed printed circuit boards that delivers on [&#8230;]
-
----
-
-## [Fac Tec China 2026: Your Gateway To The Factories Of Tomorrow – Driving Efficiency, Safety, And Sustainability](https://www.electronicsforu.com/press-releases/fac-tec-china-2026-your-gateway-to-the-factories-of-tomorrow-driving-efficiency-safety-and-sustainability)
-**Published:** Mon, 16 Mar 2026 08:26:19 +0000
-
-<img alt="Fac Tec China 2026: Your Gateway To The Factories Of Tomorrow – Driving Efficiency, Safety, And Sustainability" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Fac-Tec-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Organized by RX, Fac Tec China will take place from June 2–4, 2026, at the ShanghaiWorld Expo Exhibition &#38; Convention Center. This premier trade event comes at apivotal moment for the global electronics manufacturing industry, as companies facemounting pressure to improve efficiency, adopt sustainable practices, and upgrade tointelligent, flexible factory systems. Global demand for advanced [&#8230;]
-
----
-
-## [Single Chip Runs AI Tasks And Wireless Communication](https://www.electronicsforu.com/special/single-chip-runs-ai-tasks-and-wireless-communication)
-**Published:** Mon, 16 Mar 2026 06:15:21 +0000
-
-<img alt="Single Chip Runs AI Tasks And Wireless Communication" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/NW-NXP-NEW-IMX-93W-FUSES-EDGE-OG-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An edge processor combines AI acceleration with secure tri-radio wireless in one chip, aiming to simplify system design and enable physical AI devices to operate locally. NXP Semiconductors has introduced the i.MX 93W applications processor, expanding its i.MX 93 family and targeting systems that run physical AI at the edge. The processor integrates a dedicated [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/dgist-develops-key-tra-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New vertical device architecture promises stable, ultra-dense semiconductor stacking for future AI and high-performance electronics. Researchers have developed a new transistor architecture designed to support the next generation of 3D stacked semiconductors, addressing one of the biggest challenges in ultra-dense chip design—current leakage. The innovation could enable more efficient processors for AI, high-performance computing, and [&#8230;]
 
 ---
 
