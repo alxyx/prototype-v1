@@ -1,12 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-17 16:22 UTC_
+_Last updated: 2026-03-17 22:49 UTC_
 
 ## [MetaOptics Helping Build End-to-end Metalens Manufacturing Capabilities in Taiwan](https://www.eetasia.com/metaoptics-helping-build-end-to-end-metalens-manufacturing-capabilities-in-taiwan/)
 **Published:** Mon, 16 Mar 2026 02:58:30 +0000
 
 <p>MetaOptics' shipment of Automatic Metalens Tester reinforces its commitment to supporting Taiwan's advanced semiconductor ecosystems.</p>
 <p>The post <a href="https://www.eetasia.com/metaoptics-helping-build-end-to-end-metalens-manufacturing-capabilities-in-taiwan/">MetaOptics Helping Build End-to-end Metalens Manufacturing Capabilities in Taiwan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Sivers Semiconductors, O-Net and Enablence Technologies Announce Collaboration on Co-Packaged Optics](https://www.semiconductor-digest.com/sivers-semiconductors-o-net-and-enablence-technologies-announce-collaboration-on-co-packaged-optics/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-o-net-and-enablence-technologies-announce-collaboration-on-co-packaged-optics)
+**Published:** Tue, 17 Mar 2026 17:51:54 +0000
+
+<p>All three companies will be showcasing their optics solutions and discussing the collaboration at the upcoming OFC Show in Los Angeles from March 17 to March 20.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sivers-semiconductors-o-net-and-enablence-technologies-announce-collaboration-on-co-packaged-optics/">Sivers Semiconductors, O-Net and Enablence Technologies Announce Collaboration on Co-Packaged Optics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -803,14 +811,6 @@ _Last updated: 2026-03-17 16:22 UTC_
 
 ---
 
-## [New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable](https://www.semiconductor-digest.com/new-fraunhofer-ipms-chip-makes-ph-measurements-easier-and-devices-more-robust-and-portable/?utm_source=rss&utm_medium=rss&utm_campaign=new-fraunhofer-ipms-chip-makes-ph-measurements-easier-and-devices-more-robust-and-portable)
-**Published:** Thu, 12 Feb 2026 16:54:40 +0000
-
-<p>Fraunhofer Institute for Photonic Microsystems IPMS has achieved another breakthrough in pH measurement technology. Researchers have developed a new technology that makes pH measurements significantly more robust, simple, and reliable.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-fraunhofer-ipms-chip-makes-ph-measurements-easier-and-devices-more-robust-and-portable/">New Fraunhofer IPMS Chip Makes pH Measurements Easier and Devices More Robust and Portable</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Navitas Unveils 800V–6V DC-DC Power Board for AI Servers](https://www.powerelectronicsnews.com/navitas-unveils-800v-6v-dc-dc-power-board-for-ai-servers/)
 **Published:** Tue, 17 Mar 2026 15:00:00 +0000
 
@@ -931,11 +931,11 @@ _Last updated: 2026-03-17 16:22 UTC_
 
 ---
 
-## [The Silicon Hegemon](https://www.eetimes.com/the-silicon-hegemon/)
-**Published:** Thu, 12 Mar 2026 22:00:00 +0000
+## [Nordic updates Fuel Gauge battery health-monitoring for IoT devices](https://www.electronicsweekly.com/news/products/software-products/nordic-updates-fuel-gauge-battery-health-monitoring-for-iot-devices-2026-03/)
+**Published:** Tue, 17 Mar 2026 16:22:04 +0000
 
-<p>Taiwan remains the semiconductor industry's stronghold in 2026, with a tech roadmap aimed at next-generation AI systems.</p>
-<p>The post <a href="https://www.eetimes.com/the-silicon-hegemon/">The Silicon Hegemon</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Nordic Semiconductor has updated its Fuel Gauge software to v2.0. This is the battery health system for its nPM1300 and nPM1304 power management ICS. The release adds State-of-Health estimation, adaptive ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/software-products/nordic-updates-fuel-gauge-battery-health-monitoring-for-iot-devices-2026-03/">Nordic updates Fuel Gauge battery health-monitoring for IoT devices</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
