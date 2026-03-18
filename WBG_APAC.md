@@ -1,12 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-17 22:49 UTC_
+_Last updated: 2026-03-18 08:07 UTC_
 
-## [MetaOptics Helping Build End-to-end Metalens Manufacturing Capabilities in Taiwan](https://www.eetasia.com/metaoptics-helping-build-end-to-end-metalens-manufacturing-capabilities-in-taiwan/)
-**Published:** Mon, 16 Mar 2026 02:58:30 +0000
+## [India Making Significant Progress Toward Semiconductor Workforce Development Under C2S](https://www.eetasia.com/india-making-significant-progress-toward-semiconductor-workforce-development-under-c2s/)
+**Published:** Wed, 18 Mar 2026 04:49:18 +0000
 
-<p>MetaOptics' shipment of Automatic Metalens Tester reinforces its commitment to supporting Taiwan's advanced semiconductor ecosystems.</p>
-<p>The post <a href="https://www.eetasia.com/metaoptics-helping-build-end-to-end-metalens-manufacturing-capabilities-in-taiwan/">MetaOptics Helping Build End-to-end Metalens Manufacturing Capabilities in Taiwan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Under the C2S initiative, India has made significant progress in its 10-year target of training 85,000 engineers in semiconductor design.</p>
+<p>The post <a href="https://www.eetasia.com/india-making-significant-progress-toward-semiconductor-workforce-development-under-c2s/">India Making Significant Progress Toward Semiconductor Workforce Development Under C2S</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -891,6 +891,14 @@ _Last updated: 2026-03-17 22:49 UTC_
 
 ---
 
+## [Taiwan’s Emerging Power Electronics Strategy in the AI Era](https://www.eetimes.com/taiwans-emerging-power-electronics-strategy-in-the-ai-era/)
+**Published:** Wed, 18 Mar 2026 08:00:00 +0000
+
+<p>Taiwan’s industry leaders position power electronics as a technology priority, indispensable to the green energy transition.</p>
+<p>The post <a href="https://www.eetimes.com/taiwans-emerging-power-electronics-strategy-in-the-ai-era/">Taiwan’s Emerging Power Electronics Strategy in the AI Era</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [From DX to AX: AW 2026 Signals the Rise of Autonomous Manufacturing](https://www.eetimes.com/from-dx-to-ax-aw-2026-signals-the-rise-of-autonomous-manufacturing/)
 **Published:** Tue, 17 Mar 2026 12:08:11 +0000
 
@@ -923,11 +931,19 @@ _Last updated: 2026-03-17 22:49 UTC_
 
 ---
 
-## [Embedded World 2026 Wrap: Key Highlights](https://www.eetimes.com/embedded-world-2026-wrap-key-highlights/)
-**Published:** Fri, 13 Mar 2026 14:24:36 +0000
+## [Siemens Digital launches autonomous AI agent](https://www.electronicsweekly.com/news/design/eda-and-ip/siemens-digital-launches-autonomous-ai-agent-2026-03/)
+**Published:** Wed, 18 Mar 2026 06:08:58 +0000
 
-<p>Discover the biggest trends in physical AI and robotics from Embedded World 2026.</p>
-<p>The post <a href="https://www.eetimes.com/embedded-world-2026-wrap-key-highlights/">Embedded World 2026 Wrap: Key Highlights</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Siemens Digital has brought out the Fuse EDA AI Agent system, an autonomous AI agent that plans and orchestrates multi-tool and multi-agent complex semiconductor, 3D IC and PCB system workflows ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/design/eda-and-ip/siemens-digital-launches-autonomous-ai-agent-2026-03/">Siemens Digital launches autonomous AI agent</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Sponsored Content: Invisible Architects of Miniaturization – SMD Resistors in Modern Electronics](https://www.electronicsweekly.com/news/business/distribution/sponsored-content-invisible-architects-of-miniaturization-smd-resistors-in-modern-electronics-2026-03/)
+**Published:** Wed, 18 Mar 2026 00:01:02 +0000
+
+<p>Resistors undoubtedly belong to the most basic and essential electronic components. Every modern device contains dozens, sometimes even hundreds of such elements inside. Their task is quite simple – to ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/distribution/sponsored-content-invisible-architects-of-miniaturization-smd-resistors-in-modern-electronics-2026-03/">Sponsored Content: Invisible Architects of Miniaturization &#8211; SMD Resistors in Modern Electronics</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -939,38 +955,17 @@ _Last updated: 2026-03-17 22:49 UTC_
 
 ---
 
+## [SiC Inverter Reference Design Simplified](https://www.electronicsforu.com/electronics-projects/sic-inverter-reference-design-simplified)
+**Published:** Wed, 18 Mar 2026 07:19:48 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/BST70T2P4K01-EVK-001-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />It&#160; offers engineers a ready-to-use three-phase inverter platform, accelerating prototyping and evaluation of high-efficiency SiC-based power systems. ROHM Semiconductor’s reference deign is particularly useful for power electronics engineers working on high-efficiency motor drives, EV powertrains, and industrial inverter systems. By providing a ready-to-evaluate three-phase inverter platform, it significantly reduces design complexity and shortens development cycles. [&#8230;]
+
+---
+
 ## [Make Your Own Rotary Switch Timer](https://www.electronicsforu.com/videos-slideshows/make-your-own-rotary-switch-timer)
 **Published:** Tue, 17 Mar 2026 11:15:52 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/maxresdefault-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Learn the basics of designing and building a Rotary Switch–Selectable Timer for industrial and domestic applications. This project explains how a rotary switch is used to select different time delays, ranging from 10 seconds to 6 minutes, to control an appliance using the CD4060 timer IC. It is ideal for understanding timer selection concepts and [&#8230;]
-
----
-
-## [JOB: HVDC- Control & Protection Engineer At Hitachi In Chennai](https://www.electronicsforu.com/career/hvdc-control-protection-engineer-hitachi-chennai)
-**Published:** Tue, 17 Mar 2026 09:41:06 +0000
-
-<img alt="R&amp;D Engineer- Power System" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/01/hitachi-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Chennai Company: Hitachi The technical marketing engineer for Mission Critical Telecommunication Solutions (MCS) has the global responsibility to enable the Pre-Sales &#38; Sales community of the different regional HUBs to understand technical market requirements for wired telecommunication networks and ensure customer interaction in line with the global solution/product strategy. Support sales organisations [&#8230;]
-
----
-
-## [JOB: ASIC Design Engineer At HPE In Kolkata](https://www.electronicsforu.com/career/asic-design-engineer-at-hpe-kolkata)
-**Published:** Tue, 17 Mar 2026 09:30:01 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/hpe-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Kolkata Company: HPE Designs, analyses, develops, modifies and evaluates VLSI components and hardware systems. Determines architecture and logic design, design verification through software developed for component and system simulation, and builds physical implementations through development of multidimensional designs involving the layout of complex integrated circuits. Analyses designs to establish operating data, conducts [&#8230;]
-
----
-
-## [Power Board Amplifies Data Center Architecture](https://www.electronicsforu.com/news/power-board-amplifies-data-center-architecture)
-**Published:** Tue, 17 Mar 2026 09:26:10 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/pr437-20kw-v3-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if data center power could skip a step? A new board enables direct conversion, cutting stages, reducing losses, and changing how systems are built. Navitas Semiconductor has introduced a DC-DC power delivery board that converts 800 V directly to 6 V in a single stage, removing the 48 V intermediate bus converter from server [&#8230;]
-
----
-
-## [Embedded Engineer Intern At Intugine In Bengaluru](https://www.electronicsforu.com/career/embedded-engineer-intern-at-intugine-in-bengaluru)
-**Published:** Tue, 17 Mar 2026 09:18:09 +0000
-
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Intugine We are looking for a motivated Embedded Engineer Intern to work closely with our Embedded Systems and IoT team. The intern will be involved across the full lifecycle of IoT projects — from early-stage R&#38;D and proof-of-concepts (POCs) to field deployment and go-live support. This role is hands-on and execution-focused, ideal for candidates [&#8230;]
 
 ---
 
