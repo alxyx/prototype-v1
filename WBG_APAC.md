@@ -1,12 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-18 18:19 UTC_
+_Last updated: 2026-03-18 20:02 UTC_
 
 ## [India Making Significant Progress Toward Semiconductor Workforce Development Under C2S](https://www.eetasia.com/india-making-significant-progress-toward-semiconductor-workforce-development-under-c2s/)
 **Published:** Wed, 18 Mar 2026 04:49:18 +0000
 
 <p>Under the C2S initiative, India has made significant progress in its 10-year target of training 85,000 engineers in semiconductor design.</p>
 <p>The post <a href="https://www.eetasia.com/india-making-significant-progress-toward-semiconductor-workforce-development-under-c2s/">India Making Significant Progress Toward Semiconductor Workforce Development Under C2S</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2](https://www.semiconductor-digest.com/omdia-panel-makers-raise-q1-fab-utilization-rate-to-82-outlook-softens-from-mid-q2/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-panel-makers-raise-q1-fab-utilization-rate-to-82-outlook-softens-from-mid-q2)
+**Published:** Wed, 18 Mar 2026 19:14:25 +0000
+
+<p>Display panel makers are increasing fab utilization in Q1 2026 for the second consecutive month, with rates expected to exceed the previous quarter.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-panel-makers-raise-q1-fab-utilization-rate-to-82-outlook-softens-from-mid-q2/">Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -800,14 +808,6 @@ _Last updated: 2026-03-18 18:19 UTC_
 
 <p>Researchers at QuTech in Delft, The Netherlands, have developed a new chip architecture that could make it easier to test and scale up quantum processors based on semiconductor spin qubits.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/rolling-out-the-carpet-for-spin-qubits-with-new-chip-architecture/">Rolling Out the Carpet for Spin Qubits with New Chip Architecture</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nonlinear Stiffness Softening Unlocks High-Performance MEMS Sensing in Compact Devices](https://www.semiconductor-digest.com/nonlinear-stiffness-softening-unlocks-high-performance-mems-sensing-in-compact-devices/?utm_source=rss&utm_medium=rss&utm_campaign=nonlinear-stiffness-softening-unlocks-high-performance-mems-sensing-in-compact-devices)
-**Published:** Thu, 12 Feb 2026 17:10:07 +0000
-
-<p>Achieving both high sensitivity and a wide dynamic range remains a central challenge in microelectromechanical accelerometers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nonlinear-stiffness-softening-unlocks-high-performance-mems-sensing-in-compact-devices/">Nonlinear Stiffness Softening Unlocks High-Performance MEMS Sensing in Compact Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
