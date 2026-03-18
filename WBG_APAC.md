@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-18 08:07 UTC_
+_Last updated: 2026-03-18 12:00 UTC_
 
 ## [India Making Significant Progress Toward Semiconductor Workforce Development Under C2S](https://www.eetasia.com/india-making-significant-progress-toward-semiconductor-workforce-development-under-c2s/)
 **Published:** Wed, 18 Mar 2026 04:49:18 +0000
@@ -918,7 +918,7 @@ _Last updated: 2026-03-18 08:07 UTC_
 ## [ABLIC Expands Market Presence with High-Value Analog Solutions in Europe and the US](https://www.eetimes.com/ablic-expands-market-presence-with-high-value-analog-solutions-in-europe-and-the-us/)
 **Published:** Mon, 16 Mar 2026 16:00:00 +0000
 
-<p>ABLIC develops&#160;high-value-added analog semiconductors&#160;and has&#160;become&#160;a global leader in niche fields. Over the past few years, the company has&#160;laid&#160;the groundwork for business expansion through acquisitions and organizational restructuring.&#160;In&#160;2026,&#160;ABLIC&#160;is poised to translate these efforts into a&#160;clear&#160;growth trajectory&#160;while&#160;accelerating&#160;business expansion in Europe and the United States. We spoke with Seiji Tanaka,&#160;Representative&#160;Director and&#160;President of ABLIC, about the company’s strategy.&#160; ● [&#8230;]</p>
+<p>ABLIC, a leader in analog semiconductors, aims for growth in 2026 following strategic acquisitions and restructuring.</p>
 <p>The post <a href="https://www.eetimes.com/ablic-expands-market-presence-with-high-value-analog-solutions-in-europe-and-the-us/">ABLIC Expands Market Presence with High-Value Analog Solutions in Europe and the US</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
@@ -928,6 +928,14 @@ _Last updated: 2026-03-18 08:07 UTC_
 
 <p>Here is how a prolonged war in the Middle East could turn into a disaster for the semiconductor business.</p>
 <p>The post <a href="https://www.eetimes.com/middle-east-turmoil-materials-shortage-fuel-price-hike-disrupting-chip-industry/">Middle East Turmoil: Materials Shortage, Fuel Price Hike Disrupting Chip Industry</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Embedded: Ambient Scientific integrates 10 AI cores in GPX10 Pro](https://www.electronicsweekly.com/news/products/embedded-ambient-scientific-integrates-10-ai-cores-in-gpx10-pro-2026-03/)
+**Published:** Wed, 18 Mar 2026 10:52:10 +0000
+
+<p>The GPX10 Pro SoC has 10 programmable AI cores for a custom instruction set and is based on Ambient Scientific&#8217;s proprietarty DigAn architecture and MAC circuit design. The chip&#8217;s AI ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/embedded-ambient-scientific-integrates-10-ai-cores-in-gpx10-pro-2026-03/">Embedded: Ambient Scientific integrates 10 AI cores in GPX10 Pro</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -959,13 +967,6 @@ _Last updated: 2026-03-18 08:07 UTC_
 **Published:** Wed, 18 Mar 2026 07:19:48 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/BST70T2P4K01-EVK-001-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />It&#160; offers engineers a ready-to-use three-phase inverter platform, accelerating prototyping and evaluation of high-efficiency SiC-based power systems. ROHM Semiconductor’s reference deign is particularly useful for power electronics engineers working on high-efficiency motor drives, EV powertrains, and industrial inverter systems. By providing a ready-to-evaluate three-phase inverter platform, it significantly reduces design complexity and shortens development cycles. [&#8230;]
-
----
-
-## [Make Your Own Rotary Switch Timer](https://www.electronicsforu.com/videos-slideshows/make-your-own-rotary-switch-timer)
-**Published:** Tue, 17 Mar 2026 11:15:52 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/maxresdefault-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Learn the basics of designing and building a Rotary Switch–Selectable Timer for industrial and domestic applications. This project explains how a rotary switch is used to select different time delays, ranging from 10 seconds to 6 minutes, to control an appliance using the CD4060 timer IC. It is ideal for understanding timer selection concepts and [&#8230;]
 
 ---
 
