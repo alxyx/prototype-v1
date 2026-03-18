@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-18 12:00 UTC_
+_Last updated: 2026-03-18 18:19 UTC_
 
 ## [India Making Significant Progress Toward Semiconductor Workforce Development Under C2S](https://www.eetasia.com/india-making-significant-progress-toward-semiconductor-workforce-development-under-c2s/)
 **Published:** Wed, 18 Mar 2026 04:49:18 +0000
@@ -811,6 +811,30 @@ _Last updated: 2026-03-18 12:00 UTC_
 
 ---
 
+## [The Rise of GaN Bidirectional Switches](https://www.powerelectronicsnews.com/the-rise-of-gan-bidirectional-switches/)
+**Published:** Wed, 18 Mar 2026 15:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="670" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Cover-Image.jpg?fit=1000%2C670" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Wherever engineers need an efficient way to handle power flow in both directions, GaN BDS are quickly emerging as the go-to answer.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-rise-of-gan-bidirectional-switches/">The Rise of GaN Bidirectional Switches</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Infineon Unveils 800-V CoolGaN HV IBC Reference Designs](https://www.powerelectronicsnews.com/infineon-unveils-800-v-coolgan-hv-ibc-reference-designs/)
+**Published:** Wed, 18 Mar 2026 15:00:00 +0000
+
+<img alt="Infineon Unveils 800 V CoolGaN HV IBC Reference Designs." class="webfeedsFeaturedVisual wp-post-image" height="1701" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/board-hv-ibc-800-12v.jpg?fit=2126%2C1701" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The new GaN-based HV IBC designs enable efficient 800 VDC power conversion for next-generation AI server architectures.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-unveils-800-v-coolgan-hv-ibc-reference-designs/">Infineon Unveils 800-V CoolGaN HV IBC Reference Designs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [H3TRB Reliability Tests for SiC Power Devices](https://www.powerelectronicsnews.com/h3trb-reliability-tests-for-sic-power-devices/)
+**Published:** Wed, 18 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2304" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_1622459631.jpeg?fit=4224%2C2304" style="display: block; margin-bottom: 5px; clear: both;" width="4224" /><p>SiC power devices outperform silicon in humidity reliability tests, with passivation design proving critical to long-term performance.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/h3trb-reliability-tests-for-sic-power-devices/">H3TRB Reliability Tests for SiC Power Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Navitas Unveils 800V–6V DC-DC Power Board for AI Servers](https://www.powerelectronicsnews.com/navitas-unveils-800v-6v-dc-dc-power-board-for-ai-servers/)
 **Published:** Tue, 17 Mar 2026 15:00:00 +0000
 
@@ -867,30 +891,6 @@ _Last updated: 2026-03-18 12:00 UTC_
 
 ---
 
-## [Innovations in Grid-to-Rack Make Data Centers More Efficient](https://www.powerelectronicsnews.com/innovations-in-grid-to-rack-make-data-centers-more-efficient/)
-**Published:** Fri, 13 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2880" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_350459236.jpeg?fit=5120%2C2880" style="display: block; margin-bottom: 5px; clear: both;" width="5120" /><p>Traditional grid-to-rack systems transfer power from the substation to servers, passing through several power-conversion stages that introduce power losses and reduce overall efficiency. Following a...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/innovations-in-grid-to-rack-make-data-centers-more-efficient/">Innovations in Grid-to-Rack Make Data Centers More Efficient</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Navitas Adds QDPAK and TO-247-4L for 1200 V SiC MOSFETs](https://www.powerelectronicsnews.com/navitas-adds-qdpak-and-to-247-4l-for-1200-v-sic-mosfets/)
-**Published:** Thu, 12 Mar 2026 14:00:00 +0000
-
-<img alt="Navitas Expands SiC MOSFET Packaging with QDPAK and TO-247-4L." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Navitas_PR.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new GeneSiC SiC MOSFET packages target AI data centers, grid infrastructure, and industrial electrification.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/navitas-adds-qdpak-and-to-247-4l-for-1200-v-sic-mosfets/">Navitas Adds QDPAK and TO-247-4L for 1200 V SiC MOSFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Corner: Empower Semiconductor CEO Tim Phillips on Closing the Gap Between Power and Processor](https://www.powerelectronicsnews.com/power-corner-empower-semiconductor-ceo-tim-phillips-on-closing-the-gap-between-power-and-processor/)
-**Published:** Thu, 12 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Empower-Semi.png?fit=1982%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1982" /><p>Description Empower Semiconductor CEO Tim Phillips joins Power Corner to discuss the company&#8217;s Crescendo platform—an EDN Product of the Year winner—and how it enables vertical...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-empower-semiconductor-ceo-tim-phillips-on-closing-the-gap-between-power-and-processor/">Power Corner: Empower Semiconductor CEO Tim Phillips on Closing the Gap Between Power and Processor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Taiwan’s Emerging Power Electronics Strategy in the AI Era](https://www.eetimes.com/taiwans-emerging-power-electronics-strategy-in-the-ai-era/)
 **Published:** Wed, 18 Mar 2026 08:00:00 +0000
 
@@ -920,14 +920,6 @@ _Last updated: 2026-03-18 12:00 UTC_
 
 <p>ABLIC, a leader in analog semiconductors, aims for growth in 2026 following strategic acquisitions and restructuring.</p>
 <p>The post <a href="https://www.eetimes.com/ablic-expands-market-presence-with-high-value-analog-solutions-in-europe-and-the-us/">ABLIC Expands Market Presence with High-Value Analog Solutions in Europe and the US</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Middle East Turmoil: Materials Shortage, Fuel Price Hike Disrupting Chip Industry](https://www.eetimes.com/middle-east-turmoil-materials-shortage-fuel-price-hike-disrupting-chip-industry/)
-**Published:** Mon, 16 Mar 2026 08:27:21 +0000
-
-<p>Here is how a prolonged war in the Middle East could turn into a disaster for the semiconductor business.</p>
-<p>The post <a href="https://www.eetimes.com/middle-east-turmoil-materials-shortage-fuel-price-hike-disrupting-chip-industry/">Middle East Turmoil: Materials Shortage, Fuel Price Hike Disrupting Chip Industry</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
