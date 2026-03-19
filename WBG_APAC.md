@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-19 11:50 UTC_
+_Last updated: 2026-03-19 13:21 UTC_
 
 ## [DigiKey to Showcase Cutting-edge Technologies and Products to AI EXPO Taiwan 2026](https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/)
 **Published:** Thu, 19 Mar 2026 10:54:37 +0000
@@ -827,6 +827,14 @@ _Last updated: 2026-03-19 11:50 UTC_
 
 ---
 
+## [Power Corner: Infineon’s Johannes Schoiswohl on GaN Integration, Bidirectional Switches, and 300 mm Manufacturing](https://www.powerelectronicsnews.com/power-corner-infineons-johannes-schoiswohl-on-gan-integration-bidirectional-switches-and-300-mm-manufacturing/)
+**Published:** Thu, 19 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1118" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Infineon_aab6b5.png?fit=1944%2C1118" style="display: block; margin-bottom: 5px; clear: both;" width="1944" /><p>Infineon's Schoiswohl covers GaN: bidirectional switches, GIT reliability, 300 mm manufacturing, and medium-voltage outlook.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-infineons-johannes-schoiswohl-on-gan-integration-bidirectional-switches-and-300-mm-manufacturing/">Power Corner: Infineon&#8217;s Johannes Schoiswohl on GaN Integration, Bidirectional Switches, and 300 mm Manufacturing</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Hybrid LIC + BBU: Solving AI Server Power Gaps](https://www.powerelectronicsnews.com/hybrid-lic-bbu-solving-ai-server-power-gaps/)
 **Published:** Thu, 19 Mar 2026 09:00:00 +0000
 
@@ -899,14 +907,6 @@ _Last updated: 2026-03-19 11:50 UTC_
 
 ---
 
-## [Panasonic Introduces FineX Transparent EMI Shielding Film](https://www.powerelectronicsnews.com/panasonic-introduces-finex-transparent-emi-shielding-film/)
-**Published:** Fri, 13 Mar 2026 15:00:00 +0000
-
-<img alt="Panasonic Introduces FineX Transparent EMI Shielding Film." class="webfeedsFeaturedVisual wp-post-image" height="1063" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/npi_FineX_pr_online-1.jpg?fit=1535%2C1063" style="display: block; margin-bottom: 5px; clear: both;" width="1535" /><p>The transparent conductive film combines high optical transmissivity, low resistance, and flexible EMI shielding.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/panasonic-introduces-finex-transparent-emi-shielding-film/">Panasonic Introduces FineX Transparent EMI Shielding Film</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [NVIDIA Presents GaN Supplier Award to Innoscience for AI Datacenter 800 VDC Rack Power Support](https://www.eetimes.com/nvidia-presents-gan-supplier-award-to-innoscience-for-ai-datacenter-800-vdc-rack-power-support/)
 **Published:** Thu, 19 Mar 2026 07:59:28 +0000
 
@@ -928,30 +928,6 @@ _Last updated: 2026-03-19 11:50 UTC_
 
 <p>Edge AI, robotics, and digital twins are converging to enable physical AI-driven manufacturing systems.</p>
 <p>The post <a href="https://www.eetimes.com/from-dx-to-ax-aw-2026-signals-the-rise-of-autonomous-manufacturing/">From DX to AX: AW 2026 Signals the Rise of Autonomous Manufacturing</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Industrial Robotics Drive Shift Toward Physical AI](https://www.eetimes.com/industrial-robotics-drive-shift-toward-physical-ai/)
-**Published:** Tue, 17 Mar 2026 07:00:00 +0000
-
-<p>Industrial robotics leap into physical AI, empowering factories with real-time smarts.</p>
-<p>The post <a href="https://www.eetimes.com/industrial-robotics-drive-shift-toward-physical-ai/">Industrial Robotics Drive Shift Toward Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Semi sales were $830bn last year, says Omdia](https://www.electronicsweekly.com/news/business/semi-sales-were-830bn-last-year-says-omdia-2026-03/)
-**Published:** Thu, 19 Mar 2026 06:18:03 +0000
-
-<p>Semiconductor sales of over $830 billion in 2025 marking the second consecutive year of more than 20% annual revenue growth, says Omdia. Demand for AI-related technologies continues to drive market ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/semi-sales-were-830bn-last-year-says-omdia-2026-03/">Semi sales were $830bn last year, says Omdia</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Embedded: Ambient Scientific integrates 10 AI cores in GPX10 Pro](https://www.electronicsweekly.com/news/products/embedded-ambient-scientific-integrates-10-ai-cores-in-gpx10-pro-2026-03/)
-**Published:** Wed, 18 Mar 2026 10:52:10 +0000
-
-<p>The GPX10 Pro SoC has 10 programmable AI cores for a custom instruction set and is based on Ambient Scientific&#8217;s proprietarty DigAn architecture and MAC circuit design. The chip&#8217;s AI ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/embedded-ambient-scientific-integrates-10-ai-cores-in-gpx10-pro-2026-03/">Embedded: Ambient Scientific integrates 10 AI cores in GPX10 Pro</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
