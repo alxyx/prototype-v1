@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-19 02:26 UTC_
+_Last updated: 2026-03-19 11:50 UTC_
+
+## [DigiKey to Showcase Cutting-edge Technologies and Products to AI EXPO Taiwan 2026](https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/)
+**Published:** Thu, 19 Mar 2026 10:54:37 +0000
+
+<p>DigiKey will highlight the physical components that enable AI to integrate into new domains like smart manufacturing, healthcare and automotive.</p>
+<p>The post <a href="https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/">DigiKey to Showcase Cutting-edge Technologies and Products to AI EXPO Taiwan 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Lattice Advances Safety for Physical AI by Joining NVIDIA Halos Ecosystem](https://www.eetasia.com/lattice-advances-safety-for-physical-ai-by-joining-nvidia-halos-ecosystem/)
+**Published:** Thu, 19 Mar 2026 02:58:57 +0000
+
+<p>Lattice will engage with NVIDIA and other Halos ecosystem members to build Halos-certified Holoscan Sensor Bridge-based designs for physical AI.</p>
+<p>The post <a href="https://www.eetasia.com/lattice-advances-safety-for-physical-ai-by-joining-nvidia-halos-ecosystem/">Lattice Advances Safety for Physical AI by Joining NVIDIA Halos Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [India Making Significant Progress Toward Semiconductor Workforce Development Under C2S](https://www.eetasia.com/india-making-significant-progress-toward-semiconductor-workforce-development-under-c2s/)
 **Published:** Wed, 18 Mar 2026 04:49:18 +0000
@@ -811,6 +827,14 @@ _Last updated: 2026-03-19 02:26 UTC_
 
 ---
 
+## [Hybrid LIC + BBU: Solving AI Server Power Gaps](https://www.powerelectronicsnews.com/hybrid-lic-bbu-solving-ai-server-power-gaps/)
+**Published:** Thu, 19 Mar 2026 09:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1535" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/ymin_PC_march26_thumbnail-image.jpg?fit=2730%2C1535" style="display: block; margin-bottom: 5px; clear: both;" width="2730" /><p>Optimize AI server DC bus stability with YMIN hybrid supercapacitors (LIC + BBU): millisecond-level transient power compensation, compact, fast, long-life.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/hybrid-lic-bbu-solving-ai-server-power-gaps/">Hybrid LIC + BBU: Solving AI Server Power Gaps</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [The Rise of GaN Bidirectional Switches](https://www.powerelectronicsnews.com/the-rise-of-gan-bidirectional-switches/)
 **Published:** Wed, 18 Mar 2026 15:00:00 +0000
 
@@ -883,11 +907,11 @@ _Last updated: 2026-03-19 02:26 UTC_
 
 ---
 
-## [Solid-State Transformers, Current Source Inverter in Motor Drives, Innovations in Grid-to-Rack: Power Electronics Week Insights](https://www.powerelectronicsnews.com/solid-state-transformers-current-source-inverter-in-motor-drives-innovations-in-grid-to-rack-power-electronics-week-insights/)
-**Published:** Fri, 13 Mar 2026 15:00:00 +0000
+## [NVIDIA Presents GaN Supplier Award to Innoscience for AI Datacenter 800 VDC Rack Power Support](https://www.eetimes.com/nvidia-presents-gan-supplier-award-to-innoscience-for-ai-datacenter-800-vdc-rack-power-support/)
+**Published:** Thu, 19 Mar 2026 07:59:28 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Solid-State Transformers, Current Source Inverter in Motor Drives, and Innovations in Grid-to-Rack!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/solid-state-transformers-current-source-inverter-in-motor-drives-innovations-in-grid-to-rack-power-electronics-week-insights/">Solid-State Transformers, Current Source Inverter in Motor Drives, Innovations in Grid-to-Rack: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>NVIDIA honored Innoscience for advancing 800VDC rack power and delivering high-efficiency GaN solutions for next-generation AI data centers.</p>
+<p>The post <a href="https://www.eetimes.com/nvidia-presents-gan-supplier-award-to-innoscience-for-ai-datacenter-800-vdc-rack-power-support/">NVIDIA Presents GaN Supplier Award to Innoscience for AI Datacenter 800 VDC Rack Power Support</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -915,11 +939,11 @@ _Last updated: 2026-03-19 02:26 UTC_
 
 ---
 
-## [ABLIC Expands Market Presence with High-Value Analog Solutions in Europe and the US](https://www.eetimes.com/ablic-expands-market-presence-with-high-value-analog-solutions-in-europe-and-the-us/)
-**Published:** Mon, 16 Mar 2026 16:00:00 +0000
+## [Semi sales were $830bn last year, says Omdia](https://www.electronicsweekly.com/news/business/semi-sales-were-830bn-last-year-says-omdia-2026-03/)
+**Published:** Thu, 19 Mar 2026 06:18:03 +0000
 
-<p>ABLIC, a leader in analog semiconductors, aims for growth in 2026 following strategic acquisitions and restructuring.</p>
-<p>The post <a href="https://www.eetimes.com/ablic-expands-market-presence-with-high-value-analog-solutions-in-europe-and-the-us/">ABLIC Expands Market Presence with High-Value Analog Solutions in Europe and the US</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Semiconductor sales of over $830 billion in 2025 marking the second consecutive year of more than 20% annual revenue growth, says Omdia. Demand for AI-related technologies continues to drive market ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/semi-sales-were-830bn-last-year-says-omdia-2026-03/">Semi sales were $830bn last year, says Omdia</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -931,34 +955,17 @@ _Last updated: 2026-03-19 02:26 UTC_
 
 ---
 
-## [Siemens Digital launches autonomous AI agent](https://www.electronicsweekly.com/news/design/eda-and-ip/siemens-digital-launches-autonomous-ai-agent-2026-03/)
-**Published:** Wed, 18 Mar 2026 06:08:58 +0000
+## [Power Chip That Makes Systems Smaller and Faster](https://www.electronicsforu.com/special/power-chip-that-makes-systems-smaller-and-faster)
+**Published:** Thu, 19 Mar 2026 07:44:16 +0000
 
-<p>Siemens Digital has brought out the Fuse EDA AI Agent system, an autonomous AI agent that plans and orchestrates multi-tool and multi-agent complex semiconductor, 3D IC and PCB system workflows ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/design/eda-and-ip/siemens-digital-launches-autonomous-ai-agent-2026-03/">Siemens Digital launches autonomous AI agent</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Sponsored Content: Invisible Architects of Miniaturization – SMD Resistors in Modern Electronics](https://www.electronicsweekly.com/news/business/distribution/sponsored-content-invisible-architects-of-miniaturization-smd-resistors-in-modern-electronics-2026-03/)
-**Published:** Wed, 18 Mar 2026 00:01:02 +0000
-
-<p>Resistors undoubtedly belong to the most basic and essential electronic components. Every modern device contains dozens, sometimes even hundreds of such elements inside. Their task is quite simple – to ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/distribution/sponsored-content-invisible-architects-of-miniaturization-smd-resistors-in-modern-electronics-2026-03/">Sponsored Content: Invisible Architects of Miniaturization &#8211; SMD Resistors in Modern Electronics</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/CPM3-10000-0300A-PR-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new power device could change how high voltage systems are designed by simplifying architectures, reducing cost and replacing existing approaches. Wolfspeed has announced the industry’s first commercially available 10 kV silicon carbide (SiC) power MOSFET. It is aimed at high-voltage systems, where it enables more flexible system design, improves durability, and supports reliable and [&#8230;]
 
 ---
 
-## [Nordic updates Fuel Gauge battery health-monitoring for IoT devices](https://www.electronicsweekly.com/news/products/software-products/nordic-updates-fuel-gauge-battery-health-monitoring-for-iot-devices-2026-03/)
-**Published:** Tue, 17 Mar 2026 16:22:04 +0000
+## [Space Grade Choke In GaN/SiC Power Designs](https://www.electronicsforu.com/news/space-grade-choke-in-gan-sic-power-designs)
+**Published:** Thu, 19 Mar 2026 06:46:14 +0000
 
-<p>Nordic Semiconductor has updated its Fuel Gauge software to v2.0. This is the battery health system for its nPM1300 and nPM1304 power management ICS. The release adds State-of-Health estimation, adaptive ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/software-products/nordic-updates-fuel-gauge-battery-health-monitoring-for-iot-devices-2026-03/">Nordic updates Fuel Gauge battery health-monitoring for IoT devices</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [SiC Inverter Reference Design Simplified](https://www.electronicsforu.com/electronics-projects/sic-inverter-reference-design-simplified)
-**Published:** Wed, 18 Mar 2026 07:19:48 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/BST70T2P4K01-EVK-001-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />It&#160; offers engineers a ready-to-use three-phase inverter platform, accelerating prototyping and evaluation of high-efficiency SiC-based power systems. ROHM Semiconductor’s reference deign is particularly useful for power electronics engineers working on high-efficiency motor drives, EV powertrains, and industrial inverter systems. By providing a ready-to-evaluate three-phase inverter platform, it significantly reduces design complexity and shortens development cycles. [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/55142941807_c7151e444b_c-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A rugged surface-mount solution brings high-frequency noise suppression and reliability to next-gen aerospace and defense power systems. A new space-grade common mode choke has been introduced by Vishay Intertechnology, Inc. to address electromagnetic interference (EMI) in high-speed switching environments, particularly those using GaN and SiC technologies. Designed for aerospace, defense, and satellite applications, the device [&#8230;]
 
 ---
 
