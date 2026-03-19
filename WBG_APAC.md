@@ -1,12 +1,36 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-18 20:02 UTC_
+_Last updated: 2026-03-19 02:26 UTC_
 
 ## [India Making Significant Progress Toward Semiconductor Workforce Development Under C2S](https://www.eetasia.com/india-making-significant-progress-toward-semiconductor-workforce-development-under-c2s/)
 **Published:** Wed, 18 Mar 2026 04:49:18 +0000
 
 <p>Under the C2S initiative, India has made significant progress in its 10-year target of training 85,000 engineers in semiconductor design.</p>
 <p>The post <a href="https://www.eetasia.com/india-making-significant-progress-toward-semiconductor-workforce-development-under-c2s/">India Making Significant Progress Toward Semiconductor Workforce Development Under C2S</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Samsung and AMD Expand Strategic Collaboration on Next-Generation AI Memory Solutions](https://www.semiconductor-digest.com/samsung-and-amd-expand-strategic-collaboration-on-next-generation-ai-memory-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-and-amd-expand-strategic-collaboration-on-next-generation-ai-memory-solutions)
+**Published:** Wed, 18 Mar 2026 20:22:41 +0000
+
+<p>Samsung Electronics Co., Ltd. today announced it has signed a Memorandum of Understanding (MOU) with AMD to expand their strategic collaboration on next-generation AI memory and computing technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/samsung-and-amd-expand-strategic-collaboration-on-next-generation-ai-memory-solutions/">Samsung and AMD Expand Strategic Collaboration on Next-Generation AI Memory Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [CEA‑Leti to Showcase Integrated Expertise  In Microelectronics Reliability at IRPS 2026](https://www.semiconductor-digest.com/cea-leti-to-showcase-integrated-expertise-in-microelectronics-reliability-at-irps-2026/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-to-showcase-integrated-expertise-in-microelectronics-reliability-at-irps-2026)
+**Published:** Wed, 18 Mar 2026 20:20:00 +0000
+
+<p>At IRPS 2026, the premier forum for new and original research in microelectronics reliability, CEA‑Leti will present seven papers that reflect a broad and integrated expertise across device physics, process integration, RF technologies, FD‑SOI, GaN, BEOL reliability, and low‑temperature platforms enabling 3D sequential integration.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-to-showcase-integrated-expertise-in-microelectronics-reliability-at-irps-2026/">CEA‑Leti to Showcase Integrated Expertise  In Microelectronics Reliability at IRPS 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Semiconductor Market Surpasses $830B in 2025](https://www.semiconductor-digest.com/semiconductor-market-surpasses-830b-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-market-surpasses-830b-in-2025)
+**Published:** Wed, 18 Mar 2026 20:15:04 +0000
+
+<p>New research from Omdia reveals that the semiconductor market surpassed $830 billion in 2025, marking the second consecutive year of more than 20% annual revenue growth.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-market-surpasses-830b-in-2025/">Semiconductor Market Surpasses $830B in 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -784,30 +808,6 @@ _Last updated: 2026-03-18 20:02 UTC_
 
 <p>Researchers explore how reliable quantum entanglement states can be generated and distributed through off-the shelf components.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ieee-study-demonstrates-deployment-ready-quantum-entanglement-source/">IEEE Study Demonstrates Deployment-Ready Quantum Entanglement Source</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Si2 Compact Model Coalition Announces 2026 International Compact Modeling Conference](https://www.semiconductor-digest.com/si2-compact-model-coalition-announces-2026-international-compact-modeling-conference/?utm_source=rss&utm_medium=rss&utm_campaign=si2-compact-model-coalition-announces-2026-international-compact-modeling-conference)
-**Published:** Fri, 13 Feb 2026 21:10:28 +0000
-
-<p>The Si2 Compact Model Coalition, IEEE, and IEEE EDS are sponsoring the second edition of the International Compact Modeling Conference (ICMC), a two-day in-person event bringing together global experts in design, process technology, and model development to discuss advancements in semiconductor device modeling.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/si2-compact-model-coalition-announces-2026-international-compact-modeling-conference/">Si2 Compact Model Coalition Announces 2026 International Compact Modeling Conference</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GigaDevice Extends European Reach with SEMITRON Partnership for DACH region](https://www.semiconductor-digest.com/gigadevice-extends-european-reach-with-semitron-partnership-for-dach-region/?utm_source=rss&utm_medium=rss&utm_campaign=gigadevice-extends-european-reach-with-semitron-partnership-for-dach-region)
-**Published:** Thu, 12 Feb 2026 17:24:49 +0000
-
-<p>GigaDevice, a semiconductor company specializing in Flash memory, 32-bit microcontrollers (MCUs), sensors, and analog products, has entered into a distribution agreement with SEMITRON, a electronic component distributor that specializes with a focus on the DACH region.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/gigadevice-extends-european-reach-with-semitron-partnership-for-dach-region/">GigaDevice Extends European Reach with SEMITRON Partnership for DACH region</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rolling Out the Carpet for Spin Qubits with New Chip Architecture](https://www.semiconductor-digest.com/rolling-out-the-carpet-for-spin-qubits-with-new-chip-architecture/?utm_source=rss&utm_medium=rss&utm_campaign=rolling-out-the-carpet-for-spin-qubits-with-new-chip-architecture)
-**Published:** Thu, 12 Feb 2026 17:17:20 +0000
-
-<p>Researchers at QuTech in Delft, The Netherlands, have developed a new chip architecture that could make it easier to test and scale up quantum processors based on semiconductor spin qubits.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rolling-out-the-carpet-for-spin-qubits-with-new-chip-architecture/">Rolling Out the Carpet for Spin Qubits with New Chip Architecture</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
