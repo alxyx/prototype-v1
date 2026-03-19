@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-19 13:21 UTC_
+_Last updated: 2026-03-19 16:08 UTC_
 
 ## [DigiKey to Showcase Cutting-edge Technologies and Products to AI EXPO Taiwan 2026](https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/)
 **Published:** Thu, 19 Mar 2026 10:54:37 +0000
@@ -827,6 +827,14 @@ _Last updated: 2026-03-19 13:21 UTC_
 
 ---
 
+## [AOS Introduces 25V and 80V MOSFETs for AI Server Power](https://www.powerelectronicsnews.com/aos-introduces-25v-and-80v-mosfets-for-ai-server-power/)
+**Published:** Thu, 19 Mar 2026 16:00:00 +0000
+
+<img alt="AOS Introduces 25V and 80V MOSFETs for AI Server Power." class="webfeedsFeaturedVisual wp-post-image" height="411" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AOS_AONC40202-68816.jpg?fit=480%2C411" style="display: block; margin-bottom: 5px; clear: both;" width="480" /><p>The new MOSFETs feature double-sided cooling packaging to improve thermal performance and power density in AI server applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/aos-introduces-25v-and-80v-mosfets-for-ai-server-power/">AOS Introduces 25V and 80V MOSFETs for AI Server Power</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Power Corner: Infineon’s Johannes Schoiswohl on GaN Integration, Bidirectional Switches, and 300 mm Manufacturing](https://www.powerelectronicsnews.com/power-corner-infineons-johannes-schoiswohl-on-gan-integration-bidirectional-switches-and-300-mm-manufacturing/)
 **Published:** Thu, 19 Mar 2026 13:00:00 +0000
 
@@ -899,14 +907,6 @@ _Last updated: 2026-03-19 13:21 UTC_
 
 ---
 
-## [Bourns Expands SRN3010BTA Automotive Inductor Series](https://www.powerelectronicsnews.com/bourns-expands-srn3010bta-automotive-inductor-series/)
-**Published:** Mon, 16 Mar 2026 13:00:00 +0000
-
-<img alt="Bourns Expands SRN3010BTA Automotive Inductor Series." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/bourns_srn3010bta_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new AEC-Q200 compliant semi-shielded power inductor offers 33 µH inductance and enhanced mechanical reliability.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/bourns-expands-srn3010bta-automotive-inductor-series/">Bourns Expands SRN3010BTA Automotive Inductor Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [NVIDIA Presents GaN Supplier Award to Innoscience for AI Datacenter 800 VDC Rack Power Support](https://www.eetimes.com/nvidia-presents-gan-supplier-award-to-innoscience-for-ai-datacenter-800-vdc-rack-power-support/)
 **Published:** Thu, 19 Mar 2026 07:59:28 +0000
 
@@ -928,6 +928,22 @@ _Last updated: 2026-03-19 13:21 UTC_
 
 <p>Edge AI, robotics, and digital twins are converging to enable physical AI-driven manufacturing systems.</p>
 <p>The post <a href="https://www.eetimes.com/from-dx-to-ax-aw-2026-signals-the-rise-of-autonomous-manufacturing/">From DX to AX: AW 2026 Signals the Rise of Autonomous Manufacturing</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Semi sales were $830bn last year, says Omdia](https://www.electronicsweekly.com/news/business/semi-sales-were-830bn-last-year-says-omdia-2026-03/)
+**Published:** Thu, 19 Mar 2026 06:18:03 +0000
+
+<p>Semiconductor sales of over $830 billion in 2025 marking the second consecutive year of more than 20% annual revenue growth, says Omdia. Demand for AI-related technologies continues to drive market ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/semi-sales-were-830bn-last-year-says-omdia-2026-03/">Semi sales were $830bn last year, says Omdia</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Embedded: Ambient Scientific integrates 10 AI cores in GPX10 Pro](https://www.electronicsweekly.com/news/products/embedded-ambient-scientific-integrates-10-ai-cores-in-gpx10-pro-2026-03/)
+**Published:** Wed, 18 Mar 2026 10:52:10 +0000
+
+<p>The GPX10 Pro SoC has 10 programmable AI cores for a custom instruction set and is based on Ambient Scientific&#8217;s proprietarty DigAn architecture and MAC circuit design. The chip&#8217;s AI ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/embedded-ambient-scientific-integrates-10-ai-cores-in-gpx10-pro-2026-03/">Embedded: Ambient Scientific integrates 10 AI cores in GPX10 Pro</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
