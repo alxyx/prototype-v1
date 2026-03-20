@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-20 19:04 UTC_
+_Last updated: 2026-03-20 22:43 UTC_
 
 ## [DigiKey to Showcase Cutting-edge Technologies and Products to AI EXPO Taiwan 2026](https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/)
 **Published:** Thu, 19 Mar 2026 10:54:37 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-03-20 19:04 UTC_
 
 <p>Under the C2S initiative, India has made significant progress in its 10-year target of training 85,000 engineers in semiconductor design.</p>
 <p>The post <a href="https://www.eetasia.com/india-making-significant-progress-toward-semiconductor-workforce-development-under-c2s/">India Making Significant Progress Toward Semiconductor Workforce Development Under C2S</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [New Computer Chip Material Inspired by the Human Brain Could Slash AI Energy Use](https://www.semiconductor-digest.com/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use/?utm_source=rss&utm_medium=rss&utm_campaign=new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use)
+**Published:** Fri, 20 Mar 2026 19:32:03 +0000
+
+<p>Researchers have developed a new kind of nanoelectronic device that could dramatically cut the energy consumed by artificial intelligence hardware by mimicking the human brain.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-computer-chip-material-inspired-by-the-human-brain-could-slash-ai-energy-use/">New Computer Chip Material Inspired by the Human Brain Could Slash AI Energy Use</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [2026 IEEE Electronic Components and Technology Conference To Feature a Keynote Address by Dr. Tien Wu](https://www.semiconductor-digest.com/2026-ieee-electronic-components-and-technology-conference-to-feature-a-keynote-address-by-dr-tien-wu/?utm_source=rss&utm_medium=rss&utm_campaign=2026-ieee-electronic-components-and-technology-conference-to-feature-a-keynote-address-by-dr-tien-wu)
+**Published:** Fri, 20 Mar 2026 19:28:19 +0000
+
+<p>The 76th annual IEEE Electronic Components and Technology Conference (ECTC) will be held from May 26-29, 2026 at the JW Marriott &#038; The Ritz-Carlton Grande Lakes Resort, Orlando, Florida.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/2026-ieee-electronic-components-and-technology-conference-to-feature-a-keynote-address-by-dr-tien-wu/">2026 IEEE Electronic Components and Technology Conference To Feature a Keynote Address by Dr. Tien Wu</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Analog Devices Announces New Thailand Facility](https://www.semiconductor-digest.com/analog-devices-announces-new-thailand-facility/?utm_source=rss&utm_medium=rss&utm_campaign=analog-devices-announces-new-thailand-facility)
+**Published:** Fri, 20 Mar 2026 19:23:16 +0000
+
+<p>Global semiconductor leader Analog Devices, Inc. today announced the opening of its new advanced manufacturing facility in Thailand.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/analog-devices-announces-new-thailand-facility/">Analog Devices Announces New Thailand Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Lumotive Creates World’s First 2D Photonic Beamforming Semiconductor](https://www.semiconductor-digest.com/lumotive-creates-worlds-first-2d-photonic-beamforming-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=lumotive-creates-worlds-first-2d-photonic-beamforming-semiconductor)
+**Published:** Fri, 20 Mar 2026 19:13:22 +0000
+
+<p>Lumotive today announced a landmark breakthrough with the successful demonstration of the world's first programmable two-dimensional (2D) photonic beamforming chip based on its Light Control Metasurface (LCM) architecture.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lumotive-creates-worlds-first-2d-photonic-beamforming-semiconductor/">Lumotive Creates World&#8217;s First 2D Photonic Beamforming Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -792,38 +824,6 @@ _Last updated: 2026-03-20 19:04 UTC_
 
 <p>Rambus Inc., a chip and silicon IP provider making data faster and safer, today announced the appointment of Victor Peng to its Board of Directors, effective Thursday, February 12, 2026.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/victor-peng-joins-rambus-board-of-directors/">Victor Peng Joins Rambus Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [POET Technologies Wins Lightwave Award for Advanced AI Connectivity](https://www.semiconductor-digest.com/poet-technologies-wins-lightwave-award-for-advanced-ai-connectivity/?utm_source=rss&utm_medium=rss&utm_campaign=poet-technologies-wins-lightwave-award-for-advanced-ai-connectivity)
-**Published:** Mon, 16 Feb 2026 21:35:09 +0000
-
-<p>POET Technologies Inc. today announced it has earned an Elite Score and a category win in the Lightwave Innovation Reviews 13th annual awards.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/poet-technologies-wins-lightwave-award-for-advanced-ai-connectivity/">POET Technologies Wins Lightwave Award for Advanced AI Connectivity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AMD and TCS to Bring ‘Helios’ Rack-Scale AI Architecture to India](https://www.semiconductor-digest.com/amd-and-tcs-to-bring-helios-rack-scale-ai-architecture-to-india/?utm_source=rss&utm_medium=rss&utm_campaign=amd-and-tcs-to-bring-helios-rack-scale-ai-architecture-to-india)
-**Published:** Mon, 16 Feb 2026 21:30:15 +0000
-
-<p>AMD and Tata Consultancy Services have expanded their strategic collaboration.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/amd-and-tcs-to-bring-helios-rack-scale-ai-architecture-to-india/">AMD and TCS to Bring ‘Helios’ Rack-Scale AI Architecture to India</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ITRI Breaks Ground on Advanced Semiconductor R&D Center Featuring a 12-Inch Pilot Line](https://www.semiconductor-digest.com/itri-breaks-ground-on-advanced-semiconductor-rd-center-featuring-a-12-inch-pilot-line/?utm_source=rss&utm_medium=rss&utm_campaign=itri-breaks-ground-on-advanced-semiconductor-rd-center-featuring-a-12-inch-pilot-line)
-**Published:** Mon, 16 Feb 2026 21:16:05 +0000
-
-<p>The Advanced Semiconductor R&#038;D Center has officially broken ground at the headquarters campus of the Industrial Technology Research Institute (ITRI) in Hsinchu.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/itri-breaks-ground-on-advanced-semiconductor-rd-center-featuring-a-12-inch-pilot-line/">ITRI Breaks Ground on Advanced Semiconductor R&#038;D Center Featuring a 12-Inch Pilot Line</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Monogoto and Nordic Semiconductor Collaborate to Accelerate the nuSIM Ecosystem for IoT-Optimized Integrated Connectivity](https://www.semiconductor-digest.com/monogoto-and-nordic-semiconductor-collaborate-to-accelerate-the-nusim-ecosystem-for-iot-optimized-integrated-connectivity/?utm_source=rss&utm_medium=rss&utm_campaign=monogoto-and-nordic-semiconductor-collaborate-to-accelerate-the-nusim-ecosystem-for-iot-optimized-integrated-connectivity)
-**Published:** Fri, 13 Feb 2026 21:51:38 +0000
-
-<p>Monogoto announces a strategic cooperation with Nordic Semiconductor, a global leader in low-power wireless solutions, to accelerate the adoption of nuSIM (provided by Redtea-Mobile), an integrated SIM (iSIM) approach optimized for IoT devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/monogoto-and-nordic-semiconductor-collaborate-to-accelerate-the-nusim-ecosystem-for-iot-optimized-integrated-connectivity/">Monogoto and Nordic Semiconductor Collaborate to Accelerate the nuSIM Ecosystem for IoT-Optimized Integrated Connectivity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
