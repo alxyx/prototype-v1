@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-20 16:57 UTC_
+_Last updated: 2026-03-20 19:04 UTC_
 
 ## [DigiKey to Showcase Cutting-edge Technologies and Products to AI EXPO Taiwan 2026](https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/)
 **Published:** Thu, 19 Mar 2026 10:54:37 +0000
@@ -827,6 +827,14 @@ _Last updated: 2026-03-20 16:57 UTC_
 
 ---
 
+## [Bourns Expands Modular Contacts Portfolio with 5–8 A Options](https://www.powerelectronicsnews.com/bourns-expands-modular-contacts-portfolio-with-5-8-a-options/)
+**Published:** Fri, 20 Mar 2026 17:00:00 +0000
+
+<img alt="Bourns Expands Modular Contacts Portfolio with 5–8 A Options." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/bourns_high_power_modular_contacts_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>Bourns adds 5 A, 6 A, and 8 A modular contacts to support higher power density, scalable designs, and efficient energy transfer.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/bourns-expands-modular-contacts-portfolio-with-5-8-a-options/">Bourns Expands Modular Contacts Portfolio with 5–8 A Options</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Diodes Introduces Automotive Multi-Phase Boost Controller](https://www.powerelectronicsnews.com/diodes-introduces-automotive-multi-phase-boost-controller/)
 **Published:** Fri, 20 Mar 2026 14:00:00 +0000
 
@@ -896,14 +904,6 @@ _Last updated: 2026-03-20 16:57 UTC_
 
 <img alt="Infineon Unveils 800 V CoolGaN HV IBC Reference Designs." class="webfeedsFeaturedVisual wp-post-image" height="1701" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/board-hv-ibc-800-12v.jpg?fit=2126%2C1701" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The new GaN-based HV IBC designs enable efficient 800 VDC power conversion for next-generation AI server architectures.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/infineon-unveils-800-v-coolgan-hv-ibc-reference-designs/">Infineon Unveils 800-V CoolGaN HV IBC Reference Designs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [H3TRB Reliability Tests for SiC Power Devices](https://www.powerelectronicsnews.com/h3trb-reliability-tests-for-sic-power-devices/)
-**Published:** Wed, 18 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2304" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_1622459631.jpeg?fit=4224%2C2304" style="display: block; margin-bottom: 5px; clear: both;" width="4224" /><p>SiC power devices outperform silicon in humidity reliability tests, with passivation design proving critical to long-term performance.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/h3trb-reliability-tests-for-sic-power-devices/">H3TRB Reliability Tests for SiC Power Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
