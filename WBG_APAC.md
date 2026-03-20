@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-19 17:12 UTC_
+_Last updated: 2026-03-20 02:20 UTC_
 
 ## [DigiKey to Showcase Cutting-edge Technologies and Products to AI EXPO Taiwan 2026](https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/)
 **Published:** Thu, 19 Mar 2026 10:54:37 +0000
@@ -827,6 +827,14 @@ _Last updated: 2026-03-19 17:12 UTC_
 
 ---
 
+## [Nvidia GTC 2026: 800 VDC Power Partnerships From Grid to Processor](https://www.powerelectronicsnews.com/nvidia-gtc-2026-800-vdc-power-partnerships-from-grid-to-processor/)
+**Published:** Thu, 19 Mar 2026 17:34:52 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3584" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_800657784_ac122b.jpeg?fit=5376%2C3584" style="display: block; margin-bottom: 5px; clear: both;" width="5376" /><p>Nvidia GTC 2026 power announcements span SSTs at the facility level to direct 800V-to-6V silicon conversion.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/nvidia-gtc-2026-800-vdc-power-partnerships-from-grid-to-processor/">Nvidia GTC 2026: 800 VDC Power Partnerships From Grid to Processor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [AOS Introduces 25V and 80V MOSFETs for AI Server Power](https://www.powerelectronicsnews.com/aos-introduces-25v-and-80v-mosfets-for-ai-server-power/)
 **Published:** Thu, 19 Mar 2026 16:00:00 +0000
 
@@ -891,19 +899,11 @@ _Last updated: 2026-03-19 17:12 UTC_
 
 ---
 
-## [Planar Magnetics in 800VDC Datacenter Power Architecture](https://www.powerelectronicsnews.com/planar-magnetics-in-800vdc-datacenter-power-architecture/)
+## [Planar Magnetics in 800-VDC Data Center Power Architecture](https://www.powerelectronicsnews.com/planar-magnetics-in-800vdc-datacenter-power-architecture/)
 **Published:** Tue, 17 Mar 2026 13:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2118" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_682811184.jpeg?fit=3765%2C2118" style="display: block; margin-bottom: 5px; clear: both;" width="3765" /><p>Planar matrix transformers are emerging as the key magnetic solution for Nvidia's 800 VDC AI datacenter power architecture.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/planar-magnetics-in-800vdc-datacenter-power-architecture/">Planar Magnetics in 800VDC Datacenter Power Architecture</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Software Support Closes the Gap in Power Conversion Design](https://www.powerelectronicsnews.com/software-support-closes-the-gap-in-power-conversion-design/)
-**Published:** Mon, 16 Mar 2026 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4480" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_1500850888.jpeg?fit=6720%2C4480" style="display: block; margin-bottom: 5px; clear: both;" width="6720" /><p>As power supply design cycles accelerate, software ecosystems are lowering the barrier to digital control for hardware designers.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/software-support-closes-the-gap-in-power-conversion-design/">Software Support Closes the Gap in Power Conversion Design</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2118" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_682811184.jpeg?fit=3765%2C2118" style="display: block; margin-bottom: 5px; clear: both;" width="3765" /><p>Planar matrix transformers are emerging as the key magnetic solution for Nvidia’s 800-VDC AI data center power architecture.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/planar-magnetics-in-800vdc-datacenter-power-architecture/">Planar Magnetics in 800-VDC Data Center Power Architecture</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -920,14 +920,6 @@ _Last updated: 2026-03-19 17:12 UTC_
 
 <p>Taiwan’s industry leaders position power electronics as a technology priority, indispensable to the green energy transition.</p>
 <p>The post <a href="https://www.eetimes.com/taiwans-emerging-power-electronics-strategy-in-the-ai-era/">Taiwan’s Emerging Power Electronics Strategy in the AI Era</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [From DX to AX: AW 2026 Signals the Rise of Autonomous Manufacturing](https://www.eetimes.com/from-dx-to-ax-aw-2026-signals-the-rise-of-autonomous-manufacturing/)
-**Published:** Tue, 17 Mar 2026 12:08:11 +0000
-
-<p>Edge AI, robotics, and digital twins are converging to enable physical AI-driven manufacturing systems.</p>
-<p>The post <a href="https://www.eetimes.com/from-dx-to-ax-aw-2026-signals-the-rise-of-autonomous-manufacturing/">From DX to AX: AW 2026 Signals the Rise of Autonomous Manufacturing</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
