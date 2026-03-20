@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-20 02:20 UTC_
+_Last updated: 2026-03-20 10:51 UTC_
 
 ## [DigiKey to Showcase Cutting-edge Technologies and Products to AI EXPO Taiwan 2026](https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/)
 **Published:** Thu, 19 Mar 2026 10:54:37 +0000
@@ -907,11 +907,11 @@ _Last updated: 2026-03-20 02:20 UTC_
 
 ---
 
-## [NVIDIA Presents GaN Supplier Award to Innoscience for AI Datacenter 800 VDC Rack Power Support](https://www.eetimes.com/nvidia-presents-gan-supplier-award-to-innoscience-for-ai-datacenter-800-vdc-rack-power-support/)
-**Published:** Thu, 19 Mar 2026 07:59:28 +0000
+## [Middle East Conflict Is Rewiring Global Supply Chains](https://www.eetimes.com/middle-east-conflict-is-rewiring-global-supply-chains/)
+**Published:** Fri, 20 Mar 2026 07:00:00 +0000
 
-<p>NVIDIA honored Innoscience for advancing 800VDC rack power and delivering high-efficiency GaN solutions for next-generation AI data centers.</p>
-<p>The post <a href="https://www.eetimes.com/nvidia-presents-gan-supplier-award-to-innoscience-for-ai-datacenter-800-vdc-rack-power-support/">NVIDIA Presents GaN Supplier Award to Innoscience for AI Datacenter 800 VDC Rack Power Support</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Escalating Middle East war exposes critical vulnerabilities in the semiconductor supply chain, driving re-shoring and fragmenting the global supply chains.</p>
+<p>The post <a href="https://www.eetimes.com/middle-east-conflict-is-rewiring-global-supply-chains/">Middle East Conflict Is Rewiring Global Supply Chains</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -931,25 +931,31 @@ _Last updated: 2026-03-20 02:20 UTC_
 
 ---
 
-## [Embedded: Ambient Scientific integrates 10 AI cores in GPX10 Pro](https://www.electronicsweekly.com/news/products/embedded-ambient-scientific-integrates-10-ai-cores-in-gpx10-pro-2026-03/)
-**Published:** Wed, 18 Mar 2026 10:52:10 +0000
+## [Test Engineer Intern At Zippy In Bengaluru](https://www.electronicsforu.com/career/test-engineer-intern-zippy-bengaluru)
+**Published:** Fri, 20 Mar 2026 08:31:21 +0000
 
-<p>The GPX10 Pro SoC has 10 programmable AI cores for a custom instruction set and is based on Ambient Scientific&#8217;s proprietarty DigAn architecture and MAC circuit design. The chip&#8217;s AI ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/embedded-ambient-scientific-integrates-10-ai-cores-in-gpx10-pro-2026-03/">Embedded: Ambient Scientific integrates 10 AI cores in GPX10 Pro</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Power Chip That Makes Systems Smaller and Faster](https://www.electronicsforu.com/special/power-chip-that-makes-systems-smaller-and-faster)
-**Published:** Thu, 19 Mar 2026 07:44:16 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/CPM3-10000-0300A-PR-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new power device could change how high voltage systems are designed by simplifying architectures, reducing cost and replacing existing approaches. Wolfspeed has announced the industry’s first commercially available 10 kV silicon carbide (SiC) power MOSFET. It is aimed at high-voltage systems, where it enables more flexible system design, improves durability, and supports reliable and [&#8230;]
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Zippy Responsibilities Qualifications Required Skills Pay Range and Compensation Package Stipend: INR 20-25k per month Duration: 2 Months
 
 ---
 
-## [Space Grade Choke In GaN/SiC Power Designs](https://www.electronicsforu.com/news/space-grade-choke-in-gan-sic-power-designs)
-**Published:** Thu, 19 Mar 2026 06:46:14 +0000
+## [JOB: Memory Design Engineer At Synopsys In Noida](https://www.electronicsforu.com/career/memory-design-engineer-synopsys-noida)
+**Published:** Fri, 20 Mar 2026 08:13:37 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/55142941807_c7151e444b_c-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A rugged surface-mount solution brings high-frequency noise suppression and reliability to next-gen aerospace and defense power systems. A new space-grade common mode choke has been introduced by Vishay Intertechnology, Inc. to address electromagnetic interference (EMI) in high-speed switching environments, particularly those using GaN and SiC technologies. Designed for aerospace, defense, and satellite applications, the device [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/07/synopsys1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: Synopsys You are a passionate and driven engineer with a deep understanding of semiconductor physics and memory circuit design. Your expertise in SRAM bit-cell figure of merits, RC networks, and FinFET fundamentals enables you to deliver exceptional solutions in high-performance and low-power memory architectures. You thrive in collaborative environments and [&#8230;]
+
+---
+
+## [JOB: Sr. DFT Engineer At NXP Semiconductors In Pune](https://www.electronicsforu.com/career/sr-dft-engineer-at-nxp-semiconductors-pune)
+**Published:** Fri, 20 Mar 2026 08:00:56 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/NXPHQ-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: NXP Semiconductors You will be responsible for designing, implementing, and verifying DFT architectures for complex SoCs. You will work closely with RTL, physical design, and verification teams to ensure robust testability and high-quality silicon. Key Responsibilities Required Skills Preferred Qualifications Education -Bachelor’s or Master’s in Electrical/Electronics Engineering.
+
+---
+
+## [Power modules that make system design easier](https://www.electronicsforu.com/news/power-modules-that-make-system-design-easier)
+**Published:** Fri, 20 Mar 2026 06:12:19 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/GR-26-111762-260220-HPS-PR-BZPACK-9x5-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Power modules handle heat, moisture, and high voltage while making design easier and reducing failures. Learn more about these modules here. Microchip Technology’s new BZPACK mSiC power modules focus on long-term reliability in harsh conditions while making system design and assembly easier. Built to meet HV-H3TRB standards, the modules are tested beyond 1000 hours, helping [&#8230;]
 
 ---
 
