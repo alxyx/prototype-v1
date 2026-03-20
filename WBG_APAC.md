@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-20 10:51 UTC_
+_Last updated: 2026-03-20 14:18 UTC_
 
 ## [DigiKey to Showcase Cutting-edge Technologies and Products to AI EXPO Taiwan 2026](https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/)
 **Published:** Thu, 19 Mar 2026 10:54:37 +0000
@@ -23,6 +23,22 @@ _Last updated: 2026-03-20 10:51 UTC_
 
 <p>Under the C2S initiative, India has made significant progress in its 10-year target of training 85,000 engineers in semiconductor design.</p>
 <p>The post <a href="https://www.eetasia.com/india-making-significant-progress-toward-semiconductor-workforce-development-under-c2s/">India Making Significant Progress Toward Semiconductor Workforce Development Under C2S</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Microelectronics US 2026, April 22-23 in Austin](https://www.semiconductor-digest.com/microelectronics-us-2026-april-22-23-in-austin/?utm_source=rss&utm_medium=rss&utm_campaign=microelectronics-us-2026-april-22-23-in-austin)
+**Published:** Fri, 20 Mar 2026 13:39:16 +0000
+
+<p>Microelectronics US 2026 showcases practical solutions to the engineering challenges shaping next-generation systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/microelectronics-us-2026-april-22-23-in-austin/">Microelectronics US 2026, April 22-23 in Austin</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Optical Characterization of Defects in 3C-N Type Silicon Carbide Using PL, TRPL and Raman Spectroscopy](https://www.semiconductor-digest.com/optical-characterization-of-defects-in-3c-n-type-silicon-carbide-using-pl-trpl-and-raman-spectroscopy/?utm_source=rss&utm_medium=rss&utm_campaign=optical-characterization-of-defects-in-3c-n-type-silicon-carbide-using-pl-trpl-and-raman-spectroscopy)
+**Published:** Fri, 20 Mar 2026 13:22:51 +0000
+
+<p>By tightly connecting structural, optical, and electronic insights, the combined Raman–PL–TRPL workflow delivers actionable feedback to refine growth conditions, reduce defect densities and raise carrier lifetimes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/optical-characterization-of-defects-in-3c-n-type-silicon-carbide-using-pl-trpl-and-raman-spectroscopy/">Optical Characterization of Defects in 3C-N Type Silicon Carbide Using PL, TRPL and Raman Spectroscopy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -811,19 +827,27 @@ _Last updated: 2026-03-20 10:51 UTC_
 
 ---
 
-## [Distinguished Researcher Elected to National Academy of Engineering](https://www.semiconductor-digest.com/distinguished-researcher-elected-to-national-academy-of-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=distinguished-researcher-elected-to-national-academy-of-engineering)
-**Published:** Fri, 13 Feb 2026 21:46:15 +0000
+## [Diodes Introduces Automotive Multi-Phase Boost Controller](https://www.powerelectronicsnews.com/diodes-introduces-automotive-multi-phase-boost-controller/)
+**Published:** Fri, 20 Mar 2026 14:00:00 +0000
 
-<p>Dr. Bruce Gnade, professor emeritus of materials science and engineering and director of workforce development at the North Texas Semiconductor Institute at The University of Texas at Dallas, was elected Feb. 10 as a member of the National Academy of Engineering (NAE), one of the highest professional distinctions accorded to an engineer.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/distinguished-researcher-elected-to-national-academy-of-engineering/">Distinguished Researcher Elected to National Academy of Engineering</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Diodes Introduces Automotive Multi-Phase Boost Controller." class="webfeedsFeaturedVisual wp-post-image" height="353" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Multi-Phase-SPI-Boost-Controller-Provides-a-High-Efficiency-Solution-for-High-Power-Automotive-Power-Rails__ScaleMaxWidthWzQ2MF0.png?fit=460%2C353" style="display: block; margin-bottom: 5px; clear: both;" width="460" /><p>The new automotive SPI boost controller supports multi-phase operation and up to 400 W output for adaptive headlight systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/diodes-introduces-automotive-multi-phase-boost-controller/">Diodes Introduces Automotive Multi-Phase Boost Controller</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [IEEE Study Demonstrates Deployment-Ready Quantum Entanglement Source](https://www.semiconductor-digest.com/ieee-study-demonstrates-deployment-ready-quantum-entanglement-source/?utm_source=rss&utm_medium=rss&utm_campaign=ieee-study-demonstrates-deployment-ready-quantum-entanglement-source)
-**Published:** Fri, 13 Feb 2026 21:29:42 +0000
+## [Nvidia GTC 2026, GaN Bidirectional Switches, H3TRB Reliability Tests for SiC Power Devices: Power Electronics Week Insights](https://www.powerelectronicsnews.com/nvidia-gtc-2026-gan-bidirectional-switches-h3trb-reliability-tests-for-sic-power-devices-power-electronics-week-insights/)
+**Published:** Fri, 20 Mar 2026 13:17:46 +0000
 
-<p>Researchers explore how reliable quantum entanglement states can be generated and distributed through off-the shelf components.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ieee-study-demonstrates-deployment-ready-quantum-entanglement-source/">IEEE Study Demonstrates Deployment-Ready Quantum Entanglement Source</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Nvidia GTC 2026, GaN Bidirectional Switches, and H3TRB Reliability Tests for SiC Power Devices!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/nvidia-gtc-2026-gan-bidirectional-switches-h3trb-reliability-tests-for-sic-power-devices-power-electronics-week-insights/">Nvidia GTC 2026, GaN Bidirectional Switches, H3TRB Reliability Tests for SiC Power Devices: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Solid-State Batteries Increase Energy Density While Enhancing Safety and EV Range](https://www.powerelectronicsnews.com/solid-state-batteries-increase-energy-density-while-enhancing-safety-and-ev-range/)
+**Published:** Fri, 20 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Dongfeng_sedan.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Over the past few years, innovation in power semiconductors has significantly accelerated the global deployment of electric vehicles (EVs). Improved generations of wide-bandgap devices like...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/solid-state-batteries-increase-energy-density-while-enhancing-safety-and-ev-range/">Solid-State Batteries Increase Energy Density While Enhancing Safety and EV Range</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -883,30 +907,6 @@ _Last updated: 2026-03-20 10:51 UTC_
 
 ---
 
-## [Navitas Unveils 800V–6V DC-DC Power Board for AI Servers](https://www.powerelectronicsnews.com/navitas-unveils-800v-6v-dc-dc-power-board-for-ai-servers/)
-**Published:** Tue, 17 Mar 2026 15:00:00 +0000
-
-<img alt="Navitas Unveils 800V–6V DC-DC Power Board for AI Servers." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/PR437-20kW.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The GaN-based power delivery board enables direct 800 V to 6 V conversion, targeting higher efficiency and density in AI data center systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/navitas-unveils-800v-6v-dc-dc-power-board-for-ai-servers/">Navitas Unveils 800V–6V DC-DC Power Board for AI Servers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [EPC Unveils EPC91202 GaN-Based 3-Phase BLDC Inverter Board](https://www.powerelectronicsnews.com/epc-unveils-epc91202-gan-based-3-phase-bldc-inverter-board/)
-**Published:** Tue, 17 Mar 2026 14:00:00 +0000
-
-<img alt="EPC Unveils EPC91202 GaN-Based 3-Phase BLDC Inverter Board." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/EPC91202-pr-graphic-333-250-p-L-97.png?fit=312%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="312" /><p>The evaluation board delivers up to 50 ARMS phase current and 150 kHz PWM for high-efficiency BLDC motor drive designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/epc-unveils-epc91202-gan-based-3-phase-bldc-inverter-board/">EPC Unveils EPC91202 GaN-Based 3-Phase BLDC Inverter Board</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Planar Magnetics in 800-VDC Data Center Power Architecture](https://www.powerelectronicsnews.com/planar-magnetics-in-800vdc-datacenter-power-architecture/)
-**Published:** Tue, 17 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2118" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_682811184.jpeg?fit=3765%2C2118" style="display: block; margin-bottom: 5px; clear: both;" width="3765" /><p>Planar matrix transformers are emerging as the key magnetic solution for Nvidia’s 800-VDC AI data center power architecture.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/planar-magnetics-in-800vdc-datacenter-power-architecture/">Planar Magnetics in 800-VDC Data Center Power Architecture</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Middle East Conflict Is Rewiring Global Supply Chains](https://www.eetimes.com/middle-east-conflict-is-rewiring-global-supply-chains/)
 **Published:** Fri, 20 Mar 2026 07:00:00 +0000
 
@@ -920,14 +920,6 @@ _Last updated: 2026-03-20 10:51 UTC_
 
 <p>Taiwan’s industry leaders position power electronics as a technology priority, indispensable to the green energy transition.</p>
 <p>The post <a href="https://www.eetimes.com/taiwans-emerging-power-electronics-strategy-in-the-ai-era/">Taiwan’s Emerging Power Electronics Strategy in the AI Era</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Semi sales were $830bn last year, says Omdia](https://www.electronicsweekly.com/news/business/semi-sales-were-830bn-last-year-says-omdia-2026-03/)
-**Published:** Thu, 19 Mar 2026 06:18:03 +0000
-
-<p>Semiconductor sales of over $830 billion in 2025 marking the second consecutive year of more than 20% annual revenue growth, says Omdia. Demand for AI-related technologies continues to drive market ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/semi-sales-were-830bn-last-year-says-omdia-2026-03/">Semi sales were $830bn last year, says Omdia</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
