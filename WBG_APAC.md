@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-20 22:43 UTC_
+_Last updated: 2026-03-21 02:14 UTC_
 
 ## [DigiKey to Showcase Cutting-edge Technologies and Products to AI EXPO Taiwan 2026](https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/)
 **Published:** Thu, 19 Mar 2026 10:54:37 +0000
@@ -907,19 +907,19 @@ _Last updated: 2026-03-20 22:43 UTC_
 
 ---
 
+## [EE Times Europe Magazine – March 2026](https://www.eetimes.com/ee-times-europe-magazine-march-2026/)
+**Published:** Fri, 20 Mar 2026 23:00:00 +0000
+
+<p>The March 2026 Edition of EE Times Europe Magazine analyzes how AI is transforming factory automation and operations and reviews Europe's de-risking semiconductor strategy.</p>
+<p>The post <a href="https://www.eetimes.com/ee-times-europe-magazine-march-2026/">EE Times Europe Magazine – March 2026</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Middle East Conflict Is Rewiring Global Supply Chains](https://www.eetimes.com/middle-east-conflict-is-rewiring-global-supply-chains/)
 **Published:** Fri, 20 Mar 2026 07:00:00 +0000
 
 <p>Escalating Middle East war exposes critical vulnerabilities in the semiconductor supply chain, driving re-shoring and fragmenting the global supply chains.</p>
 <p>The post <a href="https://www.eetimes.com/middle-east-conflict-is-rewiring-global-supply-chains/">Middle East Conflict Is Rewiring Global Supply Chains</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Taiwan’s Emerging Power Electronics Strategy in the AI Era](https://www.eetimes.com/taiwans-emerging-power-electronics-strategy-in-the-ai-era/)
-**Published:** Wed, 18 Mar 2026 08:00:00 +0000
-
-<p>Taiwan’s industry leaders position power electronics as a technology priority, indispensable to the green energy transition.</p>
-<p>The post <a href="https://www.eetimes.com/taiwans-emerging-power-electronics-strategy-in-the-ai-era/">Taiwan’s Emerging Power Electronics Strategy in the AI Era</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
