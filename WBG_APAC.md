@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-23 10:19 UTC_
+_Last updated: 2026-03-23 15:09 UTC_
 
 ## [HBM Demand for AI Server Compute ASICs Forcast to Grow 35x by 2028](https://www.eetasia.com/hbm-demand-for-ai-server-compute-asics-forcast-to-grow-35x-by-2028/)
 **Published:** Mon, 23 Mar 2026 03:32:42 +0000
@@ -835,6 +835,30 @@ _Last updated: 2026-03-23 10:19 UTC_
 
 ---
 
+## [Microchip Introduces BZPACK mSiC Power Modules](https://www.powerelectronicsnews.com/microchip-introduces-bzpack-msic-power-modules/)
+**Published:** Mon, 23 Mar 2026 15:00:00 +0000
+
+<img alt="Microchip Introduces BZPACK mSiC Power Modules." class="webfeedsFeaturedVisual wp-post-image" height="569" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/55114468015_1017c953e6_b.jpg?fit=1024%2C569" style="display: block; margin-bottom: 5px; clear: both;" width="1024" /><p>The BZPACK mSiC power modules with HV-H3TRB reliability are well-suited for industrial and renewable energy applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/microchip-introduces-bzpack-msic-power-modules/">Microchip Introduces BZPACK mSiC Power Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [High-k Gate Oxide Improves 1,200-V Vertical GaN Performance](https://www.powerelectronicsnews.com/high-k-gate-oxide-improves-1200-v-vertical-gan-performance/)
+**Published:** Mon, 23 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5265" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_1482937173-1.jpeg?fit=8178%2C5265" style="display: block; margin-bottom: 5px; clear: both;" width="8178" /><p>A team from Sandia National Laboratories demonstrated results from a Gen 3 1,200-V vertical GaN MOSFET that incorporated HfO2 gate oxide.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/high-k-gate-oxide-improves-1200-v-vertical-gan-performance/">High-k Gate Oxide Improves 1,200-V Vertical GaN Performance</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [ST Introduces 3A Buck Converter in Compact SOT23 Package](https://www.powerelectronicsnews.com/st-introduces-3a-buck-converter-in-compact-sot23-package/)
+**Published:** Mon, 23 Mar 2026 13:00:00 +0000
+
+<img alt="ST Introduces 3 A Buck Converter in Compact SOT23 Package." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/N4763D-Mar-17-2026-DCP3603-buck-converter_PR-IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The DCP3603 integrates 3A buck conversion in a compact package, delivering high efficiency and low BOM for industrial and appliance designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-3a-buck-converter-in-compact-sot23-package/">ST Introduces 3A Buck Converter in Compact SOT23 Package</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Bourns Expands Modular Contacts Portfolio with 5–8 A Options](https://www.powerelectronicsnews.com/bourns-expands-modular-contacts-portfolio-with-5-8-a-options/)
 **Published:** Fri, 20 Mar 2026 17:00:00 +0000
 
@@ -891,30 +915,6 @@ _Last updated: 2026-03-23 10:19 UTC_
 
 ---
 
-## [Hybrid LIC + BBU: Solving AI Server Power Gaps](https://www.powerelectronicsnews.com/hybrid-lic-bbu-solving-ai-server-power-gaps/)
-**Published:** Thu, 19 Mar 2026 09:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1535" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/ymin_PC_march26_thumbnail-image.jpg?fit=2730%2C1535" style="display: block; margin-bottom: 5px; clear: both;" width="2730" /><p>Optimize AI server DC bus stability with YMIN hybrid supercapacitors (LIC + BBU): millisecond-level transient power compensation, compact, fast, long-life.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/hybrid-lic-bbu-solving-ai-server-power-gaps/">Hybrid LIC + BBU: Solving AI Server Power Gaps</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [The Rise of GaN Bidirectional Switches](https://www.powerelectronicsnews.com/the-rise-of-gan-bidirectional-switches/)
-**Published:** Wed, 18 Mar 2026 15:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="670" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Cover-Image.jpg?fit=1000%2C670" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Wherever engineers need an efficient way to handle power flow in both directions, GaN BDS are quickly emerging as the go-to answer.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-rise-of-gan-bidirectional-switches/">The Rise of GaN Bidirectional Switches</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Infineon Unveils 800-V CoolGaN HV IBC Reference Designs](https://www.powerelectronicsnews.com/infineon-unveils-800-v-coolgan-hv-ibc-reference-designs/)
-**Published:** Wed, 18 Mar 2026 15:00:00 +0000
-
-<img alt="Infineon Unveils 800 V CoolGaN HV IBC Reference Designs." class="webfeedsFeaturedVisual wp-post-image" height="1701" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/board-hv-ibc-800-12v.jpg?fit=2126%2C1701" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The new GaN-based HV IBC designs enable efficient 800 VDC power conversion for next-generation AI server architectures.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-unveils-800-v-coolgan-hv-ibc-reference-designs/">Infineon Unveils 800-V CoolGaN HV IBC Reference Designs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [EE Times Europe Magazine – March 2026](https://www.eetimes.com/ee-times-europe-magazine-march-2026/)
 **Published:** Fri, 20 Mar 2026 23:00:00 +0000
 
@@ -931,10 +931,10 @@ _Last updated: 2026-03-23 10:19 UTC_
 
 ---
 
-## [SiC-Based Three-Phase Inverter Design](https://www.electronicsforu.com/electronics-projects/sic-based-three-phase-inverter-design)
-**Published:** Mon, 23 Mar 2026 06:27:40 +0000
+## [On-chip quantum light emitters with nanoscale precision](https://www.electronicsforu.com/news/on-chip-quantum-light-emitters-with-nanoscale-precision)
+**Published:** Mon, 23 Mar 2026 10:31:29 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/ref-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A ready-to-use reference platform that helps engineers accelerate the development of efficient mid-power inverter systems using advanced SiC technology. Designed around silicon carbide (SiC) technology, it significantly reduces the complexity and development time typically associated with high-power conversion designs. The REF68006 reference design from ROHM Semiconductor is positioned as a ready-to-use development platform for engineers [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/GettyImages-1489139608-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />DNA origami paves a way to position quantum emitters on chips. Here’s how scientists are making it possible. An international research team from Nanjing University, Skolkovo Institute of Science and Technology, and LMU Munich has developed a novel technique for precisely positioning quantum light sources on semiconductor chips using DNA origami, marking an important step [&#8230;]
 
 ---
 
