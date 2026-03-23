@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-23 15:09 UTC_
+_Last updated: 2026-03-23 19:09 UTC_
 
 ## [HBM Demand for AI Server Compute ASICs Forcast to Grow 35x by 2028](https://www.eetasia.com/hbm-demand-for-ai-server-compute-asics-forcast-to-grow-35x-by-2028/)
 **Published:** Mon, 23 Mar 2026 03:32:42 +0000
@@ -31,6 +31,22 @@ _Last updated: 2026-03-23 15:09 UTC_
 
 <p>Lattice will engage with NVIDIA and other Halos ecosystem members to build Halos-certified Holoscan Sensor Bridge-based designs for physical AI.</p>
 <p>The post <a href="https://www.eetasia.com/lattice-advances-safety-for-physical-ai-by-joining-nvidia-halos-ecosystem/">Lattice Advances Safety for Physical AI by Joining NVIDIA Halos Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Enabling Non-Doped Blue OLEDs With Efficiency Exceeding 20%](https://www.semiconductor-digest.com/enabling-non-doped-blue-oleds-with-efficiency-exceeding-20/?utm_source=rss&utm_medium=rss&utm_campaign=enabling-non-doped-blue-oleds-with-efficiency-exceeding-20)
+**Published:** Mon, 23 Mar 2026 18:54:18 +0000
+
+<p>Deep blue OLEDs are prized for high-end displays because they help deliver sharper color and better power efficiency. Most OLED screens today rely on a host and a small amount of guest emitter mixed into the light-emitting layer.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/enabling-non-doped-blue-oleds-with-efficiency-exceeding-20/">Enabling Non-Doped Blue OLEDs With Efficiency Exceeding 20%</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [3D Integration and GAA Adoption Drive Structural Growth in ALD/CVD Precursors](https://www.semiconductor-digest.com/3d-integration-and-gaa-adoption-drive-structural-growth-in-ald-cvd-precursors-2/?utm_source=rss&utm_medium=rss&utm_campaign=3d-integration-and-gaa-adoption-drive-structural-growth-in-ald-cvd-precursors-2)
+**Published:** Mon, 23 Mar 2026 18:45:27 +0000
+
+<p>TechInsights forecasts continued expansion in the global precursor market, with total revenue projected to grow from approximately USD 1.82B in 2025 to about USD 2.53B by 2030, representing roughly 8% CAGR.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/3d-integration-and-gaa-adoption-drive-structural-growth-in-ald-cvd-precursors-2/">3D Integration and GAA Adoption Drive Structural Growth in ALD/CVD Precursors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -819,19 +835,11 @@ _Last updated: 2026-03-23 15:09 UTC_
 
 ---
 
-## [GlobalFoundries and Renesas Expand Partnership to Accelerate U.S. Semiconductor Manufacturing](https://www.semiconductor-digest.com/globalfoundries-and-renesas-expand-partnership-to-accelerate-u-s-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-renesas-expand-partnership-to-accelerate-u-s-semiconductor-manufacturing)
-**Published:** Tue, 17 Feb 2026 21:54:47 +0000
+## [TI Unveils 800 VDC Power Architecture for AI Data Centers](https://www.powerelectronicsnews.com/ti-unveils-800-vdc-power-architecture-for-ai-data-centers/)
+**Published:** Mon, 23 Mar 2026 17:00:00 +0000
 
-<p>Multi‑billion-dollar collaboration strengthens supply chain resiliency and supports growing demand for chips powering smart vehicles and next-generation industrial system.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-renesas-expand-partnership-to-accelerate-u-s-semiconductor-manufacturing/">GlobalFoundries and Renesas Expand Partnership to Accelerate U.S. Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Victor Peng Joins Rambus Board of Directors](https://www.semiconductor-digest.com/victor-peng-joins-rambus-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=victor-peng-joins-rambus-board-of-directors)
-**Published:** Mon, 16 Feb 2026 22:07:29 +0000
-
-<p>Rambus Inc., a chip and silicon IP provider making data faster and safer, today announced the appointment of Victor Peng to its Board of Directors, effective Thursday, February 12, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/victor-peng-joins-rambus-board-of-directors/">Victor Peng Joins Rambus Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="TI Unveils 800 VDC Power Architecture for AI Data Centers." class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/TI_800_VDC_power_architecture.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>The 800 VDC power architecture features two-stage conversion for AI data centers and is aligned with Nvidia reference design.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ti-unveils-800-vdc-power-architecture-for-ai-data-centers/">TI Unveils 800 VDC Power Architecture for AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -907,14 +915,6 @@ _Last updated: 2026-03-23 15:09 UTC_
 
 ---
 
-## [Power Corner: Infineon’s Johannes Schoiswohl on GaN Integration, Bidirectional Switches, and 300 mm Manufacturing](https://www.powerelectronicsnews.com/power-corner-infineons-johannes-schoiswohl-on-gan-integration-bidirectional-switches-and-300-mm-manufacturing/)
-**Published:** Thu, 19 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1118" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Infineon_aab6b5.png?fit=1944%2C1118" style="display: block; margin-bottom: 5px; clear: both;" width="1944" /><p>Infineon's Schoiswohl covers GaN: bidirectional switches, GIT reliability, 300 mm manufacturing, and medium-voltage outlook.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-infineons-johannes-schoiswohl-on-gan-integration-bidirectional-switches-and-300-mm-manufacturing/">Power Corner: Infineon&#8217;s Johannes Schoiswohl on GaN Integration, Bidirectional Switches, and 300 mm Manufacturing</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [EE Times Europe Magazine – March 2026](https://www.eetimes.com/ee-times-europe-magazine-march-2026/)
 **Published:** Fri, 20 Mar 2026 23:00:00 +0000
 
@@ -928,6 +928,14 @@ _Last updated: 2026-03-23 15:09 UTC_
 
 <p>Escalating Middle East war exposes critical vulnerabilities in the semiconductor supply chain, driving re-shoring and fragmenting the global supply chains.</p>
 <p>The post <a href="https://www.eetimes.com/middle-east-conflict-is-rewiring-global-supply-chains/">Middle East Conflict Is Rewiring Global Supply Chains</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Power Integrations extend TOPSwitch IC range with PowiGaN tech](https://www.electronicsweekly.com/news/products/micros/power-integrations-extend-topswitch-ic-range-with-powigan-tech-2026-03/)
+**Published:** Mon, 23 Mar 2026 17:00:00 +0000
+
+<p>APEC 2026: Power Integrations has implemented its GaN technology in its TOPSwitch flyback ICs to increase the power range to 400W. The company&#8217;s PowiGaN technology means that the flyback converters ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/micros/power-integrations-extend-topswitch-ic-range-with-powigan-tech-2026-03/">Power Integrations extend TOPSwitch IC range with PowiGaN tech</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
