@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-23 19:09 UTC_
+_Last updated: 2026-03-23 20:02 UTC_
 
 ## [HBM Demand for AI Server Compute ASICs Forcast to Grow 35x by 2028](https://www.eetasia.com/hbm-demand-for-ai-server-compute-asics-forcast-to-grow-35x-by-2028/)
 **Published:** Mon, 23 Mar 2026 03:32:42 +0000
@@ -31,6 +31,22 @@ _Last updated: 2026-03-23 19:09 UTC_
 
 <p>Lattice will engage with NVIDIA and other Halos ecosystem members to build Halos-certified Holoscan Sensor Bridge-based designs for physical AI.</p>
 <p>The post <a href="https://www.eetasia.com/lattice-advances-safety-for-physical-ai-by-joining-nvidia-halos-ecosystem/">Lattice Advances Safety for Physical AI by Joining NVIDIA Halos Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production](https://www.semiconductor-digest.com/stmicroelectronics-china-manufactured-stm32-microcontrollers-begin-volume-production/?utm_source=rss&utm_medium=rss&utm_campaign=stmicroelectronics-china-manufactured-stm32-microcontrollers-begin-volume-production)
+**Published:** Mon, 23 Mar 2026 19:05:54 +0000
+
+<p>STMicroelectronics announces the start of general-purpose STM32 microcontroller deliveries manufactured in China.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/stmicroelectronics-china-manufactured-stm32-microcontrollers-begin-volume-production/">STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Toshiba Showcases Advanced Power Semiconductor Solutions at APEC 2026](https://www.semiconductor-digest.com/toshiba-showcases-advanced-power-semiconductor-solutions-at-apec-2026/?utm_source=rss&utm_medium=rss&utm_campaign=toshiba-showcases-advanced-power-semiconductor-solutions-at-apec-2026)
+**Published:** Mon, 23 Mar 2026 19:01:33 +0000
+
+<p>Toshiba America Electronic Components, Inc. will be at the Applied Power Electronics Conference (APEC) this week to highlight its latest power semiconductor technologies enabling more intelligent, efficient, and sustainable system designs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/toshiba-showcases-advanced-power-semiconductor-solutions-at-apec-2026/">Toshiba Showcases Advanced Power Semiconductor Solutions at APEC 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -816,22 +832,6 @@ _Last updated: 2026-03-23 19:09 UTC_
 
 <p>Tower Semiconductor, the foundry for high-value analog semiconductor solutions, and Scintil Photonics, the technology leader in Heterogeneous Integrated Photonics for next-generation AI infrastructure, today announced availability of the world's first heterogeneously integrated Dense Wavelength Division Multiplexing (DWDM) laser sources for AI infrastructure using Scintil's SHIP (Scintil Heterogeneous Integrated Photonics) technology.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-and-scintil-photonics-announce-availability-of-worlds-first-heterogeneously-integrated-dwdm-lasers-for-ai-infrastructure/">Tower Semiconductor and Scintil Photonics Announce Availability of World&#8217;s First Heterogeneously Integrated DWDM Lasers for AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [2026 Device Research Conference Announces Call for Papers](https://www.semiconductor-digest.com/2026-device-research-conference-announces-call-for-papers/?utm_source=rss&utm_medium=rss&utm_campaign=2026-device-research-conference-announces-call-for-papers)
-**Published:** Tue, 17 Feb 2026 22:08:10 +0000
-
-<p>The Device Research Conference (DRC), the world’s longest running device research meeting, has announced a Call for Papers for DRC 2026, the conference’s 84th anniversary.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/2026-device-research-conference-announces-call-for-papers/">2026 Device Research Conference Announces Call for Papers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Keysight Unveils 3D Interconnect Designer for Chiplet and 3DIC Advanced Package Designs](https://www.semiconductor-digest.com/keysight-unveils-3d-interconnect-designer-for-chiplet-and-3dic-advanced-package-designs/?utm_source=rss&utm_medium=rss&utm_campaign=keysight-unveils-3d-interconnect-designer-for-chiplet-and-3dic-advanced-package-designs)
-**Published:** Tue, 17 Feb 2026 22:02:05 +0000
-
-<p>Keysight Technologies, Inc. today introduced 3D Interconnect Designer, a new addition to its Electronic Design Automation (EDA) portfolio.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/keysight-unveils-3d-interconnect-designer-for-chiplet-and-3dic-advanced-package-designs/">Keysight Unveils 3D Interconnect Designer for Chiplet and 3DIC Advanced Package Designs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
