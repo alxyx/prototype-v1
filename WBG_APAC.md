@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-23 20:02 UTC_
+_Last updated: 2026-03-23 23:46 UTC_
 
 ## [HBM Demand for AI Server Compute ASICs Forcast to Grow 35x by 2028](https://www.eetasia.com/hbm-demand-for-ai-server-compute-asics-forcast-to-grow-35x-by-2028/)
 **Published:** Mon, 23 Mar 2026 03:32:42 +0000
@@ -912,6 +912,14 @@ _Last updated: 2026-03-23 20:02 UTC_
 
 <img alt="AOS Introduces 25V and 80V MOSFETs for AI Server Power." class="webfeedsFeaturedVisual wp-post-image" height="411" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AOS_AONC40202-68816.jpg?fit=480%2C411" style="display: block; margin-bottom: 5px; clear: both;" width="480" /><p>The new MOSFETs feature double-sided cooling packaging to improve thermal performance and power density in AI server applications.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/aos-introduces-25v-and-80v-mosfets-for-ai-server-power/">AOS Introduces 25V and 80V MOSFETs for AI Server Power</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Taiwan’s WBG Momentum Extends from Devices to Power Systems](https://www.eetimes.com/taiwans-wbg-momentum-extends-from-devices-to-power-systems/)
+**Published:** Mon, 23 Mar 2026 23:00:00 +0000
+
+<p>Taiwan’s competitive focus on WBG semiconductors is shifting toward integration, reliability, and speed of execution.</p>
+<p>The post <a href="https://www.eetimes.com/taiwans-wbg-momentum-extends-from-devices-to-power-systems/">Taiwan’s WBG Momentum Extends from Devices to Power Systems</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
