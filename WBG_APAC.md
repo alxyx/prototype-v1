@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-23 05:16 UTC_
+_Last updated: 2026-03-23 09:10 UTC_
 
 ## [HBM Demand for AI Server Compute ASICs Forcast to Grow 35x by 2028](https://www.eetasia.com/hbm-demand-for-ai-server-compute-asics-forcast-to-grow-35x-by-2028/)
 **Published:** Mon, 23 Mar 2026 03:32:42 +0000
@@ -18,11 +18,11 @@ _Last updated: 2026-03-23 05:16 UTC_
 
 ---
 
-## [DigiKey to Showcase Cutting-edge Technologies and Products to AI EXPO Taiwan 2026](https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/)
+## [DigiKey to Showcase Cutting-edge Technologies and Products at AI EXPO Taiwan 2026](https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/)
 **Published:** Thu, 19 Mar 2026 10:54:37 +0000
 
 <p>DigiKey will highlight the physical components that enable AI to integrate into new domains like smart manufacturing, healthcare and automotive.</p>
-<p>The post <a href="https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/">DigiKey to Showcase Cutting-edge Technologies and Products to AI EXPO Taiwan 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The post <a href="https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/">DigiKey to Showcase Cutting-edge Technologies and Products at AI EXPO Taiwan 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -931,24 +931,17 @@ _Last updated: 2026-03-23 05:16 UTC_
 
 ---
 
-## [Test Engineer Intern At Zippy In Bengaluru](https://www.electronicsforu.com/career/test-engineer-intern-zippy-bengaluru)
-**Published:** Fri, 20 Mar 2026 08:31:21 +0000
+## [SiC-Based Three-Phase Inverter Design](https://www.electronicsforu.com/electronics-projects/sic-based-three-phase-inverter-design)
+**Published:** Mon, 23 Mar 2026 06:27:40 +0000
 
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Zippy Responsibilities Qualifications Required Skills Pay Range and Compensation Package Stipend: INR 20-25k per month Duration: 2 Months
-
----
-
-## [JOB: Memory Design Engineer At Synopsys In Noida](https://www.electronicsforu.com/career/memory-design-engineer-synopsys-noida)
-**Published:** Fri, 20 Mar 2026 08:13:37 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/07/synopsys1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: Synopsys You are a passionate and driven engineer with a deep understanding of semiconductor physics and memory circuit design. Your expertise in SRAM bit-cell figure of merits, RC networks, and FinFET fundamentals enables you to deliver exceptional solutions in high-performance and low-power memory architectures. You thrive in collaborative environments and [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/ref-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A ready-to-use reference platform that helps engineers accelerate the development of efficient mid-power inverter systems using advanced SiC technology. Designed around silicon carbide (SiC) technology, it significantly reduces the complexity and development time typically associated with high-power conversion designs. The REF68006 reference design from ROHM Semiconductor is positioned as a ready-to-use development platform for engineers [&#8230;]
 
 ---
 
-## [JOB: Sr. DFT Engineer At NXP Semiconductors In Pune](https://www.electronicsforu.com/career/sr-dft-engineer-at-nxp-semiconductors-pune)
-**Published:** Fri, 20 Mar 2026 08:00:56 +0000
+## [Flexible Sensors for Continuous Health Monitoring](https://www.electronicsforu.com/news/flexible-sensors-for-continuous-health-monitoring)
+**Published:** Mon, 23 Mar 2026 06:12:33 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/NXPHQ-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: NXP Semiconductors You will be responsible for designing, implementing, and verifying DFT architectures for complex SoCs. You will work closely with RTL, physical design, and verification teams to ensure robust testability and high-quality silicon. Key Responsibilities Required Skills Preferred Qualifications Education -Bachelor’s or Master’s in Electrical/Electronics Engineering.
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/scientist-cancer-research_650x400_71476128951-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Wearable sensors track body signals in real time, enabling disease detection, monitoring, and use across clinics, remote care, and defence. Researchers at the Indian Institute of Technology Jodhpur are developing semiconductor devices for health monitoring, disease detection and physiological assessment. The research focuses on semiconductor devices that can monitor physiological and biochemical signals from the [&#8230;]
 
 ---
 
