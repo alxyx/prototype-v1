@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-23 09:10 UTC_
+_Last updated: 2026-03-23 10:19 UTC_
 
 ## [HBM Demand for AI Server Compute ASICs Forcast to Grow 35x by 2028](https://www.eetasia.com/hbm-demand-for-ai-server-compute-asics-forcast-to-grow-35x-by-2028/)
 **Published:** Mon, 23 Mar 2026 03:32:42 +0000
@@ -935,13 +935,6 @@ _Last updated: 2026-03-23 09:10 UTC_
 **Published:** Mon, 23 Mar 2026 06:27:40 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/ref-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A ready-to-use reference platform that helps engineers accelerate the development of efficient mid-power inverter systems using advanced SiC technology. Designed around silicon carbide (SiC) technology, it significantly reduces the complexity and development time typically associated with high-power conversion designs. The REF68006 reference design from ROHM Semiconductor is positioned as a ready-to-use development platform for engineers [&#8230;]
-
----
-
-## [Flexible Sensors for Continuous Health Monitoring](https://www.electronicsforu.com/news/flexible-sensors-for-continuous-health-monitoring)
-**Published:** Mon, 23 Mar 2026 06:12:33 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/scientist-cancer-research_650x400_71476128951-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Wearable sensors track body signals in real time, enabling disease detection, monitoring, and use across clinics, remote care, and defence. Researchers at the Indian Institute of Technology Jodhpur are developing semiconductor devices for health monitoring, disease detection and physiological assessment. The research focuses on semiconductor devices that can monitor physiological and biochemical signals from the [&#8230;]
 
 ---
 
