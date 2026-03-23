@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-22 16:46 UTC_
+_Last updated: 2026-03-23 05:16 UTC_
+
+## [HBM Demand for AI Server Compute ASICs Forcast to Grow 35x by 2028](https://www.eetasia.com/hbm-demand-for-ai-server-compute-asics-forcast-to-grow-35x-by-2028/)
+**Published:** Mon, 23 Mar 2026 03:32:42 +0000
+
+<p>The projected growth is mainly driven by the widespread adoption of high-density memory architectures across proprietary accelerators.</p>
+<p>The post <a href="https://www.eetasia.com/hbm-demand-for-ai-server-compute-asics-forcast-to-grow-35x-by-2028/">HBM Demand for AI Server Compute ASICs Forcast to Grow 35x by 2028</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Applied Angstrom Technology Opens Singapore R&D Center for AI Hardware Development](https://www.eetasia.com/applied-angstrom-technology-opens-singapore-rd-center-for-ai-hardware-development/)
+**Published:** Mon, 23 Mar 2026 02:17:19 +0000
+
+<p>AAT opened Singapore's APIC to develop atomic-precision semiconductor equipment for rising global AI hardware demand.</p>
+<p>The post <a href="https://www.eetasia.com/applied-angstrom-technology-opens-singapore-rd-center-for-ai-hardware-development/">Applied Angstrom Technology Opens Singapore R&amp;D Center for AI Hardware Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [DigiKey to Showcase Cutting-edge Technologies and Products to AI EXPO Taiwan 2026](https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/)
 **Published:** Thu, 19 Mar 2026 10:54:37 +0000
@@ -15,14 +31,6 @@ _Last updated: 2026-03-22 16:46 UTC_
 
 <p>Lattice will engage with NVIDIA and other Halos ecosystem members to build Halos-certified Holoscan Sensor Bridge-based designs for physical AI.</p>
 <p>The post <a href="https://www.eetasia.com/lattice-advances-safety-for-physical-ai-by-joining-nvidia-halos-ecosystem/">Lattice Advances Safety for Physical AI by Joining NVIDIA Halos Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [India Making Significant Progress Toward Semiconductor Workforce Development Under C2S](https://www.eetasia.com/india-making-significant-progress-toward-semiconductor-workforce-development-under-c2s/)
-**Published:** Wed, 18 Mar 2026 04:49:18 +0000
-
-<p>Under the C2S initiative, India has made significant progress in its 10-year target of training 85,000 engineers in semiconductor design.</p>
-<p>The post <a href="https://www.eetasia.com/india-making-significant-progress-toward-semiconductor-workforce-development-under-c2s/">India Making Significant Progress Toward Semiconductor Workforce Development Under C2S</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -941,13 +949,6 @@ _Last updated: 2026-03-22 16:46 UTC_
 **Published:** Fri, 20 Mar 2026 08:00:56 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/NXPHQ-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: NXP Semiconductors You will be responsible for designing, implementing, and verifying DFT architectures for complex SoCs. You will work closely with RTL, physical design, and verification teams to ensure robust testability and high-quality silicon. Key Responsibilities Required Skills Preferred Qualifications Education -Bachelor’s or Master’s in Electrical/Electronics Engineering.
-
----
-
-## [Power modules that make system design easier](https://www.electronicsforu.com/news/power-modules-that-make-system-design-easier)
-**Published:** Fri, 20 Mar 2026 06:12:19 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/GR-26-111762-260220-HPS-PR-BZPACK-9x5-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Power modules handle heat, moisture, and high voltage while making design easier and reducing failures. Learn more about these modules here. Microchip Technology’s new BZPACK mSiC power modules focus on long-term reliability in harsh conditions while making system design and assembly easier. Built to meet HV-H3TRB standards, the modules are tested beyond 1000 hours, helping [&#8230;]
 
 ---
 
