@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-24 19:19 UTC_
+_Last updated: 2026-03-24 21:52 UTC_
 
 ## [Analog Devices Strengthens Presence in Asia with New Thailand Facility](https://www.eetasia.com/analog-devices-strengthens-presence-in-asia-with-new-thailand-facility/)
 **Published:** Tue, 24 Mar 2026 01:39:42 +0000
@@ -928,14 +928,6 @@ _Last updated: 2026-03-24 19:19 UTC_
 
 <p>The March 2026 Edition of EE Times Europe Magazine analyzes how AI is transforming factory automation and operations and reviews Europe's de-risking semiconductor strategy.</p>
 <p>The post <a href="https://www.eetimes.com/ee-times-europe-magazine-march-2026/">EE Times Europe Magazine – March 2026</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Middle East Conflict Is Rewiring Global Supply Chains](https://www.eetimes.com/middle-east-conflict-is-rewiring-global-supply-chains/)
-**Published:** Fri, 20 Mar 2026 07:00:00 +0000
-
-<p>Escalating Middle East war exposes critical vulnerabilities in the semiconductor supply chain, driving re-shoring and fragmenting the global supply chains.</p>
-<p>The post <a href="https://www.eetimes.com/middle-east-conflict-is-rewiring-global-supply-chains/">Middle East Conflict Is Rewiring Global Supply Chains</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
