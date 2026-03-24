@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-24 16:25 UTC_
+_Last updated: 2026-03-24 19:19 UTC_
 
 ## [Analog Devices Strengthens Presence in Asia with New Thailand Facility](https://www.eetasia.com/analog-devices-strengthens-presence-in-asia-with-new-thailand-facility/)
 **Published:** Tue, 24 Mar 2026 01:39:42 +0000
@@ -23,6 +23,46 @@ _Last updated: 2026-03-24 16:25 UTC_
 
 <p>AAT opened Singapore's APIC to develop atomic-precision semiconductor equipment for rising global AI hardware demand.</p>
 <p>The post <a href="https://www.eetasia.com/applied-angstrom-technology-opens-singapore-rd-center-for-ai-hardware-development/">Applied Angstrom Technology Opens Singapore R&amp;D Center for AI Hardware Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Keysight Introduces Hands-On Semiconductor Teaching Labs for Universities](https://www.semiconductor-digest.com/keysight-introduces-hands-on-semiconductor-teaching-labs-for-universities/?utm_source=rss&utm_medium=rss&utm_campaign=keysight-introduces-hands-on-semiconductor-teaching-labs-for-universities)
+**Published:** Tue, 24 Mar 2026 17:53:11 +0000
+
+<p>Launches three new solutions, designed for students studying semiconductor research, development, and manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/keysight-introduces-hands-on-semiconductor-teaching-labs-for-universities/">Keysight Introduces Hands-On Semiconductor Teaching Labs for Universities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Arm Expands Compute Platform to Silicon Products](https://www.semiconductor-digest.com/arm-expands-compute-platform-to-silicon-products/?utm_source=rss&utm_medium=rss&utm_campaign=arm-expands-compute-platform-to-silicon-products)
+**Published:** Tue, 24 Mar 2026 17:46:41 +0000
+
+<p>Arm Holdings plc today announced the next evolution of the Arm compute platform, extending into production silicon products for the first time in the company’s history.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/arm-expands-compute-platform-to-silicon-products/">Arm Expands Compute Platform to Silicon Products</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [HKU Engineers Designed and Fabricated Inch-Scale Ultrahard Diamond Wafers with 200 GPa Hardness](https://www.semiconductor-digest.com/hku-engineers-designed-and-fabricated-inch-scale-ultrahard-diamond-wafers-with-200-gpa-hardness/?utm_source=rss&utm_medium=rss&utm_campaign=hku-engineers-designed-and-fabricated-inch-scale-ultrahard-diamond-wafers-with-200-gpa-hardness)
+**Published:** Tue, 24 Mar 2026 17:43:47 +0000
+
+<p>A research team co-led by Professor Yang Lu from the Department of Mechanical Engineering, Faculty of Engineering, The University of Hong Kong (HKU), and Professor Chengming Li from the Institute for Advanced Materials and Technology at University of Science and Technology Beijing (USTB), has successfully fabricated a free-standing ultrahard diamond wafer with a diameter of up to 5 inches, a thickness of 3 mm, and a Vickers hardness exceeding 200 GPa.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hku-engineers-designed-and-fabricated-inch-scale-ultrahard-diamond-wafers-with-200-gpa-hardness/">HKU Engineers Designed and Fabricated Inch-Scale Ultrahard Diamond Wafers with 200 GPa Hardness</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Programmable ‘Smart Stamp’ Transfers Microscopic Chips to Build 3D Circuits](https://www.semiconductor-digest.com/programmable-smart-stamp-transfers-microscopic-chips-to-build-3d-circuits/?utm_source=rss&utm_medium=rss&utm_campaign=programmable-smart-stamp-transfers-microscopic-chips-to-build-3d-circuits)
+**Published:** Tue, 24 Mar 2026 17:39:58 +0000
+
+<p>Scientists have used an array of microscopic heaters and a phase-changing polymer to selectively pick up and place delicate electronic components, ranging from tiny microLEDs to nanometer-thick films.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/programmable-smart-stamp-transfers-microscopic-chips-to-build-3d-circuits/">Programmable &#8216;Smart Stamp&#8217; Transfers Microscopic Chips to Build 3D Circuits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ASMPT Introduces Pick & Place System DALA For All Camera Module Components](https://www.semiconductor-digest.com/asmpt-introduces-pick-place-system-dala-for-all-camera-module-components/?utm_source=rss&utm_medium=rss&utm_campaign=asmpt-introduces-pick-place-system-dala-for-all-camera-module-components)
+**Published:** Tue, 24 Mar 2026 17:32:22 +0000
+
+<p>ASMPT introduces DALA, its latest pick and place system for all camera module components.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/asmpt-introduces-pick-place-system-dala-for-all-camera-module-components/">ASMPT Introduces Pick &amp; Place System DALA For All Camera Module Components</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -784,46 +824,6 @@ _Last updated: 2026-03-24 16:25 UTC_
 
 <p>Patented linearization and switched input buffer techniques ensure precise signal conversion and wide bandwidth at high speeds.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/imec-unveils-7-bit-175gs-s-massively-time-interleaved-slope-adc/">Imec Unveils 7‑bit, 175GS/s Massively Time-Interleaved Slope-ADC</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [EV Group Unveils Next-Generation EVG120 Resist Processing System for ﻿ ﻿High-Volume Manufacturing](https://www.semiconductor-digest.com/ev-group-unveils-next-generation-evg120-resist-processing-system-for-high-volume-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-unveils-next-generation-evg120-resist-processing-system-for-high-volume-manufacturing)
-**Published:** Wed, 18 Feb 2026 14:53:56 +0000
-
-<p>New ultra-compact platform adds in-situ resist thickness metrology, wafer edge exposure and ﻿EVG150-class performance in a smaller-scale, highly flexible format.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ev-group-unveils-next-generation-evg120-resist-processing-system-for-high-volume-manufacturing/">EV Group Unveils Next-Generation EVG120 Resist Processing System for ﻿ ﻿High-Volume Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [LINTEC Develops Resin Coating Process for Flatter Semiconductor Wafers during Back Grinding](https://www.semiconductor-digest.com/lintec-develops-resin-coating-process-for-flatter-semiconductor-wafers-during-back-grinding/?utm_source=rss&utm_medium=rss&utm_campaign=lintec-develops-resin-coating-process-for-flatter-semiconductor-wafers-during-back-grinding)
-**Published:** Wed, 18 Feb 2026 14:50:28 +0000
-
-<p>LINTEC has developed Pattern Coating Before Lamination (PCBL), a process for the back grinding of semiconductor wafers that reduces thickness variation caused by step height differences on the circuit surface.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lintec-develops-resin-coating-process-for-flatter-semiconductor-wafers-during-back-grinding/">LINTEC Develops Resin Coating Process for Flatter Semiconductor Wafers during Back Grinding</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CEA Demonstrates First Dynamically Routed Electro-Optical Router for Photonic Interposers](https://www.semiconductor-digest.com/cea-demonstrates-first-dynamically-routed-electro-optical-router-for-photonic-interposers/?utm_source=rss&utm_medium=rss&utm_campaign=cea-demonstrates-first-dynamically-routed-electro-optical-router-for-photonic-interposers)
-**Published:** Wed, 18 Feb 2026 14:46:18 +0000
-
-<p>Researchers from CEA-List and CEA-Leti today unveiled at ISSCC  the first electro-optical router with dynamic, frame-level optical routing integrated with CMOS control logic, marking a major step toward practical optical networking inside advanced chiplet-based packages.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cea-demonstrates-first-dynamically-routed-electro-optical-router-for-photonic-interposers/">CEA Demonstrates First Dynamically Routed Electro-Optical Router for Photonic Interposers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lam Research Deepens Investment in Boise](https://www.semiconductor-digest.com/lam-research-deepens-investment-in-boise/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-deepens-investment-in-boise)
-**Published:** Tue, 17 Feb 2026 22:21:46 +0000
-
-<p>The new office will initially support approximately 150 Lam personnel from the greater Boise area focused on collaborative research, development and high-volume manufacturing of Micron's leading-edge memory technology, with room for future growth. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/lam-research-deepens-investment-in-boise/">Lam Research Deepens Investment in Boise</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Tower Semiconductor and Scintil Photonics Announce Availability of World’s First Heterogeneously Integrated DWDM Lasers for AI Infrastructure](https://www.semiconductor-digest.com/tower-semiconductor-and-scintil-photonics-announce-availability-of-worlds-first-heterogeneously-integrated-dwdm-lasers-for-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-and-scintil-photonics-announce-availability-of-worlds-first-heterogeneously-integrated-dwdm-lasers-for-ai-infrastructure)
-**Published:** Tue, 17 Feb 2026 22:13:11 +0000
-
-<p>Tower Semiconductor, the foundry for high-value analog semiconductor solutions, and Scintil Photonics, the technology leader in Heterogeneous Integrated Photonics for next-generation AI infrastructure, today announced availability of the world's first heterogeneously integrated Dense Wavelength Division Multiplexing (DWDM) laser sources for AI infrastructure using Scintil's SHIP (Scintil Heterogeneous Integrated Photonics) technology.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-and-scintil-photonics-announce-availability-of-worlds-first-heterogeneously-integrated-dwdm-lasers-for-ai-infrastructure/">Tower Semiconductor and Scintil Photonics Announce Availability of World&#8217;s First Heterogeneously Integrated DWDM Lasers for AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
