@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-24 05:07 UTC_
+_Last updated: 2026-03-24 06:22 UTC_
 
 ## [Analog Devices Strengthens Presence in Asia with New Thailand Facility](https://www.eetasia.com/analog-devices-strengthens-presence-in-asia-with-new-thailand-facility/)
 **Published:** Tue, 24 Mar 2026 01:39:42 +0000
@@ -939,10 +939,31 @@ _Last updated: 2026-03-24 05:07 UTC_
 
 ---
 
-## [On-chip quantum light emitters with nanoscale precision](https://www.electronicsforu.com/news/on-chip-quantum-light-emitters-with-nanoscale-precision)
-**Published:** Mon, 23 Mar 2026 10:31:29 +0000
+## [Terahertz Waves enable Real-Time monitoring of Electronic Chips](https://www.electronicsforu.com/news/terahertz-waves-enable-real-time-monitoring-of-electronic-chips)
+**Published:** Tue, 24 Mar 2026 06:10:02 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/GettyImages-1489139608-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />DNA origami paves a way to position quantum emitters on chips. Here’s how scientists are making it possible. An international research team from Nanjing University, Skolkovo Institute of Science and Technology, and LMU Munich has developed a novel technique for precisely positioning quantum light sources on semiconductor chips using DNA origami, marking an important step [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Low-Res_Terahertz_1920x1080-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />How are x-rays telling us what is happening inside semiconductor chips while they are operating? A team of international researchers has developed a ground-breaking technique to observe what happens inside electronic chips while they are actively operating. This innovation allows engineers to monitor semiconductor devices without physically touching them, dismantling their packaging, or switching them [&#8230;]
+
+---
+
+## [OpenEnv Hackathon Targets AI Developers](https://www.electronicsforu.com/news/openenv-hackathon-targets-ai-developers)
+**Published:** Tue, 24 Mar 2026 05:55:34 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/LXmtCcWAXN79tQrTew9jwWJw9oUrXWms7XNIeMaB-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />India edition brings RL infrastructure, $30K prizes, and direct hiring access The OpenEnv AI Hackathon has arrived in India, expanding access to advanced reinforcement learning (RL) infrastructure for developers and signalling a shift toward hands-on AI system building. Following its debut in San Francisco, the national-level competition is being organised by Scaler School of Technology [&#8230;]
+
+---
+
+## [Bidirectional GaN Switch](https://www.electronicsforu.com/news/bidirectional-gan-switch)
+**Published:** Tue, 24 Mar 2026 05:31:39 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Screenshot-2026-03-24-105817-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New switch architecture enables single-stage designs, cutting components while boosting efficiency across solar, EV, and AI power systems. New switch architecture enables single-stage designs, cutting components while boosting efficiency across solar, EV, and AI power systems.A new bidirectional GaN power switch is set to reshape high-voltage power conversion by enabling single-device current blocking in both [&#8230;]
+
+---
+
+## [Smart Gate Boosts Memory Density](https://www.electronicsforu.com/news/smart-gate-boosts-memory-density)
+**Published:** Tue, 24 Mar 2026 05:21:28 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/new-enabling-technolog-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New semiconductor design unlocks faster, denser, and more reliable NAND storage for future electronics An advancement in semiconductor design could significantly expand data storage capacity while improving speed and reliability, addressing one of the biggest bottlenecks in modern electronicsfrom smartphones to AI data centres. Researchers at the Korea Advanced Institute of Science and Technology (KAIST) [&#8230;]
 
 ---
 
