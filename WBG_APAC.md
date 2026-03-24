@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-23 23:46 UTC_
+_Last updated: 2026-03-24 05:07 UTC_
+
+## [Analog Devices Strengthens Presence in Asia with New Thailand Facility](https://www.eetasia.com/analog-devices-strengthens-presence-in-asia-with-new-thailand-facility/)
+**Published:** Tue, 24 Mar 2026 01:39:42 +0000
+
+<p>Analog Devices opened a new Thailand facility to expand resilient, sustainable semiconductor manufacturing and test capacity.</p>
+<p>The post <a href="https://www.eetasia.com/analog-devices-strengthens-presence-in-asia-with-new-thailand-facility/">Analog Devices Strengthens Presence in Asia with New Thailand Facility</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [HBM Demand for AI Server Compute ASICs Forcast to Grow 35x by 2028](https://www.eetasia.com/hbm-demand-for-ai-server-compute-asics-forcast-to-grow-35x-by-2028/)
 **Published:** Mon, 23 Mar 2026 03:32:42 +0000
@@ -15,22 +23,6 @@ _Last updated: 2026-03-23 23:46 UTC_
 
 <p>AAT opened Singapore's APIC to develop atomic-precision semiconductor equipment for rising global AI hardware demand.</p>
 <p>The post <a href="https://www.eetasia.com/applied-angstrom-technology-opens-singapore-rd-center-for-ai-hardware-development/">Applied Angstrom Technology Opens Singapore R&amp;D Center for AI Hardware Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [DigiKey to Showcase Cutting-edge Technologies and Products at AI EXPO Taiwan 2026](https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/)
-**Published:** Thu, 19 Mar 2026 10:54:37 +0000
-
-<p>DigiKey will highlight the physical components that enable AI to integrate into new domains like smart manufacturing, healthcare and automotive.</p>
-<p>The post <a href="https://www.eetasia.com/digikey-to-showcase-cutting-edge-technologies-and-products-to-ai-expo-taiwan-2026/">DigiKey to Showcase Cutting-edge Technologies and Products at AI EXPO Taiwan 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Lattice Advances Safety for Physical AI by Joining NVIDIA Halos Ecosystem](https://www.eetasia.com/lattice-advances-safety-for-physical-ai-by-joining-nvidia-halos-ecosystem/)
-**Published:** Thu, 19 Mar 2026 02:58:57 +0000
-
-<p>Lattice will engage with NVIDIA and other Halos ecosystem members to build Halos-certified Holoscan Sensor Bridge-based designs for physical AI.</p>
-<p>The post <a href="https://www.eetasia.com/lattice-advances-safety-for-physical-ai-by-joining-nvidia-halos-ecosystem/">Lattice Advances Safety for Physical AI by Joining NVIDIA Halos Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
