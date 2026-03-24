@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-24 06:22 UTC_
+_Last updated: 2026-03-24 16:25 UTC_
 
 ## [Analog Devices Strengthens Presence in Asia with New Thailand Facility](https://www.eetasia.com/analog-devices-strengthens-presence-in-asia-with-new-thailand-facility/)
 **Published:** Tue, 24 Mar 2026 01:39:42 +0000
@@ -827,6 +827,22 @@ _Last updated: 2026-03-24 06:22 UTC_
 
 ---
 
+## [Paralleling GaN FETs: Current Sharing Challenges and Solutions](https://www.powerelectronicsnews.com/paralleling-gan-fets-current-sharing-challenges-and-solutions/)
+**Published:** Tue, 24 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4002" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_600062429.jpeg?fit=6003%2C4002" style="display: block; margin-bottom: 5px; clear: both;" width="6003" /><p>One of the oldest challenges of power electronics is the paralleling of multiple transistors to obtain a higher-current switch. This task is rarely straightforward, as...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/paralleling-gan-fets-current-sharing-challenges-and-solutions/">Paralleling GaN FETs: Current Sharing Challenges and Solutions</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [SemiQ Launches 1200-V SiC Dual3 Modules](https://www.powerelectronicsnews.com/semiq-launches-1200-v-sic-dual3-modules/)
+**Published:** Tue, 24 Mar 2026 13:00:00 +0000
+
+<img alt="SemiQ Launches 1200 V SiC Dual3 Modules for High-Density Power." class="webfeedsFeaturedVisual wp-post-image" height="1160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/SemiQ-QSiC-Dual3-PR-image.jpg?fit=1800%2C1160" style="display: block; margin-bottom: 5px; clear: both;" width="1800" /><p>The SiC Dual3 half-bridge modules feature low RDS(on) to improve efficiency and power density in industrial and energy systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/semiq-launches-1200-v-sic-dual3-modules/">SemiQ Launches 1200-V SiC Dual3 Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [TI Unveils 800 VDC Power Architecture for AI Data Centers](https://www.powerelectronicsnews.com/ti-unveils-800-vdc-power-architecture-for-ai-data-centers/)
 **Published:** Mon, 23 Mar 2026 17:00:00 +0000
 
@@ -891,19 +907,11 @@ _Last updated: 2026-03-24 06:22 UTC_
 
 ---
 
-## [Nvidia GTC 2026: 800 VDC Power Partnerships From Grid to Processor](https://www.powerelectronicsnews.com/nvidia-gtc-2026-800-vdc-power-partnerships-from-grid-to-processor/)
-**Published:** Thu, 19 Mar 2026 17:34:52 +0000
+## [Power Module Packaging Evolves as Materials and Supply Chains Redefine Power Electronics](https://www.eetimes.com/power-module-packaging-evolves-as-materials-and-supply-chains-redefine-power-electronics/)
+**Published:** Tue, 24 Mar 2026 15:54:57 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3584" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_800657784_ac122b.jpeg?fit=5376%2C3584" style="display: block; margin-bottom: 5px; clear: both;" width="5376" /><p>Nvidia GTC 2026 power announcements span SSTs at the facility level to direct 800V-to-6V silicon conversion.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/nvidia-gtc-2026-800-vdc-power-partnerships-from-grid-to-processor/">Nvidia GTC 2026: 800 VDC Power Partnerships From Grid to Processor</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [AOS Introduces 25V and 80V MOSFETs for AI Server Power](https://www.powerelectronicsnews.com/aos-introduces-25v-and-80v-mosfets-for-ai-server-power/)
-**Published:** Thu, 19 Mar 2026 16:00:00 +0000
-
-<img alt="AOS Introduces 25V and 80V MOSFETs for AI Server Power." class="webfeedsFeaturedVisual wp-post-image" height="411" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AOS_AONC40202-68816.jpg?fit=480%2C411" style="display: block; margin-bottom: 5px; clear: both;" width="480" /><p>The new MOSFETs feature double-sided cooling packaging to improve thermal performance and power density in AI server applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/aos-introduces-25v-and-80v-mosfets-for-ai-server-power/">AOS Introduces 25V and 80V MOSFETs for AI Server Power</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Power module packaging is transforming for electrification—discover how new materials and supply chains are redefining the industry landscape.</p>
+<p>The post <a href="https://www.eetimes.com/power-module-packaging-evolves-as-materials-and-supply-chains-redefine-power-electronics/">Power Module Packaging Evolves as Materials and Supply Chains Redefine Power Electronics</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -931,39 +939,33 @@ _Last updated: 2026-03-24 06:22 UTC_
 
 ---
 
-## [Power Integrations extend TOPSwitch IC range with PowiGaN tech](https://www.electronicsweekly.com/news/products/micros/power-integrations-extend-topswitch-ic-range-with-powigan-tech-2026-03/)
-**Published:** Mon, 23 Mar 2026 17:00:00 +0000
+## [Foundry capacity underutilised but revenues and market share growing](https://www.electronicsweekly.com/news/business/foundry-capacity-underutilised-but-revenues-and-market-share-growing-2026-03/)
+**Published:** Tue, 24 Mar 2026 06:29:20 +0000
 
-<p>APEC 2026: Power Integrations has implemented its GaN technology in its TOPSwitch flyback ICs to increase the power range to 400W. The company&#8217;s PowiGaN technology means that the flyback converters ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/micros/power-integrations-extend-topswitch-ic-range-with-powigan-tech-2026-03/">Power Integrations extend TOPSwitch IC range with PowiGaN tech</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Terahertz Waves enable Real-Time monitoring of Electronic Chips](https://www.electronicsforu.com/news/terahertz-waves-enable-real-time-monitoring-of-electronic-chips)
-**Published:** Tue, 24 Mar 2026 06:10:02 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Low-Res_Terahertz_1920x1080-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />How are x-rays telling us what is happening inside semiconductor chips while they are operating? A team of international researchers has developed a ground-breaking technique to observe what happens inside electronic chips while they are actively operating. This innovation allows engineers to monitor semiconductor devices without physically touching them, dismantling their packaging, or switching them [&#8230;]
+<p>Semiconductor wafer demand (12” equivalent) reached 8.7 million wpm last year, says Yole Group, with the foundry industry earning 47% of all wafer manufacturing revenue, worth $181bn, last year Foundry ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/foundry-capacity-underutilised-but-revenues-and-market-share-growing-2026-03/">Foundry capacity underutilised but revenues and market share growing</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [OpenEnv Hackathon Targets AI Developers](https://www.electronicsforu.com/news/openenv-hackathon-targets-ai-developers)
-**Published:** Tue, 24 Mar 2026 05:55:34 +0000
+## [EPC91121 BLDC motor drive evaluation board](https://www.electronicsweekly.com/news/business/epc-launches-2026-03/)
+**Published:** Tue, 24 Mar 2026 06:17:43 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/LXmtCcWAXN79tQrTew9jwWJw9oUrXWms7XNIeMaB-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />India edition brings RL infrastructure, $30K prizes, and direct hiring access The OpenEnv AI Hackathon has arrived in India, expanding access to advanced reinforcement learning (RL) infrastructure for developers and signalling a shift toward hands-on AI system building. Following its debut in San Francisco, the national-level competition is being organised by Scaler School of Technology [&#8230;]
-
----
-
-## [Bidirectional GaN Switch](https://www.electronicsforu.com/news/bidirectional-gan-switch)
-**Published:** Tue, 24 Mar 2026 05:31:39 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Screenshot-2026-03-24-105817-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New switch architecture enables single-stage designs, cutting components while boosting efficiency across solar, EV, and AI power systems. New switch architecture enables single-stage designs, cutting components while boosting efficiency across solar, EV, and AI power systems.A new bidirectional GaN power switch is set to reshape high-voltage power conversion by enabling single-device current blocking in both [&#8230;]
+<p>APEC: Efficient Power Conversion (EPC) has introduced the EPC91121 motor drive inverter evaluation board, built around the Gen-7 EPC2366 40V eGaN power transistor. Measuring 79x80mm, the EPC91121 is engineered for ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/epc-launches-2026-03/">EPC91121 BLDC motor drive evaluation board</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Smart Gate Boosts Memory Density](https://www.electronicsforu.com/news/smart-gate-boosts-memory-density)
-**Published:** Tue, 24 Mar 2026 05:21:28 +0000
+## [2D Oxyhalides Revolutionize Semiconductor Chip Manufacturing](https://www.electronicsforu.com/news/2d-oxyhalides-revolutionize-semiconductor-chip-manufacturing)
+**Published:** Tue, 24 Mar 2026 07:06:49 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/new-enabling-technolog-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New semiconductor design unlocks faster, denser, and more reliable NAND storage for future electronics An advancement in semiconductor design could significantly expand data storage capacity while improving speed and reliability, addressing one of the biggest bottlenecks in modern electronicsfrom smartphones to AI data centres. Researchers at the Korea Advanced Institute of Science and Technology (KAIST) [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/atom-thin-material-cou-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A surprising ultrathin material is challenging long-standing limits in chip fabrication, hinting at a new way to shape nanoscale circuits with greater precision and resilience. An international team of researchers led by Saptarshi Das, Ackley Professor at Pennsylvania State University, has reported a new approach to semiconductor patterning using an atomically thin material, chromium oxychloride [&#8230;]
+
+---
+
+## [GaN system for smaller chargers](https://www.electronicsforu.com/news/gan-system-for-smaller-chargers)
+**Published:** Tue, 24 Mar 2026 06:31:42 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/500w-hwllc-en-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new GaN approach changes power design, cuts size and heat, supports higher output, and points to smaller chargers and wider use across devices. Renesas has introduced a GaN-based Half-Wave LLC platform for AC/DC and power adapters, targeting designs from 500W and above. The platform supports compact power systems and helps move beyond the size, [&#8230;]
 
 ---
 
