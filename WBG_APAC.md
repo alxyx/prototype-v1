@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-25 06:14 UTC_
+_Last updated: 2026-03-25 09:05 UTC_
 
 ## [Siemens AI Agent Enables Automation Across Semiconductor, 3D IC, PCB System Workflows](https://www.eetasia.com/siemens-ai-agent-enables-automation-across-semiconductor-3d-ic-pcb-system-workflows/)
 **Published:** Tue, 24 Mar 2026 23:31:21 +0000
@@ -915,6 +915,14 @@ _Last updated: 2026-03-25 06:14 UTC_
 
 ---
 
+## [What Policymakers Must Fix in Europe’s Chips Act 2.0](https://www.eetimes.com/what-policymakers-must-fix-in-europes-chips-act-2-0/)
+**Published:** Wed, 25 Mar 2026 08:53:10 +0000
+
+<p>As Brussels prepares the next phase of its semiconductor push, the real challenge may lie less in technological choices than in fixing the policy machinery itself.</p>
+<p>The post <a href="https://www.eetimes.com/what-policymakers-must-fix-in-europes-chips-act-2-0/">What Policymakers Must Fix in Europe’s Chips Act 2.0</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Power Module Packaging Evolves as Materials and Supply Chains Redefine Power Electronics](https://www.eetimes.com/power-module-packaging-evolves-as-materials-and-supply-chains-redefine-power-electronics/)
 **Published:** Tue, 24 Mar 2026 15:54:57 +0000
 
@@ -939,19 +947,31 @@ _Last updated: 2026-03-25 06:14 UTC_
 
 ---
 
-## [Foundry capacity underutilised but revenues and market share growing](https://www.electronicsweekly.com/news/business/foundry-capacity-underutilised-but-revenues-and-market-share-growing-2026-03/)
-**Published:** Tue, 24 Mar 2026 06:29:20 +0000
+## [SiC Gate Driver Reference Design](https://www.electronicsforu.com/electronics-projects/sic-gate-driver-reference-design)
+**Published:** Wed, 25 Mar 2026 08:57:35 +0000
 
-<p>Semiconductor wafer demand (12” equivalent) reached 8.7 million wpm last year, says Yole Group, with the foundry industry earning 47% of all wafer manufacturing revenue, worth $181bn, last year Foundry ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/foundry-capacity-underutilised-but-revenues-and-market-share-growing-2026-03/">Foundry capacity underutilised but revenues and market share growing</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/ref-2-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A 100 kW-class inverter reference platform that helps design engineers accelerate development of high-efficiency SiC-based traction and motor drive systems. For design engineers working on next-generation power electronics, especially in electric vehicles (EVs) and industrial drive systems, validated reference designs play a critical role in reducing development risk and accelerating time-to-market. Designing high-voltage, high-efficiency traction [&#8230;]
 
 ---
 
-## [EPC91121 BLDC motor drive evaluation board](https://www.electronicsweekly.com/news/business/epc-launches-2026-03/)
-**Published:** Tue, 24 Mar 2026 06:17:43 +0000
+## [JOB: Electromagentics Engineer At Eaton In Pune](https://www.electronicsforu.com/career/electromagentics-engineer-eaton-pune)
+**Published:** Wed, 25 Mar 2026 07:53:39 +0000
 
-<p>APEC: Efficient Power Conversion (EPC) has introduced the EPC91121 motor drive inverter evaluation board, built around the Gen-7 EPC2366 40V eGaN power transistor. Measuring 79x80mm, the EPC91121 is engineered for ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/epc-launches-2026-03/">EPC91121 BLDC motor drive evaluation board</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton The primary responsibility of this role is to evaluate electromagnetics performance of products/subsystems/systems for various Electrical EMEA products including Switchgear, Transformers, UPS &#38; Breakers. Incumbent is expected to perform electromagnetics analysis of various Eaton products for predicting product performance. Incumbent is also required to partner with global &#38; local [&#8230;]
+
+---
+
+## [Power Modules for Data Center and Industrial Drives](https://www.electronicsforu.com/news/power-modules-for-data-center-and-industrial-drives)
+**Published:** Wed, 25 Mar 2026 07:10:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/SemiQ-Dual3-PR-image-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pushing power limits in data centres? These modules enable smaller converters, less heat, and a shift from IGBT designs without a full redesign. SemiQ Inc has introduced QSiC Dual3, a family of 1200 V half-bridge MOSFET modules built on silicon carbide (SiC). The modules are designed to replace IGBT modules with minimal design changes while [&#8230;]
+
+---
+
+## [GaN-Powered BLDC Motor Drive Evaluation Board](https://www.electronicsforu.com/news/gan-powered-bldc-motor-drive-evaluation-board)
+**Published:** Wed, 25 Mar 2026 06:36:02 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/EPC91121-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A single evaluation board that can deliver high currents, simplify motor drive development, and unlock faster, higher-performance BLDC motor designs. Efficient Power Conversion Electronics (EPC) has unveiled the EPC91121, a 3-phase BLDC motor drive inverter evaluation board built around the EPC2366 eGaN FET. The board is designed to help engineers rapidly prototype and optimize motor [&#8230;]
 
 ---
 
