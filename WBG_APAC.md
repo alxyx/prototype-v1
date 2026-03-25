@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-25 15:16 UTC_
+_Last updated: 2026-03-25 16:32 UTC_
 
 ## [Siemens AI Agent Enables Automation Across Semiconductor, 3D IC, PCB System Workflows](https://www.eetasia.com/siemens-ai-agent-enables-automation-across-semiconductor-3d-ic-pcb-system-workflows/)
 **Published:** Tue, 24 Mar 2026 23:31:21 +0000
