@@ -1,28 +1,36 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-24 21:52 UTC_
+_Last updated: 2026-03-25 06:14 UTC_
+
+## [Siemens AI Agent Enables Automation Across Semiconductor, 3D IC, PCB System Workflows](https://www.eetasia.com/siemens-ai-agent-enables-automation-across-semiconductor-3d-ic-pcb-system-workflows/)
+**Published:** Tue, 24 Mar 2026 23:31:21 +0000
+
+<p>Siemens' Fuse EDA AI Agent delivers automation that significantly accelerates engineering productivity and achieves higher-quality designs.</p>
+<p>The post <a href="https://www.eetasia.com/siemens-ai-agent-enables-automation-across-semiconductor-3d-ic-pcb-system-workflows/">Siemens AI Agent Enables Automation Across Semiconductor, 3D IC, PCB System Workflows</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [TrendForce: As CSPs Increasingly Self-develop ASICs, NVIDIA Boosts Portfolio for AI Training, Inference](https://www.eetasia.com/trendforce-as-csps-increasingly-self-develop-asics-nvidia-boosts-portfolio-for-ai-training-inference/)
+**Published:** Tue, 24 Mar 2026 23:30:29 +0000
+
+<p>NVIDIA shifted the focus of GTC 2026 toward deploying AI inference applications across multiple industries, departing from its previous emphasis on cloud-based AI training.</p>
+<p>The post <a href="https://www.eetasia.com/trendforce-as-csps-increasingly-self-develop-asics-nvidia-boosts-portfolio-for-ai-training-inference/">TrendForce: As CSPs Increasingly Self-develop ASICs, NVIDIA Boosts Portfolio for AI Training, Inference</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMIFIVE Leads AI ASIC Market with Successive NPU Project Wins](https://www.eetasia.com/semifive-leads-ai-asic-market-with-successive-npu-project-wins/)
+**Published:** Tue, 24 Mar 2026 23:21:35 +0000
+
+<p>The new contract further strengthens SEMIFIVE's leadership in the rapidly growing AI semiconductor market and expands its portfolio of AI chip design projects.</p>
+<p>The post <a href="https://www.eetasia.com/semifive-leads-ai-asic-market-with-successive-npu-project-wins/">SEMIFIVE Leads AI ASIC Market with Successive NPU Project Wins</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Analog Devices Strengthens Presence in Asia with New Thailand Facility](https://www.eetasia.com/analog-devices-strengthens-presence-in-asia-with-new-thailand-facility/)
 **Published:** Tue, 24 Mar 2026 01:39:42 +0000
 
 <p>Analog Devices opened a new Thailand facility to expand resilient, sustainable semiconductor manufacturing and test capacity.</p>
 <p>The post <a href="https://www.eetasia.com/analog-devices-strengthens-presence-in-asia-with-new-thailand-facility/">Analog Devices Strengthens Presence in Asia with New Thailand Facility</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [HBM Demand for AI Server Compute ASICs Forcast to Grow 35x by 2028](https://www.eetasia.com/hbm-demand-for-ai-server-compute-asics-forcast-to-grow-35x-by-2028/)
-**Published:** Mon, 23 Mar 2026 03:32:42 +0000
-
-<p>The projected growth is mainly driven by the widespread adoption of high-density memory architectures across proprietary accelerators.</p>
-<p>The post <a href="https://www.eetasia.com/hbm-demand-for-ai-server-compute-asics-forcast-to-grow-35x-by-2028/">HBM Demand for AI Server Compute ASICs Forcast to Grow 35x by 2028</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Applied Angstrom Technology Opens Singapore R&D Center for AI Hardware Development](https://www.eetasia.com/applied-angstrom-technology-opens-singapore-rd-center-for-ai-hardware-development/)
-**Published:** Mon, 23 Mar 2026 02:17:19 +0000
-
-<p>AAT opened Singapore's APIC to develop atomic-precision semiconductor equipment for rising global AI hardware demand.</p>
-<p>The post <a href="https://www.eetasia.com/applied-angstrom-technology-opens-singapore-rd-center-for-ai-hardware-development/">Applied Angstrom Technology Opens Singapore R&amp;D Center for AI Hardware Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -944,20 +952,6 @@ _Last updated: 2026-03-24 21:52 UTC_
 
 <p>APEC: Efficient Power Conversion (EPC) has introduced the EPC91121 motor drive inverter evaluation board, built around the Gen-7 EPC2366 40V eGaN power transistor. Measuring 79x80mm, the EPC91121 is engineered for ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/epc-launches-2026-03/">EPC91121 BLDC motor drive evaluation board</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [2D Oxyhalides Revolutionize Semiconductor Chip Manufacturing](https://www.electronicsforu.com/news/2d-oxyhalides-revolutionize-semiconductor-chip-manufacturing)
-**Published:** Tue, 24 Mar 2026 07:06:49 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/atom-thin-material-cou-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A surprising ultrathin material is challenging long-standing limits in chip fabrication, hinting at a new way to shape nanoscale circuits with greater precision and resilience. An international team of researchers led by Saptarshi Das, Ackley Professor at Pennsylvania State University, has reported a new approach to semiconductor patterning using an atomically thin material, chromium oxychloride [&#8230;]
-
----
-
-## [GaN system for smaller chargers](https://www.electronicsforu.com/news/gan-system-for-smaller-chargers)
-**Published:** Tue, 24 Mar 2026 06:31:42 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/500w-hwllc-en-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new GaN approach changes power design, cuts size and heat, supports higher output, and points to smaller chargers and wider use across devices. Renesas has introduced a GaN-based Half-Wave LLC platform for AC/DC and power adapters, targeting designs from 500W and above. The platform supports compact power systems and helps move beyond the size, [&#8230;]
 
 ---
 
