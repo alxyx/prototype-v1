@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-25 09:05 UTC_
+_Last updated: 2026-03-25 10:08 UTC_
 
 ## [Siemens AI Agent Enables Automation Across Semiconductor, 3D IC, PCB System Workflows](https://www.eetasia.com/siemens-ai-agent-enables-automation-across-semiconductor-3d-ic-pcb-system-workflows/)
 **Published:** Tue, 24 Mar 2026 23:31:21 +0000
@@ -947,6 +947,14 @@ _Last updated: 2026-03-25 09:05 UTC_
 
 ---
 
+## [RANSemi wins Apeiroon baseband design-in](https://www.electronicsweekly.com/news/business/ransemi-wins-apeiroon-baseband-design-in-2026-03/)
+**Published:** Wed, 25 Mar 2026 09:50:55 +0000
+
+<p>RANSemi Limited, the British semiconductor innovator pioneering Open RAN baseband SoCcplatforms for 4G and 5G networks, today announced that its RNS802 5G RAN baseband SoC is being used to power mission-critical ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/ransemi-wins-apeiroon-baseband-design-in-2026-03/">RANSemi wins Apeiroon baseband design-in</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [SiC Gate Driver Reference Design](https://www.electronicsforu.com/electronics-projects/sic-gate-driver-reference-design)
 **Published:** Wed, 25 Mar 2026 08:57:35 +0000
 
@@ -965,13 +973,6 @@ _Last updated: 2026-03-25 09:05 UTC_
 **Published:** Wed, 25 Mar 2026 07:10:00 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/SemiQ-Dual3-PR-image-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pushing power limits in data centres? These modules enable smaller converters, less heat, and a shift from IGBT designs without a full redesign. SemiQ Inc has introduced QSiC Dual3, a family of 1200 V half-bridge MOSFET modules built on silicon carbide (SiC). The modules are designed to replace IGBT modules with minimal design changes while [&#8230;]
-
----
-
-## [GaN-Powered BLDC Motor Drive Evaluation Board](https://www.electronicsforu.com/news/gan-powered-bldc-motor-drive-evaluation-board)
-**Published:** Wed, 25 Mar 2026 06:36:02 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/EPC91121-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A single evaluation board that can deliver high currents, simplify motor drive development, and unlock faster, higher-performance BLDC motor designs. Efficient Power Conversion Electronics (EPC) has unveiled the EPC91121, a 3-phase BLDC motor drive inverter evaluation board built around the EPC2366 eGaN FET. The board is designed to help engineers rapidly prototype and optimize motor [&#8230;]
 
 ---
 
