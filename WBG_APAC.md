@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-25 11:55 UTC_
+_Last updated: 2026-03-25 15:16 UTC_
 
 ## [Siemens AI Agent Enables Automation Across Semiconductor, 3D IC, PCB System Workflows](https://www.eetasia.com/siemens-ai-agent-enables-automation-across-semiconductor-3d-ic-pcb-system-workflows/)
 **Published:** Tue, 24 Mar 2026 23:31:21 +0000
@@ -835,6 +835,46 @@ _Last updated: 2026-03-25 11:55 UTC_
 
 ---
 
+## [Vishay Introduces Space-Grade Common Mode Choke](https://www.powerelectronicsnews.com/vishay-introduces-space-grade-common-mode-choke/)
+**Published:** Wed, 25 Mar 2026 14:00:00 +0000
+
+<img alt="Vishay Introduces Space-Grade Common Mode Choke." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/55142941807_6138753fb9_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The space-grade common mode choke features a nanocrystalline core for EMI filtering and is well-suited for GaN and SiC power applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-introduces-space-grade-common-mode-choke/">Vishay Introduces Space-Grade Common Mode Choke</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Advanced Energy Launches 600-W Full-Bridge 48-V AC-DC Supply](https://www.powerelectronicsnews.com/advanced-energy-launches-600-w-full-bridge-48-v-ac-dc-supply/)
+**Published:** Wed, 25 Mar 2026 14:00:00 +0000
+
+<img alt="Advanced Energy Launches 600-W Full-Bridge 48-V AC-DC Supply." class="webfeedsFeaturedVisual wp-post-image" height="2625" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/6e54f15568f8884b44f2c493da8690ce.jpg?fit=3937%2C2625" style="display: block; margin-bottom: 5px; clear: both;" width="3937" /><p>The 600-W full-brick AC-DC power supply provides 94% efficiency, digital control, and high power density.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/advanced-energy-launches-600-w-full-bridge-48-v-ac-dc-supply/">Advanced Energy Launches 600-W Full-Bridge 48-V AC-DC Supply</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [TI Launches IsoShield Power Modules for High-Density Isolation](https://www.powerelectronicsnews.com/ti-launches-isoshield-power-modules-for-high-density-isolation/)
+**Published:** Wed, 25 Mar 2026 14:00:00 +0000
+
+<img alt="TI Launches IsoShield Power Modules for High-Density Isolation." class="webfeedsFeaturedVisual wp-post-image" height="1519" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/TI_isolated_power_modules_with_IsoShield_technology.jpg?fit=2700%2C1519" style="display: block; margin-bottom: 5px; clear: both;" width="2700" /><p>These isolated power modules with IsoShield packaging are designed to improve power density, efficiency, and safety in data centers and EVs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ti-launches-isoshield-power-modules-for-high-density-isolation/">TI Launches IsoShield Power Modules for High-Density Isolation</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Are SiC Inverters Suitable For Sensorless Vector Motor Control?](https://www.powerelectronicsnews.com/are-sic-inverters-suitable-for-sensorless-vector-motor-control/)
+**Published:** Wed, 25 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_397789806.jpeg?fit=6000%2C4000" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>There are two inevitable imperatives when it comes to EV motors: the integration of wide-bandgap (WBG) power electronics and the need for high-accuracy motor control...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/are-sic-inverters-suitable-for-sensorless-vector-motor-control/">Are SiC Inverters Suitable For Sensorless Vector Motor Control?</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [ST Unveils GaN Motor-Control Reference Design for 600-W Drives](https://www.powerelectronicsnews.com/st-unveils-gan-motor-control-reference-design-for-600-w-drives/)
+**Published:** Wed, 25 Mar 2026 13:00:00 +0000
+
+<img alt="ST Unveils GaN Motor-Control Reference Design for 600 W Drives." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/N4750D-Mar-19-2026-EVSTDRVG611MC-GaN-ref-design_IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The GaN-based motor-control reference design enables &#62; 600 W operation without heatsink for appliances and industrial drives.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-unveils-gan-motor-control-reference-design-for-600-w-drives/">ST Unveils GaN Motor-Control Reference Design for 600-W Drives</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Paralleling GaN FETs: Current Sharing Challenges and Solutions](https://www.powerelectronicsnews.com/paralleling-gan-fets-current-sharing-challenges-and-solutions/)
 **Published:** Tue, 24 Mar 2026 13:00:00 +0000
 
@@ -872,46 +912,6 @@ _Last updated: 2026-03-25 11:55 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5265" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_1482937173-1.jpeg?fit=8178%2C5265" style="display: block; margin-bottom: 5px; clear: both;" width="8178" /><p>A team from Sandia National Laboratories demonstrated results from a Gen 3 1,200-V vertical GaN MOSFET that incorporated HfO2 gate oxide.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/high-k-gate-oxide-improves-1200-v-vertical-gan-performance/">High-k Gate Oxide Improves 1,200-V Vertical GaN Performance</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ST Introduces 3A Buck Converter in Compact SOT23 Package](https://www.powerelectronicsnews.com/st-introduces-3a-buck-converter-in-compact-sot23-package/)
-**Published:** Mon, 23 Mar 2026 13:00:00 +0000
-
-<img alt="ST Introduces 3 A Buck Converter in Compact SOT23 Package." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/N4763D-Mar-17-2026-DCP3603-buck-converter_PR-IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The DCP3603 integrates 3A buck conversion in a compact package, delivering high efficiency and low BOM for industrial and appliance designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-3a-buck-converter-in-compact-sot23-package/">ST Introduces 3A Buck Converter in Compact SOT23 Package</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Bourns Expands Modular Contacts Portfolio with 5–8 A Options](https://www.powerelectronicsnews.com/bourns-expands-modular-contacts-portfolio-with-5-8-a-options/)
-**Published:** Fri, 20 Mar 2026 17:00:00 +0000
-
-<img alt="Bourns Expands Modular Contacts Portfolio with 5–8 A Options." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/bourns_high_power_modular_contacts_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>Bourns adds 5 A, 6 A, and 8 A modular contacts to support higher power density, scalable designs, and efficient energy transfer.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/bourns-expands-modular-contacts-portfolio-with-5-8-a-options/">Bourns Expands Modular Contacts Portfolio with 5–8 A Options</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Diodes Introduces Automotive Multi-Phase Boost Controller](https://www.powerelectronicsnews.com/diodes-introduces-automotive-multi-phase-boost-controller/)
-**Published:** Fri, 20 Mar 2026 14:00:00 +0000
-
-<img alt="Diodes Introduces Automotive Multi-Phase Boost Controller." class="webfeedsFeaturedVisual wp-post-image" height="353" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Multi-Phase-SPI-Boost-Controller-Provides-a-High-Efficiency-Solution-for-High-Power-Automotive-Power-Rails__ScaleMaxWidthWzQ2MF0.png?fit=460%2C353" style="display: block; margin-bottom: 5px; clear: both;" width="460" /><p>The new automotive SPI boost controller supports multi-phase operation and up to 400 W output for adaptive headlight systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/diodes-introduces-automotive-multi-phase-boost-controller/">Diodes Introduces Automotive Multi-Phase Boost Controller</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Nvidia GTC 2026, GaN Bidirectional Switches, H3TRB Reliability Tests for SiC Power Devices: Power Electronics Week Insights](https://www.powerelectronicsnews.com/nvidia-gtc-2026-gan-bidirectional-switches-h3trb-reliability-tests-for-sic-power-devices-power-electronics-week-insights/)
-**Published:** Fri, 20 Mar 2026 13:17:46 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Nvidia GTC 2026, GaN Bidirectional Switches, and H3TRB Reliability Tests for SiC Power Devices!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/nvidia-gtc-2026-gan-bidirectional-switches-h3trb-reliability-tests-for-sic-power-devices-power-electronics-week-insights/">Nvidia GTC 2026, GaN Bidirectional Switches, H3TRB Reliability Tests for SiC Power Devices: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Solid-State Batteries Increase Energy Density While Enhancing Safety and EV Range](https://www.powerelectronicsnews.com/solid-state-batteries-increase-energy-density-while-enhancing-safety-and-ev-range/)
-**Published:** Fri, 20 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Dongfeng_sedan.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Over the past few years, innovation in power semiconductors has significantly accelerated the global deployment of electric vehicles (EVs). Improved generations of wide-bandgap devices like...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/solid-state-batteries-increase-energy-density-while-enhancing-safety-and-ev-range/">Solid-State Batteries Increase Energy Density While Enhancing Safety and EV Range</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
