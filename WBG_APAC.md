@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-25 16:32 UTC_
+_Last updated: 2026-03-25 20:51 UTC_
 
 ## [Siemens AI Agent Enables Automation Across Semiconductor, 3D IC, PCB System Workflows](https://www.eetasia.com/siemens-ai-agent-enables-automation-across-semiconductor-3d-ic-pcb-system-workflows/)
 **Published:** Tue, 24 Mar 2026 23:31:21 +0000
@@ -31,6 +31,46 @@ _Last updated: 2026-03-25 16:32 UTC_
 
 <p>Analog Devices opened a new Thailand facility to expand resilient, sustainable semiconductor manufacturing and test capacity.</p>
 <p>The post <a href="https://www.eetasia.com/analog-devices-strengthens-presence-in-asia-with-new-thailand-facility/">Analog Devices Strengthens Presence in Asia with New Thailand Facility</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Agileo Automation Launches Agil’EDA to Accelerate SEMI EDA Adoption for Semiconductor Equipment OEMs](https://www.semiconductor-digest.com/agileo-automation-launches-agileda-to-accelerate-semi-eda-adoption-for-semiconductor-equipment-oems/?utm_source=rss&utm_medium=rss&utm_campaign=agileo-automation-launches-agileda-to-accelerate-semi-eda-adoption-for-semiconductor-equipment-oems)
+**Published:** Wed, 25 Mar 2026 20:30:37 +0000
+
+<p>Agileo Automation today unveils Agil'EDA, a new software implementing Equipment Data Acquisition (EDA/Interface A).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/agileo-automation-launches-agileda-to-accelerate-semi-eda-adoption-for-semiconductor-equipment-oems/">Agileo Automation Launches Agil&#8217;EDA to Accelerate SEMI EDA Adoption for Semiconductor Equipment OEMs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Preserving Polarization While Boosting Light From Atomically Thin Semiconductors With Silicon Nanospheres](https://www.semiconductor-digest.com/preserving-polarization-while-boosting-light-from-atomically-thin-semiconductors-with-silicon-nanospheres/?utm_source=rss&utm_medium=rss&utm_campaign=preserving-polarization-while-boosting-light-from-atomically-thin-semiconductors-with-silicon-nanospheres)
+**Published:** Wed, 25 Mar 2026 20:18:29 +0000
+
+<p>Mie resonances overcome the dilemma of signal enhancement versus polarization loss in valley-polarized second-harmonic generation.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/preserving-polarization-while-boosting-light-from-atomically-thin-semiconductors-with-silicon-nanospheres/">Preserving Polarization While Boosting Light From Atomically Thin Semiconductors With Silicon Nanospheres</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [‘Spin-Flip’ in Metal Complexes Can Help Solar Cells Leap Beyond Limits](https://www.semiconductor-digest.com/spin-flip-in-metal-complexes-can-help-solar-cells-leap-beyond-limits/?utm_source=rss&utm_medium=rss&utm_campaign=spin-flip-in-metal-complexes-can-help-solar-cells-leap-beyond-limits)
+**Published:** Wed, 25 Mar 2026 20:06:33 +0000
+
+<p>Researchers successfully capture singlet-fission–amplified excitons with a molybdenum-based emitter, achieving 130% quantum yield and opening a path beyond solar cell efficiency limits.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/spin-flip-in-metal-complexes-can-help-solar-cells-leap-beyond-limits/">‘Spin-Flip’ in Metal Complexes Can Help Solar Cells Leap Beyond Limits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Hailo Demonstrates Groundbreaking Edge AI Processors for Intelligent Security Systems at ISC West 2026](https://www.semiconductor-digest.com/hailo-demonstrates-groundbreaking-edge-ai-processors-for-intelligent-security-systems-at-isc-west-2026/?utm_source=rss&utm_medium=rss&utm_campaign=hailo-demonstrates-groundbreaking-edge-ai-processors-for-intelligent-security-systems-at-isc-west-2026)
+**Published:** Wed, 25 Mar 2026 19:01:01 +0000
+
+<p>Hailo, the provider of edge AI processors, is demonstrating innovative intelligent security cameras and systems powered by its AI vision processors and AI accelerators at ISC West 2026 at Meeting Room 1007 of the Venetian Expo in Las Vegas, Nevada.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hailo-demonstrates-groundbreaking-edge-ai-processors-for-intelligent-security-systems-at-isc-west-2026/">Hailo Demonstrates Groundbreaking Edge AI Processors for Intelligent Security Systems at ISC West 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [memsstar’s ORBIS Alpha Etch System Installed in TUM Quantum Networks Lab](https://www.semiconductor-digest.com/memsstars-orbis-alpha-etch-system-installed-in-tum-quantum-networks-lab/?utm_source=rss&utm_medium=rss&utm_campaign=memsstars-orbis-alpha-etch-system-installed-in-tum-quantum-networks-lab)
+**Published:** Wed, 25 Mar 2026 18:54:00 +0000
+
+<p>University’s research to focus on developing next-gen quantum communications devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/memsstars-orbis-alpha-etch-system-installed-in-tum-quantum-networks-lab/">memsstar’s ORBIS Alpha Etch System Installed in TUM Quantum Networks Lab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -792,46 +832,6 @@ _Last updated: 2026-03-25 16:32 UTC_
 
 <p>Researchers at CEA-Leti and CEA-IRIG-SyMMES have validated a chip-scale electron paramagnetic resonance (EPR) spectrometer that achieves unprecedented scan speed, spectral span, and sensitivity from a battery-operated integrated circuit.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/cea-leti-validates-first-ultra-fast-battery-operated-epr-spectrometer-at-chip-scale/">CEA-Leti Validates First Ultra-Fast, Battery-Operated EPR Spectrometer at Chip Scale</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rising Wafer Starts and Advanced Nodes Fuel Photolithography Materials Growth](https://www.semiconductor-digest.com/rising-wafer-starts-and-advanced-nodes-fuel-photolithography-materials-growth/?utm_source=rss&utm_medium=rss&utm_campaign=rising-wafer-starts-and-advanced-nodes-fuel-photolithography-materials-growth)
-**Published:** Wed, 18 Feb 2026 22:49:28 +0000
-
-<p>Photolithography materials revenues are forecast to continue their upward trajectory in 2026 supported by increasing wafer starts and the expanding complexity of advanced semiconductor devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rising-wafer-starts-and-advanced-nodes-fuel-photolithography-materials-growth/">Rising Wafer Starts and Advanced Nodes Fuel Photolithography Materials Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Draper and the Northeast Microelectronics Coalition Announce Chip Design and Packaging Services](https://www.semiconductor-digest.com/draper-and-the-northeast-microelectronics-coalition-announce-chip-design-and-packaging-services/?utm_source=rss&utm_medium=rss&utm_campaign=draper-and-the-northeast-microelectronics-coalition-announce-chip-design-and-packaging-services)
-**Published:** Wed, 18 Feb 2026 22:37:50 +0000
-
-<p>Draper and the Northeast Microelectronics Coalition (NEMC) today announced that Draper will provide advisory services and support to startups and small companies within NEMC's membership to de-risk and accelerate lab-to-fab technology transition.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/draper-and-the-northeast-microelectronics-coalition-announce-chip-design-and-packaging-services/">Draper and the Northeast Microelectronics Coalition Announce Chip Design and Packaging Services</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Renesas Develops SoC Technologies for Automotive Multi-Domain ECUs Essential for the SDV Era](https://www.semiconductor-digest.com/renesas-develops-soc-technologies-for-automotive/?utm_source=rss&utm_medium=rss&utm_campaign=renesas-develops-soc-technologies-for-automotive)
-**Published:** Wed, 18 Feb 2026 22:20:33 +0000
-
-<p>Renesas Electronics Corporation, a supplier of advanced semiconductor solutions, has developed three System-on-Chip (SoC) technologies for automotive multi-domain electronic control units (ECUs).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/renesas-develops-soc-technologies-for-automotive/">Renesas Develops SoC Technologies for Automotive Multi-Domain ECUs Essential for the SDV Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Hammond Power Solutions to Acquire AEG Power Solutions](https://www.semiconductor-digest.com/hammond-power-solutions-to-acquire-aeg-power-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=hammond-power-solutions-to-acquire-aeg-power-solutions)
-**Published:** Wed, 18 Feb 2026 15:03:21 +0000
-
-<p>Hammond Power Solutions Inc., a provider of dry-type transformers and power quality solutions, announced that it has signed a definitive agreement to acquire AEG Power Solutions, subject to regulatory approvals and customary closing conditions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hammond-power-solutions-to-acquire-aeg-power-solutions/">Hammond Power Solutions to Acquire AEG Power Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Imec Unveils 7‑bit, 175GS/s Massively Time-Interleaved Slope-ADC](https://www.semiconductor-digest.com/imec-unveils-7-bit-175gs-s-massively-time-interleaved-slope-adc/?utm_source=rss&utm_medium=rss&utm_campaign=imec-unveils-7-bit-175gs-s-massively-time-interleaved-slope-adc)
-**Published:** Wed, 18 Feb 2026 14:57:50 +0000
-
-<p>Patented linearization and switched input buffer techniques ensure precise signal conversion and wide bandwidth at high speeds.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/imec-unveils-7-bit-175gs-s-massively-time-interleaved-slope-adc/">Imec Unveils 7‑bit, 175GS/s Massively Time-Interleaved Slope-ADC</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
