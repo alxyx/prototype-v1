@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-25 11:04 UTC_
+_Last updated: 2026-03-25 11:55 UTC_
 
 ## [Siemens AI Agent Enables Automation Across Semiconductor, 3D IC, PCB System Workflows](https://www.eetasia.com/siemens-ai-agent-enables-automation-across-semiconductor-3d-ic-pcb-system-workflows/)
 **Published:** Tue, 24 Mar 2026 23:31:21 +0000
@@ -966,13 +966,6 @@ _Last updated: 2026-03-25 11:04 UTC_
 **Published:** Wed, 25 Mar 2026 07:53:39 +0000
 
 <img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton The primary responsibility of this role is to evaluate electromagnetics performance of products/subsystems/systems for various Electrical EMEA products including Switchgear, Transformers, UPS &#38; Breakers. Incumbent is expected to perform electromagnetics analysis of various Eaton products for predicting product performance. Incumbent is also required to partner with global &#38; local [&#8230;]
-
----
-
-## [Power Modules for Data Center and Industrial Drives](https://www.electronicsforu.com/news/power-modules-for-data-center-and-industrial-drives)
-**Published:** Wed, 25 Mar 2026 07:10:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/SemiQ-Dual3-PR-image-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Pushing power limits in data centres? These modules enable smaller converters, less heat, and a shift from IGBT designs without a full redesign. SemiQ Inc has introduced QSiC Dual3, a family of 1200 V half-bridge MOSFET modules built on silicon carbide (SiC). The modules are designed to replace IGBT modules with minimal design changes while [&#8230;]
 
 ---
 
