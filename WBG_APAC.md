@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-25 20:51 UTC_
+_Last updated: 2026-03-26 07:23 UTC_
+
+## [Tescan Establishes Integrated Demo Lab and Office in Seoul](https://www.eetasia.com/tescan-establishes-integrated-demo-lab-and-office-in-seoul/)
+**Published:** Thu, 26 Mar 2026 01:50:08 +0000
+
+<p>Tescan has opened its Seoul demo lab to support semiconductor analysis, reliability workflows, and academic collaboration in APAC.</p>
+<p>The post <a href="https://www.eetasia.com/tescan-establishes-integrated-demo-lab-and-office-in-seoul/">Tescan Establishes Integrated Demo Lab and Office in Seoul</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Manz Asia and Epson Collaborating to Advance Inkjet Tech for Chip Manufacturing](https://www.eetasia.com/manz-asia-and-epson-collaborating-to-advance-inkjet-tech-for-chip-manufacturing/)
+**Published:** Wed, 25 Mar 2026 23:49:42 +0000
+
+<p>Manz is partnering with Seiko Epson to accelerate the adoption of advanced inkjet technology in semiconductor manufacturing.</p>
+<p>The post <a href="https://www.eetasia.com/manz-asia-and-epson-collaborating-to-advance-inkjet-tech-for-chip-manufacturing/">Manz Asia and Epson Collaborating to Advance Inkjet Tech for Chip Manufacturing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Siemens AI Agent Enables Automation Across Semiconductor, 3D IC, PCB System Workflows](https://www.eetasia.com/siemens-ai-agent-enables-automation-across-semiconductor-3d-ic-pcb-system-workflows/)
 **Published:** Tue, 24 Mar 2026 23:31:21 +0000
@@ -18,19 +34,11 @@ _Last updated: 2026-03-25 20:51 UTC_
 
 ---
 
-## [SEMIFIVE Leads AI ASIC Market with Successive NPU Project Wins](https://www.eetasia.com/semifive-leads-ai-asic-market-with-successive-npu-project-wins/)
-**Published:** Tue, 24 Mar 2026 23:21:35 +0000
+## [SEMICON China 2026 to Highlight Strategic Opportunities in the Era of AI and Trillion-Dollar Market Growth](https://www.semiconductor-digest.com/semicon-china-2026-to-highlight-strategic-opportunities-in-the-era-of-ai-and-trillion-dollar-market-growth/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-china-2026-to-highlight-strategic-opportunities-in-the-era-of-ai-and-trillion-dollar-market-growth)
+**Published:** Wed, 25 Mar 2026 21:00:45 +0000
 
-<p>The new contract further strengthens SEMIFIVE's leadership in the rapidly growing AI semiconductor market and expands its portfolio of AI chip design projects.</p>
-<p>The post <a href="https://www.eetasia.com/semifive-leads-ai-asic-market-with-successive-npu-project-wins/">SEMIFIVE Leads AI ASIC Market with Successive NPU Project Wins</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Analog Devices Strengthens Presence in Asia with New Thailand Facility](https://www.eetasia.com/analog-devices-strengthens-presence-in-asia-with-new-thailand-facility/)
-**Published:** Tue, 24 Mar 2026 01:39:42 +0000
-
-<p>Analog Devices opened a new Thailand facility to expand resilient, sustainable semiconductor manufacturing and test capacity.</p>
-<p>The post <a href="https://www.eetasia.com/analog-devices-strengthens-presence-in-asia-with-new-thailand-facility/">Analog Devices Strengthens Presence in Asia with New Thailand Facility</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>SEMICON China 2026, co-located with FPD China 2026, will gather industry visionaries and leaders from March 25-27 at the Shanghai New International Expo Centre to delve into the latest developments, trends, and innovations in key areas crucial for propelling the semiconductor industry toward $1 trillion in 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semicon-china-2026-to-highlight-strategic-opportunities-in-the-era-of-ai-and-trillion-dollar-market-growth/">SEMICON China 2026 to Highlight Strategic Opportunities in the Era of AI and Trillion-Dollar Market Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -827,14 +835,6 @@ _Last updated: 2026-03-25 20:51 UTC_
 
 ---
 
-## [CEA-Leti Validates First Ultra-Fast, Battery-Operated EPR Spectrometer at Chip Scale](https://www.semiconductor-digest.com/cea-leti-validates-first-ultra-fast-battery-operated-epr-spectrometer-at-chip-scale/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-validates-first-ultra-fast-battery-operated-epr-spectrometer-at-chip-scale)
-**Published:** Wed, 18 Feb 2026 22:57:44 +0000
-
-<p>Researchers at CEA-Leti and CEA-IRIG-SyMMES have validated a chip-scale electron paramagnetic resonance (EPR) spectrometer that achieves unprecedented scan speed, spectral span, and sensitivity from a battery-operated integrated circuit.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-validates-first-ultra-fast-battery-operated-epr-spectrometer-at-chip-scale/">CEA-Leti Validates First Ultra-Fast, Battery-Operated EPR Spectrometer at Chip Scale</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Vishay Introduces Space-Grade Common Mode Choke](https://www.powerelectronicsnews.com/vishay-introduces-space-grade-common-mode-choke/)
 **Published:** Wed, 25 Mar 2026 14:00:00 +0000
 
@@ -939,14 +939,6 @@ _Last updated: 2026-03-25 20:51 UTC_
 
 ---
 
-## [EE Times Europe Magazine – March 2026](https://www.eetimes.com/ee-times-europe-magazine-march-2026/)
-**Published:** Fri, 20 Mar 2026 23:00:00 +0000
-
-<p>The March 2026 Edition of EE Times Europe Magazine analyzes how AI is transforming factory automation and operations and reviews Europe's de-risking semiconductor strategy.</p>
-<p>The post <a href="https://www.eetimes.com/ee-times-europe-magazine-march-2026/">EE Times Europe Magazine – March 2026</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
 ## [RANSemi wins Apeiroon baseband design-in](https://www.electronicsweekly.com/news/business/ransemi-wins-apeiroon-baseband-design-in-2026-03/)
 **Published:** Wed, 25 Mar 2026 09:50:55 +0000
 
@@ -955,17 +947,10 @@ _Last updated: 2026-03-25 20:51 UTC_
 
 ---
 
-## [SiC Gate Driver Reference Design](https://www.electronicsforu.com/electronics-projects/sic-gate-driver-reference-design)
-**Published:** Wed, 25 Mar 2026 08:57:35 +0000
+## [High-speed storage for digital creators](https://www.electronicsforu.com/news/high-speed-storage-for-digital-creators)
+**Published:** Thu, 26 Mar 2026 07:13:47 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/ref-2-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A 100 kW-class inverter reference platform that helps design engineers accelerate development of high-efficiency SiC-based traction and motor drive systems. For design engineers working on next-generation power electronics, especially in electric vehicles (EVs) and industrial drive systems, validated reference designs play a critical role in reducing development risk and accelerating time-to-market. Designing high-voltage, high-efficiency traction [&#8230;]
-
----
-
-## [JOB: Electromagentics Engineer At Eaton In Pune](https://www.electronicsforu.com/career/electromagentics-engineer-eaton-pune)
-**Published:** Wed, 25 Mar 2026 07:53:39 +0000
-
-<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton The primary responsibility of this role is to evaluate electromagnetics performance of products/subsystems/systems for various Electrical EMEA products including Switchgear, Transformers, UPS &#38; Breakers. Incumbent is expected to perform electromagnetics analysis of various Eaton products for predicting product performance. Incumbent is also required to partner with global &#38; local [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/ALL_news_26C25_M0vsap5JvX-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Have you faced storage issues while working with large files or running AI models locally? This storage helps keep work running and avoids delays. Team Group Inc. has introduced the T-CREATE CLASSIC H514 M.2 PCIe 5.0 SSD to address demand for data storage in the generative AI era. Built on the PCIe Gen5 x4 interface, [&#8230;]
 
 ---
 
