@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-26 07:23 UTC_
+_Last updated: 2026-03-27 10:09 UTC_
 
 ## [Tescan Establishes Integrated Demo Lab and Office in Seoul](https://www.eetasia.com/tescan-establishes-integrated-demo-lab-and-office-in-seoul/)
 **Published:** Thu, 26 Mar 2026 01:50:08 +0000
@@ -31,6 +31,46 @@ _Last updated: 2026-03-26 07:23 UTC_
 
 <p>NVIDIA shifted the focus of GTC 2026 toward deploying AI inference applications across multiple industries, departing from its previous emphasis on cloud-based AI training.</p>
 <p>The post <a href="https://www.eetasia.com/trendforce-as-csps-increasingly-self-develop-asics-nvidia-boosts-portfolio-for-ai-training-inference/">TrendForce: As CSPs Increasingly Self-develop ASICs, NVIDIA Boosts Portfolio for AI Training, Inference</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Tiny LED Design Could Power Next-Generation Technology](https://www.semiconductor-digest.com/tiny-led-design-could-power-next-generation-technology/?utm_source=rss&utm_medium=rss&utm_campaign=tiny-led-design-could-power-next-generation-technology)
+**Published:** Thu, 26 Mar 2026 18:59:53 +0000
+
+<p>Researchers from The University of Osaka propose a compact LED design that directly emits circularly polarized light, potentially simplifying optical devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tiny-led-design-could-power-next-generation-technology/">Tiny LED Design Could Power Next-Generation Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Imec Receives the World’s Most Advanced High NA EUV System](https://www.semiconductor-digest.com/imec-receives-the-worlds-most-advanced-high-na-euv-system/?utm_source=rss&utm_medium=rss&utm_campaign=imec-receives-the-worlds-most-advanced-high-na-euv-system)
+**Published:** Thu, 26 Mar 2026 18:56:07 +0000
+
+<p>imec announces the arrival of the ASML EXE:5200 High NA EUV lithography system, the most advanced lithography tool available today.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/imec-receives-the-worlds-most-advanced-high-na-euv-system/">Imec Receives the World&#8217;s Most Advanced High NA EUV System</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Nota AI and SiMa.ai Sign Strategic Partnership for Physical AI Technology Collaboration](https://www.semiconductor-digest.com/nota-ai-and-sima-ai-sign-strategic-partnership-for-physical-ai-technology-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=nota-ai-and-sima-ai-sign-strategic-partnership-for-physical-ai-technology-collaboration)
+**Published:** Thu, 26 Mar 2026 18:48:16 +0000
+
+<p>Nota AI, an AI model compression and optimization company, and SiMa.ai, a physical AI company, today announced a strategic partnership to expand their presence in the physical AI market. The signing ceremony took place at SiMa.ai's headquarters in San Jose, California.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nota-ai-and-sima-ai-sign-strategic-partnership-for-physical-ai-technology-collaboration/">Nota AI and SiMa.ai Sign Strategic Partnership for Physical AI Technology Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [New Chip Technology at Argonne Enables Real-Time Insights From Scientific Data](https://www.semiconductor-digest.com/new-chip-technology-at-argonne-enables-real-time-insights-from-scientific-data/?utm_source=rss&utm_medium=rss&utm_campaign=new-chip-technology-at-argonne-enables-real-time-insights-from-scientific-data)
+**Published:** Thu, 26 Mar 2026 18:38:42 +0000
+
+<p>Every second, scientific experiments produce a flood of data — so much that transmitting and analyzing it can slow down even the most advanced research</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-chip-technology-at-argonne-enables-real-time-insights-from-scientific-data/">New Chip Technology at Argonne Enables Real-Time Insights From Scientific Data</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Lumentum Announces New U.S. Manufacturing Facility to Produce Advanced Lasers for the World’s Largest AI Data Centers](https://www.semiconductor-digest.com/lumentum-announces-new-u-s-manufacturing-facility-to-produce-advanced-lasers-for-the-worlds-largest-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=lumentum-announces-new-u-s-manufacturing-facility-to-produce-advanced-lasers-for-the-worlds-largest-ai-data-centers)
+**Published:** Thu, 26 Mar 2026 18:32:33 +0000
+
+<p>North Carolina site expands domestic production of Indium Phosphide (InP) devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lumentum-announces-new-u-s-manufacturing-facility-to-produce-advanced-lasers-for-the-worlds-largest-ai-data-centers/">Lumentum Announces New U.S. Manufacturing Facility to Produce Advanced Lasers for the World’s Largest AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,44 +834,51 @@ _Last updated: 2026-03-26 07:23 UTC_
 
 ---
 
-## [Irresistible Materials and TOK Announce Strategic EUV  Collaboration](https://www.semiconductor-digest.com/irresistible-materials-and-tok-announce-strategic-euv-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=irresistible-materials-and-tok-announce-strategic-euv-collaboration)
-**Published:** Mon, 23 Feb 2026 15:06:32 +0000
+## [APEC 2026: 800 V-to-6 V Conversion and the Future of Data Center Power](https://www.powerelectronicsnews.com/apec-2026-800-v-to-6-v-conversion-and-the-future-of-data-center-power/)
+**Published:** Thu, 26 Mar 2026 22:58:27 +0000
 
-<p>The collaboration combines Irresistible Materials’ advanced photoresist materials platform with TOK’s long-standing market leadership and world-class manufacturing<br />
-﻿to drive innovations for EUV lithography.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/irresistible-materials-and-tok-announce-strategic-euv-collaboration/">Irresistible Materials and TOK Announce Strategic EUV  Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IMAPS Announces Purchase of the 3D InCites Platform](https://www.semiconductor-digest.com/imaps-announces-purchase-of-the-3d-incites-platform/?utm_source=rss&utm_medium=rss&utm_campaign=imaps-announces-purchase-of-the-3d-incites-platform)
-**Published:** Thu, 19 Feb 2026 23:52:59 +0000
-
-<p>The technical and media platform for microelectronics and advanced packaging is now a part of the IMAPS portfolio.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/imaps-announces-purchase-of-the-3d-incites-platform/">IMAPS Announces Purchase of the 3D InCites Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/TI_thumbnail.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>Description At APEC 2026, Power Electronics News spoke with Pradeep Shenoy, Computing Power Technologist at Texas Instruments, on TI&#8217;s expanding role in the 800 V...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/apec-2026-800-v-to-6-v-conversion-and-the-future-of-data-center-power/">APEC 2026: 800 V-to-6 V Conversion and the Future of Data Center Power</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Micro LED Display Revenue to Double to $105M in 2026 Driven by Near-Eye Smart Watch and Public Display Applications](https://www.semiconductor-digest.com/micro-led-display-revenue-to-double-to-105m-in-2026-driven-by-near-eye-smart-watch-and-public-display-applications/?utm_source=rss&utm_medium=rss&utm_campaign=micro-led-display-revenue-to-double-to-105m-in-2026-driven-by-near-eye-smart-watch-and-public-display-applications)
-**Published:** Thu, 19 Feb 2026 23:45:02 +0000
+## [APEC 2026: Navitas CEO Weighs In On the Future of AI Power](https://www.powerelectronicsnews.com/apec-2026-navitas-ceo-weighs-in-on-the-future-of-ai-power/)
+**Published:** Thu, 26 Mar 2026 14:05:14 +0000
 
-<p>Micro LED display revenue is projected to grow 100% year-over-year (YoY), increasing from $52.4 million in 2025 to $105.4 million in 2026, according to the Omdia Micro LED Display Market Tracker.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micro-led-display-revenue-to-double-to-105m-in-2026-driven-by-near-eye-smart-watch-and-public-display-applications/">Micro LED Display Revenue to Double to $105M in 2026 Driven by Near-Eye Smart Watch and Public Display Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Circuit Raises $30M to Scale Expertise in Manufacturing and Service](https://www.semiconductor-digest.com/circuit-raises-30m-to-scale-expertise-in-manufacturing-and-service/?utm_source=rss&utm_medium=rss&utm_campaign=circuit-raises-30m-to-scale-expertise-in-manufacturing-and-service)
-**Published:** Thu, 19 Feb 2026 23:30:17 +0000
-
-<p>Circuit, an Austin-based company building an AI platform for manufacturing and service organizations, today announced it has raised $30 million from individual investors.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/circuit-raises-30m-to-scale-expertise-in-manufacturing-and-service/">Circuit Raises $30M to Scale Expertise in Manufacturing and Service</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Navitas_thumbnail.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>Navitas CEO, Chris Allexandre, on Gen 5 SiC, all-GaN DC-DC platforms, and AI data center power architecture.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/apec-2026-navitas-ceo-weighs-in-on-the-future-of-ai-power/">APEC 2026: Navitas CEO Weighs In On the Future of AI Power </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Lightelligence Launches Second Generation Optoelectronic Accelerated Computing Card](https://www.semiconductor-digest.com/lightelligence-launches-second-generation-optoelectronic-accelerated-computing-card/?utm_source=rss&utm_medium=rss&utm_campaign=lightelligence-launches-second-generation-optoelectronic-accelerated-computing-card)
-**Published:** Thu, 19 Feb 2026 23:27:53 +0000
+## [A Look into Commercially Available IVRs](https://www.powerelectronicsnews.com/a-look-into-commercially-available-ivrs/)
+**Published:** Thu, 26 Mar 2026 13:00:00 +0000
 
-<p>Lightelligence today confirmed immediate availability of Photonic Arithmetic Computing Engine2 (PACE2), an optoelectronic accelerated computing card designed to deliver high-performance, programmability and versatility through advanced photonic packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lightelligence-launches-second-generation-optoelectronic-accelerated-computing-card/">Lightelligence Launches Second Generation Optoelectronic Accelerated Computing Card</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4896" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_731370501.jpeg?fit=8736%2C4896" style="display: block; margin-bottom: 5px; clear: both;" width="8736" /><p>Comparing commercially available IVR technology that moves power conversion closer to the processor</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/a-look-into-commercially-available-ivrs/">A Look into Commercially Available IVRs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Corner: TechInsights’ Cédric Malaquin on the State of Wide Bandgap Semiconductors](https://www.powerelectronicsnews.com/power-corner-techinsights-cedric-malaquin-on-the-state-of-wide-bandgap-semiconductors/)
+**Published:** Thu, 26 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1105" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Tech-Insights-2.png?fit=1946%2C1105" style="display: block; margin-bottom: 5px; clear: both;" width="1946" /><p>In this episode of PEN&#8217;s Power Corner, Cédric Malaquin, Director and Analyst for RF Analog and Power at TechInsights, draws on findings from the TechInsights...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-techinsights-cedric-malaquin-on-the-state-of-wide-bandgap-semiconductors/">Power Corner: TechInsights&#8217; Cédric Malaquin on the State of Wide Bandgap Semiconductors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Teledyne LeCroy Launches 1.5MHz/1,000A Current Probe](https://www.powerelectronicsnews.com/teledyne-lecroy-launches-1-5mhz-1000a-current-probe/)
+**Published:** Thu, 26 Mar 2026 13:00:00 +0000
+
+<img alt="Teledyne LeCroy Launches 1.5MHz, 1000A Current Probe." class="webfeedsFeaturedVisual wp-post-image" height="211" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/cp1000-title.png?fit=540%2C211" style="display: block; margin-bottom: 5px; clear: both;" width="540" /><p>The 1,000 Arms current probe with 1.5 MHz bandwidth is well-suited for high-power measurement in motor drives and inverters.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/teledyne-lecroy-launches-1-5mhz-1000a-current-probe/">Teledyne LeCroy Launches 1.5MHz/1,000A Current Probe</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Renesas Introduces 650V Bidirectional GaN Switch](https://www.powerelectronicsnews.com/renesas-introduces-650v-bidirectional-gan-switch/)
+**Published:** Thu, 26 Mar 2026 13:00:00 +0000
+
+<img alt="Renesas Introduces 650V Bidirectional GaN Switch." class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/gan-bds-pressphoto-notext.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>The new 650V bidirectional GaN switch simplifies power conversion and boosts efficiency in solar, EV, and AI systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/renesas-introduces-650v-bidirectional-gan-switch/">Renesas Introduces 650V Bidirectional GaN Switch</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -867,51 +914,11 @@ _Last updated: 2026-03-26 07:23 UTC_
 
 ---
 
-## [ST Unveils GaN Motor-Control Reference Design for 600-W Drives](https://www.powerelectronicsnews.com/st-unveils-gan-motor-control-reference-design-for-600-w-drives/)
-**Published:** Wed, 25 Mar 2026 13:00:00 +0000
+## [Why AI in Semiconductor Inspection Is Becoming a Two-Layer Game](https://www.eetimes.com/why-ai-in-semiconductor-inspection-is-becoming-a-two-layer-game/)
+**Published:** Fri, 27 Mar 2026 10:00:00 +0000
 
-<img alt="ST Unveils GaN Motor-Control Reference Design for 600 W Drives." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/N4750D-Mar-19-2026-EVSTDRVG611MC-GaN-ref-design_IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The GaN-based motor-control reference design enables &#62; 600 W operation without heatsink for appliances and industrial drives.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-unveils-gan-motor-control-reference-design-for-600-w-drives/">ST Unveils GaN Motor-Control Reference Design for 600-W Drives</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Paralleling GaN FETs: Current Sharing Challenges and Solutions](https://www.powerelectronicsnews.com/paralleling-gan-fets-current-sharing-challenges-and-solutions/)
-**Published:** Tue, 24 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4002" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_600062429.jpeg?fit=6003%2C4002" style="display: block; margin-bottom: 5px; clear: both;" width="6003" /><p>One of the oldest challenges of power electronics is the paralleling of multiple transistors to obtain a higher-current switch. This task is rarely straightforward, as...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/paralleling-gan-fets-current-sharing-challenges-and-solutions/">Paralleling GaN FETs: Current Sharing Challenges and Solutions</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [SemiQ Launches 1200-V SiC Dual3 Modules](https://www.powerelectronicsnews.com/semiq-launches-1200-v-sic-dual3-modules/)
-**Published:** Tue, 24 Mar 2026 13:00:00 +0000
-
-<img alt="SemiQ Launches 1200 V SiC Dual3 Modules for High-Density Power." class="webfeedsFeaturedVisual wp-post-image" height="1160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/SemiQ-QSiC-Dual3-PR-image.jpg?fit=1800%2C1160" style="display: block; margin-bottom: 5px; clear: both;" width="1800" /><p>The SiC Dual3 half-bridge modules feature low RDS(on) to improve efficiency and power density in industrial and energy systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/semiq-launches-1200-v-sic-dual3-modules/">SemiQ Launches 1200-V SiC Dual3 Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TI Unveils 800 VDC Power Architecture for AI Data Centers](https://www.powerelectronicsnews.com/ti-unveils-800-vdc-power-architecture-for-ai-data-centers/)
-**Published:** Mon, 23 Mar 2026 17:00:00 +0000
-
-<img alt="TI Unveils 800 VDC Power Architecture for AI Data Centers." class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/TI_800_VDC_power_architecture.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>The 800 VDC power architecture features two-stage conversion for AI data centers and is aligned with Nvidia reference design.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/ti-unveils-800-vdc-power-architecture-for-ai-data-centers/">TI Unveils 800 VDC Power Architecture for AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Microchip Introduces BZPACK mSiC Power Modules](https://www.powerelectronicsnews.com/microchip-introduces-bzpack-msic-power-modules/)
-**Published:** Mon, 23 Mar 2026 15:00:00 +0000
-
-<img alt="Microchip Introduces BZPACK mSiC Power Modules." class="webfeedsFeaturedVisual wp-post-image" height="569" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/55114468015_1017c953e6_b.jpg?fit=1024%2C569" style="display: block; margin-bottom: 5px; clear: both;" width="1024" /><p>The BZPACK mSiC power modules with HV-H3TRB reliability are well-suited for industrial and renewable energy applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/microchip-introduces-bzpack-msic-power-modules/">Microchip Introduces BZPACK mSiC Power Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [High-k Gate Oxide Improves 1,200-V Vertical GaN Performance](https://www.powerelectronicsnews.com/high-k-gate-oxide-improves-1200-v-vertical-gan-performance/)
-**Published:** Mon, 23 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5265" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_1482937173-1.jpeg?fit=8178%2C5265" style="display: block; margin-bottom: 5px; clear: both;" width="8178" /><p>A team from Sandia National Laboratories demonstrated results from a Gen 3 1,200-V vertical GaN MOSFET that incorporated HfO2 gate oxide.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/high-k-gate-oxide-improves-1200-v-vertical-gan-performance/">High-k Gate Oxide Improves 1,200-V Vertical GaN Performance</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>AI is rapidly reshaping semiconductor defect detection, but not along a single trajectory.</p>
+<p>The post <a href="https://www.eetimes.com/why-ai-in-semiconductor-inspection-is-becoming-a-two-layer-game/">Why AI in Semiconductor Inspection Is Becoming a Two-Layer Game</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -923,34 +930,18 @@ _Last updated: 2026-03-26 07:23 UTC_
 
 ---
 
-## [Power Module Packaging Evolves as Materials and Supply Chains Redefine Power Electronics](https://www.eetimes.com/power-module-packaging-evolves-as-materials-and-supply-chains-redefine-power-electronics/)
-**Published:** Tue, 24 Mar 2026 15:54:57 +0000
+## [Rohm, Toshiba, Mitsubishi talk about power semi merger](https://www.electronicsweekly.com/news/business/rohm-toshiba-mitsubishi-2026-03/)
+**Published:** Fri, 27 Mar 2026 06:28:06 +0000
 
-<p>Power module packaging is transforming for electrification—discover how new materials and supply chains are redefining the industry landscape.</p>
-<p>The post <a href="https://www.eetimes.com/power-module-packaging-evolves-as-materials-and-supply-chains-redefine-power-electronics/">Power Module Packaging Evolves as Materials and Supply Chains Redefine Power Electronics</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Taiwan’s WBG Momentum Extends from Devices to Power Systems](https://www.eetimes.com/taiwans-wbg-momentum-extends-from-devices-to-power-systems/)
-**Published:** Mon, 23 Mar 2026 23:00:00 +0000
-
-<p>Taiwan’s competitive focus on WBG semiconductors is shifting toward integration, reliability, and speed of execution.</p>
-<p>The post <a href="https://www.eetimes.com/taiwans-wbg-momentum-extends-from-devices-to-power-systems/">Taiwan’s WBG Momentum Extends from Devices to Power Systems</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Rohm, Toshiba and Mitsubishi Electric are to start talks ​to integrate their power semiconductor businesses, reports the Nikkei The talks come shortly after Denso made an $8.3 billion bid to ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/rohm-toshiba-mitsubishi-2026-03/">Rohm, Toshiba, Mitsubishi talk about power semi merger</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [RANSemi wins Apeiroon baseband design-in](https://www.electronicsweekly.com/news/business/ransemi-wins-apeiroon-baseband-design-in-2026-03/)
-**Published:** Wed, 25 Mar 2026 09:50:55 +0000
+## [JOB: Hardware Design Engineer At SPAN In Bengaluru](https://www.electronicsforu.com/career/hardware-design-engineer-span-bengaluru)
+**Published:** Fri, 27 Mar 2026 09:39:02 +0000
 
-<p>RANSemi Limited, the British semiconductor innovator pioneering Open RAN baseband SoCcplatforms for 4G and 5G networks, today announced that its RNS802 5G RAN baseband SoC is being used to power mission-critical ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/ransemi-wins-apeiroon-baseband-design-in-2026-03/">RANSemi wins Apeiroon baseband design-in</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [High-speed storage for digital creators](https://www.electronicsforu.com/news/high-speed-storage-for-digital-creators)
-**Published:** Thu, 26 Mar 2026 07:13:47 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/ALL_news_26C25_M0vsap5JvX-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Have you faced storage issues while working with large files or running AI models locally? This storage helps keep work running and avoids delays. Team Group Inc. has introduced the T-CREATE CLASSIC H514 M.2 PCIe 5.0 SSD to address demand for data storage in the generative AI era. Built on the PCIe Gen5 x4 interface, [&#8230;]
+<img alt="Lead Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/jobs-shutterstock-ubj750-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: SPAN In this role, you will be responsible for the end-to-end hardware lifecycle—from initial circuit design and simulation to PCB layout, prototype bring-up, and manufacturing support. You will play a key role in developing robust power electronics and embedded systems, ensuring our products meet the highest standards of reliability and [&#8230;]
 
 ---
 
