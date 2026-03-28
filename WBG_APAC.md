@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-27 10:09 UTC_
+_Last updated: 2026-03-28 06:10 UTC_
 
 ## [Tescan Establishes Integrated Demo Lab and Office in Seoul](https://www.eetasia.com/tescan-establishes-integrated-demo-lab-and-office-in-seoul/)
 **Published:** Thu, 26 Mar 2026 01:50:08 +0000
@@ -31,6 +31,38 @@ _Last updated: 2026-03-27 10:09 UTC_
 
 <p>NVIDIA shifted the focus of GTC 2026 toward deploying AI inference applications across multiple industries, departing from its previous emphasis on cloud-based AI training.</p>
 <p>The post <a href="https://www.eetasia.com/trendforce-as-csps-increasingly-self-develop-asics-nvidia-boosts-portfolio-for-ai-training-inference/">TrendForce: As CSPs Increasingly Self-develop ASICs, NVIDIA Boosts Portfolio for AI Training, Inference</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [GlobalFoundries Files Patent Infringement Lawsuits](https://www.semiconductor-digest.com/globalfoundries-files-patent-infringement-lawsuits/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-files-patent-infringement-lawsuits)
+**Published:** Fri, 27 Mar 2026 20:55:51 +0000
+
+<p>Multiple U.S. patent lawsuits filed to halt unlawful importation and sale of semiconductors infringing GF’s patented technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-files-patent-infringement-lawsuits/">GlobalFoundries Files Patent Infringement Lawsuits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Europe Applauds the European Commission’s Implementation Dialogue on the Chips Act 2.0](https://www.semiconductor-digest.com/semi-europe-applauds-the-european-commissions-implementation-dialogue-on-the-chips-act-2-0/?utm_source=rss&utm_medium=rss&utm_campaign=semi-europe-applauds-the-european-commissions-implementation-dialogue-on-the-chips-act-2-0)
+**Published:** Fri, 27 Mar 2026 20:52:00 +0000
+
+<p>SEMI Europe today participated in the European Commission’s Implementation Dialogue on the Chips Act, chaired by Henna Virkkunen, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-europe-applauds-the-european-commissions-implementation-dialogue-on-the-chips-act-2-0/">SEMI Europe Applauds the European Commission’s Implementation Dialogue on the Chips Act 2.0</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [From Measurement to Meaning: New Research Introduces a Learning Architecture for the Age of AI](https://www.semiconductor-digest.com/from-measurement-to-meaning-new-research-introduces-a-learning-architecture-for-the-age-of-ai/?utm_source=rss&utm_medium=rss&utm_campaign=from-measurement-to-meaning-new-research-introduces-a-learning-architecture-for-the-age-of-ai)
+**Published:** Fri, 27 Mar 2026 20:44:52 +0000
+
+<p>As artificial intelligence (AI) becomes increasingly embedded in education, schools now have more data about learning than ever before.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/from-measurement-to-meaning-new-research-introduces-a-learning-architecture-for-the-age-of-ai/">From Measurement to Meaning: New Research Introduces a Learning Architecture for the Age of AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells](https://www.semiconductor-digest.com/new-strategy-unlocks-29-76-efficiency-for-all-perovskite-tandem-solar-cells/?utm_source=rss&utm_medium=rss&utm_campaign=new-strategy-unlocks-29-76-efficiency-for-all-perovskite-tandem-solar-cells)
+**Published:** Fri, 27 Mar 2026 20:40:04 +0000
+
+<p>Tandem solar cells (TSCs) comprise two stacked layers, with each subcell absorbing different wavelengths of sunlight, which makes TSCs more efficient than single-layer solar cells.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-strategy-unlocks-29-76-efficiency-for-all-perovskite-tandem-solar-cells/">New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -802,35 +834,35 @@ _Last updated: 2026-03-27 10:09 UTC_
 
 ---
 
-## [Taara Unveils Photonics Platform](https://www.semiconductor-digest.com/taara-unveils-photonics-platform/?utm_source=rss&utm_medium=rss&utm_campaign=taara-unveils-photonics-platform)
-**Published:** Mon, 23 Feb 2026 16:37:17 +0000
+## [APEC 2026: The Race to Deliver 800 VDC Power Straight towards the GPU](https://www.powerelectronicsnews.com/apec-2026-the-race-to-deliver-800-vdc-power-straight-to-the-gpu/)
+**Published:** Fri, 27 Mar 2026 14:01:42 +0000
 
-<p>Taara, a graduate of X, Google’s Moonshot Factory, unveiled Taara Photonics, the world’s first wireless communication platform based on optical phased arrays</p>
-<p>The post <a href="https://www.semiconductor-digest.com/taara-unveils-photonics-platform/">Taara Unveils Photonics Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Performance Boosters to Scale Monolithic CFET Across Multiple Logic Technology Nodes](https://www.semiconductor-digest.com/performance-boosters-to-scale-monolithic-cfet-across-multiple-logic-technology-nodes/?utm_source=rss&utm_medium=rss&utm_campaign=performance-boosters-to-scale-monolithic-cfet-across-multiple-logic-technology-nodes)
-**Published:** Mon, 23 Feb 2026 16:15:47 +0000
-
-<p>This DTCO study is supported by experimental demonstration of hybrid channel orientations which are needed for A3. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/performance-boosters-to-scale-monolithic-cfet-across-multiple-logic-technology-nodes/">Performance Boosters to Scale Monolithic CFET Across Multiple Logic Technology Nodes</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3072" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/PXL_20260322_211054531-1.jpg?fit=4080%2C3072" style="display: block; margin-bottom: 5px; clear: both;" width="4080" /><p>From Infineon to Navitas, APEC 2026 showed 800 V power converters pushing closer than ever to the AI processor.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/apec-2026-the-race-to-deliver-800-vdc-power-straight-to-the-gpu/">APEC 2026: The Race to Deliver 800 VDC Power Straight towards the GPU</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [3D Dry Resist: Revolutionizing Chip Manufacturing for the AI Era](https://www.semiconductor-digest.com/3d-dry-resist-revolutionizing-chip-manufacturing-for-the-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=3d-dry-resist-revolutionizing-chip-manufacturing-for-the-ai-era)
-**Published:** Mon, 23 Feb 2026 16:00:33 +0000
+## [From Little Box to Big Impact: GaN’s Decade in High-Density Power Conversion](https://www.powerelectronicsnews.com/from-little-box-to-big-impact-gans-decade-in-high-density-power-conversion/)
+**Published:** Fri, 27 Mar 2026 13:00:00 +0000
 
-<p>Dry resist isn't merely an incremental improvement; it's a strategic imperative for manufacturers to unlock the next generation of AI capabilities.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/3d-dry-resist-revolutionizing-chip-manufacturing-for-the-ai-era/">3D Dry Resist: Revolutionizing Chip Manufacturing for the AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3502" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_796600422.jpeg?fit=5250%2C3502" style="display: block; margin-bottom: 5px; clear: both;" width="5250" /><p>A retrospective on the 2016 Little Box Challenge and GaN's current place in high-density power conversion.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/from-little-box-to-big-impact-gans-decade-in-high-density-power-conversion/">From Little Box to Big Impact: GaN&#8217;s Decade in High-Density Power Conversion</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Cadence Completes Acquisition of Hexagon’s D&E Business](https://www.semiconductor-digest.com/cadence-completes-acquisition-of-hexagons-de-business/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-completes-acquisition-of-hexagons-de-business)
-**Published:** Mon, 23 Feb 2026 15:19:03 +0000
+## [EPC Extends GaN Reliability Data and Launches Motor Drive Eval Board](https://www.powerelectronicsnews.com/epc-extends-gan-reliability-data-and-launches-motor-drive-eval-board/)
+**Published:** Fri, 27 Mar 2026 13:00:00 +0000
 
-<p>Cadence has completed its previously announced acquisition of Hexagon AB’s Design and Engineering (“D&#038;E”) business, significantly expanding its System Design and Analysis (SDA) portfolio and strategically positioning the company to capitalize on the Physical AI opportunity. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/cadence-completes-acquisition-of-hexagons-de-business/">Cadence Completes Acquisition of Hexagon’s D&amp;E Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="EPC Extends GaN Reliability Data and Launches Motor Drive Eval Board." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/RR18-PR-Graphic.jpg?fit=1500%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>The company advances GaN power design with new reliability data and 3-phase BLDC motor drive evaluation board.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/epc-extends-gan-reliability-data-and-launches-motor-drive-eval-board/">EPC Extends GaN Reliability Data and Launches Motor Drive Eval Board</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Solid-State Batteries, Paralleling GaN FETs, High-k Gate Oxide: Power Electronics Week Insights](https://www.powerelectronicsnews.com/solid-state-batteries-paralleling-gan-fets-high-k-gate-oxide-power-electronics-week-insights/)
+**Published:** Fri, 27 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Solid-State Batteries, Paralleling GaN FETs, and High-k Gate Oxide!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/solid-state-batteries-paralleling-gan-fets-high-k-gate-oxide-power-electronics-week-insights/">Solid-State Batteries, Paralleling GaN FETs, High-k Gate Oxide: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,35 +914,11 @@ _Last updated: 2026-03-27 10:09 UTC_
 
 ---
 
-## [Vishay Introduces Space-Grade Common Mode Choke](https://www.powerelectronicsnews.com/vishay-introduces-space-grade-common-mode-choke/)
-**Published:** Wed, 25 Mar 2026 14:00:00 +0000
+## [DEEPX Sets New Pace in Physical AI Commercialization—27 Global Deals in 7 Months](https://www.eetimes.com/deepx-sets-new-pace-in-physical-ai-commercialization-27-global-deals-in-7-months/)
+**Published:** Fri, 27 Mar 2026 17:15:32 +0000
 
-<img alt="Vishay Introduces Space-Grade Common Mode Choke." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/55142941807_6138753fb9_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The space-grade common mode choke features a nanocrystalline core for EMI filtering and is well-suited for GaN and SiC power applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vishay-introduces-space-grade-common-mode-choke/">Vishay Introduces Space-Grade Common Mode Choke</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Advanced Energy Launches 600-W Full-Bridge 48-V AC-DC Supply](https://www.powerelectronicsnews.com/advanced-energy-launches-600-w-full-bridge-48-v-ac-dc-supply/)
-**Published:** Wed, 25 Mar 2026 14:00:00 +0000
-
-<img alt="Advanced Energy Launches 600-W Full-Bridge 48-V AC-DC Supply." class="webfeedsFeaturedVisual wp-post-image" height="2625" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/6e54f15568f8884b44f2c493da8690ce.jpg?fit=3937%2C2625" style="display: block; margin-bottom: 5px; clear: both;" width="3937" /><p>The 600-W full-brick AC-DC power supply provides 94% efficiency, digital control, and high power density.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/advanced-energy-launches-600-w-full-bridge-48-v-ac-dc-supply/">Advanced Energy Launches 600-W Full-Bridge 48-V AC-DC Supply</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TI Launches IsoShield Power Modules for High-Density Isolation](https://www.powerelectronicsnews.com/ti-launches-isoshield-power-modules-for-high-density-isolation/)
-**Published:** Wed, 25 Mar 2026 14:00:00 +0000
-
-<img alt="TI Launches IsoShield Power Modules for High-Density Isolation." class="webfeedsFeaturedVisual wp-post-image" height="1519" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/TI_isolated_power_modules_with_IsoShield_technology.jpg?fit=2700%2C1519" style="display: block; margin-bottom: 5px; clear: both;" width="2700" /><p>These isolated power modules with IsoShield packaging are designed to improve power density, efficiency, and safety in data centers and EVs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/ti-launches-isoshield-power-modules-for-high-density-isolation/">TI Launches IsoShield Power Modules for High-Density Isolation</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Are SiC Inverters Suitable For Sensorless Vector Motor Control?](https://www.powerelectronicsnews.com/are-sic-inverters-suitable-for-sensorless-vector-motor-control/)
-**Published:** Wed, 25 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_397789806.jpeg?fit=6000%2C4000" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>There are two inevitable imperatives when it comes to EV motors: the integration of wide-bandgap (WBG) power electronics and the need for high-accuracy motor control...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/are-sic-inverters-suitable-for-sensorless-vector-motor-control/">Are SiC Inverters Suitable For Sensorless Vector Motor Control?</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>The South Korean fabless startup reports accelerating global adoption of its DX-M1 AI chip across eight countries and seven application domains — and is now using Embedded World 2026 as the launchpad for its European commercial push.</p>
+<p>The post <a href="https://www.eetimes.com/deepx-sets-new-pace-in-physical-ai-commercialization-27-global-deals-in-7-months/">DEEPX Sets New Pace in Physical AI Commercialization—27 Global Deals in 7 Months</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -922,11 +930,11 @@ _Last updated: 2026-03-27 10:09 UTC_
 
 ---
 
-## [What Policymakers Must Fix in Europe’s Chips Act 2.0](https://www.eetimes.com/what-policymakers-must-fix-in-europes-chips-act-2-0/)
-**Published:** Wed, 25 Mar 2026 08:53:10 +0000
+## [XJTAG releases XJBoardExplorer as standalone sharing tool](https://www.electronicsweekly.com/news/products/test-measurement-products/xjtag-releases-xjboardexplorer-as-standalone-sharing-tool-2026-03/)
+**Published:** Fri, 27 Mar 2026 14:07:39 +0000
 
-<p>As Brussels prepares the next phase of its semiconductor push, the real challenge may lie less in technological choices than in fixing the policy machinery itself.</p>
-<p>The post <a href="https://www.eetimes.com/what-policymakers-must-fix-in-europes-chips-act-2-0/">What Policymakers Must Fix in Europe’s Chips Act 2.0</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>XJTAG, the automated test equipment specialist, is making its project exploration and sharing tools available as the standalone XJBoardExplorer. Basically, it allows design teams to securely share board data across ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/test-measurement-products/xjtag-releases-xjboardexplorer-as-standalone-sharing-tool-2026-03/">XJTAG releases XJBoardExplorer as standalone sharing tool</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
