@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-29 20:46 UTC_
+_Last updated: 2026-03-29 21:45 UTC_
 
 ## [Tescan Establishes Integrated Demo Lab and Office in Seoul](https://www.eetasia.com/tescan-establishes-integrated-demo-lab-and-office-in-seoul/)
 **Published:** Thu, 26 Mar 2026 01:50:08 +0000
