@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-30 17:10 UTC_
+_Last updated: 2026-03-30 22:49 UTC_
 
 ## [Keysight Launches Hands-On Semiconductor Teaching Labs for Universities](https://www.eetasia.com/keysight-launches-hands-on-semiconductor-teaching-labs-for-universities/)
 **Published:** Mon, 30 Mar 2026 03:10:26 +0000
@@ -23,6 +23,30 @@ _Last updated: 2026-03-30 17:10 UTC_
 
 <p>Tescan has opened its Seoul demo lab to support semiconductor analysis, reliability workflows, and academic collaboration in APAC.</p>
 <p>The post <a href="https://www.eetasia.com/tescan-establishes-integrated-demo-lab-and-office-in-seoul/">Tescan Establishes Integrated Demo Lab and Office in Seoul</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Researchers Demonstrate Laser Chips Performing Clock and Quantum Operations](https://www.semiconductor-digest.com/researchers-demonstrate-laser-chips-performing-clock-and-quantum-operations/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-demonstrate-laser-chips-performing-clock-and-quantum-operations)
+**Published:** Mon, 30 Mar 2026 21:06:23 +0000
+
+<p>In an ongoing effort to bring quantum science out of the tightly controlled lab environment and into the field, researchers from UC Santa Barbara and the University of Massachusetts Amherst have, for the first time, demonstrated a chip-scale, stabilized, visible light laser that drives a trapped ion atomic optical clock and quantum qubit, paving the way toward compact, portable and scalable trapped-ion quantum information systems. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/researchers-demonstrate-laser-chips-performing-clock-and-quantum-operations/">Researchers Demonstrate Laser Chips Performing Clock and Quantum Operations</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Rogue Valley Microdevices Launches MEMS Design Services](https://www.semiconductor-digest.com/rogue-valley-microdevices-launches-mems-design-services/?utm_source=rss&utm_medium=rss&utm_campaign=rogue-valley-microdevices-launches-mems-design-services)
+**Published:** Mon, 30 Mar 2026 20:44:07 +0000
+
+<p>Rogue Valley Microdevices (RVM), a U.S.-based pure-play MEMS foundry, today announced the launch of its foundry-flexible MEMS Design Services, expanding its ability to support customers from early concept through production-ready device design.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rogue-valley-microdevices-launches-mems-design-services/">Rogue Valley Microdevices Launches MEMS Design Services</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [New £10.4M Project to Grow Next-Generation Semiconductor Materials](https://www.semiconductor-digest.com/new-10-4m-project-to-grow-next-generation-semiconductor-materials/?utm_source=rss&utm_medium=rss&utm_campaign=new-10-4m-project-to-grow-next-generation-semiconductor-materials)
+**Published:** Mon, 30 Mar 2026 20:39:22 +0000
+
+<p>A major new UK research programme aims to strengthen national capability in semiconductor materials, underpinning the future of electronics.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-10-4m-project-to-grow-next-generation-semiconductor-materials/">New £10.4M Project to Grow Next-Generation Semiconductor Materials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -802,30 +826,6 @@ _Last updated: 2026-03-30 17:10 UTC_
 
 ---
 
-## [Close Collaboration Needed in the AI Era](https://www.semiconductor-digest.com/close-collaboration-needed-in-the-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=close-collaboration-needed-in-the-ai-era)
-**Published:** Tue, 24 Feb 2026 14:51:16 +0000
-
-<p>The interactions between OSAT suppliers, chiplet vendors, and foundries are becoming “much more intimate as we move forward."</p>
-<p>The post <a href="https://www.semiconductor-digest.com/close-collaboration-needed-in-the-ai-era/">Close Collaboration Needed in the AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IEDM: Power Looms as Major Challenge](https://www.semiconductor-digest.com/iedm-power-looms-as-major-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=iedm-power-looms-as-major-challenge)
-**Published:** Mon, 23 Feb 2026 18:12:32 +0000
-
-<p>While training artificial intelligence models has created a strong revenue stream for many companies, inference processing at the edge is proving to be a much tougher challenge.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/iedm-power-looms-as-major-challenge/">IEDM: Power Looms as Major Challenge</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Oxide Semiconductors and Ferroelectrics Command Attention at IEDM](https://www.semiconductor-digest.com/oxide-semiconductors-and-ferroelectrics-command-attention-at-iedm/?utm_source=rss&utm_medium=rss&utm_campaign=oxide-semiconductors-and-ferroelectrics-command-attention-at-iedm)
-**Published:** Mon, 23 Feb 2026 18:11:07 +0000
-
-<p>Oxide semiconductors and ferroelectrics both offer “a promising pathway” for low-power memories</p>
-<p>The post <a href="https://www.semiconductor-digest.com/oxide-semiconductors-and-ferroelectrics-command-attention-at-iedm/">Oxide Semiconductors and Ferroelectrics Command Attention at IEDM</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [APEC 2026: “Year Zero” of Practical Commercially-Available BDS](https://www.powerelectronicsnews.com/apec-2026-year-zero-of-practical-commercially-available-bds/)
 **Published:** Mon, 30 Mar 2026 15:30:34 +0000
 
@@ -930,11 +930,11 @@ _Last updated: 2026-03-30 17:10 UTC_
 
 ---
 
-## [China plan for 80% semiconductor self-sufficiency](https://www.electronicsweekly.com/news/business/china-makes-new-plan-for-semiconductor-self-sufficiency-2026-03/)
+## [China plans for 80% semiconductor self-sufficiency](https://www.electronicsweekly.com/news/business/china-makes-new-plan-for-semiconductor-self-sufficiency-2026-03/)
 **Published:** Mon, 30 Mar 2026 05:30:41 +0000
 
-<p>13 execs in the China chip industry, including Yangtze Memory Technologies Chairman Chen Nanxiang and Naura Chairman Zhao Jinrong, have drawn up a plan to achieve 80% self-sufficiency in semiconductors ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/china-makes-new-plan-for-semiconductor-self-sufficiency-2026-03/">China plan for 80% semiconductor self-sufficiency</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Thirteen executives in the Chinese chip industry, including Yangtze Memory Technologies chairman Chen Nanxiang and Naura chairman Zhao Jinrong, have drawn up a plan to achieve 80% self-sufficiency in semiconductors ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/china-makes-new-plan-for-semiconductor-self-sufficiency-2026-03/">China plans for 80% semiconductor self-sufficiency</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
