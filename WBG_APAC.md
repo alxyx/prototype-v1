@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-29 21:45 UTC_
+_Last updated: 2026-03-30 11:16 UTC_
+
+## [Keysight Launches Hands-On Semiconductor Teaching Labs for Universities](https://www.eetasia.com/keysight-launches-hands-on-semiconductor-teaching-labs-for-universities/)
+**Published:** Mon, 30 Mar 2026 03:10:26 +0000
+
+<p>Keysight's teaching lab solutions aim to help universities prepare students for careers in the global semiconductor industry.</p>
+<p>The post <a href="https://www.eetasia.com/keysight-launches-hands-on-semiconductor-teaching-labs-for-universities/">Keysight Launches Hands-On Semiconductor Teaching Labs for Universities</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [DG Matrix Solid-state Transformer Platform Utilizes Infineon SiC Devices](https://www.eetasia.com/dg-matrix-solid-state-transformer-platform-utilizes-infineon-sic-devices/)
+**Published:** Mon, 30 Mar 2026 02:52:26 +0000
+
+<p>DG Matrix will source latest-generation SiC MOSFETs from Infineon for use in its Interport multi-port solid-state transformer platform.</p>
+<p>The post <a href="https://www.eetasia.com/dg-matrix-solid-state-transformer-platform-utilizes-infineon-sic-devices/">DG Matrix Solid-state Transformer Platform Utilizes Infineon SiC Devices</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Tescan Establishes Integrated Demo Lab and Office in Seoul](https://www.eetasia.com/tescan-establishes-integrated-demo-lab-and-office-in-seoul/)
 **Published:** Thu, 26 Mar 2026 01:50:08 +0000
@@ -10,27 +26,11 @@ _Last updated: 2026-03-29 21:45 UTC_
 
 ---
 
-## [Manz Asia and Epson Collaborating to Advance Inkjet Tech for Chip Manufacturing](https://www.eetasia.com/manz-asia-and-epson-collaborating-to-advance-inkjet-tech-for-chip-manufacturing/)
-**Published:** Wed, 25 Mar 2026 23:49:42 +0000
+## [EPIC Microsystems Raises $21M to Power Next-Gen AI Data Centers](https://www.semiconductor-digest.com/epic-microsystems-raises-21m-to-power-next-gen-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=epic-microsystems-raises-21m-to-power-next-gen-ai-data-centers)
+**Published:** Sun, 29 Mar 2026 22:41:10 +0000
 
-<p>Manz is partnering with Seiko Epson to accelerate the adoption of advanced inkjet technology in semiconductor manufacturing.</p>
-<p>The post <a href="https://www.eetasia.com/manz-asia-and-epson-collaborating-to-advance-inkjet-tech-for-chip-manufacturing/">Manz Asia and Epson Collaborating to Advance Inkjet Tech for Chip Manufacturing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Siemens AI Agent Enables Automation Across Semiconductor, 3D IC, PCB System Workflows](https://www.eetasia.com/siemens-ai-agent-enables-automation-across-semiconductor-3d-ic-pcb-system-workflows/)
-**Published:** Tue, 24 Mar 2026 23:31:21 +0000
-
-<p>Siemens' Fuse EDA AI Agent delivers automation that significantly accelerates engineering productivity and achieves higher-quality designs.</p>
-<p>The post <a href="https://www.eetasia.com/siemens-ai-agent-enables-automation-across-semiconductor-3d-ic-pcb-system-workflows/">Siemens AI Agent Enables Automation Across Semiconductor, 3D IC, PCB System Workflows</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [TrendForce: As CSPs Increasingly Self-develop ASICs, NVIDIA Boosts Portfolio for AI Training, Inference](https://www.eetasia.com/trendforce-as-csps-increasingly-self-develop-asics-nvidia-boosts-portfolio-for-ai-training-inference/)
-**Published:** Tue, 24 Mar 2026 23:30:29 +0000
-
-<p>NVIDIA shifted the focus of GTC 2026 toward deploying AI inference applications across multiple industries, departing from its previous emphasis on cloud-based AI training.</p>
-<p>The post <a href="https://www.eetasia.com/trendforce-as-csps-increasingly-self-develop-asics-nvidia-boosts-portfolio-for-ai-training-inference/">TrendForce: As CSPs Increasingly Self-develop ASICs, NVIDIA Boosts Portfolio for AI Training, Inference</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p> EPIC Microsystems today announced it has raised an oversubscribed $21 million in Series A funding to accelerate the development and commercialization of its vertical power delivery technology for next-generation AI compute platforms.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/epic-microsystems-raises-21m-to-power-next-gen-ai-data-centers/">EPIC Microsystems Raises $21M to Power Next-Gen AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -826,14 +826,6 @@ _Last updated: 2026-03-29 21:45 UTC_
 
 ---
 
-## [Laser Marking for Wide-Bandgap Semiconductors: Meeting the Demands of SiC and GaN](https://www.semiconductor-digest.com/laser-marking-for-wide-bandgap-semiconductors-meeting-the-demands-of-sic-and-gan/?utm_source=rss&utm_medium=rss&utm_campaign=laser-marking-for-wide-bandgap-semiconductors-meeting-the-demands-of-sic-and-gan)
-**Published:** Mon, 23 Feb 2026 18:09:41 +0000
-
-<p>The transition to wide-bandgap materials like SiC and GaN necessitates adjustments to laser marking processes due to their distinct material characteristics.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/laser-marking-for-wide-bandgap-semiconductors-meeting-the-demands-of-sic-and-gan/">Laser Marking for Wide-Bandgap Semiconductors: Meeting the Demands of SiC and GaN</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [APEC 2026: The Race to Deliver 800 VDC Power Straight towards the GPU](https://www.powerelectronicsnews.com/apec-2026-the-race-to-deliver-800-vdc-power-straight-to-the-gpu/)
 **Published:** Fri, 27 Mar 2026 14:01:42 +0000
 
@@ -914,6 +906,14 @@ _Last updated: 2026-03-29 21:45 UTC_
 
 ---
 
+## [Europe’s Semiconductor Strategy Meets Market Reality](https://www.eetimes.com/europes-semiconductor-strategy-meets-market-reality/)
+**Published:** Mon, 30 Mar 2026 08:29:54 +0000
+
+<p>As Brussels sharpens its de-risking agenda, analysts warn that the real test of Europe’s chip ambitions may come from market economics, not geopolitics.</p>
+<p>The post <a href="https://www.eetimes.com/europes-semiconductor-strategy-meets-market-reality/">Europe’s Semiconductor Strategy Meets Market Reality</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [DEEPX Sets New Pace in Physical AI Commercialization—27 Global Deals in 7 Months](https://www.eetimes.com/deepx-sets-new-pace-in-physical-ai-commercialization-27-global-deals-in-7-months/)
 **Published:** Fri, 27 Mar 2026 17:15:32 +0000
 
@@ -927,6 +927,22 @@ _Last updated: 2026-03-29 21:45 UTC_
 
 <p>AI is rapidly reshaping semiconductor defect detection, but not along a single trajectory.</p>
 <p>The post <a href="https://www.eetimes.com/why-ai-in-semiconductor-inspection-is-becoming-a-two-layer-game/">Why AI in Semiconductor Inspection Is Becoming a Two-Layer Game</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [China plan for 80% semiconductor self-sufficiency](https://www.electronicsweekly.com/news/business/china-makes-new-plan-for-semiconductor-self-sufficiency-2026-03/)
+**Published:** Mon, 30 Mar 2026 05:30:41 +0000
+
+<p>13 execs in the China chip industry, including Yangtze Memory Technologies Chairman Chen Nanxiang and Naura Chairman Zhao Jinrong, have drawn up a plan to achieve 80% self-sufficiency in semiconductors ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/china-makes-new-plan-for-semiconductor-self-sufficiency-2026-03/">China plan for 80% semiconductor self-sufficiency</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [GlobalFoundries sues Tower Semi for process technology patent  infringement](https://www.electronicsweekly.com/news/business/globalfoundries-sues-tower-semi-for-process-technology-psgent-ingringement-2026-03/)
+**Published:** Mon, 30 Mar 2026 05:27:36 +0000
+
+<p>GlobalFoundries is suing Tower Semiconductor for infringing 11 patents relating to process technology. The cases are being brought before the US International Trade Commission (ITC) and the District Court for ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/globalfoundries-sues-tower-semi-for-process-technology-psgent-ingringement-2026-03/">GlobalFoundries sues Tower Semi for process technology patent  infringement</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -946,10 +962,10 @@ _Last updated: 2026-03-29 21:45 UTC_
 
 ---
 
-## [JOB: Hardware Design Engineer At SPAN In Bengaluru](https://www.electronicsforu.com/career/hardware-design-engineer-span-bengaluru)
-**Published:** Fri, 27 Mar 2026 09:39:02 +0000
+## [AI Optimized Server CPU Targets Data Centres](https://www.electronicsforu.com/news/ai-optimized-server-cpu-targets-data-centres)
+**Published:** Mon, 30 Mar 2026 08:02:27 +0000
 
-<img alt="Lead Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/jobs-shutterstock-ubj750-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: SPAN In this role, you will be responsible for the end-to-end hardware lifecycle—from initial circuit design and simulation to PCB layout, prototype bring-up, and manufacturing support. You will play a key role in developing robust power electronics and embedded systems, ensuring our products meet the highest standards of reliability and [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Alibaba-624x416-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A server processor tailored for AI, handles massive models and dynamic workloads enabling faster processing and better resource utilization across data center environments Alibaba Group has unveiled its latest server-class CPU, the XuanTie C950, targeting AI agents and high-performance cloud workloads as demand for large-scale AI models accelerates. Developed under its T-Head semiconductor division, the [&#8230;]
 
 ---
 
