@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-30 11:16 UTC_
+_Last updated: 2026-03-30 17:10 UTC_
 
 ## [Keysight Launches Hands-On Semiconductor Teaching Labs for Universities](https://www.eetasia.com/keysight-launches-hands-on-semiconductor-teaching-labs-for-universities/)
 **Published:** Mon, 30 Mar 2026 03:10:26 +0000
@@ -826,11 +826,27 @@ _Last updated: 2026-03-30 11:16 UTC_
 
 ---
 
-## [APEC 2026: The Race to Deliver 800 VDC Power Straight towards the GPU](https://www.powerelectronicsnews.com/apec-2026-the-race-to-deliver-800-vdc-power-straight-to-the-gpu/)
+## [APEC 2026: “Year Zero” of Practical Commercially-Available BDS](https://www.powerelectronicsnews.com/apec-2026-year-zero-of-practical-commercially-available-bds/)
+**Published:** Mon, 30 Mar 2026 15:30:34 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3333" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_504493461.jpeg?fit=5000%2C3333" style="display: block; margin-bottom: 5px; clear: both;" width="5000" /><p>The bidirectional switch (BDS) has been a concept since the 1980s, enabling topologies such as matrix converters, current-source inverters (CSIs), and single-stage AC-DC converters. However,...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/apec-2026-year-zero-of-practical-commercially-available-bds/">APEC 2026: “Year Zero” of Practical Commercially-Available BDS</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Integrations Launches GaN-Based 440W Flyback ICs](https://www.powerelectronicsnews.com/power-integrations-launches-gan-based-440w-flyback-ics/)
+**Published:** Mon, 30 Mar 2026 13:00:00 +0000
+
+<img alt="Power Integrations Launches GaN-Based 440W Flyback ICs." class="webfeedsFeaturedVisual wp-post-image" height="1260" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/TOPSwitchGaN-PR.jpg?fit=2400%2C1260" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new devices enable high-efficiency flyback designs up to 440 W, simplifying power architectures and reducing cost and size.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-integrations-launches-gan-based-440w-flyback-ics/">Power Integrations Launches GaN-Based 440W Flyback ICs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [APEC 2026: The Race to Deliver 800 VDC Power Straight Towards the GPU](https://www.powerelectronicsnews.com/apec-2026-the-race-to-deliver-800-vdc-power-straight-to-the-gpu/)
 **Published:** Fri, 27 Mar 2026 14:01:42 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3072" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/PXL_20260322_211054531-1.jpg?fit=4080%2C3072" style="display: block; margin-bottom: 5px; clear: both;" width="4080" /><p>From Infineon to Navitas, APEC 2026 showed 800 V power converters pushing closer than ever to the AI processor.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/apec-2026-the-race-to-deliver-800-vdc-power-straight-to-the-gpu/">APEC 2026: The Race to Deliver 800 VDC Power Straight towards the GPU</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/apec-2026-the-race-to-deliver-800-vdc-power-straight-to-the-gpu/">APEC 2026: The Race to Deliver 800 VDC Power Straight Towards the GPU</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -890,22 +906,6 @@ _Last updated: 2026-03-30 11:16 UTC_
 
 ---
 
-## [Teledyne LeCroy Launches 1.5MHz/1,000A Current Probe](https://www.powerelectronicsnews.com/teledyne-lecroy-launches-1-5mhz-1000a-current-probe/)
-**Published:** Thu, 26 Mar 2026 13:00:00 +0000
-
-<img alt="Teledyne LeCroy Launches 1.5MHz, 1000A Current Probe." class="webfeedsFeaturedVisual wp-post-image" height="211" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/cp1000-title.png?fit=540%2C211" style="display: block; margin-bottom: 5px; clear: both;" width="540" /><p>The 1,000 Arms current probe with 1.5 MHz bandwidth is well-suited for high-power measurement in motor drives and inverters.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/teledyne-lecroy-launches-1-5mhz-1000a-current-probe/">Teledyne LeCroy Launches 1.5MHz/1,000A Current Probe</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Renesas Introduces 650V Bidirectional GaN Switch](https://www.powerelectronicsnews.com/renesas-introduces-650v-bidirectional-gan-switch/)
-**Published:** Thu, 26 Mar 2026 13:00:00 +0000
-
-<img alt="Renesas Introduces 650V Bidirectional GaN Switch." class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/gan-bds-pressphoto-notext.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>The new 650V bidirectional GaN switch simplifies power conversion and boosts efficiency in solar, EV, and AI systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/renesas-introduces-650v-bidirectional-gan-switch/">Renesas Introduces 650V Bidirectional GaN Switch</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Europe’s Semiconductor Strategy Meets Market Reality](https://www.eetimes.com/europes-semiconductor-strategy-meets-market-reality/)
 **Published:** Mon, 30 Mar 2026 08:29:54 +0000
 
@@ -943,29 +943,6 @@ _Last updated: 2026-03-30 11:16 UTC_
 
 <p>GlobalFoundries is suing Tower Semiconductor for infringing 11 patents relating to process technology. The cases are being brought before the US International Trade Commission (ITC) and the District Court for ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/globalfoundries-sues-tower-semi-for-process-technology-psgent-ingringement-2026-03/">GlobalFoundries sues Tower Semi for process technology patent  infringement</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [XJTAG releases XJBoardExplorer as standalone sharing tool](https://www.electronicsweekly.com/news/products/test-measurement-products/xjtag-releases-xjboardexplorer-as-standalone-sharing-tool-2026-03/)
-**Published:** Fri, 27 Mar 2026 14:07:39 +0000
-
-<p>XJTAG, the automated test equipment specialist, is making its project exploration and sharing tools available as the standalone XJBoardExplorer. Basically, it allows design teams to securely share board data across ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/test-measurement-products/xjtag-releases-xjboardexplorer-as-standalone-sharing-tool-2026-03/">XJTAG releases XJBoardExplorer as standalone sharing tool</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Rohm, Toshiba, Mitsubishi talk about power semi merger](https://www.electronicsweekly.com/news/business/rohm-toshiba-mitsubishi-2026-03/)
-**Published:** Fri, 27 Mar 2026 06:28:06 +0000
-
-<p>Rohm, Toshiba and Mitsubishi Electric are to start talks ​to integrate their power semiconductor businesses, reports the Nikkei The talks come shortly after Denso made an $8.3 billion bid to ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/rohm-toshiba-mitsubishi-2026-03/">Rohm, Toshiba, Mitsubishi talk about power semi merger</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [AI Optimized Server CPU Targets Data Centres](https://www.electronicsforu.com/news/ai-optimized-server-cpu-targets-data-centres)
-**Published:** Mon, 30 Mar 2026 08:02:27 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Alibaba-624x416-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A server processor tailored for AI, handles massive models and dynamic workloads enabling faster processing and better resource utilization across data center environments Alibaba Group has unveiled its latest server-class CPU, the XuanTie C950, targeting AI agents and high-performance cloud workloads as demand for large-scale AI models accelerates. Developed under its T-Head semiconductor division, the [&#8230;]
 
 ---
 
