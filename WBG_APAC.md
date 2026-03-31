@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-31 17:11 UTC_
+_Last updated: 2026-03-31 18:12 UTC_
 
 ## [Keysight Launches Hands-On Semiconductor Teaching Labs for Universities](https://www.eetasia.com/keysight-launches-hands-on-semiconductor-teaching-labs-for-universities/)
 **Published:** Mon, 30 Mar 2026 03:10:26 +0000
