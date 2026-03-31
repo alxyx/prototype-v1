@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-31 18:12 UTC_
+_Last updated: 2026-03-31 22:48 UTC_
 
 ## [Keysight Launches Hands-On Semiconductor Teaching Labs for Universities](https://www.eetasia.com/keysight-launches-hands-on-semiconductor-teaching-labs-for-universities/)
 **Published:** Mon, 30 Mar 2026 03:10:26 +0000
@@ -23,6 +23,30 @@ _Last updated: 2026-03-31 18:12 UTC_
 
 <p>Tescan has opened its Seoul demo lab to support semiconductor analysis, reliability workflows, and academic collaboration in APAC.</p>
 <p>The post <a href="https://www.eetasia.com/tescan-establishes-integrated-demo-lab-and-office-in-seoul/">Tescan Establishes Integrated Demo Lab and Office in Seoul</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [USC Scientists Build a Memory Chip That Survives Temperatures Hotter than Lava](https://www.semiconductor-digest.com/usc-scientists-build-a-memory-chip-that-survives-temperatures-hotter-than-lava/?utm_source=rss&utm_medium=rss&utm_campaign=usc-scientists-build-a-memory-chip-that-survives-temperatures-hotter-than-lava)
+**Published:** Tue, 31 Mar 2026 21:49:03 +0000
+
+<p>A discovery using graphene has produced a record-breaking high-temperature memory device, with implications for space exploration, deep-earth drilling, and the future of AI hardware.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/usc-scientists-build-a-memory-chip-that-survives-temperatures-hotter-than-lava/">USC Scientists Build a Memory Chip That Survives Temperatures Hotter than Lava</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The AMD Foundation Joins Last Mile Education Fund’s National Semiconductor Coalition](https://www.semiconductor-digest.com/the-amd-foundation-joins-last-mile-education-funds-national-semiconductor-coalition/?utm_source=rss&utm_medium=rss&utm_campaign=the-amd-foundation-joins-last-mile-education-funds-national-semiconductor-coalition)
+**Published:** Tue, 31 Mar 2026 21:25:55 +0000
+
+<p>As the United States races to secure its semiconductor future, Last Mile Education Fund announces that the AMD Foundation has joined its Semiconductor Pathways Fund with a $500,000 philanthropic investment over the next three years.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-amd-foundation-joins-last-mile-education-funds-national-semiconductor-coalition/">The AMD Foundation Joins Last Mile Education Fund&#8217;s National Semiconductor Coalition</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [​​New ZEISS Crossbeam 750 FIB-SEM for  High-Accuracy Sample Preparation Workflows​](https://www.semiconductor-digest.com/new-zeiss-crossbeam-750-fib-sem-for-high-accuracy-sample-preparation-workflows/?utm_source=rss&utm_medium=rss&utm_campaign=new-zeiss-crossbeam-750-fib-sem-for-high-accuracy-sample-preparation-workflows)
+**Published:** Tue, 31 Mar 2026 21:21:40 +0000
+
+<p>ZEISS today unveiled the new ZEISS Crossbeam 750 focused ion beam-scanning electron microscope (FIB-SEM) that is optimized for demanding sample preparation.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-zeiss-crossbeam-750-fib-sem-for-high-accuracy-sample-preparation-workflows/">​​New ZEISS Crossbeam 750 FIB-SEM for  High-Accuracy Sample Preparation Workflows​</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,30 +823,6 @@ _Last updated: 2026-03-31 18:12 UTC_
 
 <p>TechInsights reports that combined CMP slurry and pad revenues totaled approximately $3.8 billion in 2025 and are projected to grow 10.3% in 2026 to roughly $4.2 billion. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/ai-driven-device-scaling-fuels-next-phase-of-cmp-consumables-growth/">AI-Driven Device Scaling Fuels Next Phase of CMP Consumables Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Engineering Resilience – Building a Quality-Driven Supply Chain](https://www.semiconductor-digest.com/engineering-resilience-building-a-quality-driven-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=engineering-resilience-building-a-quality-driven-supply-chain)
-**Published:** Wed, 25 Feb 2026 18:06:28 +0000
-
-<p>The industry is transitioning from a quest for the lowest possible cost to an imperative for guaranteed quality and systemic resilience. We are moving toward a model where the value of a component is no longer measured solely by its price point, but by the reliability of the ecosystem that produced it. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/engineering-resilience-building-a-quality-driven-supply-chain/">Engineering Resilience – Building a Quality-Driven Supply Chain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Axelera AI Secures More Than $250 Million Funding](https://www.semiconductor-digest.com/axelera-ai-secures-more-than-250-million-funding/?utm_source=rss&utm_medium=rss&utm_campaign=axelera-ai-secures-more-than-250-million-funding)
-**Published:** Wed, 25 Feb 2026 17:53:00 +0000
-
-<p>European AI semiconductor leader earns backing from funds managed by Innovation Industries and SiteGround Capital along with EU institutions; edge-first architecture addresses AI's critical energy and cooling constraints</p>
-<p>The post <a href="https://www.semiconductor-digest.com/axelera-ai-secures-more-than-250-million-funding/">Axelera AI Secures More Than $250 Million Funding</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New Partnership to Meet Growing Demand for Lead Frames in North America](https://www.semiconductor-digest.com/new-partnership-to-meet-growing-demand-for-lead-frames-in-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=new-partnership-to-meet-growing-demand-for-lead-frames-in-north-america)
-**Published:** Tue, 24 Feb 2026 16:17:35 +0000
-
-<p>Batten &#038; Allen has forged a partnership with the US-based Neu Dynamics Corporation to help meet North America’s growing demand for precision-manufactured semiconductor lead frames.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-partnership-to-meet-growing-demand-for-lead-frames-in-north-america/">New Partnership to Meet Growing Demand for Lead Frames in North America</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
