@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-31 13:36 UTC_
+_Last updated: 2026-03-31 17:11 UTC_
 
 ## [Keysight Launches Hands-On Semiconductor Teaching Labs for Universities](https://www.eetasia.com/keysight-launches-hands-on-semiconductor-teaching-labs-for-universities/)
 **Published:** Mon, 30 Mar 2026 03:10:26 +0000
@@ -23,6 +23,14 @@ _Last updated: 2026-03-31 13:36 UTC_
 
 <p>Tescan has opened its Seoul demo lab to support semiconductor analysis, reliability workflows, and academic collaboration in APAC.</p>
 <p>The post <a href="https://www.eetasia.com/tescan-establishes-integrated-demo-lab-and-office-in-seoul/">Tescan Establishes Integrated Demo Lab and Office in Seoul</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Quantum Diamonds Expands to Asia](https://www.semiconductor-digest.com/quantum-diamonds-expands-to-asia/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-diamonds-expands-to-asia)
+**Published:** Tue, 31 Mar 2026 14:15:02 +0000
+
+<p>QuantumDiamonds GmbH, a Munich-based quantum sensing company focused on semiconductor quality control, announced the appointment of Peter Lemmens as Managing Director Asia. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/quantum-diamonds-expands-to-asia/">Quantum Diamonds Expands to Asia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -818,11 +826,11 @@ _Last updated: 2026-03-31 13:36 UTC_
 
 ---
 
-## [Materials-Driven Solutions for 2.5D/3D and Fan-Out WLP](https://www.semiconductor-digest.com/materials-driven-solutions-for-2-5d-3d-and-fan-out-wlp/?utm_source=rss&utm_medium=rss&utm_campaign=materials-driven-solutions-for-2-5d-3d-and-fan-out-wlp)
-**Published:** Tue, 24 Feb 2026 14:52:26 +0000
+## [Panasonic Unveils High-Precision Thick-Film Resistors](https://www.powerelectronicsnews.com/panasonic-unveils-high-precision-thick-film-resistors/)
+**Published:** Tue, 31 Mar 2026 15:00:00 +0000
 
-<p>As semiconductor architectures evolve toward greater integration and miniaturization, yield challenges will increasingly hinge on how materials perform, interact, and age under real-world conditions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/materials-driven-solutions-for-2-5d-3d-and-fan-out-wlp/">Materials-Driven Solutions for 2.5D/3D and Fan-Out WLP</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Panasonic Unveils High-Precision Thick-Film Resistors." class="webfeedsFeaturedVisual wp-post-image" height="1028" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/ERJPC31608.png?fit=1317%2C1028" style="display: block; margin-bottom: 5px; clear: both;" width="1317" /><p>The new thick-film resistors deliver thin-film accuracy, higher power density, and reduced footprint for cost-efficient designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/panasonic-unveils-high-precision-thick-film-resistors/">Panasonic Unveils High-Precision Thick-Film Resistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -898,14 +906,6 @@ _Last updated: 2026-03-31 13:36 UTC_
 
 ---
 
-## [APEC 2026: Navitas CEO Weighs In On the Future of AI Power](https://www.powerelectronicsnews.com/apec-2026-navitas-ceo-weighs-in-on-the-future-of-ai-power/)
-**Published:** Thu, 26 Mar 2026 14:05:14 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Navitas_thumbnail.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>Navitas CEO, Chris Allexandre, on Gen 5 SiC, all-GaN DC-DC platforms, and AI data center power architecture.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/apec-2026-navitas-ceo-weighs-in-on-the-future-of-ai-power/">APEC 2026: Navitas CEO Weighs In On the Future of AI Power </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Rohm Joins Toshiba and Mitsubishi to Create a Power Chip Titan](https://www.eetimes.com/rohm-joins-toshiba-and-mitsubishi-to-create-a-power-chip-titan/)
 **Published:** Tue, 31 Mar 2026 13:19:14 +0000
 
@@ -935,6 +935,14 @@ _Last updated: 2026-03-31 13:36 UTC_
 
 <p>AI is rapidly reshaping semiconductor defect detection, but not along a single trajectory.</p>
 <p>The post <a href="https://www.eetimes.com/why-ai-in-semiconductor-inspection-is-becoming-a-two-layer-game/">Why AI in Semiconductor Inspection Is Becoming a Two-Layer Game</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [ESA awards OHB Sweden the EPS‑Sterna constellation contract](https://www.electronicsweekly.com/news/esa-awards-ohb-sweden-the-eps%e2%80%91sterna-satellite-constellation-contract-2026-03/)
+**Published:** Tue, 31 Mar 2026 15:31:24 +0000
+
+<p>The European Space Agency (ESA) has selected OHB Sweden to build 20 small satellites for the EUMETSAT Polar System &#8211; Sterna (EPS‑Sterna) constellation. EUMETSAT is the European Organisation for the ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/esa-awards-ohb-sweden-the-eps%e2%80%91sterna-satellite-constellation-contract-2026-03/">ESA awards OHB Sweden the EPS‑Sterna constellation contract</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
