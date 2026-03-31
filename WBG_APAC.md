@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-31 07:28 UTC_
+_Last updated: 2026-03-31 13:36 UTC_
 
 ## [Keysight Launches Hands-On Semiconductor Teaching Labs for Universities](https://www.eetasia.com/keysight-launches-hands-on-semiconductor-teaching-labs-for-universities/)
 **Published:** Mon, 30 Mar 2026 03:10:26 +0000
@@ -826,6 +826,22 @@ _Last updated: 2026-03-31 07:28 UTC_
 
 ---
 
+## [Wide Bandgap Monthly Insights – March 2026](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-march-2026/)
+**Published:** Tue, 31 Mar 2026 13:00:00 +0000
+
+<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-march-2026/">Wide Bandgap Monthly Insights &#8211; March 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Electronics Course with QSPICE (Episode 07): Rectifier Diodes](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-07-rectifier-diodes/)
+**Published:** Tue, 31 Mar 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/figure-00-power-course-2.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>In this installment of the course, we analyze one of the core elements of any power system: the regulated power supply. Starting from the single-phase...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-07-rectifier-diodes/">Power Electronics Course with QSPICE (Episode 07): Rectifier Diodes</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [APEC 2026: “Year Zero” of Practical Commercially-Available BDS](https://www.powerelectronicsnews.com/apec-2026-year-zero-of-practical-commercially-available-bds/)
 **Published:** Mon, 30 Mar 2026 15:30:34 +0000
 
@@ -890,19 +906,11 @@ _Last updated: 2026-03-31 07:28 UTC_
 
 ---
 
-## [A Look into Commercially Available IVRs](https://www.powerelectronicsnews.com/a-look-into-commercially-available-ivrs/)
-**Published:** Thu, 26 Mar 2026 13:00:00 +0000
+## [Rohm Joins Toshiba and Mitsubishi to Create a Power Chip Titan](https://www.eetimes.com/rohm-joins-toshiba-and-mitsubishi-to-create-a-power-chip-titan/)
+**Published:** Tue, 31 Mar 2026 13:19:14 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4896" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_731370501.jpeg?fit=8736%2C4896" style="display: block; margin-bottom: 5px; clear: both;" width="8736" /><p>Comparing commercially available IVR technology that moves power conversion closer to the processor</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/a-look-into-commercially-available-ivrs/">A Look into Commercially Available IVRs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Corner: TechInsights’ Cédric Malaquin on the State of Wide Bandgap Semiconductors](https://www.powerelectronicsnews.com/power-corner-techinsights-cedric-malaquin-on-the-state-of-wide-bandgap-semiconductors/)
-**Published:** Thu, 26 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1105" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Tech-Insights-2.png?fit=1946%2C1105" style="display: block; margin-bottom: 5px; clear: both;" width="1946" /><p>In this episode of PEN&#8217;s Power Corner, Cédric Malaquin, Director and Analyst for RF Analog and Power at TechInsights, draws on findings from the TechInsights...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-techinsights-cedric-malaquin-on-the-state-of-wide-bandgap-semiconductors/">Power Corner: TechInsights&#8217; Cédric Malaquin on the State of Wide Bandgap Semiconductors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>The tie-up could bolster Japan’s global semiconductor footprint and address fragmented IC markets.</p>
+<p>The post <a href="https://www.eetimes.com/rohm-joins-toshiba-and-mitsubishi-to-create-a-power-chip-titan/">Rohm Joins Toshiba and Mitsubishi to Create a Power Chip Titan</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -927,13 +935,6 @@ _Last updated: 2026-03-31 07:28 UTC_
 
 <p>AI is rapidly reshaping semiconductor defect detection, but not along a single trajectory.</p>
 <p>The post <a href="https://www.eetimes.com/why-ai-in-semiconductor-inspection-is-becoming-a-two-layer-game/">Why AI in Semiconductor Inspection Is Becoming a Two-Layer Game</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Three-in-One Diode Transforms Imaging](https://www.electronicsforu.com/news/three-in-one-diode-transforms-imaging)
-**Published:** Tue, 31 Mar 2026 06:04:56 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/three-in-one-diode-int-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Single-chip device fuses sensing, memory, and AI for faster edge vision. A new semiconductor breakthrough could reshape how smart cameras are designed, collapsing multiple electronic subsystems into a single diode and enabling faster, more efficient machine vision at the edge. Researchers have developed a “three-in-one” diode that integrates image sensing, memory storage, and signal processing [&#8230;]
 
 ---
 
