@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-30 22:49 UTC_
+_Last updated: 2026-03-31 07:28 UTC_
 
 ## [Keysight Launches Hands-On Semiconductor Teaching Labs for Universities](https://www.eetasia.com/keysight-launches-hands-on-semiconductor-teaching-labs-for-universities/)
 **Published:** Mon, 30 Mar 2026 03:10:26 +0000
@@ -930,19 +930,10 @@ _Last updated: 2026-03-30 22:49 UTC_
 
 ---
 
-## [China plans for 80% semiconductor self-sufficiency](https://www.electronicsweekly.com/news/business/china-makes-new-plan-for-semiconductor-self-sufficiency-2026-03/)
-**Published:** Mon, 30 Mar 2026 05:30:41 +0000
+## [Three-in-One Diode Transforms Imaging](https://www.electronicsforu.com/news/three-in-one-diode-transforms-imaging)
+**Published:** Tue, 31 Mar 2026 06:04:56 +0000
 
-<p>Thirteen executives in the Chinese chip industry, including Yangtze Memory Technologies chairman Chen Nanxiang and Naura chairman Zhao Jinrong, have drawn up a plan to achieve 80% self-sufficiency in semiconductors ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/china-makes-new-plan-for-semiconductor-self-sufficiency-2026-03/">China plans for 80% semiconductor self-sufficiency</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [GlobalFoundries sues Tower Semi for process technology patent  infringement](https://www.electronicsweekly.com/news/business/globalfoundries-sues-tower-semi-for-process-technology-psgent-ingringement-2026-03/)
-**Published:** Mon, 30 Mar 2026 05:27:36 +0000
-
-<p>GlobalFoundries is suing Tower Semiconductor for infringing 11 patents relating to process technology. The cases are being brought before the US International Trade Commission (ITC) and the District Court for ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/globalfoundries-sues-tower-semi-for-process-technology-psgent-ingringement-2026-03/">GlobalFoundries sues Tower Semi for process technology patent  infringement</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/three-in-one-diode-int-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Single-chip device fuses sensing, memory, and AI for faster edge vision. A new semiconductor breakthrough could reshape how smart cameras are designed, collapsing multiple electronic subsystems into a single diode and enabling faster, more efficient machine vision at the edge. Researchers have developed a “three-in-one” diode that integrates image sensing, memory storage, and signal processing [&#8230;]
 
 ---
 
