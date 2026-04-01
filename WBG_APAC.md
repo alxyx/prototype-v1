@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-01 02:50 UTC_
+_Last updated: 2026-04-01 12:08 UTC_
+
+## [Poland at the Center of the Global Semiconductor Race](https://www.eetasia.com/poland-at-the-center-of-the-global-semiconductor-race/)
+**Published:** Wed, 01 Apr 2026 06:47:44 +0000
+
+<p>Covering a significant portion of Poland's semiconductor value chain, Pomerania is emerging as one of the fastest-growing technology hubs in Central Europe.</p>
+<p>The post <a href="https://www.eetasia.com/poland-at-the-center-of-the-global-semiconductor-race/">Poland at the Center of the Global Semiconductor Race</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Keysight Launches Hands-On Semiconductor Teaching Labs for Universities](https://www.eetasia.com/keysight-launches-hands-on-semiconductor-teaching-labs-for-universities/)
 **Published:** Mon, 30 Mar 2026 03:10:26 +0000
@@ -15,14 +23,6 @@ _Last updated: 2026-04-01 02:50 UTC_
 
 <p>DG Matrix will source latest-generation SiC MOSFETs from Infineon for use in its Interport multi-port solid-state transformer platform.</p>
 <p>The post <a href="https://www.eetasia.com/dg-matrix-solid-state-transformer-platform-utilizes-infineon-sic-devices/">DG Matrix Solid-state Transformer Platform Utilizes Infineon SiC Devices</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Tescan Establishes Integrated Demo Lab and Office in Seoul](https://www.eetasia.com/tescan-establishes-integrated-demo-lab-and-office-in-seoul/)
-**Published:** Thu, 26 Mar 2026 01:50:08 +0000
-
-<p>Tescan has opened its Seoul demo lab to support semiconductor analysis, reliability workflows, and academic collaboration in APAC.</p>
-<p>The post <a href="https://www.eetasia.com/tescan-establishes-integrated-demo-lab-and-office-in-seoul/">Tescan Establishes Integrated Demo Lab and Office in Seoul</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -930,11 +930,27 @@ _Last updated: 2026-04-01 02:50 UTC_
 
 ---
 
-## [Why AI in Semiconductor Inspection Is Becoming a Two-Layer Game](https://www.eetimes.com/why-ai-in-semiconductor-inspection-is-becoming-a-two-layer-game/)
-**Published:** Fri, 27 Mar 2026 10:00:00 +0000
+## [EW BrightSparks 2025 profile: Osian Jones, Compound Semiconductor Catapult](https://www.electronicsweekly.com/news/ew-brightsparks-2025-profile-osian-jones-compound-semiconductor-catapult-2026-04/)
+**Published:** Wed, 01 Apr 2026 09:27:49 +0000
 
-<p>AI is rapidly reshaping semiconductor defect detection, but not along a single trajectory.</p>
-<p>The post <a href="https://www.eetimes.com/why-ai-in-semiconductor-inspection-is-becoming-a-two-layer-game/">Why AI in Semiconductor Inspection Is Becoming a Two-Layer Game</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Now in its eighth year, the EW BrightSparks awards see Electronics Weekly celebrate some of the brightest and most talented young engineers in the UK today. In the next in our ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/ew-brightsparks-2025-profile-osian-jones-compound-semiconductor-catapult-2026-04/">EW BrightSparks 2025 profile: Osian Jones, Compound Semiconductor Catapult</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Nvidia invests $2bn in Marvell for AI ASIC compatibility](https://www.electronicsweekly.com/news/business/nvidia-invests-2bn-in-marvell-for-asic-compatibility-2026-04/)
+**Published:** Wed, 01 Apr 2026 05:29:07 +0000
+
+<p>Nvidia is to invest $2 billion in Marvell to ensure that Marvell’s customers for datacentre ASICs have a route to compatibility with Nvidia’s computing platform. With the hyperscalers developing their own ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/nvidia-invests-2bn-in-marvell-for-asic-compatibility-2026-04/">Nvidia invests $2bn in Marvell for AI ASIC compatibility</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [2026 semiconductor capex to increase 20% YoY](https://www.electronicsweekly.com/news/business/semiconductor-capex-2026-04/)
+**Published:** Wed, 01 Apr 2026 05:27:56 +0000
+
+<p>Semiconductor industry capex was $166 billion in 2025, up 7% YoY, says Semiconductor Intelligence (SI). SI estimates 2026 capex will be $200 billion, up 20% from 2025. TSMC was the ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/semiconductor-capex-2026-04/">2026 semiconductor capex to increase 20% YoY</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -943,20 +959,6 @@ _Last updated: 2026-04-01 02:50 UTC_
 
 <p>The European Space Agency (ESA) has selected OHB Sweden to build 20 small satellites for the EUMETSAT Polar System &#8211; Sterna (EPS‑Sterna) constellation. EUMETSAT is the European Organisation for the ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/esa-awards-ohb-sweden-the-eps%e2%80%91sterna-satellite-constellation-contract-2026-03/">ESA awards OHB Sweden the EPS‑Sterna constellation contract</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [ARVO: The Answer To Product Authenticity Challenges](https://www.electronicsforu.com/electronics-startups/arvo-answer-to-product-authenticity-challenges)
-**Published:** Wed, 01 Apr 2026 02:30:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/L-R-Duke-Banerjee-and-Sumit-Goswami-Founders-OneArvo-Ventures-Private-Limited-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A deep-tech startup using AI-powered physical patterns to combat counterfeiting and improve traceability. Founded in 2023 by Duke Banerjee and Sumit Goswami, OneArvo Ventures Private Limited, operating under the brand name ARVO, is focused on addressing key challenges faced by brands, including counterfeiting. Before founding the startup, both founders worked together at a private equity [&#8230;]
-
----
-
-## [How Vision Computing SoCs Will Reshape India’s Electronics And Embedded Systems Landscape](https://www.electronicsforu.com/technology-trends/how-vision-computing-socs-will-reshape-indias-electronics-embedded-systems-landscape)
-**Published:** Tue, 31 Mar 2026 23:30:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Binary-Code-Internet-Communication-Technology-iStock-965534050-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Vision Computing SoCs could emerge as a defining layer in India’s next phase of electronics growth. With the right ecosystem in place, the country can move beyond following global hardware trends and begin shaping the future of intelligent embedded systems. Semiconductor chips have long been the backbone of advances in emerging technologies such as AI, [&#8230;]
 
 ---
 
