@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-01 12:08 UTC_
+_Last updated: 2026-04-01 17:13 UTC_
 
 ## [Poland at the Center of the Global Semiconductor Race](https://www.eetasia.com/poland-at-the-center-of-the-global-semiconductor-race/)
 **Published:** Wed, 01 Apr 2026 06:47:44 +0000
@@ -826,6 +826,38 @@ _Last updated: 2026-04-01 12:08 UTC_
 
 ---
 
+## [Vitrek Introduces V10X High-Voltage Safety Tester](https://www.powerelectronicsnews.com/vitrek-introduces-v10x-high-voltage-safety-tester/)
+**Published:** Wed, 01 Apr 2026 15:00:00 +0000
+
+<img alt="Vitrek Introduces V10X High-Voltage Safety Tester." class="webfeedsFeaturedVisual wp-post-image" height="447" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Vitrek-V10x.png?fit=596%2C447" style="display: block; margin-bottom: 5px; clear: both;" width="596" /><p>The new hipot tester delivers up to 30 kV output with high-resolution leakage measurement and automation support.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vitrek-introduces-v10x-high-voltage-safety-tester/">Vitrek Introduces V10X High-Voltage Safety Tester</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Apex Expands Power Modules with 3-Phase SiC Solution](https://www.powerelectronicsnews.com/apex-expands-power-modules-with-3-phase-sic-solution/)
+**Published:** Wed, 01 Apr 2026 13:57:48 +0000
+
+<img alt="Apex Expands Power Modules with 3-Phase SiC Solution." class="webfeedsFeaturedVisual wp-post-image" height="969" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/MSA303.jpg?fit=1503%2C969" style="display: block; margin-bottom: 5px; clear: both;" width="1503" /><p>Integrated SiC module combines power stages, gate drive, and protection to enable compact, efficient motor drive and inverter designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/apex-expands-power-modules-with-3-phase-sic-solution/">Apex Expands Power Modules with 3-Phase SiC Solution</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Diodes Unveils 100V MOSFETs in PowerDI8080-5 Package](https://www.powerelectronicsnews.com/diodes-unveils-100v-mosfets-in-powerdi8080-5-package/)
+**Published:** Wed, 01 Apr 2026 13:00:00 +0000
+
+<img alt="Diodes Unveils 100V MOSFETs in PowerDI8080-5 Package." class="webfeedsFeaturedVisual wp-post-image" height="690" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/DIO1128_image_PowerDI8080_DMTHxxxxSPGWQ.jpg?fit=900%2C690" style="display: block; margin-bottom: 5px; clear: both;" width="900" /><p>These low RDS(on) MOSFETs, available in a compact PowerDI8080-5 package, target high-efficiency 48V automotive systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/diodes-unveils-100v-mosfets-in-powerdi8080-5-package/">Diodes Unveils 100V MOSFETs in PowerDI8080-5 Package</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Vertical GaN simplifies 800V OBC design topologies](https://www.powerelectronicsnews.com/vertical-gan-simplifies-800v-obc-design-topologies/)
+**Published:** Wed, 01 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3894" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_335302894-1.jpeg?fit=5841%2C3894" style="display: block; margin-bottom: 5px; clear: both;" width="5841" /><p>Electric vehicle power systems are pushing higher voltages to achieve faster charging and better efficiency. Modern designs adopt 800 V architectures to enable high-power charging...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vertical-gan-simplifies-800v-obc-design-topologies/">Vertical GaN simplifies 800V OBC design topologies</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Panasonic Unveils High-Precision Thick-Film Resistors](https://www.powerelectronicsnews.com/panasonic-unveils-high-precision-thick-film-resistors/)
 **Published:** Tue, 31 Mar 2026 15:00:00 +0000
 
@@ -874,59 +906,11 @@ _Last updated: 2026-04-01 12:08 UTC_
 
 ---
 
-## [From Little Box to Big Impact: GaN’s Decade in High-Density Power Conversion](https://www.powerelectronicsnews.com/from-little-box-to-big-impact-gans-decade-in-high-density-power-conversion/)
-**Published:** Fri, 27 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3502" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_796600422.jpeg?fit=5250%2C3502" style="display: block; margin-bottom: 5px; clear: both;" width="5250" /><p>A retrospective on the 2016 Little Box Challenge and GaN's current place in high-density power conversion.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/from-little-box-to-big-impact-gans-decade-in-high-density-power-conversion/">From Little Box to Big Impact: GaN&#8217;s Decade in High-Density Power Conversion</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [EPC Extends GaN Reliability Data and Launches Motor Drive Eval Board](https://www.powerelectronicsnews.com/epc-extends-gan-reliability-data-and-launches-motor-drive-eval-board/)
-**Published:** Fri, 27 Mar 2026 13:00:00 +0000
-
-<img alt="EPC Extends GaN Reliability Data and Launches Motor Drive Eval Board." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/RR18-PR-Graphic.jpg?fit=1500%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>The company advances GaN power design with new reliability data and 3-phase BLDC motor drive evaluation board.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/epc-extends-gan-reliability-data-and-launches-motor-drive-eval-board/">EPC Extends GaN Reliability Data and Launches Motor Drive Eval Board</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Solid-State Batteries, Paralleling GaN FETs, High-k Gate Oxide: Power Electronics Week Insights](https://www.powerelectronicsnews.com/solid-state-batteries-paralleling-gan-fets-high-k-gate-oxide-power-electronics-week-insights/)
-**Published:** Fri, 27 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Solid-State Batteries, Paralleling GaN FETs, and High-k Gate Oxide!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/solid-state-batteries-paralleling-gan-fets-high-k-gate-oxide-power-electronics-week-insights/">Solid-State Batteries, Paralleling GaN FETs, High-k Gate Oxide: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [APEC 2026: 800 V-to-6 V Conversion and the Future of Data Center Power](https://www.powerelectronicsnews.com/apec-2026-800-v-to-6-v-conversion-and-the-future-of-data-center-power/)
-**Published:** Thu, 26 Mar 2026 22:58:27 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/TI_thumbnail.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>Description At APEC 2026, Power Electronics News spoke with Pradeep Shenoy, Computing Power Technologist at Texas Instruments, on TI&#8217;s expanding role in the 800 V...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/apec-2026-800-v-to-6-v-conversion-and-the-future-of-data-center-power/">APEC 2026: 800 V-to-6 V Conversion and the Future of Data Center Power</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Rohm Joins Toshiba and Mitsubishi to Create a Power Chip Titan](https://www.eetimes.com/rohm-joins-toshiba-and-mitsubishi-to-create-a-power-chip-titan/)
 **Published:** Tue, 31 Mar 2026 13:19:14 +0000
 
 <p>The tie-up could bolster Japan’s global semiconductor footprint and address fragmented IC markets.</p>
 <p>The post <a href="https://www.eetimes.com/rohm-joins-toshiba-and-mitsubishi-to-create-a-power-chip-titan/">Rohm Joins Toshiba and Mitsubishi to Create a Power Chip Titan</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Europe’s Semiconductor Strategy Meets Market Reality](https://www.eetimes.com/europes-semiconductor-strategy-meets-market-reality/)
-**Published:** Mon, 30 Mar 2026 08:29:54 +0000
-
-<p>As Brussels sharpens its de-risking agenda, analysts warn that the real test of Europe’s chip ambitions may come from market economics, not geopolitics.</p>
-<p>The post <a href="https://www.eetimes.com/europes-semiconductor-strategy-meets-market-reality/">Europe’s Semiconductor Strategy Meets Market Reality</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [DEEPX Sets New Pace in Physical AI Commercialization—27 Global Deals in 7 Months](https://www.eetimes.com/deepx-sets-new-pace-in-physical-ai-commercialization-27-global-deals-in-7-months/)
-**Published:** Fri, 27 Mar 2026 17:15:32 +0000
-
-<p>The South Korean fabless startup reports accelerating global adoption of its DX-M1 AI chip across eight countries and seven application domains — and is now using Embedded World 2026 as the launchpad for its European commercial push.</p>
-<p>The post <a href="https://www.eetimes.com/deepx-sets-new-pace-in-physical-ai-commercialization-27-global-deals-in-7-months/">DEEPX Sets New Pace in Physical AI Commercialization—27 Global Deals in 7 Months</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
