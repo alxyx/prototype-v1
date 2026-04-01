@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-01 17:13 UTC_
+_Last updated: 2026-04-01 18:05 UTC_
 
 ## [Poland at the Center of the Global Semiconductor Race](https://www.eetasia.com/poland-at-the-center-of-the-global-semiconductor-race/)
 **Published:** Wed, 01 Apr 2026 06:47:44 +0000
