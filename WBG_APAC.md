@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-03-31 22:48 UTC_
+_Last updated: 2026-04-01 02:50 UTC_
 
 ## [Keysight Launches Hands-On Semiconductor Teaching Labs for Universities](https://www.eetasia.com/keysight-launches-hands-on-semiconductor-teaching-labs-for-universities/)
 **Published:** Mon, 30 Mar 2026 03:10:26 +0000
@@ -943,6 +943,20 @@ _Last updated: 2026-03-31 22:48 UTC_
 
 <p>The European Space Agency (ESA) has selected OHB Sweden to build 20 small satellites for the EUMETSAT Polar System &#8211; Sterna (EPS‑Sterna) constellation. EUMETSAT is the European Organisation for the ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/esa-awards-ohb-sweden-the-eps%e2%80%91sterna-satellite-constellation-contract-2026-03/">ESA awards OHB Sweden the EPS‑Sterna constellation contract</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [ARVO: The Answer To Product Authenticity Challenges](https://www.electronicsforu.com/electronics-startups/arvo-answer-to-product-authenticity-challenges)
+**Published:** Wed, 01 Apr 2026 02:30:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/L-R-Duke-Banerjee-and-Sumit-Goswami-Founders-OneArvo-Ventures-Private-Limited-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A deep-tech startup using AI-powered physical patterns to combat counterfeiting and improve traceability. Founded in 2023 by Duke Banerjee and Sumit Goswami, OneArvo Ventures Private Limited, operating under the brand name ARVO, is focused on addressing key challenges faced by brands, including counterfeiting. Before founding the startup, both founders worked together at a private equity [&#8230;]
+
+---
+
+## [How Vision Computing SoCs Will Reshape India’s Electronics And Embedded Systems Landscape](https://www.electronicsforu.com/technology-trends/how-vision-computing-socs-will-reshape-indias-electronics-embedded-systems-landscape)
+**Published:** Tue, 31 Mar 2026 23:30:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Binary-Code-Internet-Communication-Technology-iStock-965534050-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Vision Computing SoCs could emerge as a defining layer in India’s next phase of electronics growth. With the right ecosystem in place, the country can move beyond following global hardware trends and begin shaping the future of intelligent embedded systems. Semiconductor chips have long been the backbone of advances in emerging technologies such as AI, [&#8230;]
 
 ---
 
