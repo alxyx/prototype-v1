@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-02 09:12 UTC_
+_Last updated: 2026-04-02 16:14 UTC_
 
 ## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
 **Published:** Thu, 02 Apr 2026 02:29:03 +0000
@@ -826,6 +826,22 @@ _Last updated: 2026-04-02 09:12 UTC_
 
 ---
 
+## [Bourns Adds AEC-Q Option to SSA-2 Current Sensors](https://www.powerelectronicsnews.com/bourns-adds-aec-q-option-to-ssa-2-current-sensors/)
+**Published:** Thu, 02 Apr 2026 15:00:00 +0000
+
+<img alt="Bourns Adds AEC-Q Option to SSA-2 Current Sensors." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/bourns_ssa2_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new assembly option supports automotive compliance, PPAP workflows, and reliable operation in harsh environments.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/bourns-adds-aec-q-option-to-ssa-2-current-sensors/">Bourns Adds AEC-Q Option to SSA-2 Current Sensors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Corner: Analog Devices’ Etienne Moulin on the Convergence of Robotics and Automotive Power Requirements](https://www.powerelectronicsnews.com/power-corner-analog-devices-etienne-moulin-on-the-convergence-of-robotics-and-automotive-power-requirements/)
+**Published:** Thu, 02 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/ADI.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>Description In this episode of PEN&#8217;s Power Corner, Etienne Moulin, General Manager of High-Performance Power at Analog Devices, examines the growing convergence of robotics and...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-analog-devices-etienne-moulin-on-the-convergence-of-robotics-and-automotive-power-requirements/">Power Corner: Analog Devices’ Etienne Moulin on the Convergence of Robotics and Automotive Power Requirements</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Vitrek Introduces V10X High-Voltage Safety Tester](https://www.powerelectronicsnews.com/vitrek-introduces-v10x-high-voltage-safety-tester/)
 **Published:** Wed, 01 Apr 2026 15:00:00 +0000
 
@@ -890,22 +906,6 @@ _Last updated: 2026-04-02 09:12 UTC_
 
 ---
 
-## [Power Integrations Launches GaN-Based 440W Flyback ICs](https://www.powerelectronicsnews.com/power-integrations-launches-gan-based-440w-flyback-ics/)
-**Published:** Mon, 30 Mar 2026 13:00:00 +0000
-
-<img alt="Power Integrations Launches GaN-Based 440W Flyback ICs." class="webfeedsFeaturedVisual wp-post-image" height="1260" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/TOPSwitchGaN-PR.jpg?fit=2400%2C1260" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new devices enable high-efficiency flyback designs up to 440 W, simplifying power architectures and reducing cost and size.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-integrations-launches-gan-based-440w-flyback-ics/">Power Integrations Launches GaN-Based 440W Flyback ICs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [APEC 2026: The Race to Deliver 800 VDC Power Straight Towards the GPU](https://www.powerelectronicsnews.com/apec-2026-the-race-to-deliver-800-vdc-power-straight-to-the-gpu/)
-**Published:** Fri, 27 Mar 2026 14:01:42 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3072" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/PXL_20260322_211054531-1.jpg?fit=4080%2C3072" style="display: block; margin-bottom: 5px; clear: both;" width="4080" /><p>From Infineon to Navitas, APEC 2026 showed 800 V power converters pushing closer than ever to the AI processor.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/apec-2026-the-race-to-deliver-800-vdc-power-straight-to-the-gpu/">APEC 2026: The Race to Deliver 800 VDC Power Straight Towards the GPU</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Rohm Joins Toshiba and Mitsubishi to Create a Power Chip Titan](https://www.eetimes.com/rohm-joins-toshiba-and-mitsubishi-to-create-a-power-chip-titan/)
 **Published:** Tue, 31 Mar 2026 13:19:14 +0000
 
@@ -917,16 +917,16 @@ _Last updated: 2026-04-02 09:12 UTC_
 ## [Fujitsu to develop 1.4nm NPU](https://www.electronicsweekly.com/news/business/fujitsu-to-develop-1-4nm-npu-2026-04/)
 **Published:** Thu, 02 Apr 2026 05:24:18 +0000
 
-<p>Fujitsu has applied to Japan&#8217;s New Energy and Industrial Technology Development Organisation (NEDO) to join a  project to design and fab a 1.4nm NPU. The chip would be fabbed by ...</p>
+<p>Fujitsu has applied to Japan&#8217;s New Energy and Industrial Technology Development Organisation (NEDO) to join a project to design and fab a 1.4nm NPU. The chip would be fabbed by ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/fujitsu-to-develop-1-4nm-npu-2026-04/">Fujitsu to develop 1.4nm NPU</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [7W, 30-1200 MHz, GaN RF Input-Matched Transistor](https://www.electronicsweekly.com/news/products/power-supplies/7w-30-1200-mhz-gan-rf-input-matched-transistor-2026-04/)
+## [GaN RF input-matched transistor operates at 30-1,200MHz](https://www.electronicsweekly.com/news/products/power-supplies/7w-30-1200-mhz-gan-rf-input-matched-transistor-2026-04/)
 **Published:** Thu, 02 Apr 2026 05:18:08 +0000
 
-<p>Qorvo’s QPD1011A is a 7W (P3dB), 50-Ohm input-matched discrete GaN on SiC HEMT which operates from 30 MHz to 1200 MHz. The integrated input matching network enables wideband gain and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/7w-30-1200-mhz-gan-rf-input-matched-transistor-2026-04/">7W, 30-1200 MHz, GaN RF Input-Matched Transistor</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Qorvo’s QPD1011A is a 7W (P3dB), 50-Ohm input-matched discrete GaN on SiC HEMT, which operates from 30MHz to 1,200MHz. The integrated input matching network enables wideband gain and power performance, ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/7w-30-1200-mhz-gan-rf-input-matched-transistor-2026-04/">GaN RF input-matched transistor operates at 30-1,200MHz</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -938,11 +938,10 @@ _Last updated: 2026-04-02 09:12 UTC_
 
 ---
 
-## [Nvidia invests $2bn in Marvell for AI ASIC compatibility](https://www.electronicsweekly.com/news/business/nvidia-invests-2bn-in-marvell-for-asic-compatibility-2026-04/)
-**Published:** Wed, 01 Apr 2026 05:29:07 +0000
+## [Systems Engineering Powering Strategic Electronics](https://www.electronicsforu.com/technology-trends/systems-engineering-powering-strategic-electronics)
+**Published:** Thu, 02 Apr 2026 12:15:52 +0000
 
-<p>Nvidia is to invest $2 billion in Marvell to ensure that Marvell’s customers for datacentre ASICs have a route to compatibility with Nvidia’s computing platform. With the hyperscalers developing their own ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/nvidia-invests-2bn-in-marvell-for-asic-compatibility-2026-04/">Nvidia invests $2bn in Marvell for AI ASIC compatibility</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="Dr Balbadra Kishore during OEW" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Dr-Balbadra-Kishore-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From space and defence to medical and avionics, systems engineering unifies design, manufacturing and reliability to deliver mission-ready electronics at scale. Based on my experience, systems engineering adds significant value to strategic electronic systems and products. To utilise systems engineering effectively in productionizing value-added products and services, it is essential to understand the basic definition [&#8230;]
 
 ---
 
@@ -950,13 +949,6 @@ _Last updated: 2026-04-02 09:12 UTC_
 **Published:** Thu, 02 Apr 2026 07:42:51 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/stembotix-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Gandhinagar Company: STEMbotix Role Overview The Embedded Systems Intern will support the design, development, and testing of embedded systems for robotics, drones, IoT-based products, and AI-integrated technologies. This role is ideal for students or freshers eager to explore Embedded Systems, Robotics, and AI/ML in a practical environment. Key Responsibilities Assist [&#8230;]
-
----
-
-## [Robotics without sensors or processors](https://www.electronicsforu.com/news/robotics-without-sensors-or-processors)
-**Published:** Thu, 02 Apr 2026 07:40:27 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Screenshot-2026-04-02-at-1.06.09-PM-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if robots could move and organize without code or electronics? These particles do this using shape and vibration to create coordinated behavior. Researchers at Georgia Institute of Technology have developed robotic particles that can move, connect, and reorganize without using any electronics. There are no sensors, processors, or code involved. Their behavior is defined [&#8230;]
 
 ---
 
