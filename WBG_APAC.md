@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-02 16:14 UTC_
+_Last updated: 2026-04-02 18:05 UTC_
 
 ## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
 **Published:** Thu, 02 Apr 2026 02:29:03 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-04-02 16:14 UTC_
 
 ---
 
+## [Mitsubishi Electric Enters ROHM–Toshiba Chip Integration Talks](https://www.powerelectronicsnews.com/mitsubishi-electric-enters-rohm-toshiba-chip-integration-talks/)
+**Published:** Thu, 02 Apr 2026 17:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5265" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_1482937173-1.jpeg?fit=8178%2C5265" style="display: block; margin-bottom: 5px; clear: both;" width="8178" /><p>Five companies begin talks to combine semiconductor and power device operations, aiming to build a globally competitive Japanese chip business.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/mitsubishi-electric-enters-rohm-toshiba-chip-integration-talks/">Mitsubishi Electric Enters ROHM–Toshiba Chip Integration Talks</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Bourns Adds AEC-Q Option to SSA-2 Current Sensors](https://www.powerelectronicsnews.com/bourns-adds-aec-q-option-to-ssa-2-current-sensors/)
 **Published:** Thu, 02 Apr 2026 15:00:00 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2026-04-02 16:14 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/figure-00-power-course-2.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>In this installment of the course, we analyze one of the core elements of any power system: the regulated power supply. Starting from the single-phase...</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-07-rectifier-diodes/">Power Electronics Course with QSPICE (Episode 07): Rectifier Diodes</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [APEC 2026: “Year Zero” of Practical Commercially-Available BDS](https://www.powerelectronicsnews.com/apec-2026-year-zero-of-practical-commercially-available-bds/)
-**Published:** Mon, 30 Mar 2026 15:30:34 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3333" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_504493461.jpeg?fit=5000%2C3333" style="display: block; margin-bottom: 5px; clear: both;" width="5000" /><p>The bidirectional switch (BDS) has been a concept since the 1980s, enabling topologies such as matrix converters, current-source inverters (CSIs), and single-stage AC-DC converters. However,...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/apec-2026-year-zero-of-practical-commercially-available-bds/">APEC 2026: “Year Zero” of Practical Commercially-Available BDS</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
