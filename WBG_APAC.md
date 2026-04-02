@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-02 18:05 UTC_
+_Last updated: 2026-04-02 19:10 UTC_
 
 ## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
 **Published:** Thu, 02 Apr 2026 02:29:03 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-04-02 18:05 UTC_
 
 <p>Covering a significant portion of Poland's semiconductor value chain, Pomerania is emerging as one of the fastest-growing technology hubs in Central Europe.</p>
 <p>The post <a href="https://www.eetasia.com/poland-at-the-center-of-the-global-semiconductor-race/">Poland at the Center of the Global Semiconductor Race</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [C-Hawk Expands Southeast Asia Manufacturing Capabilities and Capacity with New Malaysia and Vietnam Facilities](https://www.semiconductor-digest.com/c-hawk-expands-southeast-asia-manufacturing-capabilities-and-capacity-with-new-malaysia-and-vietnam-facilities/?utm_source=rss&utm_medium=rss&utm_campaign=c-hawk-expands-southeast-asia-manufacturing-capabilities-and-capacity-with-new-malaysia-and-vietnam-facilities)
+**Published:** Thu, 02 Apr 2026 18:40:23 +0000
+
+<p>New facilities enhance advanced manufacturing capabilities and capacity—including the addition of UHP orbital/TIG welding and PFA tube bending—to support semiconductor manufacturing in the high-growth Southeast Asia market.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/c-hawk-expands-southeast-asia-manufacturing-capabilities-and-capacity-with-new-malaysia-and-vietnam-facilities/">C-Hawk Expands Southeast Asia Manufacturing Capabilities and Capacity with New Malaysia and Vietnam Facilities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [IBM Announces Strategic Collaboration with Arm](https://www.semiconductor-digest.com/ibm-announces-strategic-collaboration-with-arm/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-announces-strategic-collaboration-with-arm)
+**Published:** Thu, 02 Apr 2026 18:36:30 +0000
+
+<p>IBM today announced a strategic collaboration with Arm to develop new dual‑architecture hardware that helps enterprises run future AI and data intensive workloads with greater flexibility, reliability, and security.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ibm-announces-strategic-collaboration-with-arm/">IBM Announces Strategic Collaboration with Arm</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Graphene ‘Nano-Aquariums’ Reveal Atoms’ Hidden Life in Liquids](https://www.semiconductor-digest.com/graphene-nano-aquariums-reveal-atoms-hidden-life-in-liquids/?utm_source=rss&utm_medium=rss&utm_campaign=graphene-nano-aquariums-reveal-atoms-hidden-life-in-liquids)
+**Published:** Thu, 02 Apr 2026 18:24:37 +0000
+
+<p>Published in Science, the team demonstrated the first atomic‑resolution imaging of atomic behaviour at solid–liquid interfaces in a broad range of non‑aqueous (organic) solvents.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/graphene-nano-aquariums-reveal-atoms-hidden-life-in-liquids/">Graphene ‘Nano-Aquariums’ Reveal Atoms’ Hidden Life in Liquids</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [PrismML Launches World’s First 1-Bit AI Model to Redefine Intelligence at the Edge](https://www.semiconductor-digest.com/prismml-launches-worlds-first-1-bit-ai-model-to-redefine-intelligence-at-the-edge/?utm_source=rss&utm_medium=rss&utm_campaign=prismml-launches-worlds-first-1-bit-ai-model-to-redefine-intelligence-at-the-edge)
+**Published:** Thu, 02 Apr 2026 18:14:28 +0000
+
+<p>PrismML today emerged from stealth to introduce the world’s first commercially viable 1-bit large language models, built on groundbreaking research developed at Caltech.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/prismml-launches-worlds-first-1-bit-ai-model-to-redefine-intelligence-at-the-edge/">PrismML Launches World&#8217;s First 1-Bit AI Model to Redefine Intelligence at the Edge</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,38 +823,6 @@ _Last updated: 2026-04-02 18:05 UTC_
 
 <p>As electronic computing reaches its physical and thermal limits, silicon photonics offers a sustainable path forward. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/beyond-moores-law-why-the-next-era-of-computing-will-be-powered-by-light/">Beyond Moore&#8217;s Law: Why the Next Era of Computing Will Be Powered by Light</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Siemens Accelerates IC Design and Verification with Agentic AI in Questa One](https://www.semiconductor-digest.com/siemens-accelerates-ic-design-and-verification-with-agentic-ai-in-questa-one/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-accelerates-ic-design-and-verification-with-agentic-ai-in-questa-one)
-**Published:** Fri, 27 Feb 2026 14:40:14 +0000
-
-<p>Siemens announced the Questa One Agentic Toolkit, which brings domain scoped agentic AI workflows to its Questa™ One smart verification software portfolio to accelerate creation, verification planning, execution, debugging and closure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-accelerates-ic-design-and-verification-with-agentic-ai-in-questa-one/">Siemens Accelerates IC Design and Verification with Agentic AI in Questa One</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Kurtz Ersa Goes Semiconductor](https://www.semiconductor-digest.com/kurtz-ersa-goes-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=kurtz-ersa-goes-semiconductor)
-**Published:** Fri, 27 Feb 2026 14:27:43 +0000
-
-<p>ATV Technologie GmbH officially became part of the Kurtz Ersa Group and will operate under the new name Kurtz Ersa Semicon GmbH.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kurtz-ersa-goes-semiconductor/">Kurtz Ersa Goes Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AI-Powered Design Automation is Redefining Chip Engineering and Silicon Innovation](https://www.semiconductor-digest.com/ai-powered-design-automation-is-redefining-chip-engineering-and-silicon-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=ai-powered-design-automation-is-redefining-chip-engineering-and-silicon-innovation)
-**Published:** Fri, 27 Feb 2026 14:19:38 +0000
-
-<p>From predictive semiconductor design tools to AI accelerators and data center ASIC optimization, artificial intelligence is redefining how chips are imagined, built, and deployed.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ai-powered-design-automation-is-redefining-chip-engineering-and-silicon-innovation/">AI-Powered Design Automation is Redefining Chip Engineering and Silicon Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rogue Valley Microdevices Completes Deal with Bridge Tronic](https://www.semiconductor-digest.com/rogue-valley-microdevices-completes-deal-with-bridge-tronic/?utm_source=rss&utm_medium=rss&utm_campaign=rogue-valley-microdevices-completes-deal-with-bridge-tronic)
-**Published:** Fri, 27 Feb 2026 14:10:38 +0000
-
-<p>Rogue Valley Microdevices (RVM) marks major milestones in the build-out of its new 50,000 sq-ft microfabrication facility in Palm Bay, Florida.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rogue-valley-microdevices-completes-deal-with-bridge-tronic/">Rogue Valley Microdevices Completes Deal with Bridge Tronic</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
