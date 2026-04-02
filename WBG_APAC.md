@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-01 18:05 UTC_
+_Last updated: 2026-04-02 09:12 UTC_
+
+## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
+**Published:** Thu, 02 Apr 2026 02:29:03 +0000
+
+<p>Worldwide 300mm fab equipment spending is expected to increase by 18% to $133 billion in 2026 and by 14% to $151 billion in 2027, according to SEMI&#8217;s latest 300mm Fab Outlook. This strong growth reflects surging AI chip demand for data centers and edge devices, as well as the growing commitment to semiconductor self-sufficiency across [&#8230;]</p>
+<p>The post <a href="https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/">SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Taiwan Advances WBG Strategy Through Integrated Power Device and System-Level Innovation](https://www.eetasia.com/taiwan-advances-wbg-strategy-through-integrated-power-device-and-system-level-innovation/)
+**Published:** Thu, 02 Apr 2026 02:14:16 +0000
+
+<p>Taiwan is strengthening its WBG leadership by integrating GaN and SiC devices into advanced power system applications.</p>
+<p>The post <a href="https://www.eetasia.com/taiwan-advances-wbg-strategy-through-integrated-power-device-and-system-level-innovation/">Taiwan Advances WBG Strategy Through Integrated Power Device and System-Level Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Poland at the Center of the Global Semiconductor Race](https://www.eetasia.com/poland-at-the-center-of-the-global-semiconductor-race/)
 **Published:** Wed, 01 Apr 2026 06:47:44 +0000
@@ -10,19 +26,43 @@ _Last updated: 2026-04-01 18:05 UTC_
 
 ---
 
-## [Keysight Launches Hands-On Semiconductor Teaching Labs for Universities](https://www.eetasia.com/keysight-launches-hands-on-semiconductor-teaching-labs-for-universities/)
-**Published:** Mon, 30 Mar 2026 03:10:26 +0000
+## [Soft Sensor Gives Robots a Better Sense of Touch](https://www.semiconductor-digest.com/soft-sensor-gives-robots-a-better-sense-of-touch/?utm_source=rss&utm_medium=rss&utm_campaign=soft-sensor-gives-robots-a-better-sense-of-touch)
+**Published:** Wed, 01 Apr 2026 20:42:29 +0000
 
-<p>Keysight's teaching lab solutions aim to help universities prepare students for careers in the global semiconductor industry.</p>
-<p>The post <a href="https://www.eetasia.com/keysight-launches-hands-on-semiconductor-teaching-labs-for-universities/">Keysight Launches Hands-On Semiconductor Teaching Labs for Universities</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>A new soft sensing system could help humanoid robots move their hands with far greater precision in delicate, human-like tasks.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/soft-sensor-gives-robots-a-better-sense-of-touch/">Soft Sensor Gives Robots a Better Sense of Touch</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [DG Matrix Solid-state Transformer Platform Utilizes Infineon SiC Devices](https://www.eetasia.com/dg-matrix-solid-state-transformer-platform-utilizes-infineon-sic-devices/)
-**Published:** Mon, 30 Mar 2026 02:52:26 +0000
+## [Tower Semiconductor Announces Plans to Expand 300mm Capacity in Japan](https://www.semiconductor-digest.com/tower-semiconductor-announces-plans-to-expand-300mm-capacity-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-announces-plans-to-expand-300mm-capacity-in-japan)
+**Published:** Wed, 01 Apr 2026 20:26:17 +0000
 
-<p>DG Matrix will source latest-generation SiC MOSFETs from Infineon for use in its Interport multi-port solid-state transformer platform.</p>
-<p>The post <a href="https://www.eetasia.com/dg-matrix-solid-state-transformer-platform-utilizes-infineon-sic-devices/">DG Matrix Solid-state Transformer Platform Utilizes Infineon SiC Devices</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>As part of this strategic restructuring, the companies will enter into mutual long-term supply agreements.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-announces-plans-to-expand-300mm-capacity-in-japan/">Tower Semiconductor Announces Plans to Expand 300mm Capacity in Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Lapse in Key Digital Trade Measure Undermines Economic Growth, Innovation](https://www.semiconductor-digest.com/lapse-in-key-digital-trade-measure-undermines-economic-growth-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=lapse-in-key-digital-trade-measure-undermines-economic-growth-innovation)
+**Published:** Wed, 01 Apr 2026 19:48:51 +0000
+
+<p>Semiconductor Industry Association President and CEO John Neuffer today expressed disappointment trade negotiators from around the world failed to reach an agreement to permanently prohibit duties on digital trade during last week’s World Trade Organization (WTO) Ministerial Conference in Yaoundé, Cameroon.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lapse-in-key-digital-trade-measure-undermines-economic-growth-innovation/">Lapse in Key Digital Trade Measure Undermines Economic Growth, Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Projects Double-Digit Growth in Global 300mm Fab Equipment Spending for 2026 and 2027](https://www.semiconductor-digest.com/semi-projects-double-digit-growth-in-global-300mm-fab-equipment-spending-for-2026-and-2027/?utm_source=rss&utm_medium=rss&utm_campaign=semi-projects-double-digit-growth-in-global-300mm-fab-equipment-spending-for-2026-and-2027)
+**Published:** Wed, 01 Apr 2026 19:18:59 +0000
+
+<p>Worldwide 300mm fab equipment spending is expected to increase 18% to $133 billion in 2026 and 14% to $151 billion in 2027, SEMI reported today in its latest 300mm Fab Outlook.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-projects-double-digit-growth-in-global-300mm-fab-equipment-spending-for-2026-and-2027/">SEMI Projects Double-Digit Growth in Global 300mm Fab Equipment Spending for 2026 and 2027</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Intel to Repurchase 49% Equity Interest in Ireland Fab Joint Venture](https://www.semiconductor-digest.com/intel-to-repurchase-49-equity-interest-in-ireland-fab-joint-venture/?utm_source=rss&utm_medium=rss&utm_campaign=intel-to-repurchase-49-equity-interest-in-ireland-fab-joint-venture)
+**Published:** Wed, 01 Apr 2026 19:07:04 +0000
+
+<p>Intel Corporation and Apollo today announced a definitive agreement for Intel to repurchase the 49% equity interest in the joint venture related to Intel’s Fab 34 in Ireland not held by Intel for $14.2 billion.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/intel-to-repurchase-49-equity-interest-in-ireland-fab-joint-venture/">Intel to Repurchase 49% Equity Interest in Ireland Fab Joint Venture</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -786,46 +826,6 @@ _Last updated: 2026-04-01 18:05 UTC_
 
 ---
 
-## [James Redstone Joins SIA as Director of Government Affairs](https://www.semiconductor-digest.com/james-redstone-joins-sia-as-director-of-government-affairs/?utm_source=rss&utm_medium=rss&utm_campaign=james-redstone-joins-sia-as-director-of-government-affairs)
-**Published:** Thu, 26 Feb 2026 14:52:53 +0000
-
-<p>The Semiconductor Industry Association (SIA) today announced James Redstone has joined the association as director of government affairs. In this role, Redstone will work with Congress, the White House, and federal agencies to advance the industry’s policy priorities. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/james-redstone-joins-sia-as-director-of-government-affairs/">James Redstone Joins SIA as Director of Government Affairs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [First AI-Driven SoC Verification Solution Created](https://www.semiconductor-digest.com/first-ai-driven-soc-verification-solution-created/?utm_source=rss&utm_medium=rss&utm_campaign=first-ai-driven-soc-verification-solution-created)
-**Published:** Thu, 26 Feb 2026 14:30:06 +0000
-
-<p>Breker Verification Systems and Moores LabAI formalized a partnership to create the first AI-driven SoC verification flow integrating Breker’s Trek Test Suite Synthesis with Moores Lab agentic AI technology.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/first-ai-driven-soc-verification-solution-created/">First AI-Driven SoC Verification Solution Created</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Reduce and Reuse in the Fab for a More Sustainable Future](https://www.semiconductor-digest.com/reduce-and-reuse-in-the-fab-for-a-more-sustainable-future/?utm_source=rss&utm_medium=rss&utm_campaign=reduce-and-reuse-in-the-fab-for-a-more-sustainable-future)
-**Published:** Thu, 26 Feb 2026 14:22:06 +0000
-
-<p>We have created design of experiments (DOEs) around the chemical concentrations used in wet benches to gain a deeper insight into how we can improve efficiency and make the wafer-cleaning process more sustainable.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/reduce-and-reuse-in-the-fab-for-a-more-sustainable-future/">Reduce and Reuse in the Fab for a More Sustainable Future</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Imec Unlocks Lever for EUV Dose Reduction](https://www.semiconductor-digest.com/imec-unlocks-lever-for-euv-dose-reduction/?utm_source=rss&utm_medium=rss&utm_campaign=imec-unlocks-lever-for-euv-dose-reduction)
-**Published:** Wed, 25 Feb 2026 20:16:08 +0000
-
-<p>The findings reveal that controlling gas composition, especially oxygen levels, during critical lithography steps dramatically optimizes metal-oxide resist performance for next-generation, high-throughput EUV patterning.  </p>
-<p>The post <a href="https://www.semiconductor-digest.com/imec-unlocks-lever-for-euv-dose-reduction/">Imec Unlocks Lever for EUV Dose Reduction</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AI-Driven Device Scaling Fuels Next Phase of CMP Consumables Growth](https://www.semiconductor-digest.com/ai-driven-device-scaling-fuels-next-phase-of-cmp-consumables-growth/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-device-scaling-fuels-next-phase-of-cmp-consumables-growth)
-**Published:** Wed, 25 Feb 2026 19:40:09 +0000
-
-<p>TechInsights reports that combined CMP slurry and pad revenues totaled approximately $3.8 billion in 2025 and are projected to grow 10.3% in 2026 to roughly $4.2 billion. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/ai-driven-device-scaling-fuels-next-phase-of-cmp-consumables-growth/">AI-Driven Device Scaling Fuels Next Phase of CMP Consumables Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Vitrek Introduces V10X High-Voltage Safety Tester](https://www.powerelectronicsnews.com/vitrek-introduces-v10x-high-voltage-safety-tester/)
 **Published:** Wed, 01 Apr 2026 15:00:00 +0000
 
@@ -914,6 +914,22 @@ _Last updated: 2026-04-01 18:05 UTC_
 
 ---
 
+## [Fujitsu to develop 1.4nm NPU](https://www.electronicsweekly.com/news/business/fujitsu-to-develop-1-4nm-npu-2026-04/)
+**Published:** Thu, 02 Apr 2026 05:24:18 +0000
+
+<p>Fujitsu has applied to Japan&#8217;s New Energy and Industrial Technology Development Organisation (NEDO) to join a  project to design and fab a 1.4nm NPU. The chip would be fabbed by ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/fujitsu-to-develop-1-4nm-npu-2026-04/">Fujitsu to develop 1.4nm NPU</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [7W, 30-1200 MHz, GaN RF Input-Matched Transistor](https://www.electronicsweekly.com/news/products/power-supplies/7w-30-1200-mhz-gan-rf-input-matched-transistor-2026-04/)
+**Published:** Thu, 02 Apr 2026 05:18:08 +0000
+
+<p>Qorvo’s QPD1011A is a 7W (P3dB), 50-Ohm input-matched discrete GaN on SiC HEMT which operates from 30 MHz to 1200 MHz. The integrated input matching network enables wideband gain and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/7w-30-1200-mhz-gan-rf-input-matched-transistor-2026-04/">7W, 30-1200 MHz, GaN RF Input-Matched Transistor</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [EW BrightSparks 2025 profile: Osian Jones, Compound Semiconductor Catapult](https://www.electronicsweekly.com/news/ew-brightsparks-2025-profile-osian-jones-compound-semiconductor-catapult-2026-04/)
 **Published:** Wed, 01 Apr 2026 09:27:49 +0000
 
@@ -930,19 +946,17 @@ _Last updated: 2026-04-01 18:05 UTC_
 
 ---
 
-## [2026 semiconductor capex to increase 20% YoY](https://www.electronicsweekly.com/news/business/semiconductor-capex-2026-04/)
-**Published:** Wed, 01 Apr 2026 05:27:56 +0000
+## [Embedded Intern At STEMbotix In Gandhinagar](https://www.electronicsforu.com/career/embedded-intern-stembotix-gandhinagar)
+**Published:** Thu, 02 Apr 2026 07:42:51 +0000
 
-<p>Semiconductor industry capex was $166 billion in 2025, up 7% YoY, says Semiconductor Intelligence (SI). SI estimates 2026 capex will be $200 billion, up 20% from 2025. TSMC was the ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/semiconductor-capex-2026-04/">2026 semiconductor capex to increase 20% YoY</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/stembotix-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Gandhinagar Company: STEMbotix Role Overview The Embedded Systems Intern will support the design, development, and testing of embedded systems for robotics, drones, IoT-based products, and AI-integrated technologies. This role is ideal for students or freshers eager to explore Embedded Systems, Robotics, and AI/ML in a practical environment. Key Responsibilities Assist [&#8230;]
 
 ---
 
-## [ESA awards OHB Sweden the EPS‑Sterna constellation contract](https://www.electronicsweekly.com/news/esa-awards-ohb-sweden-the-eps%e2%80%91sterna-satellite-constellation-contract-2026-03/)
-**Published:** Tue, 31 Mar 2026 15:31:24 +0000
+## [Robotics without sensors or processors](https://www.electronicsforu.com/news/robotics-without-sensors-or-processors)
+**Published:** Thu, 02 Apr 2026 07:40:27 +0000
 
-<p>The European Space Agency (ESA) has selected OHB Sweden to build 20 small satellites for the EUMETSAT Polar System &#8211; Sterna (EPS‑Sterna) constellation. EUMETSAT is the European Organisation for the ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/esa-awards-ohb-sweden-the-eps%e2%80%91sterna-satellite-constellation-contract-2026-03/">ESA awards OHB Sweden the EPS‑Sterna constellation contract</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Screenshot-2026-04-02-at-1.06.09-PM-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if robots could move and organize without code or electronics? These particles do this using shape and vibration to create coordinated behavior. Researchers at Georgia Institute of Technology have developed robotic particles that can move, connect, and reorganize without using any electronics. There are no sensors, processors, or code involved. Their behavior is defined [&#8230;]
 
 ---
 
