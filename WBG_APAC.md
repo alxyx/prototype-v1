@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-03 15:53 UTC_
+_Last updated: 2026-04-03 19:51 UTC_
 
 ## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
 **Published:** Thu, 02 Apr 2026 02:29:03 +0000
@@ -23,6 +23,30 @@ _Last updated: 2026-04-03 15:53 UTC_
 
 <p>Covering a significant portion of Poland's semiconductor value chain, Pomerania is emerging as one of the fastest-growing technology hubs in Central Europe.</p>
 <p>The post <a href="https://www.eetasia.com/poland-at-the-center-of-the-global-semiconductor-race/">Poland at the Center of the Global Semiconductor Race</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Cohu Announces $30 Million Follow-On Orders for High-Performance Computing Test](https://www.semiconductor-digest.com/cohu-announces-30-million-follow-on-orders-for-high-performance-computing-test/?utm_source=rss&utm_medium=rss&utm_campaign=cohu-announces-30-million-follow-on-orders-for-high-performance-computing-test)
+**Published:** Fri, 03 Apr 2026 18:33:12 +0000
+
+<p>Cohu, Inc. today announced that two customers have placed follow-on orders totaling $30 million for the Eclipse platform.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cohu-announces-30-million-follow-on-orders-for-high-performance-computing-test/">Cohu Announces $30 Million Follow-On Orders for High-Performance Computing Test</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ACM Research Introduces ACM Planetary Family Product Portfolio Structure](https://www.semiconductor-digest.com/acm-research-introduces-acm-planetary-family-product-portfolio-structure/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-introduces-acm-planetary-family-product-portfolio-structure)
+**Published:** Fri, 03 Apr 2026 18:09:54 +0000
+
+<p>New portfolio structure reinforces ACM’s customer‑centric approach across core process technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/acm-research-introduces-acm-planetary-family-product-portfolio-structure/">ACM Research Introduces ACM Planetary Family Product Portfolio Structure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [CEA-Leti, CEA-List and PSMC Collaborate to Integrate  RISC-V and MicroLED Silicon Photonics into 3D Stacking  and Interposer for Next-Generation AI](https://www.semiconductor-digest.com/cea-leti-cea-list-and-psmc-collaborate-to-integrate-risc-v-and-microled-silicon-photonics-into-3d-stacking-and-interposer-for-next-generation-ai/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-cea-list-and-psmc-collaborate-to-integrate-risc-v-and-microled-silicon-photonics-into-3d-stacking-and-interposer-for-next-generation-ai)
+**Published:** Fri, 03 Apr 2026 18:03:08 +0000
+
+<p>The two flagship institutes of the French Alternative Energies and Atomic Energy Commission (CEA) are global innovation leaders in microelectronics and intelligent digital systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-cea-list-and-psmc-collaborate-to-integrate-risc-v-and-microled-silicon-photonics-into-3d-stacking-and-interposer-for-next-generation-ai/">CEA-Leti, CEA-List and PSMC Collaborate to Integrate  RISC-V and MicroLED Silicon Photonics into 3D Stacking  and Interposer for Next-Generation AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -802,27 +826,11 @@ _Last updated: 2026-04-03 15:53 UTC_
 
 ---
 
-## [Engineering Considerations for Flexible Heaters in Semiconductor Fabrication](https://www.semiconductor-digest.com/engineering-considerations-for-flexible-heaters-in-semiconductor-fabrication/?utm_source=rss&utm_medium=rss&utm_campaign=engineering-considerations-for-flexible-heaters-in-semiconductor-fabrication)
-**Published:** Mon, 02 Mar 2026 14:41:49 +0000
+## [Infineon Launches TLVR Quad-Phase AI Power Module](https://www.powerelectronicsnews.com/infineon-launches-tlvr-quad-phase-ai-power-module/)
+**Published:** Fri, 03 Apr 2026 17:00:00 +0000
 
-<p>The choice of heater material, bonding method, circuit architecture and sensor choice can influence overall effectiveness, longevity and thermal precision.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/engineering-considerations-for-flexible-heaters-in-semiconductor-fabrication/">Engineering Considerations for Flexible Heaters in Semiconductor Fabrication</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rapidus Secures $1.7B in Funding](https://www.semiconductor-digest.com/rapidus-secures-1-7b-in-funding/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-secures-1-7b-in-funding)
-**Published:** Fri, 27 Feb 2026 16:21:31 +0000
-
-<p>This funding plan will enable Rapidus to steadily progress from its current R&#038;D phase to mass production of 2nm logic semiconductors by 2027</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rapidus-secures-1-7b-in-funding/">Rapidus Secures $1.7B in Funding</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Beyond Moore’s Law: Why the Next Era of Computing Will Be Powered by Light](https://www.semiconductor-digest.com/beyond-moores-law-why-the-next-era-of-computing-will-be-powered-by-light/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-moores-law-why-the-next-era-of-computing-will-be-powered-by-light)
-**Published:** Fri, 27 Feb 2026 14:48:38 +0000
-
-<p>As electronic computing reaches its physical and thermal limits, silicon photonics offers a sustainable path forward. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/beyond-moores-law-why-the-next-era-of-computing-will-be-powered-by-light/">Beyond Moore&#8217;s Law: Why the Next Era of Computing Will Be Powered by Light</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Infineon Launches TLVR Quad-Phase AI Power Module." class="webfeedsFeaturedVisual wp-post-image" height="1196" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Infineon_PR.jpg?fit=2126%2C1196" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>Quad-phase module with TLVR boosts current density and transient response, enabling compact, efficient power delivery for AI processors.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-launches-tlvr-quad-phase-ai-power-module/">Infineon Launches TLVR Quad-Phase AI Power Module</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -895,14 +903,6 @@ _Last updated: 2026-04-03 15:53 UTC_
 
 <img alt="Diodes Unveils 100V MOSFETs in PowerDI8080-5 Package." class="webfeedsFeaturedVisual wp-post-image" height="690" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/DIO1128_image_PowerDI8080_DMTHxxxxSPGWQ.jpg?fit=900%2C690" style="display: block; margin-bottom: 5px; clear: both;" width="900" /><p>These low RDS(on) MOSFETs, available in a compact PowerDI8080-5 package, target high-efficiency 48V automotive systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/diodes-unveils-100v-mosfets-in-powerdi8080-5-package/">Diodes Unveils 100V MOSFETs in PowerDI8080-5 Package</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Vertical GaN simplifies 800V OBC design topologies](https://www.powerelectronicsnews.com/vertical-gan-simplifies-800v-obc-design-topologies/)
-**Published:** Wed, 01 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3894" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_335302894-1.jpeg?fit=5841%2C3894" style="display: block; margin-bottom: 5px; clear: both;" width="5841" /><p>Electric vehicle power systems are pushing higher voltages to achieve faster charging and better efficiency. Modern designs adopt 800 V architectures to enable high-power charging...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vertical-gan-simplifies-800v-obc-design-topologies/">Vertical GaN simplifies 800V OBC design topologies</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
