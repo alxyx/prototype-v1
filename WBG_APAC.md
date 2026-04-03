@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-02 21:51 UTC_
+_Last updated: 2026-04-03 05:24 UTC_
 
 ## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
 **Published:** Thu, 02 Apr 2026 02:29:03 +0000
@@ -906,11 +906,11 @@ _Last updated: 2026-04-02 21:51 UTC_
 
 ---
 
-## [Rohm Joins Toshiba and Mitsubishi to Create a Power Chip Titan](https://www.eetimes.com/rohm-joins-toshiba-and-mitsubishi-to-create-a-power-chip-titan/)
-**Published:** Tue, 31 Mar 2026 13:19:14 +0000
+## [From MOUs to Markets: Transatlantic Deals Face Reality Test](https://www.eetimes.com/from-mous-to-markets-transatlantic-deals-face-reality-test/)
+**Published:** Thu, 02 Apr 2026 22:00:00 +0000
 
-<p>The tie-up could bolster Japan’s global semiconductor footprint and address fragmented IC markets.</p>
-<p>The post <a href="https://www.eetimes.com/rohm-joins-toshiba-and-mitsubishi-to-create-a-power-chip-titan/">Rohm Joins Toshiba and Mitsubishi to Create a Power Chip Titan</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Why transatlantic execution, not transatlantic symbolism, now matters to the electronics and semiconductor supply chain.</p>
+<p>The post <a href="https://www.eetimes.com/from-mous-to-markets-transatlantic-deals-face-reality-test/">From MOUs to Markets: Transatlantic Deals Face Reality Test</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -942,13 +942,6 @@ _Last updated: 2026-04-02 21:51 UTC_
 **Published:** Thu, 02 Apr 2026 12:15:52 +0000
 
 <img alt="Dr Balbadra Kishore during OEW" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Dr-Balbadra-Kishore-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From space and defence to medical and avionics, systems engineering unifies design, manufacturing and reliability to deliver mission-ready electronics at scale. Based on my experience, systems engineering adds significant value to strategic electronic systems and products. To utilise systems engineering effectively in productionizing value-added products and services, it is essential to understand the basic definition [&#8230;]
-
----
-
-## [Embedded Intern At STEMbotix In Gandhinagar](https://www.electronicsforu.com/career/embedded-intern-stembotix-gandhinagar)
-**Published:** Thu, 02 Apr 2026 07:42:51 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/stembotix-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Gandhinagar Company: STEMbotix Role Overview The Embedded Systems Intern will support the design, development, and testing of embedded systems for robotics, drones, IoT-based products, and AI-integrated technologies. This role is ideal for students or freshers eager to explore Embedded Systems, Robotics, and AI/ML in a practical environment. Key Responsibilities Assist [&#8230;]
 
 ---
 
