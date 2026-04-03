@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-03 05:24 UTC_
+_Last updated: 2026-04-03 07:23 UTC_
 
 ## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
 **Published:** Thu, 02 Apr 2026 02:29:03 +0000
@@ -919,22 +919,6 @@ _Last updated: 2026-04-03 05:24 UTC_
 
 <p>Fujitsu has applied to Japan&#8217;s New Energy and Industrial Technology Development Organisation (NEDO) to join a project to design and fab a 1.4nm NPU. The chip would be fabbed by ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/fujitsu-to-develop-1-4nm-npu-2026-04/">Fujitsu to develop 1.4nm NPU</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [GaN RF input-matched transistor operates at 30-1,200MHz](https://www.electronicsweekly.com/news/products/power-supplies/7w-30-1200-mhz-gan-rf-input-matched-transistor-2026-04/)
-**Published:** Thu, 02 Apr 2026 05:18:08 +0000
-
-<p>Qorvo’s QPD1011A is a 7W (P3dB), 50-Ohm input-matched discrete GaN on SiC HEMT, which operates from 30MHz to 1,200MHz. The integrated input matching network enables wideband gain and power performance, ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/7w-30-1200-mhz-gan-rf-input-matched-transistor-2026-04/">GaN RF input-matched transistor operates at 30-1,200MHz</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [EW BrightSparks 2025 profile: Osian Jones, Compound Semiconductor Catapult](https://www.electronicsweekly.com/news/ew-brightsparks-2025-profile-osian-jones-compound-semiconductor-catapult-2026-04/)
-**Published:** Wed, 01 Apr 2026 09:27:49 +0000
-
-<p>Now in its eighth year, the EW BrightSparks awards see Electronics Weekly celebrate some of the brightest and most talented young engineers in the UK today. In the next in our ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/ew-brightsparks-2025-profile-osian-jones-compound-semiconductor-catapult-2026-04/">EW BrightSparks 2025 profile: Osian Jones, Compound Semiconductor Catapult</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
