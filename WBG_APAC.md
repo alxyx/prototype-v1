@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-03 07:23 UTC_
+_Last updated: 2026-04-03 15:53 UTC_
 
 ## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
 **Published:** Thu, 02 Apr 2026 02:29:03 +0000
@@ -826,6 +826,30 @@ _Last updated: 2026-04-03 07:23 UTC_
 
 ---
 
+## [ST Introduces STripFET F8 MOSFET Series for Automotive](https://www.powerelectronicsnews.com/st-introduces-stripfet-f8-mosfet-series-for-automotive/)
+**Published:** Fri, 03 Apr 2026 15:00:00 +0000
+
+<img alt="ST Introduces STripFET F8 MOSFET Series for Automotive." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/N4768I-Mar-31-2026-Smart-STripFET-F8_PR-IMAGE.jpg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>New MOSFET series improves efficiency and thermal performance while reducing footprint in automotive power and battery systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-stripfet-f8-mosfet-series-for-automotive/">ST Introduces STripFET F8 MOSFET Series for Automotive</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [APEC 2026, Vertical GaN in OBC Design, Rectifier Diode Simulation in QSPICE: Power Electronics Week Insights](https://www.powerelectronicsnews.com/apec-2026-vertical-gan-in-obc-design-rectifier-diode-simulation-in-qspice-power-electronics-week-insights/)
+**Published:** Fri, 03 Apr 2026 13:30:47 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on APEC 2026, Vertical GaN in OBC Design, and Rectifier Diode Simulation in QSPICE!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/apec-2026-vertical-gan-in-obc-design-rectifier-diode-simulation-in-qspice-power-electronics-week-insights/">APEC 2026, Vertical GaN in OBC Design, Rectifier Diode Simulation in QSPICE: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Reliability of the SiO2/SiC Interface in SiC Power Transistors](https://www.powerelectronicsnews.com/reliability-of-the-sio2-sic-interface-in-sic-power-transistors/)
+**Published:** Fri, 03 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_1514059968.jpeg?fit=8000%2C4500" style="display: block; margin-bottom: 5px; clear: both;" width="8000" /><p>The role of the SiO2/SiC interface in SiC transistors, focusing on the lattice defects and chemical challenges that impact performance.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/reliability-of-the-sio2-sic-interface-in-sic-power-transistors/">Reliability of the SiO2/SiC Interface in SiC Power Transistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Mitsubishi Electric Enters ROHM–Toshiba Chip Integration Talks](https://www.powerelectronicsnews.com/mitsubishi-electric-enters-rohm-toshiba-chip-integration-talks/)
 **Published:** Thu, 02 Apr 2026 17:00:00 +0000
 
@@ -882,30 +906,6 @@ _Last updated: 2026-04-03 07:23 UTC_
 
 ---
 
-## [Panasonic Unveils High-Precision Thick-Film Resistors](https://www.powerelectronicsnews.com/panasonic-unveils-high-precision-thick-film-resistors/)
-**Published:** Tue, 31 Mar 2026 15:00:00 +0000
-
-<img alt="Panasonic Unveils High-Precision Thick-Film Resistors." class="webfeedsFeaturedVisual wp-post-image" height="1028" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/ERJPC31608.png?fit=1317%2C1028" style="display: block; margin-bottom: 5px; clear: both;" width="1317" /><p>The new thick-film resistors deliver thin-film accuracy, higher power density, and reduced footprint for cost-efficient designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/panasonic-unveils-high-precision-thick-film-resistors/">Panasonic Unveils High-Precision Thick-Film Resistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wide Bandgap Monthly Insights – March 2026](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-march-2026/)
-**Published:** Tue, 31 Mar 2026 13:00:00 +0000
-
-<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-march-2026/">Wide Bandgap Monthly Insights &#8211; March 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Electronics Course with QSPICE (Episode 07): Rectifier Diodes](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-07-rectifier-diodes/)
-**Published:** Tue, 31 Mar 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/figure-00-power-course-2.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>In this installment of the course, we analyze one of the core elements of any power system: the regulated power supply. Starting from the single-phase...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-07-rectifier-diodes/">Power Electronics Course with QSPICE (Episode 07): Rectifier Diodes</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [From MOUs to Markets: Transatlantic Deals Face Reality Test](https://www.eetimes.com/from-mous-to-markets-transatlantic-deals-face-reality-test/)
 **Published:** Thu, 02 Apr 2026 22:00:00 +0000
 
@@ -914,18 +914,24 @@ _Last updated: 2026-04-03 07:23 UTC_
 
 ---
 
-## [Fujitsu to develop 1.4nm NPU](https://www.electronicsweekly.com/news/business/fujitsu-to-develop-1-4nm-npu-2026-04/)
-**Published:** Thu, 02 Apr 2026 05:24:18 +0000
+## [48V Architectures as the Next Power Step in Automotive Design](https://www.electronicsforu.com/technology-trends/48v-architectures-as-the-next-power-step-in-automotive-design)
+**Published:** Fri, 03 Apr 2026 12:59:36 +0000
 
-<p>Fujitsu has applied to Japan&#8217;s New Energy and Industrial Technology Development Organisation (NEDO) to join a project to design and fab a 1.4nm NPU. The chip would be fabbed by ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/fujitsu-to-develop-1-4nm-npu-2026-04/">Fujitsu to develop 1.4nm NPU</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/image-2-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new power paradigm is emerging in automotive design, enabling higher efficiency, simpler architectures and raising a fundamental question: is the 12 V system still relevant? It is genuinely exciting to witness the pace at which India’s semiconductor and electronics ecosystem is evolving. Across recent exhibitions, one trend stands out clearly which is the shrinking [&#8230;]
 
 ---
 
-## [Systems Engineering Powering Strategic Electronics](https://www.electronicsforu.com/technology-trends/systems-engineering-powering-strategic-electronics)
-**Published:** Thu, 02 Apr 2026 12:15:52 +0000
+## [Embedded Systems – Internship At XiLiR Technologies In Delhi](https://www.electronicsforu.com/career/embedded-systems-internship-at-xilir-technologies-in-delhi)
+**Published:** Fri, 03 Apr 2026 10:10:51 +0000
 
-<img alt="Dr Balbadra Kishore during OEW" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/Dr-Balbadra-Kishore-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From space and defence to medical and avionics, systems engineering unifies design, manufacturing and reliability to deliver mission-ready electronics at scale. Based on my experience, systems engineering adds significant value to strategic electronic systems and products. To utilise systems engineering effectively in productionizing value-added products and services, it is essential to understand the basic definition [&#8230;]
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON INTERNSHALA Location: Delhi Company: XiLiR Technologies LLP Selected intern&#8217;s day-to-day responsibilities include: Skill(s) Required Who can Apply Only those candidates can apply who: Perks Stipend Structure Fixed pay:&#160;₹ 5,000 &#8211; 10,000 /month Incentive pay:&#160;₹ 1,000 &#8211; 2,000 /month
+
+---
+
+## [JOB: Customer Application Support At NXP Semiconductors In Pune and Bengaluru](https://www.electronicsforu.com/career/customer-application-support-nxp-semiconductors-pune-bengaluru)
+**Published:** Fri, 03 Apr 2026 09:27:34 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/NXPHQ-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: NXP Semiconductors
 
 ---
 
