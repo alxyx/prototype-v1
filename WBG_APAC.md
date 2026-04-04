@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-03 19:51 UTC_
+_Last updated: 2026-04-04 02:23 UTC_
 
 ## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
 **Published:** Thu, 02 Apr 2026 02:29:03 +0000
@@ -23,6 +23,22 @@ _Last updated: 2026-04-03 19:51 UTC_
 
 <p>Covering a significant portion of Poland's semiconductor value chain, Pomerania is emerging as one of the fastest-growing technology hubs in Central Europe.</p>
 <p>The post <a href="https://www.eetasia.com/poland-at-the-center-of-the-global-semiconductor-race/">Poland at the Center of the Global Semiconductor Race</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMI Appoints Mary Bischoping as Senior Director of Public Policy and Advocacy](https://www.semiconductor-digest.com/semi-appoints-mary-bischoping-as-senior-director-of-public-policy-and-advocacy/?utm_source=rss&utm_medium=rss&utm_campaign=semi-appoints-mary-bischoping-as-senior-director-of-public-policy-and-advocacy)
+**Published:** Fri, 03 Apr 2026 19:44:38 +0000
+
+<p>SEMI today announced Mary Bischoping as Senior Director of Public Policy and Advocacy.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-appoints-mary-bischoping-as-senior-director-of-public-policy-and-advocacy/">SEMI Appoints Mary Bischoping as Senior Director of Public Policy and Advocacy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Molex Completes Acquisition of Smiths Interconnect](https://www.semiconductor-digest.com/molex-completes-acquisition-of-smiths-interconnect/?utm_source=rss&utm_medium=rss&utm_campaign=molex-completes-acquisition-of-smiths-interconnect)
+**Published:** Fri, 03 Apr 2026 19:40:28 +0000
+
+<p>Molex, a global electronics leader and connectivity innovator, has completed the acquisition of Smiths Interconnect, a subsidiary of United Kingdom-based Smiths Group plc.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/molex-completes-acquisition-of-smiths-interconnect/">Molex Completes Acquisition of Smiths Interconnect</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,22 +823,6 @@ _Last updated: 2026-04-03 19:51 UTC_
 
 <p>The seamless application on substrates with complex shapes will improve semiconductor performance through enhanced miniaturization of semiconductor wiring and greater integration for various types of chips</p>
 <p>The post <a href="https://www.semiconductor-digest.com/tanaka-establishes-transfer-technology-for-its-sintered-gold-bonding-technology/">TANAKA Establishes Transfer Technology for its Sintered Gold Bonding Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Challenge Meets Opportunity: Navigating the Modern Semiconductor Supply Chain](https://www.semiconductor-digest.com/challenge-meets-opportunity-navigating-the-modern-semiconductor-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=challenge-meets-opportunity-navigating-the-modern-semiconductor-supply-chain)
-**Published:** Mon, 02 Mar 2026 15:24:43 +0000
-
-<p>Three materials that play in different parts of the supply chain are showcased: tantalum, precious metals, and scandium.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/challenge-meets-opportunity-navigating-the-modern-semiconductor-supply-chain/">Challenge Meets Opportunity: Navigating the Modern Semiconductor Supply Chain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Optimizing Chip Efficiency Starts at the Engineered Substrate](https://www.semiconductor-digest.com/optimizing-chip-efficiency-starts-at-the-engineered-substrate/?utm_source=rss&utm_medium=rss&utm_campaign=optimizing-chip-efficiency-starts-at-the-engineered-substrate)
-**Published:** Mon, 02 Mar 2026 14:49:27 +0000
-
-<p>Engineered substrates and 3D advanced chip stacking are critical enablers of heterogeneous integration.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/optimizing-chip-efficiency-starts-at-the-engineered-substrate/">Optimizing Chip Efficiency Starts at the Engineered Substrate</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
