@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-06 07:56 UTC_
+_Last updated: 2026-04-06 11:15 UTC_
 
 ## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
 **Published:** Thu, 02 Apr 2026 02:29:03 +0000
@@ -941,20 +941,6 @@ _Last updated: 2026-04-06 07:56 UTC_
 **Published:** Mon, 06 Apr 2026 06:12:43 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/1775365253131-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if your UPS could turn into a solar system? An inverter series enables it, with app control, AI use, and lower electricity use. Nyquest Innovation Labs has announced the launch of its new solar inverter series, designed to combine power electronics with a modern product form. Developed by a team from Amrita Vishwa Vidyapeetham, [&#8230;]
-
----
-
-## [Brain-Inspired AI Chip Boosts Energy Efficient Computing](https://www.electronicsforu.com/news/brain-inspired-ai-chip-boosts-energy-efficient-computing)
-**Published:** Mon, 06 Apr 2026 05:06:09 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/chip-new-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />This brain-inspired AI chip signals a shift toward energy efficient computing by using unconventional hardware to process complex data tasks. Researchers in the United Kingdom have developed a novel brain-inspired computer chip that could significantly improve the energy efficiency of certain artificial intelligence (AI) systems. Created by physicists at Loughborough University, the device processes time-dependent [&#8230;]
-
----
-
-## [Chiral Phonons Improve Orbitronics Efficiency](https://www.electronicsforu.com/news/chiral-phonons-improve-orbitronics-efficiency)
-**Published:** Mon, 06 Apr 2026 03:47:16 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/crystal-1536x864-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new electronics pathway that uses orbital currents instead of spin, enabling efficient, low-cost orbitronic devices without magnets, voltage, or rare materials, and advancing next-gen semiconductor technologies. A team of physicists at NC State University has demonstrated a method to generate electrical current using the orbital motion of electrons, potentially unlocking a new class of [&#8230;]
 
 ---
 
