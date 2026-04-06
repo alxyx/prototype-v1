@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-05 22:45 UTC_
+_Last updated: 2026-04-06 07:56 UTC_
 
 ## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
 **Published:** Thu, 02 Apr 2026 02:29:03 +0000
@@ -914,24 +914,47 @@ _Last updated: 2026-04-05 22:45 UTC_
 
 ---
 
-## [48V Architectures as the Next Power Step in Automotive Design](https://www.electronicsforu.com/technology-trends/48v-architectures-as-the-next-power-step-in-automotive-design)
-**Published:** Fri, 03 Apr 2026 12:59:36 +0000
+## [February  chip sales up 61.8% YoY](https://www.electronicsweekly.com/news/business/february-chip-sales-up-61-8-yoy-2026-04/)
+**Published:** Mon, 06 Apr 2026 05:27:21 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/image-2-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new power paradigm is emerging in automotive design, enabling higher efficiency, simpler architectures and raising a fundamental question: is the 12 V system still relevant? It is genuinely exciting to witness the pace at which India’s semiconductor and electronics ecosystem is evolving. Across recent exhibitions, one trend stands out clearly which is the shrinking [&#8230;]
-
----
-
-## [Embedded Systems – Internship At XiLiR Technologies In Delhi](https://www.electronicsforu.com/career/embedded-systems-internship-at-xilir-technologies-in-delhi)
-**Published:** Fri, 03 Apr 2026 10:10:51 +0000
-
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON INTERNSHALA Location: Delhi Company: XiLiR Technologies LLP Selected intern&#8217;s day-to-day responsibilities include: Skill(s) Required Who can Apply Only those candidates can apply who: Perks Stipend Structure Fixed pay:&#160;₹ 5,000 &#8211; 10,000 /month Incentive pay:&#160;₹ 1,000 &#8211; 2,000 /month
+<p>February semiconductor sales of $88.8 billion were up 7.6% on January’s $82.5 billion and 61.8% more than the $54.9 billion of February 2035, reports the SIA. “Global chip sales remained ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/february-chip-sales-up-61-8-yoy-2026-04/">February  chip sales up 61.8% YoY</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [JOB: Customer Application Support At NXP Semiconductors In Pune and Bengaluru](https://www.electronicsforu.com/career/customer-application-support-nxp-semiconductors-pune-bengaluru)
-**Published:** Fri, 03 Apr 2026 09:27:34 +0000
+## [ST launches GaN gate drivers](https://www.electronicsweekly.com/news/business/st-launches-gan-gate-drivers-2026-04/)
+**Published:** Mon, 06 Apr 2026 05:12:31 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/03/NXPHQ-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: NXP Semiconductors
+<p>ST has announced two new high-speed half-bridge gate drivers that bring GaN efficiency, thermal performance, and miniaturisation to a broad range of power and motion-control applications. The STDRIVEG212 and STDRIVEG612 ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/st-launches-gan-gate-drivers-2026-04/">ST launches GaN gate drivers</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Symmetric Perovskites Improve Energy Transport](https://www.electronicsforu.com/news/symmetric-perovskites-improve-energy-transport)
+**Published:** Mon, 06 Apr 2026 06:49:10 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/5ppl-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Rice researchers develop near-perfect 2D perovskite crystals enabling record energy transport, boosting performance for solar cells and optoelectronics while overcoming structural limits in hybrid semiconductor materials. Researchers have engineered a near-perfect two-dimensional semiconductor that significantly improves energy transport, marking a key advance for next-generation optoelectronic devices. The work focuses on 2D metal halide perovskites—hybrid materials [&#8230;]
+
+---
+
+## [Convert UPS into solar power hubs](https://www.electronicsforu.com/news/convert-ups-into-solar-power-hubs)
+**Published:** Mon, 06 Apr 2026 06:12:43 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/1775365253131-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if your UPS could turn into a solar system? An inverter series enables it, with app control, AI use, and lower electricity use. Nyquest Innovation Labs has announced the launch of its new solar inverter series, designed to combine power electronics with a modern product form. Developed by a team from Amrita Vishwa Vidyapeetham, [&#8230;]
+
+---
+
+## [Brain-Inspired AI Chip Boosts Energy Efficient Computing](https://www.electronicsforu.com/news/brain-inspired-ai-chip-boosts-energy-efficient-computing)
+**Published:** Mon, 06 Apr 2026 05:06:09 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/chip-new-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />This brain-inspired AI chip signals a shift toward energy efficient computing by using unconventional hardware to process complex data tasks. Researchers in the United Kingdom have developed a novel brain-inspired computer chip that could significantly improve the energy efficiency of certain artificial intelligence (AI) systems. Created by physicists at Loughborough University, the device processes time-dependent [&#8230;]
+
+---
+
+## [Chiral Phonons Improve Orbitronics Efficiency](https://www.electronicsforu.com/news/chiral-phonons-improve-orbitronics-efficiency)
+**Published:** Mon, 06 Apr 2026 03:47:16 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/crystal-1536x864-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new electronics pathway that uses orbital currents instead of spin, enabling efficient, low-cost orbitronic devices without magnets, voltage, or rare materials, and advancing next-gen semiconductor technologies. A team of physicists at NC State University has demonstrated a method to generate electrical current using the orbital motion of electrons, potentially unlocking a new class of [&#8230;]
 
 ---
 
