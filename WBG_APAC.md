@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-06 11:15 UTC_
+_Last updated: 2026-04-06 20:09 UTC_
 
 ## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
 **Published:** Thu, 02 Apr 2026 02:29:03 +0000
@@ -826,6 +826,22 @@ _Last updated: 2026-04-06 11:15 UTC_
 
 ---
 
+## [Vishay Launches Automotive PV MOSFET Driver](https://www.powerelectronicsnews.com/vishay-launches-automotive-pv-mosfet-driver/)
+**Published:** Mon, 06 Apr 2026 15:00:00 +0000
+
+<img alt="Vishay Launches Automotive PV MOSFET Driver." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Vishay_MOSFET_PR.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new driver enables faster switching, reinforced isolation, and simpler high-voltage designs for EV and industrial power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-launches-automotive-pv-mosfet-driver/">Vishay Launches Automotive PV MOSFET Driver</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [EPC’s CEO Analyzes GaN’s Move into Robotics and Data Centers](https://www.powerelectronicsnews.com/epcs-ceo-analyzes-gans-move-into-robotics-and-data-centers/)
+**Published:** Mon, 06 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3333" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_504493461-1.jpeg?fit=5000%2C3333" style="display: block; margin-bottom: 5px; clear: both;" width="5000" /><p>EPC CEO Alex Lidow discusses the company’s strategy and readiness to serve the robotics and data center markets.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/epcs-ceo-analyzes-gans-move-into-robotics-and-data-centers/">EPC’s CEO Analyzes GaN’s Move into Robotics and Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Infineon Launches TLVR Quad-Phase AI Power Module](https://www.powerelectronicsnews.com/infineon-launches-tlvr-quad-phase-ai-power-module/)
 **Published:** Fri, 03 Apr 2026 17:00:00 +0000
 
@@ -887,22 +903,6 @@ _Last updated: 2026-04-06 11:15 UTC_
 
 <img alt="Vitrek Introduces V10X High-Voltage Safety Tester." class="webfeedsFeaturedVisual wp-post-image" height="447" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Vitrek-V10x.png?fit=596%2C447" style="display: block; margin-bottom: 5px; clear: both;" width="596" /><p>The new hipot tester delivers up to 30 kV output with high-resolution leakage measurement and automation support.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/vitrek-introduces-v10x-high-voltage-safety-tester/">Vitrek Introduces V10X High-Voltage Safety Tester</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Apex Expands Power Modules with 3-Phase SiC Solution](https://www.powerelectronicsnews.com/apex-expands-power-modules-with-3-phase-sic-solution/)
-**Published:** Wed, 01 Apr 2026 13:57:48 +0000
-
-<img alt="Apex Expands Power Modules with 3-Phase SiC Solution." class="webfeedsFeaturedVisual wp-post-image" height="969" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/MSA303.jpg?fit=1503%2C969" style="display: block; margin-bottom: 5px; clear: both;" width="1503" /><p>Integrated SiC module combines power stages, gate drive, and protection to enable compact, efficient motor drive and inverter designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/apex-expands-power-modules-with-3-phase-sic-solution/">Apex Expands Power Modules with 3-Phase SiC Solution</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Diodes Unveils 100V MOSFETs in PowerDI8080-5 Package](https://www.powerelectronicsnews.com/diodes-unveils-100v-mosfets-in-powerdi8080-5-package/)
-**Published:** Wed, 01 Apr 2026 13:00:00 +0000
-
-<img alt="Diodes Unveils 100V MOSFETs in PowerDI8080-5 Package." class="webfeedsFeaturedVisual wp-post-image" height="690" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/DIO1128_image_PowerDI8080_DMTHxxxxSPGWQ.jpg?fit=900%2C690" style="display: block; margin-bottom: 5px; clear: both;" width="900" /><p>These low RDS(on) MOSFETs, available in a compact PowerDI8080-5 package, target high-efficiency 48V automotive systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/diodes-unveils-100v-mosfets-in-powerdi8080-5-package/">Diodes Unveils 100V MOSFETs in PowerDI8080-5 Package</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
