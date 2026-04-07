@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-07 13:33 UTC_
+_Last updated: 2026-04-07 18:16 UTC_
 
 ## [EPC Expands Portfolio of 100V Integrated GaN Power Stage ICs](https://www.eetasia.com/epc-expands-portfolio-of-100v-integrated-gan-power-stage-ics/)
 **Published:** Tue, 07 Apr 2026 02:24:02 +0000
@@ -925,40 +925,24 @@ _Last updated: 2026-04-07 13:33 UTC_
 ## [Imec leads SPINS consortium for quantum pilot line](https://www.electronicsweekly.com/news/business/imec-leads-spins-consortium-for-quantum-pilot-line-2026-04/)
 **Published:** Tue, 07 Apr 2026 09:17:03 +0000
 
-<p>SPINS (Semiconductor Pilot line for Industrial Quantum NanoSystems) has been launched, one of the 6 European quantum pilot lines, coordinated by imec. The consortium brings together 25 European RTOs, industry ...</p>
+<p>SPINS (Semiconductor Pilot line for Industrial Quantum NanoSystems) has been launched; it is one of the six European quantum pilot lines co-ordinated by imec. The consortium brings together 25 European ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/imec-leads-spins-consortium-for-quantum-pilot-line-2026-04/">Imec leads SPINS consortium for quantum pilot line</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Quix Quantum demoes below threshold error mitigation](https://www.electronicsweekly.com/news/business/quix-quantum-demoes-below-threshold-error-mitigation-2026-04/)
+## [QuiX Quantum demonstrates below threshold error mitigation](https://www.electronicsweekly.com/news/business/quix-quantum-demoes-below-threshold-error-mitigation-2026-04/)
 **Published:** Tue, 07 Apr 2026 05:14:05 +0000
 
 <p>QuiX Quantum, the Dutch provider of photonic quantum computing hardware, says it has demonstrated “below threshold” error mitigation for the first time on a photonic quantum computer, suppressing physical qubit ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/quix-quantum-demoes-below-threshold-error-mitigation-2026-04/">Quix Quantum demoes below threshold error mitigation</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/quix-quantum-demoes-below-threshold-error-mitigation-2026-04/">QuiX Quantum demonstrates below threshold error mitigation</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
 ## [CEA-Leti hooks up with PSMC](https://www.electronicsweekly.com/news/business/cea-leti-hooks-up-with-psmc-2026-04/)
 **Published:** Tue, 07 Apr 2026 05:06:11 +0000
 
-<p>CEA-Leti and CEA-List have hooked up with  with Powerchip Semiconductor Manufacturing Corporation (PSMC) to make datacentre devices. CEA-List’s RISC-V design expertise and CEA-Leti’s silicon photonics expertise will be combined with ...</p>
+<p>CEA-Leti and CEA-List have hooked up with Powerchip Semiconductor Manufacturing Corporation (PSMC) to make datacentre devices. CEA-List’s Risc-V design expertise and CEA-Leti’s silicon photonics expertise will be combined with PSMC’s ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/cea-leti-hooks-up-with-psmc-2026-04/">CEA-Leti hooks up with PSMC</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [February  chip sales up 61.8% YoY](https://www.electronicsweekly.com/news/business/february-chip-sales-up-61-8-yoy-2026-04/)
-**Published:** Mon, 06 Apr 2026 05:27:21 +0000
-
-<p>February semiconductor sales of $88.8 billion were up 7.6% on January’s $82.5 billion and 61.8% more than the $54.9 billion of February 2035, reports the SIA. “Global chip sales remained ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/february-chip-sales-up-61-8-yoy-2026-04/">February  chip sales up 61.8% YoY</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [ST launches GaN gate drivers](https://www.electronicsweekly.com/news/business/st-launches-gan-gate-drivers-2026-04/)
-**Published:** Mon, 06 Apr 2026 05:12:31 +0000
-
-<p>ST has announced two new high-speed half-bridge gate drivers that bring GaN efficiency, thermal performance, and miniaturisation to a broad range of power and motion-control applications. The STDRIVEG212 and STDRIVEG612 ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/st-launches-gan-gate-drivers-2026-04/">ST launches GaN gate drivers</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
