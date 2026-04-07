@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-07 18:16 UTC_
+_Last updated: 2026-04-07 22:52 UTC_
 
 ## [EPC Expands Portfolio of 100V Integrated GaN Power Stage ICs](https://www.eetasia.com/epc-expands-portfolio-of-100v-integrated-gan-power-stage-ics/)
 **Published:** Tue, 07 Apr 2026 02:24:02 +0000
@@ -31,6 +31,38 @@ _Last updated: 2026-04-07 18:16 UTC_
 
 <p>Covering a significant portion of Poland's semiconductor value chain, Pomerania is emerging as one of the fastest-growing technology hubs in Central Europe.</p>
 <p>The post <a href="https://www.eetasia.com/poland-at-the-center-of-the-global-semiconductor-race/">Poland at the Center of the Global Semiconductor Race</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Park Systems Opens New Global Headquarters](https://www.semiconductor-digest.com/park-systems-opens-new-global-headquarters/?utm_source=rss&utm_medium=rss&utm_campaign=park-systems-opens-new-global-headquarters)
+**Published:** Tue, 07 Apr 2026 21:20:32 +0000
+
+<p>Park Systems Corp., a provider of atomic force microscopy (AFM) solutions, today announced the opening of its new global headquarters in Gwacheon city, South Korea.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/park-systems-opens-new-global-headquarters/">Park Systems Opens New Global Headquarters</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Global Semiconductor Sales Increase Substantially in February](https://www.semiconductor-digest.com/global-semiconductor-sales-increase-substantially-in-february/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-sales-increase-substantially-in-february)
+**Published:** Tue, 07 Apr 2026 21:14:51 +0000
+
+<p>Worldwide chip sales up 61.8% year-to-year, 7.6% month-to-month.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-sales-increase-substantially-in-february/">Global Semiconductor Sales Increase Substantially in February</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Bruker Invests in Photothermal AFM-IR to Advance Semiconductor Research](https://www.semiconductor-digest.com/bruker-invests-in-photothermal-afm-ir-to-advance-semiconductor-research/?utm_source=rss&utm_medium=rss&utm_campaign=bruker-invests-in-photothermal-afm-ir-to-advance-semiconductor-research)
+**Published:** Tue, 07 Apr 2026 20:41:45 +0000
+
+<p>Bruker Corporation today announced accelerated development of its photothermal AFM‑IR spectroscopy capabilities to address research challenges facing the semiconductor industry as device architectures continue to shrink and systems become increasingly more complex.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/bruker-invests-in-photothermal-afm-ir-to-advance-semiconductor-research/">Bruker Invests in Photothermal AFM-IR to Advance Semiconductor Research</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Innatera Launches Synfire](https://www.semiconductor-digest.com/innatera-launches-synfire/?utm_source=rss&utm_medium=rss&utm_campaign=innatera-launches-synfire)
+**Published:** Tue, 07 Apr 2026 20:35:09 +0000
+
+<p>An open, community-driven platform that brings researchers, developers, and industry together to standardize and scale neuromorphic systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/innatera-launches-synfire/">Innatera Launches Synfire</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,38 +831,6 @@ _Last updated: 2026-04-07 18:16 UTC_
 
 <p>SEMI Americas President Joe Stockunas gave the award to Senator Young at a reception on March 4 at the U.S. Capitol during the SEMI Washington Fly-In.  </p>
 <p>The post <a href="https://www.semiconductor-digest.com/semi-recognizes-u-s-senator-todd-young-with-government-leadership-award-for-outstanding-support-of-american-chip-industry/">SEMI Recognizes U.S. Senator Todd Young with Government Leadership Award for Outstanding Support of American Chip Industry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [What’s in the March Issue?](https://www.semiconductor-digest.com/whats-in-the-march-issue-6/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-march-issue-6)
-**Published:** Thu, 05 Mar 2026 19:48:37 +0000
-
-<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the January/February issue. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-march-issue-6/">What&#8217;s in the March Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Fraunhofer IPMS Expands Its Service Portfolio to Include Ultratrace Elemental Analysis on Wafers](https://www.semiconductor-digest.com/fraunhofer-ipms-expands-its-service-portfolio-to-include-ultratrace-elemental-analysis-on-wafers/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-ipms-expands-its-service-portfolio-to-include-ultratrace-elemental-analysis-on-wafers)
-**Published:** Wed, 04 Mar 2026 22:11:35 +0000
-
-<p>The Fraunhofer Institute for Photonic Microsystems IPMS is expanding its analytical capabilities in the field of wafer contamination.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/fraunhofer-ipms-expands-its-service-portfolio-to-include-ultratrace-elemental-analysis-on-wafers/">Fraunhofer IPMS Expands Its Service Portfolio to Include Ultratrace Elemental Analysis on Wafers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Salience Labs and Tower Semiconductor Partner to Manufacture At-Scale Optical Circuit Switches for Next-Generation Data Centers](https://www.semiconductor-digest.com/salience-labs-and-tower-semiconductor-partner-to-manufacture-at-scale-optical-circuit-switches-for-next-generation-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=salience-labs-and-tower-semiconductor-partner-to-manufacture-at-scale-optical-circuit-switches-for-next-generation-data-centers)
-**Published:** Wed, 04 Mar 2026 21:38:09 +0000
-
-<p>Salience Lab’s Innovative Architecture leverages Tower’s differentiated Silicon Photonics platforms to deliver ultra-low latency, high-bandwidth and lower-power optical connectivity for AI clusters.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/salience-labs-and-tower-semiconductor-partner-to-manufacture-at-scale-optical-circuit-switches-for-next-generation-data-centers/">Salience Labs and Tower Semiconductor Partner to Manufacture At-Scale Optical Circuit Switches for Next-Generation Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI FlexTech Announces 2026 FLEXI Award Winners for Outstanding Achievements in Flexible Electronics](https://www.semiconductor-digest.com/semi-flextech-announces-2026-flexi-award-winners-for-outstanding-achievements-in-flexible-electronics/?utm_source=rss&utm_medium=rss&utm_campaign=semi-flextech-announces-2026-flexi-award-winners-for-outstanding-achievements-in-flexible-electronics)
-**Published:** Wed, 04 Mar 2026 21:30:31 +0000
-
-<p>Recognizing innovations and other outstanding accomplishments in flexible hybrid electronics (FHE), FlexTech, a SEMI Technology Community, announced winners of the 2026 FLEXI Awards presented at the FLEX Conference on February 25 at the Wigwam Resort in Phoenix, Ariz.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-flextech-announces-2026-flexi-award-winners-for-outstanding-achievements-in-flexible-electronics/">SEMI FlexTech Announces 2026 FLEXI Award Winners for Outstanding Achievements in Flexible Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
