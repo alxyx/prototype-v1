@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-07 09:16 UTC_
+_Last updated: 2026-04-07 13:33 UTC_
 
 ## [EPC Expands Portfolio of 100V Integrated GaN Power Stage ICs](https://www.eetasia.com/epc-expands-portfolio-of-100v-integrated-gan-power-stage-ics/)
 **Published:** Tue, 07 Apr 2026 02:24:02 +0000
@@ -834,6 +834,14 @@ _Last updated: 2026-04-07 09:16 UTC_
 
 ---
 
+## [Monolithic Bidirectional GaN Switch-Based Buck-Boost Converter](https://www.powerelectronicsnews.com/monolithic-bidirectional-gan-switch-based-buck-boost-converter/)
+**Published:** Tue, 07 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="6336" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_368282211.jpeg?fit=9504%2C6336" style="display: block; margin-bottom: 5px; clear: both;" width="9504" /><p>A buck-boost converter is useful when an intermediate bus voltage is used, and there is a requirement to either buck or boost the input voltage....</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/monolithic-bidirectional-gan-switch-based-buck-boost-converter/">Monolithic Bidirectional GaN Switch-Based Buck-Boost Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Vishay Launches Automotive PV MOSFET Driver](https://www.powerelectronicsnews.com/vishay-launches-automotive-pv-mosfet-driver/)
 **Published:** Mon, 06 Apr 2026 15:00:00 +0000
 
@@ -906,14 +914,6 @@ _Last updated: 2026-04-07 09:16 UTC_
 
 ---
 
-## [Vitrek Introduces V10X High-Voltage Safety Tester](https://www.powerelectronicsnews.com/vitrek-introduces-v10x-high-voltage-safety-tester/)
-**Published:** Wed, 01 Apr 2026 15:00:00 +0000
-
-<img alt="Vitrek Introduces V10X High-Voltage Safety Tester." class="webfeedsFeaturedVisual wp-post-image" height="447" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/Vitrek-V10x.png?fit=596%2C447" style="display: block; margin-bottom: 5px; clear: both;" width="596" /><p>The new hipot tester delivers up to 30 kV output with high-resolution leakage measurement and automation support.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vitrek-introduces-v10x-high-voltage-safety-tester/">Vitrek Introduces V10X High-Voltage Safety Tester</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [From MOUs to Markets: Transatlantic Deals Face Reality Test](https://www.eetimes.com/from-mous-to-markets-transatlantic-deals-face-reality-test/)
 **Published:** Thu, 02 Apr 2026 22:00:00 +0000
 
@@ -923,7 +923,7 @@ _Last updated: 2026-04-07 09:16 UTC_
 ---
 
 ## [Imec leads SPINS consortium for quantum pilot line](https://www.electronicsweekly.com/news/business/imec-leads-spins-consortium-for-quantum-pilot-line-2026-04/)
-**Published:** Tue, 07 Apr 2026 05:28:03 +0000
+**Published:** Tue, 07 Apr 2026 09:17:03 +0000
 
 <p>SPINS (Semiconductor Pilot line for Industrial Quantum NanoSystems) has been launched, one of the 6 European quantum pilot lines, coordinated by imec. The consortium brings together 25 European RTOs, industry ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/imec-leads-spins-consortium-for-quantum-pilot-line-2026-04/">Imec leads SPINS consortium for quantum pilot line</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
