@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-06 20:51 UTC_
+_Last updated: 2026-04-07 09:16 UTC_
+
+## [EPC Expands Portfolio of 100V Integrated GaN Power Stage ICs](https://www.eetasia.com/epc-expands-portfolio-of-100v-integrated-gan-power-stage-ics/)
+**Published:** Tue, 07 Apr 2026 02:24:02 +0000
+
+<p>EPC's new generation of 100V integrated GaN power-stage ICs are targeted at high-performance motion and power systems.</p>
+<p>The post <a href="https://www.eetasia.com/epc-expands-portfolio-of-100v-integrated-gan-power-stage-ics/">EPC Expands Portfolio of 100V Integrated GaN Power Stage ICs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
 **Published:** Thu, 02 Apr 2026 02:29:03 +0000
@@ -23,6 +31,46 @@ _Last updated: 2026-04-06 20:51 UTC_
 
 <p>Covering a significant portion of Poland's semiconductor value chain, Pomerania is emerging as one of the fastest-growing technology hubs in Central Europe.</p>
 <p>The post <a href="https://www.eetasia.com/poland-at-the-center-of-the-global-semiconductor-race/">Poland at the Center of the Global Semiconductor Race</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [European Chips Skills Academy Launches the ECSA Learning Platform](https://www.semiconductor-digest.com/european-chips-skills-academy-launches-the-ecsa-learning-platform/?utm_source=rss&utm_medium=rss&utm_campaign=european-chips-skills-academy-launches-the-ecsa-learning-platform)
+**Published:** Mon, 06 Apr 2026 22:09:05 +0000
+
+<p>The European Chips Skills Academy (ECSA), an European Union (EU)-funded initiative coordinated by SEMI Europe, today announced the official launch of its ECSA Learning Platform.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/european-chips-skills-academy-launches-the-ecsa-learning-platform/">European Chips Skills Academy Launches the ECSA Learning Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Semiconductor-Based Quantum Pilot Line ‘SPINS’ Launched with EU Support](https://www.semiconductor-digest.com/semiconductor-based-quantum-pilot-line-spins-launched-with-eu-support/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-based-quantum-pilot-line-spins-launched-with-eu-support)
+**Published:** Mon, 06 Apr 2026 22:04:51 +0000
+
+<p>Coordinated by imec, the consortium brings together 25 European RTOs, industry partners, and academic research groups to strengthen Europe’s leadership and sovereignty in this strategically important domain.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-based-quantum-pilot-line-spins-launched-with-eu-support/">Semiconductor-Based Quantum Pilot Line ‘SPINS’ Launched with EU Support</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Stitching Precise Patterns – With Lasers](https://www.semiconductor-digest.com/stitching-precise-patterns-with-lasers/?utm_source=rss&utm_medium=rss&utm_campaign=stitching-precise-patterns-with-lasers)
+**Published:** Mon, 06 Apr 2026 21:57:58 +0000
+
+<p>An interdisciplinary team at the University of Pittsburgh’s Swanson School of Engineering has developed a new manufacturing strategy that reveals where and how laser-induced graphene (LIG) forms on polymers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/stitching-precise-patterns-with-lasers/">Stitching Precise Patterns &#8211; With Lasers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Bureau Veritas Acquires Lotusworks](https://www.semiconductor-digest.com/bureau-veritas-acquires-lotusworks/?utm_source=rss&utm_medium=rss&utm_campaign=bureau-veritas-acquires-lotusworks)
+**Published:** Mon, 06 Apr 2026 21:47:39 +0000
+
+<p>The transaction is expected to close by summer 2026, subject to customary regulatory approvals.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/bureau-veritas-acquires-lotusworks/">Bureau Veritas Acquires Lotusworks</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [IVWorks Secures $4.5M Funding to Expand ‘reGaN’ Technology into RF and AI Power Semiconductor Markets](https://www.semiconductor-digest.com/ivworks-secures-4-5m-funding-to-expand-regan-technology-into-rf-and-ai-power-semiconductor-markets/?utm_source=rss&utm_medium=rss&utm_campaign=ivworks-secures-4-5m-funding-to-expand-regan-technology-into-rf-and-ai-power-semiconductor-markets)
+**Published:** Mon, 06 Apr 2026 21:35:30 +0000
+
+<p>IVWorks, a specialist in GaN epitaxial wafer technology, is accelerating its expansion into the GaN semiconductor market through its proprietary ‘reGaN’ technology.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ivworks-secures-4-5m-funding-to-expand-regan-technology-into-rf-and-ai-power-semiconductor-markets/">IVWorks Secures $4.5M Funding to Expand ‘reGaN’ Technology into RF and AI Power Semiconductor Markets</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -786,46 +834,6 @@ _Last updated: 2026-04-06 20:51 UTC_
 
 ---
 
-## [3D Integration and GAA Adoption Drive Structural Growth in ALD/CVD Precursors](https://www.semiconductor-digest.com/3d-integration-and-gaa-adoption-drive-structural-growth-in-ald-cvd-precursors/?utm_source=rss&utm_medium=rss&utm_campaign=3d-integration-and-gaa-adoption-drive-structural-growth-in-ald-cvd-precursors)
-**Published:** Wed, 04 Mar 2026 21:11:10 +0000
-
-<p>TechInsights forecasts continued expansion in the global precursor market, with total revenue projected to grow from approximately USD 1.82B in 2025 to about USD 2.53B by 2030, representing roughly 8% CAGR.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/3d-integration-and-gaa-adoption-drive-structural-growth-in-ald-cvd-precursors/">3D Integration and GAA Adoption Drive Structural Growth in ALD/CVD Precursors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CSconnected Announces £1M Investment in Final Call to Supply Chain Development Program](https://www.semiconductor-digest.com/csconnected-announces-1m-investment-in-final-call-to-supply-chain-development-program/?utm_source=rss&utm_medium=rss&utm_campaign=csconnected-announces-1m-investment-in-final-call-to-supply-chain-development-program)
-**Published:** Wed, 04 Mar 2026 01:00:07 +0000
-
-<p>CSconnected, the world’s first compound semiconductor cluster, has announced the fourth and final funding round of its £1 million Supply Chain Development Programme, delivered in partnership with Cardiff Capital Region (CCR).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/csconnected-announces-1m-investment-in-final-call-to-supply-chain-development-program/">CSconnected Announces £1M Investment in Final Call to Supply Chain Development Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AI is Rewriting the Semiconductor M&A Playbook – Memory is Where it Hits Hardest](https://www.semiconductor-digest.com/ai-is-rewriting-the-semiconductor-ma-playbook-memory-is-where-it-hits-hardest/?utm_source=rss&utm_medium=rss&utm_campaign=ai-is-rewriting-the-semiconductor-ma-playbook-memory-is-where-it-hits-hardest)
-**Published:** Tue, 03 Mar 2026 15:17:07 +0000
-
-<p>AI-driven supply constraints are shifting semiconductor deal logic from IP-centric to capacity-centric valuations across the memory, advanced packaging, and power semiconductor stack</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ai-is-rewriting-the-semiconductor-ma-playbook-memory-is-where-it-hits-hardest/">AI is Rewriting the Semiconductor M&amp;A Playbook &#8211; Memory is Where it Hits Hardest</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Menlo Micro and Purdue Advance Commercial Cryogenic Switching for Scalable Quantum Computing](https://www.semiconductor-digest.com/menlo-micro-and-purdue-advance-commercial-cryogenic-switching-for-scalable-quantum-computing/?utm_source=rss&utm_medium=rss&utm_campaign=menlo-micro-and-purdue-advance-commercial-cryogenic-switching-for-scalable-quantum-computing)
-**Published:** Tue, 03 Mar 2026 14:46:06 +0000
-
-<p>Menlo Microsystems and Purdue University demonstrated a commercial-ready architecture for quantum control and readout electronics at cryogenic temperatures</p>
-<p>The post <a href="https://www.semiconductor-digest.com/menlo-micro-and-purdue-advance-commercial-cryogenic-switching-for-scalable-quantum-computing/">Menlo Micro and Purdue Advance Commercial Cryogenic Switching for Scalable Quantum Computing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TANAKA Establishes Transfer Technology for its Sintered Gold Bonding Technology](https://www.semiconductor-digest.com/tanaka-establishes-transfer-technology-for-its-sintered-gold-bonding-technology/?utm_source=rss&utm_medium=rss&utm_campaign=tanaka-establishes-transfer-technology-for-its-sintered-gold-bonding-technology)
-**Published:** Tue, 03 Mar 2026 13:29:13 +0000
-
-<p>The seamless application on substrates with complex shapes will improve semiconductor performance through enhanced miniaturization of semiconductor wiring and greater integration for various types of chips</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tanaka-establishes-transfer-technology-for-its-sintered-gold-bonding-technology/">TANAKA Establishes Transfer Technology for its Sintered Gold Bonding Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Vishay Launches Automotive PV MOSFET Driver](https://www.powerelectronicsnews.com/vishay-launches-automotive-pv-mosfet-driver/)
 **Published:** Mon, 06 Apr 2026 15:00:00 +0000
 
@@ -914,6 +922,30 @@ _Last updated: 2026-04-06 20:51 UTC_
 
 ---
 
+## [Imec leads SPINS consortium for quantum pilot line](https://www.electronicsweekly.com/news/business/imec-leads-spins-consortium-for-quantum-pilot-line-2026-04/)
+**Published:** Tue, 07 Apr 2026 05:28:03 +0000
+
+<p>SPINS (Semiconductor Pilot line for Industrial Quantum NanoSystems) has been launched, one of the 6 European quantum pilot lines, coordinated by imec. The consortium brings together 25 European RTOs, industry ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/imec-leads-spins-consortium-for-quantum-pilot-line-2026-04/">Imec leads SPINS consortium for quantum pilot line</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Quix Quantum demoes below threshold error mitigation](https://www.electronicsweekly.com/news/business/quix-quantum-demoes-below-threshold-error-mitigation-2026-04/)
+**Published:** Tue, 07 Apr 2026 05:14:05 +0000
+
+<p>QuiX Quantum, the Dutch provider of photonic quantum computing hardware, says it has demonstrated “below threshold” error mitigation for the first time on a photonic quantum computer, suppressing physical qubit ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/quix-quantum-demoes-below-threshold-error-mitigation-2026-04/">Quix Quantum demoes below threshold error mitigation</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [CEA-Leti hooks up with PSMC](https://www.electronicsweekly.com/news/business/cea-leti-hooks-up-with-psmc-2026-04/)
+**Published:** Tue, 07 Apr 2026 05:06:11 +0000
+
+<p>CEA-Leti and CEA-List have hooked up with  with Powerchip Semiconductor Manufacturing Corporation (PSMC) to make datacentre devices. CEA-List’s RISC-V design expertise and CEA-Leti’s silicon photonics expertise will be combined with ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/cea-leti-hooks-up-with-psmc-2026-04/">CEA-Leti hooks up with PSMC</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [February  chip sales up 61.8% YoY](https://www.electronicsweekly.com/news/business/february-chip-sales-up-61-8-yoy-2026-04/)
 **Published:** Mon, 06 Apr 2026 05:27:21 +0000
 
@@ -930,17 +962,17 @@ _Last updated: 2026-04-06 20:51 UTC_
 
 ---
 
-## [Symmetric Perovskites Improve Energy Transport](https://www.electronicsforu.com/news/symmetric-perovskites-improve-energy-transport)
-**Published:** Mon, 06 Apr 2026 06:49:10 +0000
+## [Fungus Inspired Semiconductors For Flexible Electronics](https://www.electronicsforu.com/news/fungus-inspired-semiconductors-for-flexible-electronics)
+**Published:** Tue, 07 Apr 2026 07:33:42 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/5ppl-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Rice researchers develop near-perfect 2D perovskite crystals enabling record energy transport, boosting performance for solar cells and optoelectronics while overcoming structural limits in hybrid semiconductor materials. Researchers have engineered a near-perfect two-dimensional semiconductor that significantly improves energy transport, marking a key advance for next-generation optoelectronic devices. The work focuses on 2D metal halide perovskites—hybrid materials [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/2062023_Oksana-Ostroverkhova-Lab_College-of-Science_0125-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Could pigments from fungi redefine electronics? Scientists are uncovering organic materials that enable flexible, light-responsive devices with unusual electronic behaviours. Researchers at Oregon State University are advancing organic semiconductor technologies inspired by nature, pointing to a future of flexible, low cost and potentially more sustainable electronic devices. Building on principles already seen in OLED displays, [&#8230;]
 
 ---
 
-## [Convert UPS into solar power hubs](https://www.electronicsforu.com/news/convert-ups-into-solar-power-hubs)
-**Published:** Mon, 06 Apr 2026 06:12:43 +0000
+## [Bio-Hybrid DNA Memristors for Energy-Efficient Data Storage](https://www.electronicsforu.com/news/bio-hybrid-dna-memristors-for-energy-efficient-data-storage)
+**Published:** Tue, 07 Apr 2026 07:24:05 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/1775365253131-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if your UPS could turn into a solar system? An inverter series enables it, with app control, AI use, and lower electricity use. Nyquest Innovation Labs has announced the launch of its new solar inverter series, designed to combine power electronics with a modern product form. Developed by a team from Amrita Vishwa Vidyapeetham, [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/poudel_microscopy_4x3-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />By embedding synthetic DNA into electronic architectures, researchers unlock a class of memory devices capable of simultaneous processing and storage. Researchers at Penn State University have developed a bio inspired approach to next generation data storage by integrating synthetic DNA with semiconductor materials, opening the door to memory devices that combine ultra high capacity with [&#8230;]
 
 ---
 
