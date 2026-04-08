@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-08 07:33 UTC_
+_Last updated: 2026-04-08 09:15 UTC_
 
 ## [Inside Taiwan’s Semiconductor Supremacy](https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/)
 **Published:** Wed, 08 Apr 2026 02:21:05 +0000
@@ -903,22 +903,6 @@ _Last updated: 2026-04-08 07:33 UTC_
 
 <p>Upgrade your industrial networks with CAN@net Basic for efficient, low-latency CAN FD-to-Ethernet integration at just 270 Euros—learn more now!</p>
 <p>The post <a href="https://www.eetimes.com/ixxat-introduces-cannet-basiccost-efficient-can-fd-to-ethernet-gateway-for-scalable-industrial-networking/">Ixxat Introduces CAN@net Basic: Cost-Efficient CAN-FD-to-Ethernet-Gateway for Scalable Industrial Networking</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [From MOUs to Markets: Transatlantic Deals Face Reality Test](https://www.eetimes.com/from-mous-to-markets-transatlantic-deals-face-reality-test/)
-**Published:** Thu, 02 Apr 2026 22:00:00 +0000
-
-<p>Why transatlantic execution, not transatlantic symbolism, now matters to the electronics and semiconductor supply chain.</p>
-<p>The post <a href="https://www.eetimes.com/from-mous-to-markets-transatlantic-deals-face-reality-test/">From MOUs to Markets: Transatlantic Deals Face Reality Test</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Imec leads SPINS consortium for quantum pilot line](https://www.electronicsweekly.com/news/business/imec-leads-spins-consortium-for-quantum-pilot-line-2026-04/)
-**Published:** Tue, 07 Apr 2026 09:17:03 +0000
-
-<p>SPINS (Semiconductor Pilot line for Industrial Quantum NanoSystems) has been launched; it is one of the six European quantum pilot lines co-ordinated by imec. The consortium brings together 25 European ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/imec-leads-spins-consortium-for-quantum-pilot-line-2026-04/">Imec leads SPINS consortium for quantum pilot line</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
