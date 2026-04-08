@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-08 05:25 UTC_
+_Last updated: 2026-04-08 07:33 UTC_
 
 ## [Inside Taiwan’s Semiconductor Supremacy](https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/)
 **Published:** Wed, 08 Apr 2026 02:21:05 +0000
@@ -898,11 +898,11 @@ _Last updated: 2026-04-08 05:25 UTC_
 
 ---
 
-## [Ixxat Introduces CAN@net Basic:Cost-Efficient CAN-FD-to-Ethernet-Gateway for Scalable Industrial Networking](https://www.eetimes.com/ixxat-introduces-cannet-basiccost-efficient-can-fd-to-ethernet-gateway-for-scalable-industrial-networking/)
+## [Ixxat Introduces CAN@net Basic: Cost-Efficient CAN-FD-to-Ethernet-Gateway for Scalable Industrial Networking](https://www.eetimes.com/ixxat-introduces-cannet-basiccost-efficient-can-fd-to-ethernet-gateway-for-scalable-industrial-networking/)
 **Published:** Wed, 08 Apr 2026 01:54:24 +0000
 
 <p>Upgrade your industrial networks with CAN@net Basic for efficient, low-latency CAN FD-to-Ethernet integration at just 270 Euros—learn more now!</p>
-<p>The post <a href="https://www.eetimes.com/ixxat-introduces-cannet-basiccost-efficient-can-fd-to-ethernet-gateway-for-scalable-industrial-networking/">Ixxat Introduces CAN@net Basic:Cost-Efficient CAN-FD-to-Ethernet-Gateway for Scalable Industrial Networking</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>The post <a href="https://www.eetimes.com/ixxat-introduces-cannet-basiccost-efficient-can-fd-to-ethernet-gateway-for-scalable-industrial-networking/">Ixxat Introduces CAN@net Basic: Cost-Efficient CAN-FD-to-Ethernet-Gateway for Scalable Industrial Networking</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -919,22 +919,6 @@ _Last updated: 2026-04-08 05:25 UTC_
 
 <p>SPINS (Semiconductor Pilot line for Industrial Quantum NanoSystems) has been launched; it is one of the six European quantum pilot lines co-ordinated by imec. The consortium brings together 25 European ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/imec-leads-spins-consortium-for-quantum-pilot-line-2026-04/">Imec leads SPINS consortium for quantum pilot line</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [QuiX Quantum demonstrates below threshold error mitigation](https://www.electronicsweekly.com/news/business/quix-quantum-demoes-below-threshold-error-mitigation-2026-04/)
-**Published:** Tue, 07 Apr 2026 05:14:05 +0000
-
-<p>QuiX Quantum, the Dutch provider of photonic quantum computing hardware, says it has demonstrated “below threshold” error mitigation for the first time on a photonic quantum computer, suppressing physical qubit ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/quix-quantum-demoes-below-threshold-error-mitigation-2026-04/">QuiX Quantum demonstrates below threshold error mitigation</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [CEA-Leti hooks up with PSMC](https://www.electronicsweekly.com/news/business/cea-leti-hooks-up-with-psmc-2026-04/)
-**Published:** Tue, 07 Apr 2026 05:06:11 +0000
-
-<p>CEA-Leti and CEA-List have hooked up with Powerchip Semiconductor Manufacturing Corporation (PSMC) to make datacentre devices. CEA-List’s Risc-V design expertise and CEA-Leti’s silicon photonics expertise will be combined with PSMC’s ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/cea-leti-hooks-up-with-psmc-2026-04/">CEA-Leti hooks up with PSMC</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
