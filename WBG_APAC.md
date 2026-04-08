@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-08 12:10 UTC_
+_Last updated: 2026-04-08 13:38 UTC_
 
 ## [Inside Taiwan’s Semiconductor Supremacy](https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/)
 **Published:** Wed, 08 Apr 2026 02:21:05 +0000
@@ -15,6 +15,14 @@ _Last updated: 2026-04-08 12:10 UTC_
 
 <p>EPC's new generation of 100V integrated GaN power-stage ICs are targeted at high-performance motion and power systems.</p>
 <p>The post <a href="https://www.eetasia.com/epc-expands-portfolio-of-100v-integrated-gan-power-stage-ics/">EPC Expands Portfolio of 100V Integrated GaN Power Stage ICs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [So You Want to Export Semiconductors?](https://www.semiconductor-digest.com/so-you-want-to-export-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=so-you-want-to-export-semiconductors)
+**Published:** Wed, 08 Apr 2026 13:10:30 +0000
+
+<p>This article explores each agency’s export authority, its licensing requirements and process, and potential violations under each. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/so-you-want-to-export-semiconductors/">So You Want to Export Semiconductors?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,11 +818,19 @@ _Last updated: 2026-04-08 12:10 UTC_
 
 ---
 
-## [SEMI Recognizes U.S. Senator Todd Young with Government Leadership Award for Outstanding Support of American Chip Industry](https://www.semiconductor-digest.com/semi-recognizes-u-s-senator-todd-young-with-government-leadership-award-for-outstanding-support-of-american-chip-industry/?utm_source=rss&utm_medium=rss&utm_campaign=semi-recognizes-u-s-senator-todd-young-with-government-leadership-award-for-outstanding-support-of-american-chip-industry)
-**Published:** Fri, 06 Mar 2026 19:55:47 +0000
+## [Renesas Rad-Hard ICs Power Artemis II Mission](https://www.powerelectronicsnews.com/renesas-rad-hard-ics-power-artemis-ii-mission/)
+**Published:** Wed, 08 Apr 2026 13:00:00 +0000
 
-<p>SEMI Americas President Joe Stockunas gave the award to Senator Young at a reception on March 4 at the U.S. Capitol during the SEMI Washington Fly-In.  </p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-recognizes-u-s-senator-todd-young-with-government-leadership-award-for-outstanding-support-of-american-chip-industry/">SEMI Recognizes U.S. Senator Todd Young with Government Leadership Award for Outstanding Support of American Chip Industry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Renesas Rad-Hard ICs Power Artemis II Mission." class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Artemis-II-pressphoto.jpg?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>Radiation-hardened ICs support power, signal, and control systems in a crewed deep-space mission around the Moon.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/renesas-rad-hard-ics-power-artemis-ii-mission/">Renesas Rad-Hard ICs Power Artemis II Mission</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Transistor-sized sensors tackle thermal management from GPUs to batteries](https://www.powerelectronicsnews.com/transistor-sized-sensors-tackle-thermal-management-from-gpus-to-batteries/)
+**Published:** Wed, 08 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="725" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image_112241.png?fit=844%2C725" style="display: block; margin-bottom: 5px; clear: both;" width="844" /><p>Digid commercialized the world's smallest sensors, resembling a transistor, with the potential to improve GPU load balancing efficiently.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/transistor-sized-sensors-tackle-thermal-management-from-gpus-to-batteries/">Transistor-sized sensors tackle thermal management from GPUs to batteries</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,22 +898,6 @@ _Last updated: 2026-04-08 12:10 UTC_
 
 ---
 
-## [Bourns Adds AEC-Q Option to SSA-2 Current Sensors](https://www.powerelectronicsnews.com/bourns-adds-aec-q-option-to-ssa-2-current-sensors/)
-**Published:** Thu, 02 Apr 2026 15:00:00 +0000
-
-<img alt="Bourns Adds AEC-Q Option to SSA-2 Current Sensors." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/bourns_ssa2_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new assembly option supports automotive compliance, PPAP workflows, and reliable operation in harsh environments.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/bourns-adds-aec-q-option-to-ssa-2-current-sensors/">Bourns Adds AEC-Q Option to SSA-2 Current Sensors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Corner: Analog Devices’ Etienne Moulin on the Convergence of Robotics and Automotive Power Requirements](https://www.powerelectronicsnews.com/power-corner-analog-devices-etienne-moulin-on-the-convergence-of-robotics-and-automotive-power-requirements/)
-**Published:** Thu, 02 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/ADI.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>Description In this episode of PEN&#8217;s Power Corner, Etienne Moulin, General Manager of High-Performance Power at Analog Devices, examines the growing convergence of robotics and...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-analog-devices-etienne-moulin-on-the-convergence-of-robotics-and-automotive-power-requirements/">Power Corner: Analog Devices’ Etienne Moulin on the Convergence of Robotics and Automotive Power Requirements</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Ixxat Introduces CAN@net Basic: Cost-Efficient CAN-FD-to-Ethernet-Gateway for Scalable Industrial Networking](https://www.eetimes.com/ixxat-introduces-cannet-basiccost-efficient-can-fd-to-ethernet-gateway-for-scalable-industrial-networking/)
 **Published:** Wed, 08 Apr 2026 01:54:24 +0000
 
@@ -909,7 +909,7 @@ _Last updated: 2026-04-08 12:10 UTC_
 ## [Fungus Inspired Semiconductors For Flexible Electronics](https://www.electronicsforu.com/news/fungus-inspired-semiconductors-for-flexible-electronics)
 **Published:** Tue, 07 Apr 2026 07:33:42 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/2062023_Oksana-Ostroverkhova-Lab_College-of-Science_0125-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Could pigments from fungi redefine electronics? Scientists are uncovering organic materials that enable flexible, light-responsive devices with unusual electronic behaviours. Researchers at Oregon State University are advancing organic semiconductor technologies inspired by nature, pointing to a future of flexible, low cost and potentially more sustainable electronic devices. Building on principles already seen in OLED displays, [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/2062023_Oksana-Ostroverkhova-Lab_College-of-Science_0125-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers at Oregon State University are advancing organic semiconductor technologies inspired by nature, pointing to a future of flexible, low cost and potentially more sustainable electronic devices. Building on principles already seen in OLED displays, the work explores how carbon based materials and even fungi derived pigments can enable electronics that bend, stretch and interact [&#8230;]
 
 ---
 
