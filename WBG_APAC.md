@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-08 13:38 UTC_
+_Last updated: 2026-04-08 20:55 UTC_
 
 ## [Inside Taiwan’s Semiconductor Supremacy](https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/)
 **Published:** Wed, 08 Apr 2026 02:21:05 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-04-08 13:38 UTC_
 
 ---
 
+## [APEC 2026: AmberSemi’s Direct 48V-to-Load Architecture With CEO Thar Casey](https://www.powerelectronicsnews.com/apec-2026-ambersemis-direct-48v-to-load-architecture-with-ceo-thar-casey/)
+**Published:** Wed, 08 Apr 2026 17:56:06 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AmberSemi_thumbnail.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>Description In this APEC 2026 interview, Aalyia Shaukat speaks with Thar Casey, CEO of Amber Semi, about the company&#8217;s approach to vertical power delivery and...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/apec-2026-ambersemis-direct-48v-to-load-architecture-with-ceo-thar-casey/">APEC 2026: AmberSemi&#8217;s Direct 48V-to-Load Architecture With CEO Thar Casey</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Renesas Rad-Hard ICs Power Artemis II Mission](https://www.powerelectronicsnews.com/renesas-rad-hard-ics-power-artemis-ii-mission/)
 **Published:** Wed, 08 Apr 2026 13:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2026-04-08 13:38 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_1514059968.jpeg?fit=8000%2C4500" style="display: block; margin-bottom: 5px; clear: both;" width="8000" /><p>The role of the SiO2/SiC interface in SiC transistors, focusing on the lattice defects and chemical challenges that impact performance.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/reliability-of-the-sio2-sic-interface-in-sic-power-transistors/">Reliability of the SiO2/SiC Interface in SiC Power Transistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Mitsubishi Electric Enters ROHM–Toshiba Chip Integration Talks](https://www.powerelectronicsnews.com/mitsubishi-electric-enters-rohm-toshiba-chip-integration-talks/)
-**Published:** Thu, 02 Apr 2026 17:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5265" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_1482937173-1.jpeg?fit=8178%2C5265" style="display: block; margin-bottom: 5px; clear: both;" width="8178" /><p>Five companies begin talks to combine semiconductor and power device operations, aiming to build a globally competitive Japanese chip business.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/mitsubishi-electric-enters-rohm-toshiba-chip-integration-talks/">Mitsubishi Electric Enters ROHM–Toshiba Chip Integration Talks</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
