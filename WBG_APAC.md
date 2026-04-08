@@ -1,36 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-07 22:52 UTC_
+_Last updated: 2026-04-08 05:25 UTC_
+
+## [Inside Taiwan’s Semiconductor Supremacy](https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/)
+**Published:** Wed, 08 Apr 2026 02:21:05 +0000
+
+<p>Here's a look at Taiwan's tightening grip on the global economy, dominating the semiconductor manufacturing industry.</p>
+<p>The post <a href="https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/">Inside Taiwan&#8217;s Semiconductor Supremacy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [EPC Expands Portfolio of 100V Integrated GaN Power Stage ICs](https://www.eetasia.com/epc-expands-portfolio-of-100v-integrated-gan-power-stage-ics/)
 **Published:** Tue, 07 Apr 2026 02:24:02 +0000
 
 <p>EPC's new generation of 100V integrated GaN power-stage ICs are targeted at high-performance motion and power systems.</p>
 <p>The post <a href="https://www.eetasia.com/epc-expands-portfolio-of-100v-integrated-gan-power-stage-ics/">EPC Expands Portfolio of 100V Integrated GaN Power Stage ICs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027](https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/)
-**Published:** Thu, 02 Apr 2026 02:29:03 +0000
-
-<p>Worldwide 300mm fab equipment spending is expected to increase by 18% to $133 billion in 2026 and by 14% to $151 billion in 2027, according to SEMI&#8217;s latest 300mm Fab Outlook. This strong growth reflects surging AI chip demand for data centers and edge devices, as well as the growing commitment to semiconductor self-sufficiency across [&#8230;]</p>
-<p>The post <a href="https://www.eetasia.com/semi-forecasts-chip-equipment-investments-to-reach-beyond-150b-in-2027/">SEMI Forecasts Chip Equipment Investments to Reach Beyond $150B in 2027</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Taiwan Advances WBG Strategy Through Integrated Power Device and System-Level Innovation](https://www.eetasia.com/taiwan-advances-wbg-strategy-through-integrated-power-device-and-system-level-innovation/)
-**Published:** Thu, 02 Apr 2026 02:14:16 +0000
-
-<p>Taiwan is strengthening its WBG leadership by integrating GaN and SiC devices into advanced power system applications.</p>
-<p>The post <a href="https://www.eetasia.com/taiwan-advances-wbg-strategy-through-integrated-power-device-and-system-level-innovation/">Taiwan Advances WBG Strategy Through Integrated Power Device and System-Level Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Poland at the Center of the Global Semiconductor Race](https://www.eetasia.com/poland-at-the-center-of-the-global-semiconductor-race/)
-**Published:** Wed, 01 Apr 2026 06:47:44 +0000
-
-<p>Covering a significant portion of Poland's semiconductor value chain, Pomerania is emerging as one of the fastest-growing technology hubs in Central Europe.</p>
-<p>The post <a href="https://www.eetasia.com/poland-at-the-center-of-the-global-semiconductor-race/">Poland at the Center of the Global Semiconductor Race</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -911,6 +895,14 @@ _Last updated: 2026-04-07 22:52 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/ADI.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>Description In this episode of PEN&#8217;s Power Corner, Etienne Moulin, General Manager of High-Performance Power at Analog Devices, examines the growing convergence of robotics and...</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/power-corner-analog-devices-etienne-moulin-on-the-convergence-of-robotics-and-automotive-power-requirements/">Power Corner: Analog Devices’ Etienne Moulin on the Convergence of Robotics and Automotive Power Requirements</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Ixxat Introduces CAN@net Basic:Cost-Efficient CAN-FD-to-Ethernet-Gateway for Scalable Industrial Networking](https://www.eetimes.com/ixxat-introduces-cannet-basiccost-efficient-can-fd-to-ethernet-gateway-for-scalable-industrial-networking/)
+**Published:** Wed, 08 Apr 2026 01:54:24 +0000
+
+<p>Upgrade your industrial networks with CAN@net Basic for efficient, low-latency CAN FD-to-Ethernet integration at just 270 Euros—learn more now!</p>
+<p>The post <a href="https://www.eetimes.com/ixxat-introduces-cannet-basiccost-efficient-can-fd-to-ethernet-gateway-for-scalable-industrial-networking/">Ixxat Introduces CAN@net Basic:Cost-Efficient CAN-FD-to-Ethernet-Gateway for Scalable Industrial Networking</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
