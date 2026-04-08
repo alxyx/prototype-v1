@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-08 09:15 UTC_
+_Last updated: 2026-04-08 12:10 UTC_
 
 ## [Inside Taiwan’s Semiconductor Supremacy](https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/)
 **Published:** Wed, 08 Apr 2026 02:21:05 +0000
