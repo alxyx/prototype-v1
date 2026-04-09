@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-09 12:12 UTC_
+_Last updated: 2026-04-09 14:18 UTC_
 
 ## [Seoul Semiconductor Granted “High-Tech Enterprise” Certification in Vietnam](https://www.eetasia.com/seoul-semiconductor-granted-high-tech-enterprise-certification-in-vietnam/)
 **Published:** Thu, 09 Apr 2026 03:36:35 +0000
@@ -826,6 +826,22 @@ _Last updated: 2026-04-09 12:12 UTC_
 
 ---
 
+## [Power Corner: Allegro’s Anuj Jain on TMR—The New Frontier in Magnetic Sensing](https://www.powerelectronicsnews.com/power-corner-allegros-anuj-jain-on-tmr-the-new-frontier-in-magnetic-sensing/)
+**Published:** Thu, 09 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1105" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AllegroTMR.png?fit=1946%2C1105" style="display: block; margin-bottom: 5px; clear: both;" width="1946" /><p>Anuj Jain discusses how tunneling magnetoresistance compares to Hall effect sensing across automotive, data center, and robotics applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-allegros-anuj-jain-on-tmr-the-new-frontier-in-magnetic-sensing/">Power Corner: Allegro’s Anuj Jain on TMR—The New Frontier in Magnetic Sensing</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [How the Rohm-Toshiba-Mitsubishi MOU Marks Japan’s Comeback](https://www.powerelectronicsnews.com/how-the-rohm-toshiba-mitsubishi-mou-marks-japans-comeback/)
+**Published:** Thu, 09 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3456" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_1913922495.jpeg?fit=5184%2C3456" style="display: block; margin-bottom: 5px; clear: both;" width="5184" /><p>“Big in Japan” was the title of a huge hit song in the 1980s. During that same period, the Japanese semiconductor industry was experiencing one...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/how-the-rohm-toshiba-mitsubishi-mou-marks-japans-comeback/">How the Rohm-Toshiba-Mitsubishi MOU Marks Japan&#8217;s Comeback</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [APEC 2026: AmberSemi’s Direct 48V-to-Load Architecture With CEO Thar Casey](https://www.powerelectronicsnews.com/apec-2026-ambersemis-direct-48v-to-load-architecture-with-ceo-thar-casey/)
 **Published:** Wed, 08 Apr 2026 17:56:06 +0000
 
@@ -890,22 +906,6 @@ _Last updated: 2026-04-09 12:12 UTC_
 
 ---
 
-## [APEC 2026, Vertical GaN in OBC Design, Rectifier Diode Simulation in QSPICE: Power Electronics Week Insights](https://www.powerelectronicsnews.com/apec-2026-vertical-gan-in-obc-design-rectifier-diode-simulation-in-qspice-power-electronics-week-insights/)
-**Published:** Fri, 03 Apr 2026 13:30:47 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on APEC 2026, Vertical GaN in OBC Design, and Rectifier Diode Simulation in QSPICE!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/apec-2026-vertical-gan-in-obc-design-rectifier-diode-simulation-in-qspice-power-electronics-week-insights/">APEC 2026, Vertical GaN in OBC Design, Rectifier Diode Simulation in QSPICE: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Reliability of the SiO2/SiC Interface in SiC Power Transistors](https://www.powerelectronicsnews.com/reliability-of-the-sio2-sic-interface-in-sic-power-transistors/)
-**Published:** Fri, 03 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_1514059968.jpeg?fit=8000%2C4500" style="display: block; margin-bottom: 5px; clear: both;" width="8000" /><p>The role of the SiO2/SiC interface in SiC transistors, focusing on the lattice defects and chemical challenges that impact performance.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/reliability-of-the-sio2-sic-interface-in-sic-power-transistors/">Reliability of the SiO2/SiC Interface in SiC Power Transistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Which Chips Actually Matter? Europe Reassesses Its Semiconductor Strategy After Nexperia Wakeup Call](https://www.eetimes.com/which-chips-actually-matter-europe-reassesses-its-semiconductor-strategy-after-nexperia-wakeup-call/)
 **Published:** Thu, 09 Apr 2026 08:00:00 +0000
 
@@ -919,6 +919,13 @@ _Last updated: 2026-04-09 12:12 UTC_
 
 <p>Upgrade your industrial networks with CAN@net Basic for efficient, low-latency CAN FD-to-Ethernet integration at just 270 Euros—learn more now!</p>
 <p>The post <a href="https://www.eetimes.com/ixxat-introduces-cannet-basiccost-efficient-can-fd-to-ethernet-gateway-for-scalable-industrial-networking/">Ixxat Introduces CAN@net Basic: Cost-Efficient CAN-FD-to-Ethernet-Gateway for Scalable Industrial Networking</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Electronics R&D Awards in India: EFY Awards at India Electronics Week (IEW)](https://www.electronicsforu.com/special/events/electronics-rd-awards-in-india-efy-awards-at-india-electronics-week-iew)
+**Published:** Thu, 09 Apr 2026 12:26:35 +0000
+
+<img alt="ELECTRONICS FOR YOU’S R&amp;D Awards" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/efy-rnd-award-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Electronics R&#38;D Awards by the Electronics For You team aim to recognise innovation in the field of electronics in India. These awards are designed to highlight and promote individuals and organisations that are actively working on research and development in this complex and challenging domain. Held as part of India Electronics Week, the initiative [&#8230;]
 
 ---
 
