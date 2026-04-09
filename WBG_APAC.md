@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-08 20:55 UTC_
+_Last updated: 2026-04-09 02:37 UTC_
 
 ## [Inside Taiwan’s Semiconductor Supremacy](https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/)
 **Published:** Wed, 08 Apr 2026 02:21:05 +0000
@@ -15,6 +15,30 @@ _Last updated: 2026-04-08 20:55 UTC_
 
 <p>EPC's new generation of 100V integrated GaN power-stage ICs are targeted at high-performance motion and power systems.</p>
 <p>The post <a href="https://www.eetasia.com/epc-expands-portfolio-of-100v-integrated-gan-power-stage-ics/">EPC Expands Portfolio of 100V Integrated GaN Power Stage ICs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Everspin Technologies Expands On-Shore MRAM Manufacturing Capacity](https://www.semiconductor-digest.com/everspin-technologies-expands-on-shore-mram-manufacturing-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=everspin-technologies-expands-on-shore-mram-manufacturing-capacity)
+**Published:** Wed, 08 Apr 2026 21:31:29 +0000
+
+<p>Everspin Technologies Inc., a developer and manufacturer of persistent Magnetoresistive Random Access Memory (MRAM) solutions, today announced its strategic manufacturing agreement with Microchip Technology to expand production capacity and strengthen long-term supply.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/everspin-technologies-expands-on-shore-mram-manufacturing-capacity/">Everspin Technologies Expands On-Shore MRAM Manufacturing Capacity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Kinetic Technologies Finalizes Majority Stake Agreement with Cyient Semiconductors](https://www.semiconductor-digest.com/kinetic-technologies-finalizes-majority-stake-agreement-with-cyient-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=kinetic-technologies-finalizes-majority-stake-agreement-with-cyient-semiconductors)
+**Published:** Wed, 08 Apr 2026 21:24:55 +0000
+
+<p>Kinetic Technologies (Kinetic) today announced that it has achieved the necessary steps to complete an agreement under which Cyient Semiconductors has secured a majority stake in Kinetic for a total consideration of $85 million USD.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kinetic-technologies-finalizes-majority-stake-agreement-with-cyient-semiconductors/">Kinetic Technologies Finalizes Majority Stake Agreement with Cyient Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Reports Global Semiconductor Equipment Billings Reached $135 Billion in 2025, Up 15% Year-on-Year](https://www.semiconductor-digest.com/semi-reports-global-semiconductor-equipment-billings-reached-135-billion-in-2025-up-15-year-on-year/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-global-semiconductor-equipment-billings-reached-135-billion-in-2025-up-15-year-on-year)
+**Published:** Wed, 08 Apr 2026 21:22:04 +0000
+
+<p>Worldwide sales of semiconductor manufacturing equipment increased 15% to $135.1 billion in 2025 from $117.1 billion in 2024, driven by continued investment in advanced logic, memory, and AI-related capacity expansion.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-global-semiconductor-equipment-billings-reached-135-billion-in-2025-up-15-year-on-year/">SEMI Reports Global Semiconductor Equipment Billings Reached $135 Billion in 2025, Up 15% Year-on-Year</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,30 +815,6 @@ _Last updated: 2026-04-08 20:55 UTC_
 
 <p>STMicroelectronics is now entering high-volume production for its silicon photonics-based PIC100 platform used by hyperscalers for optical interconnect for data centers and AI clusters.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/stmicroelectronics-enters-high-volume-production-of-its-silicon-photonics-platform/">STMicroelectronics Enters High-Volume Production of its Silicon Photonics Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ACM Research Receives Multiple Advanced Packaging Equipment Orders](https://www.semiconductor-digest.com/acm-research-receives-multiple-advanced-packaging-equipment-orders/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-receives-multiple-advanced-packaging-equipment-orders)
-**Published:** Sun, 08 Mar 2026 23:45:50 +0000
-
-<p>ACM Research, Inc., a supplier of wafer and panel processing solutions for semiconductor and advanced packaging applications, today announced it has received multiple advanced packaging equipment orders from leading global semiconductor and technology customers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/acm-research-receives-multiple-advanced-packaging-equipment-orders/">ACM Research Receives Multiple Advanced Packaging Equipment Orders</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Siemens Accelerates Integrated Circuit Design and Verification with Agentic AI in Questa One](https://www.semiconductor-digest.com/siemens-accelerates-integrated-circuit-design-and-verification-with-agentic-ai-in-questa-one/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-accelerates-integrated-circuit-design-and-verification-with-agentic-ai-in-questa-one)
-**Published:** Sun, 08 Mar 2026 23:32:43 +0000
-
-<p>Siemens today announced the Questa One Agentic Toolkit, which brings domain-scoped agentic AI workflows to its Questa One smart verification software portfolio.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-accelerates-integrated-circuit-design-and-verification-with-agentic-ai-in-questa-one/">Siemens Accelerates Integrated Circuit Design and Verification with Agentic AI in Questa One</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [PhotonIC Debuts Product Portfolio Based Upon Its Platform: Resiliency of Optoelectronic Chip Supply-Chain](https://www.semiconductor-digest.com/photonic-debuts-product-portfolio-based-upon-its-platform-resiliency-of-optoelectronic-chip-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=photonic-debuts-product-portfolio-based-upon-its-platform-resiliency-of-optoelectronic-chip-supply-chain)
-**Published:** Sun, 08 Mar 2026 23:18:39 +0000
-
-<p>The ROCS platform leverages CMOS and SiGe processes across multi-fabs worldwide; Company to showcase 10G – 1.6T products at OFC 2026 in Los Angeles, CA.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/photonic-debuts-product-portfolio-based-upon-its-platform-resiliency-of-optoelectronic-chip-supply-chain/">PhotonIC Debuts Product Portfolio Based Upon Its Platform: Resiliency of Optoelectronic Chip Supply-Chain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
