@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-09 14:18 UTC_
+_Last updated: 2026-04-09 18:12 UTC_
 
 ## [Seoul Semiconductor Granted “High-Tech Enterprise” Certification in Vietnam](https://www.eetasia.com/seoul-semiconductor-granted-high-tech-enterprise-certification-in-vietnam/)
 **Published:** Thu, 09 Apr 2026 03:36:35 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-04-09 14:18 UTC_
 
 <p>Here's a look at Taiwan's tightening grip on the global economy, dominating the semiconductor manufacturing industry.</p>
 <p>The post <a href="https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/">Inside Taiwan&#8217;s Semiconductor Supremacy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam](https://www.semiconductor-digest.com/seoul-semiconductor-recognized-as-a-high-tech-enterprise-in-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=seoul-semiconductor-recognized-as-a-high-tech-enterprise-in-vietnam)
+**Published:** Thu, 09 Apr 2026 16:00:00 +0000
+
+<p>Seoul Semiconductor Co., Ltd., a global opto-semiconductor company, announced that it has officially been granted the “High-Tech Enterprise” certification in Vietnam.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/seoul-semiconductor-recognized-as-a-high-tech-enterprise-in-vietnam/">Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Blaize Announces Planned Launch of Blaize AI Services](https://www.semiconductor-digest.com/blaize-announces-planned-launch-of-blaize-ai-services/?utm_source=rss&utm_medium=rss&utm_campaign=blaize-announces-planned-launch-of-blaize-ai-services)
+**Published:** Thu, 09 Apr 2026 15:43:45 +0000
+
+<p>New platform is designed to help cloud providers, data center operators, system integrators, and enterprises deploy application-level AI services faster, reduce cost per query, and create recurring AI service revenue.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/blaize-announces-planned-launch-of-blaize-ai-services/">Blaize Announces Planned Launch of Blaize AI Services</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens Accelerates AI Chip Verification to Trillion‑Cycle Scale with NVIDIA Technology](https://www.semiconductor-digest.com/siemens-accelerates-ai-chip-verification-to-trillion-cycle-scale-with-nvidia-technology/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-accelerates-ai-chip-verification-to-trillion-cycle-scale-with-nvidia-technology)
+**Published:** Thu, 09 Apr 2026 15:35:46 +0000
+
+<p>Siemens announced today that its Veloce proFPGA CS hardware-assisted verification and validation system is empowering designers and system architects to create even more optimized designs by running and capturing trillions of verification cycles, prior to first silicon availability.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-accelerates-ai-chip-verification-to-trillion-cycle-scale-with-nvidia-technology/">Siemens Accelerates AI Chip Verification to Trillion‑Cycle Scale with NVIDIA Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [An Integratable Optical Isolator Chip Is Now Available for Mass Production](https://www.semiconductor-digest.com/an-integratable-optical-isolator-chip-is-now-available-for-mass-production/?utm_source=rss&utm_medium=rss&utm_campaign=an-integratable-optical-isolator-chip-is-now-available-for-mass-production)
+**Published:** Thu, 09 Apr 2026 14:34:23 +0000
+
+<p>PhotoniSol Inc. announced a new technical breakthrough with the successful demonstration of monolithically integrated optical isolator chips with sputter-coated magneto-optic films on silicon waveguides, whose processes can be adapted to conventional CMOS fabrication lines.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/an-integratable-optical-isolator-chip-is-now-available-for-mass-production/">An Integratable Optical Isolator Chip Is Now Available for Mass Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,35 +826,11 @@ _Last updated: 2026-04-09 14:18 UTC_
 
 ---
 
-## [Sydney Researchers Build Ultra-Compact AI Chip Operating at Speed of Light](https://www.semiconductor-digest.com/sydney-researchers-build-ultra-compact-ai-chip-operating-at-speed-of-light/?utm_source=rss&utm_medium=rss&utm_campaign=sydney-researchers-build-ultra-compact-ai-chip-operating-at-speed-of-light)
-**Published:** Tue, 10 Mar 2026 01:32:01 +0000
+## [EPC Expands 100V GaN Power Stage IC Portfolio](https://www.powerelectronicsnews.com/epc-expands-100v-gan-power-stage-ic-portfolio/)
+**Published:** Thu, 09 Apr 2026 15:00:00 +0000
 
-<p>Australian researchers have built an ultra-compact artificial intelligence (AI) chip that is able to make calculations using the power of light, at the speed of light.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sydney-researchers-build-ultra-compact-ai-chip-operating-at-speed-of-light/">Sydney Researchers Build Ultra-Compact AI Chip Operating at Speed of Light</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ScaleBridge Labs and Silicon Catalyst Launch National Initiative to Accelerate Semiconductor Innovation for the Defense Industry](https://www.semiconductor-digest.com/scalebridge-labs-and-silicon-catalyst-launch-national-initiative-to-accelerate-semiconductor-innovation-for-the-defense-industry/?utm_source=rss&utm_medium=rss&utm_campaign=scalebridge-labs-and-silicon-catalyst-launch-national-initiative-to-accelerate-semiconductor-innovation-for-the-defense-industry)
-**Published:** Tue, 10 Mar 2026 01:28:34 +0000
-
-<p>Collaboration to enable dual-use semiconductor startups to access government markets and scale technologies vital to U.S. national security.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/scalebridge-labs-and-silicon-catalyst-launch-national-initiative-to-accelerate-semiconductor-innovation-for-the-defense-industry/">ScaleBridge Labs and Silicon Catalyst Launch National Initiative to Accelerate Semiconductor Innovation for the Defense Industry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [MEMS & Sensors Executive Congress 2026 to Explore MEMS and Sensors at the Edge of Perception](https://www.semiconductor-digest.com/mems-sensors-executive-congress-2026-to-explore-mems-and-sensors-at-the-edge-of-perception/?utm_source=rss&utm_medium=rss&utm_campaign=mems-sensors-executive-congress-2026-to-explore-mems-and-sensors-at-the-edge-of-perception)
-**Published:** Tue, 10 Mar 2026 01:25:40 +0000
-
-<p>The conference will spotlight emerging sensor opportunities across automotive, industrial, consumer, aerospace, healthcare, and intelligent systems markets.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/mems-sensors-executive-congress-2026-to-explore-mems-and-sensors-at-the-edge-of-perception/">MEMS &#038; Sensors Executive Congress 2026 to Explore MEMS and Sensors at the Edge of Perception</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [STMicroelectronics Enters High-Volume Production of its Silicon Photonics Platform](https://www.semiconductor-digest.com/stmicroelectronics-enters-high-volume-production-of-its-silicon-photonics-platform/?utm_source=rss&utm_medium=rss&utm_campaign=stmicroelectronics-enters-high-volume-production-of-its-silicon-photonics-platform)
-**Published:** Tue, 10 Mar 2026 01:22:08 +0000
-
-<p>STMicroelectronics is now entering high-volume production for its silicon photonics-based PIC100 platform used by hyperscalers for optical interconnect for data centers and AI clusters.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/stmicroelectronics-enters-high-volume-production-of-its-silicon-photonics-platform/">STMicroelectronics Enters High-Volume Production of its Silicon Photonics Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="EPC Expands 100V GaN Power Stage IC Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/EPC2310x-Family-PR-Graphic-333-250-p-L-97.jpg?fit=312%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="312" /><p>The new GaN ICs integrate power stages and control, improving efficiency, safety, and design simplicity in motor drive and power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/epc-expands-100v-gan-power-stage-ic-portfolio/">EPC Expands 100V GaN Power Stage IC Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -895,14 +903,6 @@ _Last updated: 2026-04-09 14:18 UTC_
 
 <img alt="Infineon Launches TLVR Quad-Phase AI Power Module." class="webfeedsFeaturedVisual wp-post-image" height="1196" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Infineon_PR.jpg?fit=2126%2C1196" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>Quad-phase module with TLVR boosts current density and transient response, enabling compact, efficient power delivery for AI processors.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/infineon-launches-tlvr-quad-phase-ai-power-module/">Infineon Launches TLVR Quad-Phase AI Power Module</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ST Introduces STripFET F8 MOSFET Series for Automotive](https://www.powerelectronicsnews.com/st-introduces-stripfet-f8-mosfet-series-for-automotive/)
-**Published:** Fri, 03 Apr 2026 15:00:00 +0000
-
-<img alt="ST Introduces STripFET F8 MOSFET Series for Automotive." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/N4768I-Mar-31-2026-Smart-STripFET-F8_PR-IMAGE.jpg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>New MOSFET series improves efficiency and thermal performance while reducing footprint in automotive power and battery systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-stripfet-f8-mosfet-series-for-automotive/">ST Introduces STripFET F8 MOSFET Series for Automotive</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
