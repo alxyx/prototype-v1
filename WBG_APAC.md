@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-09 18:12 UTC_
+_Last updated: 2026-04-09 23:50 UTC_
 
 ## [Seoul Semiconductor Granted “High-Tech Enterprise” Certification in Vietnam](https://www.eetasia.com/seoul-semiconductor-granted-high-tech-enterprise-certification-in-vietnam/)
 **Published:** Thu, 09 Apr 2026 03:36:35 +0000
@@ -826,6 +826,22 @@ _Last updated: 2026-04-09 18:12 UTC_
 
 ---
 
+## [Infineon Talks Powering AI and Infrastructure](https://www.powerelectronicsnews.com/infineon-talks-powering-ai-and-infrastructure/)
+**Published:** Thu, 09 Apr 2026 19:36:44 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="677" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Infineonthumbnail.png?fit=1222%2C677" style="display: block; margin-bottom: 5px; clear: both;" width="1222" /><p>Infineon talks about how it is powering AI from the grid to the core as well as the infrastructure to support it.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-talks-powering-ai-and-infrastructure/">Infineon Talks Powering AI and Infrastructure</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [At APEC 2026, AOS showcases its expanding portfolio with advanced controllers, power stages, and protection solutions](https://www.powerelectronicsnews.com/at-apec-2026-aos-showcases-its-expanding-portfolio-with-advanced-controllers-power-stages-and-protection-solutions/)
+**Published:** Thu, 09 Apr 2026 19:36:37 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1410" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AOSthumbnail.png?fit=2546%2C1410" style="display: block; margin-bottom: 5px; clear: both;" width="2546" /><p>AOS showcases advanced solutions for AI Core Power. These new products offer advanced features that enable designers to meet power management challenges in several key...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/at-apec-2026-aos-showcases-its-expanding-portfolio-with-advanced-controllers-power-stages-and-protection-solutions/">At APEC 2026, AOS showcases its expanding portfolio with advanced controllers, power stages, and protection solutions</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [EPC Expands 100V GaN Power Stage IC Portfolio](https://www.powerelectronicsnews.com/epc-expands-100v-gan-power-stage-ic-portfolio/)
 **Published:** Thu, 09 Apr 2026 15:00:00 +0000
 
@@ -887,22 +903,6 @@ _Last updated: 2026-04-09 18:12 UTC_
 
 <img alt="Vishay Launches Automotive PV MOSFET Driver." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Vishay_MOSFET_PR.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new driver enables faster switching, reinforced isolation, and simpler high-voltage designs for EV and industrial power systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/vishay-launches-automotive-pv-mosfet-driver/">Vishay Launches Automotive PV MOSFET Driver</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [EPC’s CEO Analyzes GaN’s Move into Robotics and Data Centers](https://www.powerelectronicsnews.com/epcs-ceo-analyzes-gans-move-into-robotics-and-data-centers/)
-**Published:** Mon, 06 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3333" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_504493461-1.jpeg?fit=5000%2C3333" style="display: block; margin-bottom: 5px; clear: both;" width="5000" /><p>EPC CEO Alex Lidow discusses the company’s strategy and readiness to serve the robotics and data center markets.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/epcs-ceo-analyzes-gans-move-into-robotics-and-data-centers/">EPC’s CEO Analyzes GaN’s Move into Robotics and Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Infineon Launches TLVR Quad-Phase AI Power Module](https://www.powerelectronicsnews.com/infineon-launches-tlvr-quad-phase-ai-power-module/)
-**Published:** Fri, 03 Apr 2026 17:00:00 +0000
-
-<img alt="Infineon Launches TLVR Quad-Phase AI Power Module." class="webfeedsFeaturedVisual wp-post-image" height="1196" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Infineon_PR.jpg?fit=2126%2C1196" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>Quad-phase module with TLVR boosts current density and transient response, enabling compact, efficient power delivery for AI processors.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-launches-tlvr-quad-phase-ai-power-module/">Infineon Launches TLVR Quad-Phase AI Power Module</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
