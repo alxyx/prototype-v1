@@ -1,20 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-09 02:37 UTC_
+_Last updated: 2026-04-09 12:12 UTC_
+
+## [Seoul Semiconductor Granted “High-Tech Enterprise” Certification in Vietnam](https://www.eetasia.com/seoul-semiconductor-granted-high-tech-enterprise-certification-in-vietnam/)
+**Published:** Thu, 09 Apr 2026 03:36:35 +0000
+
+<p>The certification formally recognizes Seoul Semiconductor's technological capabilities and competitive position in the optoelectronics industry.</p>
+<p>The post <a href="https://www.eetasia.com/seoul-semiconductor-granted-high-tech-enterprise-certification-in-vietnam/">Seoul Semiconductor Granted &#8220;High-Tech Enterprise&#8221; Certification in Vietnam</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMI: Global Semiconductor Equipment Billings Up 15% YoY in 2025](https://www.eetasia.com/semi-global-semiconductor-equipment-billings-up-15-yoy-in-2025/)
+**Published:** Thu, 09 Apr 2026 03:26:13 +0000
+
+<p>Continued investment in advanced logic, memory, and AI-related capacity expansion fueled the 15% YoY growth of the global chip manufacturing market.</p>
+<p>The post <a href="https://www.eetasia.com/semi-global-semiconductor-equipment-billings-up-15-yoy-in-2025/">SEMI: Global Semiconductor Equipment Billings Up 15% YoY in 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Inside Taiwan’s Semiconductor Supremacy](https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/)
 **Published:** Wed, 08 Apr 2026 02:21:05 +0000
 
 <p>Here's a look at Taiwan's tightening grip on the global economy, dominating the semiconductor manufacturing industry.</p>
 <p>The post <a href="https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/">Inside Taiwan&#8217;s Semiconductor Supremacy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [EPC Expands Portfolio of 100V Integrated GaN Power Stage ICs](https://www.eetasia.com/epc-expands-portfolio-of-100v-integrated-gan-power-stage-ics/)
-**Published:** Tue, 07 Apr 2026 02:24:02 +0000
-
-<p>EPC's new generation of 100V integrated GaN power-stage ICs are targeted at high-performance motion and power systems.</p>
-<p>The post <a href="https://www.eetasia.com/epc-expands-portfolio-of-100v-integrated-gan-power-stage-ics/">EPC Expands Portfolio of 100V Integrated GaN Power Stage ICs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -898,6 +906,14 @@ _Last updated: 2026-04-09 02:37 UTC_
 
 ---
 
+## [Which Chips Actually Matter? Europe Reassesses Its Semiconductor Strategy After Nexperia Wakeup Call](https://www.eetimes.com/which-chips-actually-matter-europe-reassesses-its-semiconductor-strategy-after-nexperia-wakeup-call/)
+**Published:** Thu, 09 Apr 2026 08:00:00 +0000
+
+<p>As the Nexperia episode sharpens Europe’s focus, experts say resilience will hinge on application relevance, supply chain depth, and smarter investment priorities.</p>
+<p>The post <a href="https://www.eetimes.com/which-chips-actually-matter-europe-reassesses-its-semiconductor-strategy-after-nexperia-wakeup-call/">Which Chips Actually Matter? Europe Reassesses Its Semiconductor Strategy After Nexperia Wakeup Call</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Ixxat Introduces CAN@net Basic: Cost-Efficient CAN-FD-to-Ethernet-Gateway for Scalable Industrial Networking](https://www.eetimes.com/ixxat-introduces-cannet-basiccost-efficient-can-fd-to-ethernet-gateway-for-scalable-industrial-networking/)
 **Published:** Wed, 08 Apr 2026 01:54:24 +0000
 
@@ -906,17 +922,10 @@ _Last updated: 2026-04-09 02:37 UTC_
 
 ---
 
-## [Fungus Inspired Semiconductors For Flexible Electronics](https://www.electronicsforu.com/news/fungus-inspired-semiconductors-for-flexible-electronics)
-**Published:** Tue, 07 Apr 2026 07:33:42 +0000
+## [Optoelectronic Components By Broadcom in the TME offer](https://www.electronicsforu.com/special/optoelectronic-components-by-broadcom)
+**Published:** Wed, 08 Apr 2026 11:45:13 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/2062023_Oksana-Ostroverkhova-Lab_College-of-Science_0125-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers at Oregon State University are advancing organic semiconductor technologies inspired by nature, pointing to a future of flexible, low cost and potentially more sustainable electronic devices. Building on principles already seen in OLED displays, the work explores how carbon based materials and even fungi derived pigments can enable electronics that bend, stretch and interact [&#8230;]
-
----
-
-## [Bio-Hybrid DNA Memristors for Energy-Efficient Data Storage](https://www.electronicsforu.com/news/bio-hybrid-dna-memristors-for-energy-efficient-data-storage)
-**Published:** Tue, 07 Apr 2026 07:24:05 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/poudel_microscopy_4x3-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />By embedding synthetic DNA into electronic architectures, researchers unlock a class of memory devices capable of simultaneous processing and storage. Researchers at Penn State University have developed a bio inspired approach to next generation data storage by integrating synthetic DNA with semiconductor materials, opening the door to memory devices that combine ultra high capacity with [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/HCPL-091J-000E-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Optoelectronic components, of course, are not limited to LED diodes alone – semiconductor manufacturers specialized in this field often also offer more complex elements, such as optoisolation amplifiers. Such advanced solutions are also available in the Broadcom brand offer. We present a comprehensive range of&#160;Broadcom&#160;in terms of&#160;optoisolators and LED diodes. These components are designed for [&#8230;]
 
 ---
 
