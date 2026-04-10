@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-10 17:05 UTC_
+_Last updated: 2026-04-10 19:57 UTC_
 
 ## [Seoul Semiconductor Granted “High-Tech Enterprise” Certification in Vietnam](https://www.eetasia.com/seoul-semiconductor-granted-high-tech-enterprise-certification-in-vietnam/)
 **Published:** Thu, 09 Apr 2026 03:36:35 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-04-10 17:05 UTC_
 
 ---
 
+## [GaN, Thermal Management With Nanoscale Sensors, Rohm-Toshiba-Mitsubishi MOU: Power Electronics Week Insights](https://www.powerelectronicsnews.com/gan-thermal-management-with-nanoscale-sensors-rohm-toshiba-mitsubishi-mou-power-electronics-week-insights/)
+**Published:** Fri, 10 Apr 2026 17:34:22 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on GaN, Thermal Management With Nanoscale Sensors, and Rohm-Toshiba-Mitsubishi MOU!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/gan-thermal-management-with-nanoscale-sensors-rohm-toshiba-mitsubishi-mou-power-electronics-week-insights/">GaN, Thermal Management With Nanoscale Sensors, Rohm-Toshiba-Mitsubishi MOU: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [ST Launches GaN Gate Drivers with Smart Protection](https://www.powerelectronicsnews.com/st-launches-gan-gate-drivers-with-smart-protection/)
 **Published:** Fri, 10 Apr 2026 14:00:00 +0000
 
@@ -898,14 +906,6 @@ _Last updated: 2026-04-10 17:05 UTC_
 
 ---
 
-## [Transistor-sized sensors tackle thermal management from GPUs to batteries](https://www.powerelectronicsnews.com/transistor-sized-sensors-tackle-thermal-management-from-gpus-to-batteries/)
-**Published:** Wed, 08 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="725" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image_112241.png?fit=844%2C725" style="display: block; margin-bottom: 5px; clear: both;" width="844" /><p>Digid commercialized the world's smallest sensors, resembling a transistor, with the potential to improve GPU load balancing efficiently.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/transistor-sized-sensors-tackle-thermal-management-from-gpus-to-batteries/">Transistor-sized sensors tackle thermal management from GPUs to batteries</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [No Fear to Fail: Secrets Behind Southchip’s Rapid Growth](https://www.eetimes.com/no-fear-to-fail-secrets-behind-southchips-rapid-growth/)
 **Published:** Fri, 10 Apr 2026 07:06:54 +0000
 
@@ -919,14 +919,6 @@ _Last updated: 2026-04-10 17:05 UTC_
 
 <p>As the Nexperia episode sharpens Europe’s focus, experts say resilience will hinge on application relevance, supply chain depth, and smarter investment priorities.</p>
 <p>The post <a href="https://www.eetimes.com/which-chips-actually-matter-europe-reassesses-its-semiconductor-strategy-after-nexperia-wakeup-call/">Which Chips Actually Matter? Europe Reassesses Its Semiconductor Strategy After Nexperia Wakeup Call</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Ixxat Introduces CAN@net Basic: Cost-Efficient CAN-FD-to-Ethernet-Gateway for Scalable Industrial Networking](https://www.eetimes.com/ixxat-introduces-cannet-basiccost-efficient-can-fd-to-ethernet-gateway-for-scalable-industrial-networking/)
-**Published:** Wed, 08 Apr 2026 01:54:24 +0000
-
-<p>Upgrade your industrial networks with CAN@net Basic for efficient, low-latency CAN FD-to-Ethernet integration at just 270 Euros—learn more now!</p>
-<p>The post <a href="https://www.eetimes.com/ixxat-introduces-cannet-basiccost-efficient-can-fd-to-ethernet-gateway-for-scalable-industrial-networking/">Ixxat Introduces CAN@net Basic: Cost-Efficient CAN-FD-to-Ethernet-Gateway for Scalable Industrial Networking</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
