@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-10 12:03 UTC_
+_Last updated: 2026-04-10 15:01 UTC_
 
 ## [Seoul Semiconductor Granted “High-Tech Enterprise” Certification in Vietnam](https://www.eetasia.com/seoul-semiconductor-granted-high-tech-enterprise-certification-in-vietnam/)
 **Published:** Thu, 09 Apr 2026 03:36:35 +0000
@@ -23,6 +23,46 @@ _Last updated: 2026-04-10 12:03 UTC_
 
 <p>Here's a look at Taiwan's tightening grip on the global economy, dominating the semiconductor manufacturing industry.</p>
 <p>The post <a href="https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/">Inside Taiwan&#8217;s Semiconductor Supremacy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Transcat Expands into Latin America with Acquisition of SCM Metrology and Laboratories S.A.](https://www.semiconductor-digest.com/transcat-expands-into-latin-america-with-acquisition-of-scm-metrology-and-laboratories-s-a/?utm_source=rss&utm_medium=rss&utm_campaign=transcat-expands-into-latin-america-with-acquisition-of-scm-metrology-and-laboratories-s-a)
+**Published:** Fri, 10 Apr 2026 14:17:53 +0000
+
+<p>Transcat, Inc., a provider of test measurement, control and calibration, today announced the acquisition of SCM Metrology and Laboratories S.A., a privately-held calibration services provider based in Costa Rica.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/transcat-expands-into-latin-america-with-acquisition-of-scm-metrology-and-laboratories-s-a/">Transcat Expands into Latin America with Acquisition of SCM Metrology and Laboratories S.A.</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Snap and Qualcomm Expand Strategic Collaboration](https://www.semiconductor-digest.com/snap-and-qualcomm-expand-strategic-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=snap-and-qualcomm-expand-strategic-collaboration)
+**Published:** Fri, 10 Apr 2026 14:11:36 +0000
+
+<p>Long-term agreement brings Snapdragon XR solutions to future generations of Specs, strengthening the platform for developers and customers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/snap-and-qualcomm-expand-strategic-collaboration/">Snap and Qualcomm Expand Strategic Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Breakthrough in PCSEL Optical Sensing Technology by Asahi Kasei Microdevices Enables 2 µm-Band Infrared Laser Generation](https://www.semiconductor-digest.com/breakthrough-in-pcsel-optical-sensing-technology-by-asahi-kasei-microdevices-enables-2-%c2%b5m-band-infrared-laser-generation/?utm_source=rss&utm_medium=rss&utm_campaign=breakthrough-in-pcsel-optical-sensing-technology-by-asahi-kasei-microdevices-enables-2-%25c2%25b5m-band-infrared-laser-generation)
+**Published:** Fri, 10 Apr 2026 13:57:27 +0000
+
+<p>Asahi Kasei Microdevices Corporation (AKM), in collaboration with the Kyoto University Institute for Advanced Study, has successfully achieved laser oscillation in a 2 µm-band infrared photonic crystal surface-emitting laser (PCSEL).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/breakthrough-in-pcsel-optical-sensing-technology-by-asahi-kasei-microdevices-enables-2-%c2%b5m-band-infrared-laser-generation/">Breakthrough in PCSEL Optical Sensing Technology by Asahi Kasei Microdevices Enables 2 µm-Band Infrared Laser Generation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [HANMI Semiconductor To Launch Second-Generation Hybrid Bonder by End of 2026](https://www.semiconductor-digest.com/hanmi-semiconductor-to-launch-second-generation-hybrid-bonder-by-end-of-2026/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-to-launch-second-generation-hybrid-bonder-by-end-of-2026)
+**Published:** Fri, 10 Apr 2026 13:52:37 +0000
+
+<p>HANMI Semiconductor today announced that it plans to launch a prototype of its second-generation hybrid bonder for next-generation HBM production within the year and begin collaboration with customers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hanmi-semiconductor-to-launch-second-generation-hybrid-bonder-by-end-of-2026/">HANMI Semiconductor To Launch Second-Generation Hybrid Bonder by End of 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Reshore Semiconductor Manufacturing to UK and US to Meet Sustainability Goals](https://www.semiconductor-digest.com/reshore-semiconductor-manufacturing-to-uk-and-us-to-meet-sustainability-goals/?utm_source=rss&utm_medium=rss&utm_campaign=reshore-semiconductor-manufacturing-to-uk-and-us-to-meet-sustainability-goals)
+**Published:** Fri, 10 Apr 2026 13:47:21 +0000
+
+<p>Making semiconductors in the UK and the US would be the most sustainable way to manufacture the materials that power every electronic device on the planet, according to new research from the University of Sheffield.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/reshore-semiconductor-manufacturing-to-uk-and-us-to-meet-sustainability-goals/">Reshore Semiconductor Manufacturing to UK and US to Meet Sustainability Goals</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -786,43 +826,19 @@ _Last updated: 2026-04-10 12:03 UTC_
 
 ---
 
-## [Amber Semiconductor Raises $30 Million Series C Financing](https://www.semiconductor-digest.com/amber-semiconductor-raises-30-million-series-c-financing/?utm_source=rss&utm_medium=rss&utm_campaign=amber-semiconductor-raises-30-million-series-c-financing)
-**Published:** Wed, 11 Mar 2026 20:07:54 +0000
+## [ST Launches GaN Gate Drivers with Smart Protection](https://www.powerelectronicsnews.com/st-launches-gan-gate-drivers-with-smart-protection/)
+**Published:** Fri, 10 Apr 2026 14:00:00 +0000
 
-<p>Amber Semiconductor, a fabless semiconductor company pioneering the next generation power management for AI data centers, today announced the initial closing of its $30 million Series C financing round from new and existing investors.  </p>
-<p>The post <a href="https://www.semiconductor-digest.com/amber-semiconductor-raises-30-million-series-c-financing/">Amber Semiconductor Raises $30 Million Series C Financing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CEA-Leti and NcodiN Partner to Industrialize 300mm Silicon Photonics for Bandwidth-Hungry AI Interconnects](https://www.semiconductor-digest.com/cea-leti-and-ncodin-partner-to-industrialize-300mm-silicon-photonics-for-bandwidth-hungry-ai-interconnects/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-and-ncodin-partner-to-industrialize-300mm-silicon-photonics-for-bandwidth-hungry-ai-interconnects)
-**Published:** Wed, 11 Mar 2026 19:44:04 +0000
-
-<p>CEA-Leti and NcodiN, a French deep-tech startup pioneering nanolaser-enabled photonic interconnects, today announced a strategic collaboration to industrialize NcodiN’s optical interposer technology on a 300mm integrated photonics process.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-and-ncodin-partner-to-industrialize-300mm-silicon-photonics-for-bandwidth-hungry-ai-interconnects/">CEA-Leti and NcodiN Partner to Industrialize 300mm Silicon Photonics for Bandwidth-Hungry AI Interconnects</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="ST Launches GaN Gate Drivers with Smart Protection." class="webfeedsFeaturedVisual wp-post-image" height="429" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image.PF277651.en_.feature-description-include-personalized-no-cpn-large.png?fit=560%2C429" style="display: block; margin-bottom: 5px; clear: both;" width="560" /><p>High-speed GaN drivers integrate protection and control features, enabling efficient and compact motion control and power conversion systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-launches-gan-gate-drivers-with-smart-protection/">ST Launches GaN Gate Drivers with Smart Protection</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [IBM and Lam Research Announce Collaboration to Advance Sub-1nm Logic Scaling](https://www.semiconductor-digest.com/ibm-and-lam-research-announce-collaboration-to-advance-sub-1nm-logic-scaling/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-and-lam-research-announce-collaboration-to-advance-sub-1nm-logic-scaling)
-**Published:** Wed, 11 Mar 2026 00:59:29 +0000
+## [The Case for GaN HEMTs in Class-D Audio](https://www.powerelectronicsnews.com/the-case-for-gan-hemts-in-class-d-audio/)
+**Published:** Fri, 10 Apr 2026 13:00:00 +0000
 
-<p>Agreement includes development of novel materials, advanced processes, and High-NA EUV lithography techniques to enable future logic nodes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ibm-and-lam-research-announce-collaboration-to-advance-sub-1nm-logic-scaling/">IBM and Lam Research Announce Collaboration to Advance Sub-1nm Logic Scaling</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Applied Materials and Micron Partner To Advance U.S. Innovation in Next-Generation AI Memory Solutions](https://www.semiconductor-digest.com/applied-materials-and-micron-partner-to-advance-u-s-innovation-in-next-generation-ai-memory-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-and-micron-partner-to-advance-u-s-innovation-in-next-generation-ai-memory-solutions)
-**Published:** Wed, 11 Mar 2026 00:43:14 +0000
-
-<p>Companies to work together at Applied’s EPIC Center in Silicon Valley to accelerate development of advanced DRAM, high-bandwidth memory and NAND storage for future AI applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-and-micron-partner-to-advance-u-s-innovation-in-next-generation-ai-memory-solutions/">Applied Materials and Micron Partner To Advance U.S. Innovation in Next-Generation AI Memory Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nearfield Instruments Introduces Sidewall Imaging Mode for Advanced 3D Semiconductor Metrology](https://www.semiconductor-digest.com/nearfield-instruments-introduces-sidewall-imaging-mode-for-advanced-3d-semiconductor-metrology/?utm_source=rss&utm_medium=rss&utm_campaign=nearfield-instruments-introduces-sidewall-imaging-mode-for-advanced-3d-semiconductor-metrology)
-**Published:** Tue, 10 Mar 2026 01:34:58 +0000
-
-<p>Real-time, non-destructive 3D process control drives innovation in energy-efficient AI chip manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nearfield-instruments-introduces-sidewall-imaging-mode-for-advanced-3d-semiconductor-metrology/">Nearfield Instruments Introduces Sidewall Imaging Mode for Advanced 3D Semiconductor Metrology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2380" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_627738432.jpeg?fit=4246%2C2380" style="display: block; margin-bottom: 5px; clear: both;" width="4246" /><p>GaN HEMTs provide lower gate charge and parasitic capacitance, enabling superior efficiency and rapid switching speeds for audio.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-case-for-gan-hemts-in-class-d-audio/">The Case for GaN HEMTs in Class-D Audio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -890,22 +906,6 @@ _Last updated: 2026-04-10 12:03 UTC_
 
 ---
 
-## [Monolithic Bidirectional GaN Switch-Based Buck-Boost Converter](https://www.powerelectronicsnews.com/monolithic-bidirectional-gan-switch-based-buck-boost-converter/)
-**Published:** Tue, 07 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="6336" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_368282211.jpeg?fit=9504%2C6336" style="display: block; margin-bottom: 5px; clear: both;" width="9504" /><p>A buck-boost converter is useful when an intermediate bus voltage is used, and there is a requirement to either buck or boost the input voltage....</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/monolithic-bidirectional-gan-switch-based-buck-boost-converter/">Monolithic Bidirectional GaN Switch-Based Buck-Boost Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Vishay Launches Automotive PV MOSFET Driver](https://www.powerelectronicsnews.com/vishay-launches-automotive-pv-mosfet-driver/)
-**Published:** Mon, 06 Apr 2026 15:00:00 +0000
-
-<img alt="Vishay Launches Automotive PV MOSFET Driver." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Vishay_MOSFET_PR.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new driver enables faster switching, reinforced isolation, and simpler high-voltage designs for EV and industrial power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vishay-launches-automotive-pv-mosfet-driver/">Vishay Launches Automotive PV MOSFET Driver</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [No Fear to Fail: Secrets Behind Southchip’s Rapid Growth](https://www.eetimes.com/no-fear-to-fail-secrets-behind-southchips-rapid-growth/)
 **Published:** Fri, 10 Apr 2026 07:06:54 +0000
 
@@ -930,27 +930,10 @@ _Last updated: 2026-04-10 12:03 UTC_
 
 ---
 
-## [Amazon considering entering semiconductor market](https://www.electronicsweekly.com/news/business/amazon-considering-entering-semiconductor-market-2026-04/)
-**Published:** Fri, 10 Apr 2026 05:30:07 +0000
+## [Embedded Software Intern At Sarla Aviation In Bengaluru](https://www.electronicsforu.com/career/embedded-software-intern-sarla-aviation-bengaluru)
+**Published:** Fri, 10 Apr 2026 12:26:27 +0000
 
-<p>Amazon is considering entering the semiconductor merchant market. The company would be the fourth biggest chip company in the world if it sold its chips on the market, according to ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/amazon-considering-entering-semiconductor-market-2026-04/">Amazon considering entering semiconductor market</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [ULTRARAM to feature at ISQED](https://www.electronicsweekly.com/news/business/ultraram-to-feature-at-isqed-2026-04/)
-**Published:** Fri, 10 Apr 2026 05:22:05 +0000
-
-<p>QuInAs Technology, developer of the compound-semiconductor memory technology ULTRARAM, today announced the publication of its latest research in the Journal of Applied Physics. The work links device-level physics — including ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/ultraram-to-feature-at-isqed-2026-04/">ULTRARAM to feature at ISQED</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Semi revenues to grow 64% this year says Gartner](https://www.electronicsweekly.com/news/business/semi-revenues-to-grow-64-this-year-says-gartner-2026-04/)
-**Published:** Fri, 10 Apr 2026 05:18:37 +0000
-
-<p>Global semiconductor revenue is projected to exceed $1.3 trillion in 2026, exhibiting the highest growth in the last two decades, according to Gartner. ‘Amid high demand for datacentre networking and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/semi-revenues-to-grow-64-this-year-says-gartner-2026-04/">Semi revenues to grow 64% this year says Gartner</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Sarla Aviation You will work alongside experienced engineers on the development, testing, and documentation of embedded software for safety-critical airborne platforms. This is a hands-on internship designed to give you real-world exposure to embedded systems in the aerospace domain. Skills &#38; Qualifications – Required What You Will Gain
 
 ---
 
