@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-09 23:50 UTC_
+_Last updated: 2026-04-10 12:03 UTC_
 
 ## [Seoul Semiconductor Granted “High-Tech Enterprise” Certification in Vietnam](https://www.eetasia.com/seoul-semiconductor-granted-high-tech-enterprise-certification-in-vietnam/)
 **Published:** Thu, 09 Apr 2026 03:36:35 +0000
@@ -906,6 +906,14 @@ _Last updated: 2026-04-09 23:50 UTC_
 
 ---
 
+## [No Fear to Fail: Secrets Behind Southchip’s Rapid Growth](https://www.eetimes.com/no-fear-to-fail-secrets-behind-southchips-rapid-growth/)
+**Published:** Fri, 10 Apr 2026 07:06:54 +0000
+
+<p>Since going public in 2023, Southchip has grown rapidly, driven by core semiconductor technologies and diversification into automotive and industrial sectors.</p>
+<p>The post <a href="https://www.eetimes.com/no-fear-to-fail-secrets-behind-southchips-rapid-growth/">No Fear to Fail: Secrets Behind Southchip’s Rapid Growth</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Which Chips Actually Matter? Europe Reassesses Its Semiconductor Strategy After Nexperia Wakeup Call](https://www.eetimes.com/which-chips-actually-matter-europe-reassesses-its-semiconductor-strategy-after-nexperia-wakeup-call/)
 **Published:** Thu, 09 Apr 2026 08:00:00 +0000
 
@@ -922,17 +930,34 @@ _Last updated: 2026-04-09 23:50 UTC_
 
 ---
 
-## [Electronics R&D Awards in India: EFY Awards at India Electronics Week (IEW)](https://www.electronicsforu.com/special/events/electronics-rd-awards-in-india-efy-awards-at-india-electronics-week-iew)
-**Published:** Thu, 09 Apr 2026 12:26:35 +0000
+## [Amazon considering entering semiconductor market](https://www.electronicsweekly.com/news/business/amazon-considering-entering-semiconductor-market-2026-04/)
+**Published:** Fri, 10 Apr 2026 05:30:07 +0000
 
-<img alt="ELECTRONICS FOR YOU’S R&amp;D Awards" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/efy-rnd-award-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The Electronics R&#38;D Awards by the Electronics For You team aim to recognise innovation in the field of electronics in India. These awards are designed to highlight and promote individuals and organisations that are actively working on research and development in this complex and challenging domain. Held as part of India Electronics Week, the initiative [&#8230;]
+<p>Amazon is considering entering the semiconductor merchant market. The company would be the fourth biggest chip company in the world if it sold its chips on the market, according to ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/amazon-considering-entering-semiconductor-market-2026-04/">Amazon considering entering semiconductor market</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Optoelectronic Components By Broadcom in the TME offer](https://www.electronicsforu.com/special/optoelectronic-components-by-broadcom)
-**Published:** Wed, 08 Apr 2026 11:45:13 +0000
+## [ULTRARAM to feature at ISQED](https://www.electronicsweekly.com/news/business/ultraram-to-feature-at-isqed-2026-04/)
+**Published:** Fri, 10 Apr 2026 05:22:05 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/HCPL-091J-000E-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Optoelectronic components, of course, are not limited to LED diodes alone – semiconductor manufacturers specialized in this field often also offer more complex elements, such as optoisolation amplifiers. Such advanced solutions are also available in the Broadcom brand offer. We present a comprehensive range of&#160;Broadcom&#160;in terms of&#160;optoisolators and LED diodes. These components are designed for [&#8230;]
+<p>QuInAs Technology, developer of the compound-semiconductor memory technology ULTRARAM, today announced the publication of its latest research in the Journal of Applied Physics. The work links device-level physics — including ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/ultraram-to-feature-at-isqed-2026-04/">ULTRARAM to feature at ISQED</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Semi revenues to grow 64% this year says Gartner](https://www.electronicsweekly.com/news/business/semi-revenues-to-grow-64-this-year-says-gartner-2026-04/)
+**Published:** Fri, 10 Apr 2026 05:18:37 +0000
+
+<p>Global semiconductor revenue is projected to exceed $1.3 trillion in 2026, exhibiting the highest growth in the last two decades, according to Gartner. ‘Amid high demand for datacentre networking and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/semi-revenues-to-grow-64-this-year-says-gartner-2026-04/">Semi revenues to grow 64% this year says Gartner</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [JOB: Hardware Engineer – Power Electronics At Ohmium In Bengaluru](https://www.electronicsforu.com/career/hardware-engineer-power-electronics-ohmium-bengaluru)
+**Published:** Fri, 10 Apr 2026 10:59:54 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/06/Ohmium-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Ohmium Key Responsibilities Required Qualifications &#38; Skills
 
 ---
 
