@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-11 08:02 UTC_
+_Last updated: 2026-04-11 11:44 UTC_
 
 ## [Seoul Semiconductor Granted “High-Tech Enterprise” Certification in Vietnam](https://www.eetasia.com/seoul-semiconductor-granted-high-tech-enterprise-certification-in-vietnam/)
 **Published:** Thu, 09 Apr 2026 03:36:35 +0000
@@ -919,6 +919,30 @@ _Last updated: 2026-04-11 08:02 UTC_
 
 <p>As the Nexperia episode sharpens Europe’s focus, experts say resilience will hinge on application relevance, supply chain depth, and smarter investment priorities.</p>
 <p>The post <a href="https://www.eetimes.com/which-chips-actually-matter-europe-reassesses-its-semiconductor-strategy-after-nexperia-wakeup-call/">Which Chips Actually Matter? Europe Reassesses Its Semiconductor Strategy After Nexperia Wakeup Call</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Amazon considering entering semiconductor market](https://www.electronicsweekly.com/news/business/amazon-considering-entering-semiconductor-market-2026-04/)
+**Published:** Fri, 10 Apr 2026 05:30:07 +0000
+
+<p>Amazon is considering entering the semiconductor merchant market. The company would be the fourth biggest chip company in the world if it sold its chips on the market, according to ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/amazon-considering-entering-semiconductor-market-2026-04/">Amazon considering entering semiconductor market</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [ULTRARAM to feature at ISQED](https://www.electronicsweekly.com/news/business/ultraram-to-feature-at-isqed-2026-04/)
+**Published:** Fri, 10 Apr 2026 05:22:05 +0000
+
+<p>QuInAs Technology, developer of the compound-semiconductor memory technology ULTRARAM, today announced the publication of its latest research in the Journal of Applied Physics. The work links device-level physics — including ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/ultraram-to-feature-at-isqed-2026-04/">ULTRARAM to feature at ISQED</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Semi revenues to grow 64% this year says Gartner](https://www.electronicsweekly.com/news/business/semi-revenues-to-grow-64-this-year-says-gartner-2026-04/)
+**Published:** Fri, 10 Apr 2026 05:18:37 +0000
+
+<p>Global semiconductor revenue is projected to exceed $1.3 trillion in 2026, exhibiting the highest growth in the last two decades, according to Gartner. ‘Amid high demand for datacentre networking and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/semi-revenues-to-grow-64-this-year-says-gartner-2026-04/">Semi revenues to grow 64% this year says Gartner</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
