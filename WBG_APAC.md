@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-11 20:48 UTC_
+_Last updated: 2026-04-11 23:48 UTC_
 
 ## [Seoul Semiconductor Granted “High-Tech Enterprise” Certification in Vietnam](https://www.eetasia.com/seoul-semiconductor-granted-high-tech-enterprise-certification-in-vietnam/)
 **Published:** Thu, 09 Apr 2026 03:36:35 +0000
