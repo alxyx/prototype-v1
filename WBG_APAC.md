@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-13 22:04 UTC_
+_Last updated: 2026-04-13 23:56 UTC_
 
 ## [Design Guide for Effective and Reliable Capacitive Touch Keys in Automotive and White Goods Applications](https://www.eetasia.com/design-guide-for-effective-and-reliable-capacitive-touch-keys-in-automotive-and-white-goods-applications/)
 **Published:** Mon, 13 Apr 2026 01:00:15 +0000
