@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-12 22:48 UTC_
+_Last updated: 2026-04-13 05:55 UTC_
+
+## [Design Guide for Effective and Reliable Capacitive Touch Keys in Automotive and White Goods Applications](https://www.eetasia.com/design-guide-for-effective-and-reliable-capacitive-touch-keys-in-automotive-and-white-goods-applications/)
+**Published:** Mon, 13 Apr 2026 01:00:15 +0000
+
+<p>&#160; Designing capacitive touch interfaces requires a deliberate balance between sensitivity (detecting a light finger press) and robustness (rejecting moisture, noise, and accidental activation). While the physics of capacitive sensing is the same, the dominant failure modes can differ by application. Automotive designs are often limited by EMI/ESD, large temperature swings, glove operation, and noise [&#8230;]</p>
+<p>The post <a href="https://www.eetasia.com/design-guide-for-effective-and-reliable-capacitive-touch-keys-in-automotive-and-white-goods-applications/">Design Guide for Effective and Reliable Capacitive Touch Keys in Automotive and White Goods Applications</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Seoul Semiconductor Granted “High-Tech Enterprise” Certification in Vietnam](https://www.eetasia.com/seoul-semiconductor-granted-high-tech-enterprise-certification-in-vietnam/)
 **Published:** Thu, 09 Apr 2026 03:36:35 +0000
@@ -15,14 +23,6 @@ _Last updated: 2026-04-12 22:48 UTC_
 
 <p>Continued investment in advanced logic, memory, and AI-related capacity expansion fueled the 15% YoY growth of the global chip manufacturing market.</p>
 <p>The post <a href="https://www.eetasia.com/semi-global-semiconductor-equipment-billings-up-15-yoy-in-2025/">SEMI: Global Semiconductor Equipment Billings Up 15% YoY in 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Inside Taiwan’s Semiconductor Supremacy](https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/)
-**Published:** Wed, 08 Apr 2026 02:21:05 +0000
-
-<p>Here's a look at Taiwan's tightening grip on the global economy, dominating the semiconductor manufacturing industry.</p>
-<p>The post <a href="https://www.eetasia.com/inside-taiwans-semiconductor-supremacy/">Inside Taiwan&#8217;s Semiconductor Supremacy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -950,13 +950,6 @@ _Last updated: 2026-04-12 22:48 UTC_
 **Published:** Fri, 10 Apr 2026 12:26:27 +0000
 
 <img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Sarla Aviation You will work alongside experienced engineers on the development, testing, and documentation of embedded software for safety-critical airborne platforms. This is a hands-on internship designed to give you real-world exposure to embedded systems in the aerospace domain. Skills &#38; Qualifications – Required What You Will Gain
-
----
-
-## [JOB: Hardware Engineer – Power Electronics At Ohmium In Bengaluru](https://www.electronicsforu.com/career/hardware-engineer-power-electronics-ohmium-bengaluru)
-**Published:** Fri, 10 Apr 2026 10:59:54 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/06/Ohmium-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Ohmium Key Responsibilities Required Qualifications &#38; Skills
 
 ---
 
