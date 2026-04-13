@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-13 05:55 UTC_
+_Last updated: 2026-04-13 08:18 UTC_
 
 ## [Design Guide for Effective and Reliable Capacitive Touch Keys in Automotive and White Goods Applications](https://www.eetasia.com/design-guide-for-effective-and-reliable-capacitive-touch-keys-in-automotive-and-white-goods-applications/)
 **Published:** Mon, 13 Apr 2026 01:00:15 +0000
@@ -906,6 +906,14 @@ _Last updated: 2026-04-13 05:55 UTC_
 
 ---
 
+## [Three Misconceptions About the $402B Semiconductor Foundry Industry](https://www.eetimes.com/three-misconceptions-about-the-402b-semiconductor-foundry-industry/)
+**Published:** Mon, 13 Apr 2026 07:30:00 +0000
+
+<p>Unpack the $402B semiconductor foundry industry myths—discover who really dominates and why global alliances drive the chips in your life. </p>
+<p>The post <a href="https://www.eetimes.com/three-misconceptions-about-the-402b-semiconductor-foundry-industry/">Three Misconceptions About the $402B Semiconductor Foundry Industry</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [No Fear to Fail: Secrets Behind Southchip’s Rapid Growth](https://www.eetimes.com/no-fear-to-fail-secrets-behind-southchips-rapid-growth/)
 **Published:** Fri, 10 Apr 2026 07:06:54 +0000
 
@@ -927,22 +935,6 @@ _Last updated: 2026-04-13 05:55 UTC_
 
 <p>Amazon is considering entering the semiconductor merchant market. The company would be the fourth biggest chip company in the world if it sold its chips on the market, according to ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/amazon-considering-entering-semiconductor-market-2026-04/">Amazon considering entering semiconductor market</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [ULTRARAM to feature at ISQED](https://www.electronicsweekly.com/news/business/ultraram-to-feature-at-isqed-2026-04/)
-**Published:** Fri, 10 Apr 2026 05:22:05 +0000
-
-<p>QuInAs Technology, developer of the compound-semiconductor memory technology ULTRARAM, today announced the publication of its latest research in the Journal of Applied Physics. The work links device-level physics — including ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/ultraram-to-feature-at-isqed-2026-04/">ULTRARAM to feature at ISQED</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Semi revenues to grow 64% this year says Gartner](https://www.electronicsweekly.com/news/business/semi-revenues-to-grow-64-this-year-says-gartner-2026-04/)
-**Published:** Fri, 10 Apr 2026 05:18:37 +0000
-
-<p>Global semiconductor revenue is projected to exceed $1.3 trillion in 2026, exhibiting the highest growth in the last two decades, according to Gartner. ‘Amid high demand for datacentre networking and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/semi-revenues-to-grow-64-this-year-says-gartner-2026-04/">Semi revenues to grow 64% this year says Gartner</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
