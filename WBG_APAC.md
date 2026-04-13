@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-13 16:26 UTC_
+_Last updated: 2026-04-13 22:04 UTC_
 
 ## [Design Guide for Effective and Reliable Capacitive Touch Keys in Automotive and White Goods Applications](https://www.eetasia.com/design-guide-for-effective-and-reliable-capacitive-touch-keys-in-automotive-and-white-goods-applications/)
 **Published:** Mon, 13 Apr 2026 01:00:15 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-04-13 16:26 UTC_
 
 <p>Continued investment in advanced logic, memory, and AI-related capacity expansion fueled the 15% YoY growth of the global chip manufacturing market.</p>
 <p>The post <a href="https://www.eetasia.com/semi-global-semiconductor-equipment-billings-up-15-yoy-in-2025/">SEMI: Global Semiconductor Equipment Billings Up 15% YoY in 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [NIST Researchers Develop Photonic Chip Packaging That Can Withstand Extreme Environments](https://www.semiconductor-digest.com/nist-researchers-develop-photonic-chip-packaging-that-can-withstand-extreme-environments/?utm_source=rss&utm_medium=rss&utm_campaign=nist-researchers-develop-photonic-chip-packaging-that-can-withstand-extreme-environments)
+**Published:** Mon, 13 Apr 2026 18:47:33 +0000
+
+<p>Researchers at the National Institute of Standards and Technology (NIST) have developed a new way to package photonic integrated circuits so they can survive and operate in extreme environments.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nist-researchers-develop-photonic-chip-packaging-that-can-withstand-extreme-environments/">NIST Researchers Develop Photonic Chip Packaging That Can Withstand Extreme Environments</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Rapidus Opens Analysis Center and Rapidus Chiplet Solutions](https://www.semiconductor-digest.com/rapidus-opens-analysis-center-and-rapidus-chiplet-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-opens-analysis-center-and-rapidus-chiplet-solutions)
+**Published:** Mon, 13 Apr 2026 17:38:13 +0000
+
+<p>New facilities enhance Rapidus' development environment to ensure a steady transition to mass production of cutting-edge semiconductors in 2027.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rapidus-opens-analysis-center-and-rapidus-chiplet-solutions/">Rapidus Opens Analysis Center and Rapidus Chiplet Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SNIA Launches MRAM Alliance SIG](https://www.semiconductor-digest.com/snia-launches-mram-alliance-sig/?utm_source=rss&utm_medium=rss&utm_campaign=snia-launches-mram-alliance-sig)
+**Published:** Mon, 13 Apr 2026 17:34:19 +0000
+
+<p>New initiative invites industry participation to enable optimal use of MRAM in lower-power edge devices to high-performance subsystems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/snia-launches-mram-alliance-sig/">SNIA Launches MRAM Alliance SIG</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ESD Alliance Reports Electronic System Design Industry Posts $5.5 Billion in Revenue in Q4 2025](https://www.semiconductor-digest.com/esd-alliance-reports-electronic-system-design-industry-posts-5-5-billion-in-revenue-in-q4-2025/?utm_source=rss&utm_medium=rss&utm_campaign=esd-alliance-reports-electronic-system-design-industry-posts-5-5-billion-in-revenue-in-q4-2025)
+**Published:** Mon, 13 Apr 2026 17:24:03 +0000
+
+<p>Electronic System Design (ESD) industry revenue increased 10.3% to $5,466.3 million in the fourth quarter of 2025 from the $4,955.2 million registered in the fourth quarter of 2024.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/esd-alliance-reports-electronic-system-design-industry-posts-5-5-billion-in-revenue-in-q4-2025/">ESD Alliance Reports Electronic System Design Industry Posts $5.5 Billion in Revenue in Q4 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,38 +823,6 @@ _Last updated: 2026-04-13 16:26 UTC_
 
 <p>MEMS-photonic device achieves tunable intrinsic optical chirality for new sensing, quantum tools.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/a-dynamic-twist-of-lights-handedness/">A Dynamic Twist of Light’s &#8216;Handedness&#8217;</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Ayar Labs and Wiwynn Partner to Bring Co-Packaged Optics to Rack-Scale AI Systems](https://www.semiconductor-digest.com/ayar-labs-and-wiwynn-partner-to-bring-co-packaged-optics-to-rack-scale-ai-systems/?utm_source=rss&utm_medium=rss&utm_campaign=ayar-labs-and-wiwynn-partner-to-bring-co-packaged-optics-to-rack-scale-ai-systems)
-**Published:** Thu, 12 Mar 2026 00:38:01 +0000
-
-<p>Collaboration moves CPO beyond component-level innovation and into deployable AI infrastructure for hyperscale workloads.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ayar-labs-and-wiwynn-partner-to-bring-co-packaged-optics-to-rack-scale-ai-systems/">Ayar Labs and Wiwynn Partner to Bring Co-Packaged Optics to Rack-Scale AI Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [FAMES Announces 2026 Open-Access Call for Chip Industry Stakeholders](https://www.semiconductor-digest.com/fames-announces-2026-open-access-call-for-chip-industry-stakeholders/?utm_source=rss&utm_medium=rss&utm_campaign=fames-announces-2026-open-access-call-for-chip-industry-stakeholders)
-**Published:** Thu, 12 Mar 2026 00:32:04 +0000
-
-<p>The FAMES Pilot Line today launched its second Open-Access Call for European semiconductor stakeholders to join the groundbreaking EU initiative focused on new chip architectures to boost European tech sovereignty.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/fames-announces-2026-open-access-call-for-chip-industry-stakeholders/">FAMES Announces 2026 Open-Access Call for Chip Industry Stakeholders</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Advanced Packaging International Conference Program to Feature a Presentation from NHanced Semiconductors President Robert Patti](https://www.semiconductor-digest.com/advanced-packaging-international-conference-program-to-feature-a-presentation-from-nhanced-semiconductors-president-robert-patti/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-packaging-international-conference-program-to-feature-a-presentation-from-nhanced-semiconductors-president-robert-patti)
-**Published:** Thu, 12 Mar 2026 00:15:38 +0000
-
-<p>At the first Advanced Packaging International Conference, NHanced Semiconductors president Robert Patti will present a talk entitled “Foundry 2.0: A New Foundation For Semiconductors &#038; Innovation” on April 21st  as part of a series of expert talks at the event.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/advanced-packaging-international-conference-program-to-feature-a-presentation-from-nhanced-semiconductors-president-robert-patti/">Advanced Packaging International Conference Program to Feature a Presentation from NHanced Semiconductors President Robert Patti</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032](https://www.semiconductor-digest.com/omdia-polarizer-less-oled-display-shipments-to-reach-244-million-units-by-2032/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-polarizer-less-oled-display-shipments-to-reach-244-million-units-by-2032)
-**Published:** Wed, 11 Mar 2026 20:10:25 +0000
-
-<p>New research from Omdia forecasts that global shipments of polarizer-less OLED displays will reach 244 million units by 2032. reflecting a compound annual growth rate (CAGR) of 22.7% between 2026 and 2032.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-polarizer-less-oled-display-shipments-to-reach-244-million-units-by-2032/">Omdia: Polarizer-Less OLED Display Shipments to Reach 244 Million Units by 2032</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
