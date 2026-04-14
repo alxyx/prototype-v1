@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-14 15:27 UTC_
+_Last updated: 2026-04-14 21:07 UTC_
 
 ## [QuickLogic Showcases RadPro FPGA Dev Kit at HEART Conference](https://www.eetasia.com/quicklogic-showcases-radpro-fpga-dev-kit-at-heart-conference/)
 **Published:** Tue, 14 Apr 2026 02:05:16 +0000
@@ -15,6 +15,46 @@ _Last updated: 2026-04-14 15:27 UTC_
 
 <p>The tie-up could bolster Japan’s global semiconductor footprint and address fragmented IC markets.</p>
 <p>The post <a href="https://www.eetasia.com/rohm-toshiba-and-mitsubishi-join-forces-to-create-a-power-chip-unit/">Rohm, Toshiba and Mitsubishi Join Forces to Create a Power Chip Unit</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Industry-Wide Memory Constraints Grow as AI-Driven Supply Shift Reshapes Market](https://www.semiconductor-digest.com/industry-wide-memory-constraints-grow-as-ai-driven-supply-shift-reshapes-market/?utm_source=rss&utm_medium=rss&utm_campaign=industry-wide-memory-constraints-grow-as-ai-driven-supply-shift-reshapes-market)
+**Published:** Tue, 14 Apr 2026 20:44:34 +0000
+
+<p>Artificial Intelligence is consuming a growing share of the world’s memory supply, leaving electronics manufacturers across industries facing longer lead times, rising prices, and increasing uncertainty, according to a new report released today from the Global Electronics Association.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/industry-wide-memory-constraints-grow-as-ai-driven-supply-shift-reshapes-market/">Industry-Wide Memory Constraints Grow as AI-Driven Supply Shift Reshapes Market</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AlixLabs Closes 15 M EUR Series A](https://www.semiconductor-digest.com/alixlabs-closes-15-m-eur-series-a/?utm_source=rss&utm_medium=rss&utm_campaign=alixlabs-closes-15-m-eur-series-a)
+**Published:** Tue, 14 Apr 2026 20:37:28 +0000
+
+<p>AlixLabs today announced that it closed its Series A in the first quarter of 2026 following a strategic investment from Stephen Industries.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/alixlabs-closes-15-m-eur-series-a/">AlixLabs Closes 15 M EUR Series A</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Northeast Microelectronics Coalition Awards $1M to Eight Startups Through PROPEL Grant Program](https://www.semiconductor-digest.com/northeast-microelectronics-coalition-awards-1m-to-eight-startups-through-propel-grant-program/?utm_source=rss&utm_medium=rss&utm_campaign=northeast-microelectronics-coalition-awards-1m-to-eight-startups-through-propel-grant-program)
+**Published:** Tue, 14 Apr 2026 20:29:13 +0000
+
+<p>The Northeast Microelectronics Coalition (NEMC), a division of the Massachusetts Technology Collaborative (MassTech), today announced a new cohort of eight startups selected to receive $1,013,287 in combined funding through its Powering Regional Opportunities for Prototyping Microelectronics (PROPEL) program.  </p>
+<p>The post <a href="https://www.semiconductor-digest.com/northeast-microelectronics-coalition-awards-1m-to-eight-startups-through-propel-grant-program/">Northeast Microelectronics Coalition Awards $1M to Eight Startups Through PROPEL Grant Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Advantest Announces Opening of Strategic Innovation Center](https://www.semiconductor-digest.com/advantest-announces-opening-of-strategic-innovation-center/?utm_source=rss&utm_medium=rss&utm_campaign=advantest-announces-opening-of-strategic-innovation-center)
+**Published:** Tue, 14 Apr 2026 20:26:02 +0000
+
+<p>Semiconductor test equipment supplier Advantest Corporation today announced the opening of two Advantest Innovation Centers—one located on the company’s campus in San Jose, Calif., and another currently under construction in nearby Sunnyvale, Calif.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/advantest-announces-opening-of-strategic-innovation-center/">Advantest Announces Opening of Strategic Innovation Center</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [This Lab’s Research Is A Little Extreme](https://www.semiconductor-digest.com/this-labs-research-is-a-little-extreme/?utm_source=rss&utm_medium=rss&utm_campaign=this-labs-research-is-a-little-extreme)
+**Published:** Tue, 14 Apr 2026 19:02:38 +0000
+
+<p>ASU's Extreme Environments Lab tests semiconductor technologies under some of the harshest conditions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/this-labs-research-is-a-little-extreme/">This Lab’s Research Is A Little Extreme</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -778,43 +818,11 @@ _Last updated: 2026-04-14 15:27 UTC_
 
 ---
 
-## [Avicena Launches the World’s First microLED Optical Interconnect Evaluation Kit](https://www.semiconductor-digest.com/avicena-launches-the-worlds-first-microled-optical-interconnect-evaluation-kit/?utm_source=rss&utm_medium=rss&utm_campaign=avicena-launches-the-worlds-first-microled-optical-interconnect-evaluation-kit)
-**Published:** Fri, 13 Mar 2026 18:52:37 +0000
+## [Sigenergy Debuts High-Power PV Inverter Platform](https://www.powerelectronicsnews.com/sigenergy-debuts-high-power-pv-inverter-platform/)
+**Published:** Tue, 14 Apr 2026 16:00:00 +0000
 
-<p>Avicena, the pioneer in microLED-based optical interconnects, today announced the LightBundle.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/avicena-launches-the-worlds-first-microled-optical-interconnect-evaluation-kit/">Avicena Launches the World’s First microLED Optical Interconnect Evaluation Kit</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Salience Labs and Keysight Collaborate to Develop First Optical Circuit Switch Testing Environment](https://www.semiconductor-digest.com/salience-labs-and-keysight-collaborate-to-develop-first-optical-circuit-switch-testing-environment/?utm_source=rss&utm_medium=rss&utm_campaign=salience-labs-and-keysight-collaborate-to-develop-first-optical-circuit-switch-testing-environment)
-**Published:** Fri, 13 Mar 2026 18:35:32 +0000
-
-<p>Salience Labs Limited and Keysight Technologies, Inc. today announced a strategic collaboration to develop the first optical circuit switch (OCS) testing environment.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/salience-labs-and-keysight-collaborate-to-develop-first-optical-circuit-switch-testing-environment/">Salience Labs and Keysight Collaborate to Develop First Optical Circuit Switch Testing Environment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Qnity Expands Domestic Manufacturing Footprint](https://www.semiconductor-digest.com/qnity-expands-domestic-manufacturing-footprint/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-expands-domestic-manufacturing-footprint)
-**Published:** Fri, 13 Mar 2026 18:28:24 +0000
-
-<p>Qnity Electronics, Inc., a technology solutions leader across the semiconductor value chain, today celebrated the opening of its new 385,000-square-foot facility with a ribbon-cutting ceremony in Newark, Delaware.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/qnity-expands-domestic-manufacturing-footprint/">Qnity Expands Domestic Manufacturing Footprint</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Global Semiconductor Sales Increase 3.7% Month-to-Month in January](https://www.semiconductor-digest.com/global-semiconductor-sales-increase-3-7-month-to-month-in-january/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-sales-increase-3-7-month-to-month-in-january)
-**Published:** Thu, 12 Mar 2026 00:54:33 +0000
-
-<p>Worldwide chip sales increase 46.1% year-to-year.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-sales-increase-3-7-month-to-month-in-january/">Global Semiconductor Sales Increase 3.7% Month-to-Month in January</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI ISS Europe 2026 Opens as Leaders Convene to Navigate Geopolitics](https://www.semiconductor-digest.com/semi-iss-europe-2026-opens-as-leaders-convene-to-navigate-geopolitics/?utm_source=rss&utm_medium=rss&utm_campaign=semi-iss-europe-2026-opens-as-leaders-convene-to-navigate-geopolitics)
-**Published:** Thu, 12 Mar 2026 00:51:54 +0000
-
-<p>The SEMI Industry Strategy Symposium Europe (ISS Europe) 2026 opened in Sopot, Poland, convening top executives, industry experts, policymakers, and thought leaders at a pivotal moment for Europe’s semiconductor industry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-iss-europe-2026-opens-as-leaders-convene-to-navigate-geopolitics/">SEMI ISS Europe 2026 Opens as Leaders Convene to Navigate Geopolitics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Sigenergy Debuts High-Power PV Inverter Platform." class="webfeedsFeaturedVisual wp-post-image" height="613" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Sigenergy.jpg?fit=1263%2C613" style="display: block; margin-bottom: 5px; clear: both;" width="1263" /><p>The new 506 kW inverter improves efficiency, reduces system costs, and enhances control in utility-scale solar power applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/sigenergy-debuts-high-power-pv-inverter-platform/">Sigenergy Debuts High-Power PV Inverter Platform</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -887,14 +895,6 @@ _Last updated: 2026-04-14 15:27 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2380" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_627738432.jpeg?fit=4246%2C2380" style="display: block; margin-bottom: 5px; clear: both;" width="4246" /><p>GaN HEMTs provide lower gate charge and parasitic capacitance, enabling superior efficiency and rapid switching speeds for audio.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/the-case-for-gan-hemts-in-class-d-audio/">The Case for GaN HEMTs in Class-D Audio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Infineon Talks Powering AI and Infrastructure](https://www.powerelectronicsnews.com/infineon-talks-powering-ai-and-infrastructure/)
-**Published:** Thu, 09 Apr 2026 19:36:44 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="677" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Infineonthumbnail.png?fit=1222%2C677" style="display: block; margin-bottom: 5px; clear: both;" width="1222" /><p>Infineon talks about how it is powering AI from the grid to the core as well as the infrastructure to support it.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-talks-powering-ai-and-infrastructure/">Infineon Talks Powering AI and Infrastructure</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
