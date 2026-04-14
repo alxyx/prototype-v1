@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-14 05:37 UTC_
+_Last updated: 2026-04-14 09:34 UTC_
 
 ## [QuickLogic Showcases RadPro FPGA Dev Kit at HEART Conference](https://www.eetasia.com/quicklogic-showcases-radpro-fpga-dev-kit-at-heart-conference/)
 **Published:** Tue, 14 Apr 2026 02:05:16 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-04-14 05:37 UTC_
 
 ---
 
+## [AOS Protection Switches Support Type-C Extended Power Delivery](https://www.powerelectronicsnews.com/aos-protection-switches-support-type-c-extended-power-delivery/)
+**Published:** Tue, 14 Apr 2026 07:17:29 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="342" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AOS_13058-15953DI_image_thumbnail-600x340-1.jpg?fit=600%2C342" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>Providing needed safety margins, AOZ13058DI Type-C sink and AOZ15953DI Type-C source protection switches pave the way for efficient, safe USB Type-C EPR. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/aos-protection-switches-support-type-c-extended-power-delivery/">AOS Protection Switches Support Type-C Extended Power Delivery</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Bourns Introduces SRP2008DP Power Inductor Series](https://www.powerelectronicsnews.com/bourns-introduces-srp2008dp-power-inductor-series/)
 **Published:** Mon, 13 Apr 2026 14:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2026-04-14 05:37 UTC_
 
 <img alt="EPC Expands 100V GaN Power Stage IC Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/EPC2310x-Family-PR-Graphic-333-250-p-L-97.jpg?fit=312%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="312" /><p>The new GaN ICs integrate power stages and control, improving efficiency, safety, and design simplicity in motor drive and power systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/epc-expands-100v-gan-power-stage-ic-portfolio/">EPC Expands 100V GaN Power Stage IC Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Corner: Allegro’s Anuj Jain on TMR—The New Frontier in Magnetic Sensing](https://www.powerelectronicsnews.com/power-corner-allegros-anuj-jain-on-tmr-the-new-frontier-in-magnetic-sensing/)
-**Published:** Thu, 09 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1105" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AllegroTMR.png?fit=1946%2C1105" style="display: block; margin-bottom: 5px; clear: both;" width="1946" /><p>Anuj Jain discusses how tunneling magnetoresistance compares to Hall effect sensing across automotive, data center, and robotics applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-allegros-anuj-jain-on-tmr-the-new-frontier-in-magnetic-sensing/">Power Corner: Allegro’s Anuj Jain on TMR—The New Frontier in Magnetic Sensing</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
