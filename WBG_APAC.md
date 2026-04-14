@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-14 09:34 UTC_
+_Last updated: 2026-04-14 15:27 UTC_
 
 ## [QuickLogic Showcases RadPro FPGA Dev Kit at HEART Conference](https://www.eetasia.com/quicklogic-showcases-radpro-fpga-dev-kit-at-heart-conference/)
 **Published:** Tue, 14 Apr 2026 02:05:16 +0000
@@ -15,6 +15,14 @@ _Last updated: 2026-04-14 09:34 UTC_
 
 <p>The tie-up could bolster Japan’s global semiconductor footprint and address fragmented IC markets.</p>
 <p>The post <a href="https://www.eetasia.com/rohm-toshiba-and-mitsubishi-join-forces-to-create-a-power-chip-unit/">Rohm, Toshiba and Mitsubishi Join Forces to Create a Power Chip Unit</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Lighting the Path for AI: Co‑Packaged Optics Moves from Promise to Production](https://www.semiconductor-digest.com/lighting-the-path-for-ai-co-packaged-optics-moves-from-promise-to-production/?utm_source=rss&utm_medium=rss&utm_campaign=lighting-the-path-for-ai-co-packaged-optics-moves-from-promise-to-production)
+**Published:** Tue, 14 Apr 2026 13:25:32 +0000
+
+<p>Co‑packaged optics (CPO) has moved from a long‑anticipated future technology to an immediate requirement for AI‑class data centers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lighting-the-path-for-ai-co-packaged-optics-moves-from-promise-to-production/">Lighting the Path for AI: Co‑Packaged Optics Moves from Promise to Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,11 +818,19 @@ _Last updated: 2026-04-14 09:34 UTC_
 
 ---
 
-## [A Dynamic Twist of Light’s ‘Handedness’](https://www.semiconductor-digest.com/a-dynamic-twist-of-lights-handedness/?utm_source=rss&utm_medium=rss&utm_campaign=a-dynamic-twist-of-lights-handedness)
-**Published:** Thu, 12 Mar 2026 00:48:29 +0000
+## [Solid-state transformers’ path from concept to common](https://www.powerelectronicsnews.com/solid-state-transformers-path-from-concept-to-common/)
+**Published:** Tue, 14 Apr 2026 14:00:00 +0000
 
-<p>MEMS-photonic device achieves tunable intrinsic optical chirality for new sensing, quantum tools.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/a-dynamic-twist-of-lights-handedness/">A Dynamic Twist of Light’s &#8216;Handedness&#8217;</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4523" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_283383707.jpeg?fit=7000%2C4523" style="display: block; margin-bottom: 5px; clear: both;" width="7000" /><p>Industry investment, OCP standardization efforts, and APEC discussions point to SSTs as a medium-term data center reality.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/solid-state-transformers-path-from-concept-to-common/">Solid-state transformers&#8217; path from concept to common</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [TDK Launches Ultra-Small Filters for Audio Noise Suppression](https://www.powerelectronicsnews.com/tdk-launches-ultra-small-filters-for-audio-noise-suppression/)
+**Published:** Tue, 14 Apr 2026 13:00:00 +0000
+
+<img alt="TDK Launches Ultra-Small Filters for Audio Noise Suppression." class="webfeedsFeaturedVisual wp-post-image" height="1153" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/press_2026040701_photo_w.png?fit=2000%2C1153" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>Ultra-small filters suppress high-frequency noise while preserving audio quality in smartphones and wearables supporting 5G and Wi-Fi.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tdk-launches-ultra-small-filters-for-audio-noise-suppression/">TDK Launches Ultra-Small Filters for Audio Noise Suppression</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,22 +898,6 @@ _Last updated: 2026-04-14 09:34 UTC_
 
 ---
 
-## [At APEC 2026, AOS showcases its expanding portfolio with advanced controllers, power stages, and protection solutions](https://www.powerelectronicsnews.com/at-apec-2026-aos-showcases-its-expanding-portfolio-with-advanced-controllers-power-stages-and-protection-solutions/)
-**Published:** Thu, 09 Apr 2026 19:36:37 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1410" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AOSthumbnail.png?fit=2546%2C1410" style="display: block; margin-bottom: 5px; clear: both;" width="2546" /><p>AOS showcases advanced solutions for AI Core Power. These new products offer advanced features that enable designers to meet power management challenges in several key...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/at-apec-2026-aos-showcases-its-expanding-portfolio-with-advanced-controllers-power-stages-and-protection-solutions/">At APEC 2026, AOS showcases its expanding portfolio with advanced controllers, power stages, and protection solutions</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [EPC Expands 100V GaN Power Stage IC Portfolio](https://www.powerelectronicsnews.com/epc-expands-100v-gan-power-stage-ic-portfolio/)
-**Published:** Thu, 09 Apr 2026 15:00:00 +0000
-
-<img alt="EPC Expands 100V GaN Power Stage IC Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/EPC2310x-Family-PR-Graphic-333-250-p-L-97.jpg?fit=312%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="312" /><p>The new GaN ICs integrate power stages and control, improving efficiency, safety, and design simplicity in motor drive and power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/epc-expands-100v-gan-power-stage-ic-portfolio/">EPC Expands 100V GaN Power Stage IC Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Three Misconceptions About the $402B Semiconductor Foundry Industry](https://www.eetimes.com/three-misconceptions-about-the-402b-semiconductor-foundry-industry/)
 **Published:** Mon, 13 Apr 2026 07:30:00 +0000
 
@@ -911,21 +911,6 @@ _Last updated: 2026-04-14 09:34 UTC_
 
 <p>Since going public in 2023, Southchip has grown rapidly, driven by core semiconductor technologies and diversification into automotive and industrial sectors.</p>
 <p>The post <a href="https://www.eetimes.com/no-fear-to-fail-secrets-behind-southchips-rapid-growth/">No Fear to Fail: Secrets Behind Southchip’s Rapid Growth</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [BZPACK mSiC power modules take on HV‑H3TRB harsh environments](https://www.electronicsweekly.com/news/products/power-supplies/bzpack-msic-power-modules-take-on-hv%e2%80%91h3tr-harsh-environments-2026-04/)
-**Published:** Mon, 13 Apr 2026 09:26:50 +0000
-
-<p>Microchip is releasing its BZPACK mSiC power modules, designed to meet High Humidity High Voltage High Temperature Reverse Bias (HV‑H3TRB) standards. Power conversion They are available in topologies including half-bridge, ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/power-supplies/bzpack-msic-power-modules-take-on-hv%e2%80%91h3tr-harsh-environments-2026-04/">BZPACK mSiC power modules take on HV‑H3TRB harsh environments</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Electronics Engineering – Internship At  Identium Tech Solutions In Delhi](https://www.electronicsforu.com/career/electronics-engineering-internship-at-identium-tech-solutions-in-delhi)
-**Published:** Mon, 13 Apr 2026 11:36:11 +0000
-
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Delhi Company: Identium Tech Solutions About the Internship Selected intern&#8217;s day-to-day responsibilities include: 1. Assisting in system engineering and project-related tasks2. Interacting with customers to understand requirements and provide support3. Applying marketing skills to promote technical solutions and services4. New products development and microcontroller programming skills Skill(s) required Who can [&#8230;]
 
 ---
 
