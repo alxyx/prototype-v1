@@ -1,28 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-13 23:56 UTC_
+_Last updated: 2026-04-14 05:37 UTC_
 
-## [Design Guide for Effective and Reliable Capacitive Touch Keys in Automotive and White Goods Applications](https://www.eetasia.com/design-guide-for-effective-and-reliable-capacitive-touch-keys-in-automotive-and-white-goods-applications/)
-**Published:** Mon, 13 Apr 2026 01:00:15 +0000
+## [QuickLogic Showcases RadPro FPGA Dev Kit at HEART Conference](https://www.eetasia.com/quicklogic-showcases-radpro-fpga-dev-kit-at-heart-conference/)
+**Published:** Tue, 14 Apr 2026 02:05:16 +0000
 
-<p>&#160; Designing capacitive touch interfaces requires a deliberate balance between sensitivity (detecting a light finger press) and robustness (rejecting moisture, noise, and accidental activation). While the physics of capacitive sensing is the same, the dominant failure modes can differ by application. Automotive designs are often limited by EMI/ESD, large temperature swings, glove operation, and noise [&#8230;]</p>
-<p>The post <a href="https://www.eetasia.com/design-guide-for-effective-and-reliable-capacitive-touch-keys-in-automotive-and-white-goods-applications/">Design Guide for Effective and Reliable Capacitive Touch Keys in Automotive and White Goods Applications</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Seoul Semiconductor Granted “High-Tech Enterprise” Certification in Vietnam](https://www.eetasia.com/seoul-semiconductor-granted-high-tech-enterprise-certification-in-vietnam/)
-**Published:** Thu, 09 Apr 2026 03:36:35 +0000
-
-<p>The certification formally recognizes Seoul Semiconductor's technological capabilities and competitive position in the optoelectronics industry.</p>
-<p>The post <a href="https://www.eetasia.com/seoul-semiconductor-granted-high-tech-enterprise-certification-in-vietnam/">Seoul Semiconductor Granted &#8220;High-Tech Enterprise&#8221; Certification in Vietnam</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>QuickLogic's core RadPro FPGA technology is extensible to eFPGA Hard IP for radiation-hardened ASIC and SoC designs.</p>
+<p>The post <a href="https://www.eetasia.com/quicklogic-showcases-radpro-fpga-dev-kit-at-heart-conference/">QuickLogic Showcases RadPro FPGA Dev Kit at HEART Conference</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
-## [SEMI: Global Semiconductor Equipment Billings Up 15% YoY in 2025](https://www.eetasia.com/semi-global-semiconductor-equipment-billings-up-15-yoy-in-2025/)
-**Published:** Thu, 09 Apr 2026 03:26:13 +0000
+## [Rohm, Toshiba and Mitsubishi Join Forces to Create a Power Chip Unit](https://www.eetasia.com/rohm-toshiba-and-mitsubishi-join-forces-to-create-a-power-chip-unit/)
+**Published:** Tue, 14 Apr 2026 02:00:10 +0000
 
-<p>Continued investment in advanced logic, memory, and AI-related capacity expansion fueled the 15% YoY growth of the global chip manufacturing market.</p>
-<p>The post <a href="https://www.eetasia.com/semi-global-semiconductor-equipment-billings-up-15-yoy-in-2025/">SEMI: Global Semiconductor Equipment Billings Up 15% YoY in 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The tie-up could bolster Japan’s global semiconductor footprint and address fragmented IC markets.</p>
+<p>The post <a href="https://www.eetasia.com/rohm-toshiba-and-mitsubishi-join-forces-to-create-a-power-chip-unit/">Rohm, Toshiba and Mitsubishi Join Forces to Create a Power Chip Unit</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
