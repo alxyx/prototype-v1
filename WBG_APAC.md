@@ -1,12 +1,68 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-15 16:18 UTC_
+_Last updated: 2026-04-15 23:55 UTC_
 
 ## [QuickLogic Showcases RadPro FPGA Dev Kit at HEART Conference](https://www.eetasia.com/quicklogic-showcases-radpro-fpga-dev-kit-at-heart-conference/)
 **Published:** Tue, 14 Apr 2026 02:05:16 +0000
 
 <p>QuickLogic's core RadPro FPGA technology is extensible to eFPGA Hard IP for radiation-hardened ASIC and SoC designs.</p>
 <p>The post <a href="https://www.eetasia.com/quicklogic-showcases-radpro-fpga-dev-kit-at-heart-conference/">QuickLogic Showcases RadPro FPGA Dev Kit at HEART Conference</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [West-MEC Celebrated Opening of Nation’s First K-12 CTE Semiconductor Cleanroom](https://www.semiconductor-digest.com/west-mec-celebrated-opening-of-nations-first-k-12-cte-semiconductor-cleanroom/?utm_source=rss&utm_medium=rss&utm_campaign=west-mec-celebrated-opening-of-nations-first-k-12-cte-semiconductor-cleanroom)
+**Published:** Wed, 15 Apr 2026 20:26:25 +0000
+
+<p>Western Maricopa Education Center (West-MEC) officially celebrated the grand opening of its Advanced Manufacturing Cleanroom on April 13, marking a historic milestone as the nation's first K–12 CTE semiconductor cleanroom of its size.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/west-mec-celebrated-opening-of-nations-first-k-12-cte-semiconductor-cleanroom/">West-MEC Celebrated Opening of Nation&#8217;s First K-12 CTE Semiconductor Cleanroom</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Silicon Box Announces Plans to Join Imec Automotive Chiplet Program](https://www.semiconductor-digest.com/silicon-box-announces-plans-to-join-imec-automotive-chiplet-program/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-box-announces-plans-to-join-imec-automotive-chiplet-program)
+**Published:** Wed, 15 Apr 2026 20:21:09 +0000
+
+<p>Through the collaboration, Silicon Box will work with industry leaders to advance automotive-grade chiplet devices with advanced packaging.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/silicon-box-announces-plans-to-join-imec-automotive-chiplet-program/">Silicon Box Announces Plans to Join Imec Automotive Chiplet Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Cadence and NVIDIA Expand Partnership](https://www.semiconductor-digest.com/cadence-and-nvidia-expand-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-and-nvidia-expand-partnership)
+**Published:** Wed, 15 Apr 2026 20:15:39 +0000
+
+<p>Expanded collaboration combines agentic AI, physics-based simulation, and digital twins to accelerate engineering and unlock new levels of productivity across semiconductors, physical AI systems and AI factories.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cadence-and-nvidia-expand-partnership/">Cadence and NVIDIA Expand Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Molex Announces Agreement to Acquire Teramount Ltd.](https://www.semiconductor-digest.com/molex-announces-agreement-to-acquire-teramount-ltd/?utm_source=rss&utm_medium=rss&utm_campaign=molex-announces-agreement-to-acquire-teramount-ltd)
+**Published:** Wed, 15 Apr 2026 19:58:59 +0000
+
+<p>Molex today announced an agreement to acquire Teramount Ltd., an Israel-based developer of detachable fiber-to-chip connectivity solutions optimized for high-volume Co-Packaged Optics (CPO) and other silicon photonics applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/molex-announces-agreement-to-acquire-teramount-ltd/">Molex Announces Agreement to Acquire Teramount Ltd.</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [EdgeCortix Announces New Investment from Axiro Semiconductor and MPower Partners](https://www.semiconductor-digest.com/edgecortix-announces-new-investment-from-axiro-semiconductor-and-mpower-partners/?utm_source=rss&utm_medium=rss&utm_campaign=edgecortix-announces-new-investment-from-axiro-semiconductor-and-mpower-partners)
+**Published:** Wed, 15 Apr 2026 19:23:53 +0000
+
+<p>EdgeCortix, a fabless semiconductor company specializing in energy-efficient AI processing at the edge, today announced a new investment from Axiro Semiconductor Pvt. Ltd. and MPower Partners.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/edgecortix-announces-new-investment-from-axiro-semiconductor-and-mpower-partners/">EdgeCortix Announces New Investment from Axiro Semiconductor and MPower Partners</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Sivers Semiconductors Collaborates With Jabil](https://www.semiconductor-digest.com/sivers-semiconductors-collaborates-with-jabil/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-collaborates-with-jabil)
+**Published:** Wed, 15 Apr 2026 19:20:14 +0000
+
+<p>Sivers Semiconductors AB today announced a collaboration with Jabil, a global engineering, supply chain, and manufacturing solutions provider.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sivers-semiconductors-collaborates-with-jabil/">Sivers Semiconductors Collaborates With Jabil</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Terry Berke Honored with Si2 Outstanding Contributions Award](https://www.semiconductor-digest.com/terry-berke-honored-with-si2-outstanding-contributions-award/?utm_source=rss&utm_medium=rss&utm_campaign=terry-berke-honored-with-si2-outstanding-contributions-award)
+**Published:** Wed, 15 Apr 2026 19:12:06 +0000
+
+<p>The Silicon Integration Initiative (Si2) has honored Terry Berke with an Si2 Outstanding Contributions Award, acknowledging over 25 years of dedication and success in semiconductor marketing and communications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/terry-berke-honored-with-si2-outstanding-contributions-award/">Terry Berke Honored with Si2 Outstanding Contributions Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -751,62 +807,6 @@ _Last updated: 2026-04-15 16:18 UTC_
 
 <p>Publishing in International Journal of Extreme Manufacturing, Prof. Yanquan Geng's team at Harbin Institute of Technology has devised a way to carve variable-depth, three-dimensional trenches into gallium antimonide, a notably brittle semiconductor, using a microscopic tip vibrating thousands of times per second.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/vibrating-atomic-tip-sculpts-3d-memory-channels-into-fragile-semiconductors/">Vibrating Atomic Tip Sculpts 3D Memory Channels Into Fragile Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [DGIST Develops Key Transistor for Next-Generation 3D Stacked Semiconductors Based on Successful Development of a Novel Sandwich-Structured Transistor](https://www.semiconductor-digest.com/dgist-develops-key-transistor-for-next-generation-3d-stacked-semiconductors-based-on-successful-development-of-a-novel-sandwich-structured-transistor/?utm_source=rss&utm_medium=rss&utm_campaign=dgist-develops-key-transistor-for-next-generation-3d-stacked-semiconductors-based-on-successful-development-of-a-novel-sandwich-structured-transistor)
-**Published:** Mon, 16 Mar 2026 23:45:35 +0000
-
-<p>A research team led by Professor Jae Eun Jang and Dr. Goeun Pyo from the Department of Electrical Engineering and Computer Science at DGIST (President Kunwoo Lee) has developed, for the first time in the world, “dual-modulated vertically stacked transistors” that operate stably without current leakage even in two-dimensional nanoscale channel structures.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/dgist-develops-key-transistor-for-next-generation-3d-stacked-semiconductors-based-on-successful-development-of-a-novel-sandwich-structured-transistor/">DGIST Develops Key Transistor for Next-Generation 3D Stacked Semiconductors Based on Successful Development of a Novel Sandwich-Structured Transistor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Europe and the Polish Taiwanese Chamber of Commerce Partner to Accelerate Semiconductor Industry Expansions in Poland](https://www.semiconductor-digest.com/semi-europe-and-the-polish-taiwanese-chamber-of-commerce-partner-to-accelerate-semiconductor-industry-expansions-in-poland/?utm_source=rss&utm_medium=rss&utm_campaign=semi-europe-and-the-polish-taiwanese-chamber-of-commerce-partner-to-accelerate-semiconductor-industry-expansions-in-poland)
-**Published:** Mon, 16 Mar 2026 22:43:43 +0000
-
-<p>SEMI Europe today announced the signing of a new two‑year Memorandum of Understanding (MoU) with the Polish‑Taiwanese Chamber of Commerce, establishing a strategic partnership to advance semiconductor industry development and support the green transition across the sector.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-europe-and-the-polish-taiwanese-chamber-of-commerce-partner-to-accelerate-semiconductor-industry-expansions-in-poland/">SEMI Europe and the Polish Taiwanese Chamber of Commerce Partner to Accelerate Semiconductor Industry Expansions in Poland</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Siemens Launches Fuse EDA AI Agent for Automation Across Semiconductor, 3D IC and PCB System Workflows](https://www.semiconductor-digest.com/siemens-launches-fuse-eda-ai-agent-for-automation-across-semiconductor-3d-ic-and-pcb-system-workflows/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-launches-fuse-eda-ai-agent-for-automation-across-semiconductor-3d-ic-and-pcb-system-workflows)
-**Published:** Mon, 16 Mar 2026 22:36:40 +0000
-
-<p>Siemens today announced the Fuse EDA AI Agent system, a purpose-built domain-scoped autonomous AI agent that plans and orchestrates multi-tool and multi-agent complex semiconductor, 3D IC and printed circuit board (PCB) system workflows that span across design, verification and manufacturing sign-off.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-launches-fuse-eda-ai-agent-for-automation-across-semiconductor-3d-ic-and-pcb-system-workflows/">Siemens Launches Fuse EDA AI Agent for Automation Across Semiconductor, 3D IC and PCB System Workflows</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NXP Delivers New Innovations for Advanced Physical AI with NVIDIA](https://www.semiconductor-digest.com/nxp-delivers-new-innovations-for-advanced-physical-ai-with-nvidia/?utm_source=rss&utm_medium=rss&utm_campaign=nxp-delivers-new-innovations-for-advanced-physical-ai-with-nvidia)
-**Published:** Mon, 16 Mar 2026 22:31:54 +0000
-
-<p>NXP Semiconductors N.V. today announced innovative robotics solutions for reliable, secure, real-time data processing and transport and advanced networking, enabling sensor fusion, machine vision and precision motor control.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nxp-delivers-new-innovations-for-advanced-physical-ai-with-nvidia/">NXP Delivers New Innovations for Advanced Physical AI with NVIDIA</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [STMicroelectronics and Leopard Imaging Accelerate Robotics Vision with NVIDIA Jetson-Ready Multi-Sensor Module](https://www.semiconductor-digest.com/stmicroelectronics-and-leopard-imaging-accelerate-robotics-vision-with-nvidia-jetson-ready-multi-sensor-module/?utm_source=rss&utm_medium=rss&utm_campaign=stmicroelectronics-and-leopard-imaging-accelerate-robotics-vision-with-nvidia-jetson-ready-multi-sensor-module)
-**Published:** Mon, 16 Mar 2026 22:29:00 +0000
-
-<p>STMicroelectronics and Leopard Imaging have introduced an all-in-one multimodal vision module for humanoid and other advanced robotics systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/stmicroelectronics-and-leopard-imaging-accelerate-robotics-vision-with-nvidia-jetson-ready-multi-sensor-module/">STMicroelectronics and Leopard Imaging Accelerate Robotics Vision with NVIDIA Jetson-Ready Multi-Sensor Module</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Axcelis Announces CFO Transition](https://www.semiconductor-digest.com/axcelis-announces-cfo-transition/?utm_source=rss&utm_medium=rss&utm_campaign=axcelis-announces-cfo-transition)
-**Published:** Fri, 13 Mar 2026 20:26:45 +0000
-
-<p>Axcelis Technologies, Inc. today announced that David Ryzhik, Senior Vice President of Investor Relations and Corporate Strategy, has been appointed Interim Chief Financial Officer, effective March 12.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/axcelis-announces-cfo-transition/">Axcelis Announces CFO Transition</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New Tools and Techniques Accelerate Gallium Oxide as Next-Generation Power Semiconductor](https://www.semiconductor-digest.com/new-tools-and-techniques-accelerate-gallium-oxide-as-next-generation-power-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=new-tools-and-techniques-accelerate-gallium-oxide-as-next-generation-power-semiconductor)
-**Published:** Fri, 13 Mar 2026 20:18:37 +0000
-
-<p>Researchers at Nagoya University present six advances in gallium oxide thin-film growth, including a world-first result growing the material on low-cost silicon substrates.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-tools-and-techniques-accelerate-gallium-oxide-as-next-generation-power-semiconductor/">New Tools and Techniques Accelerate Gallium Oxide as Next-Generation Power Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
