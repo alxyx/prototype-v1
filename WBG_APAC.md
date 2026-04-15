@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-14 21:07 UTC_
+_Last updated: 2026-04-15 05:37 UTC_
 
 ## [QuickLogic Showcases RadPro FPGA Dev Kit at HEART Conference](https://www.eetasia.com/quicklogic-showcases-radpro-fpga-dev-kit-at-heart-conference/)
 **Published:** Tue, 14 Apr 2026 02:05:16 +0000
@@ -911,6 +911,13 @@ _Last updated: 2026-04-14 21:07 UTC_
 
 <p>Since going public in 2023, Southchip has grown rapidly, driven by core semiconductor technologies and diversification into automotive and industrial sectors.</p>
 <p>The post <a href="https://www.eetimes.com/no-fear-to-fail-secrets-behind-southchips-rapid-growth/">No Fear to Fail: Secrets Behind Southchip’s Rapid Growth</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Smarter Software Boosts Data Centre Storage Performance Efficiency](https://www.electronicsforu.com/news/smarter-software-boosts-data-centre-storage-performance-efficiency)
+**Published:** Wed, 15 Apr 2026 05:12:31 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/MIT-DataCenter-Variable-01-press_0-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />This Software boosts Data Centre performance efficiency by optimizing storage workloads, unlocking hidden speed without adding costly hardware. Improving data centre performance has often meant adding more hardware, but that approach is becoming increasingly costly and unsustainable. Researchers have now developed a smart software-driven solution that significantly enhances storage performance without requiring additional physical resources. [&#8230;]
 
 ---
 
