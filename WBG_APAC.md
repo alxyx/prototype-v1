@@ -1,20 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-15 05:37 UTC_
+_Last updated: 2026-04-15 16:18 UTC_
 
 ## [QuickLogic Showcases RadPro FPGA Dev Kit at HEART Conference](https://www.eetasia.com/quicklogic-showcases-radpro-fpga-dev-kit-at-heart-conference/)
 **Published:** Tue, 14 Apr 2026 02:05:16 +0000
 
 <p>QuickLogic's core RadPro FPGA technology is extensible to eFPGA Hard IP for radiation-hardened ASIC and SoC designs.</p>
 <p>The post <a href="https://www.eetasia.com/quicklogic-showcases-radpro-fpga-dev-kit-at-heart-conference/">QuickLogic Showcases RadPro FPGA Dev Kit at HEART Conference</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Rohm, Toshiba and Mitsubishi Join Forces to Create a Power Chip Unit](https://www.eetasia.com/rohm-toshiba-and-mitsubishi-join-forces-to-create-a-power-chip-unit/)
-**Published:** Tue, 14 Apr 2026 02:00:10 +0000
-
-<p>The tie-up could bolster Japan’s global semiconductor footprint and address fragmented IC markets.</p>
-<p>The post <a href="https://www.eetasia.com/rohm-toshiba-and-mitsubishi-join-forces-to-create-a-power-chip-unit/">Rohm, Toshiba and Mitsubishi Join Forces to Create a Power Chip Unit</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -818,6 +810,46 @@ _Last updated: 2026-04-15 05:37 UTC_
 
 ---
 
+## [EPC Launches 5 kW GaN 3-Phase Inverters for Motor Drives](https://www.powerelectronicsnews.com/epc-launches-5-kw-gan-3-phase-inverters-for-motor-drives/)
+**Published:** Wed, 15 Apr 2026 13:57:16 +0000
+
+<img alt="EPC Launches 5 kW GaN 3-Phase Inverters for Motor Drives." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/EPC9186-HC2-HC3-PR-Graphic_Clean.jpg?fit=1500%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>The new GaN-based inverter boards enable 150 Arms BLDC control with high efficiency and fast switching for robotics and light EVs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/epc-launches-5-kw-gan-3-phase-inverters-for-motor-drives/">EPC Launches 5 kW GaN 3-Phase Inverters for Motor Drives</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Join Us for the ESD Tech Forum Virtual Event in April](https://www.powerelectronicsnews.com/join-us-for-the-esd-tech-forum-virtual-event-in-april/)
+**Published:** Wed, 15 Apr 2026 13:50:18 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="812" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/ESD-tech-forum.png?fit=1252%2C812" style="display: block; margin-bottom: 5px; clear: both;" width="1252" /><p>Embedded.com is hosting the annual Embedded Systems Design (ESD) Tech Forum virtual event. The two-day conference, scheduled for April 28-29, will focus on several key areas of...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/join-us-for-the-esd-tech-forum-virtual-event-in-april/">Join Us for the ESD Tech Forum Virtual Event in April</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [RECOM Expands Portfolio with Discrete Power Solutions](https://www.powerelectronicsnews.com/recom-expands-portfolio-with-discrete-power-solutions/)
+**Published:** Wed, 15 Apr 2026 13:00:00 +0000
+
+<img alt="RECOM Expands Portfolio with Discrete Power Solutions." class="webfeedsFeaturedVisual wp-post-image" height="514" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/News-443.png?fit=768%2C514" style="display: block; margin-bottom: 5px; clear: both;" width="768" /><p>New ICs and transformers enable flexible design of isolated DC/DC converters with multiple topologies and reduced component count.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/recom-expands-portfolio-with-discrete-power-solutions/">RECOM Expands Portfolio with Discrete Power Solutions</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Magnetic Metals’ Tape Wound Cores Optimize the Performance of Sophisticated Electronic Components](https://www.powerelectronicsnews.com/magnetic-metals-tape-wound-cores-optimize-the-performance-of-sophisticated-electronic-components/)
+**Published:** Wed, 15 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="871" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/magnetic-metals.png?fit=1365%2C871" style="display: block; margin-bottom: 5px; clear: both;" width="1365" /><p>Magnetic cores from Magnetic Metals deliver the maximum electrification properties required for advanced-performance components used in aerospace and defense, electric vehicles, industrial controls, utilities, telecommunications,...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/magnetic-metals-tape-wound-cores-optimize-the-performance-of-sophisticated-electronic-components/">Magnetic Metals’ Tape Wound Cores Optimize the Performance of Sophisticated Electronic Components</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [SemiQ SiC Gen3 technology empowers AI data center cooling](https://www.powerelectronicsnews.com/semiq-sic-gen3-technology-empowers-ai-data-center-cooling/)
+**Published:** Wed, 15 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="339" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image_afe54d.png?fit=800%2C339" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>SemiQ's QSiC Dual3 modules apply 1,200 V SiC technology to chillers, pumps, and drives in AI data centers.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/semiq-sic-gen3-technology-empowers-ai-data-center-cooling/">SemiQ SiC Gen3 technology empowers AI data center cooling</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Sigenergy Debuts High-Power PV Inverter Platform](https://www.powerelectronicsnews.com/sigenergy-debuts-high-power-pv-inverter-platform/)
 **Published:** Tue, 14 Apr 2026 16:00:00 +0000
 
@@ -858,43 +890,11 @@ _Last updated: 2026-04-15 05:37 UTC_
 
 ---
 
-## [Intel Foundry Unveils Ultra-Thin GaN Chiplet Technology](https://www.powerelectronicsnews.com/intel-foundry-unveils-ultra-thin-gan-chiplet-technology/)
-**Published:** Mon, 13 Apr 2026 13:11:33 +0000
+## [How Europe Actually Finances Semiconductor Investments](https://www.eetimes.com/how-europe-actually-finances-semiconductor-investments/)
+**Published:** Wed, 15 Apr 2026 08:00:00 +0000
 
-<img alt="Intel Foundry Unveils Ultra-Thin GaN Chiplet Technology." class="webfeedsFeaturedVisual wp-post-image" height="562" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Intel_GaN_Chiplet.jpg?fit=999%2C562" style="display: block; margin-bottom: 5px; clear: both;" width="999" /><p>Ultra-thin GaN chiplet integrates power and logic, enabling efficient, high-density designs for AI, data centers, and wireless systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/intel-foundry-unveils-ultra-thin-gan-chiplet-technology/">Intel Foundry Unveils Ultra-Thin GaN Chiplet Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [High-Temperature Superconducting Cables and Microfluidic Cooling for Data Centers](https://www.powerelectronicsnews.com/high-temperature-superconducting-cables-and-microfluidic-cooling-for-data-centers/)
-**Published:** Mon, 13 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3840" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_1838962202.jpeg?fit=6825%2C3840" style="display: block; margin-bottom: 5px; clear: both;" width="6825" /><p>Engineers at Microsoft are working on two concepts that can reduce power loss and improve efficiency in data centers.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/high-temperature-superconducting-cables-and-microfluidic-cooling-for-data-centers/">High-Temperature Superconducting Cables and Microfluidic Cooling for Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [GaN, Thermal Management With Nanoscale Sensors, Rohm-Toshiba-Mitsubishi MOU: Power Electronics Week Insights](https://www.powerelectronicsnews.com/gan-thermal-management-with-nanoscale-sensors-rohm-toshiba-mitsubishi-mou-power-electronics-week-insights/)
-**Published:** Fri, 10 Apr 2026 17:34:22 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on GaN, Thermal Management With Nanoscale Sensors, and Rohm-Toshiba-Mitsubishi MOU!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/gan-thermal-management-with-nanoscale-sensors-rohm-toshiba-mitsubishi-mou-power-electronics-week-insights/">GaN, Thermal Management With Nanoscale Sensors, Rohm-Toshiba-Mitsubishi MOU: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ST Launches GaN Gate Drivers with Smart Protection](https://www.powerelectronicsnews.com/st-launches-gan-gate-drivers-with-smart-protection/)
-**Published:** Fri, 10 Apr 2026 14:00:00 +0000
-
-<img alt="ST Launches GaN Gate Drivers with Smart Protection." class="webfeedsFeaturedVisual wp-post-image" height="429" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image.PF277651.en_.feature-description-include-personalized-no-cpn-large.png?fit=560%2C429" style="display: block; margin-bottom: 5px; clear: both;" width="560" /><p>High-speed GaN drivers integrate protection and control features, enabling efficient and compact motion control and power conversion systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-launches-gan-gate-drivers-with-smart-protection/">ST Launches GaN Gate Drivers with Smart Protection</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [The Case for GaN HEMTs in Class-D Audio](https://www.powerelectronicsnews.com/the-case-for-gan-hemts-in-class-d-audio/)
-**Published:** Fri, 10 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2380" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_627738432.jpeg?fit=4246%2C2380" style="display: block; margin-bottom: 5px; clear: both;" width="4246" /><p>GaN HEMTs provide lower gate charge and parasitic capacitance, enabling superior efficiency and rapid switching speeds for audio.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-case-for-gan-hemts-in-class-d-audio/">The Case for GaN HEMTs in Class-D Audio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>As Europe’s semiconductor ambitions shift from policy announcements to real industrial projects, a less visible question is coming into focus: How do those projects actually get financed?</p>
+<p>The post <a href="https://www.eetimes.com/how-europe-actually-finances-semiconductor-investments/">How Europe Actually Finances Semiconductor Investments</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -906,18 +906,11 @@ _Last updated: 2026-04-15 05:37 UTC_
 
 ---
 
-## [No Fear to Fail: Secrets Behind Southchip’s Rapid Growth](https://www.eetimes.com/no-fear-to-fail-secrets-behind-southchips-rapid-growth/)
-**Published:** Fri, 10 Apr 2026 07:06:54 +0000
+## [5 kW GaN 3-Phase Inverters for robotics and light EVs from EPC](https://www.electronicsweekly.com/news/business/releases-5-kw-gan-3-phase-inverters-for-robotics-and-light-evs-from-epc-2026-04/)
+**Published:** Wed, 15 Apr 2026 05:23:17 +0000
 
-<p>Since going public in 2023, Southchip has grown rapidly, driven by core semiconductor technologies and diversification into automotive and industrial sectors.</p>
-<p>The post <a href="https://www.eetimes.com/no-fear-to-fail-secrets-behind-southchips-rapid-growth/">No Fear to Fail: Secrets Behind Southchip’s Rapid Growth</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Smarter Software Boosts Data Centre Storage Performance Efficiency](https://www.electronicsforu.com/news/smarter-software-boosts-data-centre-storage-performance-efficiency)
-**Published:** Wed, 15 Apr 2026 05:12:31 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/MIT-DataCenter-Variable-01-press_0-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />This Software boosts Data Centre performance efficiency by optimizing storage workloads, unlocking hidden speed without adding costly hardware. Improving data centre performance has often meant adding more hardware, but that approach is becoming increasingly costly and unsustainable. Researchers have now developed a smart software-driven solution that significantly enhances storage performance without requiring additional physical resources. [&#8230;]
+<p>Efficient Power Conversion (EPC), the eGaN power device specialist, has introduced the EPC9186HC2 and EPC9186HC3 evaluation boards, two high-performance 3-phase BLDC motor drive inverter platforms designed for applications including robotics, ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/releases-5-kw-gan-3-phase-inverters-for-robotics-and-light-evs-from-epc-2026-04/">5 kW GaN 3-Phase Inverters for robotics and light EVs from EPC</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
