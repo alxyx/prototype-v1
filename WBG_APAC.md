@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-16 14:03 UTC_
+_Last updated: 2026-04-16 15:38 UTC_
 
 ## [West-MEC Celebrated Opening of Nation’s First K-12 CTE Semiconductor Cleanroom](https://www.semiconductor-digest.com/west-mec-celebrated-opening-of-nations-first-k-12-cte-semiconductor-cleanroom/?utm_source=rss&utm_medium=rss&utm_campaign=west-mec-celebrated-opening-of-nations-first-k-12-cte-semiconductor-cleanroom)
 **Published:** Wed, 15 Apr 2026 20:26:25 +0000
