@@ -1,14 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-15 23:55 UTC_
-
-## [QuickLogic Showcases RadPro FPGA Dev Kit at HEART Conference](https://www.eetasia.com/quicklogic-showcases-radpro-fpga-dev-kit-at-heart-conference/)
-**Published:** Tue, 14 Apr 2026 02:05:16 +0000
-
-<p>QuickLogic's core RadPro FPGA technology is extensible to eFPGA Hard IP for radiation-hardened ASIC and SoC designs.</p>
-<p>The post <a href="https://www.eetasia.com/quicklogic-showcases-radpro-fpga-dev-kit-at-heart-conference/">QuickLogic Showcases RadPro FPGA Dev Kit at HEART Conference</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
+_Last updated: 2026-04-16 14:03 UTC_
 
 ## [West-MEC Celebrated Opening of Nation’s First K-12 CTE Semiconductor Cleanroom](https://www.semiconductor-digest.com/west-mec-celebrated-opening-of-nations-first-k-12-cte-semiconductor-cleanroom/?utm_source=rss&utm_medium=rss&utm_campaign=west-mec-celebrated-opening-of-nations-first-k-12-cte-semiconductor-cleanroom)
 **Published:** Wed, 15 Apr 2026 20:26:25 +0000
@@ -810,6 +802,22 @@ _Last updated: 2026-04-15 23:55 UTC_
 
 ---
 
+## [Power Corner: Wolfspeed CTO Dr. Elif Balkas on 300-mm SiC for AI and HPC Advanced Packaging](https://www.powerelectronicsnews.com/power-corner-wolfspeed-cto-dr-elif-balkas-on-300-mm-sic-for-ai-and-hpc-advanced-packaging/)
+**Published:** Thu, 16 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1118" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Wolfspeed.png?fit=1944%2C1118" style="display: block; margin-bottom: 5px; clear: both;" width="1944" /><p>From thermal management to photonics, Wolfspeed's CTO maps silicon carbide's expanding role in AI infrastructure.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-wolfspeed-cto-dr-elif-balkas-on-300-mm-sic-for-ai-and-hpc-advanced-packaging/">Power Corner: Wolfspeed CTO Dr. Elif Balkas on 300-mm SiC for AI and HPC Advanced Packaging</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Reducing DC-DC Power Consumption: Application Case of VHU Series Capacitors](https://www.powerelectronicsnews.com/reducing-dc-dc-power-consumption-application-case-of-vhu-series-capacitors/)
+**Published:** Thu, 16 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="340" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/ymin_thumbnail_image.png?fit=600%2C340" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>Explore how VHU Series capacitors reduce DC-DC power consumption in automotive applications, ensuring stable performance and energy-efficient designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/reducing-dc-dc-power-consumption-application-case-of-vhu-series-capacitors/">Reducing DC-DC Power Consumption: Application Case of VHU Series Capacitors </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [EPC Launches 5 kW GaN 3-Phase Inverters for Motor Drives](https://www.powerelectronicsnews.com/epc-launches-5-kw-gan-3-phase-inverters-for-motor-drives/)
 **Published:** Wed, 15 Apr 2026 13:57:16 +0000
 
@@ -874,22 +882,6 @@ _Last updated: 2026-04-15 23:55 UTC_
 
 ---
 
-## [AOS Protection Switches Support Type-C Extended Power Delivery](https://www.powerelectronicsnews.com/aos-protection-switches-support-type-c-extended-power-delivery/)
-**Published:** Tue, 14 Apr 2026 07:17:29 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="342" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AOS_13058-15953DI_image_thumbnail-600x340-1.jpg?fit=600%2C342" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>Providing needed safety margins, AOZ13058DI Type-C sink and AOZ15953DI Type-C source protection switches pave the way for efficient, safe USB Type-C EPR. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/aos-protection-switches-support-type-c-extended-power-delivery/">AOS Protection Switches Support Type-C Extended Power Delivery</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Bourns Introduces SRP2008DP Power Inductor Series](https://www.powerelectronicsnews.com/bourns-introduces-srp2008dp-power-inductor-series/)
-**Published:** Mon, 13 Apr 2026 14:00:00 +0000
-
-<img alt="Bourns Introduces SRP2008DP Power Inductor Series." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/bourns_srp2008dp_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>Shielded inductors combine high current capability with compact size, improving EMC performance and power density.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/bourns-introduces-srp2008dp-power-inductor-series/">Bourns Introduces SRP2008DP Power Inductor Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [How Europe Actually Finances Semiconductor Investments](https://www.eetimes.com/how-europe-actually-finances-semiconductor-investments/)
 **Published:** Wed, 15 Apr 2026 08:00:00 +0000
 
@@ -898,19 +890,17 @@ _Last updated: 2026-04-15 23:55 UTC_
 
 ---
 
-## [Three Misconceptions About the $402B Semiconductor Foundry Industry](https://www.eetimes.com/three-misconceptions-about-the-402b-semiconductor-foundry-industry/)
-**Published:** Mon, 13 Apr 2026 07:30:00 +0000
+## [Tuning Superconductivity Through the Material’s Environment](https://www.electronicsforu.com/news/tuning-superconductivity-through-the-materials-environment)
+**Published:** Thu, 16 Apr 2026 08:36:11 +0000
 
-<p>Unpack the $402B semiconductor foundry industry myths—discover who really dominates and why global alliances drive the chips in your life. </p>
-<p>The post <a href="https://www.eetimes.com/three-misconceptions-about-the-402b-semiconductor-foundry-industry/">Three Misconceptions About the $402B Semiconductor Foundry Industry</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Jeanie-Nature-Physics-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A small environmental tweak can disrupt conventional behaviour, hinting that superconductivity may depend less on materials themselves and more on their surroundings. The Ohio State University researchers have reported a new approach to controlling superconductivity by tuning the surrounding environment of a material, offering fresh insight into one of physics’ most complex phenomena. Published in [&#8230;]
 
 ---
 
-## [5 kW GaN 3-Phase Inverters for robotics and light EVs from EPC](https://www.electronicsweekly.com/news/business/releases-5-kw-gan-3-phase-inverters-for-robotics-and-light-evs-from-epc-2026-04/)
-**Published:** Wed, 15 Apr 2026 05:23:17 +0000
+## [Violet Laser Targets Semiconductor Packaging Needs](https://www.electronicsforu.com/news/violet-laser-targets-semiconductor-packaging-needs)
+**Published:** Thu, 16 Apr 2026 08:27:18 +0000
 
-<p>Efficient Power Conversion (EPC), the eGaN power device specialist, has introduced the EPC9186HC2 and EPC9186HC3 evaluation boards, two high-performance 3-phase BLDC motor drive inverter platforms designed for applications including robotics, ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/releases-5-kw-gan-3-phase-inverters-for-robotics-and-light-evs-from-epc-2026-04/">5 kW GaN 3-Phase Inverters for robotics and light EVs from EPC</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/AppImage_violetlaser_2604-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A small change in wavelength and power could influence how future semiconductor layers are formed, reducing constraints tied to legacy photolithography systems.  Nuvoton Technology has introduced a high-power violet laser diode designed to support maskless lithography in advanced semiconductor packaging. Operating at a wavelength of 402 nm and delivering an optical output of 4.5 W, [&#8230;]
 
 ---
 
