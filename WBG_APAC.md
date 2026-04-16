@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-16 21:02 UTC_
+_Last updated: 2026-04-16 23:53 UTC_
 
 ## [Teradyne Acquires TestInsight](https://www.semiconductor-digest.com/teradyne-acquires-testinsight/?utm_source=rss&utm_medium=rss&utm_campaign=teradyne-acquires-testinsight)
 **Published:** Thu, 16 Apr 2026 18:40:40 +0000
