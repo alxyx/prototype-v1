@@ -1,6 +1,38 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-16 15:38 UTC_
+_Last updated: 2026-04-16 21:02 UTC_
+
+## [Teradyne Acquires TestInsight](https://www.semiconductor-digest.com/teradyne-acquires-testinsight/?utm_source=rss&utm_medium=rss&utm_campaign=teradyne-acquires-testinsight)
+**Published:** Thu, 16 Apr 2026 18:40:40 +0000
+
+<p>Acquisition expands Teradyne’s leadership in design to test software.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/teradyne-acquires-testinsight/">Teradyne Acquires TestInsight</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Ultra-Sensitive Multi-Band Infrared Polarization Photodetector Based on 1T’-MoTe2/2H-MoTe2 van der Waals Heterostructure](https://www.semiconductor-digest.com/ultra-sensitive-multi-band-infrared-polarization-photodetector-based-on-1t-mote2-2h-mote2-van-der-waals-heterostructure/?utm_source=rss&utm_medium=rss&utm_campaign=ultra-sensitive-multi-band-infrared-polarization-photodetector-based-on-1t-mote2-2h-mote2-van-der-waals-heterostructure)
+**Published:** Thu, 16 Apr 2026 18:36:13 +0000
+
+<p>This research presents a high-performance near-infrared polarized photodetector based on a 1T'-MoTe2/2H-MoTe2 homologous polymorphic van der Waals heterojunction. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/ultra-sensitive-multi-band-infrared-polarization-photodetector-based-on-1t-mote2-2h-mote2-van-der-waals-heterostructure/">Ultra-Sensitive Multi-Band Infrared Polarization Photodetector Based on 1T&#8217;-MoTe2/2H-MoTe2 van der Waals Heterostructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Achieving Wafer-Scale Growth of 2D Magnetic Materials](https://www.semiconductor-digest.com/achieving-wafer-scale-growth-of-2d-magnetic-materials/?utm_source=rss&utm_medium=rss&utm_campaign=achieving-wafer-scale-growth-of-2d-magnetic-materials)
+**Published:** Thu, 16 Apr 2026 18:31:41 +0000
+
+<p>In a major advance, researchers at the Indian Institute of Science (IISc) have devised a method to grow high-quality 2D magnetic materials (2D-MMs) over centimetre-scale wafers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/achieving-wafer-scale-growth-of-2d-magnetic-materials/">Achieving Wafer-Scale Growth of 2D Magnetic Materials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Wooptix Breaks Ground on New Semiconductor Cleanroom Facility in Spain](https://www.semiconductor-digest.com/wooptix-breaks-ground-on-new-semiconductor-cleanroom-facility-in-spain/?utm_source=rss&utm_medium=rss&utm_campaign=wooptix-breaks-ground-on-new-semiconductor-cleanroom-facility-in-spain)
+**Published:** Thu, 16 Apr 2026 18:27:28 +0000
+
+<p>Strategic investment marks significant milestone for the company’s growth and reinforces importance of the expanding semiconductor industry in Spain.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/wooptix-breaks-ground-on-new-semiconductor-cleanroom-facility-in-spain/">Wooptix Breaks Ground on New Semiconductor Cleanroom Facility in Spain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
 
 ## [West-MEC Celebrated Opening of Nation’s First K-12 CTE Semiconductor Cleanroom](https://www.semiconductor-digest.com/west-mec-celebrated-opening-of-nations-first-k-12-cte-semiconductor-cleanroom/?utm_source=rss&utm_medium=rss&utm_campaign=west-mec-celebrated-opening-of-nations-first-k-12-cte-semiconductor-cleanroom)
 **Published:** Wed, 15 Apr 2026 20:26:25 +0000
@@ -770,35 +802,11 @@ _Last updated: 2026-04-16 15:38 UTC_
 
 ---
 
-## [Manz Asia and Epson Form Strategic Partnership to Advance Inkjet Technology for Semiconductor Manufacturing](https://www.semiconductor-digest.com/manz-asia-and-epson-form-strategic-partnership-to-advance-inkjet-technology-for-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=manz-asia-and-epson-form-strategic-partnership-to-advance-inkjet-technology-for-semiconductor-manufacturing)
-**Published:** Tue, 17 Mar 2026 00:09:32 +0000
+## [TDK Introduces High-Efficiency 1500 W AC-DC Modules](https://www.powerelectronicsnews.com/tdk-introduces-high-efficiency-1500-w-ac-dc-modules/)
+**Published:** Thu, 16 Apr 2026 17:00:00 +0000
 
-<p> Semiconductor advanced packaging equipment manufacturer Manz Asia today announced a strategic partnership with Seiko Epson Corporation (Epson) aimed at accelerating the adoption of advanced inkjet technology in semiconductor manufacturing. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/manz-asia-and-epson-form-strategic-partnership-to-advance-inkjet-technology-for-semiconductor-manufacturing/">Manz Asia and Epson Form Strategic Partnership to Advance Inkjet Technology for Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Kinaxis Advances Large-Scale Supply Chain Optimization with NVIDIA AI](https://www.semiconductor-digest.com/kinaxis-advances-large-scale-supply-chain-optimization-with-nvidia-ai/?utm_source=rss&utm_medium=rss&utm_campaign=kinaxis-advances-large-scale-supply-chain-optimization-with-nvidia-ai)
-**Published:** Mon, 16 Mar 2026 23:57:21 +0000
-
-<p>Kinaxis Inc. today announced a new milestone in advancing large-scale supply chain optimization within the Kinaxis Maestro platform.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kinaxis-advances-large-scale-supply-chain-optimization-with-nvidia-ai/">Kinaxis Advances Large-Scale Supply Chain Optimization with NVIDIA AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Cadence and NVIDIA Unveil Accelerated Engineering Solutions Purpose-Built for Agentic AI Chip and System Design​](https://www.semiconductor-digest.com/cadence-and-nvidia-unveil-accelerated-engineering-solutions-purpose-built-for-agentic-ai-chip-and-system-design/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-and-nvidia-unveil-accelerated-engineering-solutions-purpose-built-for-agentic-ai-chip-and-system-design)
-**Published:** Mon, 16 Mar 2026 23:54:00 +0000
-
-<p>New agentic integrated circuit (IC) and physical AI accelerated solutions enable engineers to solve previously impossible chip, system and AI factory challenges.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cadence-and-nvidia-unveil-accelerated-engineering-solutions-purpose-built-for-agentic-ai-chip-and-system-design/">Cadence and NVIDIA Unveil Accelerated Engineering Solutions Purpose-Built for Agentic AI Chip and System Design​</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Vibrating Atomic Tip Sculpts 3D Memory Channels Into Fragile Semiconductors](https://www.semiconductor-digest.com/vibrating-atomic-tip-sculpts-3d-memory-channels-into-fragile-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=vibrating-atomic-tip-sculpts-3d-memory-channels-into-fragile-semiconductors)
-**Published:** Mon, 16 Mar 2026 23:49:16 +0000
-
-<p>Publishing in International Journal of Extreme Manufacturing, Prof. Yanquan Geng's team at Harbin Institute of Technology has devised a way to carve variable-depth, three-dimensional trenches into gallium antimonide, a notably brittle semiconductor, using a microscopic tip vibrating thousands of times per second.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/vibrating-atomic-tip-sculpts-3d-memory-channels-into-fragile-semiconductors/">Vibrating Atomic Tip Sculpts 3D Memory Channels Into Fragile Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="TDK Expands Power Portfolio with 1500 W Wide-Input AC-DC Solutions." class="webfeedsFeaturedVisual wp-post-image" height="1600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/PFH1500FB-48Press-pictureWhite-background2026.jpg?fit=2400%2C1600" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>New AC-DC modules support wide input voltage, high efficiency, and advanced monitoring for industrial and high-power applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tdk-introduces-high-efficiency-1500-w-ac-dc-modules/">TDK Introduces High-Efficiency 1500 W AC-DC Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -871,14 +879,6 @@ _Last updated: 2026-04-16 15:38 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4523" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_283383707.jpeg?fit=7000%2C4523" style="display: block; margin-bottom: 5px; clear: both;" width="7000" /><p>Industry investment, OCP standardization efforts, and APEC discussions point to SSTs as a medium-term data center reality.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/solid-state-transformers-path-from-concept-to-common/">Solid-state transformers&#8217; path from concept to common</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TDK Launches Ultra-Small Filters for Audio Noise Suppression](https://www.powerelectronicsnews.com/tdk-launches-ultra-small-filters-for-audio-noise-suppression/)
-**Published:** Tue, 14 Apr 2026 13:00:00 +0000
-
-<img alt="TDK Launches Ultra-Small Filters for Audio Noise Suppression." class="webfeedsFeaturedVisual wp-post-image" height="1153" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/press_2026040701_photo_w.png?fit=2000%2C1153" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>Ultra-small filters suppress high-frequency noise while preserving audio quality in smartphones and wearables supporting 5G and Wi-Fi.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tdk-launches-ultra-small-filters-for-audio-noise-suppression/">TDK Launches Ultra-Small Filters for Audio Noise Suppression</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
