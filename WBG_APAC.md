@@ -1,12 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-17 15:08 UTC_
+_Last updated: 2026-04-17 21:54 UTC_
 
 ## [Teradyne Acquires TestInsight](https://www.eetasia.com/teradyne-acquires-testinsight/)
 **Published:** Fri, 17 Apr 2026 08:25:41 +0000
 
 <p>Teradyne Inc. is strengthening its ability to support customer design-in activities and accelerate time to market for the emerging AI and data center markets by acquiring TestInsight, a leading provider of semiconductor test development, validation, and conversion software widely used across the industry. TestInsight&#8217;s advanced tools and expert team will be pivotal in accelerating the [&#8230;]</p>
 <p>The post <a href="https://www.eetasia.com/teradyne-acquires-testinsight/">Teradyne Acquires TestInsight</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Tageos Launches World’s First FlexIC-based RFID Product Lines Powered by Pragmatic Semiconductor Technology](https://www.semiconductor-digest.com/tageos-launches-worlds-first-flexic-based-rfid-product-lines-powered-by-pragmatic-semiconductor-technology/?utm_source=rss&utm_medium=rss&utm_campaign=tageos-launches-worlds-first-flexic-based-rfid-product-lines-powered-by-pragmatic-semiconductor-technology)
+**Published:** Fri, 17 Apr 2026 21:38:15 +0000
+
+<p>Tageos and Pragmatic Semiconductor today announced the expansion of their long-term strategic partnership with the launch of Tageos' latest product portfolio based on Pragmatic's flexible and sustainable NFC Connect product line.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tageos-launches-worlds-first-flexic-based-rfid-product-lines-powered-by-pragmatic-semiconductor-technology/">Tageos Launches World&#8217;s First FlexIC-based RFID Product Lines Powered by Pragmatic Semiconductor Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -802,11 +810,11 @@ _Last updated: 2026-04-17 15:08 UTC_
 
 ---
 
-## [Sivers Semiconductors, O-Net and Enablence Technologies Announce Collaboration on Co-Packaged Optics](https://www.semiconductor-digest.com/sivers-semiconductors-o-net-and-enablence-technologies-announce-collaboration-on-co-packaged-optics/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-o-net-and-enablence-technologies-announce-collaboration-on-co-packaged-optics)
-**Published:** Tue, 17 Mar 2026 17:51:54 +0000
+## [SiC Gen3 Technology, Cooling Solutions for Data Centers, Solid-State Transformers: Power Electronics Week Insights](https://www.powerelectronicsnews.com/sic-gen3-technology-cooling-solutions-for-data-centers-solid-state-transformers-power-electronics-week-insights/)
+**Published:** Fri, 17 Apr 2026 16:52:25 +0000
 
-<p>All three companies will be showcasing their optics solutions and discussing the collaboration at the upcoming OFC Show in Los Angeles from March 17 to March 20.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sivers-semiconductors-o-net-and-enablence-technologies-announce-collaboration-on-co-packaged-optics/">Sivers Semiconductors, O-Net and Enablence Technologies Announce Collaboration on Co-Packaged Optics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on SiC Gen3 Technology, Cooling Solutions for Data Centers, and Solid-State Transformers!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/sic-gen3-technology-cooling-solutions-for-data-centers-solid-state-transformers-power-electronics-week-insights/">SiC Gen3 Technology, Cooling Solutions for Data Centers, Solid-State Transformers: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,27 +890,11 @@ _Last updated: 2026-04-17 15:08 UTC_
 
 ---
 
-## [SemiQ SiC Gen3 technology empowers AI data center cooling](https://www.powerelectronicsnews.com/semiq-sic-gen3-technology-empowers-ai-data-center-cooling/)
-**Published:** Wed, 15 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="339" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image_afe54d.png?fit=800%2C339" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>SemiQ's QSiC Dual3 modules apply 1,200 V SiC technology to chillers, pumps, and drives in AI data centers.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/semiq-sic-gen3-technology-empowers-ai-data-center-cooling/">SemiQ SiC Gen3 technology empowers AI data center cooling</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [From Vision-Language Models to Physical AI: Embedded Intelligence Enters a New Phase](https://www.eetimes.com/from-vision-language-models-to-physical-ai-embedded-intelligence-enters-a-new-phase/)
 **Published:** Fri, 17 Apr 2026 08:25:44 +0000
 
 <p>Embedded AI advances toward practical, multimodal systems, bringing vision-language models into real-world, resource-constrained deployments.</p>
 <p>The post <a href="https://www.eetimes.com/from-vision-language-models-to-physical-ai-embedded-intelligence-enters-a-new-phase/">From Vision-Language Models to Physical AI: Embedded Intelligence Enters a New Phase</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [How Europe Actually Finances Semiconductor Investments](https://www.eetimes.com/how-europe-actually-finances-semiconductor-investments/)
-**Published:** Wed, 15 Apr 2026 08:00:00 +0000
-
-<p>As Europe’s semiconductor ambitions shift from policy announcements to real industrial projects, a less visible question is coming into focus: How do those projects actually get financed?</p>
-<p>The post <a href="https://www.eetimes.com/how-europe-actually-finances-semiconductor-investments/">How Europe Actually Finances Semiconductor Investments</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
