@@ -1,12 +1,44 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-17 21:54 UTC_
+_Last updated: 2026-04-17 22:52 UTC_
 
 ## [Teradyne Acquires TestInsight](https://www.eetasia.com/teradyne-acquires-testinsight/)
 **Published:** Fri, 17 Apr 2026 08:25:41 +0000
 
 <p>Teradyne Inc. is strengthening its ability to support customer design-in activities and accelerate time to market for the emerging AI and data center markets by acquiring TestInsight, a leading provider of semiconductor test development, validation, and conversion software widely used across the industry. TestInsight&#8217;s advanced tools and expert team will be pivotal in accelerating the [&#8230;]</p>
 <p>The post <a href="https://www.eetasia.com/teradyne-acquires-testinsight/">Teradyne Acquires TestInsight</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMIquest Pop-Up Exhibition at Arizona Science Center Extended Through May 31](https://www.semiconductor-digest.com/semiquest-pop-up-exhibition-at-arizona-science-center-extended-through-may-31/?utm_source=rss&utm_medium=rss&utm_campaign=semiquest-pop-up-exhibition-at-arizona-science-center-extended-through-may-31)
+**Published:** Fri, 17 Apr 2026 22:15:40 +0000
+
+<p>The SEMI Foundation today announced the extension of SEMIquest, its immersive, hands-on STEM experience at Arizona Science Center through May 31, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiquest-pop-up-exhibition-at-arizona-science-center-extended-through-may-31/">SEMIquest Pop-Up Exhibition at Arizona Science Center Extended Through May 31</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [When Light Gets Trapped at Nanoscale: New Ways to Power the Future of Optoelectronics](https://www.semiconductor-digest.com/when-light-gets-trapped-at-nanoscale-new-ways-to-power-the-future-of-optoelectronics/?utm_source=rss&utm_medium=rss&utm_campaign=when-light-gets-trapped-at-nanoscale-new-ways-to-power-the-future-of-optoelectronics)
+**Published:** Fri, 17 Apr 2026 22:03:05 +0000
+
+<p>From bound states in the continuum to machine-learning design, photonic metasurfaces are opening scalable routes to efficient light control.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/when-light-gets-trapped-at-nanoscale-new-ways-to-power-the-future-of-optoelectronics/">When Light Gets Trapped at Nanoscale: New Ways to Power the Future of Optoelectronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Flexible Sensor Gains Sensitivity Under Pressure](https://www.semiconductor-digest.com/flexible-sensor-gains-sensitivity-under-pressure/?utm_source=rss&utm_medium=rss&utm_campaign=flexible-sensor-gains-sensitivity-under-pressure)
+**Published:** Fri, 17 Apr 2026 22:00:01 +0000
+
+<p>Pressure sensors are expected to stay accurate across everything from gentle touch to strong, shifting loads. Yet many flexible designs are most sensitive only at low pressure, losing resolution as the force rises. Now, researchers have developed a tunable flexible capacitive pressure sensor that does the opposite: it becomes more sensitive as pressure increases.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/flexible-sensor-gains-sensitivity-under-pressure/">Flexible Sensor Gains Sensitivity Under Pressure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [VFabTech Launches to Help Solve the Semiconductor Capacity Bottleneck Behind the Next Wave of AI and Advanced Manufacturing](https://www.semiconductor-digest.com/vfabtech-launches-to-help-solve-the-semiconductor-capacity-bottleneck-behind-the-next-wave-of-ai-and-advanced-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=vfabtech-launches-to-help-solve-the-semiconductor-capacity-bottleneck-behind-the-next-wave-of-ai-and-advanced-manufacturing)
+**Published:** Fri, 17 Apr 2026 21:49:11 +0000
+
+<p>VFabTech supports semiconductor capacity expansion with practical, start-to-finish engineering expertise.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/vfabtech-launches-to-help-solve-the-semiconductor-capacity-bottleneck-behind-the-next-wave-of-ai-and-advanced-manufacturing/">VFabTech Launches to Help Solve the Semiconductor Capacity Bottleneck Behind the Next Wave of AI and Advanced Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -775,38 +807,6 @@ _Last updated: 2026-04-17 21:54 UTC_
 
 <p>By tightly connecting structural, optical, and electronic insights, the combined Raman–PL–TRPL workflow delivers actionable feedback to refine growth conditions, reduce defect densities and raise carrier lifetimes.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/optical-characterization-of-defects-in-3c-n-type-silicon-carbide-using-pl-trpl-and-raman-spectroscopy/">Optical Characterization of Defects in 3C-N Type Silicon Carbide Using PL, TRPL and Raman Spectroscopy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Samsung and AMD Expand Strategic Collaboration on Next-Generation AI Memory Solutions](https://www.semiconductor-digest.com/samsung-and-amd-expand-strategic-collaboration-on-next-generation-ai-memory-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-and-amd-expand-strategic-collaboration-on-next-generation-ai-memory-solutions)
-**Published:** Wed, 18 Mar 2026 20:22:41 +0000
-
-<p>Samsung Electronics Co., Ltd. today announced it has signed a Memorandum of Understanding (MOU) with AMD to expand their strategic collaboration on next-generation AI memory and computing technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/samsung-and-amd-expand-strategic-collaboration-on-next-generation-ai-memory-solutions/">Samsung and AMD Expand Strategic Collaboration on Next-Generation AI Memory Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CEA‑Leti to Showcase Integrated Expertise  In Microelectronics Reliability at IRPS 2026](https://www.semiconductor-digest.com/cea-leti-to-showcase-integrated-expertise-in-microelectronics-reliability-at-irps-2026/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-to-showcase-integrated-expertise-in-microelectronics-reliability-at-irps-2026)
-**Published:** Wed, 18 Mar 2026 20:20:00 +0000
-
-<p>At IRPS 2026, the premier forum for new and original research in microelectronics reliability, CEA‑Leti will present seven papers that reflect a broad and integrated expertise across device physics, process integration, RF technologies, FD‑SOI, GaN, BEOL reliability, and low‑temperature platforms enabling 3D sequential integration.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-to-showcase-integrated-expertise-in-microelectronics-reliability-at-irps-2026/">CEA‑Leti to Showcase Integrated Expertise  In Microelectronics Reliability at IRPS 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Semiconductor Market Surpasses $830B in 2025](https://www.semiconductor-digest.com/semiconductor-market-surpasses-830b-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-market-surpasses-830b-in-2025)
-**Published:** Wed, 18 Mar 2026 20:15:04 +0000
-
-<p>New research from Omdia reveals that the semiconductor market surpassed $830 billion in 2025, marking the second consecutive year of more than 20% annual revenue growth.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-market-surpasses-830b-in-2025/">Semiconductor Market Surpasses $830B in 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2](https://www.semiconductor-digest.com/omdia-panel-makers-raise-q1-fab-utilization-rate-to-82-outlook-softens-from-mid-q2/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-panel-makers-raise-q1-fab-utilization-rate-to-82-outlook-softens-from-mid-q2)
-**Published:** Wed, 18 Mar 2026 19:14:25 +0000
-
-<p>Display panel makers are increasing fab utilization in Q1 2026 for the second consecutive month, with rates expected to exceed the previous quarter.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-panel-makers-raise-q1-fab-utilization-rate-to-82-outlook-softens-from-mid-q2/">Omdia: Panel Makers Raise Q1 Fab Utilization Rate to 82%, Outlook Softens From Mid-Q2</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
