@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-16 23:53 UTC_
+_Last updated: 2026-04-17 15:08 UTC_
+
+## [Teradyne Acquires TestInsight](https://www.eetasia.com/teradyne-acquires-testinsight/)
+**Published:** Fri, 17 Apr 2026 08:25:41 +0000
+
+<p>Teradyne Inc. is strengthening its ability to support customer design-in activities and accelerate time to market for the emerging AI and data center markets by acquiring TestInsight, a leading provider of semiconductor test development, validation, and conversion software widely used across the industry. TestInsight&#8217;s advanced tools and expert team will be pivotal in accelerating the [&#8230;]</p>
+<p>The post <a href="https://www.eetasia.com/teradyne-acquires-testinsight/">Teradyne Acquires TestInsight</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Teradyne Acquires TestInsight](https://www.semiconductor-digest.com/teradyne-acquires-testinsight/?utm_source=rss&utm_medium=rss&utm_campaign=teradyne-acquires-testinsight)
 **Published:** Thu, 16 Apr 2026 18:40:40 +0000
@@ -802,6 +810,22 @@ _Last updated: 2026-04-16 23:53 UTC_
 
 ---
 
+## [What Rising Rack Densities Mean for Power Connectors](https://www.powerelectronicsnews.com/what-rising-rack-densities-mean-for-power-connectors/)
+**Published:** Fri, 17 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_192261203.jpeg?fit=5500%2C3000" style="display: block; margin-bottom: 5px; clear: both;" width="5500" /><p>Rising rack power densities are pushing data centers toward liquid cooling and demanding new connector materials.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/what-rising-rack-densities-mean-for-power-connectors/">What Rising Rack Densities Mean for Power Connectors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [PCIM Expo 2026 Highlights SiC, GaN and Data Center Power Trends](https://www.powerelectronicsnews.com/pcim-expo-2026-highlights-sic-gan-and-data-center-power-trends/)
+**Published:** Fri, 17 Apr 2026 13:00:00 +0000
+
+<img alt="PCIM Expo 2026 Highlights SiC, GaN and Data Center Power Trends." class="webfeedsFeaturedVisual wp-post-image" height="1900" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/PCIM_Expo_2026.jpg?fit=2850%2C1900" style="display: block; margin-bottom: 5px; clear: both;" width="2850" /><p>Event highlights device, system, and application advances, with focus on AI-driven power architectures and emerging technologies.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/pcim-expo-2026-highlights-sic-gan-and-data-center-power-trends/">PCIM Expo 2026 Highlights SiC, GaN and Data Center Power Trends</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [TDK Introduces High-Efficiency 1500 W AC-DC Modules](https://www.powerelectronicsnews.com/tdk-introduces-high-efficiency-1500-w-ac-dc-modules/)
 **Published:** Thu, 16 Apr 2026 17:00:00 +0000
 
@@ -866,19 +890,11 @@ _Last updated: 2026-04-16 23:53 UTC_
 
 ---
 
-## [Sigenergy Debuts High-Power PV Inverter Platform](https://www.powerelectronicsnews.com/sigenergy-debuts-high-power-pv-inverter-platform/)
-**Published:** Tue, 14 Apr 2026 16:00:00 +0000
+## [From Vision-Language Models to Physical AI: Embedded Intelligence Enters a New Phase](https://www.eetimes.com/from-vision-language-models-to-physical-ai-embedded-intelligence-enters-a-new-phase/)
+**Published:** Fri, 17 Apr 2026 08:25:44 +0000
 
-<img alt="Sigenergy Debuts High-Power PV Inverter Platform." class="webfeedsFeaturedVisual wp-post-image" height="613" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Sigenergy.jpg?fit=1263%2C613" style="display: block; margin-bottom: 5px; clear: both;" width="1263" /><p>The new 506 kW inverter improves efficiency, reduces system costs, and enhances control in utility-scale solar power applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/sigenergy-debuts-high-power-pv-inverter-platform/">Sigenergy Debuts High-Power PV Inverter Platform</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Solid-state transformers’ path from concept to common](https://www.powerelectronicsnews.com/solid-state-transformers-path-from-concept-to-common/)
-**Published:** Tue, 14 Apr 2026 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4523" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_283383707.jpeg?fit=7000%2C4523" style="display: block; margin-bottom: 5px; clear: both;" width="7000" /><p>Industry investment, OCP standardization efforts, and APEC discussions point to SSTs as a medium-term data center reality.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/solid-state-transformers-path-from-concept-to-common/">Solid-state transformers&#8217; path from concept to common</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Embedded AI advances toward practical, multimodal systems, bringing vision-language models into real-world, resource-constrained deployments.</p>
+<p>The post <a href="https://www.eetimes.com/from-vision-language-models-to-physical-ai-embedded-intelligence-enters-a-new-phase/">From Vision-Language Models to Physical AI: Embedded Intelligence Enters a New Phase</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -890,17 +906,11 @@ _Last updated: 2026-04-16 23:53 UTC_
 
 ---
 
-## [Tuning Superconductivity Through the Material’s Environment](https://www.electronicsforu.com/news/tuning-superconductivity-through-the-materials-environment)
-**Published:** Thu, 16 Apr 2026 08:36:11 +0000
+## [Teradyne buys TestInsight](https://www.electronicsweekly.com/news/business/teradyne-buys-2026-04/)
+**Published:** Fri, 17 Apr 2026 05:23:25 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Jeanie-Nature-Physics-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A small environmental tweak can disrupt conventional behaviour, hinting that superconductivity may depend less on materials themselves and more on their surroundings. The Ohio State University researchers have reported a new approach to controlling superconductivity by tuning the surrounding environment of a material, offering fresh insight into one of physics’ most complex phenomena. Published in [&#8230;]
-
----
-
-## [Violet Laser Targets Semiconductor Packaging Needs](https://www.electronicsforu.com/news/violet-laser-targets-semiconductor-packaging-needs)
-**Published:** Thu, 16 Apr 2026 08:27:18 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/AppImage_violetlaser_2604-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A small change in wavelength and power could influence how future semiconductor layers are formed, reducing constraints tied to legacy photolithography systems.  Nuvoton Technology has introduced a high-power violet laser diode designed to support maskless lithography in advanced semiconductor packaging. Operating at a wavelength of 402 nm and delivering an optical output of 4.5 W, [&#8230;]
+<p>Teradyne has bought TestInsight, a provider of semiconductor test development, validation, and conversion software. TestInsight&#8217;s tools and  team will accelerate the development of test solutions on ‘s platforms, enabling faster ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/teradyne-buys-2026-04/">Teradyne buys TestInsight</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
