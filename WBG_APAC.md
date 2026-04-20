@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-20 15:04 UTC_
+_Last updated: 2026-04-20 21:01 UTC_
 
 ## [Teradyne Acquires TestInsight](https://www.eetasia.com/teradyne-acquires-testinsight/)
 **Published:** Fri, 17 Apr 2026 08:25:41 +0000
@@ -891,7 +891,7 @@ _Last updated: 2026-04-20 15:04 UTC_
 ---
 
 ## [EDA AI Agents: Intelligent Automation in Semiconductor & PCB Design](https://www.eetimes.com/eda-ai-agents-intelligent-automation-in-semiconductor-pcb-design/)
-**Published:** Mon, 20 Apr 2026 13:00:00 +0000
+**Published:** Mon, 20 Apr 2026 14:00:00 +0000
 
 <p>From copilots to autonomous agents: discover how EDA AI is transforming semiconductor and PCB design workflows with Siemens’ Fuse EDA AI Agent</p>
 <p>The post <a href="https://www.eetimes.com/eda-ai-agents-intelligent-automation-in-semiconductor-pcb-design/">EDA AI Agents: Intelligent Automation in Semiconductor &amp; PCB Design</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
@@ -903,38 +903,6 @@ _Last updated: 2026-04-20 15:04 UTC_
 
 <p>Embedded AI advances toward practical, multimodal systems, bringing vision-language models into real-world, resource-constrained deployments.</p>
 <p>The post <a href="https://www.eetimes.com/from-vision-language-models-to-physical-ai-embedded-intelligence-enters-a-new-phase/">From Vision-Language Models to Physical AI: Embedded Intelligence Enters a New Phase</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Consumer Semiconductor – Microprocessor & Digital Support ICS](https://www.electronicsweekly.com/news/elektra-awards-news/consumer-semiconductor-microprocessor-digital-support-ics-2026-01/)
-**Published:** Wed, 21 Jan 2026 08:00:52 +0000
-
-<p>Winner &#8211; Innatera The Netherlands-based team of engineers won praise from the judges for its neuromorphic microprocessors, which can add intelligence to sensors in intelligent networks. They also praised the ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/elektra-awards-news/consumer-semiconductor-microprocessor-digital-support-ics-2026-01/">Consumer Semiconductor – Microprocessor &#038; Digital Support ICS</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Consumer Semicondutor – Energy Efficiency](https://www.electronicsweekly.com/news/elektra-awards-news/consumer-semicondutor-energy-efficiency-2026-01/)
-**Published:** Wed, 21 Jan 2026 08:00:41 +0000
-
-<p>Winner &#8211; Nanopower Semiconductor Judges congratulated the company on the clear customer benefits (that is, smaller form factors, multi-year operation, energy harvesting feasibility) and expanded potential applications in wearables, health ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/elektra-awards-news/consumer-semicondutor-energy-efficiency-2026-01/">Consumer Semicondutor – Energy Efficiency</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Best Electronics Workplace Award](https://www.electronicsweekly.com/news/elektra-awards-news/best-electronics-workplace-award-2026-01/)
-**Published:** Wed, 21 Jan 2026 08:00:38 +0000
-
-<p>Winner &#8211; Cambridge GaN Devices The judges praised this entry for documenting specific initiatives addressing employee welfare that go way beyond what one might normally expect. One judge said this ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/elektra-awards-news/best-electronics-workplace-award-2026-01/">Best Electronics Workplace Award</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Automotive/Hi-rel Semiconductor Product of the Year](https://www.electronicsweekly.com/news/elektra-awards-news/automotive-hi-rel-semiconductor-product-of-the-year-2026-01/)
-**Published:** Wed, 21 Jan 2026 08:00:33 +0000
-
-<p>Winner &#8211; Spacechips The judges praised as “a very innovative solution” this scalable, reconfigurable, smart, onboard processor, which allows space debris retrieval and in-orbit servicing operators to perform autonomous, image ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/elektra-awards-news/automotive-hi-rel-semiconductor-product-of-the-year-2026-01/">Automotive/Hi-rel Semiconductor Product of the Year</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
