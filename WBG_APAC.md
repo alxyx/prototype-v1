@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-19 22:49 UTC_
+_Last updated: 2026-04-20 11:01 UTC_
 
 ## [Teradyne Acquires TestInsight](https://www.eetasia.com/teradyne-acquires-testinsight/)
 **Published:** Fri, 17 Apr 2026 08:25:41 +0000
@@ -898,11 +898,10 @@ _Last updated: 2026-04-19 22:49 UTC_
 
 ---
 
-## [Teradyne buys TestInsight](https://www.electronicsweekly.com/news/business/teradyne-buys-2026-04/)
-**Published:** Fri, 17 Apr 2026 05:23:25 +0000
+## [India Moves Up the Chip Stack With 3D Packaging Push](https://www.electronicsforu.com/news/india-moves-up-the-chip-stack-with-3d-packaging-push)
+**Published:** Mon, 20 Apr 2026 08:17:27 +0000
 
-<p>Teradyne has bought TestInsight, a provider of semiconductor test development, validation, and conversion software. TestInsight&#8217;s tools and  team will accelerate the development of test solutions on ‘s platforms, enabling faster ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/teradyne-buys-2026-04/">Teradyne buys TestInsight</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/pib-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Moving past fabrication focus, India explores advanced packaging where stacking, integration, and materials innovation begin to shape next generation electronic systems  India’s semiconductor ecosystem is taking a step beyond conventional assembly with the introduction of advanced 3D chip packaging capabilities at Info Valley, Bhubaneswar. The new facility, led by 3D Glass Solutions, brings heterogeneous integration [&#8230;]
 
 ---
 
