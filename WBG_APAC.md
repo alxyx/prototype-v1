@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-20 11:01 UTC_
+_Last updated: 2026-04-20 15:04 UTC_
 
 ## [Teradyne Acquires TestInsight](https://www.eetasia.com/teradyne-acquires-testinsight/)
 **Published:** Fri, 17 Apr 2026 08:25:41 +0000
 
 <p>Teradyne Inc. is strengthening its ability to support customer design-in activities and accelerate time to market for the emerging AI and data center markets by acquiring TestInsight, a leading provider of semiconductor test development, validation, and conversion software widely used across the industry. TestInsight&#8217;s advanced tools and expert team will be pivotal in accelerating the [&#8230;]</p>
 <p>The post <a href="https://www.eetasia.com/teradyne-acquires-testinsight/">Teradyne Acquires TestInsight</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Semiconductor Test Vision Using Data](https://www.semiconductor-digest.com/semiconductor-test-vision-using-data/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-test-vision-using-data)
+**Published:** Mon, 20 Apr 2026 14:48:41 +0000
+
+<p>Dynamic KPI Intelligence is a data-driven structure that utilizes federated data pipes, machine learning models, and role-based insights to support predictive, adaptive testing. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-test-vision-using-data/">Semiconductor Test Vision Using Data</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Operations Engineering: Hidden Yield Lever in Advanced Semiconductor Packaging](https://www.semiconductor-digest.com/operations-engineering-hidden-yield-lever-in-advanced-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=operations-engineering-hidden-yield-lever-in-advanced-semiconductor-packaging)
+**Published:** Mon, 20 Apr 2026 14:39:41 +0000
+
+<p>By supporting iterative learnings early and structured execution, organizations create a smoother path from engineering validation to repeatable production.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/operations-engineering-hidden-yield-lever-in-advanced-semiconductor-packaging/">Operations Engineering: Hidden Yield Lever in Advanced Semiconductor Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,19 +810,27 @@ _Last updated: 2026-04-20 11:01 UTC_
 
 ---
 
-## [Microelectronics US 2026, April 22-23 in Austin](https://www.semiconductor-digest.com/microelectronics-us-2026-april-22-23-in-austin/?utm_source=rss&utm_medium=rss&utm_campaign=microelectronics-us-2026-april-22-23-in-austin)
-**Published:** Fri, 20 Mar 2026 13:39:16 +0000
+## [GaN breaks the 250 W barrier in flyback power supplies](https://www.powerelectronicsnews.com/gan-breaks-the-250-w-barrier-in-flyback-power-supplies/)
+**Published:** Mon, 20 Apr 2026 14:40:08 +0000
 
-<p>Microelectronics US 2026 showcases practical solutions to the engineering challenges shaping next-generation systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/microelectronics-us-2026-april-22-23-in-austin/">Microelectronics US 2026, April 22-23 in Austin</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1075" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image_fd7655.jpeg?fit=2048%2C1075" style="display: block; margin-bottom: 5px; clear: both;" width="2048" /><p>Power Integrations brings GaN to its 3-billion-unit TOPSwitch family, extending flyback power limits to 440 W.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/gan-breaks-the-250-w-barrier-in-flyback-power-supplies/">GaN breaks the 250 W barrier in flyback power supplies</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Optical Characterization of Defects in 3C-N Type Silicon Carbide Using PL, TRPL and Raman Spectroscopy](https://www.semiconductor-digest.com/optical-characterization-of-defects-in-3c-n-type-silicon-carbide-using-pl-trpl-and-raman-spectroscopy/?utm_source=rss&utm_medium=rss&utm_campaign=optical-characterization-of-defects-in-3c-n-type-silicon-carbide-using-pl-trpl-and-raman-spectroscopy)
-**Published:** Fri, 20 Mar 2026 13:22:51 +0000
+## [TDK Expands EMI Filter Portfolio with 1250 V DC Chokes](https://www.powerelectronicsnews.com/tdk-expands-emi-filter-portfolio-with-1250-v-dc-chokes/)
+**Published:** Mon, 20 Apr 2026 14:00:00 +0000
 
-<p>By tightly connecting structural, optical, and electronic insights, the combined Raman–PL–TRPL workflow delivers actionable feedback to refine growth conditions, reduce defect densities and raise carrier lifetimes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/optical-characterization-of-defects-in-3c-n-type-silicon-carbide-using-pl-trpl-and-raman-spectroscopy/">Optical Characterization of Defects in 3C-N Type Silicon Carbide Using PL, TRPL and Raman Spectroscopy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="TDK Expands EMI Filter Portfolio with 1250 V DC Chokes." class="webfeedsFeaturedVisual wp-post-image" height="1600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/bild-press-download-en-data.jpg?fit=2400%2C1600" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new chokes support 1250 V DC designs with compact size, high insulation, and improved EMI suppression for modern power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tdk-expands-emi-filter-portfolio-with-1250-v-dc-chokes/">TDK Expands EMI Filter Portfolio with 1250 V DC Chokes</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Enphase Scales Commercial Solar with GaN Microinverters](https://www.powerelectronicsnews.com/enphase-scales-commercial-solar-with-gan-microinverters/)
+**Published:** Mon, 20 Apr 2026 13:23:22 +0000
+
+<img alt="Enphase Scales Commercial Solar with GaN Microinverters." class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/IQ9-3P-277_20-_20Front.png?fit=2160%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="2160" /><p>GaN-based microinverters enable efficient, scalable commercial solar systems with panel-level control and simplified grid integration.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/enphase-scales-commercial-solar-with-gan-microinverters/">Enphase Scales Commercial Solar with GaN Microinverters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -866,27 +890,11 @@ _Last updated: 2026-04-20 11:01 UTC_
 
 ---
 
-## [Join Us for the ESD Tech Forum Virtual Event in April](https://www.powerelectronicsnews.com/join-us-for-the-esd-tech-forum-virtual-event-in-april/)
-**Published:** Wed, 15 Apr 2026 13:50:18 +0000
+## [EDA AI Agents: Intelligent Automation in Semiconductor & PCB Design](https://www.eetimes.com/eda-ai-agents-intelligent-automation-in-semiconductor-pcb-design/)
+**Published:** Mon, 20 Apr 2026 13:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="812" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/ESD-tech-forum.png?fit=1252%2C812" style="display: block; margin-bottom: 5px; clear: both;" width="1252" /><p>Embedded.com is hosting the annual Embedded Systems Design (ESD) Tech Forum virtual event. The two-day conference, scheduled for April 28-29, will focus on several key areas of...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/join-us-for-the-esd-tech-forum-virtual-event-in-april/">Join Us for the ESD Tech Forum Virtual Event in April</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [RECOM Expands Portfolio with Discrete Power Solutions](https://www.powerelectronicsnews.com/recom-expands-portfolio-with-discrete-power-solutions/)
-**Published:** Wed, 15 Apr 2026 13:00:00 +0000
-
-<img alt="RECOM Expands Portfolio with Discrete Power Solutions." class="webfeedsFeaturedVisual wp-post-image" height="514" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/News-443.png?fit=768%2C514" style="display: block; margin-bottom: 5px; clear: both;" width="768" /><p>New ICs and transformers enable flexible design of isolated DC/DC converters with multiple topologies and reduced component count.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/recom-expands-portfolio-with-discrete-power-solutions/">RECOM Expands Portfolio with Discrete Power Solutions</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Magnetic Metals’ Tape Wound Cores Optimize the Performance of Sophisticated Electronic Components](https://www.powerelectronicsnews.com/magnetic-metals-tape-wound-cores-optimize-the-performance-of-sophisticated-electronic-components/)
-**Published:** Wed, 15 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="871" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/magnetic-metals.png?fit=1365%2C871" style="display: block; margin-bottom: 5px; clear: both;" width="1365" /><p>Magnetic cores from Magnetic Metals deliver the maximum electrification properties required for advanced-performance components used in aerospace and defense, electric vehicles, industrial controls, utilities, telecommunications,...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/magnetic-metals-tape-wound-cores-optimize-the-performance-of-sophisticated-electronic-components/">Magnetic Metals’ Tape Wound Cores Optimize the Performance of Sophisticated Electronic Components</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>From copilots to autonomous agents: discover how EDA AI is transforming semiconductor and PCB design workflows with Siemens’ Fuse EDA AI Agent</p>
+<p>The post <a href="https://www.eetimes.com/eda-ai-agents-intelligent-automation-in-semiconductor-pcb-design/">EDA AI Agents: Intelligent Automation in Semiconductor &amp; PCB Design</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -895,6 +903,38 @@ _Last updated: 2026-04-20 11:01 UTC_
 
 <p>Embedded AI advances toward practical, multimodal systems, bringing vision-language models into real-world, resource-constrained deployments.</p>
 <p>The post <a href="https://www.eetimes.com/from-vision-language-models-to-physical-ai-embedded-intelligence-enters-a-new-phase/">From Vision-Language Models to Physical AI: Embedded Intelligence Enters a New Phase</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Consumer Semiconductor – Microprocessor & Digital Support ICS](https://www.electronicsweekly.com/news/elektra-awards-news/consumer-semiconductor-microprocessor-digital-support-ics-2026-01/)
+**Published:** Wed, 21 Jan 2026 08:00:52 +0000
+
+<p>Winner &#8211; Innatera The Netherlands-based team of engineers won praise from the judges for its neuromorphic microprocessors, which can add intelligence to sensors in intelligent networks. They also praised the ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/elektra-awards-news/consumer-semiconductor-microprocessor-digital-support-ics-2026-01/">Consumer Semiconductor – Microprocessor &#038; Digital Support ICS</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Consumer Semicondutor – Energy Efficiency](https://www.electronicsweekly.com/news/elektra-awards-news/consumer-semicondutor-energy-efficiency-2026-01/)
+**Published:** Wed, 21 Jan 2026 08:00:41 +0000
+
+<p>Winner &#8211; Nanopower Semiconductor Judges congratulated the company on the clear customer benefits (that is, smaller form factors, multi-year operation, energy harvesting feasibility) and expanded potential applications in wearables, health ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/elektra-awards-news/consumer-semicondutor-energy-efficiency-2026-01/">Consumer Semicondutor – Energy Efficiency</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Best Electronics Workplace Award](https://www.electronicsweekly.com/news/elektra-awards-news/best-electronics-workplace-award-2026-01/)
+**Published:** Wed, 21 Jan 2026 08:00:38 +0000
+
+<p>Winner &#8211; Cambridge GaN Devices The judges praised this entry for documenting specific initiatives addressing employee welfare that go way beyond what one might normally expect. One judge said this ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/elektra-awards-news/best-electronics-workplace-award-2026-01/">Best Electronics Workplace Award</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Automotive/Hi-rel Semiconductor Product of the Year](https://www.electronicsweekly.com/news/elektra-awards-news/automotive-hi-rel-semiconductor-product-of-the-year-2026-01/)
+**Published:** Wed, 21 Jan 2026 08:00:33 +0000
+
+<p>Winner &#8211; Spacechips The judges praised as “a very innovative solution” this scalable, reconfigurable, smart, onboard processor, which allows space debris retrieval and in-orbit servicing operators to perform autonomous, image ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/elektra-awards-news/automotive-hi-rel-semiconductor-product-of-the-year-2026-01/">Automotive/Hi-rel Semiconductor Product of the Year</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
