@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-21 19:25 UTC_
+_Last updated: 2026-04-21 21:07 UTC_
 
 ## [Nordic SoC Powers Holyiot Smart Badges](https://www.eetasia.com/nordic-soc-powers-holyiot-smart-badges/)
 **Published:** Tue, 21 Apr 2026 02:56:44 +0000
