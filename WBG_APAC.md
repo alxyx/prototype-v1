@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-21 11:20 UTC_
+_Last updated: 2026-04-21 19:25 UTC_
 
 ## [Nordic SoC Powers Holyiot Smart Badges](https://www.eetasia.com/nordic-soc-powers-holyiot-smart-badges/)
 **Published:** Tue, 21 Apr 2026 02:56:44 +0000
@@ -15,6 +15,46 @@ _Last updated: 2026-04-21 11:20 UTC_
 
 <p>Infineon leads the automotive semiconductor market in 2025, extending its dominance across regions and MCU segment growth globally.</p>
 <p>The post <a href="https://www.eetasia.com/infineon-retains-top-automotive-chip-supplier-position-for-6th-consecutive-year/">Infineon Retains Top Automotive Chip Supplier Position for 6th Consecutive Year</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [ISRL USA and AI Infrastructure Partners Sign MOU to Build America’s First Dedicated Semiconductor SubFAB R&D Facility](https://www.semiconductor-digest.com/isrl-usa-and-ai-infrastructure-partners-sign-mou-to-build-americas-first-dedicated-semiconductor-subfab-rd-facility/?utm_source=rss&utm_medium=rss&utm_campaign=isrl-usa-and-ai-infrastructure-partners-sign-mou-to-build-americas-first-dedicated-semiconductor-subfab-rd-facility)
+**Published:** Tue, 21 Apr 2026 17:26:36 +0000
+
+<p>Partnership pairs ISRL's industry-neutral R&#038;D platform with AIIP's multi-million dollar infrastructure commitment to close semiconductor industry's most critical sustainability gap.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/isrl-usa-and-ai-infrastructure-partners-sign-mou-to-build-americas-first-dedicated-semiconductor-subfab-rd-facility/">ISRL USA and AI Infrastructure Partners Sign MOU to Build America&#8217;s First Dedicated Semiconductor SubFAB R&#038;D Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMICON Southeast Asia 2026 to Convene Leaders in Malaysia to Drive Next Phase of Semiconductor Growth](https://www.semiconductor-digest.com/semicon-southeast-asia-2026-to-convene-leaders-in-malaysia-to-drive-next-phase-of-semiconductor-growth/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-southeast-asia-2026-to-convene-leaders-in-malaysia-to-drive-next-phase-of-semiconductor-growth)
+**Published:** Tue, 21 Apr 2026 17:15:25 +0000
+
+<p>SEMICON Southeast Asia (SEMICON SEA) 2026, the region’s premier platform for the global semiconductor and electronics manufacturing supply chain, will return to the Malaysia International Trade and Exhibition Centre (MITEC) in Kuala Lumpur from 5 to 7 May. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/semicon-southeast-asia-2026-to-convene-leaders-in-malaysia-to-drive-next-phase-of-semiconductor-growth/">SEMICON Southeast Asia 2026 to Convene Leaders in Malaysia to Drive Next Phase of Semiconductor Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Turning the MIPI A-PHY Standard into Camera Design Advantage](https://www.semiconductor-digest.com/turning-the-mipi-a-phy-standard-into-camera-design-advantage/?utm_source=rss&utm_medium=rss&utm_campaign=turning-the-mipi-a-phy-standard-into-camera-design-advantage)
+**Published:** Tue, 21 Apr 2026 13:59:45 +0000
+
+<p>How sensor integration saves on size, power, and cost.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/turning-the-mipi-a-phy-standard-into-camera-design-advantage/">Turning the MIPI A-PHY Standard into Camera Design Advantage</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Safety, Purity and Performance in Semiconductor Cleanroom Environments](https://www.semiconductor-digest.com/safety-purity-and-performance-in-semiconductor-cleanroom-environments/?utm_source=rss&utm_medium=rss&utm_campaign=safety-purity-and-performance-in-semiconductor-cleanroom-environments)
+**Published:** Tue, 21 Apr 2026 13:52:16 +0000
+
+<p>Air-operated double-diaphragm pumps play a vital role in next-generation semiconductor manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/safety-purity-and-performance-in-semiconductor-cleanroom-environments/">Safety, Purity and Performance in Semiconductor Cleanroom Environments</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Can Filtration Keep Up with Airborne Molecular Contamination Control Limits?](https://www.semiconductor-digest.com/can-filtration-keep-up-with-airborne-molecular-contamination-control-limits/?utm_source=rss&utm_medium=rss&utm_campaign=can-filtration-keep-up-with-airborne-molecular-contamination-control-limits)
+**Published:** Tue, 21 Apr 2026 13:43:35 +0000
+
+<p>As control limits move to sub-ppb levels, both filtration media and media delivery systems will have to evolve.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/can-filtration-keep-up-with-airborne-molecular-contamination-control-limits/">Can Filtration Keep Up with Airborne Molecular Contamination Control Limits?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -778,43 +818,27 @@ _Last updated: 2026-04-21 11:20 UTC_
 
 ---
 
-## [ASMPT Introduces Pick & Place System DALA For All Camera Module Components](https://www.semiconductor-digest.com/asmpt-introduces-pick-place-system-dala-for-all-camera-module-components/?utm_source=rss&utm_medium=rss&utm_campaign=asmpt-introduces-pick-place-system-dala-for-all-camera-module-components)
-**Published:** Tue, 24 Mar 2026 17:32:22 +0000
+## [ST Expands Analog Portfolio with High-Accuracy Op Amps](https://www.powerelectronicsnews.com/st-expands-analog-portfolio-with-high-accuracy-op-amps/)
+**Published:** Tue, 21 Apr 2026 14:59:54 +0000
 
-<p>ASMPT introduces DALA, its latest pick and place system for all camera module components.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/asmpt-introduces-pick-place-system-dala-for-all-camera-module-components/">ASMPT Introduces Pick &amp; Place System DALA For All Camera Module Components</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production](https://www.semiconductor-digest.com/stmicroelectronics-china-manufactured-stm32-microcontrollers-begin-volume-production/?utm_source=rss&utm_medium=rss&utm_campaign=stmicroelectronics-china-manufactured-stm32-microcontrollers-begin-volume-production)
-**Published:** Mon, 23 Mar 2026 19:05:54 +0000
-
-<p>STMicroelectronics announces the start of general-purpose STM32 microcontroller deliveries manufactured in China.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/stmicroelectronics-china-manufactured-stm32-microcontrollers-begin-volume-production/">STMicroelectronics China-Manufactured STM32 Microcontrollers Begin Volume Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="ST Expands Analog Portfolio with High-Accuracy Op Amps." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/N4771D-Apr-20-2026-TSB192-op-amps_PR-IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The TSB192 op amps deliver low offset, low drift and wide voltage range for precise signal conditioning in industrial and automotive designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-expands-analog-portfolio-with-high-accuracy-op-amps/">ST Expands Analog Portfolio with High-Accuracy Op Amps</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Toshiba Showcases Advanced Power Semiconductor Solutions at APEC 2026](https://www.semiconductor-digest.com/toshiba-showcases-advanced-power-semiconductor-solutions-at-apec-2026/?utm_source=rss&utm_medium=rss&utm_campaign=toshiba-showcases-advanced-power-semiconductor-solutions-at-apec-2026)
-**Published:** Mon, 23 Mar 2026 19:01:33 +0000
+## [Vishay Introduces 1212 IHLP Inductor for Compact Power Systems](https://www.powerelectronicsnews.com/vishay-introduces-1212-ihlp-inductor-for-compact-power-systems/)
+**Published:** Tue, 21 Apr 2026 13:00:00 +0000
 
-<p>Toshiba America Electronic Components, Inc. will be at the Applied Power Electronics Conference (APEC) this week to highlight its latest power semiconductor technologies enabling more intelligent, efficient, and sustainable system designs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/toshiba-showcases-advanced-power-semiconductor-solutions-at-apec-2026/">Toshiba Showcases Advanced Power Semiconductor Solutions at APEC 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Enabling Non-Doped Blue OLEDs With Efficiency Exceeding 20%](https://www.semiconductor-digest.com/enabling-non-doped-blue-oleds-with-efficiency-exceeding-20/?utm_source=rss&utm_medium=rss&utm_campaign=enabling-non-doped-blue-oleds-with-efficiency-exceeding-20)
-**Published:** Mon, 23 Mar 2026 18:54:18 +0000
-
-<p>Deep blue OLEDs are prized for high-end displays because they help deliver sharper color and better power efficiency. Most OLED screens today rely on a host and a small amount of guest emitter mixed into the light-emitting layer.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/enabling-non-doped-blue-oleds-with-efficiency-exceeding-20/">Enabling Non-Doped Blue OLEDs With Efficiency Exceeding 20%</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Vishay Introduces 1212 IHLP Inductor for Compact Power Systems." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/55195646840_8973efba38_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The 1212 inductor delivers up to 14.3 A, low DCR, and compact size for efficient DC/DC conversion in space-constrained systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-introduces-1212-ihlp-inductor-for-compact-power-systems/">Vishay Introduces 1212 IHLP Inductor for Compact Power Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [3D Integration and GAA Adoption Drive Structural Growth in ALD/CVD Precursors](https://www.semiconductor-digest.com/3d-integration-and-gaa-adoption-drive-structural-growth-in-ald-cvd-precursors-2/?utm_source=rss&utm_medium=rss&utm_campaign=3d-integration-and-gaa-adoption-drive-structural-growth-in-ald-cvd-precursors-2)
-**Published:** Mon, 23 Mar 2026 18:45:27 +0000
+## [Hybrid eVTOL Aircraft Power Drive Using GaN-based Flying Capacitor Converter](https://www.powerelectronicsnews.com/hybrid-evtol-aircraft-power-drive-using-gan-based-flying-capacitor-converter/)
+**Published:** Tue, 21 Apr 2026 13:00:00 +0000
 
-<p>TechInsights forecasts continued expansion in the global precursor market, with total revenue projected to grow from approximately USD 1.82B in 2025 to about USD 2.53B by 2030, representing roughly 8% CAGR.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/3d-integration-and-gaa-adoption-drive-structural-growth-in-ald-cvd-precursors-2/">3D Integration and GAA Adoption Drive Structural Growth in ALD/CVD Precursors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5120" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_1540873889.jpeg?fit=3328%2C5120" style="display: block; margin-bottom: 5px; clear: both;" width="3328" /><p>For hybrid eVTOL power drives, a three-level GaN flying capacitor converter proves lightest and most efficient.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/hybrid-evtol-aircraft-power-drive-using-gan-based-flying-capacitor-converter/">Hybrid eVTOL Aircraft Power Drive Using GaN-based Flying Capacitor Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -874,30 +898,6 @@ _Last updated: 2026-04-21 11:20 UTC_
 
 ---
 
-## [Power Corner: Wolfspeed CTO Dr. Elif Balkas on 300-mm SiC for AI and HPC Advanced Packaging](https://www.powerelectronicsnews.com/power-corner-wolfspeed-cto-dr-elif-balkas-on-300-mm-sic-for-ai-and-hpc-advanced-packaging/)
-**Published:** Thu, 16 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1118" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Wolfspeed.png?fit=1944%2C1118" style="display: block; margin-bottom: 5px; clear: both;" width="1944" /><p>From thermal management to photonics, Wolfspeed's CTO maps silicon carbide's expanding role in AI infrastructure.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-wolfspeed-cto-dr-elif-balkas-on-300-mm-sic-for-ai-and-hpc-advanced-packaging/">Power Corner: Wolfspeed CTO Dr. Elif Balkas on 300-mm SiC for AI and HPC Advanced Packaging</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Reducing DC-DC Power Consumption: Application Case of VHU Series Capacitors](https://www.powerelectronicsnews.com/reducing-dc-dc-power-consumption-application-case-of-vhu-series-capacitors/)
-**Published:** Thu, 16 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="340" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/ymin_thumbnail_image.png?fit=600%2C340" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>Explore how VHU Series capacitors reduce DC-DC power consumption in automotive applications, ensuring stable performance and energy-efficient designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/reducing-dc-dc-power-consumption-application-case-of-vhu-series-capacitors/">Reducing DC-DC Power Consumption: Application Case of VHU Series Capacitors </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [EPC Launches 5 kW GaN 3-Phase Inverters for Motor Drives](https://www.powerelectronicsnews.com/epc-launches-5-kw-gan-3-phase-inverters-for-motor-drives/)
-**Published:** Wed, 15 Apr 2026 13:57:16 +0000
-
-<img alt="EPC Launches 5 kW GaN 3-Phase Inverters for Motor Drives." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/EPC9186-HC2-HC3-PR-Graphic_Clean.jpg?fit=1500%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>The new GaN-based inverter boards enable 150 Arms BLDC control with high efficiency and fast switching for robotics and light EVs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/epc-launches-5-kw-gan-3-phase-inverters-for-motor-drives/">EPC Launches 5 kW GaN 3-Phase Inverters for Motor Drives</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [The Changing ASICs Landscape: the Shift Toward Chip Disaggregation](https://www.eetimes.com/the-changing-asics-landscape-the-shift-toward-chip-disaggregation/)
 **Published:** Tue, 21 Apr 2026 07:15:47 +0000
 
@@ -914,17 +914,17 @@ _Last updated: 2026-04-21 11:20 UTC_
 
 ---
 
-## [PCB Layout Engineer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/jobs/pcb-layout-engineer-capgemini-bengaluru)
-**Published:** Tue, 21 Apr 2026 09:04:16 +0000
+## [Exploring Quantum Computing: Current Practices, Theoretical Underpinnings, and Future Directions](https://www.electronicsforu.com/technology-trends/exploring-quantum-computing-current-practices-theoretical-underpinnings-and-future-directions)
+**Published:** Tue, 21 Apr 2026 11:50:14 +0000
 
-<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini Job Description This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic Programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs) printed circuit boards (PCBs) and electronic systems; and developing and designing methods of using electrical power and electronic [&#8230;]
+<img alt="3D illustration of working quantum computer, Quantum computing concept" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/05/3D-illustration-of-working-quantum-computer-Quantum-computing-concept-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Quantum computing challenges our old assumptions about what machines can and cannot do. How will it transform intelligence, security, and creativity in ways we are only beginning to imagine? Quantum computing is a breakthrough that works in a way completely different from classical computing. Instead of simple bits that hold either a 0 or a [&#8230;]
 
 ---
 
-## [Improved tools for design and analysis](https://www.electronicsforu.com/news/improved-tools-for-design-and-analysis)
-**Published:** Tue, 21 Apr 2026 06:04:48 +0000
+## [JOB: PCB Layout Engineer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/jobs/pcb-layout-engineer-capgemini-bengaluru)
+**Published:** Tue, 21 Apr 2026 09:04:16 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/ADS-2025-Composite-Laptop-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A design update brings simulation, workflows, and support across RF, digital, power, quantum, and photonics, changing how systems are built and tested. Keysight Technologies has released ADS 2026 with updates across circuit simulation, EM analysis, electrothermal workflows, layout, and verification. The platform continues to support RF, microwave, high-speed digital, power electronics, quantum electronics, and silicon [&#8230;]
+<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini Job Description This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic Programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs) printed circuit boards (PCBs) and electronic systems; and developing and designing methods of using electrical power and electronic [&#8230;]
 
 ---
 
