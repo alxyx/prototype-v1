@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-22 09:35 UTC_
+_Last updated: 2026-04-22 11:18 UTC_
 
 ## [DEEPX, Hyundai Collaborate on Physical AI Compute Platform for Robotics](https://www.eetasia.com/deepx-hyundai-collaborate-on-physical-ai-compute-platform-for-robotics/)
 **Published:** Wed, 22 Apr 2026 02:51:19 +0000
@@ -922,6 +922,20 @@ _Last updated: 2026-04-22 09:35 UTC_
 
 ---
 
+## [JOB: Verification IP Engineer At Truechip In Bengaluru](https://www.electronicsforu.com/career/verification-ip-engineer-truechip-bengaluru)
+**Published:** Wed, 22 Apr 2026 10:22:53 +0000
+
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Truechip Job Description We are looking for skilled Verification IP Engineers with strong experience in SystemVerilog and UVM to work on protocol-based verification and VIP development. Key Responsibilities Required Skills Good to Have Education Bachelor’s or Master’s degree in Electronics, Computer Science, or related field How to Apply [&#8230;]
+
+---
+
+## [JOB: Electronics Hardware Engineer At   Capgemini In Coimbatore](https://www.electronicsforu.com/career/electronics-hardware-engineer-capgemini-coimbatore)
+**Published:** Wed, 22 Apr 2026 09:36:55 +0000
+
+<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Coimbatore Company: Capgemini Job Description This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic Programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs) printed circuit boards (PCBs) and electronic systems; and developing and designing methods of using electrical power and electronic [&#8230;]
+
+---
+
 ## [Flexible NFC Tags Enable Low Carbon Smart Packaging](https://www.electronicsforu.com/news/flexible-nfc-tags-enable-low-carbon-smart-packaging)
 **Published:** Wed, 22 Apr 2026 08:31:15 +0000
 
@@ -933,13 +947,6 @@ _Last updated: 2026-04-22 09:35 UTC_
 **Published:** Wed, 22 Apr 2026 08:24:29 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/1771686281999-1-1-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An Indian startup is developing an in-house VLA system for humanoids, aiming to move robots from simple prompts to real-world task execution. As physical AI shifts from screens to real-world machines, IHUB Robotics, an Indian startup company who builds humanoid robots is developing its own vision-language-action (VLA) system from scratch to power humanoid robots developed [&#8230;]
-
----
-
-## [Helps EVs go longer on one charge](https://www.electronicsforu.com/news/helps-evs-go-longer-on-one-charge)
-**Published:** Wed, 22 Apr 2026 05:44:48 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/260421_sic-mosfet_1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />SiC chips reduce power loss, handle heat, and improve efficiency in EVs, data centers, and industrial systems, helping manage rising power demand. ROHM has introduced its 5th generation SiC MOSFETs under the EcoSiC™ series, targeting high-efficiency power systems in electric vehicles, AI servers, and industrial infrastructure. The devices focus on reducing energy loss in applications [&#8230;]
 
 ---
 
