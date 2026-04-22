@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-22 11:18 UTC_
+_Last updated: 2026-04-22 15:26 UTC_
 
 ## [DEEPX, Hyundai Collaborate on Physical AI Compute Platform for Robotics](https://www.eetasia.com/deepx-hyundai-collaborate-on-physical-ai-compute-platform-for-robotics/)
 **Published:** Wed, 22 Apr 2026 02:51:19 +0000
@@ -826,6 +826,22 @@ _Last updated: 2026-04-22 11:18 UTC_
 
 ---
 
+## [Power Electronics Course with QSPICE (Episode 08): Stabilized Power Supply](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-08-stabilized-power-supply/)
+**Published:** Wed, 22 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>In this installment of the course, we will continue our exploration of the main electrical schematics for AC-to-DC conversion. This time, high-capacity capacitors will be...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-08-stabilized-power-supply/">Power Electronics Course with QSPICE (Episode 08): Stabilized Power Supply</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [KYOCERA AVX Launches FFLK Traction DC Filtering Capacitors](https://www.powerelectronicsnews.com/kyocera-avx-launches-fflk-traction-dc-filtering-capacitors/)
+**Published:** Wed, 22 Apr 2026 13:00:00 +0000
+
+<img alt="KYOCERA AVX Launches FFLK Traction DC Filtering Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="2625" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/KAVX124-FFLK-Series-Capacitors-PR.jpg?fit=5000%2C2625" style="display: block; margin-bottom: 5px; clear: both;" width="5000" /><p>New film capacitors deliver high current handling, durability, and long lifetime for EV traction and industrial DC filtering.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/kyocera-avx-launches-fflk-traction-dc-filtering-capacitors/">KYOCERA AVX Launches FFLK Traction DC Filtering Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [ST Expands Analog Portfolio with High-Accuracy Op Amps](https://www.powerelectronicsnews.com/st-expands-analog-portfolio-with-high-accuracy-op-amps/)
 **Published:** Tue, 21 Apr 2026 14:59:54 +0000
 
@@ -887,22 +903,6 @@ _Last updated: 2026-04-22 11:18 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_192261203.jpeg?fit=5500%2C3000" style="display: block; margin-bottom: 5px; clear: both;" width="5500" /><p>Rising rack power densities are pushing data centers toward liquid cooling and demanding new connector materials.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/what-rising-rack-densities-mean-for-power-connectors/">What Rising Rack Densities Mean for Power Connectors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [PCIM Expo 2026 Highlights SiC, GaN and Data Center Power Trends](https://www.powerelectronicsnews.com/pcim-expo-2026-highlights-sic-gan-and-data-center-power-trends/)
-**Published:** Fri, 17 Apr 2026 13:00:00 +0000
-
-<img alt="PCIM Expo 2026 Highlights SiC, GaN and Data Center Power Trends." class="webfeedsFeaturedVisual wp-post-image" height="1900" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/PCIM_Expo_2026.jpg?fit=2850%2C1900" style="display: block; margin-bottom: 5px; clear: both;" width="2850" /><p>Event highlights device, system, and application advances, with focus on AI-driven power architectures and emerging technologies.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/pcim-expo-2026-highlights-sic-gan-and-data-center-power-trends/">PCIM Expo 2026 Highlights SiC, GaN and Data Center Power Trends</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TDK Introduces High-Efficiency 1500 W AC-DC Modules](https://www.powerelectronicsnews.com/tdk-introduces-high-efficiency-1500-w-ac-dc-modules/)
-**Published:** Thu, 16 Apr 2026 17:00:00 +0000
-
-<img alt="TDK Expands Power Portfolio with 1500 W Wide-Input AC-DC Solutions." class="webfeedsFeaturedVisual wp-post-image" height="1600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/PFH1500FB-48Press-pictureWhite-background2026.jpg?fit=2400%2C1600" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>New AC-DC modules support wide input voltage, high efficiency, and advanced monitoring for industrial and high-power applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tdk-introduces-high-efficiency-1500-w-ac-dc-modules/">TDK Introduces High-Efficiency 1500 W AC-DC Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
