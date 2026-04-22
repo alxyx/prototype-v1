@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-22 08:12 UTC_
+_Last updated: 2026-04-22 09:35 UTC_
 
 ## [DEEPX, Hyundai Collaborate on Physical AI Compute Platform for Robotics](https://www.eetasia.com/deepx-hyundai-collaborate-on-physical-ai-compute-platform-for-robotics/)
 **Published:** Wed, 22 Apr 2026 02:51:19 +0000
@@ -922,17 +922,24 @@ _Last updated: 2026-04-22 08:12 UTC_
 
 ---
 
+## [Flexible NFC Tags Enable Low Carbon Smart Packaging](https://www.electronicsforu.com/news/flexible-nfc-tags-enable-low-carbon-smart-packaging)
+**Published:** Wed, 22 Apr 2026 08:31:15 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Pragmatic_x_Tageos_Logo-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if packaging could connect without adding bulk? These NFC tags can enable scalable, low carbon digital interaction across everyday products and retail environments. Tageos has launched new FlexIC based RFID and NFC product lines, EOS Lite and EOS Zero Lite, developed in partnership with Pragmatic Semiconductor to enable low carbon, scalable item level connectivity [&#8230;]
+
+---
+
+## [An Indian startup is building humanoid robot brain from scratch](https://www.electronicsforu.com/news/an-indian-startup-is-building-humanoid-robot-brain-from-scratch)
+**Published:** Wed, 22 Apr 2026 08:24:29 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/1771686281999-1-1-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An Indian startup is developing an in-house VLA system for humanoids, aiming to move robots from simple prompts to real-world task execution. As physical AI shifts from screens to real-world machines, IHUB Robotics, an Indian startup company who builds humanoid robots is developing its own vision-language-action (VLA) system from scratch to power humanoid robots developed [&#8230;]
+
+---
+
 ## [Helps EVs go longer on one charge](https://www.electronicsforu.com/news/helps-evs-go-longer-on-one-charge)
 **Published:** Wed, 22 Apr 2026 05:44:48 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/260421_sic-mosfet_1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />SiC chips reduce power loss, handle heat, and improve efficiency in EVs, data centers, and industrial systems, helping manage rising power demand. ROHM has introduced its 5th generation SiC MOSFETs under the EcoSiC™ series, targeting high-efficiency power systems in electric vehicles, AI servers, and industrial infrastructure. The devices focus on reducing energy loss in applications [&#8230;]
-
----
-
-## [Exploring Quantum Computing: Current Practices, Theoretical Underpinnings, and Future Directions](https://www.electronicsforu.com/technology-trends/exploring-quantum-computing-current-practices-theoretical-underpinnings-and-future-directions)
-**Published:** Tue, 21 Apr 2026 11:50:14 +0000
-
-<img alt="3D illustration of working quantum computer, Quantum computing concept" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/05/3D-illustration-of-working-quantum-computer-Quantum-computing-concept-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Quantum computing challenges our old assumptions about what machines can and cannot do. How will it transform intelligence, security, and creativity in ways we are only beginning to imagine? Quantum computing is a breakthrough that works in a way completely different from classical computing. Instead of simple bits that hold either a 0 or a [&#8230;]
 
 ---
 
