@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-21 23:48 UTC_
+_Last updated: 2026-04-22 08:12 UTC_
+
+## [DEEPX, Hyundai Collaborate on Physical AI Compute Platform for Robotics](https://www.eetasia.com/deepx-hyundai-collaborate-on-physical-ai-compute-platform-for-robotics/)
+**Published:** Wed, 22 Apr 2026 02:51:19 +0000
+
+<p>DEEPX, Hyundai Robotics LAB partner to develop ultra-low-power Physical AI platform for real-time generative robotics computing.</p>
+<p>The post <a href="https://www.eetasia.com/deepx-hyundai-collaborate-on-physical-ai-compute-platform-for-robotics/">DEEPX, Hyundai Collaborate on Physical AI Compute Platform for Robotics</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Nordic SoC Powers Holyiot Smart Badges](https://www.eetasia.com/nordic-soc-powers-holyiot-smart-badges/)
 **Published:** Tue, 21 Apr 2026 02:56:44 +0000
@@ -914,17 +922,17 @@ _Last updated: 2026-04-21 23:48 UTC_
 
 ---
 
+## [Helps EVs go longer on one charge](https://www.electronicsforu.com/news/helps-evs-go-longer-on-one-charge)
+**Published:** Wed, 22 Apr 2026 05:44:48 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/260421_sic-mosfet_1-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />SiC chips reduce power loss, handle heat, and improve efficiency in EVs, data centers, and industrial systems, helping manage rising power demand. ROHM has introduced its 5th generation SiC MOSFETs under the EcoSiC™ series, targeting high-efficiency power systems in electric vehicles, AI servers, and industrial infrastructure. The devices focus on reducing energy loss in applications [&#8230;]
+
+---
+
 ## [Exploring Quantum Computing: Current Practices, Theoretical Underpinnings, and Future Directions](https://www.electronicsforu.com/technology-trends/exploring-quantum-computing-current-practices-theoretical-underpinnings-and-future-directions)
 **Published:** Tue, 21 Apr 2026 11:50:14 +0000
 
 <img alt="3D illustration of working quantum computer, Quantum computing concept" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/05/3D-illustration-of-working-quantum-computer-Quantum-computing-concept-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Quantum computing challenges our old assumptions about what machines can and cannot do. How will it transform intelligence, security, and creativity in ways we are only beginning to imagine? Quantum computing is a breakthrough that works in a way completely different from classical computing. Instead of simple bits that hold either a 0 or a [&#8230;]
-
----
-
-## [JOB: PCB Layout Engineer At Capgemini In Bengaluru](https://www.electronicsforu.com/career/jobs/pcb-layout-engineer-capgemini-bengaluru)
-**Published:** Tue, 21 Apr 2026 09:04:16 +0000
-
-<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini Job Description This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic Programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs) printed circuit boards (PCBs) and electronic systems; and developing and designing methods of using electrical power and electronic [&#8230;]
 
 ---
 
