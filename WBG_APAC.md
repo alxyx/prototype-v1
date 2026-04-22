@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-22 23:02 UTC_
+_Last updated: 2026-04-22 23:59 UTC_
 
 ## [DEEPX, Hyundai Collaborate on Physical AI Compute Platform for Robotics](https://www.eetasia.com/deepx-hyundai-collaborate-on-physical-ai-compute-platform-for-robotics/)
 **Published:** Wed, 22 Apr 2026 02:51:19 +0000
