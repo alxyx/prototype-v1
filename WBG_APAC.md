@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-22 15:26 UTC_
+_Last updated: 2026-04-22 21:08 UTC_
 
 ## [DEEPX, Hyundai Collaborate on Physical AI Compute Platform for Robotics](https://www.eetasia.com/deepx-hyundai-collaborate-on-physical-ai-compute-platform-for-robotics/)
 **Published:** Wed, 22 Apr 2026 02:51:19 +0000
@@ -23,6 +23,46 @@ _Last updated: 2026-04-22 15:26 UTC_
 
 <p>Infineon leads the automotive semiconductor market in 2025, extending its dominance across regions and MCU segment growth globally.</p>
 <p>The post <a href="https://www.eetasia.com/infineon-retains-top-automotive-chip-supplier-position-for-6th-consecutive-year/">Infineon Retains Top Automotive Chip Supplier Position for 6th Consecutive Year</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Applied Materials Announces Advantest as Innovation Partner for EPIC Platform in Silicon Valley](https://www.semiconductor-digest.com/applied-materials-announces-advantest-as-innovation-partner-for-epic-platform-in-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-announces-advantest-as-innovation-partner-for-epic-platform-in-silicon-valley)
+**Published:** Wed, 22 Apr 2026 18:50:45 +0000
+
+<p>Companies will co-innovate to bridge the gap between front-end manufacturing and back-end testing of semiconductors and advanced packaging.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-announces-advantest-as-innovation-partner-for-epic-platform-in-silicon-valley/">Applied Materials Announces Advantest as Innovation Partner for EPIC Platform in Silicon Valley</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Bosch Introduces Third Generation of SiC Chips](https://www.semiconductor-digest.com/bosch-introduces-third-generation-of-sic-chips/?utm_source=rss&utm_medium=rss&utm_campaign=bosch-introduces-third-generation-of-sic-chips)
+**Published:** Wed, 22 Apr 2026 18:47:18 +0000
+
+<p>Chips made of silicon carbide (SiC) are the key to making electric cars more efficient and increasing their range. Bosch has now taken the development of these chips to the next level: the company has started to introduce third-generation silicon carbide chips and is supplying samples to global automakers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/bosch-introduces-third-generation-of-sic-chips/">Bosch Introduces Third Generation of SiC Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [CMC F2F & Joint Session Highlights Evolving Strategies for Supply Chain Resilience](https://www.semiconductor-digest.com/cmc-f2f-joint-session-highlights-evolving-strategies-for-supply-chain-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=cmc-f2f-joint-session-highlights-evolving-strategies-for-supply-chain-resilience)
+**Published:** Wed, 22 Apr 2026 18:44:38 +0000
+
+<p>The Critical Materials Council (CMC) convened its semiconductor Fabs F2F Meeting on April 13, followed by a Joint Session hosted at Analog Devices on April 14.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cmc-f2f-joint-session-highlights-evolving-strategies-for-supply-chain-resilience/">CMC F2F &#038; Joint Session Highlights Evolving Strategies for Supply Chain Resilience</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI’s ASMC Event Spotlights Practical Strategies for Overcoming Today’s Biggest Semiconductor Manufacturing Challenges](https://www.semiconductor-digest.com/semis-asmc-event-spotlights-practical-strategies-for-overcoming-todays-biggest-semiconductor-manufacturing-challenges/?utm_source=rss&utm_medium=rss&utm_campaign=semis-asmc-event-spotlights-practical-strategies-for-overcoming-todays-biggest-semiconductor-manufacturing-challenges)
+**Published:** Wed, 22 Apr 2026 18:38:23 +0000
+
+<p>SEMI today announced the program for its 37th annual Advanced Semiconductor Manufacturing Conference (ASMC), taking place from May 11-14 in Albany, New York.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semis-asmc-event-spotlights-practical-strategies-for-overcoming-todays-biggest-semiconductor-manufacturing-challenges/">SEMI&#8217;s ASMC Event Spotlights Practical Strategies for Overcoming Today’s Biggest Semiconductor Manufacturing Challenges</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens Collaborates with TSMC to Advance AI for Semiconductor Design](https://www.semiconductor-digest.com/siemens-collaborates-with-tsmc-to-advance-ai-for-semiconductor-design/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-collaborates-with-tsmc-to-advance-ai-for-semiconductor-design)
+**Published:** Wed, 22 Apr 2026 18:36:35 +0000
+
+<p>Siemens today announced the continuation of collaboration with TSMC to drive innovation in AI-powered automation and advanced semiconductor design enablement.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-collaborates-with-tsmc-to-advance-ai-for-semiconductor-design/">Siemens Collaborates with TSMC to Advance AI for Semiconductor Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -786,43 +826,11 @@ _Last updated: 2026-04-22 15:26 UTC_
 
 ---
 
-## [memsstar’s ORBIS Alpha Etch System Installed in TUM Quantum Networks Lab](https://www.semiconductor-digest.com/memsstars-orbis-alpha-etch-system-installed-in-tum-quantum-networks-lab/?utm_source=rss&utm_medium=rss&utm_campaign=memsstars-orbis-alpha-etch-system-installed-in-tum-quantum-networks-lab)
-**Published:** Wed, 25 Mar 2026 18:54:00 +0000
+## [AI Data Center Power: How MPS Is Advancing System-Level Power Delivery](https://www.powerelectronicsnews.com/ai-data-center-power-how-mps-is-advancing-system-level-power-delivery/)
+**Published:** Wed, 22 Apr 2026 20:26:10 +0000
 
-<p>University’s research to focus on developing next-gen quantum communications devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/memsstars-orbis-alpha-etch-system-installed-in-tum-quantum-networks-lab/">memsstar’s ORBIS Alpha Etch System Installed in TUM Quantum Networks Lab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Keysight Introduces Hands-On Semiconductor Teaching Labs for Universities](https://www.semiconductor-digest.com/keysight-introduces-hands-on-semiconductor-teaching-labs-for-universities/?utm_source=rss&utm_medium=rss&utm_campaign=keysight-introduces-hands-on-semiconductor-teaching-labs-for-universities)
-**Published:** Tue, 24 Mar 2026 17:53:11 +0000
-
-<p>Launches three new solutions, designed for students studying semiconductor research, development, and manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/keysight-introduces-hands-on-semiconductor-teaching-labs-for-universities/">Keysight Introduces Hands-On Semiconductor Teaching Labs for Universities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Arm Expands Compute Platform to Silicon Products](https://www.semiconductor-digest.com/arm-expands-compute-platform-to-silicon-products/?utm_source=rss&utm_medium=rss&utm_campaign=arm-expands-compute-platform-to-silicon-products)
-**Published:** Tue, 24 Mar 2026 17:46:41 +0000
-
-<p>Arm Holdings plc today announced the next evolution of the Arm compute platform, extending into production silicon products for the first time in the company’s history.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/arm-expands-compute-platform-to-silicon-products/">Arm Expands Compute Platform to Silicon Products</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [HKU Engineers Designed and Fabricated Inch-Scale Ultrahard Diamond Wafers with 200 GPa Hardness](https://www.semiconductor-digest.com/hku-engineers-designed-and-fabricated-inch-scale-ultrahard-diamond-wafers-with-200-gpa-hardness/?utm_source=rss&utm_medium=rss&utm_campaign=hku-engineers-designed-and-fabricated-inch-scale-ultrahard-diamond-wafers-with-200-gpa-hardness)
-**Published:** Tue, 24 Mar 2026 17:43:47 +0000
-
-<p>A research team co-led by Professor Yang Lu from the Department of Mechanical Engineering, Faculty of Engineering, The University of Hong Kong (HKU), and Professor Chengming Li from the Institute for Advanced Materials and Technology at University of Science and Technology Beijing (USTB), has successfully fabricated a free-standing ultrahard diamond wafer with a diameter of up to 5 inches, a thickness of 3 mm, and a Vickers hardness exceeding 200 GPa.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hku-engineers-designed-and-fabricated-inch-scale-ultrahard-diamond-wafers-with-200-gpa-hardness/">HKU Engineers Designed and Fabricated Inch-Scale Ultrahard Diamond Wafers with 200 GPa Hardness</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Programmable ‘Smart Stamp’ Transfers Microscopic Chips to Build 3D Circuits](https://www.semiconductor-digest.com/programmable-smart-stamp-transfers-microscopic-chips-to-build-3d-circuits/?utm_source=rss&utm_medium=rss&utm_campaign=programmable-smart-stamp-transfers-microscopic-chips-to-build-3d-circuits)
-**Published:** Tue, 24 Mar 2026 17:39:58 +0000
-
-<p>Scientists have used an array of microscopic heaters and a phase-changing polymer to selectively pick up and place delicate electronic components, ranging from tiny microLEDs to nanometer-thick films.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/programmable-smart-stamp-transfers-microscopic-chips-to-build-3d-circuits/">Programmable &#8216;Smart Stamp&#8217; Transfers Microscopic Chips to Build 3D Circuits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="958" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/MPS-APEC-video-thumbnail.png?fit=1687%2C958" style="display: block; margin-bottom: 5px; clear: both;" width="1687" /><p>If you’re curious about where AI data center power is headed, this conversation with MPS offers a look at the technologies shaping it.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ai-data-center-power-how-mps-is-advancing-system-level-power-delivery/">AI Data Center Power: How MPS Is Advancing System-Level Power Delivery</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -898,27 +906,11 @@ _Last updated: 2026-04-22 15:26 UTC_
 
 ---
 
-## [What Rising Rack Densities Mean for Power Connectors](https://www.powerelectronicsnews.com/what-rising-rack-densities-mean-for-power-connectors/)
-**Published:** Fri, 17 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_192261203.jpeg?fit=5500%2C3000" style="display: block; margin-bottom: 5px; clear: both;" width="5500" /><p>Rising rack power densities are pushing data centers toward liquid cooling and demanding new connector materials.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/what-rising-rack-densities-mean-for-power-connectors/">What Rising Rack Densities Mean for Power Connectors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [The Changing ASICs Landscape: the Shift Toward Chip Disaggregation](https://www.eetimes.com/the-changing-asics-landscape-the-shift-toward-chip-disaggregation/)
 **Published:** Tue, 21 Apr 2026 07:15:47 +0000
 
 <p>ASIC design shifts to modular, multi-die systems to beat AI-driven complexity.</p>
 <p>The post <a href="https://www.eetimes.com/the-changing-asics-landscape-the-shift-toward-chip-disaggregation/">The Changing ASICs Landscape: the Shift Toward Chip Disaggregation</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [EDA AI Agents: Intelligent Automation in Semiconductor & PCB Design](https://www.eetimes.com/eda-ai-agents-intelligent-automation-in-semiconductor-pcb-design/)
-**Published:** Mon, 20 Apr 2026 14:00:00 +0000
-
-<p>From copilots to autonomous agents: discover how EDA AI is transforming semiconductor and PCB design workflows with Siemens’ Fuse EDA AI Agent</p>
-<p>The post <a href="https://www.eetimes.com/eda-ai-agents-intelligent-automation-in-semiconductor-pcb-design/">EDA AI Agents: Intelligent Automation in Semiconductor &amp; PCB Design</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
