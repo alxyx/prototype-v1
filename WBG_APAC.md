@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-23 08:08 UTC_
+_Last updated: 2026-04-23 16:06 UTC_
 
 ## [Synopsys and TSMC Advance AI Design Enablement Across Leading Nodes](https://www.eetasia.com/synopsys-and-tsmc-advance-ai-design-enablement-across-leading-nodes/)
 **Published:** Thu, 23 Apr 2026 02:32:14 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-04-23 08:08 UTC_
 
 <p>DEEPX, Hyundai Robotics LAB partner to develop ultra-low-power Physical AI platform for real-time generative robotics computing.</p>
 <p>The post <a href="https://www.eetasia.com/deepx-hyundai-collaborate-on-physical-ai-compute-platform-for-robotics/">DEEPX, Hyundai Collaborate on Physical AI Compute Platform for Robotics</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Cadence Collaborates with TSMC to Accelerate Design of Next-Generation AI Silicon](https://www.semiconductor-digest.com/cadence-collaborates-with-tsmc-to-accelerate-design-of-next-generation-ai-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-collaborates-with-tsmc-to-accelerate-design-of-next-generation-ai-silicon)
+**Published:** Thu, 23 Apr 2026 15:45:01 +0000
+
+<p>Expanding partnership enables Cadence’s Design for AI and AI for Design strategy across TSMC’s N3, N2, A16 and A14 process nodes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cadence-collaborates-with-tsmc-to-accelerate-design-of-next-generation-ai-silicon/">Cadence Collaborates with TSMC to Accelerate Design of Next-Generation AI Silicon</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Scientists Create Atomically Precise Molecular Chains to Power Next Generation Tech](https://www.semiconductor-digest.com/scientists-create-atomically-precise-molecular-chains-to-power-next-generation-tech/?utm_source=rss&utm_medium=rss&utm_campaign=scientists-create-atomically-precise-molecular-chains-to-power-next-generation-tech)
+**Published:** Thu, 23 Apr 2026 15:41:36 +0000
+
+<p>Scientists have developed a unique way to build electronic components so small they are made from chains of individual molecules - creating a toolbox to help build materials that could power the next generation of technology.  </p>
+<p>The post <a href="https://www.semiconductor-digest.com/scientists-create-atomically-precise-molecular-chains-to-power-next-generation-tech/">Scientists Create Atomically Precise Molecular Chains to Power Next Generation Tech</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Applied Materials Introduces Deposition Systems for Angstrom-Era Logic Chips](https://www.semiconductor-digest.com/applied-materials-introduces-deposition-systems-for-angstrom-era-logic-chips/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-introduces-deposition-systems-for-angstrom-era-logic-chips)
+**Published:** Thu, 23 Apr 2026 15:37:41 +0000
+
+<p>Applied Materials, Inc. today introduced two chipmaking systems designed to create the smallest features in the world’s most advanced logic chips.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-introduces-deposition-systems-for-angstrom-era-logic-chips/">Applied Materials Introduces Deposition Systems for Angstrom-Era Logic Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Omdia Raises 2026 Semiconductor Forecast to 62.7% as AI Drives Global Memory Crunch](https://www.semiconductor-digest.com/omdia-raises-2026-semiconductor-forecast-to-62-7-as-ai-drives-global-memory-crunch/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-raises-2026-semiconductor-forecast-to-62-7-as-ai-drives-global-memory-crunch)
+**Published:** Thu, 23 Apr 2026 15:28:41 +0000
+
+<p>The DRAM market is forecast to nearly double in value, with the smaller NAND segment could quadruple compared to 2025.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-raises-2026-semiconductor-forecast-to-62-7-as-ai-drives-global-memory-crunch/">Omdia Raises 2026 Semiconductor Forecast to 62.7% as AI Drives Global Memory Crunch</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,35 +826,19 @@ _Last updated: 2026-04-23 08:08 UTC_
 
 ---
 
-## [Agileo Automation Launches Agil’EDA to Accelerate SEMI EDA Adoption for Semiconductor Equipment OEMs](https://www.semiconductor-digest.com/agileo-automation-launches-agileda-to-accelerate-semi-eda-adoption-for-semiconductor-equipment-oems/?utm_source=rss&utm_medium=rss&utm_campaign=agileo-automation-launches-agileda-to-accelerate-semi-eda-adoption-for-semiconductor-equipment-oems)
-**Published:** Wed, 25 Mar 2026 20:30:37 +0000
+## [ROHM Enhances EcoSiC Portfolio with Low-Resistance MOSFETs](https://www.powerelectronicsnews.com/rohm-enhances-ecosic-portfolio-with-low-resistance-mosfets/)
+**Published:** Thu, 23 Apr 2026 14:00:00 +0000
 
-<p>Agileo Automation today unveils Agil'EDA, a new software implementing Equipment Data Acquisition (EDA/Interface A).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/agileo-automation-launches-agileda-to-accelerate-semi-eda-adoption-for-semiconductor-equipment-oems/">Agileo Automation Launches Agil&#8217;EDA to Accelerate SEMI EDA Adoption for Semiconductor Equipment OEMs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Preserving Polarization While Boosting Light From Atomically Thin Semiconductors With Silicon Nanospheres](https://www.semiconductor-digest.com/preserving-polarization-while-boosting-light-from-atomically-thin-semiconductors-with-silicon-nanospheres/?utm_source=rss&utm_medium=rss&utm_campaign=preserving-polarization-while-boosting-light-from-atomically-thin-semiconductors-with-silicon-nanospheres)
-**Published:** Wed, 25 Mar 2026 20:18:29 +0000
-
-<p>Mie resonances overcome the dilemma of signal enhancement versus polarization loss in valley-polarized second-harmonic generation.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/preserving-polarization-while-boosting-light-from-atomically-thin-semiconductors-with-silicon-nanospheres/">Preserving Polarization While Boosting Light From Atomically Thin Semiconductors With Silicon Nanospheres</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="ROHM Enhances EcoSiC Portfolio with Low-Resistance MOSFETs." class="webfeedsFeaturedVisual wp-post-image" height="525" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/260421_sic-mosfet_2_e.jpg?fit=579%2C525" style="display: block; margin-bottom: 5px; clear: both;" width="579" /><p>The new SiC MOSFETs reduce losses at high temperatures, improving efficiency for EV inverters, AI servers, and industrial power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/rohm-enhances-ecosic-portfolio-with-low-resistance-mosfets/">ROHM Enhances EcoSiC Portfolio with Low-Resistance MOSFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [‘Spin-Flip’ in Metal Complexes Can Help Solar Cells Leap Beyond Limits](https://www.semiconductor-digest.com/spin-flip-in-metal-complexes-can-help-solar-cells-leap-beyond-limits/?utm_source=rss&utm_medium=rss&utm_campaign=spin-flip-in-metal-complexes-can-help-solar-cells-leap-beyond-limits)
-**Published:** Wed, 25 Mar 2026 20:06:33 +0000
+## [Power Corner: Ventiva CEO on Data Center’s Thermal Orphan Problem](https://www.powerelectronicsnews.com/power-corner-ventiva-ceo-on-data-centers-thermal-orphan-problem/)
+**Published:** Thu, 23 Apr 2026 13:00:00 +0000
 
-<p>Researchers successfully capture singlet-fission–amplified excitons with a molybdenum-based emitter, achieving 130% quantum yield and opening a path beyond solar cell efficiency limits.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/spin-flip-in-metal-complexes-can-help-solar-cells-leap-beyond-limits/">‘Spin-Flip’ in Metal Complexes Can Help Solar Cells Leap Beyond Limits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Hailo Demonstrates Groundbreaking Edge AI Processors for Intelligent Security Systems at ISC West 2026](https://www.semiconductor-digest.com/hailo-demonstrates-groundbreaking-edge-ai-processors-for-intelligent-security-systems-at-isc-west-2026/?utm_source=rss&utm_medium=rss&utm_campaign=hailo-demonstrates-groundbreaking-edge-ai-processors-for-intelligent-security-systems-at-isc-west-2026)
-**Published:** Wed, 25 Mar 2026 19:01:01 +0000
-
-<p>Hailo, the provider of edge AI processors, is demonstrating innovative intelligent security cameras and systems powered by its AI vision processors and AI accelerators at ISC West 2026 at Meeting Room 1007 of the Venetian Expo in Las Vegas, Nevada.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hailo-demonstrates-groundbreaking-edge-ai-processors-for-intelligent-security-systems-at-isc-west-2026/">Hailo Demonstrates Groundbreaking Edge AI Processors for Intelligent Security Systems at ISC West 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1131" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Ventiva-thumbnail.png?fit=1944%2C1131" style="display: block; margin-bottom: 5px; clear: both;" width="1944" /><p>Description In this episode of PEN&#8217;s Power Corner, Aalyia Shaukat sits down with Carl Schlachte, CEO of Ventiva, to explore how electrohydrodynamic (EHD) ionic cooling...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-ventiva-ceo-on-data-centers-thermal-orphan-problem/">Power Corner: Ventiva CEO on Data Center&#8217;s Thermal Orphan Problem</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -890,27 +906,18 @@ _Last updated: 2026-04-23 08:08 UTC_
 
 ---
 
-## [Enphase Scales Commercial Solar with GaN Microinverters](https://www.powerelectronicsnews.com/enphase-scales-commercial-solar-with-gan-microinverters/)
-**Published:** Mon, 20 Apr 2026 13:23:22 +0000
+## [Cyient Semiconductors’ Power Play: How Kinetic Technologies Fits the Puzzle](https://www.eetimes.com/cyient-semiconductors-power-play-how-kinetic-technologies-fits-the-puzzle/)
+**Published:** Thu, 23 Apr 2026 08:19:25 +0000
 
-<img alt="Enphase Scales Commercial Solar with GaN Microinverters." class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/IQ9-3P-277_20-_20Front.png?fit=2160%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="2160" /><p>GaN-based microinverters enable efficient, scalable commercial solar systems with panel-level control and simplified grid integration.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/enphase-scales-commercial-solar-with-gan-microinverters/">Enphase Scales Commercial Solar with GaN Microinverters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [SiC Gen3 Technology, Cooling Solutions for Data Centers, Solid-State Transformers: Power Electronics Week Insights](https://www.powerelectronicsnews.com/sic-gen3-technology-cooling-solutions-for-data-centers-solid-state-transformers-power-electronics-week-insights/)
-**Published:** Fri, 17 Apr 2026 16:52:25 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on SiC Gen3 Technology, Cooling Solutions for Data Centers, and Solid-State Transformers!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/sic-gen3-technology-cooling-solutions-for-data-centers-solid-state-transformers-power-electronics-week-insights/">SiC Gen3 Technology, Cooling Solutions for Data Centers, Solid-State Transformers: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Cyient Semiconductors amps up India's custom silicon game with Kinetic Technologies.</p>
+<p>The post <a href="https://www.eetimes.com/cyient-semiconductors-power-play-how-kinetic-technologies-fits-the-puzzle/">Cyient Semiconductors&#8217; Power Play: How Kinetic Technologies Fits the Puzzle</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
-## [The Changing ASICs Landscape: the Shift Toward Chip Disaggregation](https://www.eetimes.com/the-changing-asics-landscape-the-shift-toward-chip-disaggregation/)
-**Published:** Tue, 21 Apr 2026 07:15:47 +0000
+## [“Nothing Works In Isolation Anymore; Everything Is Connected”- Hareesh Ramanna, Sasken Technologies](https://www.electronicsforu.com/technology-trends/nothing-works-in-isolation-anymore-everything-is-connected-hareesh-ramanna-sasken-technologies)
+**Published:** Thu, 23 Apr 2026 08:28:58 +0000
 
-<p>ASIC design shifts to modular, multi-die systems to beat AI-driven complexity.</p>
-<p>The post <a href="https://www.eetimes.com/the-changing-asics-landscape-the-shift-toward-chip-disaggregation/">The Changing ASICs Landscape: the Shift Toward Chip Disaggregation</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<img alt="Hareesh Ramanna, CXO, Sasken Technologies and President, Borqs Technologies (Sasken Group), India" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Hareesh-Ramanna-CXO-Sasken-Technologies-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From design in India to scale for the world, Hareesh Ramana of Sasken Technologies and Borqs Technologies reveals how AI is reshaping IoT innovation to Akanksha Sondhi Gaur and Saba Aafreen from EFY. Q. What has shaped your journey to Sasken? A. I began my career in 1984 in defence electronics, working on fighter aircraft [&#8230;]
 
 ---
 
@@ -925,20 +932,6 @@ _Last updated: 2026-04-23 08:08 UTC_
 **Published:** Thu, 23 Apr 2026 05:54:39 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/2024326mst_0655_img_w1600-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Silicon carbide chips promise performance, energy loss reduction, and electric vehicle range, with production scaling as demand for EV technology rises. Bosch has started shipping samples of its third-generation silicon carbide (SiC) chips to automakers worldwide, paving the way for more efficient electric vehicles (EVs) in the near future. The new chips are expected to [&#8230;]
-
----
-
-## [AI tools step into chip design to cut complexity](https://www.electronicsforu.com/news/ai-tools-step-into-chip-design-to-cut-complexity)
-**Published:** Thu, 23 Apr 2026 05:45:30 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Screenshot-2026-04-23-111441-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New EDA approach uses generative and agentic AI to speed semiconductor and PCB development Artificial intelligence is moving deeper into semiconductor design, with a new electronic design automation (EDA) solution aiming to simplify chip development while accelerating time-to-market. The latest system by Agileo Automation integrates generative and agentic AI directly into chip and PCB design [&#8230;]
-
----
-
-## [JOB: Component Engineer Semiconductors At HPE In Bengaluru](https://www.electronicsforu.com/career/component-engineer-semiconductors-hpe-bengaluru)
-**Published:** Thu, 23 Apr 2026 05:36:46 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/hpe-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: HPE Component Engineering position requiring both technical and operational experience in support of our component supplier Product Change, Product Discontinuance and Materials Compliance Processes. Candidate need to have good experience and technical knowledge on Electronic components – specifications, characteristics, applications etc. What You&#8217;ll Do What You Need To Bring
 
 ---
 
