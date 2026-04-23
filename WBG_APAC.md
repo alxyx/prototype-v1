@@ -1,28 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-22 23:59 UTC_
+_Last updated: 2026-04-23 08:08 UTC_
+
+## [Synopsys and TSMC Advance AI Design Enablement Across Leading Nodes](https://www.eetasia.com/synopsys-and-tsmc-advance-ai-design-enablement-across-leading-nodes/)
+**Published:** Thu, 23 Apr 2026 02:32:14 +0000
+
+<p>Synopsys and TSMC are expanding AI-driven EDA, IP, and multiphysics design enablement across advanced semiconductor nodes and packaging technologies.</p>
+<p>The post <a href="https://www.eetasia.com/synopsys-and-tsmc-advance-ai-design-enablement-across-leading-nodes/">Synopsys and TSMC Advance AI Design Enablement Across Leading Nodes</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [yieldWerx Expands Taiwan Presence Through Enlight Technology Collaboration](https://www.eetasia.com/yieldwerx-expands-taiwan-presence-through-enlight-technology-collaboration/)
+**Published:** Thu, 23 Apr 2026 02:24:35 +0000
+
+<p>yieldWerx partners Enlight Technology to deliver localized data-driven yield analytics across Taiwan's semiconductor ecosystem.</p>
+<p>The post <a href="https://www.eetasia.com/yieldwerx-expands-taiwan-presence-through-enlight-technology-collaboration/">yieldWerx Expands Taiwan Presence Through Enlight Technology Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [DEEPX, Hyundai Collaborate on Physical AI Compute Platform for Robotics](https://www.eetasia.com/deepx-hyundai-collaborate-on-physical-ai-compute-platform-for-robotics/)
 **Published:** Wed, 22 Apr 2026 02:51:19 +0000
 
 <p>DEEPX, Hyundai Robotics LAB partner to develop ultra-low-power Physical AI platform for real-time generative robotics computing.</p>
 <p>The post <a href="https://www.eetasia.com/deepx-hyundai-collaborate-on-physical-ai-compute-platform-for-robotics/">DEEPX, Hyundai Collaborate on Physical AI Compute Platform for Robotics</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Nordic SoC Powers Holyiot Smart Badges](https://www.eetasia.com/nordic-soc-powers-holyiot-smart-badges/)
-**Published:** Tue, 21 Apr 2026 02:56:44 +0000
-
-<p>Holyiot has integrated Nordic Semiconductor’s nRF54L15 SoC into its Bluetooth LE-powered ‘e-ink’ smart badge.</p>
-<p>The post <a href="https://www.eetasia.com/nordic-soc-powers-holyiot-smart-badges/">Nordic SoC Powers Holyiot Smart Badges</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Infineon Retains Top Automotive Chip Supplier Position for 6th Consecutive Year](https://www.eetasia.com/infineon-retains-top-automotive-chip-supplier-position-for-6th-consecutive-year/)
-**Published:** Tue, 21 Apr 2026 02:17:14 +0000
-
-<p>Infineon leads the automotive semiconductor market in 2025, extending its dominance across regions and MCU segment growth globally.</p>
-<p>The post <a href="https://www.eetasia.com/infineon-retains-top-automotive-chip-supplier-position-for-6th-consecutive-year/">Infineon Retains Top Automotive Chip Supplier Position for 6th Consecutive Year</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -914,31 +914,31 @@ _Last updated: 2026-04-22 23:59 UTC_
 
 ---
 
-## [JOB: Verification IP Engineer At Truechip In Bengaluru](https://www.electronicsforu.com/career/verification-ip-engineer-truechip-bengaluru)
-**Published:** Wed, 22 Apr 2026 10:22:53 +0000
+## [ASIC Physical Design /STA Intern At DesignNex In Noida](https://www.electronicsforu.com/career/%f0%9d%97%94%f0%9d%97%a6%f0%9d%97%9c%f0%9d%97%96-%f0%9d%97%a3%f0%9d%97%b5%f0%9d%98%86%f0%9d%98%80%f0%9d%97%b6%f0%9d%97%b0%f0%9d%97%ae%f0%9d%97%b9-%f0%9d%97%97%f0%9d%97%b2%f0%9d%98%80%f0%9d%97%b6)
+**Published:** Thu, 23 Apr 2026 07:22:02 +0000
 
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Truechip Job Description We are looking for skilled Verification IP Engineers with strong experience in SystemVerilog and UVM to work on protocol-based verification and VIP development. Key Responsibilities Required Skills Good to Have Education Bachelor’s or Master’s degree in Electronics, Computer Science, or related field How to Apply [&#8230;]
-
----
-
-## [JOB: Electronics Hardware Engineer At   Capgemini In Coimbatore](https://www.electronicsforu.com/career/electronics-hardware-engineer-capgemini-coimbatore)
-**Published:** Wed, 22 Apr 2026 09:36:55 +0000
-
-<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Coimbatore Company: Capgemini Job Description This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic Programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs) printed circuit boards (PCBs) and electronic systems; and developing and designing methods of using electrical power and electronic [&#8230;]
+<img alt="Embedded Application Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/Job-Opportunities-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: DesignNex About the Role DesignNex is looking for highly motivated interns to join the Physical Design (PD) team. This internship provides a hands-on learning experience in semiconductor backend design, allowing you to work on industry-grade ASIC design flows using leading EDA tools. Exceptional performers may receive full-time offers post-internship. Key [&#8230;]
 
 ---
 
-## [Flexible NFC Tags Enable Low Carbon Smart Packaging](https://www.electronicsforu.com/news/flexible-nfc-tags-enable-low-carbon-smart-packaging)
-**Published:** Wed, 22 Apr 2026 08:31:15 +0000
+## [SiC Chips Could Make EVs More Efficient](https://www.electronicsforu.com/news/sic-chips-could-make-evs-more-efficient)
+**Published:** Thu, 23 Apr 2026 05:54:39 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Pragmatic_x_Tageos_Logo-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if packaging could connect without adding bulk? These NFC tags can enable scalable, low carbon digital interaction across everyday products and retail environments. Tageos has launched new FlexIC based RFID and NFC product lines, EOS Lite and EOS Zero Lite, developed in partnership with Pragmatic Semiconductor to enable low carbon, scalable item level connectivity [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/2024326mst_0655_img_w1600-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Silicon carbide chips promise performance, energy loss reduction, and electric vehicle range, with production scaling as demand for EV technology rises. Bosch has started shipping samples of its third-generation silicon carbide (SiC) chips to automakers worldwide, paving the way for more efficient electric vehicles (EVs) in the near future. The new chips are expected to [&#8230;]
 
 ---
 
-## [An Indian startup is building humanoid robot brain from scratch](https://www.electronicsforu.com/news/an-indian-startup-is-building-humanoid-robot-brain-from-scratch)
-**Published:** Wed, 22 Apr 2026 08:24:29 +0000
+## [AI tools step into chip design to cut complexity](https://www.electronicsforu.com/news/ai-tools-step-into-chip-design-to-cut-complexity)
+**Published:** Thu, 23 Apr 2026 05:45:30 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/1771686281999-1-1-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An Indian startup is developing an in-house VLA system for humanoids, aiming to move robots from simple prompts to real-world task execution. As physical AI shifts from screens to real-world machines, IHUB Robotics, an Indian startup company who builds humanoid robots is developing its own vision-language-action (VLA) system from scratch to power humanoid robots developed [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Screenshot-2026-04-23-111441-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New EDA approach uses generative and agentic AI to speed semiconductor and PCB development Artificial intelligence is moving deeper into semiconductor design, with a new electronic design automation (EDA) solution aiming to simplify chip development while accelerating time-to-market. The latest system by Agileo Automation integrates generative and agentic AI directly into chip and PCB design [&#8230;]
+
+---
+
+## [JOB: Component Engineer Semiconductors At HPE In Bengaluru](https://www.electronicsforu.com/career/component-engineer-semiconductors-hpe-bengaluru)
+**Published:** Thu, 23 Apr 2026 05:36:46 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/02/hpe-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: HPE Component Engineering position requiring both technical and operational experience in support of our component supplier Product Change, Product Discontinuance and Materials Compliance Processes. Candidate need to have good experience and technical knowledge on Electronic components – specifications, characteristics, applications etc. What You&#8217;ll Do What You Need To Bring
 
 ---
 
