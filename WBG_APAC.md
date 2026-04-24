@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-24 05:48 UTC_
+_Last updated: 2026-04-24 08:17 UTC_
 
 ## [Synopsys and TSMC Advance AI Design Enablement Across Leading Nodes](https://www.eetasia.com/synopsys-and-tsmc-advance-ai-design-enablement-across-leading-nodes/)
 **Published:** Thu, 23 Apr 2026 02:32:14 +0000
@@ -898,6 +898,14 @@ _Last updated: 2026-04-24 05:48 UTC_
 
 ---
 
+## [What Hormuz Exposed About Our Semiconductor Supply Chain](https://www.eetimes.com/what-hormuz-exposed-about-our-semiconductor-supply-chain/)
+**Published:** Fri, 24 Apr 2026 08:00:00 +0000
+
+<p>The semiconductor industry is facing a reckoning it has postponed for years. </p>
+<p>The post <a href="https://www.eetimes.com/what-hormuz-exposed-about-our-semiconductor-supply-chain/">What Hormuz Exposed About Our Semiconductor Supply Chain</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Cyient Semiconductors’ Power Play: How Kinetic Technologies Fits the Puzzle](https://www.eetimes.com/cyient-semiconductors-power-play-how-kinetic-technologies-fits-the-puzzle/)
 **Published:** Thu, 23 Apr 2026 08:19:25 +0000
 
@@ -906,24 +914,17 @@ _Last updated: 2026-04-24 05:48 UTC_
 
 ---
 
+## [Human-Like Touch Advances Robotic Hands](https://www.electronicsforu.com/news/human-like-touch-advances-robotic-hands)
+**Published:** Fri, 24 Apr 2026 06:25:49 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/np-new-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New 3D tactile sensing modules bring human-like touch to robotic hands, enabling precise force detection, adaptive grip, and real-time interaction for next-generation intelligent automation systems. A new generation of tactile sensing technology is pushing robotic hands closer to human-like dexterity, addressing one of robotics’ long-standing limitations—the ability to “feel” and respond to physical interaction in [&#8230;]
+
+---
+
 ## [JOB: PCB Designer At Powertec Supplies In Noida](https://www.electronicsforu.com/career/pcb-designer-powertec-supplies-noida)
 **Published:** Fri, 24 Apr 2026 05:46:58 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/powertec-supplies-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: Powertec Supplies Qualification Diploma / B.E. / B.Tech in Electronics &#38; Communication with a minimum of 3+ years of experience (preferably in Power Electronics). Key Responsibilities Skills &#38; Requirements
-
----
-
-## [Indoor tracking system for factories](https://www.electronicsforu.com/special/indoor-tracking-system-for-factories)
-**Published:** Fri, 24 Apr 2026 05:12:27 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/NW-NXP-ADVANCES-REAL-TIME-INDUSTRIAL-OG-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new platform aims to reduce RTLS complexity, avoid vendor lock-in, and speed deployment of indoor positioning systems in industrial environments. NXP Semiconductors has introduced a new omlox Starter Kit designed to make it much easier to deploy real-time location systems (RTLS) in industrial environments. Built with partners SynchronicIT and Flowcate, the kit combines hardware [&#8230;]
-
----
-
-## [“Nothing Works In Isolation Anymore; Everything Is Connected”- Hareesh Ramanna, Sasken Technologies](https://www.electronicsforu.com/technology-trends/nothing-works-in-isolation-anymore-everything-is-connected-hareesh-ramanna-sasken-technologies)
-**Published:** Thu, 23 Apr 2026 08:28:58 +0000
-
-<img alt="Hareesh Ramanna, CXO, Sasken Technologies and President, Borqs Technologies (Sasken Group), India" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Hareesh-Ramanna-CXO-Sasken-Technologies-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From design in India to scale for the world, Hareesh Ramana of Sasken Technologies and Borqs Technologies reveals how AI is reshaping IoT innovation to Akanksha Sondhi Gaur and Saba Aafreen from EFY. Q. What has shaped your journey to Sasken? A. I began my career in 1984 in defence electronics, working on fighter aircraft [&#8230;]
 
 ---
 
