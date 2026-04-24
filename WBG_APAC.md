@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-24 08:17 UTC_
+_Last updated: 2026-04-24 14:00 UTC_
 
 ## [Synopsys and TSMC Advance AI Design Enablement Across Leading Nodes](https://www.eetasia.com/synopsys-and-tsmc-advance-ai-design-enablement-across-leading-nodes/)
 **Published:** Thu, 23 Apr 2026 02:32:14 +0000
@@ -15,6 +15,14 @@ _Last updated: 2026-04-24 08:17 UTC_
 
 <p>yieldWerx partners Enlight Technology to deliver localized data-driven yield analytics across Taiwan's semiconductor ecosystem.</p>
 <p>The post <a href="https://www.eetasia.com/yieldwerx-expands-taiwan-presence-through-enlight-technology-collaboration/">yieldWerx Expands Taiwan Presence Through Enlight Technology Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Why “Enough” May Not Be Enough](https://www.semiconductor-digest.com/why-enough-may-not-be-enough/?utm_source=rss&utm_medium=rss&utm_campaign=why-enough-may-not-be-enough)
+**Published:** Fri, 24 Apr 2026 13:18:20 +0000
+
+<p>As semiconductor manufacturers expand production and accelerate efforts to reduce their environmental footprint, greenhouse gas (GHG) abatement performance is no longer just a compliance requirement but an increasingly strategic lever in meeting net-zero commitments. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/why-enough-may-not-be-enough/">Why “Enough” May Not Be Enough</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,11 +818,19 @@ _Last updated: 2026-04-24 08:17 UTC_
 
 ---
 
-## [SEMICON China 2026 to Highlight Strategic Opportunities in the Era of AI and Trillion-Dollar Market Growth](https://www.semiconductor-digest.com/semicon-china-2026-to-highlight-strategic-opportunities-in-the-era-of-ai-and-trillion-dollar-market-growth/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-china-2026-to-highlight-strategic-opportunities-in-the-era-of-ai-and-trillion-dollar-market-growth)
-**Published:** Wed, 25 Mar 2026 21:00:45 +0000
+## [D-Mode GaN Bidirectional Switches Reshape Power Conversion Topologies](https://www.powerelectronicsnews.com/d-mode-gan-bidirectional-switches-reshape-power-conversion-topologies/)
+**Published:** Fri, 24 Apr 2026 13:00:00 +0000
 
-<p>SEMICON China 2026, co-located with FPD China 2026, will gather industry visionaries and leaders from March 25-27 at the Shanghai New International Expo Centre to delve into the latest developments, trends, and innovations in key areas crucial for propelling the semiconductor industry toward $1 trillion in 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semicon-china-2026-to-highlight-strategic-opportunities-in-the-era-of-ai-and-trillion-dollar-market-growth/">SEMICON China 2026 to Highlight Strategic Opportunities in the Era of AI and Trillion-Dollar Market Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="827" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image_8c87e6.png?fit=948%2C827" style="display: block; margin-bottom: 5px; clear: both;" width="948" /><p>Renesas introduces a D-mode GaN bidirectional switch that simplifies topologies for EV, solar, and data center applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/d-mode-gan-bidirectional-switches-reshape-power-conversion-topologies/">D-Mode GaN Bidirectional Switches Reshape Power Conversion Topologies</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Vishay Expands Power DFN Portfolio with Ultrafast Rectifiers](https://www.powerelectronicsnews.com/vishay-expands-power-dfn-portfolio-with-ultrafast-rectifiers/)
+**Published:** Fri, 24 Apr 2026 13:00:00 +0000
+
+<img alt="Vishay Expands Power DFN Portfolio with Ultrafast Rectifiers." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/55195458959_8a5bf1a63c_o.jpg?fit=1800%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1800" /><p>Low-profile rectifiers deliver up to 15 A with fast recovery and improved thermal performance for automotive and power applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-expands-power-dfn-portfolio-with-ultrafast-rectifiers/">Vishay Expands Power DFN Portfolio with Ultrafast Rectifiers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,22 +898,6 @@ _Last updated: 2026-04-24 08:17 UTC_
 
 ---
 
-## [GaN breaks the 250 W barrier in flyback power supplies](https://www.powerelectronicsnews.com/gan-breaks-the-250-w-barrier-in-flyback-power-supplies/)
-**Published:** Mon, 20 Apr 2026 14:40:08 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1075" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image_fd7655.jpeg?fit=2048%2C1075" style="display: block; margin-bottom: 5px; clear: both;" width="2048" /><p>Power Integrations brings GaN to its 3-billion-unit TOPSwitch family, extending flyback power limits to 440 W.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/gan-breaks-the-250-w-barrier-in-flyback-power-supplies/">GaN breaks the 250 W barrier in flyback power supplies</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TDK Expands EMI Filter Portfolio with 1250 V DC Chokes](https://www.powerelectronicsnews.com/tdk-expands-emi-filter-portfolio-with-1250-v-dc-chokes/)
-**Published:** Mon, 20 Apr 2026 14:00:00 +0000
-
-<img alt="TDK Expands EMI Filter Portfolio with 1250 V DC Chokes." class="webfeedsFeaturedVisual wp-post-image" height="1600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/bild-press-download-en-data.jpg?fit=2400%2C1600" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new chokes support 1250 V DC designs with compact size, high insulation, and improved EMI suppression for modern power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tdk-expands-emi-filter-portfolio-with-1250-v-dc-chokes/">TDK Expands EMI Filter Portfolio with 1250 V DC Chokes</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [What Hormuz Exposed About Our Semiconductor Supply Chain](https://www.eetimes.com/what-hormuz-exposed-about-our-semiconductor-supply-chain/)
 **Published:** Fri, 24 Apr 2026 08:00:00 +0000
 
@@ -918,13 +918,6 @@ _Last updated: 2026-04-24 08:17 UTC_
 **Published:** Fri, 24 Apr 2026 06:25:49 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/np-new-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New 3D tactile sensing modules bring human-like touch to robotic hands, enabling precise force detection, adaptive grip, and real-time interaction for next-generation intelligent automation systems. A new generation of tactile sensing technology is pushing robotic hands closer to human-like dexterity, addressing one of robotics’ long-standing limitations—the ability to “feel” and respond to physical interaction in [&#8230;]
-
----
-
-## [JOB: PCB Designer At Powertec Supplies In Noida](https://www.electronicsforu.com/career/pcb-designer-powertec-supplies-noida)
-**Published:** Fri, 24 Apr 2026 05:46:58 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/powertec-supplies-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: Powertec Supplies Qualification Diploma / B.E. / B.Tech in Electronics &#38; Communication with a minimum of 3+ years of experience (preferably in Power Electronics). Key Responsibilities Skills &#38; Requirements
 
 ---
 
