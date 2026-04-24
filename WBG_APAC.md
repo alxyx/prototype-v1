@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-23 22:59 UTC_
+_Last updated: 2026-04-24 05:48 UTC_
 
 ## [Synopsys and TSMC Advance AI Design Enablement Across Leading Nodes](https://www.eetasia.com/synopsys-and-tsmc-advance-ai-design-enablement-across-leading-nodes/)
 **Published:** Thu, 23 Apr 2026 02:32:14 +0000
@@ -15,14 +15,6 @@ _Last updated: 2026-04-23 22:59 UTC_
 
 <p>yieldWerx partners Enlight Technology to deliver localized data-driven yield analytics across Taiwan's semiconductor ecosystem.</p>
 <p>The post <a href="https://www.eetasia.com/yieldwerx-expands-taiwan-presence-through-enlight-technology-collaboration/">yieldWerx Expands Taiwan Presence Through Enlight Technology Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [DEEPX, Hyundai Collaborate on Physical AI Compute Platform for Robotics](https://www.eetasia.com/deepx-hyundai-collaborate-on-physical-ai-compute-platform-for-robotics/)
-**Published:** Wed, 22 Apr 2026 02:51:19 +0000
-
-<p>DEEPX, Hyundai Robotics LAB partner to develop ultra-low-power Physical AI platform for real-time generative robotics computing.</p>
-<p>The post <a href="https://www.eetasia.com/deepx-hyundai-collaborate-on-physical-ai-compute-platform-for-robotics/">DEEPX, Hyundai Collaborate on Physical AI Compute Platform for Robotics</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -914,24 +906,24 @@ _Last updated: 2026-04-23 22:59 UTC_
 
 ---
 
+## [JOB: PCB Designer At Powertec Supplies In Noida](https://www.electronicsforu.com/career/pcb-designer-powertec-supplies-noida)
+**Published:** Fri, 24 Apr 2026 05:46:58 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/powertec-supplies-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: Powertec Supplies Qualification Diploma / B.E. / B.Tech in Electronics &#38; Communication with a minimum of 3+ years of experience (preferably in Power Electronics). Key Responsibilities Skills &#38; Requirements
+
+---
+
+## [Indoor tracking system for factories](https://www.electronicsforu.com/special/indoor-tracking-system-for-factories)
+**Published:** Fri, 24 Apr 2026 05:12:27 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/NW-NXP-ADVANCES-REAL-TIME-INDUSTRIAL-OG-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new platform aims to reduce RTLS complexity, avoid vendor lock-in, and speed deployment of indoor positioning systems in industrial environments. NXP Semiconductors has introduced a new omlox Starter Kit designed to make it much easier to deploy real-time location systems (RTLS) in industrial environments. Built with partners SynchronicIT and Flowcate, the kit combines hardware [&#8230;]
+
+---
+
 ## [“Nothing Works In Isolation Anymore; Everything Is Connected”- Hareesh Ramanna, Sasken Technologies](https://www.electronicsforu.com/technology-trends/nothing-works-in-isolation-anymore-everything-is-connected-hareesh-ramanna-sasken-technologies)
 **Published:** Thu, 23 Apr 2026 08:28:58 +0000
 
 <img alt="Hareesh Ramanna, CXO, Sasken Technologies and President, Borqs Technologies (Sasken Group), India" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Hareesh-Ramanna-CXO-Sasken-Technologies-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From design in India to scale for the world, Hareesh Ramana of Sasken Technologies and Borqs Technologies reveals how AI is reshaping IoT innovation to Akanksha Sondhi Gaur and Saba Aafreen from EFY. Q. What has shaped your journey to Sasken? A. I began my career in 1984 in defence electronics, working on fighter aircraft [&#8230;]
-
----
-
-## [ASIC Physical Design /STA Intern At DesignNex In Noida](https://www.electronicsforu.com/career/%f0%9d%97%94%f0%9d%97%a6%f0%9d%97%9c%f0%9d%97%96-%f0%9d%97%a3%f0%9d%97%b5%f0%9d%98%86%f0%9d%98%80%f0%9d%97%b6%f0%9d%97%b0%f0%9d%97%ae%f0%9d%97%b9-%f0%9d%97%97%f0%9d%97%b2%f0%9d%98%80%f0%9d%97%b6)
-**Published:** Thu, 23 Apr 2026 07:22:02 +0000
-
-<img alt="Embedded Application Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/Job-Opportunities-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: DesignNex About the Role DesignNex is looking for highly motivated interns to join the Physical Design (PD) team. This internship provides a hands-on learning experience in semiconductor backend design, allowing you to work on industry-grade ASIC design flows using leading EDA tools. Exceptional performers may receive full-time offers post-internship. Key [&#8230;]
-
----
-
-## [SiC Chips Could Make EVs More Efficient](https://www.electronicsforu.com/news/sic-chips-could-make-evs-more-efficient)
-**Published:** Thu, 23 Apr 2026 05:54:39 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/2024326mst_0655_img_w1600-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Silicon carbide chips promise performance, energy loss reduction, and electric vehicle range, with production scaling as demand for EV technology rises. Bosch has started shipping samples of its third-generation silicon carbide (SiC) chips to automakers worldwide, paving the way for more efficient electric vehicles (EVs) in the near future. The new chips are expected to [&#8230;]
 
 ---
 
