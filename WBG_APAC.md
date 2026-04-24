@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-24 19:06 UTC_
+_Last updated: 2026-04-24 20:06 UTC_
 
 ## [Synopsys and TSMC Advance AI Design Enablement Across Leading Nodes](https://www.eetasia.com/synopsys-and-tsmc-advance-ai-design-enablement-across-leading-nodes/)
 **Published:** Thu, 23 Apr 2026 02:32:14 +0000
