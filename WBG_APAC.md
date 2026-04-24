@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-24 14:00 UTC_
+_Last updated: 2026-04-24 19:06 UTC_
 
 ## [Synopsys and TSMC Advance AI Design Enablement Across Leading Nodes](https://www.eetasia.com/synopsys-and-tsmc-advance-ai-design-enablement-across-leading-nodes/)
 **Published:** Thu, 23 Apr 2026 02:32:14 +0000
@@ -15,6 +15,38 @@ _Last updated: 2026-04-24 14:00 UTC_
 
 <p>yieldWerx partners Enlight Technology to deliver localized data-driven yield analytics across Taiwan's semiconductor ecosystem.</p>
 <p>The post <a href="https://www.eetasia.com/yieldwerx-expands-taiwan-presence-through-enlight-technology-collaboration/">yieldWerx Expands Taiwan Presence Through Enlight Technology Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [How the Quantum Computing Threat Will Reinforce Already Growing Security Needs](https://www.semiconductor-digest.com/how-the-quantum-computing-threat-will-reinforce-already-growing-security-needs/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-quantum-computing-threat-will-reinforce-already-growing-security-needs)
+**Published:** Fri, 24 Apr 2026 14:26:08 +0000
+
+<p>A sufficiently powerful quantum computer could break RSA using Shor’s algorithm, a mathematically proven method for factoring large integers. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/how-the-quantum-computing-threat-will-reinforce-already-growing-security-needs/">How the Quantum Computing Threat Will Reinforce Already Growing Security Needs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Why a Semiconductor Crisis Could Push the Public Sector to the Brink](https://www.semiconductor-digest.com/why-a-semiconductor-crisis-could-push-the-public-sector-to-the-brink/?utm_source=rss&utm_medium=rss&utm_campaign=why-a-semiconductor-crisis-could-push-the-public-sector-to-the-brink)
+**Published:** Fri, 24 Apr 2026 14:19:45 +0000
+
+<p>A potential scarcity of semiconductors is seen as a disaster, especially from a consumer technology perspective. In reality, their absence threatens public-sector continuity with alarming gravity.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/why-a-semiconductor-crisis-could-push-the-public-sector-to-the-brink/">Why a Semiconductor Crisis Could Push the Public Sector to the Brink</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Semiconductor Growth Will Stall Without a Real Talent Strategy](https://www.semiconductor-digest.com/semiconductor-growth-will-stall-without-a-real-talent-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-growth-will-stall-without-a-real-talent-strategy)
+**Published:** Fri, 24 Apr 2026 14:14:45 +0000
+
+<p>The demand for semiconductor engineers and specialized technical professionals is rising sharply — and in many organizations, it is rising faster than training pipelines and hiring systems can support.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-growth-will-stall-without-a-real-talent-strategy/">Semiconductor Growth Will Stall Without a Real Talent Strategy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Five AI and Semiconductor Trends to Watch](https://www.semiconductor-digest.com/five-ai-and-semiconductor-trends-to-watch/?utm_source=rss&utm_medium=rss&utm_campaign=five-ai-and-semiconductor-trends-to-watch)
+**Published:** Fri, 24 Apr 2026 14:10:33 +0000
+
+<p>Demand for new processors is driven by maturing AI workloads, geopolitics, and increased competition among key players.  </p>
+<p>The post <a href="https://www.semiconductor-digest.com/five-ai-and-semiconductor-trends-to-watch/">Five AI and Semiconductor Trends to Watch</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -786,35 +818,11 @@ _Last updated: 2026-04-24 14:00 UTC_
 
 ---
 
-## [Imec Receives the World’s Most Advanced High NA EUV System](https://www.semiconductor-digest.com/imec-receives-the-worlds-most-advanced-high-na-euv-system/?utm_source=rss&utm_medium=rss&utm_campaign=imec-receives-the-worlds-most-advanced-high-na-euv-system)
-**Published:** Thu, 26 Mar 2026 18:56:07 +0000
+## [Hybrid eVTOL Power Drives, GaN Bidirectional Switches, Stabilized Power Supply in QSPICE: Power Electronics Week Insights](https://www.powerelectronicsnews.com/hybrid-evtol-power-drives-gan-bidirectional-switches-stabilized-power-supply-in-qspice-power-electronics-week-insights/)
+**Published:** Fri, 24 Apr 2026 14:11:49 +0000
 
-<p>imec announces the arrival of the ASML EXE:5200 High NA EUV lithography system, the most advanced lithography tool available today.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/imec-receives-the-worlds-most-advanced-high-na-euv-system/">Imec Receives the World&#8217;s Most Advanced High NA EUV System</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nota AI and SiMa.ai Sign Strategic Partnership for Physical AI Technology Collaboration](https://www.semiconductor-digest.com/nota-ai-and-sima-ai-sign-strategic-partnership-for-physical-ai-technology-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=nota-ai-and-sima-ai-sign-strategic-partnership-for-physical-ai-technology-collaboration)
-**Published:** Thu, 26 Mar 2026 18:48:16 +0000
-
-<p>Nota AI, an AI model compression and optimization company, and SiMa.ai, a physical AI company, today announced a strategic partnership to expand their presence in the physical AI market. The signing ceremony took place at SiMa.ai's headquarters in San Jose, California.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nota-ai-and-sima-ai-sign-strategic-partnership-for-physical-ai-technology-collaboration/">Nota AI and SiMa.ai Sign Strategic Partnership for Physical AI Technology Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New Chip Technology at Argonne Enables Real-Time Insights From Scientific Data](https://www.semiconductor-digest.com/new-chip-technology-at-argonne-enables-real-time-insights-from-scientific-data/?utm_source=rss&utm_medium=rss&utm_campaign=new-chip-technology-at-argonne-enables-real-time-insights-from-scientific-data)
-**Published:** Thu, 26 Mar 2026 18:38:42 +0000
-
-<p>Every second, scientific experiments produce a flood of data — so much that transmitting and analyzing it can slow down even the most advanced research</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-chip-technology-at-argonne-enables-real-time-insights-from-scientific-data/">New Chip Technology at Argonne Enables Real-Time Insights From Scientific Data</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lumentum Announces New U.S. Manufacturing Facility to Produce Advanced Lasers for the World’s Largest AI Data Centers](https://www.semiconductor-digest.com/lumentum-announces-new-u-s-manufacturing-facility-to-produce-advanced-lasers-for-the-worlds-largest-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=lumentum-announces-new-u-s-manufacturing-facility-to-produce-advanced-lasers-for-the-worlds-largest-ai-data-centers)
-**Published:** Thu, 26 Mar 2026 18:32:33 +0000
-
-<p>North Carolina site expands domestic production of Indium Phosphide (InP) devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lumentum-announces-new-u-s-manufacturing-facility-to-produce-advanced-lasers-for-the-worlds-largest-ai-data-centers/">Lumentum Announces New U.S. Manufacturing Facility to Produce Advanced Lasers for the World’s Largest AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Hybrid eVTOL power drives, GaN Bidirectional Switches, and Stabilized Power Supply in QSPICE!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/hybrid-evtol-power-drives-gan-bidirectional-switches-stabilized-power-supply-in-qspice-power-electronics-week-insights/">Hybrid eVTOL Power Drives, GaN Bidirectional Switches, Stabilized Power Supply in QSPICE: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -887,14 +895,6 @@ _Last updated: 2026-04-24 14:00 UTC_
 
 <img alt="Vishay Introduces 1212 IHLP Inductor for Compact Power Systems." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/55195646840_8973efba38_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The 1212 inductor delivers up to 14.3 A, low DCR, and compact size for efficient DC/DC conversion in space-constrained systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/vishay-introduces-1212-ihlp-inductor-for-compact-power-systems/">Vishay Introduces 1212 IHLP Inductor for Compact Power Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Hybrid eVTOL Aircraft Power Drive Using GaN-based Flying Capacitor Converter](https://www.powerelectronicsnews.com/hybrid-evtol-aircraft-power-drive-using-gan-based-flying-capacitor-converter/)
-**Published:** Tue, 21 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5120" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_1540873889.jpeg?fit=3328%2C5120" style="display: block; margin-bottom: 5px; clear: both;" width="3328" /><p>For hybrid eVTOL power drives, a three-level GaN flying capacitor converter proves lightest and most efficient.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/hybrid-evtol-aircraft-power-drive-using-gan-based-flying-capacitor-converter/">Hybrid eVTOL Aircraft Power Drive Using GaN-based Flying Capacitor Converter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
