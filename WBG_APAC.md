@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-27 19:35 UTC_
+_Last updated: 2026-04-27 21:15 UTC_
 
 ## [Omdia Raises 2026 Semiconductor Revenue Growth Forecast](https://www.eetasia.com/omdia-raises-2026-semiconductor-revenue-growth-forecast/)
 **Published:** Mon, 27 Apr 2026 02:25:14 +0000
@@ -15,6 +15,22 @@ _Last updated: 2026-04-27 19:35 UTC_
 
 <p>MZT will lead the R&#38;D work toward social implementation through ASIC development and productization.</p>
 <p>The post <a href="https://www.eetasia.com/mzt-joins-jsts-next-gen-edge-ai-semiconductor-rd-program/">MZT Joins JST&#8217;s Next-gen Edge AI Semiconductor R&amp;D Program</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMIEXPO Heartland 2026 Spotlights Innovation in Next-Generation Automotive Electronics and Smart Manufacturing](https://www.semiconductor-digest.com/semiexpo-heartland-2026-spotlights-innovation-in-next-generation-automotive-electronics-and-smart-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=semiexpo-heartland-2026-spotlights-innovation-in-next-generation-automotive-electronics-and-smart-manufacturing)
+**Published:** Mon, 27 Apr 2026 20:32:10 +0000
+
+<p>The second edition of SEMIEXPO Heartland opens this week, April 29-30 at the Detroit Marriot at the Renaissance Center in Detroit, Michigan, centered around smart manufacturing, automotive electronics, and workforce development.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiexpo-heartland-2026-spotlights-innovation-in-next-generation-automotive-electronics-and-smart-manufacturing/">SEMIEXPO Heartland 2026 Spotlights Innovation in Next-Generation Automotive Electronics and Smart Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ACM Research Ships First PECVD SiCN System for Advanced Semiconductor Applications](https://www.semiconductor-digest.com/acm-research-ships-first-pecvd-sicn-system-for-advanced-semiconductor-applications/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-ships-first-pecvd-sicn-system-for-advanced-semiconductor-applications)
+**Published:** Mon, 27 Apr 2026 20:16:11 +0000
+
+<p>Proprietary three-station rotating deposition architecture enables demanding BEOL and advanced packaging processes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/acm-research-ships-first-pecvd-sicn-system-for-advanced-semiconductor-applications/">ACM Research Ships First PECVD SiCN System for Advanced Semiconductor Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,22 +815,6 @@ _Last updated: 2026-04-27 19:35 UTC_
 
 <p> EPIC Microsystems today announced it has raised an oversubscribed $21 million in Series A funding to accelerate the development and commercialization of its vertical power delivery technology for next-generation AI compute platforms.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/epic-microsystems-raises-21m-to-power-next-gen-ai-data-centers/">EPIC Microsystems Raises $21M to Power Next-Gen AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries Files Patent Infringement Lawsuits](https://www.semiconductor-digest.com/globalfoundries-files-patent-infringement-lawsuits/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-files-patent-infringement-lawsuits)
-**Published:** Fri, 27 Mar 2026 20:55:51 +0000
-
-<p>Multiple U.S. patent lawsuits filed to halt unlawful importation and sale of semiconductors infringing GF’s patented technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-files-patent-infringement-lawsuits/">GlobalFoundries Files Patent Infringement Lawsuits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Europe Applauds the European Commission’s Implementation Dialogue on the Chips Act 2.0](https://www.semiconductor-digest.com/semi-europe-applauds-the-european-commissions-implementation-dialogue-on-the-chips-act-2-0/?utm_source=rss&utm_medium=rss&utm_campaign=semi-europe-applauds-the-european-commissions-implementation-dialogue-on-the-chips-act-2-0)
-**Published:** Fri, 27 Mar 2026 20:52:00 +0000
-
-<p>SEMI Europe today participated in the European Commission’s Implementation Dialogue on the Chips Act, chaired by Henna Virkkunen, Executive Vice-President of the European Commission for Tech Sovereignty, Security and Democracy.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-europe-applauds-the-european-commissions-implementation-dialogue-on-the-chips-act-2-0/">SEMI Europe Applauds the European Commission’s Implementation Dialogue on the Chips Act 2.0</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
