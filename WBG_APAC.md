@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-27 16:02 UTC_
+_Last updated: 2026-04-27 19:35 UTC_
 
 ## [Omdia Raises 2026 Semiconductor Revenue Growth Forecast](https://www.eetasia.com/omdia-raises-2026-semiconductor-revenue-growth-forecast/)
 **Published:** Mon, 27 Apr 2026 02:25:14 +0000
@@ -917,7 +917,7 @@ _Last updated: 2026-04-27 16:02 UTC_
 ## [Omdia forecasts 62.7% semi growth this year](https://www.electronicsweekly.com/news/business/omdia-forecasts-62-7-semi-growth-this-year-2026-04/)
 **Published:** Mon, 27 Apr 2026 05:13:19 +0000
 
-<p>Omdia is forecasting 62.7% semiconductor market growth for 2026 reflecting extraordinary growth in memory with DRAM forecast to nearly double and NAND to quadruple. Enterprises are a major server refresh ...</p>
+<p>Omdia is forecasting 62.7% semiconductor market growth for 2026, reflecting extraordinary growth in memory with DRAM forecast to nearly double and NAND to quadruple. Enterprises are a major server refresh ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/omdia-forecasts-62-7-semi-growth-this-year-2026-04/">Omdia forecasts 62.7% semi growth this year</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
