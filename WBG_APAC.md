@@ -1,20 +1,44 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-26 21:52 UTC_
+_Last updated: 2026-04-27 16:02 UTC_
 
-## [Synopsys and TSMC Advance AI Design Enablement Across Leading Nodes](https://www.eetasia.com/synopsys-and-tsmc-advance-ai-design-enablement-across-leading-nodes/)
-**Published:** Thu, 23 Apr 2026 02:32:14 +0000
+## [Omdia Raises 2026 Semiconductor Revenue Growth Forecast](https://www.eetasia.com/omdia-raises-2026-semiconductor-revenue-growth-forecast/)
+**Published:** Mon, 27 Apr 2026 02:25:14 +0000
 
-<p>Synopsys and TSMC are expanding AI-driven EDA, IP, and multiphysics design enablement across advanced semiconductor nodes and packaging technologies.</p>
-<p>The post <a href="https://www.eetasia.com/synopsys-and-tsmc-advance-ai-design-enablement-across-leading-nodes/">Synopsys and TSMC Advance AI Design Enablement Across Leading Nodes</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Omdia has significantly raised its semiconductor revenue growth forecast for 2026 to 62.7% amid unprecedented growth in DRAM and NAND.</p>
+<p>The post <a href="https://www.eetasia.com/omdia-raises-2026-semiconductor-revenue-growth-forecast/">Omdia Raises 2026 Semiconductor Revenue Growth Forecast</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
-## [yieldWerx Expands Taiwan Presence Through Enlight Technology Collaboration](https://www.eetasia.com/yieldwerx-expands-taiwan-presence-through-enlight-technology-collaboration/)
-**Published:** Thu, 23 Apr 2026 02:24:35 +0000
+## [MZT Joins JST’s Next-gen Edge AI Semiconductor R&D Program](https://www.eetasia.com/mzt-joins-jsts-next-gen-edge-ai-semiconductor-rd-program/)
+**Published:** Mon, 27 Apr 2026 01:56:55 +0000
 
-<p>yieldWerx partners Enlight Technology to deliver localized data-driven yield analytics across Taiwan's semiconductor ecosystem.</p>
-<p>The post <a href="https://www.eetasia.com/yieldwerx-expands-taiwan-presence-through-enlight-technology-collaboration/">yieldWerx Expands Taiwan Presence Through Enlight Technology Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>MZT will lead the R&#38;D work toward social implementation through ASIC development and productization.</p>
+<p>The post <a href="https://www.eetasia.com/mzt-joins-jsts-next-gen-edge-ai-semiconductor-rd-program/">MZT Joins JST&#8217;s Next-gen Edge AI Semiconductor R&amp;D Program</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [$7 Trillion in AI Mirage](https://www.semiconductor-digest.com/7-trillion-in-ai-mirage/?utm_source=rss&utm_medium=rss&utm_campaign=7-trillion-in-ai-mirage)
+**Published:** Mon, 27 Apr 2026 13:27:51 +0000
+
+<p>The combination of recursive demand and physical constraints has transformed AI infrastructure into a sovereign utility.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/7-trillion-in-ai-mirage/">$7 Trillion in AI Mirage</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Orthodoxies of Semiconductor Factories (A review as seen by manufacturing science)](https://www.semiconductor-digest.com/orthodoxies-of-semiconductor-factories-a-review-as-seen-by-manufacturing-science/?utm_source=rss&utm_medium=rss&utm_campaign=orthodoxies-of-semiconductor-factories-a-review-as-seen-by-manufacturing-science)
+**Published:** Mon, 27 Apr 2026 13:22:34 +0000
+
+<p>Enabling dispatch systems with a complimentary infrastructure patch promises substantial re-ductions in manufacturing cycle times.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/orthodoxies-of-semiconductor-factories-a-review-as-seen-by-manufacturing-science/">Orthodoxies of Semiconductor Factories (A review as seen by manufacturing science)</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [From Scarcity to Strength: Building Water Resilience in Chipmaking](https://www.semiconductor-digest.com/from-scarcity-to-strength-building-water-resilience-in-chipmaking/?utm_source=rss&utm_medium=rss&utm_campaign=from-scarcity-to-strength-building-water-resilience-in-chipmaking)
+**Published:** Mon, 27 Apr 2026 13:16:40 +0000
+
+<p>New research by Global Water Intelligence and Xylem reveals why water security is now a strategic priority for global chipmakers – and offers a fact-based framework to help the industry drive a shift towards greater water security.    </p>
+<p>The post <a href="https://www.semiconductor-digest.com/from-scarcity-to-strength-building-water-resilience-in-chipmaking/">From Scarcity to Strength: Building Water Resilience in Chipmaking</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,27 +818,11 @@ _Last updated: 2026-04-26 21:52 UTC_
 
 ---
 
-## [From Measurement to Meaning: New Research Introduces a Learning Architecture for the Age of AI](https://www.semiconductor-digest.com/from-measurement-to-meaning-new-research-introduces-a-learning-architecture-for-the-age-of-ai/?utm_source=rss&utm_medium=rss&utm_campaign=from-measurement-to-meaning-new-research-introduces-a-learning-architecture-for-the-age-of-ai)
-**Published:** Fri, 27 Mar 2026 20:44:52 +0000
+## [Gallium Oxide Trench Schottky Barrier Diodes](https://www.powerelectronicsnews.com/gallium-oxide-trench-schottky-barrier-diodes/)
+**Published:** Mon, 27 Apr 2026 13:00:00 +0000
 
-<p>As artificial intelligence (AI) becomes increasingly embedded in education, schools now have more data about learning than ever before.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/from-measurement-to-meaning-new-research-introduces-a-learning-architecture-for-the-age-of-ai/">From Measurement to Meaning: New Research Introduces a Learning Architecture for the Age of AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells](https://www.semiconductor-digest.com/new-strategy-unlocks-29-76-efficiency-for-all-perovskite-tandem-solar-cells/?utm_source=rss&utm_medium=rss&utm_campaign=new-strategy-unlocks-29-76-efficiency-for-all-perovskite-tandem-solar-cells)
-**Published:** Fri, 27 Mar 2026 20:40:04 +0000
-
-<p>Tandem solar cells (TSCs) comprise two stacked layers, with each subcell absorbing different wavelengths of sunlight, which makes TSCs more efficient than single-layer solar cells.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-strategy-unlocks-29-76-efficiency-for-all-perovskite-tandem-solar-cells/">New Strategy Unlocks 29.76% Efficiency For All-Perovskite Tandem Solar Cells</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Tiny LED Design Could Power Next-Generation Technology](https://www.semiconductor-digest.com/tiny-led-design-could-power-next-generation-technology/?utm_source=rss&utm_medium=rss&utm_campaign=tiny-led-design-could-power-next-generation-technology)
-**Published:** Thu, 26 Mar 2026 18:59:53 +0000
-
-<p>Researchers from The University of Osaka propose a compact LED design that directly emits circularly polarized light, potentially simplifying optical devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tiny-led-design-could-power-next-generation-technology/">Tiny LED Design Could Power Next-Generation Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="6336" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_368282211_8b1c4f.jpeg?fit=9504%2C6336" style="display: block; margin-bottom: 5px; clear: both;" width="9504" /><p>Trench geometry and double drift layer doping help gallium oxide Schottky diodes balance on-resistance and breakdown voltage.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/gallium-oxide-trench-schottky-barrier-diodes/">Gallium Oxide Trench Schottky Barrier Diodes</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -890,11 +898,11 @@ _Last updated: 2026-04-26 21:52 UTC_
 
 ---
 
-## [Vishay Introduces 1212 IHLP Inductor for Compact Power Systems](https://www.powerelectronicsnews.com/vishay-introduces-1212-ihlp-inductor-for-compact-power-systems/)
-**Published:** Tue, 21 Apr 2026 13:00:00 +0000
+## [Is Copper Sintering the Key to Advancing Wide Band Gap Semiconductors?](https://www.eetimes.com/is-copper-sintering-the-key-to-advancing-wide-band-gap-semiconductors/)
+**Published:** Mon, 27 Apr 2026 13:00:00 +0000
 
-<img alt="Vishay Introduces 1212 IHLP Inductor for Compact Power Systems." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/55195646840_8973efba38_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The 1212 inductor delivers up to 14.3 A, low DCR, and compact size for efficient DC/DC conversion in space-constrained systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vishay-introduces-1212-ihlp-inductor-for-compact-power-systems/">Vishay Introduces 1212 IHLP Inductor for Compact Power Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Copper sintering emerges as a high-reliability, cost-effective alternative to silver sintering for wide bandgap semiconductors in high-power applications.</p>
+<p>The post <a href="https://www.eetimes.com/is-copper-sintering-the-key-to-advancing-wide-band-gap-semiconductors/">Is Copper Sintering the Key to Advancing Wide Band Gap Semiconductors?</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -906,18 +914,25 @@ _Last updated: 2026-04-26 21:52 UTC_
 
 ---
 
-## [Cyient Semiconductors’ Power Play: How Kinetic Technologies Fits the Puzzle](https://www.eetimes.com/cyient-semiconductors-power-play-how-kinetic-technologies-fits-the-puzzle/)
-**Published:** Thu, 23 Apr 2026 08:19:25 +0000
+## [Omdia forecasts 62.7% semi growth this year](https://www.electronicsweekly.com/news/business/omdia-forecasts-62-7-semi-growth-this-year-2026-04/)
+**Published:** Mon, 27 Apr 2026 05:13:19 +0000
 
-<p>Cyient Semiconductors amps up India's custom silicon game with Kinetic Technologies.</p>
-<p>The post <a href="https://www.eetimes.com/cyient-semiconductors-power-play-how-kinetic-technologies-fits-the-puzzle/">Cyient Semiconductors&#8217; Power Play: How Kinetic Technologies Fits the Puzzle</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Omdia is forecasting 62.7% semiconductor market growth for 2026 reflecting extraordinary growth in memory with DRAM forecast to nearly double and NAND to quadruple. Enterprises are a major server refresh ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/omdia-forecasts-62-7-semi-growth-this-year-2026-04/">Omdia forecasts 62.7% semi growth this year</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Human-Like Touch Advances Robotic Hands](https://www.electronicsforu.com/news/human-like-touch-advances-robotic-hands)
-**Published:** Fri, 24 Apr 2026 06:25:49 +0000
+## [JOB: Physical Verification Engineer At DesignNex In Noida](https://www.electronicsforu.com/career/physical-verification-engineer-designnex-noida)
+**Published:** Mon, 27 Apr 2026 10:17:23 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/np-new-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New 3D tactile sensing modules bring human-like touch to robotic hands, enabling precise force detection, adaptive grip, and real-time interaction for next-generation intelligent automation systems. A new generation of tactile sensing technology is pushing robotic hands closer to human-like dexterity, addressing one of robotics’ long-standing limitations—the ability to “feel” and respond to physical interaction in [&#8230;]
+<img alt="Internship" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/lam-job-search-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: DesignNex Key Responsibilities Skill Set
+
+---
+
+## [JOB: Tapeout Engineer At GlobalFoundries In Bengaluru](https://www.electronicsforu.com/career/engineer-tapeout-engineering-globalfoundries-bengaluru)
+**Published:** Mon, 27 Apr 2026 09:47:40 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/10/globalfoundries-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: GlobalFoundries GLOBALFOUNDRIES is looking for a highly motivated Tapeout Operations Engineer to work in the Global Tapeout and Mask Organisation, based in Bangalore. The successful candidate will work with 100% quality and minimal cycle time in mind. This role requires a close working relationship with internal teams: Frame Design, Product Management, [&#8230;]
 
 ---
 
