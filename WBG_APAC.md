@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-28 09:36 UTC_
+_Last updated: 2026-04-28 20:29 UTC_
 
 ## [Rethinking Foundry Dominance: Three Critical Misconceptions in the $402B Semiconductor Manufacturing Landscape](https://www.eetasia.com/rethinking-foundry-dominance-three-critical-misconceptions-in-the-402b-semiconductor-manufacturing-landscape/)
 **Published:** Tue, 28 Apr 2026 01:30:13 +0000
@@ -826,6 +826,22 @@ _Last updated: 2026-04-28 09:36 UTC_
 
 ---
 
+## [Bosch Unveils Gen 3 SiC Power Chips for Electric Vehicles](https://www.powerelectronicsnews.com/bosch-unveils-gen-3-sic-power-chips-for-electric-vehicles/)
+**Published:** Tue, 28 Apr 2026 13:40:35 +0000
+
+<img alt="Bosch Unveils Gen 3 SiC Power Chips for Electric Vehicles." class="webfeedsFeaturedVisual wp-post-image" height="5504" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/20260129mst_00754-s-2.jpg?fit=8256%2C5504" style="display: block; margin-bottom: 5px; clear: both;" width="8256" /><p>Gen 3 SiC devices improve power density and reduce losses, supporting longer range in electric vehicles (EVs).</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/bosch-unveils-gen-3-sic-power-chips-for-electric-vehicles/">Bosch Unveils Gen 3 SiC Power Chips for Electric Vehicles</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [The Normally-On Problem: MEMS Aim to Displace JFETs in Power Protection](https://www.powerelectronicsnews.com/the-normally-on-problem-why-mems-could-displace-jfets-in-power-protection/)
+**Published:** Tue, 28 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="446" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image_8fd699.jpeg?fit=582%2C446" style="display: block; margin-bottom: 5px; clear: both;" width="582" /><p>At 800V, the front-end protection slot is largely unsolved. Menlo Micro argues that metal-contact MEMS is the answer.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-normally-on-problem-why-mems-could-displace-jfets-in-power-protection/">The Normally-On Problem: MEMS Aim to Displace JFETs in Power Protection</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Gallium Oxide Trench Schottky Barrier Diodes](https://www.powerelectronicsnews.com/gallium-oxide-trench-schottky-barrier-diodes/)
 **Published:** Mon, 27 Apr 2026 13:00:00 +0000
 
@@ -890,19 +906,11 @@ _Last updated: 2026-04-28 09:36 UTC_
 
 ---
 
-## [KYOCERA AVX Launches FFLK Traction DC Filtering Capacitors](https://www.powerelectronicsnews.com/kyocera-avx-launches-fflk-traction-dc-filtering-capacitors/)
-**Published:** Wed, 22 Apr 2026 13:00:00 +0000
+## [Input Capacitor Challenges in High-Density PD and GaN Chargers — YMIN Capacitor Solutions](https://www.eetimes.com/input-capacitor-challenges-in-high-density-pd-and-gan-chargers-ymin-capacitor-solutions/)
+**Published:** Tue, 28 Apr 2026 13:01:00 +0000
 
-<img alt="KYOCERA AVX Launches FFLK Traction DC Filtering Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="2625" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/KAVX124-FFLK-Series-Capacitors-PR.jpg?fit=5000%2C2625" style="display: block; margin-bottom: 5px; clear: both;" width="5000" /><p>New film capacitors deliver high current handling, durability, and long lifetime for EV traction and industrial DC filtering.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/kyocera-avx-launches-fflk-traction-dc-filtering-capacitors/">KYOCERA AVX Launches FFLK Traction DC Filtering Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ST Expands Analog Portfolio with High-Accuracy Op Amps](https://www.powerelectronicsnews.com/st-expands-analog-portfolio-with-high-accuracy-op-amps/)
-**Published:** Tue, 21 Apr 2026 14:59:54 +0000
-
-<img alt="ST Expands Analog Portfolio with High-Accuracy Op Amps." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/N4771D-Apr-20-2026-TSB192-op-amps_PR-IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The TSB192 op amps deliver low offset, low drift and wide voltage range for precise signal conditioning in industrial and automotive designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-expands-analog-portfolio-with-high-accuracy-op-amps/">ST Expands Analog Portfolio with High-Accuracy Op Amps</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>High-density PD and GaN chargers push input capacitor limits. YMIN aluminum electrolytic capacitors improve ESR, ripple, and reliability in compact designs.</p>
+<p>The post <a href="https://www.eetimes.com/input-capacitor-challenges-in-high-density-pd-and-gan-chargers-ymin-capacitor-solutions/">Input Capacitor Challenges in High-Density PD and GaN Chargers — YMIN Capacitor Solutions </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -914,6 +922,14 @@ _Last updated: 2026-04-28 09:36 UTC_
 
 ---
 
+## [Google’s TPU 8t and TPU 8i address agentic AI](https://www.electronicsweekly.com/news/products/micros/googles-tpu-8t-and-tpu-8i-address-agentic-ai-2026-04/)
+**Published:** Tue, 28 Apr 2026 13:32:05 +0000
+
+<p>Google has announced its eighth-generation TPUs (Tensor Processing Units), the TPU 8t and TPU 8i, which are specialised ASICs for AI. They are specifically designed for AI training (TPU 8t) ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/micros/googles-tpu-8t-and-tpu-8i-address-agentic-ai-2026-04/">Google&#8217;s TPU 8t and TPU 8i address agentic AI</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [£81m investment for IQE](https://www.electronicsweekly.com/news/business/81m-investment-for-iqe-2026-04/)
 **Published:** Tue, 28 Apr 2026 05:28:18 +0000
 
@@ -922,10 +938,17 @@ _Last updated: 2026-04-28 09:36 UTC_
 
 ---
 
-## [India Builds Its Own Silicon Photonics Stack](https://www.electronicsforu.com/news/india-builds-its-own-silicon-photonics-stack)
-**Published:** Tue, 28 Apr 2026 07:53:41 +0000
+## [Audio Technician Intern At Gretex Industries Limited In Mumbai](https://www.electronicsforu.com/career/audio-technician-intern-at-gretex-industries-limited-in-mumbai)
+**Published:** Tue, 28 Apr 2026 10:27:52 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/image001WQ30-1-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From chip design to testing, India moves to localise silicon photonics, building tools that could reshape both classical and quantum hardware development.  The Ministry of Electronics and Information Technology (MEITY) has launched two indigenously developed silicon photonics solutions, marking a step toward domestic capability in photonic chip design and validation. Developed at IIT Madras under [&#8230;]
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Mumbai Company: Gretex Industries Limited The Junior Sound Engineer will support the day-to-day operations of the jam room, ensuring a smooth and enjoyable experience for musicians and bands. This is an entry-level, hands-on role ideal for someone looking to build a career in sound engineering while gaining practical exposure to [&#8230;]
+
+---
+
+## [JOB: Technical Program Manager (TPM) – Hardware & Systems (NPI) At Capgemini In Bengaluru](https://www.electronicsforu.com/career/technical-program-manager-tpm-hardware-systems-npi-capgemini-bengaluru)
+**Published:** Tue, 28 Apr 2026 09:59:10 +0000
+
+<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic Programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs) printed circuit boards (PCBs) and electronic systems; and developing and designing methods of using electrical power and electronic equipment. Job [&#8230;]
 
 ---
 
