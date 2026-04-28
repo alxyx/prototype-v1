@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-28 20:29 UTC_
+_Last updated: 2026-04-28 22:11 UTC_
 
 ## [Rethinking Foundry Dominance: Three Critical Misconceptions in the $402B Semiconductor Manufacturing Landscape](https://www.eetasia.com/rethinking-foundry-dominance-three-critical-misconceptions-in-the-402b-semiconductor-manufacturing-landscape/)
 **Published:** Tue, 28 Apr 2026 01:30:13 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-04-28 20:29 UTC_
 
 <p>MZT will lead the R&#38;D work toward social implementation through ASIC development and productization.</p>
 <p>The post <a href="https://www.eetasia.com/mzt-joins-jsts-next-gen-edge-ai-semiconductor-rd-program/">MZT Joins JST&#8217;s Next-gen Edge AI Semiconductor R&amp;D Program</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [NEO Semiconductor Demonstrates 3D X-DRAM Proof-of-Concept, Secures Strategic Investment to Advance AI Memory](https://www.semiconductor-digest.com/neo-semiconductor-demonstrates-3d-x-dram-proof-of-concept-secures-strategic-investment-to-advance-ai-memory/?utm_source=rss&utm_medium=rss&utm_campaign=neo-semiconductor-demonstrates-3d-x-dram-proof-of-concept-secures-strategic-investment-to-advance-ai-memory)
+**Published:** Tue, 28 Apr 2026 20:54:15 +0000
+
+<p>NEO Semiconductor, an innovator in advanced AI and memory technologies, today announced successful proof-of-concept (POC) results for its 3D X-DRAM technology, marking a major milestone toward next-generation, high-density memory solutions for AI and data-centric systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/neo-semiconductor-demonstrates-3d-x-dram-proof-of-concept-secures-strategic-investment-to-advance-ai-memory/">NEO Semiconductor Demonstrates 3D X-DRAM Proof-of-Concept, Secures Strategic Investment to Advance AI Memory</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Kopin Announces Breakthrough MicroLED-Based Optical Interconnect Technology for AI Infrastructure in Collaboration with Fabric.AI](https://www.semiconductor-digest.com/kopin-announces-breakthrough-microled-based-optical-interconnect-technology-for-ai-infrastructure-in-collaboration-with-fabric-ai/?utm_source=rss&utm_medium=rss&utm_campaign=kopin-announces-breakthrough-microled-based-optical-interconnect-technology-for-ai-infrastructure-in-collaboration-with-fabric-ai)
+**Published:** Tue, 28 Apr 2026 20:43:49 +0000
+
+<p>Fabric.AI has placed a $15M purchase order with Kopin to fund the demonstration chipset.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kopin-announces-breakthrough-microled-based-optical-interconnect-technology-for-ai-infrastructure-in-collaboration-with-fabric-ai/">Kopin Announces Breakthrough MicroLED-Based Optical Interconnect Technology for AI Infrastructure in Collaboration with Fabric.AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Atomera Extends Collaboration With Synopsys](https://www.semiconductor-digest.com/atomera-extends-collaboration-with-synopsys/?utm_source=rss&utm_medium=rss&utm_campaign=atomera-extends-collaboration-with-synopsys)
+**Published:** Tue, 28 Apr 2026 20:35:07 +0000
+
+<p>Atomera Incorporated, a semiconductor materials and technology licensing company, today announced an expanded collaboration with Synopsys, Inc. to advance gallium nitride (GaN) device modeling for radio frequency (RF) and power semiconductor applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/atomera-extends-collaboration-with-synopsys/">Atomera Extends Collaboration With Synopsys</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Intel and FPT Collaborate to Advance AI-Driven Autonomous Factories with Digital Manufacturing Platforms](https://www.semiconductor-digest.com/intel-and-fpt-collaborate-to-advance-ai-driven-autonomous-factories-with-digital-manufacturing-platforms/?utm_source=rss&utm_medium=rss&utm_campaign=intel-and-fpt-collaborate-to-advance-ai-driven-autonomous-factories-with-digital-manufacturing-platforms)
+**Published:** Tue, 28 Apr 2026 20:31:48 +0000
+
+<p>The collaboration brings together Intel’s advanced factory simulation and AI optimization technologies with FPT’s digital manufacturing platforms to improve throughput, reduce bottlenecks, and accelerate the transition toward autonomous factory operations.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/intel-and-fpt-collaborate-to-advance-ai-driven-autonomous-factories-with-digital-manufacturing-platforms/">Intel and FPT Collaborate to Advance AI-Driven Autonomous Factories with Digital Manufacturing Platforms</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,38 +823,6 @@ _Last updated: 2026-04-28 20:29 UTC_
 
 <p>QuantumDiamonds GmbH, a Munich-based quantum sensing company focused on semiconductor quality control, announced the appointment of Peter Lemmens as Managing Director Asia. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/quantum-diamonds-expands-to-asia/">Quantum Diamonds Expands to Asia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Researchers Demonstrate Laser Chips Performing Clock and Quantum Operations](https://www.semiconductor-digest.com/researchers-demonstrate-laser-chips-performing-clock-and-quantum-operations/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-demonstrate-laser-chips-performing-clock-and-quantum-operations)
-**Published:** Mon, 30 Mar 2026 21:06:23 +0000
-
-<p>In an ongoing effort to bring quantum science out of the tightly controlled lab environment and into the field, researchers from UC Santa Barbara and the University of Massachusetts Amherst have, for the first time, demonstrated a chip-scale, stabilized, visible light laser that drives a trapped ion atomic optical clock and quantum qubit, paving the way toward compact, portable and scalable trapped-ion quantum information systems. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/researchers-demonstrate-laser-chips-performing-clock-and-quantum-operations/">Researchers Demonstrate Laser Chips Performing Clock and Quantum Operations</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rogue Valley Microdevices Launches MEMS Design Services](https://www.semiconductor-digest.com/rogue-valley-microdevices-launches-mems-design-services/?utm_source=rss&utm_medium=rss&utm_campaign=rogue-valley-microdevices-launches-mems-design-services)
-**Published:** Mon, 30 Mar 2026 20:44:07 +0000
-
-<p>Rogue Valley Microdevices (RVM), a U.S.-based pure-play MEMS foundry, today announced the launch of its foundry-flexible MEMS Design Services, expanding its ability to support customers from early concept through production-ready device design.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rogue-valley-microdevices-launches-mems-design-services/">Rogue Valley Microdevices Launches MEMS Design Services</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New £10.4M Project to Grow Next-Generation Semiconductor Materials](https://www.semiconductor-digest.com/new-10-4m-project-to-grow-next-generation-semiconductor-materials/?utm_source=rss&utm_medium=rss&utm_campaign=new-10-4m-project-to-grow-next-generation-semiconductor-materials)
-**Published:** Mon, 30 Mar 2026 20:39:22 +0000
-
-<p>A major new UK research programme aims to strengthen national capability in semiconductor materials, underpinning the future of electronics.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-10-4m-project-to-grow-next-generation-semiconductor-materials/">New £10.4M Project to Grow Next-Generation Semiconductor Materials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [EPIC Microsystems Raises $21M to Power Next-Gen AI Data Centers](https://www.semiconductor-digest.com/epic-microsystems-raises-21m-to-power-next-gen-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=epic-microsystems-raises-21m-to-power-next-gen-ai-data-centers)
-**Published:** Sun, 29 Mar 2026 22:41:10 +0000
-
-<p> EPIC Microsystems today announced it has raised an oversubscribed $21 million in Series A funding to accelerate the development and commercialization of its vertical power delivery technology for next-generation AI compute platforms.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/epic-microsystems-raises-21m-to-power-next-gen-ai-data-centers/">EPIC Microsystems Raises $21M to Power Next-Gen AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
