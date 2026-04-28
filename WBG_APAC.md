@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-27 21:15 UTC_
+_Last updated: 2026-04-28 00:07 UTC_
 
 ## [Omdia Raises 2026 Semiconductor Revenue Growth Forecast](https://www.eetasia.com/omdia-raises-2026-semiconductor-revenue-growth-forecast/)
 **Published:** Mon, 27 Apr 2026 02:25:14 +0000
