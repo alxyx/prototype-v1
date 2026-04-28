@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-28 06:21 UTC_
+_Last updated: 2026-04-28 09:36 UTC_
 
 ## [Rethinking Foundry Dominance: Three Critical Misconceptions in the $402B Semiconductor Manufacturing Landscape](https://www.eetasia.com/rethinking-foundry-dominance-three-critical-misconceptions-in-the-402b-semiconductor-manufacturing-landscape/)
 **Published:** Tue, 28 Apr 2026 01:30:13 +0000
@@ -914,14 +914,6 @@ _Last updated: 2026-04-28 06:21 UTC_
 
 ---
 
-## [What Hormuz Exposed About Our Semiconductor Supply Chain](https://www.eetimes.com/what-hormuz-exposed-about-our-semiconductor-supply-chain/)
-**Published:** Fri, 24 Apr 2026 08:00:00 +0000
-
-<p>The semiconductor industry is facing a reckoning it has postponed for years. </p>
-<p>The post <a href="https://www.eetimes.com/what-hormuz-exposed-about-our-semiconductor-supply-chain/">What Hormuz Exposed About Our Semiconductor Supply Chain</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
 ## [£81m investment for IQE](https://www.electronicsweekly.com/news/business/81m-investment-for-iqe-2026-04/)
 **Published:** Tue, 28 Apr 2026 05:28:18 +0000
 
@@ -930,24 +922,10 @@ _Last updated: 2026-04-28 06:21 UTC_
 
 ---
 
-## [Self-Organising Laser For Bioelectronics Imaging](https://www.electronicsforu.com/news/self-organising-laser-for-bioelectronics-imaging)
-**Published:** Tue, 28 Apr 2026 05:12:48 +0000
+## [India Builds Its Own Silicon Photonics Stack](https://www.electronicsforu.com/news/india-builds-its-own-silicon-photonics-stack)
+**Published:** Tue, 28 Apr 2026 07:53:41 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/MIT-Pencil-Beam-01-press_0-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A laser phenomenon from MIT transforms chaotic light into a focused beam, enabling faster, high-resolution brain-interface imaging and accelerating electronics-driven biomedical research for targeted therapies. A new advancement in laser physics is reshaping bioelectronics imaging by turning disorder into precision. Researchers at MIT have demonstrated a self-organising “pencil beam” laser that dramatically improves the speed [&#8230;]
-
----
-
-## [JOB: Physical Verification Engineer At DesignNex In Noida](https://www.electronicsforu.com/career/physical-verification-engineer-designnex-noida)
-**Published:** Mon, 27 Apr 2026 10:17:23 +0000
-
-<img alt="Internship" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/lam-job-search-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Noida Company: DesignNex Key Responsibilities Skill Set
-
----
-
-## [JOB: Tapeout Engineer At GlobalFoundries In Bengaluru](https://www.electronicsforu.com/career/engineer-tapeout-engineering-globalfoundries-bengaluru)
-**Published:** Mon, 27 Apr 2026 09:47:40 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/10/globalfoundries-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: GlobalFoundries GLOBALFOUNDRIES is looking for a highly motivated Tapeout Operations Engineer to work in the Global Tapeout and Mask Organisation, based in Bangalore. The successful candidate will work with 100% quality and minimal cycle time in mind. This role requires a close working relationship with internal teams: Frame Design, Product Management, [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/image001WQ30-1-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />From chip design to testing, India moves to localise silicon photonics, building tools that could reshape both classical and quantum hardware development.  The Ministry of Electronics and Information Technology (MEITY) has launched two indigenously developed silicon photonics solutions, marking a step toward domestic capability in photonic chip design and validation. Developed at IIT Madras under [&#8230;]
 
 ---
 
