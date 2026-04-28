@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-28 00:07 UTC_
+_Last updated: 2026-04-28 06:21 UTC_
+
+## [Rethinking Foundry Dominance: Three Critical Misconceptions in the $402B Semiconductor Manufacturing Landscape](https://www.eetasia.com/rethinking-foundry-dominance-three-critical-misconceptions-in-the-402b-semiconductor-manufacturing-landscape/)
+**Published:** Tue, 28 Apr 2026 01:30:13 +0000
+
+<p>Foundry dominance, market definitions, and regional gaps are often misunderstood in today's complex semiconductor manufacturing ecosystem.</p>
+<p>The post <a href="https://www.eetasia.com/rethinking-foundry-dominance-three-critical-misconceptions-in-the-402b-semiconductor-manufacturing-landscape/">Rethinking Foundry Dominance: Three Critical Misconceptions in the $402B Semiconductor Manufacturing Landscape</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Omdia Raises 2026 Semiconductor Revenue Growth Forecast](https://www.eetasia.com/omdia-raises-2026-semiconductor-revenue-growth-forecast/)
 **Published:** Mon, 27 Apr 2026 02:25:14 +0000
@@ -914,11 +922,18 @@ _Last updated: 2026-04-28 00:07 UTC_
 
 ---
 
-## [Omdia forecasts 62.7% semi growth this year](https://www.electronicsweekly.com/news/business/omdia-forecasts-62-7-semi-growth-this-year-2026-04/)
-**Published:** Mon, 27 Apr 2026 05:13:19 +0000
+## [£81m investment for IQE](https://www.electronicsweekly.com/news/business/81m-investment-for-iqe-2026-04/)
+**Published:** Tue, 28 Apr 2026 05:28:18 +0000
 
-<p>Omdia is forecasting 62.7% semiconductor market growth for 2026, reflecting extraordinary growth in memory with DRAM forecast to nearly double and NAND to quadruple. Enterprises are a major server refresh ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/omdia-forecasts-62-7-semi-growth-this-year-2026-04/">Omdia forecasts 62.7% semi growth this year</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>IQE, the compound semiconductor wafer specialist, has had an £81 million investment from MACOM and other existing shareholders. &#8220;This proposed transaction is transformational for IQE. The investment from MACOM and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/81m-investment-for-iqe-2026-04/">£81m investment for IQE</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Self-Organising Laser For Bioelectronics Imaging](https://www.electronicsforu.com/news/self-organising-laser-for-bioelectronics-imaging)
+**Published:** Tue, 28 Apr 2026 05:12:48 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/MIT-Pencil-Beam-01-press_0-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A laser phenomenon from MIT transforms chaotic light into a focused beam, enabling faster, high-resolution brain-interface imaging and accelerating electronics-driven biomedical research for targeted therapies. A new advancement in laser physics is reshaping bioelectronics imaging by turning disorder into precision. Researchers at MIT have demonstrated a self-organising “pencil beam” laser that dramatically improves the speed [&#8230;]
 
 ---
 
