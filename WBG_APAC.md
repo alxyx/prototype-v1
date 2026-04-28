@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-28 22:11 UTC_
+_Last updated: 2026-04-28 23:14 UTC_
 
 ## [Rethinking Foundry Dominance: Three Critical Misconceptions in the $402B Semiconductor Manufacturing Landscape](https://www.eetasia.com/rethinking-foundry-dominance-three-critical-misconceptions-in-the-402b-semiconductor-manufacturing-landscape/)
 **Published:** Tue, 28 Apr 2026 01:30:13 +0000
