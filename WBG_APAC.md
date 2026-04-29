@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-29 17:52 UTC_
+_Last updated: 2026-04-29 21:18 UTC_
 
 ## [IEEE Honors 2026 Recognizes Global Leaders in Engineering, AI, and Semiconductor Innovation](https://www.eetasia.com/ieee-honors-2026-recognizes-global-leaders-in-engineering-ai-and-semiconductor-innovation/)
 **Published:** Wed, 29 Apr 2026 03:04:35 +0000
@@ -15,6 +15,30 @@ _Last updated: 2026-04-29 17:52 UTC_
 
 <p>Foundry dominance, market definitions, and regional gaps are often misunderstood in today's complex semiconductor manufacturing ecosystem.</p>
 <p>The post <a href="https://www.eetasia.com/rethinking-foundry-dominance-three-critical-misconceptions-in-the-402b-semiconductor-manufacturing-landscape/">Rethinking Foundry Dominance: Three Critical Misconceptions in the $402B Semiconductor Manufacturing Landscape</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [POLYN Technology Announces Tapeout of Automotive Chip](https://www.semiconductor-digest.com/polyn-technology-announces-tapeout-of-automotive-chip/?utm_source=rss&utm_medium=rss&utm_campaign=polyn-technology-announces-tapeout-of-automotive-chip)
+**Published:** Wed, 29 Apr 2026 18:19:20 +0000
+
+<p>POLYN Technology, a leader in neuromorphic technology with application-specific Neuromorphic Analog Signal Processing (NASP) products, has taped out a VibroSense engineering chip featuring an analog neuromorphic core for tire friction monitoring.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/polyn-technology-announces-tapeout-of-automotive-chip/">POLYN Technology Announces Tapeout of Automotive Chip</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [KROHNE Dedicates Production Capacity and Establishes U.S. Center of Excellence to Support Explosive Growth in AI-Driven Data Centers](https://www.semiconductor-digest.com/krohne-dedicates-production-capacity-and-establishes-u-s-center-of-excellence-to-support-explosive-growth-in-ai-driven-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=krohne-dedicates-production-capacity-and-establishes-u-s-center-of-excellence-to-support-explosive-growth-in-ai-driven-data-centers)
+**Published:** Wed, 29 Apr 2026 17:52:29 +0000
+
+<p>This strategic move is designed to support the infrastructure behind AI and cloud growth, where accurate, reliable flow measurement is essential to mission-critical cooling and process operations.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/krohne-dedicates-production-capacity-and-establishes-u-s-center-of-excellence-to-support-explosive-growth-in-ai-driven-data-centers/">KROHNE Dedicates Production Capacity and Establishes U.S. Center of Excellence to Support Explosive Growth in AI-Driven Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ASU-led Southwest Advanced Prototyping Hub Awarded $36.3M for Second Year of Funding for Microelectronics Projects](https://www.semiconductor-digest.com/asu-led-southwest-advanced-prototyping-hub-awarded-36-3m-for-second-year-of-funding-for-microelectronics-projects/?utm_source=rss&utm_medium=rss&utm_campaign=asu-led-southwest-advanced-prototyping-hub-awarded-36-3m-for-second-year-of-funding-for-microelectronics-projects)
+**Published:** Wed, 29 Apr 2026 17:49:35 +0000
+
+<p>The Southwest Advanced Prototyping (SWAP) Hub, led by Arizona State University, has been awarded $36.3 million in Year 2 funding from the Department of War under the CHIPS and Science Act.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/asu-led-southwest-advanced-prototyping-hub-awarded-36-3m-for-second-year-of-funding-for-microelectronics-projects/">ASU-led Southwest Advanced Prototyping Hub Awarded $36.3M for Second Year of Funding for Microelectronics Projects</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,30 +815,6 @@ _Last updated: 2026-04-29 17:52 UTC_
 
 <p>Worldwide 300mm fab equipment spending is expected to increase 18% to $133 billion in 2026 and 14% to $151 billion in 2027, SEMI reported today in its latest 300mm Fab Outlook.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semi-projects-double-digit-growth-in-global-300mm-fab-equipment-spending-for-2026-and-2027/">SEMI Projects Double-Digit Growth in Global 300mm Fab Equipment Spending for 2026 and 2027</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Intel to Repurchase 49% Equity Interest in Ireland Fab Joint Venture](https://www.semiconductor-digest.com/intel-to-repurchase-49-equity-interest-in-ireland-fab-joint-venture/?utm_source=rss&utm_medium=rss&utm_campaign=intel-to-repurchase-49-equity-interest-in-ireland-fab-joint-venture)
-**Published:** Wed, 01 Apr 2026 19:07:04 +0000
-
-<p>Intel Corporation and Apollo today announced a definitive agreement for Intel to repurchase the 49% equity interest in the joint venture related to Intel’s Fab 34 in Ireland not held by Intel for $14.2 billion.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/intel-to-repurchase-49-equity-interest-in-ireland-fab-joint-venture/">Intel to Repurchase 49% Equity Interest in Ireland Fab Joint Venture</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [USC Scientists Build a Memory Chip That Survives Temperatures Hotter than Lava](https://www.semiconductor-digest.com/usc-scientists-build-a-memory-chip-that-survives-temperatures-hotter-than-lava/?utm_source=rss&utm_medium=rss&utm_campaign=usc-scientists-build-a-memory-chip-that-survives-temperatures-hotter-than-lava)
-**Published:** Tue, 31 Mar 2026 21:49:03 +0000
-
-<p>A discovery using graphene has produced a record-breaking high-temperature memory device, with implications for space exploration, deep-earth drilling, and the future of AI hardware.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/usc-scientists-build-a-memory-chip-that-survives-temperatures-hotter-than-lava/">USC Scientists Build a Memory Chip That Survives Temperatures Hotter than Lava</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The AMD Foundation Joins Last Mile Education Fund’s National Semiconductor Coalition](https://www.semiconductor-digest.com/the-amd-foundation-joins-last-mile-education-funds-national-semiconductor-coalition/?utm_source=rss&utm_medium=rss&utm_campaign=the-amd-foundation-joins-last-mile-education-funds-national-semiconductor-coalition)
-**Published:** Tue, 31 Mar 2026 21:25:55 +0000
-
-<p>As the United States races to secure its semiconductor future, Last Mile Education Fund announces that the AMD Foundation has joined its Semiconductor Pathways Fund with a $500,000 philanthropic investment over the next three years.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-amd-foundation-joins-last-mile-education-funds-national-semiconductor-coalition/">The AMD Foundation Joins Last Mile Education Fund&#8217;s National Semiconductor Coalition</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
