@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-29 08:33 UTC_
+_Last updated: 2026-04-29 11:10 UTC_
 
 ## [IEEE Honors 2026 Recognizes Global Leaders in Engineering, AI, and Semiconductor Innovation](https://www.eetasia.com/ieee-honors-2026-recognizes-global-leaders-in-engineering-ai-and-semiconductor-innovation/)
 **Published:** Wed, 29 Apr 2026 03:04:35 +0000
@@ -930,10 +930,10 @@ _Last updated: 2026-04-29 08:33 UTC_
 
 ---
 
-## [JOB: Verification Engineer At NVIDIA In Bengaluru](https://www.electronicsforu.com/career/verification-engineer-nvidia-bengaluru)
-**Published:** Wed, 29 Apr 2026 08:20:07 +0000
+## [JOB: Process Quality Engineer (Electronics) At GEPL In Nashik](https://www.electronicsforu.com/career/process-quality-engineer-electronics-gepl-nashik)
+**Published:** Wed, 29 Apr 2026 08:48:25 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2023/06/nvidia-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: NVIDIA NVIDIA is seeking to hire an experienced ASIC verification engineer to verify the design and implementation of the world’s leading SoC&#8217;s and CPU&#8217;s. This position offers the opportunity to have real impact in a dynamic, technology-focused company impacting product lines ranging from consumer graphics to self-driving cars and the [&#8230;]
+<img alt="Embedded Application Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/Job-Opportunities-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Location: Nashik Looking for a Process Quality Engineer with 2–5 years of experience in electronic / electrical manufacturing (PCBAs, Power Electronics, Switchgear). The role involves quality assurance, in-process &#38; final inspection, customer complaint handling, RCA, CAPA, and continuous improvement. Qualification: Diploma / BE in Electronics / Telecommunication If you have a strong quality mindset, RCA [&#8230;]
 
 ---
 
@@ -941,13 +941,6 @@ _Last updated: 2026-04-29 08:33 UTC_
 **Published:** Wed, 29 Apr 2026 06:10:11 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/tdk-np-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new 3000W industrial power supply adds wide-range three-phase input support, improving flexibility, reliability, and easier global deployment for automation, semiconductor, process control, and manufacturing systems. A new industrial AC-DC power supply from TDK Corporation has entered the market, featuring enhanced three-phase input capability, targeting factories, semiconductor tools, robotics, and process automation systems that demand [&#8230;]
-
----
-
-## [Wafer Platform Adds Hidden Defect Detection](https://www.electronicsforu.com/news/wafer-platform-adds-hidden-defect-detection)
-**Published:** Wed, 29 Apr 2026 06:07:57 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Tri-np-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new wafer inspection platform combines AI analytics, sub-micron imaging, SWIR sensing, and precision metrology to help semiconductor fabs improve yields and the quality of advanced packaging. A newly launched wafer inspection and metrology platform by Test Research, Inc. (TRI)  is targeting semiconductor fabs that need tighter defect control, faster process feedback, and higher yields [&#8230;]
 
 ---
 
