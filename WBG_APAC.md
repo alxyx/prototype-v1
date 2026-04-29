@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-29 11:10 UTC_
+_Last updated: 2026-04-29 17:52 UTC_
 
 ## [IEEE Honors 2026 Recognizes Global Leaders in Engineering, AI, and Semiconductor Innovation](https://www.eetasia.com/ieee-honors-2026-recognizes-global-leaders-in-engineering-ai-and-semiconductor-innovation/)
 **Published:** Wed, 29 Apr 2026 03:04:35 +0000
@@ -15,6 +15,22 @@ _Last updated: 2026-04-29 11:10 UTC_
 
 <p>Foundry dominance, market definitions, and regional gaps are often misunderstood in today's complex semiconductor manufacturing ecosystem.</p>
 <p>The post <a href="https://www.eetasia.com/rethinking-foundry-dominance-three-critical-misconceptions-in-the-402b-semiconductor-manufacturing-landscape/">Rethinking Foundry Dominance: Three Critical Misconceptions in the $402B Semiconductor Manufacturing Landscape</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [ASU Supercharges AI Research Capabilities with Technology Donation](https://www.semiconductor-digest.com/asu-supercharges-ai-research-capabilities-with-technology-donation/?utm_source=rss&utm_medium=rss&utm_campaign=asu-supercharges-ai-research-capabilities-with-technology-donation)
+**Published:** Wed, 29 Apr 2026 17:25:58 +0000
+
+<p>Arizona State University is expanding its artificial intelligence research capabilities following a multimillion-dollar technology donation from Intel.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/asu-supercharges-ai-research-capabilities-with-technology-donation/">ASU Supercharges AI Research Capabilities with Technology Donation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Reports Worldwide Silicon Wafer Shipments Increase 13% Year-on-Year in Q1 2026](https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-13-year-on-year-in-q1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-worldwide-silicon-wafer-shipments-increase-13-year-on-year-in-q1-2026)
+**Published:** Wed, 29 Apr 2026 17:23:09 +0000
+
+<p>AI-driven demand and signs of broad-based recovery boost global silicon wafer shipments, despite mixed market conditions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-13-year-on-year-in-q1-2026/">SEMI Reports Worldwide Silicon Wafer Shipments Increase 13% Year-on-Year in Q1 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -802,19 +818,27 @@ _Last updated: 2026-04-29 11:10 UTC_
 
 ---
 
-## [​​New ZEISS Crossbeam 750 FIB-SEM for  High-Accuracy Sample Preparation Workflows​](https://www.semiconductor-digest.com/new-zeiss-crossbeam-750-fib-sem-for-high-accuracy-sample-preparation-workflows/?utm_source=rss&utm_medium=rss&utm_campaign=new-zeiss-crossbeam-750-fib-sem-for-high-accuracy-sample-preparation-workflows)
-**Published:** Tue, 31 Mar 2026 21:21:40 +0000
+## [Atomera, Synopsys Expand GaN Device Modeling Collaboration](https://www.powerelectronicsnews.com/atomera-synopsys-expand-gan-device-modeling-collaboration/)
+**Published:** Wed, 29 Apr 2026 15:00:00 +0000
 
-<p>ZEISS today unveiled the new ZEISS Crossbeam 750 focused ion beam-scanning electron microscope (FIB-SEM) that is optimized for demanding sample preparation.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-zeiss-crossbeam-750-fib-sem-for-high-accuracy-sample-preparation-workflows/">​​New ZEISS Crossbeam 750 FIB-SEM for  High-Accuracy Sample Preparation Workflows​</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5265" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_1482937173-1.jpeg?fit=8178%2C5265" style="display: block; margin-bottom: 5px; clear: both;" width="8178" /><p>The partnership enhances TCAD modeling for GaN RF and power devices, accelerating development and improving simulation accuracy.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/atomera-synopsys-expand-gan-device-modeling-collaboration/">Atomera, Synopsys Expand GaN Device Modeling Collaboration</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Quantum Diamonds Expands to Asia](https://www.semiconductor-digest.com/quantum-diamonds-expands-to-asia/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-diamonds-expands-to-asia)
-**Published:** Tue, 31 Mar 2026 14:15:02 +0000
+## [Half-Bridge Converters: Operating Principles and Applications](https://www.powerelectronicsnews.com/half-bridge-converters-operating-principles-and-applications/)
+**Published:** Wed, 29 Apr 2026 13:00:00 +0000
 
-<p>QuantumDiamonds GmbH, a Munich-based quantum sensing company focused on semiconductor quality control, announced the appointment of Peter Lemmens as Managing Director Asia. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/quantum-diamonds-expands-to-asia/">Quantum Diamonds Expands to Asia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="504" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image_1ea4b6.jpeg?fit=1028%2C504" style="display: block; margin-bottom: 5px; clear: both;" width="1028" /><p>Half-bridge is one of the most representative and basic configurations used in various types of power converters with output power ranging from a few hundred...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/half-bridge-converters-operating-principles-and-applications/">Half-Bridge Converters: Operating Principles and Applications</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Exploring the Potential for a Buried Grid](https://www.powerelectronicsnews.com/exploring-the-potential-for-a-buried-grid/)
+**Published:** Wed, 29 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_76706386.jpeg?fit=4500%2C3000" style="display: block; margin-bottom: 5px; clear: both;" width="4500" /><p>Undergrounding utilities offers resilience against extreme weather but faces steep costs, complex logistics, and durability challenges.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/exploring-the-potential-for-a-buried-grid/">Exploring the Potential for a Buried Grid</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -874,27 +898,11 @@ _Last updated: 2026-04-29 11:10 UTC_
 
 ---
 
-## [Power Corner: Ventiva CEO on Data Center’s Thermal Orphan Problem](https://www.powerelectronicsnews.com/power-corner-ventiva-ceo-on-data-centers-thermal-orphan-problem/)
-**Published:** Thu, 23 Apr 2026 13:00:00 +0000
+## [Pressure Sensors: Turning Environmental Signals into Smart Actions](https://www.eetimes.com/pressure-sensors-turning-environmental-signals-into-smart-actions/)
+**Published:** Wed, 29 Apr 2026 13:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1131" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Ventiva-thumbnail.png?fit=1944%2C1131" style="display: block; margin-bottom: 5px; clear: both;" width="1944" /><p>Description In this episode of PEN&#8217;s Power Corner, Aalyia Shaukat sits down with Carl Schlachte, CEO of Ventiva, to explore how electrohydrodynamic (EHD) ionic cooling...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-ventiva-ceo-on-data-centers-thermal-orphan-problem/">Power Corner: Ventiva CEO on Data Center&#8217;s Thermal Orphan Problem</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [AI Data Center Power: How MPS Is Advancing System-Level Power Delivery](https://www.powerelectronicsnews.com/ai-data-center-power-how-mps-is-advancing-system-level-power-delivery/)
-**Published:** Wed, 22 Apr 2026 20:26:10 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="958" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/MPS-APEC-video-thumbnail.png?fit=1687%2C958" style="display: block; margin-bottom: 5px; clear: both;" width="1687" /><p>If you’re curious about where AI data center power is headed, this conversation with MPS offers a look at the technologies shaping it.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/ai-data-center-power-how-mps-is-advancing-system-level-power-delivery/">AI Data Center Power: How MPS Is Advancing System-Level Power Delivery</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Electronics Course with QSPICE (Episode 08): Stabilized Power Supply](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-08-stabilized-power-supply/)
-**Published:** Wed, 22 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>In this installment of the course, we will continue our exploration of the main electrical schematics for AC-to-DC conversion. This time, high-capacity capacitors will be...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-08-stabilized-power-supply/">Power Electronics Course with QSPICE (Episode 08): Stabilized Power Supply</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Pressure sensing: A background intelligence signal  Pressure sensors convert physical phenomena—such as changes in ambient air pressure or airflow—into signals that electronic systems can process&#160;continuously and&#160;in real time. In&#160;modern&#160;consumer,&#160;industrial,&#160;and IoT devices, this information acts as a continuous feedback input, supporting closed‑loop control, sensor fusion, and early detection of abnormal or degrading operating conditions. Rather than relying [&#8230;]</p>
+<p>The post <a href="https://www.eetimes.com/pressure-sensors-turning-environmental-signals-into-smart-actions/">Pressure Sensors: Turning Environmental Signals into Smart Actions</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -906,18 +914,26 @@ _Last updated: 2026-04-29 11:10 UTC_
 
 ---
 
-## [Is Copper Sintering the Key to Advancing Wide Band Gap Semiconductors?](https://www.eetimes.com/is-copper-sintering-the-key-to-advancing-wide-band-gap-semiconductors/)
-**Published:** Mon, 27 Apr 2026 13:00:00 +0000
+## [Littelfuse expands range of high-voltage TVS diodes for automotive](https://www.electronicsweekly.com/news/products/passives/littelfuse-expands-range-of-high-voltage-tvs-diodes-for-automotive-2026-04/)
+**Published:** Wed, 29 Apr 2026 12:48:45 +0000
 
-<p>Copper sintering emerges as a high-reliability, cost-effective alternative to silver sintering for wide bandgap semiconductors in high-power applications.</p>
-<p>The post <a href="https://www.eetimes.com/is-copper-sintering-the-key-to-advancing-wide-band-gap-semiconductors/">Is Copper Sintering the Key to Advancing Wide Band Gap Semiconductors?</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Littelfuse is expanding its TP Series portfolio with devices specifically for automotive high-voltage power electronics applications. Specifically, it has added the TPSMC, TPSMD, and TP5.0SMDJ high-voltage transient voltage suppression (TVS) ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/passives/littelfuse-expands-range-of-high-voltage-tvs-diodes-for-automotive-2026-04/">Littelfuse expands range of high-voltage TVS diodes for automotive</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Destination Austin – Microelectronics US focuses on industry supply chain](https://www.electronicsweekly.com/technology-startups/destination-austin-microelectronics-us-focuses-on-industry-supply-chain-2026-04/)
+**Published:** Wed, 29 Apr 2026 10:32:16 +0000
+
+<p>Microelectronics US brought together the semiconductor supply chain for a two-day event in Austin, Texas, reports Caroline Hayes For some, Austin is known as the Silicon Hills. The capitol city ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/technology-startups/destination-austin-microelectronics-us-focuses-on-industry-supply-chain-2026-04/">Destination Austin &#8211; Microelectronics US focuses on industry supply chain</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
 ## [Birmingham scientists find new way to build 2D materials](https://www.electronicsweekly.com/news/business/birmingham-scientists-find-new-way-to-build-2d-materials-2026-04/)
 **Published:** Wed, 29 Apr 2026 05:20:30 +0000
 
-<p>Researchers at the University of Birmingham have come up with a novel method for producing conductors, semiconductors and electronic insulators uses vibrational energy to ‘split’ and ‘peel off’ molecular-thin layers ...</p>
+<p>Researchers at the University of Birmingham have come up with a novel method for producing conductors, semiconductors and electronic insulators using vibrational energy to ‘split’ and ‘peel off’ molecular-thin layers ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/birmingham-scientists-find-new-way-to-build-2d-materials-2026-04/">Birmingham scientists find new way to build 2D materials</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
