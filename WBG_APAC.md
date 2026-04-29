@@ -1,28 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-28 23:14 UTC_
+_Last updated: 2026-04-29 08:33 UTC_
+
+## [IEEE Honors 2026 Recognizes Global Leaders in Engineering, AI, and Semiconductor Innovation](https://www.eetasia.com/ieee-honors-2026-recognizes-global-leaders-in-engineering-ai-and-semiconductor-innovation/)
+**Published:** Wed, 29 Apr 2026 03:04:35 +0000
+
+<p>IEEE honors global innovators at 2026 ceremony recognizing breakthroughs across engineering and advanced technology fields worldwide.</p>
+<p>The post <a href="https://www.eetasia.com/ieee-honors-2026-recognizes-global-leaders-in-engineering-ai-and-semiconductor-innovation/">IEEE Honors 2026 Recognizes Global Leaders in Engineering, AI, and Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Rethinking Foundry Dominance: Three Critical Misconceptions in the $402B Semiconductor Manufacturing Landscape](https://www.eetasia.com/rethinking-foundry-dominance-three-critical-misconceptions-in-the-402b-semiconductor-manufacturing-landscape/)
 **Published:** Tue, 28 Apr 2026 01:30:13 +0000
 
 <p>Foundry dominance, market definitions, and regional gaps are often misunderstood in today's complex semiconductor manufacturing ecosystem.</p>
 <p>The post <a href="https://www.eetasia.com/rethinking-foundry-dominance-three-critical-misconceptions-in-the-402b-semiconductor-manufacturing-landscape/">Rethinking Foundry Dominance: Three Critical Misconceptions in the $402B Semiconductor Manufacturing Landscape</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Omdia Raises 2026 Semiconductor Revenue Growth Forecast](https://www.eetasia.com/omdia-raises-2026-semiconductor-revenue-growth-forecast/)
-**Published:** Mon, 27 Apr 2026 02:25:14 +0000
-
-<p>Omdia has significantly raised its semiconductor revenue growth forecast for 2026 to 62.7% amid unprecedented growth in DRAM and NAND.</p>
-<p>The post <a href="https://www.eetasia.com/omdia-raises-2026-semiconductor-revenue-growth-forecast/">Omdia Raises 2026 Semiconductor Revenue Growth Forecast</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [MZT Joins JST’s Next-gen Edge AI Semiconductor R&D Program](https://www.eetasia.com/mzt-joins-jsts-next-gen-edge-ai-semiconductor-rd-program/)
-**Published:** Mon, 27 Apr 2026 01:56:55 +0000
-
-<p>MZT will lead the R&#38;D work toward social implementation through ASIC development and productization.</p>
-<p>The post <a href="https://www.eetasia.com/mzt-joins-jsts-next-gen-edge-ai-semiconductor-rd-program/">MZT Joins JST&#8217;s Next-gen Edge AI Semiconductor R&amp;D Program</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -922,6 +914,14 @@ _Last updated: 2026-04-28 23:14 UTC_
 
 ---
 
+## [Birmingham scientists find new way to build 2D materials](https://www.electronicsweekly.com/news/business/birmingham-scientists-find-new-way-to-build-2d-materials-2026-04/)
+**Published:** Wed, 29 Apr 2026 05:20:30 +0000
+
+<p>Researchers at the University of Birmingham have come up with a novel method for producing conductors, semiconductors and electronic insulators uses vibrational energy to ‘split’ and ‘peel off’ molecular-thin layers ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/birmingham-scientists-find-new-way-to-build-2d-materials-2026-04/">Birmingham scientists find new way to build 2D materials</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Google’s TPU 8t and TPU 8i address agentic AI](https://www.electronicsweekly.com/news/products/micros/googles-tpu-8t-and-tpu-8i-address-agentic-ai-2026-04/)
 **Published:** Tue, 28 Apr 2026 13:32:05 +0000
 
@@ -930,25 +930,24 @@ _Last updated: 2026-04-28 23:14 UTC_
 
 ---
 
-## [£81m investment for IQE](https://www.electronicsweekly.com/news/business/81m-investment-for-iqe-2026-04/)
-**Published:** Tue, 28 Apr 2026 05:28:18 +0000
+## [JOB: Verification Engineer At NVIDIA In Bengaluru](https://www.electronicsforu.com/career/verification-engineer-nvidia-bengaluru)
+**Published:** Wed, 29 Apr 2026 08:20:07 +0000
 
-<p>IQE, the compound semiconductor wafer specialist, has had an £81 million investment from MACOM and other existing shareholders. &#8220;This proposed transaction is transformational for IQE. The investment from MACOM and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/81m-investment-for-iqe-2026-04/">£81m investment for IQE</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Audio Technician Intern At Gretex Industries Limited In Mumbai](https://www.electronicsforu.com/career/audio-technician-intern-at-gretex-industries-limited-in-mumbai)
-**Published:** Tue, 28 Apr 2026 10:27:52 +0000
-
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Mumbai Company: Gretex Industries Limited The Junior Sound Engineer will support the day-to-day operations of the jam room, ensuring a smooth and enjoyable experience for musicians and bands. This is an entry-level, hands-on role ideal for someone looking to build a career in sound engineering while gaining practical exposure to [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2023/06/nvidia-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: NVIDIA NVIDIA is seeking to hire an experienced ASIC verification engineer to verify the design and implementation of the world’s leading SoC&#8217;s and CPU&#8217;s. This position offers the opportunity to have real impact in a dynamic, technology-focused company impacting product lines ranging from consumer graphics to self-driving cars and the [&#8230;]
 
 ---
 
-## [JOB: Technical Program Manager (TPM) – Hardware & Systems (NPI) At Capgemini In Bengaluru](https://www.electronicsforu.com/career/technical-program-manager-tpm-hardware-systems-npi-capgemini-bengaluru)
-**Published:** Tue, 28 Apr 2026 09:59:10 +0000
+## [Three-Phase Supply For Automation](https://www.electronicsforu.com/news/three-phase-supply-for-automation)
+**Published:** Wed, 29 Apr 2026 06:10:11 +0000
 
-<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini This role involves the development and application of engineering practice and knowledge in the following technologies: Electronic logic Programs (FPGA, ASICs); Design layout and verification of integrated circuits (ICs) printed circuit boards (PCBs) and electronic systems; and developing and designing methods of using electrical power and electronic equipment. Job [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/tdk-np-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new 3000W industrial power supply adds wide-range three-phase input support, improving flexibility, reliability, and easier global deployment for automation, semiconductor, process control, and manufacturing systems. A new industrial AC-DC power supply from TDK Corporation has entered the market, featuring enhanced three-phase input capability, targeting factories, semiconductor tools, robotics, and process automation systems that demand [&#8230;]
+
+---
+
+## [Wafer Platform Adds Hidden Defect Detection](https://www.electronicsforu.com/news/wafer-platform-adds-hidden-defect-detection)
+**Published:** Wed, 29 Apr 2026 06:07:57 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Tri-np-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new wafer inspection platform combines AI analytics, sub-micron imaging, SWIR sensing, and precision metrology to help semiconductor fabs improve yields and the quality of advanced packaging. A newly launched wafer inspection and metrology platform by Test Research, Inc. (TRI)  is targeting semiconductor fabs that need tighter defect control, faster process feedback, and higher yields [&#8230;]
 
 ---
 
