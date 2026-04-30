@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-30 17:34 UTC_
+_Last updated: 2026-04-30 23:08 UTC_
 
 ## [NEO Semiconductor Successfully Demos 3D X-DRAM PoC](https://www.eetasia.com/neo-semiconductor-successfully-demos-3d-x-dram-poc/)
 **Published:** Thu, 30 Apr 2026 11:24:56 +0000
@@ -23,6 +23,30 @@ _Last updated: 2026-04-30 17:34 UTC_
 
 <p>IEEE honors global innovators at 2026 ceremony recognizing breakthroughs across engineering and advanced technology fields worldwide.</p>
 <p>The post <a href="https://www.eetasia.com/ieee-honors-2026-recognizes-global-leaders-in-engineering-ai-and-semiconductor-innovation/">IEEE Honors 2026 Recognizes Global Leaders in Engineering, AI, and Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Altera Brings Determinism to Physical AI Systems with Latest Release of FPGA AI Suite](https://www.semiconductor-digest.com/altera-brings-determinism-to-physical-ai-systems-with-latest-release-of-fpga-ai-suite/?utm_source=rss&utm_medium=rss&utm_campaign=altera-brings-determinism-to-physical-ai-systems-with-latest-release-of-fpga-ai-suite)
+**Published:** Thu, 30 Apr 2026 17:31:53 +0000
+
+<p>Altera, the world’s largest pure-play FPGA solutions provider, today announced the release of FPGA AI Suite 26.1.1, a major update to its AI software platform.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/altera-brings-determinism-to-physical-ai-systems-with-latest-release-of-fpga-ai-suite/">Altera Brings Determinism to Physical AI Systems with Latest Release of FPGA AI Suite</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [PsiQuantum Appoints Lip-Bu Tan to Board of Directors](https://www.semiconductor-digest.com/psiquantum-appoints-lip-bu-tan-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=psiquantum-appoints-lip-bu-tan-to-board-of-directors)
+**Published:** Thu, 30 Apr 2026 17:27:20 +0000
+
+<p>PsiQuantum today announced that Lip-Bu Tan, a leader of the semiconductor industry and Chief Executive Officer of Intel Corporation, has joined the PsiQuantum Board of Directors.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/psiquantum-appoints-lip-bu-tan-to-board-of-directors/">PsiQuantum Appoints Lip-Bu Tan to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The 2026 IEEE/JSAP Symposium on VLSI Technology & Circuits Will Feature Advances in Microelectronics](https://www.semiconductor-digest.com/the-2026-ieee-jsap-symposium-on-vlsi-technology-circuits-will-feature-advances-in-microelectronics/?utm_source=rss&utm_medium=rss&utm_campaign=the-2026-ieee-jsap-symposium-on-vlsi-technology-circuits-will-feature-advances-in-microelectronics)
+**Published:** Thu, 30 Apr 2026 17:21:34 +0000
+
+<p>The IEEE/JSAP Symposium on VLSI Technology &#038; Circuits has delivered a unique convergence of technology and circuits in the microelectronics industry for the last 45 years, creating maximum synergy between both domains.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-2026-ieee-jsap-symposium-on-vlsi-technology-circuits-will-feature-advances-in-microelectronics/">The 2026 IEEE/JSAP Symposium on VLSI Technology &#038; Circuits Will Feature Advances in Microelectronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,30 +823,6 @@ _Last updated: 2026-04-30 17:34 UTC_
 
 <p>IBM today announced a strategic collaboration with Arm to develop new dual‑architecture hardware that helps enterprises run future AI and data intensive workloads with greater flexibility, reliability, and security.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ibm-announces-strategic-collaboration-with-arm/">IBM Announces Strategic Collaboration with Arm</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Graphene ‘Nano-Aquariums’ Reveal Atoms’ Hidden Life in Liquids](https://www.semiconductor-digest.com/graphene-nano-aquariums-reveal-atoms-hidden-life-in-liquids/?utm_source=rss&utm_medium=rss&utm_campaign=graphene-nano-aquariums-reveal-atoms-hidden-life-in-liquids)
-**Published:** Thu, 02 Apr 2026 18:24:37 +0000
-
-<p>Published in Science, the team demonstrated the first atomic‑resolution imaging of atomic behaviour at solid–liquid interfaces in a broad range of non‑aqueous (organic) solvents.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/graphene-nano-aquariums-reveal-atoms-hidden-life-in-liquids/">Graphene ‘Nano-Aquariums’ Reveal Atoms’ Hidden Life in Liquids</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [PrismML Launches World’s First 1-Bit AI Model to Redefine Intelligence at the Edge](https://www.semiconductor-digest.com/prismml-launches-worlds-first-1-bit-ai-model-to-redefine-intelligence-at-the-edge/?utm_source=rss&utm_medium=rss&utm_campaign=prismml-launches-worlds-first-1-bit-ai-model-to-redefine-intelligence-at-the-edge)
-**Published:** Thu, 02 Apr 2026 18:14:28 +0000
-
-<p>PrismML today emerged from stealth to introduce the world’s first commercially viable 1-bit large language models, built on groundbreaking research developed at Caltech.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/prismml-launches-worlds-first-1-bit-ai-model-to-redefine-intelligence-at-the-edge/">PrismML Launches World&#8217;s First 1-Bit AI Model to Redefine Intelligence at the Edge</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Soft Sensor Gives Robots a Better Sense of Touch](https://www.semiconductor-digest.com/soft-sensor-gives-robots-a-better-sense-of-touch/?utm_source=rss&utm_medium=rss&utm_campaign=soft-sensor-gives-robots-a-better-sense-of-touch)
-**Published:** Wed, 01 Apr 2026 20:42:29 +0000
-
-<p>A new soft sensing system could help humanoid robots move their hands with far greater precision in delicate, human-like tasks.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/soft-sensor-gives-robots-a-better-sense-of-touch/">Soft Sensor Gives Robots a Better Sense of Touch</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
