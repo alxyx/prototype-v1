@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-30 03:57 UTC_
+_Last updated: 2026-04-30 06:40 UTC_
 
 ## [TSMC Ramping Up Spending Plans to Meet AI Chip Demand Surge as Rivals Narrow Technology Gap](https://www.eetasia.com/tsmc-ramping-up-spending-plans-to-meet-ai-chip-demand-surge-as-rivals-narrow-technology-gap/)
 **Published:** Thu, 30 Apr 2026 01:54:02 +0000
@@ -914,6 +914,22 @@ _Last updated: 2026-04-30 03:57 UTC_
 
 ---
 
+## [Samsung Q1 chip profit hits $36bn on sales of $94bn](https://www.electronicsweekly.com/news/business/samsung-q1-chip-profit-hits-36bn-on-sales-of-94bn-2026-04/)
+**Published:** Thu, 30 Apr 2026 05:50:02 +0000
+
+<p>Samsung saw Q1 semiconductor profits jumped 49 times YoY  to $36 billion on revenue of $94 billion. The driver was the astonishing demand for HBM as the datacentre building boom ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/samsung-q1-chip-profit-hits-36bn-on-sales-of-94bn-2026-04/">Samsung Q1 chip profit hits $36bn on sales of $94bn</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [17.7 – 20.2 GHz 10 Watt GaN PA](https://www.electronicsweekly.com/news/business/17-7-20-2-ghz-10-watt-gan-pa-2026-04/)
+**Published:** Thu, 30 Apr 2026 05:13:44 +0000
+
+<p>Qorvo&#8217;s QPA1722 is a high power, packaged K-Band  MMIC amplifier fabricated using Qorvo&#8217;s production 0.15 um GaN-on-SiC process (QGaN15). The QPA1722 targets the 17.7 – 20.2 GHz Satcom band while ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/17-7-20-2-ghz-10-watt-gan-pa-2026-04/">17.7 &#8211; 20.2 GHz 10 Watt GaN PA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Littelfuse expands range of high-voltage TVS diodes for automotive](https://www.electronicsweekly.com/news/products/passives/littelfuse-expands-range-of-high-voltage-tvs-diodes-for-automotive-2026-04/)
 **Published:** Wed, 29 Apr 2026 12:48:45 +0000
 
@@ -930,19 +946,17 @@ _Last updated: 2026-04-30 03:57 UTC_
 
 ---
 
-## [Birmingham scientists find new way to build 2D materials](https://www.electronicsweekly.com/news/business/birmingham-scientists-find-new-way-to-build-2d-materials-2026-04/)
-**Published:** Wed, 29 Apr 2026 05:20:30 +0000
+## [AI Robot Safety Gets Urgent](https://www.electronicsforu.com/news/ai-robot-safety-gets-urgent)
+**Published:** Thu, 30 Apr 2026 06:35:11 +0000
 
-<p>Researchers at the University of Birmingham have come up with a novel method for producing conductors, semiconductors and electronic insulators using vibrational energy to ‘split’ and ‘peel off’ molecular-thin layers ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/birmingham-scientists-find-new-way-to-build-2d-materials-2026-04/">Birmingham scientists find new way to build 2D materials</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/robot-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Current AI guardrails are inadequate for physical robots. New multi-layered safety frameworks could become essential as autonomous machines enter homes, hospitals, and factories worldwide. As AI-powered robots move from labs into real-world workplaces and homes, researchers at University of Pennsylvania are warning that today’s safety systems are not enough. A new study says methods designed [&#8230;]
 
 ---
 
-## [Google’s TPU 8t and TPU 8i address agentic AI](https://www.electronicsweekly.com/news/products/micros/googles-tpu-8t-and-tpu-8i-address-agentic-ai-2026-04/)
-**Published:** Tue, 28 Apr 2026 13:32:05 +0000
+## [Ceramic Substrate for Better AI Chip Packaging](https://www.electronicsforu.com/news/ceramic-substrate-for-better-ai-chip-packaging)
+**Published:** Thu, 30 Apr 2026 06:27:34 +0000
 
-<p>Google has announced its eighth-generation TPUs (Tensor Processing Units), the TPU 8t and TPU 8i, which are specialised ASICs for AI. They are specifically designed for AI training (TPU 8t) ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/micros/googles-tpu-8t-and-tpu-8i-address-agentic-ai-2026-04/">Google&#8217;s TPU 8t and TPU 8i address agentic AI</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/5022876f3dcd3e90a0bfb87f0837c630-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new development in chip packaging could change how AI processors are built, making them smaller, faster, and more stable in data centers. Kyocera Corporation has commercialized a new multilayer ceramic core substrate for advanced semiconductor packages, targeting high-performance processors such as xPUs and switch ASICs as AI data centers demand larger, denser, and more [&#8230;]
 
 ---
 
@@ -950,13 +964,6 @@ _Last updated: 2026-04-30 03:57 UTC_
 **Published:** Wed, 29 Apr 2026 08:48:25 +0000
 
 <img alt="Embedded Application Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/Job-Opportunities-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Location: Nashik Looking for a Process Quality Engineer with 2–5 years of experience in electronic / electrical manufacturing (PCBAs, Power Electronics, Switchgear). The role involves quality assurance, in-process &#38; final inspection, customer complaint handling, RCA, CAPA, and continuous improvement. Qualification: Diploma / BE in Electronics / Telecommunication If you have a strong quality mindset, RCA [&#8230;]
-
----
-
-## [Three-Phase Supply For Automation](https://www.electronicsforu.com/news/three-phase-supply-for-automation)
-**Published:** Wed, 29 Apr 2026 06:10:11 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/tdk-np-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new 3000W industrial power supply adds wide-range three-phase input support, improving flexibility, reliability, and easier global deployment for automation, semiconductor, process control, and manufacturing systems. A new industrial AC-DC power supply from TDK Corporation has entered the market, featuring enhanced three-phase input capability, targeting factories, semiconductor tools, robotics, and process automation systems that demand [&#8230;]
 
 ---
 
