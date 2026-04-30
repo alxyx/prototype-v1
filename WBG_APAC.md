@@ -1,20 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-29 21:18 UTC_
+_Last updated: 2026-04-30 03:57 UTC_
+
+## [TSMC Ramping Up Spending Plans to Meet AI Chip Demand Surge as Rivals Narrow Technology Gap](https://www.eetasia.com/tsmc-ramping-up-spending-plans-to-meet-ai-chip-demand-surge-as-rivals-narrow-technology-gap/)
+**Published:** Thu, 30 Apr 2026 01:54:02 +0000
+
+<p>TSMC is ramping up spending and capacity to meet AI demand while maintaining lead over intensifying semiconductor competition.</p>
+<p>The post <a href="https://www.eetasia.com/tsmc-ramping-up-spending-plans-to-meet-ai-chip-demand-surge-as-rivals-narrow-technology-gap/">TSMC Ramping Up Spending Plans to Meet AI Chip Demand Surge as Rivals Narrow Technology Gap</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [IEEE Honors 2026 Recognizes Global Leaders in Engineering, AI, and Semiconductor Innovation](https://www.eetasia.com/ieee-honors-2026-recognizes-global-leaders-in-engineering-ai-and-semiconductor-innovation/)
 **Published:** Wed, 29 Apr 2026 03:04:35 +0000
 
 <p>IEEE honors global innovators at 2026 ceremony recognizing breakthroughs across engineering and advanced technology fields worldwide.</p>
 <p>The post <a href="https://www.eetasia.com/ieee-honors-2026-recognizes-global-leaders-in-engineering-ai-and-semiconductor-innovation/">IEEE Honors 2026 Recognizes Global Leaders in Engineering, AI, and Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Rethinking Foundry Dominance: Three Critical Misconceptions in the $402B Semiconductor Manufacturing Landscape](https://www.eetasia.com/rethinking-foundry-dominance-three-critical-misconceptions-in-the-402b-semiconductor-manufacturing-landscape/)
-**Published:** Tue, 28 Apr 2026 01:30:13 +0000
-
-<p>Foundry dominance, market definitions, and regional gaps are often misunderstood in today's complex semiconductor manufacturing ecosystem.</p>
-<p>The post <a href="https://www.eetasia.com/rethinking-foundry-dominance-three-critical-misconceptions-in-the-402b-semiconductor-manufacturing-landscape/">Rethinking Foundry Dominance: Three Critical Misconceptions in the $402B Semiconductor Manufacturing Landscape</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
