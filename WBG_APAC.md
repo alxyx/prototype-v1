@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-30 06:40 UTC_
+_Last updated: 2026-04-30 17:34 UTC_
+
+## [NEO Semiconductor Successfully Demos 3D X-DRAM PoC](https://www.eetasia.com/neo-semiconductor-successfully-demos-3d-x-dram-poc/)
+**Published:** Thu, 30 Apr 2026 11:24:56 +0000
+
+<p>NEO Semiconductor has achieved successful proof-of-concept results for its 3D X-DRAM technology.</p>
+<p>The post <a href="https://www.eetasia.com/neo-semiconductor-successfully-demos-3d-x-dram-poc/">NEO Semiconductor Successfully Demos 3D X-DRAM PoC</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [TSMC Ramping Up Spending Plans to Meet AI Chip Demand Surge as Rivals Narrow Technology Gap](https://www.eetasia.com/tsmc-ramping-up-spending-plans-to-meet-ai-chip-demand-surge-as-rivals-narrow-technology-gap/)
 **Published:** Thu, 30 Apr 2026 01:54:02 +0000
@@ -15,6 +23,30 @@ _Last updated: 2026-04-30 06:40 UTC_
 
 <p>IEEE honors global innovators at 2026 ceremony recognizing breakthroughs across engineering and advanced technology fields worldwide.</p>
 <p>The post <a href="https://www.eetasia.com/ieee-honors-2026-recognizes-global-leaders-in-engineering-ai-and-semiconductor-innovation/">IEEE Honors 2026 Recognizes Global Leaders in Engineering, AI, and Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Everspin Executes $40M Agreement for Mil-Aero MRAM Applications](https://www.semiconductor-digest.com/everspin-executes-40m-agreement-for-mil-aero-mram-applications/?utm_source=rss&utm_medium=rss&utm_campaign=everspin-executes-40m-agreement-for-mil-aero-mram-applications)
+**Published:** Thu, 30 Apr 2026 16:45:05 +0000
+
+<p>Everspin expands on-shore Toggle MRAM technology capabilities, adding support for U.S. government initiatives.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/everspin-executes-40m-agreement-for-mil-aero-mram-applications/">Everspin Executes $40M Agreement for Mil-Aero MRAM Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Appoints Julie Rogers Executive Director of the ESD Alliance](https://www.semiconductor-digest.com/semi-appoints-julie-rogers-executive-director-of-the-esd-alliance/?utm_source=rss&utm_medium=rss&utm_campaign=semi-appoints-julie-rogers-executive-director-of-the-esd-alliance)
+**Published:** Thu, 30 Apr 2026 16:25:53 +0000
+
+<p>SEMI, the industry association serving the global semiconductor and electronics design and manufacturing supply chain, today announced the appointment of Julie Rogers as Executive Director of the Electronic System Design Alliance (ESDA), a SEMI Technology Community.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-appoints-julie-rogers-executive-director-of-the-esd-alliance/">SEMI Appoints Julie Rogers Executive Director of the ESD Alliance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [MIPI Alliance Launches Physical AI Birds of a Feather (BoF) Group Focused on Humanoids](https://www.semiconductor-digest.com/mipi-alliance-launches-physical-ai-birds-of-a-feather-bof-group-focused-on-humanoids/?utm_source=rss&utm_medium=rss&utm_campaign=mipi-alliance-launches-physical-ai-birds-of-a-feather-bof-group-focused-on-humanoids)
+**Published:** Thu, 30 Apr 2026 16:00:37 +0000
+
+<p>The group will examine how MIPI specifications can support the rapidly developing humanoid application space.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/mipi-alliance-launches-physical-ai-birds-of-a-feather-bof-group-focused-on-humanoids/">MIPI Alliance Launches Physical AI Birds of a Feather (BoF) Group Focused on Humanoids</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,27 +826,27 @@ _Last updated: 2026-04-30 06:40 UTC_
 
 ---
 
-## [Tower Semiconductor Announces Plans to Expand 300mm Capacity in Japan](https://www.semiconductor-digest.com/tower-semiconductor-announces-plans-to-expand-300mm-capacity-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-announces-plans-to-expand-300mm-capacity-in-japan)
-**Published:** Wed, 01 Apr 2026 20:26:17 +0000
+## [Wide Bandgap Monthly Insights – April 2026](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-april-2026/)
+**Published:** Thu, 30 Apr 2026 16:00:00 +0000
 
-<p>As part of this strategic restructuring, the companies will enter into mutual long-term supply agreements.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-announces-plans-to-expand-300mm-capacity-in-japan/">Tower Semiconductor Announces Plans to Expand 300mm Capacity in Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lapse in Key Digital Trade Measure Undermines Economic Growth, Innovation](https://www.semiconductor-digest.com/lapse-in-key-digital-trade-measure-undermines-economic-growth-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=lapse-in-key-digital-trade-measure-undermines-economic-growth-innovation)
-**Published:** Wed, 01 Apr 2026 19:48:51 +0000
-
-<p>Semiconductor Industry Association President and CEO John Neuffer today expressed disappointment trade negotiators from around the world failed to reach an agreement to permanently prohibit duties on digital trade during last week’s World Trade Organization (WTO) Ministerial Conference in Yaoundé, Cameroon.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lapse-in-key-digital-trade-measure-undermines-economic-growth-innovation/">Lapse in Key Digital Trade Measure Undermines Economic Growth, Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-april-2026/">Wide Bandgap Monthly Insights &#8211; April 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [SEMI Projects Double-Digit Growth in Global 300mm Fab Equipment Spending for 2026 and 2027](https://www.semiconductor-digest.com/semi-projects-double-digit-growth-in-global-300mm-fab-equipment-spending-for-2026-and-2027/?utm_source=rss&utm_medium=rss&utm_campaign=semi-projects-double-digit-growth-in-global-300mm-fab-equipment-spending-for-2026-and-2027)
-**Published:** Wed, 01 Apr 2026 19:18:59 +0000
+## [Enphase Unveils Solid-State Transformer for AI Data Centers](https://www.powerelectronicsnews.com/enphase-unveils-solid-state-transformer-for-ai-data-centers/)
+**Published:** Thu, 30 Apr 2026 13:37:28 +0000
 
-<p>Worldwide 300mm fab equipment spending is expected to increase 18% to $133 billion in 2026 and 14% to $151 billion in 2027, SEMI reported today in its latest 300mm Fab Outlook.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-projects-double-digit-growth-in-global-300mm-fab-equipment-spending-for-2026-and-2027/">SEMI Projects Double-Digit Growth in Global 300mm Fab Equipment Spending for 2026 and 2027</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2880" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_350459236.jpeg?fit=5120%2C2880" style="display: block; margin-bottom: 5px; clear: both;" width="5120" /><p>The new distributed SST platform targets high-density AI workloads with efficient, battery-free power conversion architecture.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/enphase-unveils-solid-state-transformer-for-ai-data-centers/">Enphase Unveils Solid-State Transformer for AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Corner: Renesas’s Grid-to-Core Strategy for 800 V Data Center Power Architecture](https://www.powerelectronicsnews.com/power-corner-renesass-grid-to-core-strategy-for-800-v-data-center-power-architecture/)
+**Published:** Thu, 30 Apr 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Ventiva-thumbnail-1.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Pietro Scalia maps Renesas's full power chain strategy for 800V data centers, from GaN rectifiers to software control. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-renesass-grid-to-core-strategy-for-800-v-data-center-power-architecture/">Power Corner: Renesas&#8217;s Grid-to-Core Strategy for 800 V Data Center Power Architecture</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -874,30 +906,6 @@ _Last updated: 2026-04-30 06:40 UTC_
 
 ---
 
-## [D-Mode GaN Bidirectional Switches Reshape Power Conversion Topologies](https://www.powerelectronicsnews.com/d-mode-gan-bidirectional-switches-reshape-power-conversion-topologies/)
-**Published:** Fri, 24 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="827" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image_8c87e6.png?fit=948%2C827" style="display: block; margin-bottom: 5px; clear: both;" width="948" /><p>Renesas introduces a D-mode GaN bidirectional switch that simplifies topologies for EV, solar, and data center applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/d-mode-gan-bidirectional-switches-reshape-power-conversion-topologies/">D-Mode GaN Bidirectional Switches Reshape Power Conversion Topologies</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Vishay Expands Power DFN Portfolio with Ultrafast Rectifiers](https://www.powerelectronicsnews.com/vishay-expands-power-dfn-portfolio-with-ultrafast-rectifiers/)
-**Published:** Fri, 24 Apr 2026 13:00:00 +0000
-
-<img alt="Vishay Expands Power DFN Portfolio with Ultrafast Rectifiers." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/55195458959_8a5bf1a63c_o.jpg?fit=1800%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1800" /><p>Low-profile rectifiers deliver up to 15 A with fast recovery and improved thermal performance for automotive and power applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vishay-expands-power-dfn-portfolio-with-ultrafast-rectifiers/">Vishay Expands Power DFN Portfolio with Ultrafast Rectifiers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ROHM Enhances EcoSiC Portfolio with Low-Resistance MOSFETs](https://www.powerelectronicsnews.com/rohm-enhances-ecosic-portfolio-with-low-resistance-mosfets/)
-**Published:** Thu, 23 Apr 2026 14:00:00 +0000
-
-<img alt="ROHM Enhances EcoSiC Portfolio with Low-Resistance MOSFETs." class="webfeedsFeaturedVisual wp-post-image" height="525" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/260421_sic-mosfet_2_e.jpg?fit=579%2C525" style="display: block; margin-bottom: 5px; clear: both;" width="579" /><p>The new SiC MOSFETs reduce losses at high temperatures, improving efficiency for EV inverters, AI servers, and industrial power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/rohm-enhances-ecosic-portfolio-with-low-resistance-mosfets/">ROHM Enhances EcoSiC Portfolio with Low-Resistance MOSFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Pressure Sensors: Turning Environmental Signals into Smart Actions](https://www.eetimes.com/pressure-sensors-turning-environmental-signals-into-smart-actions/)
 **Published:** Wed, 29 Apr 2026 13:00:00 +0000
 
@@ -917,7 +925,7 @@ _Last updated: 2026-04-30 06:40 UTC_
 ## [Samsung Q1 chip profit hits $36bn on sales of $94bn](https://www.electronicsweekly.com/news/business/samsung-q1-chip-profit-hits-36bn-on-sales-of-94bn-2026-04/)
 **Published:** Thu, 30 Apr 2026 05:50:02 +0000
 
-<p>Samsung saw Q1 semiconductor profits jumped 49 times YoY  to $36 billion on revenue of $94 billion. The driver was the astonishing demand for HBM as the datacentre building boom ...</p>
+<p>Samsung saw Q1 semiconductor profits jumped 49 times y-o-y to $36bn on revenue of $94bn. The driver was the astonishing demand for HBM as the datacentre building boom continues. &#8220;Our ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/samsung-q1-chip-profit-hits-36bn-on-sales-of-94bn-2026-04/">Samsung Q1 chip profit hits $36bn on sales of $94bn</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
@@ -925,24 +933,8 @@ _Last updated: 2026-04-30 06:40 UTC_
 ## [17.7 – 20.2 GHz 10 Watt GaN PA](https://www.electronicsweekly.com/news/business/17-7-20-2-ghz-10-watt-gan-pa-2026-04/)
 **Published:** Thu, 30 Apr 2026 05:13:44 +0000
 
-<p>Qorvo&#8217;s QPA1722 is a high power, packaged K-Band  MMIC amplifier fabricated using Qorvo&#8217;s production 0.15 um GaN-on-SiC process (QGaN15). The QPA1722 targets the 17.7 – 20.2 GHz Satcom band while ...</p>
+<p>Qorvo&#8217;s QPA1722 is a high power, packaged K-Band MMIC amplifier fabricated using Qorvo&#8217;s production 0.15 um GaN-on-SiC process (QGaN15). The QPA1722 targets the 17.7 – 20.2 GHz Satcom band while ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/17-7-20-2-ghz-10-watt-gan-pa-2026-04/">17.7 &#8211; 20.2 GHz 10 Watt GaN PA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Littelfuse expands range of high-voltage TVS diodes for automotive](https://www.electronicsweekly.com/news/products/passives/littelfuse-expands-range-of-high-voltage-tvs-diodes-for-automotive-2026-04/)
-**Published:** Wed, 29 Apr 2026 12:48:45 +0000
-
-<p>Littelfuse is expanding its TP Series portfolio with devices specifically for automotive high-voltage power electronics applications. Specifically, it has added the TPSMC, TPSMD, and TP5.0SMDJ high-voltage transient voltage suppression (TVS) ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/passives/littelfuse-expands-range-of-high-voltage-tvs-diodes-for-automotive-2026-04/">Littelfuse expands range of high-voltage TVS diodes for automotive</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Destination Austin – Microelectronics US focuses on industry supply chain](https://www.electronicsweekly.com/technology-startups/destination-austin-microelectronics-us-focuses-on-industry-supply-chain-2026-04/)
-**Published:** Wed, 29 Apr 2026 10:32:16 +0000
-
-<p>Microelectronics US brought together the semiconductor supply chain for a two-day event in Austin, Texas, reports Caroline Hayes For some, Austin is known as the Silicon Hills. The capitol city ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/technology-startups/destination-austin-microelectronics-us-focuses-on-industry-supply-chain-2026-04/">Destination Austin &#8211; Microelectronics US focuses on industry supply chain</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -950,20 +942,6 @@ _Last updated: 2026-04-30 06:40 UTC_
 **Published:** Thu, 30 Apr 2026 06:35:11 +0000
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/robot-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Current AI guardrails are inadequate for physical robots. New multi-layered safety frameworks could become essential as autonomous machines enter homes, hospitals, and factories worldwide. As AI-powered robots move from labs into real-world workplaces and homes, researchers at University of Pennsylvania are warning that today’s safety systems are not enough. A new study says methods designed [&#8230;]
-
----
-
-## [Ceramic Substrate for Better AI Chip Packaging](https://www.electronicsforu.com/news/ceramic-substrate-for-better-ai-chip-packaging)
-**Published:** Thu, 30 Apr 2026 06:27:34 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/5022876f3dcd3e90a0bfb87f0837c630-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new development in chip packaging could change how AI processors are built, making them smaller, faster, and more stable in data centers. Kyocera Corporation has commercialized a new multilayer ceramic core substrate for advanced semiconductor packages, targeting high-performance processors such as xPUs and switch ASICs as AI data centers demand larger, denser, and more [&#8230;]
-
----
-
-## [JOB: Process Quality Engineer (Electronics) At GEPL In Nashik](https://www.electronicsforu.com/career/process-quality-engineer-electronics-gepl-nashik)
-**Published:** Wed, 29 Apr 2026 08:48:25 +0000
-
-<img alt="Embedded Application Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/Job-Opportunities-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Location: Nashik Looking for a Process Quality Engineer with 2–5 years of experience in electronic / electrical manufacturing (PCBAs, Power Electronics, Switchgear). The role involves quality assurance, in-process &#38; final inspection, customer complaint handling, RCA, CAPA, and continuous improvement. Qualification: Diploma / BE in Electronics / Telecommunication If you have a strong quality mindset, RCA [&#8230;]
 
 ---
 
