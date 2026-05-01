@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-04-30 23:08 UTC_
+_Last updated: 2026-05-01 06:49 UTC_
 
 ## [NEO Semiconductor Successfully Demos 3D X-DRAM PoC](https://www.eetasia.com/neo-semiconductor-successfully-demos-3d-x-dram-poc/)
 **Published:** Thu, 30 Apr 2026 11:24:56 +0000
@@ -922,26 +922,25 @@ _Last updated: 2026-04-30 23:08 UTC_
 
 ---
 
-## [Samsung Q1 chip profit hits $36bn on sales of $94bn](https://www.electronicsweekly.com/news/business/samsung-q1-chip-profit-hits-36bn-on-sales-of-94bn-2026-04/)
-**Published:** Thu, 30 Apr 2026 05:50:02 +0000
+## [New substrate for ceramic packages allows high density wiring and delivers greater rigidity](https://www.electronicsweekly.com/news/products/memory/substrate-for-ceramic-packages-for-high-density-wiring-and-rigidity-2026-05/)
+**Published:** Fri, 01 May 2026 05:08:22 +0000
 
-<p>Samsung saw Q1 semiconductor profits jumped 49 times y-o-y to $36bn on revenue of $94bn. The driver was the astonishing demand for HBM as the datacentre building boom continues. &#8220;Our ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/samsung-q1-chip-profit-hits-36bn-on-sales-of-94bn-2026-04/">Samsung Q1 chip profit hits $36bn on sales of $94bn</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [17.7 – 20.2 GHz 10 Watt GaN PA](https://www.electronicsweekly.com/news/business/17-7-20-2-ghz-10-watt-gan-pa-2026-04/)
-**Published:** Thu, 30 Apr 2026 05:13:44 +0000
-
-<p>Qorvo&#8217;s QPA1722 is a high power, packaged K-Band MMIC amplifier fabricated using Qorvo&#8217;s production 0.15 um GaN-on-SiC process (QGaN15). The QPA1722 targets the 17.7 – 20.2 GHz Satcom band while ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/17-7-20-2-ghz-10-watt-gan-pa-2026-04/">17.7 &#8211; 20.2 GHz 10 Watt GaN PA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Kyocera is bringing out a multilayer ceramic core substrate for semiconductor packages which are rapidly scaling in complexity as AI datacenter architectures evolve. Built from Kyocera’s proprietary Fine Ceramic materials, ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/memory/substrate-for-ceramic-packages-for-high-density-wiring-and-rigidity-2026-05/">New substrate for ceramic packages allows high density wiring and delivers greater rigidity</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [AI Robot Safety Gets Urgent](https://www.electronicsforu.com/news/ai-robot-safety-gets-urgent)
-**Published:** Thu, 30 Apr 2026 06:35:11 +0000
+## [From Rural Gujarat To Building Security Solutions For Global Customers!](https://www.electronicsforu.com/special/from-rural-gujarat-to-building-security-solutions-for-global-customers)
+**Published:** Fri, 01 May 2026 05:30:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/robot-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Current AI guardrails are inadequate for physical robots. New multi-layered safety frameworks could become essential as autonomous machines enter homes, hospitals, and factories worldwide. As AI-powered robots move from labs into real-world workplaces and homes, researchers at University of Pennsylvania are warning that today’s safety systems are not enough. A new study says methods designed [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Ganesh-Jivani-2-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The journey of Ganesh Jivani, who transformed improbable ambitions into reality, is inspiring. Through self-directed learning and perseverance, he discovered his strengths and built his future with determination. His life reflects an indomitable spirit shaped by hard work and unwavering dedication. Along the way, he not only transformed his own destiny but also inspired and [&#8230;]
+
+---
+
+## [Stable Lamination For Electronics Manufacturing](https://www.electronicsforu.com/news/stable-lamination-for-electronics-manufacturing)
+**Published:** Fri, 01 May 2026 04:56:09 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/overcoming-limitations-3-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new lamination approach enables stable, uniform production of large-area flexible electronics, improving yield, adhesion control, and scalability for next-generation displays, sensors, and advanced semiconductor packaging systems. A research team at the Korea Institute of Machinery and Materials (KIMM) has developed a roll-to-roll direct lamination process that enables continuous packaging of long-length flexible printed circuit [&#8230;]
 
 ---
 
