@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-01 06:49 UTC_
+_Last updated: 2026-05-01 15:09 UTC_
+
+## [The Strategic Role of Precious Metals in Defining Semiconductor Performance](https://www.eetasia.com/the-strategic-role-of-precious-metals-in-defining-semiconductor-performance/)
+**Published:** Fri, 01 May 2026 07:58:24 +0000
+
+<p>Semiconductor performance is shifting from transistor scaling to materials innovation amid rapidly rising AI-driven complexity demands.</p>
+<p>The post <a href="https://www.eetasia.com/the-strategic-role-of-precious-metals-in-defining-semiconductor-performance/">The Strategic Role of Precious Metals in Defining Semiconductor Performance</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [NEO Semiconductor Successfully Demos 3D X-DRAM PoC](https://www.eetasia.com/neo-semiconductor-successfully-demos-3d-x-dram-poc/)
 **Published:** Thu, 30 Apr 2026 11:24:56 +0000
@@ -826,6 +834,38 @@ _Last updated: 2026-05-01 06:49 UTC_
 
 ---
 
+## [Murata Unveils Ultra-Low Power AMR Sensors](https://www.powerelectronicsnews.com/murata-unveils-ultra-low-power-amr-sensors/)
+**Published:** Fri, 01 May 2026 15:00:00 +0000
+
+<img alt="Murata Unveils Ultra-Low Power AMR Sensors." class="webfeedsFeaturedVisual wp-post-image" height="1001" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/MURATA_MANUFACTURING_MRMS166R_MRMS168R_BW.jpg?fit=1499%2C1001" style="display: block; margin-bottom: 5px; clear: both;" width="1499" /><p>The new AMR sensors enable multi-year operation in compact devices with low-voltage support and improved switching reliability.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/murata-unveils-ultra-low-power-amr-sensors/">Murata Unveils Ultra-Low Power AMR Sensors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [SiC and GaN Adoption to Accelerate Through 2036](https://www.powerelectronicsnews.com/sic-and-gan-adoption-to-accelerate-through-2036/)
+**Published:** Fri, 01 May 2026 15:00:00 +0000
+
+<img alt="SiC and GaN Adoption to Accelerate Through 2036." class="webfeedsFeaturedVisual wp-post-image" height="339" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/ID_Tech_PR.jpg?fit=602%2C339" style="display: block; margin-bottom: 5px; clear: both;" width="602" /><p>SiC and GaN adoption accelerates as EVs, AI data centers, and renewables drive demand for efficient power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/sic-and-gan-adoption-to-accelerate-through-2036/">SiC and GaN Adoption to Accelerate Through 2036</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Set a course for the future with the PCIM Expo](https://www.powerelectronicsnews.com/set-a-course-for-the-future-with-the-pcim-expo/)
+**Published:** Fri, 01 May 2026 13:50:32 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/PCIM-2025-Dienstag_Presse_119_Aspencore.jpg?fit=1500%2C1000" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>PCIM Expo &#38; Conference is the leading event for power electronics, uniting industry and academia to advance solutions and expert knowledge.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/set-a-course-for-the-future-with-the-pcim-expo/">Set a course for the future with the PCIM Expo</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Gallium Oxide Trench SBD, Half-Bridge Converters, Metal-Contact MEMS: Power Electronics Week Insights](https://www.powerelectronicsnews.com/gallium-oxide-trench-sbd-half-bridge-converters-metal-contact-mems-power-electronics-week-insights/)
+**Published:** Fri, 01 May 2026 13:36:01 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Gallium Oxide Trench SBD, Half-Bridge Converters, and Metal-Contact MEMS!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/gallium-oxide-trench-sbd-half-bridge-converters-metal-contact-mems-power-electronics-week-insights/">Gallium Oxide Trench SBD, Half-Bridge Converters, Metal-Contact MEMS: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Wide Bandgap Monthly Insights – April 2026](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-april-2026/)
 **Published:** Thu, 30 Apr 2026 16:00:00 +0000
 
@@ -874,35 +914,11 @@ _Last updated: 2026-05-01 06:49 UTC_
 
 ---
 
-## [Bosch Unveils Gen 3 SiC Power Chips for Electric Vehicles](https://www.powerelectronicsnews.com/bosch-unveils-gen-3-sic-power-chips-for-electric-vehicles/)
-**Published:** Tue, 28 Apr 2026 13:40:35 +0000
+## [How to Build Obsolescence‑Resistant Systems in an Era of Rapid Tech Change](https://www.eetimes.com/how-to-build-obsolescence%e2%80%91resistant-systems-in-an-era-of-rapid-tech-change/)
+**Published:** Fri, 01 May 2026 13:00:00 +0000
 
-<img alt="Bosch Unveils Gen 3 SiC Power Chips for Electric Vehicles." class="webfeedsFeaturedVisual wp-post-image" height="5504" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/20260129mst_00754-s-2.jpg?fit=8256%2C5504" style="display: block; margin-bottom: 5px; clear: both;" width="8256" /><p>Gen 3 SiC devices improve power density and reduce losses, supporting longer range in electric vehicles (EVs).</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/bosch-unveils-gen-3-sic-power-chips-for-electric-vehicles/">Bosch Unveils Gen 3 SiC Power Chips for Electric Vehicles</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [The Normally-On Problem: MEMS Aim to Displace JFETs in Power Protection](https://www.powerelectronicsnews.com/the-normally-on-problem-why-mems-could-displace-jfets-in-power-protection/)
-**Published:** Tue, 28 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="446" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image_8fd699.jpeg?fit=582%2C446" style="display: block; margin-bottom: 5px; clear: both;" width="582" /><p>At 800V, the front-end protection slot is largely unsolved. Menlo Micro argues that metal-contact MEMS is the answer.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-normally-on-problem-why-mems-could-displace-jfets-in-power-protection/">The Normally-On Problem: MEMS Aim to Displace JFETs in Power Protection</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Gallium Oxide Trench Schottky Barrier Diodes](https://www.powerelectronicsnews.com/gallium-oxide-trench-schottky-barrier-diodes/)
-**Published:** Mon, 27 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="6336" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_368282211_8b1c4f.jpeg?fit=9504%2C6336" style="display: block; margin-bottom: 5px; clear: both;" width="9504" /><p>Trench geometry and double drift layer doping help gallium oxide Schottky diodes balance on-resistance and breakdown voltage.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/gallium-oxide-trench-schottky-barrier-diodes/">Gallium Oxide Trench Schottky Barrier Diodes</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Hybrid eVTOL Power Drives, GaN Bidirectional Switches, Stabilized Power Supply in QSPICE: Power Electronics Week Insights](https://www.powerelectronicsnews.com/hybrid-evtol-power-drives-gan-bidirectional-switches-stabilized-power-supply-in-qspice-power-electronics-week-insights/)
-**Published:** Fri, 24 Apr 2026 14:11:49 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Hybrid eVTOL power drives, GaN Bidirectional Switches, and Stabilized Power Supply in QSPICE!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/hybrid-evtol-power-drives-gan-bidirectional-switches-stabilized-power-supply-in-qspice-power-electronics-week-insights/">Hybrid eVTOL Power Drives, GaN Bidirectional Switches, Stabilized Power Supply in QSPICE: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Proactively manage semiconductor obsolescence with early insights and trusted partners to avoid redesigns and keep your supply chain secure.</p>
+<p>The post <a href="https://www.eetimes.com/how-to-build-obsolescence%e2%80%91resistant-systems-in-an-era-of-rapid-tech-change/">How to Build Obsolescence‑Resistant Systems in an Era of Rapid Tech Change </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -914,14 +930,6 @@ _Last updated: 2026-05-01 06:49 UTC_
 
 ---
 
-## [Input Capacitor Challenges in High-Density PD and GaN Chargers — YMIN Capacitor Solutions](https://www.eetimes.com/input-capacitor-challenges-in-high-density-pd-and-gan-chargers-ymin-capacitor-solutions/)
-**Published:** Tue, 28 Apr 2026 13:01:00 +0000
-
-<p>High-density PD and GaN chargers push input capacitor limits. YMIN aluminum electrolytic capacitors improve ESR, ripple, and reliability in compact designs.</p>
-<p>The post <a href="https://www.eetimes.com/input-capacitor-challenges-in-high-density-pd-and-gan-chargers-ymin-capacitor-solutions/">Input Capacitor Challenges in High-Density PD and GaN Chargers — YMIN Capacitor Solutions </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
 ## [New substrate for ceramic packages allows high density wiring and delivers greater rigidity](https://www.electronicsweekly.com/news/products/memory/substrate-for-ceramic-packages-for-high-density-wiring-and-rigidity-2026-05/)
 **Published:** Fri, 01 May 2026 05:08:22 +0000
 
@@ -930,17 +938,17 @@ _Last updated: 2026-05-01 06:49 UTC_
 
 ---
 
-## [From Rural Gujarat To Building Security Solutions For Global Customers!](https://www.electronicsforu.com/special/from-rural-gujarat-to-building-security-solutions-for-global-customers)
-**Published:** Fri, 01 May 2026 05:30:00 +0000
+## [Printed Circuit Board Design Engineer At Aether Semiconductors In Sahibzada Ajit Singh Nagar](https://www.electronicsforu.com/career/pcb-design-engineer-aether-semiconductors-sahibzada-ajit-singh-nagar)
+**Published:** Fri, 01 May 2026 11:15:04 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Ganesh-Jivani-2-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />The journey of Ganesh Jivani, who transformed improbable ambitions into reality, is inspiring. Through self-directed learning and perseverance, he discovered his strengths and built his future with determination. His life reflects an indomitable spirit shaped by hard work and unwavering dedication. Along the way, he not only transformed his own destiny but also inspired and [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/03/aether-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Sahibzada Ajit Singh Nagar Company: Aether Semiconductors Job Responsibilities for PCB Design Engineer (4-8 Years of Experience) in Semiconductor Equipment Engineering: PCB Design and Development: High-Power and Embedded Systems Integration: Collaboration and Testing: Technical Documentation: Continuous Improvement: Compliance and Standards: Required Skills &#38; Qualifications Basic Requirement
 
 ---
 
-## [Stable Lamination For Electronics Manufacturing](https://www.electronicsforu.com/news/stable-lamination-for-electronics-manufacturing)
-**Published:** Fri, 01 May 2026 04:56:09 +0000
+## [“We are supporting Tamper-evident and Damage-tolerant labels for reliable Authentication” – Duke Banerjee, OneARVO Ventures](https://www.electronicsforu.com/technology-trends/we-are-supporting-tamper-evident-damage-tolerant-labels-reliable-authentication-duke-banerjee-onearvo-ventures)
+**Published:** Fri, 01 May 2026 10:59:09 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/overcoming-limitations-3-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new lamination approach enables stable, uniform production of large-area flexible electronics, improving yield, adhesion control, and scalability for next-generation displays, sensors, and advanced semiconductor packaging systems. A research team at the Korea Institute of Machinery and Materials (KIMM) has developed a roll-to-roll direct lamination process that enables continuous packaging of long-length flexible printed circuit [&#8230;]
+<img alt="Duke Banerjee, Co-founder, OneARVO Ventures Private Limited" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Duke-Pic-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Cracking down on counterfeits, Duke Banerjee of OneARVO Ventures reveals how non‑clonable physical pattern technology enables real‑time authentication and traceability to EFY’s Nitisha Dubey. Q. What is OneARVO Ventures, and what problem does the company solve? A. We address a critical market gap. There is no reliable, easy-to-use mechanism for end users or stakeholders to [&#8230;]
 
 ---
 
