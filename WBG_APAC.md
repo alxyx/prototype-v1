@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-01 16:11 UTC_
+_Last updated: 2026-05-01 21:07 UTC_
 
 ## [The Strategic Role of Precious Metals in Defining Semiconductor Performance](https://www.eetasia.com/the-strategic-role-of-precious-metals-in-defining-semiconductor-performance/)
 **Published:** Fri, 01 May 2026 07:58:24 +0000
@@ -31,6 +31,38 @@ _Last updated: 2026-05-01 16:11 UTC_
 
 <p>IEEE honors global innovators at 2026 ceremony recognizing breakthroughs across engineering and advanced technology fields worldwide.</p>
 <p>The post <a href="https://www.eetasia.com/ieee-honors-2026-recognizes-global-leaders-in-engineering-ai-and-semiconductor-innovation/">IEEE Honors 2026 Recognizes Global Leaders in Engineering, AI, and Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [GOWIN Semiconductor Collaborates with JLCPCB](https://www.semiconductor-digest.com/gowin-semiconductor-collaborates-with-jlcpcb/?utm_source=rss&utm_medium=rss&utm_campaign=gowin-semiconductor-collaborates-with-jlcpcb)
+**Published:** Fri, 01 May 2026 17:55:58 +0000
+
+<p>New cooperation supports makers, educators, and commercial teams requiring fast, low-quantity FPGA access.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/gowin-semiconductor-collaborates-with-jlcpcb/">GOWIN Semiconductor Collaborates with JLCPCB</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Amtech Systems Appoints Thomas Sabol as Chief Financial Officer](https://www.semiconductor-digest.com/amtech-systems-appoints-thomas-sabol-as-chief-financial-officer/?utm_source=rss&utm_medium=rss&utm_campaign=amtech-systems-appoints-thomas-sabol-as-chief-financial-officer)
+**Published:** Fri, 01 May 2026 17:42:21 +0000
+
+<p>Amtech Systems, Inc., a manufacturer of equipment and consumables enabling AI semiconductor device packaging and advanced substrate fabrication, today announced the appointment of Mr. Thomas Sabol as the Company’s Chief Financial Officer, effective May 14, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/amtech-systems-appoints-thomas-sabol-as-chief-financial-officer/">Amtech Systems Appoints Thomas Sabol as Chief Financial Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Nordson Test & Inspection Announces Partnership with Quiptech Mexico](https://www.semiconductor-digest.com/nordson-test-inspection-announces-partnership-with-quiptech-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=nordson-test-inspection-announces-partnership-with-quiptech-mexico)
+**Published:** Fri, 01 May 2026 16:59:42 +0000
+
+<p>Quiptech Mexico will serve as an authorized distributor for Nordson Test &#038; Inspection products in Mexico, providing local sales, technical support, and responsive service.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nordson-test-inspection-announces-partnership-with-quiptech-mexico/">Nordson Test &#038; Inspection Announces Partnership with Quiptech Mexico</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ULVAC Establishes Japan-Based Production for Rare-Earth Magnet Vacuum Melting Furnaces](https://www.semiconductor-digest.com/ulvac-establishes-japan-based-production-for-rare-earth-magnet-vacuum-melting-furnaces/?utm_source=rss&utm_medium=rss&utm_campaign=ulvac-establishes-japan-based-production-for-rare-earth-magnet-vacuum-melting-furnaces)
+**Published:** Fri, 01 May 2026 16:57:00 +0000
+
+<p>ULVAC, Inc. anticipates that orders for its continuous vacuum melting furnaces dedicated to rare-earth magnets will approximately triple year on year, driven primarily by magnet manufacturers in Europe and North America.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ulvac-establishes-japan-based-production-for-rare-earth-magnet-vacuum-melting-furnaces/">ULVAC Establishes Japan-Based Production for Rare-Earth Magnet Vacuum Melting Furnaces</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,38 +831,6 @@ _Last updated: 2026-05-01 16:11 UTC_
 
 <p>Cohu, Inc. today announced that two customers have placed follow-on orders totaling $30 million for the Eclipse platform.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/cohu-announces-30-million-follow-on-orders-for-high-performance-computing-test/">Cohu Announces $30 Million Follow-On Orders for High-Performance Computing Test</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ACM Research Introduces ACM Planetary Family Product Portfolio Structure](https://www.semiconductor-digest.com/acm-research-introduces-acm-planetary-family-product-portfolio-structure/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-introduces-acm-planetary-family-product-portfolio-structure)
-**Published:** Fri, 03 Apr 2026 18:09:54 +0000
-
-<p>New portfolio structure reinforces ACM’s customer‑centric approach across core process technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/acm-research-introduces-acm-planetary-family-product-portfolio-structure/">ACM Research Introduces ACM Planetary Family Product Portfolio Structure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CEA-Leti, CEA-List and PSMC Collaborate to Integrate  RISC-V and MicroLED Silicon Photonics into 3D Stacking  and Interposer for Next-Generation AI](https://www.semiconductor-digest.com/cea-leti-cea-list-and-psmc-collaborate-to-integrate-risc-v-and-microled-silicon-photonics-into-3d-stacking-and-interposer-for-next-generation-ai/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-cea-list-and-psmc-collaborate-to-integrate-risc-v-and-microled-silicon-photonics-into-3d-stacking-and-interposer-for-next-generation-ai)
-**Published:** Fri, 03 Apr 2026 18:03:08 +0000
-
-<p>The two flagship institutes of the French Alternative Energies and Atomic Energy Commission (CEA) are global innovation leaders in microelectronics and intelligent digital systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-cea-list-and-psmc-collaborate-to-integrate-risc-v-and-microled-silicon-photonics-into-3d-stacking-and-interposer-for-next-generation-ai/">CEA-Leti, CEA-List and PSMC Collaborate to Integrate  RISC-V and MicroLED Silicon Photonics into 3D Stacking  and Interposer for Next-Generation AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [C-Hawk Expands Southeast Asia Manufacturing Capabilities and Capacity with New Malaysia and Vietnam Facilities](https://www.semiconductor-digest.com/c-hawk-expands-southeast-asia-manufacturing-capabilities-and-capacity-with-new-malaysia-and-vietnam-facilities/?utm_source=rss&utm_medium=rss&utm_campaign=c-hawk-expands-southeast-asia-manufacturing-capabilities-and-capacity-with-new-malaysia-and-vietnam-facilities)
-**Published:** Thu, 02 Apr 2026 18:40:23 +0000
-
-<p>New facilities enhance advanced manufacturing capabilities and capacity—including the addition of UHP orbital/TIG welding and PFA tube bending—to support semiconductor manufacturing in the high-growth Southeast Asia market.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/c-hawk-expands-southeast-asia-manufacturing-capabilities-and-capacity-with-new-malaysia-and-vietnam-facilities/">C-Hawk Expands Southeast Asia Manufacturing Capabilities and Capacity with New Malaysia and Vietnam Facilities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IBM Announces Strategic Collaboration with Arm](https://www.semiconductor-digest.com/ibm-announces-strategic-collaboration-with-arm/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-announces-strategic-collaboration-with-arm)
-**Published:** Thu, 02 Apr 2026 18:36:30 +0000
-
-<p>IBM today announced a strategic collaboration with Arm to develop new dual‑architecture hardware that helps enterprises run future AI and data intensive workloads with greater flexibility, reliability, and security.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ibm-announces-strategic-collaboration-with-arm/">IBM Announces Strategic Collaboration with Arm</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
