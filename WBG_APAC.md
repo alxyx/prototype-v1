@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-02 19:12 UTC_
+_Last updated: 2026-05-02 20:59 UTC_
 
 ## [The Strategic Role of Precious Metals in Defining Semiconductor Performance](https://www.eetasia.com/the-strategic-role-of-precious-metals-in-defining-semiconductor-performance/)
 **Published:** Fri, 01 May 2026 07:58:24 +0000
