@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-03 21:54 UTC_
+_Last updated: 2026-05-04 03:06 UTC_
+
+## [Altera’s Latest FPGA AI Suite Brings Determinism to Physical AI Systems](https://www.eetasia.com/alteras-latest-fpga-ai-suite-brings-determinism-to-physical-ai-systems/)
+**Published:** Mon, 04 May 2026 02:47:26 +0000
+
+<p>Altera's FPGA AI Suite 26.1.1 simplifies and accelerates deployment of trained AI models onto FPGAs for edge AI applications.</p>
+<p>The post <a href="https://www.eetasia.com/alteras-latest-fpga-ai-suite-brings-determinism-to-physical-ai-systems/">Altera&#8217;s Latest FPGA AI Suite Brings Determinism to Physical AI Systems</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [The Strategic Role of Precious Metals in Defining Semiconductor Performance](https://www.eetasia.com/the-strategic-role-of-precious-metals-in-defining-semiconductor-performance/)
 **Published:** Fri, 01 May 2026 07:58:24 +0000
