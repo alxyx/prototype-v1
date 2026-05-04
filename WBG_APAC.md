@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-04 12:01 UTC_
+_Last updated: 2026-05-04 14:15 UTC_
 
 ## [Altera’s Latest FPGA AI Suite Brings Determinism to Physical AI Systems](https://www.eetasia.com/alteras-latest-fpga-ai-suite-brings-determinism-to-physical-ai-systems/)
 **Published:** Mon, 04 May 2026 02:47:26 +0000
@@ -826,6 +826,22 @@ _Last updated: 2026-05-04 12:01 UTC_
 
 ---
 
+## [SSTs and DABs: Key Blocks for Future Power Distribution](https://www.powerelectronicsnews.com/ssts-and-dabs-key-blocks-for-future-power-distribution/)
+**Published:** Mon, 04 May 2026 13:51:19 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1632" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_1323239102.jpeg?fit=2912%2C1632" style="display: block; margin-bottom: 5px; clear: both;" width="2912" /><p>SSTs use DAB converters and SiC switches to enable efficient, compact, bidirectional power distribution across AC and DC grids.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ssts-and-dabs-key-blocks-for-future-power-distribution/">SSTs and DABs: Key Blocks for Future Power Distribution </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Magnachip Launches 8th-Gen 12V BatteryFETs](https://www.powerelectronicsnews.com/magnachip-launches-8th-gen-12v-batteryfets/)
+**Published:** Mon, 04 May 2026 13:00:00 +0000
+
+<img alt="Magnachip Launches 8th-Gen 12V BatteryFETs." class="webfeedsFeaturedVisual wp-post-image" height="512" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Magnachip_PR.jpg?fit=768%2C512" style="display: block; margin-bottom: 5px; clear: both;" width="768" /><p>The new BatteryFETs cut heat and boost current density, supporting fast charging and compact smartphone battery designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/magnachip-launches-8th-gen-12v-batteryfets/">Magnachip Launches 8th-Gen 12V BatteryFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Murata Unveils Ultra-Low Power AMR Sensors](https://www.powerelectronicsnews.com/murata-unveils-ultra-low-power-amr-sensors/)
 **Published:** Fri, 01 May 2026 15:00:00 +0000
 
@@ -890,22 +906,6 @@ _Last updated: 2026-05-04 12:01 UTC_
 
 ---
 
-## [Half-Bridge Converters: Operating Principles and Applications](https://www.powerelectronicsnews.com/half-bridge-converters-operating-principles-and-applications/)
-**Published:** Wed, 29 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="504" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/image_1ea4b6.jpeg?fit=1028%2C504" style="display: block; margin-bottom: 5px; clear: both;" width="1028" /><p>Half-bridge is one of the most representative and basic configurations used in various types of power converters with output power ranging from a few hundred...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/half-bridge-converters-operating-principles-and-applications/">Half-Bridge Converters: Operating Principles and Applications</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Exploring the Potential for a Buried Grid](https://www.powerelectronicsnews.com/exploring-the-potential-for-a-buried-grid/)
-**Published:** Wed, 29 Apr 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/AdobeStock_76706386.jpeg?fit=4500%2C3000" style="display: block; margin-bottom: 5px; clear: both;" width="4500" /><p>Undergrounding utilities offers resilience against extreme weather but faces steep costs, complex logistics, and durability challenges.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/exploring-the-potential-for-a-buried-grid/">Exploring the Potential for a Buried Grid</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Fraunhofer IPMS Eyes India For Contract Research and Semiconductor Partnerships](https://www.eetimes.com/fraunhofer-ipms-eyes-india-for-contract-research-and-semiconductor-partnerships/)
 **Published:** Mon, 04 May 2026 07:55:31 +0000
 
@@ -919,14 +919,6 @@ _Last updated: 2026-05-04 12:01 UTC_
 
 <p>Proactively manage semiconductor obsolescence with early insights and trusted partners to avoid redesigns and keep your supply chain secure.</p>
 <p>The post <a href="https://www.eetimes.com/how-to-build-obsolescence%e2%80%91resistant-systems-in-an-era-of-rapid-tech-change/">How to Build Obsolescence‑Resistant Systems in an Era of Rapid Tech Change </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Pressure Sensors: Turning Environmental Signals into Smart Actions](https://www.eetimes.com/pressure-sensors-turning-environmental-signals-into-smart-actions/)
-**Published:** Wed, 29 Apr 2026 13:00:00 +0000
-
-<p>Pressure sensing: A background intelligence signal  Pressure sensors convert physical phenomena—such as changes in ambient air pressure or airflow—into signals that electronic systems can process&#160;continuously and&#160;in real time. In&#160;modern&#160;consumer,&#160;industrial,&#160;and IoT devices, this information acts as a continuous feedback input, supporting closed‑loop control, sensor fusion, and early detection of abnormal or degrading operating conditions. Rather than relying [&#8230;]</p>
-<p>The post <a href="https://www.eetimes.com/pressure-sensors-turning-environmental-signals-into-smart-actions/">Pressure Sensors: Turning Environmental Signals into Smart Actions</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
