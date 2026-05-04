@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-04 18:27 UTC_
+_Last updated: 2026-05-04 20:30 UTC_
 
 ## [Altera’s Latest FPGA AI Suite Brings Determinism to Physical AI Systems](https://www.eetasia.com/alteras-latest-fpga-ai-suite-brings-determinism-to-physical-ai-systems/)
 **Published:** Mon, 04 May 2026 02:47:26 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-05-04 18:27 UTC_
 
 <p>NEO Semiconductor has achieved successful proof-of-concept results for its 3D X-DRAM technology.</p>
 <p>The post <a href="https://www.eetasia.com/neo-semiconductor-successfully-demos-3d-x-dram-poc/">NEO Semiconductor Successfully Demos 3D X-DRAM PoC</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SNU Researchers Develop Battery-Free Skin-Conformal Wearable System](https://www.semiconductor-digest.com/snu-researchers-develop-battery-free-skin-conformal-wearable-system/?utm_source=rss&utm_medium=rss&utm_campaign=snu-researchers-develop-battery-free-skin-conformal-wearable-system)
+**Published:** Mon, 04 May 2026 19:28:19 +0000
+
+<p>Breakthrough addresses a key power supply challenge in wearable devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/snu-researchers-develop-battery-free-skin-conformal-wearable-system/">SNU Researchers Develop Battery-Free Skin-Conformal Wearable System</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Applied Materials Broadens Advanced Packaging Portfolio with Acquisition of NEXX](https://www.semiconductor-digest.com/applied-materials-broadens-advanced-packaging-portfolio-with-acquisition-of-nexx/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-broadens-advanced-packaging-portfolio-with-acquisition-of-nexx)
+**Published:** Mon, 04 May 2026 19:21:19 +0000
+
+<p>Applied Materials, Inc. today announced it has entered into a definitive agreement with ASMPT Limited to acquire its NEXX business, a supplier of large-area advanced packaging deposition equipment for the semiconductor industry.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-broadens-advanced-packaging-portfolio-with-acquisition-of-nexx/">Applied Materials Broadens Advanced Packaging Portfolio with Acquisition of NEXX</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens Achieves $1B in U.S. Manufacturing Investments](https://www.semiconductor-digest.com/siemens-achieves-1b-in-u-s-manufacturing-investments/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-achieves-1b-in-u-s-manufacturing-investments)
+**Published:** Mon, 04 May 2026 19:12:56 +0000
+
+<p>Siemens today announced it has reached $1 billion in domestic manufacturing investments to support American industry, infrastructure and transportation over the past five years.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-achieves-1b-in-u-s-manufacturing-investments/">Siemens Achieves $1B in U.S. Manufacturing Investments</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [GlobalFoundries Accelerates Adoption of Co-Packaged Optics for Advanced AI Data Centers with SCALE Optical Module Solution](https://www.semiconductor-digest.com/globalfoundries-accelerates-adoption-of-co-packaged-optics-for-advanced-ai-data-centers-with-scale-optical-module-solution/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-accelerates-adoption-of-co-packaged-optics-for-advanced-ai-data-centers-with-scale-optical-module-solution)
+**Published:** Mon, 04 May 2026 18:58:07 +0000
+
+<p>GlobalFoundries today announced the introduction of its SCALE optical module solution for co-packaged optics (CPO). GF’s SCALE solution, or Silicon photonics Co-packaged Advanced Light Engine solution, is the industry’s first Optical Compute Interconnect Multi-Source Agreement (OCI MSA) capable platform.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-accelerates-adoption-of-co-packaged-optics-for-advanced-ai-data-centers-with-scale-optical-module-solution/">GlobalFoundries Accelerates Adoption of Co-Packaged Optics for Advanced AI Data Centers with SCALE Optical Module Solution</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,38 +826,6 @@ _Last updated: 2026-05-04 18:27 UTC_
 
 ---
 
-## [IVWorks Secures $4.5M Funding to Expand ‘reGaN’ Technology into RF and AI Power Semiconductor Markets](https://www.semiconductor-digest.com/ivworks-secures-4-5m-funding-to-expand-regan-technology-into-rf-and-ai-power-semiconductor-markets/?utm_source=rss&utm_medium=rss&utm_campaign=ivworks-secures-4-5m-funding-to-expand-regan-technology-into-rf-and-ai-power-semiconductor-markets)
-**Published:** Mon, 06 Apr 2026 21:35:30 +0000
-
-<p>IVWorks, a specialist in GaN epitaxial wafer technology, is accelerating its expansion into the GaN semiconductor market through its proprietary ‘reGaN’ technology.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ivworks-secures-4-5m-funding-to-expand-regan-technology-into-rf-and-ai-power-semiconductor-markets/">IVWorks Secures $4.5M Funding to Expand ‘reGaN’ Technology into RF and AI Power Semiconductor Markets</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Appoints Mary Bischoping as Senior Director of Public Policy and Advocacy](https://www.semiconductor-digest.com/semi-appoints-mary-bischoping-as-senior-director-of-public-policy-and-advocacy/?utm_source=rss&utm_medium=rss&utm_campaign=semi-appoints-mary-bischoping-as-senior-director-of-public-policy-and-advocacy)
-**Published:** Fri, 03 Apr 2026 19:44:38 +0000
-
-<p>SEMI today announced Mary Bischoping as Senior Director of Public Policy and Advocacy.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-appoints-mary-bischoping-as-senior-director-of-public-policy-and-advocacy/">SEMI Appoints Mary Bischoping as Senior Director of Public Policy and Advocacy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Molex Completes Acquisition of Smiths Interconnect](https://www.semiconductor-digest.com/molex-completes-acquisition-of-smiths-interconnect/?utm_source=rss&utm_medium=rss&utm_campaign=molex-completes-acquisition-of-smiths-interconnect)
-**Published:** Fri, 03 Apr 2026 19:40:28 +0000
-
-<p>Molex, a global electronics leader and connectivity innovator, has completed the acquisition of Smiths Interconnect, a subsidiary of United Kingdom-based Smiths Group plc.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/molex-completes-acquisition-of-smiths-interconnect/">Molex Completes Acquisition of Smiths Interconnect</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Cohu Announces $30 Million Follow-On Orders for High-Performance Computing Test](https://www.semiconductor-digest.com/cohu-announces-30-million-follow-on-orders-for-high-performance-computing-test/?utm_source=rss&utm_medium=rss&utm_campaign=cohu-announces-30-million-follow-on-orders-for-high-performance-computing-test)
-**Published:** Fri, 03 Apr 2026 18:33:12 +0000
-
-<p>Cohu, Inc. today announced that two customers have placed follow-on orders totaling $30 million for the Eclipse platform.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cohu-announces-30-million-follow-on-orders-for-high-performance-computing-test/">Cohu Announces $30 Million Follow-On Orders for High-Performance Computing Test</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [SSTs and DABs: Key Blocks for Future Power Distribution](https://www.powerelectronicsnews.com/ssts-and-dabs-key-blocks-for-future-power-distribution/)
 **Published:** Mon, 04 May 2026 13:51:19 +0000
 
@@ -919,27 +919,6 @@ _Last updated: 2026-05-04 18:27 UTC_
 
 <p>Proactively manage semiconductor obsolescence with early insights and trusted partners to avoid redesigns and keep your supply chain secure.</p>
 <p>The post <a href="https://www.eetimes.com/how-to-build-obsolescence%e2%80%91resistant-systems-in-an-era-of-rapid-tech-change/">How to Build Obsolescence‑Resistant Systems in an Era of Rapid Tech Change </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [IoT Test Engineer Intern (ECE) At Zippy In Bengaluru](https://www.electronicsforu.com/career/iot-test-engineer-intern-ece-at-zippy-in-bengaluru)
-**Published:** Mon, 04 May 2026 10:01:16 +0000
-
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Zippy Responsibilities Qualifications Required Skills Pay Range and Compensation Package Stipend: INR 15-25k per month, depending on expertise and experience. Duration: 2 Months
-
----
-
-## [Embedded Systems – Internship At XiLiR Technologies In Delhi](https://www.electronicsforu.com/career/embedded-systems-internship-at-xilir-technologies-in-delhi)
-**Published:** Mon, 04 May 2026 09:17:30 +0000
-
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON INTERNSHALA Location: Delhi Company: XiLiR Technologies LLP Selected intern&#8217;s day-to-day responsibilities include: Skill(s) Required Who can apply Only those candidates can apply who: Perks Stipend Structure Fixed pay:&#160;₹ 5,000 &#8211; 10,000 /month Incentive pay: ₹ 1,000 &#8211; 2,000 /month Number of openings: 5
-
----
-
-## [Photon Teleportation Achieved Across 270 Metres](https://www.electronicsforu.com/news/photon-teleportation-achieved-across-270-metres)
-**Published:** Mon, 04 May 2026 08:06:38 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/quantum-teleportation-photon-entanglement-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A photon’s identity moved without traveling, but what really crossed that distance could redefine how future networks transmit information securely forever. An international research team including scientists from University of Paderborn has demonstrated quantum teleportation of a photon’s state between two physically separate quantum dots, marking a key step toward scalable quantum communication systems. The [&#8230;]
 
 ---
 
