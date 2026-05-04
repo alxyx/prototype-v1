@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-04 20:30 UTC_
+_Last updated: 2026-05-04 22:14 UTC_
 
 ## [Altera’s Latest FPGA AI Suite Brings Determinism to Physical AI Systems](https://www.eetasia.com/alteras-latest-fpga-ai-suite-brings-determinism-to-physical-ai-systems/)
 **Published:** Mon, 04 May 2026 02:47:26 +0000
@@ -919,6 +919,27 @@ _Last updated: 2026-05-04 20:30 UTC_
 
 <p>Proactively manage semiconductor obsolescence with early insights and trusted partners to avoid redesigns and keep your supply chain secure.</p>
 <p>The post <a href="https://www.eetimes.com/how-to-build-obsolescence%e2%80%91resistant-systems-in-an-era-of-rapid-tech-change/">How to Build Obsolescence‑Resistant Systems in an Era of Rapid Tech Change </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [IoT Test Engineer Intern (ECE) At Zippy In Bengaluru](https://www.electronicsforu.com/career/iot-test-engineer-intern-ece-at-zippy-in-bengaluru)
+**Published:** Mon, 04 May 2026 10:01:16 +0000
+
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Zippy Responsibilities Qualifications Required Skills Pay Range and Compensation Package Stipend: INR 15-25k per month, depending on expertise and experience. Duration: 2 Months
+
+---
+
+## [Embedded Systems – Internship At XiLiR Technologies In Delhi](https://www.electronicsforu.com/career/embedded-systems-internship-at-xilir-technologies-in-delhi)
+**Published:** Mon, 04 May 2026 09:17:30 +0000
+
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON INTERNSHALA Location: Delhi Company: XiLiR Technologies LLP Selected intern&#8217;s day-to-day responsibilities include: Skill(s) Required Who can apply Only those candidates can apply who: Perks Stipend Structure Fixed pay:&#160;₹ 5,000 &#8211; 10,000 /month Incentive pay: ₹ 1,000 &#8211; 2,000 /month Number of openings: 5
+
+---
+
+## [Photon Teleportation Achieved Across 270 Metres](https://www.electronicsforu.com/news/photon-teleportation-achieved-across-270-metres)
+**Published:** Mon, 04 May 2026 08:06:38 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/quantum-teleportation-photon-entanglement-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A photon’s identity moved without traveling, but what really crossed that distance could redefine how future networks transmit information securely forever. An international research team including scientists from University of Paderborn has demonstrated quantum teleportation of a photon’s state between two physically separate quantum dots, marking a key step toward scalable quantum communication systems. The [&#8230;]
 
 ---
 
