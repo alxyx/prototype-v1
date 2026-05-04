@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-04 16:59 UTC_
+_Last updated: 2026-05-04 18:27 UTC_
 
 ## [Altera’s Latest FPGA AI Suite Brings Determinism to Physical AI Systems](https://www.eetasia.com/alteras-latest-fpga-ai-suite-brings-determinism-to-physical-ai-systems/)
 **Published:** Mon, 04 May 2026 02:47:26 +0000
