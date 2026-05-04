@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-04 03:06 UTC_
+_Last updated: 2026-05-04 12:01 UTC_
 
 ## [Altera’s Latest FPGA AI Suite Brings Determinism to Physical AI Systems](https://www.eetasia.com/alteras-latest-fpga-ai-suite-brings-determinism-to-physical-ai-systems/)
 **Published:** Mon, 04 May 2026 02:47:26 +0000
@@ -23,22 +23,6 @@ _Last updated: 2026-05-04 03:06 UTC_
 
 <p>NEO Semiconductor has achieved successful proof-of-concept results for its 3D X-DRAM technology.</p>
 <p>The post <a href="https://www.eetasia.com/neo-semiconductor-successfully-demos-3d-x-dram-poc/">NEO Semiconductor Successfully Demos 3D X-DRAM PoC</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [TSMC Ramping Up Spending Plans to Meet AI Chip Demand Surge as Rivals Narrow Technology Gap](https://www.eetasia.com/tsmc-ramping-up-spending-plans-to-meet-ai-chip-demand-surge-as-rivals-narrow-technology-gap/)
-**Published:** Thu, 30 Apr 2026 01:54:02 +0000
-
-<p>TSMC is ramping up spending and capacity to meet AI demand while maintaining lead over intensifying semiconductor competition.</p>
-<p>The post <a href="https://www.eetasia.com/tsmc-ramping-up-spending-plans-to-meet-ai-chip-demand-surge-as-rivals-narrow-technology-gap/">TSMC Ramping Up Spending Plans to Meet AI Chip Demand Surge as Rivals Narrow Technology Gap</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [IEEE Honors 2026 Recognizes Global Leaders in Engineering, AI, and Semiconductor Innovation](https://www.eetasia.com/ieee-honors-2026-recognizes-global-leaders-in-engineering-ai-and-semiconductor-innovation/)
-**Published:** Wed, 29 Apr 2026 03:04:35 +0000
-
-<p>IEEE honors global innovators at 2026 ceremony recognizing breakthroughs across engineering and advanced technology fields worldwide.</p>
-<p>The post <a href="https://www.eetasia.com/ieee-honors-2026-recognizes-global-leaders-in-engineering-ai-and-semiconductor-innovation/">IEEE Honors 2026 Recognizes Global Leaders in Engineering, AI, and Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -922,6 +906,14 @@ _Last updated: 2026-05-04 03:06 UTC_
 
 ---
 
+## [Fraunhofer IPMS Eyes India For Contract Research and Semiconductor Partnerships](https://www.eetimes.com/fraunhofer-ipms-eyes-india-for-contract-research-and-semiconductor-partnerships/)
+**Published:** Mon, 04 May 2026 07:55:31 +0000
+
+<p>Michael Scholles said the interest in India comes from its evolving semiconductor ambitions. </p>
+<p>The post <a href="https://www.eetimes.com/fraunhofer-ipms-eyes-india-for-contract-research-and-semiconductor-partnerships/">Fraunhofer IPMS Eyes India For Contract Research and Semiconductor Partnerships</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [How to Build Obsolescence‑Resistant Systems in an Era of Rapid Tech Change](https://www.eetimes.com/how-to-build-obsolescence%e2%80%91resistant-systems-in-an-era-of-rapid-tech-change/)
 **Published:** Fri, 01 May 2026 13:00:00 +0000
 
@@ -938,25 +930,24 @@ _Last updated: 2026-05-04 03:06 UTC_
 
 ---
 
-## [New substrate for ceramic packages allows high density wiring and delivers greater rigidity](https://www.electronicsweekly.com/news/products/memory/substrate-for-ceramic-packages-for-high-density-wiring-and-rigidity-2026-05/)
-**Published:** Fri, 01 May 2026 05:08:22 +0000
+## [IoT Test Engineer Intern (ECE) At Zippy In Bengaluru](https://www.electronicsforu.com/career/iot-test-engineer-intern-ece-at-zippy-in-bengaluru)
+**Published:** Mon, 04 May 2026 10:01:16 +0000
 
-<p>Kyocera is bringing out a multilayer ceramic core substrate for semiconductor packages which are rapidly scaling in complexity as AI datacenter architectures evolve. Built from Kyocera’s proprietary Fine Ceramic materials, ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/memory/substrate-for-ceramic-packages-for-high-density-wiring-and-rigidity-2026-05/">New substrate for ceramic packages allows high density wiring and delivers greater rigidity</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Printed Circuit Board Design Engineer At Aether Semiconductors In Sahibzada Ajit Singh Nagar](https://www.electronicsforu.com/career/pcb-design-engineer-aether-semiconductors-sahibzada-ajit-singh-nagar)
-**Published:** Fri, 01 May 2026 11:15:04 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/03/aether-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Sahibzada Ajit Singh Nagar Company: Aether Semiconductors Job Responsibilities for PCB Design Engineer (4-8 Years of Experience) in Semiconductor Equipment Engineering: PCB Design and Development: High-Power and Embedded Systems Integration: Collaboration and Testing: Technical Documentation: Continuous Improvement: Compliance and Standards: Required Skills &#38; Qualifications Basic Requirement
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Zippy Responsibilities Qualifications Required Skills Pay Range and Compensation Package Stipend: INR 15-25k per month, depending on expertise and experience. Duration: 2 Months
 
 ---
 
-## [“We are supporting Tamper-evident and Damage-tolerant labels for reliable Authentication” – Duke Banerjee, OneARVO Ventures](https://www.electronicsforu.com/technology-trends/we-are-supporting-tamper-evident-damage-tolerant-labels-reliable-authentication-duke-banerjee-onearvo-ventures)
-**Published:** Fri, 01 May 2026 10:59:09 +0000
+## [Embedded Systems – Internship At XiLiR Technologies In Delhi](https://www.electronicsforu.com/career/embedded-systems-internship-at-xilir-technologies-in-delhi)
+**Published:** Mon, 04 May 2026 09:17:30 +0000
 
-<img alt="Duke Banerjee, Co-founder, OneARVO Ventures Private Limited" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/04/Duke-Pic-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Cracking down on counterfeits, Duke Banerjee of OneARVO Ventures reveals how non‑clonable physical pattern technology enables real‑time authentication and traceability to EFY’s Nitisha Dubey. Q. What is OneARVO Ventures, and what problem does the company solve? A. We address a critical market gap. There is no reliable, easy-to-use mechanism for end users or stakeholders to [&#8230;]
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON INTERNSHALA Location: Delhi Company: XiLiR Technologies LLP Selected intern&#8217;s day-to-day responsibilities include: Skill(s) Required Who can apply Only those candidates can apply who: Perks Stipend Structure Fixed pay:&#160;₹ 5,000 &#8211; 10,000 /month Incentive pay: ₹ 1,000 &#8211; 2,000 /month Number of openings: 5
+
+---
+
+## [Photon Teleportation Achieved Across 270 Metres](https://www.electronicsforu.com/news/photon-teleportation-achieved-across-270-metres)
+**Published:** Mon, 04 May 2026 08:06:38 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/quantum-teleportation-photon-entanglement-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A photon’s identity moved without traveling, but what really crossed that distance could redefine how future networks transmit information securely forever. An international research team including scientists from University of Paderborn has demonstrated quantum teleportation of a photon’s state between two physically separate quantum dots, marking a key step toward scalable quantum communication systems. The [&#8230;]
 
 ---
 
