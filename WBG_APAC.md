@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-04 22:14 UTC_
+_Last updated: 2026-05-05 17:37 UTC_
+
+## [Atomera and Synopsys Expand Collaboration to Accelerate GaN Modeling in RF, Power Devices](https://www.eetasia.com/atomera-and-synopsys-expand-collaboration-to-accelerate-gan-modeling-in-rf-power-devices/)
+**Published:** Mon, 04 May 2026 23:12:35 +0000
+
+<p>Atomera has expanded its collaboration with Synopsys to advance GaN device modeling for RF and power semiconductor applications.</p>
+<p>The post <a href="https://www.eetasia.com/atomera-and-synopsys-expand-collaboration-to-accelerate-gan-modeling-in-rf-power-devices/">Atomera and Synopsys Expand Collaboration to Accelerate GaN Modeling in RF, Power Devices</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Altera’s Latest FPGA AI Suite Brings Determinism to Physical AI Systems](https://www.eetasia.com/alteras-latest-fpga-ai-suite-brings-determinism-to-physical-ai-systems/)
 **Published:** Mon, 04 May 2026 02:47:26 +0000
@@ -15,14 +23,6 @@ _Last updated: 2026-05-04 22:14 UTC_
 
 <p>Semiconductor performance is shifting from transistor scaling to materials innovation amid rapidly rising AI-driven complexity demands.</p>
 <p>The post <a href="https://www.eetasia.com/the-strategic-role-of-precious-metals-in-defining-semiconductor-performance/">The Strategic Role of Precious Metals in Defining Semiconductor Performance</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [NEO Semiconductor Successfully Demos 3D X-DRAM PoC](https://www.eetasia.com/neo-semiconductor-successfully-demos-3d-x-dram-poc/)
-**Published:** Thu, 30 Apr 2026 11:24:56 +0000
-
-<p>NEO Semiconductor has achieved successful proof-of-concept results for its 3D X-DRAM technology.</p>
-<p>The post <a href="https://www.eetasia.com/neo-semiconductor-successfully-demos-3d-x-dram-poc/">NEO Semiconductor Successfully Demos 3D X-DRAM PoC</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -826,6 +826,22 @@ _Last updated: 2026-05-04 22:14 UTC_
 
 ---
 
+## [ST Introduces Integrated 100W GaN Flyback Converters](https://www.powerelectronicsnews.com/st-introduces-integrated-100w-gan-flyback-converters/)
+**Published:** Tue, 05 May 2026 14:00:00 +0000
+
+<img alt="ST Introduces Integrated 100W GaN Flyback Converters." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/N4774D-May-4-2026-VIPerGaN100W_PR-IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new GaN converters integrate key power functions, enabling compact, efficient designs for appliances and consumer electronics.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-integrated-100w-gan-flyback-converters/">ST Introduces Integrated 100W GaN Flyback Converters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Electronics Course with QSPICE (Episode 09): The BJT in Power Applications—Efficiency and Conduction Losses](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-09-the-bjt-in-power-applications-efficiency-and-conduction-losses/)
+**Published:** Tue, 05 May 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>QSPICE simulations compare BJT transistors, revealing conduction losses, switching behavior, and efficiency trade-offs in power applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-09-the-bjt-in-power-applications-efficiency-and-conduction-losses/">Power Electronics Course with QSPICE (Episode 09): The BJT in Power Applications—Efficiency and Conduction Losses</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [SSTs and DABs: Key Blocks for Future Power Distribution](https://www.powerelectronicsnews.com/ssts-and-dabs-key-blocks-for-future-power-distribution/)
 **Published:** Mon, 04 May 2026 13:51:19 +0000
 
@@ -890,19 +906,11 @@ _Last updated: 2026-05-04 22:14 UTC_
 
 ---
 
-## [Power Corner: Renesas’s Grid-to-Core Strategy for 800 V Data Center Power Architecture](https://www.powerelectronicsnews.com/power-corner-renesass-grid-to-core-strategy-for-800-v-data-center-power-architecture/)
-**Published:** Thu, 30 Apr 2026 13:00:00 +0000
+## [The Next Phase of Europe’s Semiconductor Strategy](https://www.eetimes.com/the-next-phase-of-europes-semiconductor-strategy/)
+**Published:** Tue, 05 May 2026 07:50:17 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Ventiva-thumbnail-1.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Pietro Scalia maps Renesas's full power chain strategy for 800V data centers, from GaN rectifiers to software control. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-renesass-grid-to-core-strategy-for-800-v-data-center-power-architecture/">Power Corner: Renesas&#8217;s Grid-to-Core Strategy for 800 V Data Center Power Architecture</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Atomera, Synopsys Expand GaN Device Modeling Collaboration](https://www.powerelectronicsnews.com/atomera-synopsys-expand-gan-device-modeling-collaboration/)
-**Published:** Wed, 29 Apr 2026 15:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5265" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_1482937173-1.jpeg?fit=8178%2C5265" style="display: block; margin-bottom: 5px; clear: both;" width="8178" /><p>The partnership enhances TCAD modeling for GaN RF and power devices, accelerating development and improving simulation accuracy.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/atomera-synopsys-expand-gan-device-modeling-collaboration/">Atomera, Synopsys Expand GaN Device Modeling Collaboration</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Europe’s semiconductor future will hinge on aligning geopolitics and industrial strengths into a coherent, long-term strategy.</p>
+<p>The post <a href="https://www.eetimes.com/the-next-phase-of-europes-semiconductor-strategy/">The Next Phase of Europe’s Semiconductor Strategy</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -922,24 +930,11 @@ _Last updated: 2026-05-04 22:14 UTC_
 
 ---
 
-## [IoT Test Engineer Intern (ECE) At Zippy In Bengaluru](https://www.electronicsforu.com/career/iot-test-engineer-intern-ece-at-zippy-in-bengaluru)
-**Published:** Mon, 04 May 2026 10:01:16 +0000
+## [Q1 semi sales up 25% QoQ](https://www.electronicsweekly.com/news/business/q1-semi-sales-up-25-qoq-2026-05/)
+**Published:** Tue, 05 May 2026 05:15:13 +0000
 
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Zippy Responsibilities Qualifications Required Skills Pay Range and Compensation Package Stipend: INR 15-25k per month, depending on expertise and experience. Duration: 2 Months
-
----
-
-## [Embedded Systems – Internship At XiLiR Technologies In Delhi](https://www.electronicsforu.com/career/embedded-systems-internship-at-xilir-technologies-in-delhi)
-**Published:** Mon, 04 May 2026 09:17:30 +0000
-
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON INTERNSHALA Location: Delhi Company: XiLiR Technologies LLP Selected intern&#8217;s day-to-day responsibilities include: Skill(s) Required Who can apply Only those candidates can apply who: Perks Stipend Structure Fixed pay:&#160;₹ 5,000 &#8211; 10,000 /month Incentive pay: ₹ 1,000 &#8211; 2,000 /month Number of openings: 5
-
----
-
-## [Photon Teleportation Achieved Across 270 Metres](https://www.electronicsforu.com/news/photon-teleportation-achieved-across-270-metres)
-**Published:** Mon, 04 May 2026 08:06:38 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/quantum-teleportation-photon-entanglement-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A photon’s identity moved without traveling, but what really crossed that distance could redefine how future networks transmit information securely forever. An international research team including scientists from University of Paderborn has demonstrated quantum teleportation of a photon’s state between two physically separate quantum dots, marking a key step toward scalable quantum communication systems. The [&#8230;]
+<p>Q1 semiconductor sales of  $298.5 billion were 25% up QoQ, says the SIA. March sales of $99.5 billion were up 79.2% on the March 2025 total of $55.5  billion and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/q1-semi-sales-up-25-qoq-2026-05/">Q1 semi sales up 25% QoQ</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
