@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-05 21:16 UTC_
+_Last updated: 2026-05-05 23:08 UTC_
 
 ## [Atomera and Synopsys Expand Collaboration to Accelerate GaN Modeling in RF, Power Devices](https://www.eetasia.com/atomera-and-synopsys-expand-collaboration-to-accelerate-gan-modeling-in-rf-power-devices/)
 **Published:** Mon, 04 May 2026 23:12:35 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-05-05 21:16 UTC_
 
 <p>Semiconductor performance is shifting from transistor scaling to materials innovation amid rapidly rising AI-driven complexity demands.</p>
 <p>The post <a href="https://www.eetasia.com/the-strategic-role-of-precious-metals-in-defining-semiconductor-performance/">The Strategic Role of Precious Metals in Defining Semiconductor Performance</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Sharp Increase in Global Semiconductor Sales in Q1 2026](https://www.semiconductor-digest.com/sharp-increase-in-global-semiconductor-sales-in-q1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=sharp-increase-in-global-semiconductor-sales-in-q1-2026)
+**Published:** Tue, 05 May 2026 21:54:05 +0000
+
+<p>Today, the European Semiconductor Industry Association (ESIA) reports that, in the first quarter of 2026, the global semiconductor market recorded a sharp increase of 79.2% year-on-year, reaching USD 298.55 billion in sales.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sharp-increase-in-global-semiconductor-sales-in-q1-2026/">Sharp Increase in Global Semiconductor Sales in Q1 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Uviquity Announces the World’s First Chip-Scale Deep-UV Laser at 229nm](https://www.semiconductor-digest.com/uviquity-announces-the-worlds-first-chip-scale-deep-uv-laser-at-229nm/?utm_source=rss&utm_medium=rss&utm_campaign=uviquity-announces-the-worlds-first-chip-scale-deep-uv-laser-at-229nm)
+**Published:** Tue, 05 May 2026 21:44:55 +0000
+
+<p>Aluminum nitride photonic integrated circuit brings chip-scale deep-UV light to analytical and inspection instruments serving semiconductor, pharmaceutical/biopharmaceutical, petrochemical, environmental, and defense markets.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/uviquity-announces-the-worlds-first-chip-scale-deep-uv-laser-at-229nm/">Uviquity Announces the World&#8217;s First Chip-Scale Deep-UV Laser at 229nm</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Xanadu and EV Group Partner to Build Industrial-Scale Photonic Quantum Hardware](https://www.semiconductor-digest.com/xanadu-and-ev-group-partner-to-build-industrial-scale-photonic-quantum-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=xanadu-and-ev-group-partner-to-build-industrial-scale-photonic-quantum-hardware)
+**Published:** Tue, 05 May 2026 21:37:18 +0000
+
+<p>Xanadu Quantum Technologies Ltd. and EV Group today announced a strategic partnership to develop critical heterogeneous integration and wafer bonding processes to facilitate the scalability of photonic quantum systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/xanadu-and-ev-group-partner-to-build-industrial-scale-photonic-quantum-hardware/">Xanadu and EV Group Partner to Build Industrial-Scale Photonic Quantum Hardware</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TechniQuip Introduces FlightDeck Operating System](https://www.semiconductor-digest.com/techniquip-introduces-flightdeck-operating-system/?utm_source=rss&utm_medium=rss&utm_campaign=techniquip-introduces-flightdeck-operating-system)
+**Published:** Tue, 05 May 2026 21:26:40 +0000
+
+<p>TechniQuip, designers and builders of precision OEM illumination for applications in semiconductor, life sciences and medical devices, announces today the introduction of the FlightDeck.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/techniquip-introduces-flightdeck-operating-system/">TechniQuip Introduces FlightDeck Operating System</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,38 +823,6 @@ _Last updated: 2026-05-05 21:16 UTC_
 
 <p>Bruker Corporation today announced accelerated development of its photothermal AFM‑IR spectroscopy capabilities to address research challenges facing the semiconductor industry as device architectures continue to shrink and systems become increasingly more complex.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/bruker-invests-in-photothermal-afm-ir-to-advance-semiconductor-research/">Bruker Invests in Photothermal AFM-IR to Advance Semiconductor Research</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Innatera Launches Synfire](https://www.semiconductor-digest.com/innatera-launches-synfire/?utm_source=rss&utm_medium=rss&utm_campaign=innatera-launches-synfire)
-**Published:** Tue, 07 Apr 2026 20:35:09 +0000
-
-<p>An open, community-driven platform that brings researchers, developers, and industry together to standardize and scale neuromorphic systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/innatera-launches-synfire/">Innatera Launches Synfire</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [European Chips Skills Academy Launches the ECSA Learning Platform](https://www.semiconductor-digest.com/european-chips-skills-academy-launches-the-ecsa-learning-platform/?utm_source=rss&utm_medium=rss&utm_campaign=european-chips-skills-academy-launches-the-ecsa-learning-platform)
-**Published:** Mon, 06 Apr 2026 22:09:05 +0000
-
-<p>The European Chips Skills Academy (ECSA), an European Union (EU)-funded initiative coordinated by SEMI Europe, today announced the official launch of its ECSA Learning Platform.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/european-chips-skills-academy-launches-the-ecsa-learning-platform/">European Chips Skills Academy Launches the ECSA Learning Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Semiconductor-Based Quantum Pilot Line ‘SPINS’ Launched with EU Support](https://www.semiconductor-digest.com/semiconductor-based-quantum-pilot-line-spins-launched-with-eu-support/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-based-quantum-pilot-line-spins-launched-with-eu-support)
-**Published:** Mon, 06 Apr 2026 22:04:51 +0000
-
-<p>Coordinated by imec, the consortium brings together 25 European RTOs, industry partners, and academic research groups to strengthen Europe’s leadership and sovereignty in this strategically important domain.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-based-quantum-pilot-line-spins-launched-with-eu-support/">Semiconductor-Based Quantum Pilot Line ‘SPINS’ Launched with EU Support</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Stitching Precise Patterns – With Lasers](https://www.semiconductor-digest.com/stitching-precise-patterns-with-lasers/?utm_source=rss&utm_medium=rss&utm_campaign=stitching-precise-patterns-with-lasers)
-**Published:** Mon, 06 Apr 2026 21:57:58 +0000
-
-<p>An interdisciplinary team at the University of Pittsburgh’s Swanson School of Engineering has developed a new manufacturing strategy that reveals where and how laser-induced graphene (LIG) forms on polymers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/stitching-precise-patterns-with-lasers/">Stitching Precise Patterns &#8211; With Lasers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
