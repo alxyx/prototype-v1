@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-05 17:37 UTC_
+_Last updated: 2026-05-05 21:16 UTC_
 
 ## [Atomera and Synopsys Expand Collaboration to Accelerate GaN Modeling in RF, Power Devices](https://www.eetasia.com/atomera-and-synopsys-expand-collaboration-to-accelerate-gan-modeling-in-rf-power-devices/)
 **Published:** Mon, 04 May 2026 23:12:35 +0000
@@ -23,6 +23,14 @@ _Last updated: 2026-05-05 17:37 UTC_
 
 <p>Semiconductor performance is shifting from transistor scaling to materials innovation amid rapidly rising AI-driven complexity demands.</p>
 <p>The post <a href="https://www.eetasia.com/the-strategic-role-of-precious-metals-in-defining-semiconductor-performance/">The Strategic Role of Precious Metals in Defining Semiconductor Performance</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [What’s in the April/May Issue?](https://www.semiconductor-digest.com/whats-in-the-april-may-issue-6/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-april-may-issue-6)
+**Published:** Tue, 05 May 2026 19:17:58 +0000
+
+<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the April/May issue. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-april-may-issue-6/">What&#8217;s in the April/May Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -815,14 +823,6 @@ _Last updated: 2026-05-05 17:37 UTC_
 
 <p>An interdisciplinary team at the University of Pittsburgh’s Swanson School of Engineering has developed a new manufacturing strategy that reveals where and how laser-induced graphene (LIG) forms on polymers.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/stitching-precise-patterns-with-lasers/">Stitching Precise Patterns &#8211; With Lasers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Bureau Veritas Acquires Lotusworks](https://www.semiconductor-digest.com/bureau-veritas-acquires-lotusworks/?utm_source=rss&utm_medium=rss&utm_campaign=bureau-veritas-acquires-lotusworks)
-**Published:** Mon, 06 Apr 2026 21:47:39 +0000
-
-<p>The transaction is expected to close by summer 2026, subject to customary regulatory approvals.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/bureau-veritas-acquires-lotusworks/">Bureau Veritas Acquires Lotusworks</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
