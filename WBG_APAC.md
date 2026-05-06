@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-06 16:41 UTC_
+_Last updated: 2026-05-06 20:35 UTC_
 
 ## [Lattice Semiconductor to Acquire AMI](https://www.eetasia.com/lattice-semiconductor-to-acquire-ami/)
 **Published:** Tue, 05 May 2026 23:48:30 +0000
