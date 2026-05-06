@@ -1,28 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-05 23:08 UTC_
+_Last updated: 2026-05-06 06:12 UTC_
+
+## [Lattice Semiconductor to Acquire AMI](https://www.eetasia.com/lattice-semiconductor-to-acquire-ami/)
+**Published:** Tue, 05 May 2026 23:48:30 +0000
+
+<p>The planned acquisition advances Lattice's strategy to expand its position in server, AI, and cloud applications.</p>
+<p>The post <a href="https://www.eetasia.com/lattice-semiconductor-to-acquire-ami/">Lattice Semiconductor to Acquire AMI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Strategic Roadmap for Scaling Agentic AI in Semiconductor Design](https://www.eetasia.com/strategic-roadmap-for-scaling-agentic-ai-in-semiconductor-design/)
+**Published:** Tue, 05 May 2026 23:01:21 +0000
+
+<p>Semiconductor firms must adopt structured strategies to scale agentic AI while preserving rigor, trust, and performance.</p>
+<p>The post <a href="https://www.eetasia.com/strategic-roadmap-for-scaling-agentic-ai-in-semiconductor-design/">Strategic Roadmap for Scaling Agentic AI in Semiconductor Design</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Atomera and Synopsys Expand Collaboration to Accelerate GaN Modeling in RF, Power Devices](https://www.eetasia.com/atomera-and-synopsys-expand-collaboration-to-accelerate-gan-modeling-in-rf-power-devices/)
 **Published:** Mon, 04 May 2026 23:12:35 +0000
 
 <p>Atomera has expanded its collaboration with Synopsys to advance GaN device modeling for RF and power semiconductor applications.</p>
 <p>The post <a href="https://www.eetasia.com/atomera-and-synopsys-expand-collaboration-to-accelerate-gan-modeling-in-rf-power-devices/">Atomera and Synopsys Expand Collaboration to Accelerate GaN Modeling in RF, Power Devices</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Altera’s Latest FPGA AI Suite Brings Determinism to Physical AI Systems](https://www.eetasia.com/alteras-latest-fpga-ai-suite-brings-determinism-to-physical-ai-systems/)
-**Published:** Mon, 04 May 2026 02:47:26 +0000
-
-<p>Altera's FPGA AI Suite 26.1.1 simplifies and accelerates deployment of trained AI models onto FPGAs for edge AI applications.</p>
-<p>The post <a href="https://www.eetasia.com/alteras-latest-fpga-ai-suite-brings-determinism-to-physical-ai-systems/">Altera&#8217;s Latest FPGA AI Suite Brings Determinism to Physical AI Systems</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [The Strategic Role of Precious Metals in Defining Semiconductor Performance](https://www.eetasia.com/the-strategic-role-of-precious-metals-in-defining-semiconductor-performance/)
-**Published:** Fri, 01 May 2026 07:58:24 +0000
-
-<p>Semiconductor performance is shifting from transistor scaling to materials innovation amid rapidly rising AI-driven complexity demands.</p>
-<p>The post <a href="https://www.eetasia.com/the-strategic-role-of-precious-metals-in-defining-semiconductor-performance/">The Strategic Role of Precious Metals in Defining Semiconductor Performance</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -930,11 +930,33 @@ _Last updated: 2026-05-05 23:08 UTC_
 
 ---
 
-## [Q1 semi sales up 25% QoQ](https://www.electronicsweekly.com/news/business/q1-semi-sales-up-25-qoq-2026-05/)
-**Published:** Tue, 05 May 2026 05:15:13 +0000
+## [Semiconductor downturn forecast](https://www.electronicsweekly.com/news/business/semiconductor-downturn-forecast-2026-05/)
+**Published:** Wed, 06 May 2026 05:29:03 +0000
 
-<p>Q1 semiconductor sales of  $298.5 billion were 25% up QoQ, says the SIA. March sales of $99.5 billion were up 79.2% on the March 2025 total of $55.5  billion and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/q1-semi-sales-up-25-qoq-2026-05/">Q1 semi sales up 25% QoQ</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Alone among semiconductor analysts, the normally bullish CEO of Future Horizons, Malcolm Penn (pictured), forecasted an industry downturn &#8211; “maybe this year, if not, next year “ &#8211; speaking at ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/semiconductor-downturn-forecast-2026-05/">Semiconductor downturn forecast</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [120 students tape out ASIC designs](https://www.electronicsweekly.com/news/business/120-students-tape-out-asic-designs-2026-05/)
+**Published:** Wed, 06 May 2026 05:26:11 +0000
+
+<p>The School of Electrical and Electronic Engineering at the University of Sheffield recently hosted a landmark hands-on chip design workshop bringing together students from across the UK to design and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/120-students-tape-out-asic-designs-2026-05/">120 students tape out ASIC designs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Hardware Design (Power Electronics) Internship At Emiant Innovations In Vadodara](https://www.electronicsforu.com/career/hardware-design-power-electronics-internship-emiant-innovations-vadodara)
+**Published:** Wed, 06 May 2026 05:44:48 +0000
+
+<img alt="Lead Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/jobs-shutterstock-ubj750-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Vadodara Company: Emiant Innovations Pvt Ltd What You’ll Do Must-Have Good-to-Have (Not Mandatory) Why Join a Startup? Who Should Apply Stipend: INR 10,000-12,000 per month Eligibility
+
+---
+
+## [SiGe Chip Hits 500Gbps Barrier](https://www.electronicsforu.com/news/sige-chip-hits-500gbps-barrier)
+**Published:** Wed, 06 May 2026 04:37:56 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/Untitled-design-2026-05-06T005051-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A silicon-germanium chip reaches 500Gbps data speeds, redefining high-frequency performance and signalling a major shift for next-generation electronics, high-speed interconnects, and data-intensive computing infrastructure worldwide. A silicon-germanium (SiGe) chip has achieved a record-breaking 500Gbps data transmission speed, setting a new benchmark for high-frequency semiconductor performance. The milestone highlights the growing potential of SiGe technology to [&#8230;]
 
 ---
 
