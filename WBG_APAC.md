@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-06 06:12 UTC_
+_Last updated: 2026-05-06 16:41 UTC_
 
 ## [Lattice Semiconductor to Acquire AMI](https://www.eetasia.com/lattice-semiconductor-to-acquire-ami/)
 **Published:** Tue, 05 May 2026 23:48:30 +0000
@@ -826,6 +826,30 @@ _Last updated: 2026-05-06 06:12 UTC_
 
 ---
 
+## [AOS Expands Power Portfolio with Protected DrMOS Technology](https://www.powerelectronicsnews.com/aos-expands-power-portfolio-with-protected-drmos-technology/)
+**Published:** Wed, 06 May 2026 15:00:00 +0000
+
+<img alt="AOS Expands Power Portfolio with Protected DrMOS Technology." class="webfeedsFeaturedVisual wp-post-image" height="1028" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AOS_53228QI.jpg?fit=1200%2C1028" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new protected DrMOS devices improve current limiting and reliability for demanding AI and data center workloads.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/aos-expands-power-portfolio-with-protected-drmos-technology/">AOS Expands Power Portfolio with Protected DrMOS Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Arrow Electronics World 2026: Geopolitics, AI at the Edge, and 100+ Exhibitors Come to Parma](https://www.powerelectronicsnews.com/arrow-electronics-world-2026-geopolitics-ai-at-the-edge-and-100-exhibitors-come-to-parma/)
+**Published:** Wed, 06 May 2026 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Arrow-Electronics-World-2026.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Italy's premier electronics event returns June 18, exploring AI at the edge and global supply chain geopolitics.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/arrow-electronics-world-2026-geopolitics-ai-at-the-edge-and-100-exhibitors-come-to-parma/">Arrow Electronics World 2026: Geopolitics, AI at the Edge, and 100+ Exhibitors Come to Parma</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Recent Advances Push SiC Superjunction MOSFETs Toward Mass Production](https://www.powerelectronicsnews.com/recent-advances-push-sic-superjunction-mosfets-toward-mass-production/)
+**Published:** Wed, 06 May 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_483004683.jpeg?fit=4096%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="4096" /><p>Over the last four decades, using planar and trench technologies, silicon carbide (SiC) MOSFETs have evolved from high-resistance, low-yield transistors to high-performance, mass-produced MOSFETs. While...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/recent-advances-push-sic-superjunction-mosfets-toward-mass-production/">Recent Advances Push SiC Superjunction MOSFETs Toward Mass Production </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [ST Introduces Integrated 100W GaN Flyback Converters](https://www.powerelectronicsnews.com/st-introduces-integrated-100w-gan-flyback-converters/)
 **Published:** Tue, 05 May 2026 14:00:00 +0000
 
@@ -882,30 +906,6 @@ _Last updated: 2026-05-06 06:12 UTC_
 
 ---
 
-## [Gallium Oxide Trench SBD, Half-Bridge Converters, Metal-Contact MEMS: Power Electronics Week Insights](https://www.powerelectronicsnews.com/gallium-oxide-trench-sbd-half-bridge-converters-metal-contact-mems-power-electronics-week-insights/)
-**Published:** Fri, 01 May 2026 13:36:01 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Gallium Oxide Trench SBD, Half-Bridge Converters, and Metal-Contact MEMS!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/gallium-oxide-trench-sbd-half-bridge-converters-metal-contact-mems-power-electronics-week-insights/">Gallium Oxide Trench SBD, Half-Bridge Converters, Metal-Contact MEMS: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wide Bandgap Monthly Insights – April 2026](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-april-2026/)
-**Published:** Thu, 30 Apr 2026 16:00:00 +0000
-
-<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about SiC, GaN, and Wide Bandgap Materials!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-april-2026/">Wide Bandgap Monthly Insights &#8211; April 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Enphase Unveils Solid-State Transformer for AI Data Centers](https://www.powerelectronicsnews.com/enphase-unveils-solid-state-transformer-for-ai-data-centers/)
-**Published:** Thu, 30 Apr 2026 13:37:28 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2880" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/03/AdobeStock_350459236.jpeg?fit=5120%2C2880" style="display: block; margin-bottom: 5px; clear: both;" width="5120" /><p>The new distributed SST platform targets high-density AI workloads with efficient, battery-free power conversion architecture.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/enphase-unveils-solid-state-transformer-for-ai-data-centers/">Enphase Unveils Solid-State Transformer for AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [The Next Phase of Europe’s Semiconductor Strategy](https://www.eetimes.com/the-next-phase-of-europes-semiconductor-strategy/)
 **Published:** Tue, 05 May 2026 07:50:17 +0000
 
@@ -922,18 +922,10 @@ _Last updated: 2026-05-06 06:12 UTC_
 
 ---
 
-## [How to Build Obsolescence‑Resistant Systems in an Era of Rapid Tech Change](https://www.eetimes.com/how-to-build-obsolescence%e2%80%91resistant-systems-in-an-era-of-rapid-tech-change/)
-**Published:** Fri, 01 May 2026 13:00:00 +0000
-
-<p>Proactively manage semiconductor obsolescence with early insights and trusted partners to avoid redesigns and keep your supply chain secure.</p>
-<p>The post <a href="https://www.eetimes.com/how-to-build-obsolescence%e2%80%91resistant-systems-in-an-era-of-rapid-tech-change/">How to Build Obsolescence‑Resistant Systems in an Era of Rapid Tech Change </a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
 ## [Semiconductor downturn forecast](https://www.electronicsweekly.com/news/business/semiconductor-downturn-forecast-2026-05/)
 **Published:** Wed, 06 May 2026 05:29:03 +0000
 
-<p>Alone among semiconductor analysts, the normally bullish CEO of Future Horizons, Malcolm Penn (pictured), forecasted an industry downturn &#8211; “maybe this year, if not, next year “ &#8211; speaking at ...</p>
+<p>Alone among semiconductor analysts, the normally bullish CEO of Future Horizons, Malcolm Penn (pictured), forecasted an industry downturn &#8211; &#8220;maybe this year, if not, next year&#8221; &#8211; speaking at IFS ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/semiconductor-downturn-forecast-2026-05/">Semiconductor downturn forecast</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
@@ -946,17 +938,17 @@ _Last updated: 2026-05-06 06:12 UTC_
 
 ---
 
-## [Hardware Design (Power Electronics) Internship At Emiant Innovations In Vadodara](https://www.electronicsforu.com/career/hardware-design-power-electronics-internship-emiant-innovations-vadodara)
-**Published:** Wed, 06 May 2026 05:44:48 +0000
+## [JOB: Hardware developer – PLECs and Python At Capgemini In Bengaluru](https://www.electronicsforu.com/career/hardware-developer-plecs-python-capgemini-bengaluru)
+**Published:** Wed, 06 May 2026 09:58:15 +0000
 
-<img alt="Lead Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/12/jobs-shutterstock-ubj750-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Vadodara Company: Emiant Innovations Pvt Ltd What You’ll Do Must-Have Good-to-Have (Not Mandatory) Why Join a Startup? Who Should Apply Stipend: INR 10,000-12,000 per month Eligibility
+<img alt="HW Engineer DFT" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2021/03/capgemini-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Capgemini As a Hardware Developer – Simulation, you will play a key role in designing, simulating, and validating hardware systems with a strong focus on power electronics and magnetics. You will work closely with system architects and development teams to ensure reliable, efficient, and scalable hardware designs using advanced simulation [&#8230;]
 
 ---
 
-## [SiGe Chip Hits 500Gbps Barrier](https://www.electronicsforu.com/news/sige-chip-hits-500gbps-barrier)
-**Published:** Wed, 06 May 2026 04:37:56 +0000
+## [Ceramic Rigidity Enters Chip Packaging](https://www.electronicsforu.com/news/ceramic-rigidity-enters-chip-packaging)
+**Published:** Wed, 06 May 2026 08:19:22 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/Untitled-design-2026-05-06T005051-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A silicon-germanium chip reaches 500Gbps data speeds, redefining high-frequency performance and signalling a major shift for next-generation electronics, high-speed interconnects, and data-intensive computing infrastructure worldwide. A silicon-germanium (SiGe) chip has achieved a record-breaking 500Gbps data transmission speed, setting a new benchmark for high-frequency semiconductor performance. The milestone highlights the growing potential of SiGe technology to [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/epub_skyworks-4-30-26-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As package sizes grow, warpage can become a real headache. A ceramic approach can offer rigidity where traditional materials fall short. Kyocera Corporation has commercialized a new multilayer ceramic core substrate designed for advanced semiconductor packages such as xPUs and switch ASICs, addressing the rising complexity of AI driven data center architectures. Built using proprietary [&#8230;]
 
 ---
 
