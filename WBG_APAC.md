@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-06 20:35 UTC_
+_Last updated: 2026-05-06 22:11 UTC_
 
 ## [Lattice Semiconductor to Acquire AMI](https://www.eetasia.com/lattice-semiconductor-to-acquire-ami/)
 **Published:** Tue, 05 May 2026 23:48:30 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-05-06 20:35 UTC_
 
 <p>Atomera has expanded its collaboration with Synopsys to advance GaN device modeling for RF and power semiconductor applications.</p>
 <p>The post <a href="https://www.eetasia.com/atomera-and-synopsys-expand-collaboration-to-accelerate-gan-modeling-in-rf-power-devices/">Atomera and Synopsys Expand Collaboration to Accelerate GaN Modeling in RF, Power Devices</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Advent Diamond and Northrop Grumman Set New Record for Diamond-based Solid-State Limiters](https://www.semiconductor-digest.com/advent-diamond-and-northrop-grumman-set-new-record-for-diamond-based-solid-state-limiters/?utm_source=rss&utm_medium=rss&utm_campaign=advent-diamond-and-northrop-grumman-set-new-record-for-diamond-based-solid-state-limiters)
+**Published:** Wed, 06 May 2026 21:39:09 +0000
+
+<p>Advent Diamond Inc. and Northrop Grumman have set a new performance record for solid state limiters made from engineered diamond.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/advent-diamond-and-northrop-grumman-set-new-record-for-diamond-based-solid-state-limiters/">Advent Diamond and Northrop Grumman Set New Record for Diamond-based Solid-State Limiters</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NVIDIA and Corning Announce Long-Term Partnership To Strengthen U.S. Manufacturing for AI Infrastructure](https://www.semiconductor-digest.com/nvidia-and-corning-announce-long-term-partnership-to-strengthen-u-s-manufacturing-for-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-and-corning-announce-long-term-partnership-to-strengthen-u-s-manufacturing-for-ai-infrastructure)
+**Published:** Wed, 06 May 2026 20:56:28 +0000
+
+<p>Corning will expand U.S. optical connectivity capacity 10x, build three new manufacturing plants, and create more than 3,000 high-paying American jobs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nvidia-and-corning-announce-long-term-partnership-to-strengthen-u-s-manufacturing-for-ai-infrastructure/">NVIDIA and Corning Announce Long-Term Partnership To Strengthen U.S. Manufacturing for AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SPARK Microsystems Honored with Product Innovation Award by Canada’s Semiconductor Council](https://www.semiconductor-digest.com/spark-microsystems-honored-with-product-innovation-award-by-canadas-semiconductor-council/?utm_source=rss&utm_medium=rss&utm_campaign=spark-microsystems-honored-with-product-innovation-award-by-canadas-semiconductor-council)
+**Published:** Wed, 06 May 2026 20:49:41 +0000
+
+<p>SPARK Microsystems, a Canadian fabless semiconductor company specializing in next-generation short-range wireless communications, today announced that its SR1120 LE-UWB wireless transceiver has been honored as a recipient of the Product Innovation Award in conjunction with the Semiconductor Achievement Awards hosted by Canada's Semiconductor Council (CSC).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/spark-microsystems-honored-with-product-innovation-award-by-canadas-semiconductor-council/">SPARK Microsystems Honored with Product Innovation Award by Canada’s Semiconductor Council</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens Hardware-Assisted Verification Validates Arm AGI CPU for Scalable Agentic AI](https://www.semiconductor-digest.com/siemens-hardware-assisted-verification-validates-arm-agi-cpu-for-scalable-agentic-ai/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-hardware-assisted-verification-validates-arm-agi-cpu-for-scalable-agentic-ai)
+**Published:** Wed, 06 May 2026 20:47:06 +0000
+
+<p>Siemens has collaborated with Arm to support verification of the Arm AGI CPU and validate its performance for next-generation agentic AI workloads, enabling scalable, production-ready infrastructure.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-hardware-assisted-verification-validates-arm-agi-cpu-for-scalable-agentic-ai/">Siemens Hardware-Assisted Verification Validates Arm AGI CPU for Scalable Agentic AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,38 +823,6 @@ _Last updated: 2026-05-06 20:35 UTC_
 
 <p>Worldwide sales of semiconductor manufacturing equipment increased 15% to $135.1 billion in 2025 from $117.1 billion in 2024, driven by continued investment in advanced logic, memory, and AI-related capacity expansion.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semi-reports-global-semiconductor-equipment-billings-reached-135-billion-in-2025-up-15-year-on-year/">SEMI Reports Global Semiconductor Equipment Billings Reached $135 Billion in 2025, Up 15% Year-on-Year</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [So You Want to Export Semiconductors?](https://www.semiconductor-digest.com/so-you-want-to-export-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=so-you-want-to-export-semiconductors)
-**Published:** Wed, 08 Apr 2026 13:10:30 +0000
-
-<p>This article explores each agency’s export authority, its licensing requirements and process, and potential violations under each. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/so-you-want-to-export-semiconductors/">So You Want to Export Semiconductors?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Park Systems Opens New Global Headquarters](https://www.semiconductor-digest.com/park-systems-opens-new-global-headquarters/?utm_source=rss&utm_medium=rss&utm_campaign=park-systems-opens-new-global-headquarters)
-**Published:** Tue, 07 Apr 2026 21:20:32 +0000
-
-<p>Park Systems Corp., a provider of atomic force microscopy (AFM) solutions, today announced the opening of its new global headquarters in Gwacheon city, South Korea.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/park-systems-opens-new-global-headquarters/">Park Systems Opens New Global Headquarters</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Global Semiconductor Sales Increase Substantially in February](https://www.semiconductor-digest.com/global-semiconductor-sales-increase-substantially-in-february/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-sales-increase-substantially-in-february)
-**Published:** Tue, 07 Apr 2026 21:14:51 +0000
-
-<p>Worldwide chip sales up 61.8% year-to-year, 7.6% month-to-month.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-sales-increase-substantially-in-february/">Global Semiconductor Sales Increase Substantially in February</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Bruker Invests in Photothermal AFM-IR to Advance Semiconductor Research](https://www.semiconductor-digest.com/bruker-invests-in-photothermal-afm-ir-to-advance-semiconductor-research/?utm_source=rss&utm_medium=rss&utm_campaign=bruker-invests-in-photothermal-afm-ir-to-advance-semiconductor-research)
-**Published:** Tue, 07 Apr 2026 20:41:45 +0000
-
-<p>Bruker Corporation today announced accelerated development of its photothermal AFM‑IR spectroscopy capabilities to address research challenges facing the semiconductor industry as device architectures continue to shrink and systems become increasingly more complex.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/bruker-invests-in-photothermal-afm-ir-to-advance-semiconductor-research/">Bruker Invests in Photothermal AFM-IR to Advance Semiconductor Research</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
