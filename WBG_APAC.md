@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-07 18:37 UTC_
+_Last updated: 2026-05-07 20:27 UTC_
 
 ## [Arrow Details Strategy to Address Fragmentation, Complexity in Japan’s Semiconductor Procurement Ecosystem](https://www.eetasia.com/arrow-details-strategy-to-address-fragmentation-complexity-in-japans-semiconductor-procurement-ecosystem/)
 **Published:** Wed, 06 May 2026 23:21:54 +0000
@@ -23,6 +23,46 @@ _Last updated: 2026-05-07 18:37 UTC_
 
 <p>Semiconductor firms must adopt structured strategies to scale agentic AI while preserving rigor, trust, and performance.</p>
 <p>The post <a href="https://www.eetasia.com/strategic-roadmap-for-scaling-agentic-ai-in-semiconductor-design/">Strategic Roadmap for Scaling Agentic AI in Semiconductor Design</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Global Semiconductor Sales Increase 25% from Q4 2025 to Q1 2026](https://www.semiconductor-digest.com/global-semiconductor-sales-increase-25-from-q4-2025-to-q1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-sales-increase-25-from-q4-2025-to-q1-2026)
+**Published:** Thu, 07 May 2026 19:16:15 +0000
+
+<p>Worldwide chip sales in March increase 79.2% year-to-year, 11.5% month-to-month.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-sales-increase-25-from-q4-2025-to-q1-2026/">Global Semiconductor Sales Increase 25% from Q4 2025 to Q1 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Organic Luminescent Radicals Enable Bright Circularly Polarized Light in the Near-Infrared Region](https://www.semiconductor-digest.com/organic-luminescent-radicals-enable-bright-circularly-polarized-light-in-the-near-infrared-region/?utm_source=rss&utm_medium=rss&utm_campaign=organic-luminescent-radicals-enable-bright-circularly-polarized-light-in-the-near-infrared-region)
+**Published:** Thu, 07 May 2026 19:06:54 +0000
+
+<p>New molecular design unlocks high photoluminescence efficiency and improved stability, with potential applications in lasers, bioimaging, and quantum technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/organic-luminescent-radicals-enable-bright-circularly-polarized-light-in-the-near-infrared-region/">Organic Luminescent Radicals Enable Bright Circularly Polarized Light in the Near-Infrared Region</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMIFIVE and ICY Tech Achieve Successful Tape-out of 8nm eMRAM-Based Edge AI SoC, Targeting First Commercialization in Asia](https://www.semiconductor-digest.com/semifive-and-icy-tech-achieve-successful-tape-out-of-8nm-emram-based-edge-ai-soc-targeting-first-commercialization-in-asia/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-and-icy-tech-achieve-successful-tape-out-of-8nm-emram-based-edge-ai-soc-targeting-first-commercialization-in-asia)
+**Published:** Thu, 07 May 2026 18:49:00 +0000
+
+<p>This marks a significant milestone toward the first commercial deployment of 8nm eMRAM technology in Asia.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semifive-and-icy-tech-achieve-successful-tape-out-of-8nm-emram-based-edge-ai-soc-targeting-first-commercialization-in-asia/">SEMIFIVE and ICY Tech Achieve Successful Tape-out of 8nm eMRAM-Based Edge AI SoC, Targeting First Commercialization in Asia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Quantum Motion Raises $160 Million Series C to Deliver Quantum Computing’s “Transistor Moment”](https://www.semiconductor-digest.com/quantum-motion-raises-160-million-series-c-to-deliver-quantum-computings-transistor-moment/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-motion-raises-160-million-series-c-to-deliver-quantum-computings-transistor-moment)
+**Published:** Thu, 07 May 2026 18:44:27 +0000
+
+<p>Quantum Motion, a company in silicon transistor-based quantum computing, today announced a $160 million Series C round to commercialise its scalable and energy-efficient approach to quantum computing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/quantum-motion-raises-160-million-series-c-to-deliver-quantum-computings-transistor-moment/">Quantum Motion Raises $160 Million Series C to Deliver Quantum Computing&#8217;s &#8220;Transistor Moment&#8221;</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SCALE Expands its National Impact, Becomes Purdue’s Largest Federally Funded Research Effort](https://www.semiconductor-digest.com/scale-expands-its-national-impact-becomes-purdues-largest-federally-funded-research-effort/?utm_source=rss&utm_medium=rss&utm_campaign=scale-expands-its-national-impact-becomes-purdues-largest-federally-funded-research-effort)
+**Published:** Thu, 07 May 2026 18:38:53 +0000
+
+<p>The Scalable Asymmetric Lifecycle Engagement (SCALE) program, the only U.S. defense microelectronics public-private-academic workforce development consortium, is now Purdue University’s largest-ever federally funded research effort.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/scale-expands-its-national-impact-becomes-purdues-largest-federally-funded-research-effort/">SCALE Expands its National Impact, Becomes Purdue’s Largest Federally Funded Research Effort</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -786,46 +826,6 @@ _Last updated: 2026-05-07 18:37 UTC_
 
 ---
 
-## [Siemens Accelerates AI Chip Verification to Trillion‑Cycle Scale with NVIDIA Technology](https://www.semiconductor-digest.com/siemens-accelerates-ai-chip-verification-to-trillion-cycle-scale-with-nvidia-technology/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-accelerates-ai-chip-verification-to-trillion-cycle-scale-with-nvidia-technology)
-**Published:** Thu, 09 Apr 2026 15:35:46 +0000
-
-<p>Siemens announced today that its Veloce proFPGA CS hardware-assisted verification and validation system is empowering designers and system architects to create even more optimized designs by running and capturing trillions of verification cycles, prior to first silicon availability.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-accelerates-ai-chip-verification-to-trillion-cycle-scale-with-nvidia-technology/">Siemens Accelerates AI Chip Verification to Trillion‑Cycle Scale with NVIDIA Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [An Integratable Optical Isolator Chip Is Now Available for Mass Production](https://www.semiconductor-digest.com/an-integratable-optical-isolator-chip-is-now-available-for-mass-production/?utm_source=rss&utm_medium=rss&utm_campaign=an-integratable-optical-isolator-chip-is-now-available-for-mass-production)
-**Published:** Thu, 09 Apr 2026 14:34:23 +0000
-
-<p>PhotoniSol Inc. announced a new technical breakthrough with the successful demonstration of monolithically integrated optical isolator chips with sputter-coated magneto-optic films on silicon waveguides, whose processes can be adapted to conventional CMOS fabrication lines.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/an-integratable-optical-isolator-chip-is-now-available-for-mass-production/">An Integratable Optical Isolator Chip Is Now Available for Mass Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Everspin Technologies Expands On-Shore MRAM Manufacturing Capacity](https://www.semiconductor-digest.com/everspin-technologies-expands-on-shore-mram-manufacturing-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=everspin-technologies-expands-on-shore-mram-manufacturing-capacity)
-**Published:** Wed, 08 Apr 2026 21:31:29 +0000
-
-<p>Everspin Technologies Inc., a developer and manufacturer of persistent Magnetoresistive Random Access Memory (MRAM) solutions, today announced its strategic manufacturing agreement with Microchip Technology to expand production capacity and strengthen long-term supply.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/everspin-technologies-expands-on-shore-mram-manufacturing-capacity/">Everspin Technologies Expands On-Shore MRAM Manufacturing Capacity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Kinetic Technologies Finalizes Majority Stake Agreement with Cyient Semiconductors](https://www.semiconductor-digest.com/kinetic-technologies-finalizes-majority-stake-agreement-with-cyient-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=kinetic-technologies-finalizes-majority-stake-agreement-with-cyient-semiconductors)
-**Published:** Wed, 08 Apr 2026 21:24:55 +0000
-
-<p>Kinetic Technologies (Kinetic) today announced that it has achieved the necessary steps to complete an agreement under which Cyient Semiconductors has secured a majority stake in Kinetic for a total consideration of $85 million USD.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kinetic-technologies-finalizes-majority-stake-agreement-with-cyient-semiconductors/">Kinetic Technologies Finalizes Majority Stake Agreement with Cyient Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Reports Global Semiconductor Equipment Billings Reached $135 Billion in 2025, Up 15% Year-on-Year](https://www.semiconductor-digest.com/semi-reports-global-semiconductor-equipment-billings-reached-135-billion-in-2025-up-15-year-on-year/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-global-semiconductor-equipment-billings-reached-135-billion-in-2025-up-15-year-on-year)
-**Published:** Wed, 08 Apr 2026 21:22:04 +0000
-
-<p>Worldwide sales of semiconductor manufacturing equipment increased 15% to $135.1 billion in 2025 from $117.1 billion in 2024, driven by continued investment in advanced logic, memory, and AI-related capacity expansion.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-global-semiconductor-equipment-billings-reached-135-billion-in-2025-up-15-year-on-year/">SEMI Reports Global Semiconductor Equipment Billings Reached $135 Billion in 2025, Up 15% Year-on-Year</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Kensington Boosts Charging Efficiency with New GaN Products](https://www.powerelectronicsnews.com/kensington-boosts-charging-efficiency-with-new-gan-products/)
 **Published:** Thu, 07 May 2026 15:00:00 +0000
 
@@ -919,14 +919,6 @@ _Last updated: 2026-05-07 18:37 UTC_
 
 <p>Europe’s semiconductor future will hinge on aligning geopolitics and industrial strengths into a coherent, long-term strategy.</p>
 <p>The post <a href="https://www.eetimes.com/the-next-phase-of-europes-semiconductor-strategy/">The Next Phase of Europe’s Semiconductor Strategy</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [A future-ready ecosystem through advanced power electronics](https://www.electronicsweekly.com/news/business/a-future-ready-ecosystem-through-advanced-power-electronics-2026-05/)
-**Published:** Thu, 07 May 2026 08:46:13 +0000
-
-<p>One of the most significant advances in green transport has come from power electronics, says Chandana Patnaik, as she looks at what impact this may have on the electronics industry. ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/a-future-ready-ecosystem-through-advanced-power-electronics-2026-05/">A future-ready ecosystem through advanced power electronics</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
