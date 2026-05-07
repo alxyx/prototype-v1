@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-06 22:11 UTC_
+_Last updated: 2026-05-07 03:05 UTC_
+
+## [Arrow Details Strategy to Address Fragmentation, Complexity in Japan’s Semiconductor Procurement Ecosystem](https://www.eetasia.com/arrow-details-strategy-to-address-fragmentation-complexity-in-japans-semiconductor-procurement-ecosystem/)
+**Published:** Wed, 06 May 2026 23:21:54 +0000
+
+<p>Arrow's Dr. Raphael Salmi outlines integration, data-driven procurement, and omnichannel support to address Japan's fragmented semiconductor supply chain.</p>
+<p>The post <a href="https://www.eetasia.com/arrow-details-strategy-to-address-fragmentation-complexity-in-japans-semiconductor-procurement-ecosystem/">Arrow Details Strategy to Address Fragmentation, Complexity in Japan&#8217;s Semiconductor Procurement Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Lattice Semiconductor to Acquire AMI](https://www.eetasia.com/lattice-semiconductor-to-acquire-ami/)
 **Published:** Tue, 05 May 2026 23:48:30 +0000
@@ -15,14 +23,6 @@ _Last updated: 2026-05-06 22:11 UTC_
 
 <p>Semiconductor firms must adopt structured strategies to scale agentic AI while preserving rigor, trust, and performance.</p>
 <p>The post <a href="https://www.eetasia.com/strategic-roadmap-for-scaling-agentic-ai-in-semiconductor-design/">Strategic Roadmap for Scaling Agentic AI in Semiconductor Design</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Atomera and Synopsys Expand Collaboration to Accelerate GaN Modeling in RF, Power Devices](https://www.eetasia.com/atomera-and-synopsys-expand-collaboration-to-accelerate-gan-modeling-in-rf-power-devices/)
-**Published:** Mon, 04 May 2026 23:12:35 +0000
-
-<p>Atomera has expanded its collaboration with Synopsys to advance GaN device modeling for RF and power semiconductor applications.</p>
-<p>The post <a href="https://www.eetasia.com/atomera-and-synopsys-expand-collaboration-to-accelerate-gan-modeling-in-rf-power-devices/">Atomera and Synopsys Expand Collaboration to Accelerate GaN Modeling in RF, Power Devices</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -919,22 +919,6 @@ _Last updated: 2026-05-06 22:11 UTC_
 
 <p>Michael Scholles said the interest in India comes from its evolving semiconductor ambitions. </p>
 <p>The post <a href="https://www.eetimes.com/fraunhofer-ipms-eyes-india-for-contract-research-and-semiconductor-partnerships/">Fraunhofer IPMS Eyes India For Contract Research and Semiconductor Partnerships</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Semiconductor downturn forecast](https://www.electronicsweekly.com/news/business/semiconductor-downturn-forecast-2026-05/)
-**Published:** Wed, 06 May 2026 05:29:03 +0000
-
-<p>Alone among semiconductor analysts, the normally bullish CEO of Future Horizons, Malcolm Penn (pictured), forecasted an industry downturn &#8211; &#8220;maybe this year, if not, next year&#8221; &#8211; speaking at IFS ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/semiconductor-downturn-forecast-2026-05/">Semiconductor downturn forecast</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [120 students tape out ASIC designs](https://www.electronicsweekly.com/news/business/120-students-tape-out-asic-designs-2026-05/)
-**Published:** Wed, 06 May 2026 05:26:11 +0000
-
-<p>The School of Electrical and Electronic Engineering at the University of Sheffield recently hosted a landmark hands-on chip design workshop bringing together students from across the UK to design and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/120-students-tape-out-asic-designs-2026-05/">120 students tape out ASIC designs</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
