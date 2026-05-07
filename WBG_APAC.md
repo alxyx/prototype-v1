@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-07 09:45 UTC_
+_Last updated: 2026-05-07 18:37 UTC_
 
 ## [Arrow Details Strategy to Address Fragmentation, Complexity in Japan’s Semiconductor Procurement Ecosystem](https://www.eetasia.com/arrow-details-strategy-to-address-fragmentation-complexity-in-japans-semiconductor-procurement-ecosystem/)
 **Published:** Wed, 06 May 2026 23:21:54 +0000
@@ -826,6 +826,22 @@ _Last updated: 2026-05-07 09:45 UTC_
 
 ---
 
+## [Kensington Boosts Charging Efficiency with New GaN Products](https://www.powerelectronicsnews.com/kensington-boosts-charging-efficiency-with-new-gan-products/)
+**Published:** Thu, 07 May 2026 15:00:00 +0000
+
+<img alt="Kensington Boosts Charging Efficiency with New GaN Products." class="webfeedsFeaturedVisual wp-post-image" height="627" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/ke-38100-38102-a3-ww-1200x627_1777542152.png?fit=1200%2C627" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new GaN chargers and cable enable fast, efficient multi-device charging with compact, travel-friendly designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/kensington-boosts-charging-efficiency-with-new-gan-products/">Kensington Boosts Charging Efficiency with New GaN Products</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Corner: Texas Instruments’ Nikhil Jotwani on Smarter, Safer Automotive BMS](https://www.powerelectronicsnews.com/power-corner-texas-instruments-nikhil-jotwani-on-smarter-safer-automotive-bms/)
+**Published:** Thu, 07 May 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/TI-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Description In this episode of Power Corner, Aalyia Shaukat sits down with Nikhil Jotwani, Systems Marketing and Business Development Manager for Automotive BMS at Texas...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-texas-instruments-nikhil-jotwani-on-smarter-safer-automotive-bms/">Power Corner: Texas Instruments&#8217; Nikhil Jotwani on Smarter, Safer Automotive BMS</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [AOS Expands Power Portfolio with Protected DrMOS Technology](https://www.powerelectronicsnews.com/aos-expands-power-portfolio-with-protected-drmos-technology/)
 **Published:** Wed, 06 May 2026 15:00:00 +0000
 
@@ -890,19 +906,11 @@ _Last updated: 2026-05-07 09:45 UTC_
 
 ---
 
-## [SiC and GaN Adoption to Accelerate Through 2036](https://www.powerelectronicsnews.com/sic-and-gan-adoption-to-accelerate-through-2036/)
-**Published:** Fri, 01 May 2026 15:00:00 +0000
+## [Automotive and AI Lift Infineon Q2, Point to FY2026 Revenue Above $18B](https://www.eetimes.com/automotive-and-ai-lift-infineon-q2-point-to-fy2026-revenue-above-18b/)
+**Published:** Thu, 07 May 2026 14:33:04 +0000
 
-<img alt="SiC and GaN Adoption to Accelerate Through 2036." class="webfeedsFeaturedVisual wp-post-image" height="339" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/ID_Tech_PR.jpg?fit=602%2C339" style="display: block; margin-bottom: 5px; clear: both;" width="602" /><p>SiC and GaN adoption accelerates as EVs, AI data centers, and renewables drive demand for efficient power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/sic-and-gan-adoption-to-accelerate-through-2036/">SiC and GaN Adoption to Accelerate Through 2036</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Set a course for the future with the PCIM Expo](https://www.powerelectronicsnews.com/set-a-course-for-the-future-with-the-pcim-expo/)
-**Published:** Fri, 01 May 2026 13:50:32 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/PCIM-2025-Dienstag_Presse_119_Aspencore.jpg?fit=1500%2C1000" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>PCIM Expo &#38; Conference is the leading event for power electronics, uniting industry and academia to advance solutions and expert knowledge.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/set-a-course-for-the-future-with-the-pcim-expo/">Set a course for the future with the PCIM Expo</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p> Infineon Q2 earnings rise 4% as the chipmaker reorganizes to target SDVs and power systems.</p>
+<p>The post <a href="https://www.eetimes.com/automotive-and-ai-lift-infineon-q2-point-to-fy2026-revenue-above-18b/">Automotive and AI Lift Infineon Q2, Point to FY2026 Revenue Above $18B</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -919,6 +927,13 @@ _Last updated: 2026-05-07 09:45 UTC_
 
 <p>One of the most significant advances in green transport has come from power electronics, says Chandana Patnaik, as she looks at what impact this may have on the electronics industry. ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/a-future-ready-ecosystem-through-advanced-power-electronics-2026-05/">A future-ready ecosystem through advanced power electronics</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Research Intern – Electrical – Power Electronics & Power Systems At General Electric In Bengaluru](https://www.electronicsforu.com/career/research-intern-electrical-power-electronics-power-systems-ge)
+**Published:** Thu, 07 May 2026 10:13:58 +0000
+
+<img alt="General Electrics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/11/General-Electric-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: General Electric This internship opportunity helps students gain valuable hands-on experience and get a critical jump start on a career in industrial research.  Assignments are for Master&#8217;s or PhD candidates; working side by side with experts in the field, completing complex technical projects, applying their theoretical knowledge to real-life technical [&#8230;]
 
 ---
 
