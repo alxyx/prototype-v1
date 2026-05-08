@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-08 17:30 UTC_
+_Last updated: 2026-05-08 19:31 UTC_
 
 ## [COMPUTEX 2026 Keynotes Focus on Scaling AI Infrastructure, Edge Intelligence, and Physical AI Deployment](https://www.eetasia.com/computex-2026-keynotes-focus-on-scaling-ai-infrastructure-edge-intelligence-and-physical-ai-deployment/)
 **Published:** Fri, 08 May 2026 10:19:15 +0000
@@ -23,6 +23,46 @@ _Last updated: 2026-05-08 17:30 UTC_
 
 <p>Arrow's Dr. Raphael Salmi outlines integration, data-driven procurement, and omnichannel support to address Japan's fragmented semiconductor supply chain.</p>
 <p>The post <a href="https://www.eetasia.com/arrow-details-strategy-to-address-fragmentation-complexity-in-japans-semiconductor-procurement-ecosystem/">Arrow Details Strategy to Address Fragmentation, Complexity in Japan&#8217;s Semiconductor Procurement Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Semidynamics and SiPearl Announce Strategic Cooperation to Develop EU-Sovereign Rack-Scale AI Compute Platform](https://www.semiconductor-digest.com/semidynamics-and-sipearl-announce-strategic-cooperation-to-develop-eu-sovereign-rack-scale-ai-compute-platform/?utm_source=rss&utm_medium=rss&utm_campaign=semidynamics-and-sipearl-announce-strategic-cooperation-to-develop-eu-sovereign-rack-scale-ai-compute-platform)
+**Published:** Fri, 08 May 2026 18:31:06 +0000
+
+<p>The two companies share a common goal: to offer a sovereign high‑performance energy‑efficient compute solution capable of supporting major European initiatives, both public and private, including AI Factory and Giga Factory programmes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semidynamics-and-sipearl-announce-strategic-cooperation-to-develop-eu-sovereign-rack-scale-ai-compute-platform/">Semidynamics and SiPearl Announce Strategic Cooperation to Develop EU-Sovereign Rack-Scale AI Compute Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Molex Completes Acquisition of Teramount Ltd.](https://www.semiconductor-digest.com/molex-completes-acquisition-of-teramount-ltd/?utm_source=rss&utm_medium=rss&utm_campaign=molex-completes-acquisition-of-teramount-ltd)
+**Published:** Fri, 08 May 2026 18:07:21 +0000
+
+<p>Molex has completed the acquisition of Teramount Ltd., an Israel‑based developer of detachable fiber‑to‑chip connectivity solutions optimized for high‑volume Co‑Packaged Optics (CPO) and other silicon photonics applications. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/molex-completes-acquisition-of-teramount-ltd/">Molex Completes Acquisition of Teramount Ltd.</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Lambda Closes $1 Billion Senior Secured Credit Facility to Meet Gigawatt-Scale AI Infrastructure Demand](https://www.semiconductor-digest.com/lambda-closes-1-billion-senior-secured-credit-facility-to-meet-gigawatt-scale-ai-infrastructure-demand/?utm_source=rss&utm_medium=rss&utm_campaign=lambda-closes-1-billion-senior-secured-credit-facility-to-meet-gigawatt-scale-ai-infrastructure-demand)
+**Published:** Fri, 08 May 2026 18:05:20 +0000
+
+<p>Upsized financing builds on August 2025 credit facility, supporting continued expansion of Lambda's AI factory footprint.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lambda-closes-1-billion-senior-secured-credit-facility-to-meet-gigawatt-scale-ai-infrastructure-demand/">Lambda Closes $1 Billion Senior Secured Credit Facility to Meet Gigawatt-Scale AI Infrastructure Demand</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Renesas Completes Acquisition of Irida Labs](https://www.semiconductor-digest.com/renesas-completes-acquisition-of-irida-labs/?utm_source=rss&utm_medium=rss&utm_campaign=renesas-completes-acquisition-of-irida-labs)
+**Published:** Fri, 08 May 2026 17:49:31 +0000
+
+<p>Renesas Electronics Corporation, a supplier of advanced semiconductor solutions, today announced that a subsidiary of Renesas has completed the acquisition of Irida Labs, a Greece-based company specializing in embedded software for AI-powered visual perception systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/renesas-completes-acquisition-of-irida-labs/">Renesas Completes Acquisition of Irida Labs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Veeco Announces $250 Million+ in Equipment Orders for Manufacturing Indium Phosphide Lasers](https://www.semiconductor-digest.com/veeco-announces-250-million-in-equipment-orders-for-manufacturing-indium-phosphide-lasers/?utm_source=rss&utm_medium=rss&utm_campaign=veeco-announces-250-million-in-equipment-orders-for-manufacturing-indium-phosphide-lasers)
+**Published:** Fri, 08 May 2026 17:24:20 +0000
+
+<p>High-volume orders from multiple customers for its Spector, Lumina and Wet Processing Systems to drive strong growth.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/veeco-announces-250-million-in-equipment-orders-for-manufacturing-indium-phosphide-lasers/">Veeco Announces $250 Million+ in Equipment Orders for Manufacturing Indium Phosphide Lasers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,46 +823,6 @@ _Last updated: 2026-05-08 17:30 UTC_
 
 <p>Long-term agreement brings Snapdragon XR solutions to future generations of Specs, strengthening the platform for developers and customers.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/snap-and-qualcomm-expand-strategic-collaboration/">Snap and Qualcomm Expand Strategic Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Breakthrough in PCSEL Optical Sensing Technology by Asahi Kasei Microdevices Enables 2 µm-Band Infrared Laser Generation](https://www.semiconductor-digest.com/breakthrough-in-pcsel-optical-sensing-technology-by-asahi-kasei-microdevices-enables-2-%c2%b5m-band-infrared-laser-generation/?utm_source=rss&utm_medium=rss&utm_campaign=breakthrough-in-pcsel-optical-sensing-technology-by-asahi-kasei-microdevices-enables-2-%25c2%25b5m-band-infrared-laser-generation)
-**Published:** Fri, 10 Apr 2026 13:57:27 +0000
-
-<p>Asahi Kasei Microdevices Corporation (AKM), in collaboration with the Kyoto University Institute for Advanced Study, has successfully achieved laser oscillation in a 2 µm-band infrared photonic crystal surface-emitting laser (PCSEL).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/breakthrough-in-pcsel-optical-sensing-technology-by-asahi-kasei-microdevices-enables-2-%c2%b5m-band-infrared-laser-generation/">Breakthrough in PCSEL Optical Sensing Technology by Asahi Kasei Microdevices Enables 2 µm-Band Infrared Laser Generation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [HANMI Semiconductor To Launch Second-Generation Hybrid Bonder by End of 2026](https://www.semiconductor-digest.com/hanmi-semiconductor-to-launch-second-generation-hybrid-bonder-by-end-of-2026/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-to-launch-second-generation-hybrid-bonder-by-end-of-2026)
-**Published:** Fri, 10 Apr 2026 13:52:37 +0000
-
-<p>HANMI Semiconductor today announced that it plans to launch a prototype of its second-generation hybrid bonder for next-generation HBM production within the year and begin collaboration with customers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hanmi-semiconductor-to-launch-second-generation-hybrid-bonder-by-end-of-2026/">HANMI Semiconductor To Launch Second-Generation Hybrid Bonder by End of 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Reshore Semiconductor Manufacturing to UK and US to Meet Sustainability Goals](https://www.semiconductor-digest.com/reshore-semiconductor-manufacturing-to-uk-and-us-to-meet-sustainability-goals/?utm_source=rss&utm_medium=rss&utm_campaign=reshore-semiconductor-manufacturing-to-uk-and-us-to-meet-sustainability-goals)
-**Published:** Fri, 10 Apr 2026 13:47:21 +0000
-
-<p>Making semiconductors in the UK and the US would be the most sustainable way to manufacture the materials that power every electronic device on the planet, according to new research from the University of Sheffield.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/reshore-semiconductor-manufacturing-to-uk-and-us-to-meet-sustainability-goals/">Reshore Semiconductor Manufacturing to UK and US to Meet Sustainability Goals</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam](https://www.semiconductor-digest.com/seoul-semiconductor-recognized-as-a-high-tech-enterprise-in-vietnam/?utm_source=rss&utm_medium=rss&utm_campaign=seoul-semiconductor-recognized-as-a-high-tech-enterprise-in-vietnam)
-**Published:** Thu, 09 Apr 2026 16:00:00 +0000
-
-<p>Seoul Semiconductor Co., Ltd., a global opto-semiconductor company, announced that it has officially been granted the “High-Tech Enterprise” certification in Vietnam.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/seoul-semiconductor-recognized-as-a-high-tech-enterprise-in-vietnam/">Seoul Semiconductor Recognized as a High-Tech Enterprise in Vietnam</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Blaize Announces Planned Launch of Blaize AI Services](https://www.semiconductor-digest.com/blaize-announces-planned-launch-of-blaize-ai-services/?utm_source=rss&utm_medium=rss&utm_campaign=blaize-announces-planned-launch-of-blaize-ai-services)
-**Published:** Thu, 09 Apr 2026 15:43:45 +0000
-
-<p>New platform is designed to help cloud providers, data center operators, system integrators, and enterprises deploy application-level AI services faster, reduce cost per query, and create recurring AI service revenue.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/blaize-announces-planned-launch-of-blaize-ai-services/">Blaize Announces Planned Launch of Blaize AI Services</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
