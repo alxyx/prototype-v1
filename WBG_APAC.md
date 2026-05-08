@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-08 19:31 UTC_
+_Last updated: 2026-05-08 22:21 UTC_
 
 ## [COMPUTEX 2026 Keynotes Focus on Scaling AI Infrastructure, Edge Intelligence, and Physical AI Deployment](https://www.eetasia.com/computex-2026-keynotes-focus-on-scaling-ai-infrastructure-edge-intelligence-and-physical-ai-deployment/)
 **Published:** Fri, 08 May 2026 10:19:15 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-05-08 19:31 UTC_
 
 ---
 
+## [ITC Confirms Innoscience Infringed Infineon GaN Patent](https://www.powerelectronicsnews.com/itc-confirms-innoscience-infringed-infineon-gan-patent/)
+**Published:** Fri, 08 May 2026 19:59:27 +0000
+
+<img alt="ITC Confirms Innoscience Infringed Infineon GaN Patent." class="webfeedsFeaturedVisual wp-post-image" height="1417" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/infineon-gan300-technology-2.jpg?fit=2126%2C1417" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The decision reinforces Infineon’s GaN IP leadership as legal disputes with Innoscience continue in the U.S. and Germany.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/itc-confirms-innoscience-infringed-infineon-gan-patent/">ITC Confirms Innoscience Infringed Infineon GaN Patent</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Samtec Expands Compact Power Interconnect Portfolio](https://www.powerelectronicsnews.com/samtec-expands-compact-power-interconnect-portfolio/)
 **Published:** Fri, 08 May 2026 15:00:00 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2026-05-08 19:31 UTC_
 
 <img alt="ST Introduces Integrated 100W GaN Flyback Converters." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/N4774D-May-4-2026-VIPerGaN100W_PR-IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new GaN converters integrate key power functions, enabling compact, efficient designs for appliances and consumer electronics.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-integrated-100w-gan-flyback-converters/">ST Introduces Integrated 100W GaN Flyback Converters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Electronics Course with QSPICE (Episode 09): The BJT in Power Applications—Efficiency and Conduction Losses](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-09-the-bjt-in-power-applications-efficiency-and-conduction-losses/)
-**Published:** Tue, 05 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>QSPICE simulations compare BJT transistors, revealing conduction losses, switching behavior, and efficiency trade-offs in power applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-09-the-bjt-in-power-applications-efficiency-and-conduction-losses/">Power Electronics Course with QSPICE (Episode 09): The BJT in Power Applications—Efficiency and Conduction Losses</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
