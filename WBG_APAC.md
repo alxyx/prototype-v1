@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-08 14:01 UTC_
+_Last updated: 2026-05-08 17:30 UTC_
 
 ## [COMPUTEX 2026 Keynotes Focus on Scaling AI Infrastructure, Edge Intelligence, and Physical AI Deployment](https://www.eetasia.com/computex-2026-keynotes-focus-on-scaling-ai-infrastructure-edge-intelligence-and-physical-ai-deployment/)
 **Published:** Fri, 08 May 2026 10:19:15 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-05-08 14:01 UTC_
 
 ---
 
+## [Samtec Expands Compact Power Interconnect Portfolio](https://www.powerelectronicsnews.com/samtec-expands-compact-power-interconnect-portfolio/)
+**Published:** Fri, 08 May 2026 15:00:00 +0000
+
+<img alt="Samtec Expands Compact Power Interconnect Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="360" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Samtec_mPOWER.jpg?fit=640%2C360" style="display: block; margin-bottom: 5px; clear: both;" width="640" /><p>The new ultra micro connectors improve durability and power density for industrial, aerospace, and military designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/samtec-expands-compact-power-interconnect-portfolio/">Samtec Expands Compact Power Interconnect Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [PCIM Expo & Conference, SSTs and DABs, SiC SJ MOSFETs: Power Electronics Week Insights](https://www.powerelectronicsnews.com/pcim-expo-conference-ssts-and-dabs-sic-sj-mosfets-power-electronics-week-insights/)
 **Published:** Fri, 08 May 2026 13:33:08 +0000
 
@@ -895,14 +903,6 @@ _Last updated: 2026-05-08 14:01 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>QSPICE simulations compare BJT transistors, revealing conduction losses, switching behavior, and efficiency trade-offs in power applications.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-09-the-bjt-in-power-applications-efficiency-and-conduction-losses/">Power Electronics Course with QSPICE (Episode 09): The BJT in Power Applications—Efficiency and Conduction Losses</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [SSTs and DABs: Key Blocks for Future Power Distribution](https://www.powerelectronicsnews.com/ssts-and-dabs-key-blocks-for-future-power-distribution/)
-**Published:** Mon, 04 May 2026 13:51:19 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1632" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_1323239102.jpeg?fit=2912%2C1632" style="display: block; margin-bottom: 5px; clear: both;" width="2912" /><p>SSTs use DAB converters and SiC switches to enable efficient, compact, bidirectional power distribution across AC and DC grids.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/ssts-and-dabs-key-blocks-for-future-power-distribution/">SSTs and DABs: Key Blocks for Future Power Distribution </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
