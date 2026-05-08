@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-08 09:35 UTC_
+_Last updated: 2026-05-08 14:01 UTC_
+
+## [COMPUTEX 2026 Keynotes Focus on Scaling AI Infrastructure, Edge Intelligence, and Physical AI Deployment](https://www.eetasia.com/computex-2026-keynotes-focus-on-scaling-ai-infrastructure-edge-intelligence-and-physical-ai-deployment/)
+**Published:** Fri, 08 May 2026 10:19:15 +0000
+
+<p>COMPUTEX 2026 keynotes will emphasize AI infrastructure, heterogeneous computing, physical AI, and distributed intelligent systems.</p>
+<p>The post <a href="https://www.eetasia.com/computex-2026-keynotes-focus-on-scaling-ai-infrastructure-edge-intelligence-and-physical-ai-deployment/">COMPUTEX 2026 Keynotes Focus on Scaling AI Infrastructure, Edge Intelligence, and Physical AI Deployment</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Delta Electronics Showcases Advance Semiconductor Packaging Solutions at SEMICON SEA 2026](https://www.eetasia.com/delta-electronics-showcases-advance-semiconductor-packaging-solutions-at-semicon-sea-2026/)
 **Published:** Fri, 08 May 2026 05:20:18 +0000
@@ -15,14 +23,6 @@ _Last updated: 2026-05-08 09:35 UTC_
 
 <p>Arrow's Dr. Raphael Salmi outlines integration, data-driven procurement, and omnichannel support to address Japan's fragmented semiconductor supply chain.</p>
 <p>The post <a href="https://www.eetasia.com/arrow-details-strategy-to-address-fragmentation-complexity-in-japans-semiconductor-procurement-ecosystem/">Arrow Details Strategy to Address Fragmentation, Complexity in Japan&#8217;s Semiconductor Procurement Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Lattice Semiconductor to Acquire AMI](https://www.eetasia.com/lattice-semiconductor-to-acquire-ami/)
-**Published:** Tue, 05 May 2026 23:48:30 +0000
-
-<p>The planned acquisition advances Lattice's strategy to expand its position in server, AI, and cloud applications.</p>
-<p>The post <a href="https://www.eetasia.com/lattice-semiconductor-to-acquire-ami/">Lattice Semiconductor to Acquire AMI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -826,6 +826,22 @@ _Last updated: 2026-05-08 09:35 UTC_
 
 ---
 
+## [PCIM Expo & Conference, SSTs and DABs, SiC SJ MOSFETs: Power Electronics Week Insights](https://www.powerelectronicsnews.com/pcim-expo-conference-ssts-and-dabs-sic-sj-mosfets-power-electronics-week-insights/)
+**Published:** Fri, 08 May 2026 13:33:08 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on PCIM Expo &#38; Conference, SSTs and DABs, and SiC SJ MOSFETs!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/pcim-expo-conference-ssts-and-dabs-sic-sj-mosfets-power-electronics-week-insights/">PCIM Expo &amp; Conference, SSTs and DABs, SiC SJ MOSFETs: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Discrete Vertical Power Delivery Solutions for High-Current AI Loads](https://www.powerelectronicsnews.com/discrete-vertical-power-delivery-solutions-for-high-current-ai-loads/)
+**Published:** Fri, 08 May 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3383" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_1141746633.jpeg?fit=5080%2C3383" style="display: block; margin-bottom: 5px; clear: both;" width="5080" /><p>Vertical power delivery modules replace lateral PDNs, efficiently powering high-current AI processors from directly beneath the package.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/discrete-vertical-power-delivery-solutions-for-high-current-ai-loads/">Discrete Vertical Power Delivery Solutions for High-Current AI Loads</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Kensington Boosts Charging Efficiency with New GaN Products](https://www.powerelectronicsnews.com/kensington-boosts-charging-efficiency-with-new-gan-products/)
 **Published:** Thu, 07 May 2026 15:00:00 +0000
 
@@ -887,22 +903,6 @@ _Last updated: 2026-05-08 09:35 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1632" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_1323239102.jpeg?fit=2912%2C1632" style="display: block; margin-bottom: 5px; clear: both;" width="2912" /><p>SSTs use DAB converters and SiC switches to enable efficient, compact, bidirectional power distribution across AC and DC grids.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/ssts-and-dabs-key-blocks-for-future-power-distribution/">SSTs and DABs: Key Blocks for Future Power Distribution </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Magnachip Launches 8th-Gen 12V BatteryFETs](https://www.powerelectronicsnews.com/magnachip-launches-8th-gen-12v-batteryfets/)
-**Published:** Mon, 04 May 2026 13:00:00 +0000
-
-<img alt="Magnachip Launches 8th-Gen 12V BatteryFETs." class="webfeedsFeaturedVisual wp-post-image" height="512" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/Magnachip_PR.jpg?fit=768%2C512" style="display: block; margin-bottom: 5px; clear: both;" width="768" /><p>The new BatteryFETs cut heat and boost current density, supporting fast charging and compact smartphone battery designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/magnachip-launches-8th-gen-12v-batteryfets/">Magnachip Launches 8th-Gen 12V BatteryFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Murata Unveils Ultra-Low Power AMR Sensors](https://www.powerelectronicsnews.com/murata-unveils-ultra-low-power-amr-sensors/)
-**Published:** Fri, 01 May 2026 15:00:00 +0000
-
-<img alt="Murata Unveils Ultra-Low Power AMR Sensors." class="webfeedsFeaturedVisual wp-post-image" height="1001" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/MURATA_MANUFACTURING_MRMS166R_MRMS168R_BW.jpg?fit=1499%2C1001" style="display: block; margin-bottom: 5px; clear: both;" width="1499" /><p>The new AMR sensors enable multi-year operation in compact devices with low-voltage support and improved switching reliability.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/murata-unveils-ultra-low-power-amr-sensors/">Murata Unveils Ultra-Low Power AMR Sensors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
