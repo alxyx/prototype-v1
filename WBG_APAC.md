@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-07 20:27 UTC_
+_Last updated: 2026-05-08 09:35 UTC_
+
+## [Delta Electronics Showcases Advance Semiconductor Packaging Solutions at SEMICON SEA 2026](https://www.eetasia.com/delta-electronics-showcases-advance-semiconductor-packaging-solutions-at-semicon-sea-2026/)
+**Published:** Fri, 08 May 2026 05:20:18 +0000
+
+<p>Delta Electronics showcased its smart manufacturing solutions for advanced semiconductor packaging at SEMICON Southeast Asia 2026.</p>
+<p>The post <a href="https://www.eetasia.com/delta-electronics-showcases-advance-semiconductor-packaging-solutions-at-semicon-sea-2026/">Delta Electronics Showcases Advance Semiconductor Packaging Solutions at SEMICON SEA 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Arrow Details Strategy to Address Fragmentation, Complexity in Japan’s Semiconductor Procurement Ecosystem](https://www.eetasia.com/arrow-details-strategy-to-address-fragmentation-complexity-in-japans-semiconductor-procurement-ecosystem/)
 **Published:** Wed, 06 May 2026 23:21:54 +0000
@@ -15,14 +23,6 @@ _Last updated: 2026-05-07 20:27 UTC_
 
 <p>The planned acquisition advances Lattice's strategy to expand its position in server, AI, and cloud applications.</p>
 <p>The post <a href="https://www.eetasia.com/lattice-semiconductor-to-acquire-ami/">Lattice Semiconductor to Acquire AMI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Strategic Roadmap for Scaling Agentic AI in Semiconductor Design](https://www.eetasia.com/strategic-roadmap-for-scaling-agentic-ai-in-semiconductor-design/)
-**Published:** Tue, 05 May 2026 23:01:21 +0000
-
-<p>Semiconductor firms must adopt structured strategies to scale agentic AI while preserving rigor, trust, and performance.</p>
-<p>The post <a href="https://www.eetasia.com/strategic-roadmap-for-scaling-agentic-ai-in-semiconductor-design/">Strategic Roadmap for Scaling Agentic AI in Semiconductor Design</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
