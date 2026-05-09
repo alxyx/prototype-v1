@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-09 03:09 UTC_
+_Last updated: 2026-05-09 09:36 UTC_
 
 ## [COMPUTEX 2026 Keynotes Focus on Scaling AI Infrastructure, Edge Intelligence, and Physical AI Deployment](https://www.eetasia.com/computex-2026-keynotes-focus-on-scaling-ai-infrastructure-edge-intelligence-and-physical-ai-deployment/)
 **Published:** Fri, 08 May 2026 10:19:15 +0000
@@ -922,24 +922,10 @@ _Last updated: 2026-05-09 03:09 UTC_
 
 ---
 
-## [Research Intern – Electrical – Power Electronics & Power Systems At General Electric In Bengaluru](https://www.electronicsforu.com/career/research-intern-electrical-power-electronics-power-systems-ge)
-**Published:** Thu, 07 May 2026 10:13:58 +0000
+## [JOB: Memory Design Engineer – SRAM and ROM At GlobalFoundries In Bengaluru](https://www.electronicsforu.com/career/memory-design-engineer-sram-rom-globalfoundries-bengaluru)
+**Published:** Fri, 08 May 2026 07:25:46 +0000
 
-<img alt="General Electrics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/11/General-Electric-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: General Electric This internship opportunity helps students gain valuable hands-on experience and get a critical jump start on a career in industrial research.  Assignments are for Master&#8217;s or PhD candidates; working side by side with experts in the field, completing complex technical projects, applying their theoretical knowledge to real-life technical [&#8230;]
-
----
-
-## [AI Helps Robots Learn Faster](https://www.electronicsforu.com/news/ai-helps-robots-learn-faster)
-**Published:** Thu, 07 May 2026 07:53:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/tn13-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers have developed an AI training method that enables robots to transfer skills learned in simulation into real-world tasks more efficiently, reducing dependence on costly physical training data. Researchers&#160; at Aston University have developed a new AI-based training framework that allows robots to transfer skills learned in laboratory simulations into real-world environments with significantly higher [&#8230;]
-
----
-
-## [AI training helps robots learn real-world tasks faster](https://www.electronicsforu.com/news/ai-training-helps-robots-learn-real-world-tasks-faster)
-**Published:** Thu, 07 May 2026 07:06:10 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/GettyImages-2220027349-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if robots could learn jobs in virtual worlds first — and step into real factories already prepared with less testing? Researchers in the UK have developed an AI-based robot training method that helps machines transfer skills learned in simulations to real-world environments with less physical testing. The approach could reduce costs, improve safety, and [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/10/globalfoundries-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: GlobalFoundries GlobalFoundries is looking for a highly motivated Memory Design Engineer to work in the Memory IP group in the Global Organisation, based in Bangalore.  The successful candidate will work with 100% quality and minimal cycle time in mind. This role requires working closely with the internal design, layout teams, technology, test [&#8230;]
 
 ---
 
