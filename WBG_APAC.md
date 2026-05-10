@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-10 19:17 UTC_
+_Last updated: 2026-05-10 22:02 UTC_
 
 ## [COMPUTEX 2026 Keynotes Focus on Scaling AI Infrastructure, Edge Intelligence, and Physical AI Deployment](https://www.eetasia.com/computex-2026-keynotes-focus-on-scaling-ai-infrastructure-edge-intelligence-and-physical-ai-deployment/)
 **Published:** Fri, 08 May 2026 10:19:15 +0000
@@ -15,14 +15,6 @@ _Last updated: 2026-05-10 19:17 UTC_
 
 <p>Delta Electronics showcased its smart manufacturing solutions for advanced semiconductor packaging at SEMICON Southeast Asia 2026.</p>
 <p>The post <a href="https://www.eetasia.com/delta-electronics-showcases-advance-semiconductor-packaging-solutions-at-semicon-sea-2026/">Delta Electronics Showcases Advance Semiconductor Packaging Solutions at SEMICON SEA 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Arrow Details Strategy to Address Fragmentation, Complexity in Japan’s Semiconductor Procurement Ecosystem](https://www.eetasia.com/arrow-details-strategy-to-address-fragmentation-complexity-in-japans-semiconductor-procurement-ecosystem/)
-**Published:** Wed, 06 May 2026 23:21:54 +0000
-
-<p>Arrow's Dr. Raphael Salmi outlines integration, data-driven procurement, and omnichannel support to address Japan's fragmented semiconductor supply chain.</p>
-<p>The post <a href="https://www.eetasia.com/arrow-details-strategy-to-address-fragmentation-complexity-in-japans-semiconductor-procurement-ecosystem/">Arrow Details Strategy to Address Fragmentation, Complexity in Japan&#8217;s Semiconductor Procurement Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
