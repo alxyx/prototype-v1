@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-10 22:02 UTC_
+_Last updated: 2026-05-10 23:02 UTC_
+
+## [MIDA Pushes Talent Development as Malaysia Expands Semiconductor Value Chain](https://www.eetasia.com/mida-pushes-talent-development-as-malaysia-expands-semiconductor-value-chain/)
+**Published:** Sun, 10 May 2026 21:59:48 +0000
+
+<p>Malaysia links semiconductor talent development with smart manufacturing and supply chain integration to support industry expansion globally.</p>
+<p>The post <a href="https://www.eetasia.com/mida-pushes-talent-development-as-malaysia-expands-semiconductor-value-chain/">MIDA Pushes Talent Development as Malaysia Expands Semiconductor Value Chain</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [COMPUTEX 2026 Keynotes Focus on Scaling AI Infrastructure, Edge Intelligence, and Physical AI Deployment](https://www.eetasia.com/computex-2026-keynotes-focus-on-scaling-ai-infrastructure-edge-intelligence-and-physical-ai-deployment/)
 **Published:** Fri, 08 May 2026 10:19:15 +0000
