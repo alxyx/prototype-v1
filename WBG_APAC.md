@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-10 23:02 UTC_
+_Last updated: 2026-05-11 00:10 UTC_
 
 ## [MIDA Pushes Talent Development as Malaysia Expands Semiconductor Value Chain](https://www.eetasia.com/mida-pushes-talent-development-as-malaysia-expands-semiconductor-value-chain/)
 **Published:** Sun, 10 May 2026 21:59:48 +0000
