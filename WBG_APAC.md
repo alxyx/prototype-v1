@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-11 11:34 UTC_
+_Last updated: 2026-05-11 15:05 UTC_
 
 ## [MIDA Pushes Talent Development as Malaysia Expands Semiconductor Value Chain](https://www.eetasia.com/mida-pushes-talent-development-as-malaysia-expands-semiconductor-value-chain/)
 **Published:** Sun, 10 May 2026 21:59:48 +0000
@@ -826,6 +826,22 @@ _Last updated: 2026-05-11 11:34 UTC_
 
 ---
 
+## [Nyobolt Secures $60M to Expand AI and Robotics Power Solutions](https://www.powerelectronicsnews.com/nyobolt-secures-60m-to-expand-ai-and-robotics-power-solutions/)
+**Published:** Mon, 11 May 2026 14:00:00 +0000
+
+<img alt="Nyobolt Secures $60M to Expand AI and Robotics Power Solutions." class="webfeedsFeaturedVisual wp-post-image" height="675" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Hero-icon-with-tagline.png?fit=1200%2C675" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>Funding will accelerate Nyobolt’s fast-charging energy solutions for robotics, autonomous systems, and AI infrastructure.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/nyobolt-secures-60m-to-expand-ai-and-robotics-power-solutions/">Nyobolt Secures $60M to Expand AI and Robotics Power Solutions</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [SiC JFET Advantages in Power Distribution Protection Circuits: Part 1—SCCBs](https://www.powerelectronicsnews.com/sic-jfet-advantages-in-power-distribution-protection-circuits-part-1-sccbs/)
+**Published:** Mon, 11 May 2026 13:40:44 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3509" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_1288076851.jpeg?fit=6261%2C3509" style="display: block; margin-bottom: 5px; clear: both;" width="6261" /><p>SiC JFETs offer key advantages over MOSFETs in solid-state circuit breaker applications for high-power distribution systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/sic-jfet-advantages-in-power-distribution-protection-circuits-part-1-sccbs/">SiC JFET Advantages in Power Distribution Protection Circuits: Part 1—SCCBs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [ITC Confirms Innoscience Infringed Infineon GaN Patent](https://www.powerelectronicsnews.com/itc-confirms-innoscience-infringed-infineon-gan-patent/)
 **Published:** Fri, 08 May 2026 19:59:27 +0000
 
@@ -890,22 +906,6 @@ _Last updated: 2026-05-11 11:34 UTC_
 
 ---
 
-## [Recent Advances Push SiC Superjunction MOSFETs Toward Mass Production](https://www.powerelectronicsnews.com/recent-advances-push-sic-superjunction-mosfets-toward-mass-production/)
-**Published:** Wed, 06 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_483004683.jpeg?fit=4096%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="4096" /><p>Over the last four decades, using planar and trench technologies, silicon carbide (SiC) MOSFETs have evolved from high-resistance, low-yield transistors to high-performance, mass-produced MOSFETs. While...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/recent-advances-push-sic-superjunction-mosfets-toward-mass-production/">Recent Advances Push SiC Superjunction MOSFETs Toward Mass Production </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ST Introduces Integrated 100W GaN Flyback Converters](https://www.powerelectronicsnews.com/st-introduces-integrated-100w-gan-flyback-converters/)
-**Published:** Tue, 05 May 2026 14:00:00 +0000
-
-<img alt="ST Introduces Integrated 100W GaN Flyback Converters." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/N4774D-May-4-2026-VIPerGaN100W_PR-IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new GaN converters integrate key power functions, enabling compact, efficient designs for appliances and consumer electronics.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-integrated-100w-gan-flyback-converters/">ST Introduces Integrated 100W GaN Flyback Converters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Wooptix Targets AI Packaging Bottleneck with Astronomy Tech](https://www.eetimes.com/wooptix-targets-ai-packaging-bottleneck-with-astronomy-tech/)
 **Published:** Mon, 11 May 2026 08:57:35 +0000
 
@@ -927,6 +927,14 @@ _Last updated: 2026-05-11 11:34 UTC_
 
 <p>Europe’s semiconductor future will hinge on aligning geopolitics and industrial strengths into a coherent, long-term strategy.</p>
 <p>The post <a href="https://www.eetimes.com/the-next-phase-of-europes-semiconductor-strategy/">The Next Phase of Europe’s Semiconductor Strategy</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [ScaleBridge Labs incubator offers leading GaN technology](https://www.electronicsweekly.com/news/business/manufacturing/scalebridge-labs-incubator-offers-leading-gan-technology-2026-05/)
+**Published:** Mon, 11 May 2026 13:21:03 +0000
+
+<p>Since its launch in October 2025, incubator and accelerator, ScaleBridge Labs, has focused on both national security and commercial applications. At Microelectronics US, it announced 60nm N-polar RF GaN, claiming ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/manufacturing/scalebridge-labs-incubator-offers-leading-gan-technology-2026-05/">ScaleBridge Labs incubator offers leading GaN technology</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
