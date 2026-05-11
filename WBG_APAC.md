@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-11 07:53 UTC_
+_Last updated: 2026-05-11 11:34 UTC_
 
 ## [MIDA Pushes Talent Development as Malaysia Expands Semiconductor Value Chain](https://www.eetasia.com/mida-pushes-talent-development-as-malaysia-expands-semiconductor-value-chain/)
 **Published:** Sun, 10 May 2026 21:59:48 +0000
@@ -903,6 +903,14 @@ _Last updated: 2026-05-11 07:53 UTC_
 
 <img alt="ST Introduces Integrated 100W GaN Flyback Converters." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/N4774D-May-4-2026-VIPerGaN100W_PR-IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new GaN converters integrate key power functions, enabling compact, efficient designs for appliances and consumer electronics.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/st-introduces-integrated-100w-gan-flyback-converters/">ST Introduces Integrated 100W GaN Flyback Converters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Wooptix Targets AI Packaging Bottleneck with Astronomy Tech](https://www.eetimes.com/wooptix-targets-ai-packaging-bottleneck-with-astronomy-tech/)
+**Published:** Mon, 11 May 2026 08:57:35 +0000
+
+<p>A Canary Islands startup brings wavefront imaging to semiconductor metrology, aiming to tackle wafer shape challenges in 3D integration.</p>
+<p>The post <a href="https://www.eetimes.com/wooptix-targets-ai-packaging-bottleneck-with-astronomy-tech/">Wooptix Targets AI Packaging Bottleneck with Astronomy Tech</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
