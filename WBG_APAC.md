@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-12 06:50 UTC_
+_Last updated: 2026-05-12 09:52 UTC_
 
 ## [ams OSRAM to Sell CMOS Image Sensor Product Line to indie Semiconductor](https://www.eetasia.com/ams-osram-to-sell-cmos-image-sensor-product-line-to-indie-semiconductor/)
 **Published:** Mon, 11 May 2026 23:09:35 +0000
@@ -935,14 +935,6 @@ _Last updated: 2026-05-12 06:50 UTC_
 
 <p> Infineon Q2 earnings rise 4% as the chipmaker reorganizes to target SDVs and power systems.</p>
 <p>The post <a href="https://www.eetimes.com/automotive-and-ai-lift-infineon-q2-point-to-fy2026-revenue-above-18b/">Automotive and AI Lift Infineon Q2, Point to FY2026 Revenue Above $18B</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [The Next Phase of Europe’s Semiconductor Strategy](https://www.eetimes.com/the-next-phase-of-europes-semiconductor-strategy/)
-**Published:** Tue, 05 May 2026 07:50:17 +0000
-
-<p>Europe’s semiconductor future will hinge on aligning geopolitics and industrial strengths into a coherent, long-term strategy.</p>
-<p>The post <a href="https://www.eetimes.com/the-next-phase-of-europes-semiconductor-strategy/">The Next Phase of Europe’s Semiconductor Strategy</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
