@@ -1,6 +1,30 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-11 15:05 UTC_
+_Last updated: 2026-05-12 00:12 UTC_
+
+## [ams OSRAM to Sell CMOS Image Sensor Product Line to indie Semiconductor](https://www.eetasia.com/ams-osram-to-sell-cmos-image-sensor-product-line-to-indie-semiconductor/)
+**Published:** Mon, 11 May 2026 23:09:35 +0000
+
+<p>indie Semiconductor has signed a definitive agreement to acquire the fabless CMOS image sensor group from ams OSRAM for €40 million.</p>
+<p>The post <a href="https://www.eetasia.com/ams-osram-to-sell-cmos-image-sensor-product-line-to-indie-semiconductor/">ams OSRAM to Sell CMOS Image Sensor Product Line to indie Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [5 Steps to Align Your Physical Fab Infrastructure with AI Yield Models](https://www.eetasia.com/5-steps-to-align-your-physical-fab-infrastructure-with-ai-yield-models/)
+**Published:** Mon, 11 May 2026 22:36:50 +0000
+
+<p>Digital twins deliver flawless predictions only when the physical environment behaves predictably, and eliminating hidden variables ensures AI accuracy.</p>
+<p>The post <a href="https://www.eetasia.com/5-steps-to-align-your-physical-fab-infrastructure-with-ai-yield-models/">5 Steps to Align Your Physical Fab Infrastructure with AI Yield Models</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [MIDA Expands Malaysia’s Semiconductor Supply Chain Role Through Johor–Singapore SEZ Partnership](https://www.eetasia.com/mida-expands-malaysias-semiconductor-supply-chain-role-through-johor-singapore-sez-partnership/)
+**Published:** Mon, 11 May 2026 22:31:53 +0000
+
+<p>MIDA is strengthening semiconductor supply chain resilience through the JS-SEZ collaboration with Micron and OCBC in Malaysia.</p>
+<p>The post <a href="https://www.eetasia.com/mida-expands-malaysias-semiconductor-supply-chain-role-through-johor-singapore-sez-partnership/">MIDA Expands Malaysia&#8217;s Semiconductor Supply Chain Role Through Johor–Singapore SEZ Partnership</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [MIDA Pushes Talent Development as Malaysia Expands Semiconductor Value Chain](https://www.eetasia.com/mida-pushes-talent-development-as-malaysia-expands-semiconductor-value-chain/)
 **Published:** Sun, 10 May 2026 21:59:48 +0000
@@ -18,11 +42,43 @@ _Last updated: 2026-05-11 15:05 UTC_
 
 ---
 
-## [Delta Electronics Showcases Advance Semiconductor Packaging Solutions at SEMICON SEA 2026](https://www.eetasia.com/delta-electronics-showcases-advance-semiconductor-packaging-solutions-at-semicon-sea-2026/)
-**Published:** Fri, 08 May 2026 05:20:18 +0000
+## [Cyient Semiconductors Launches India’s First GaN Power IC Family Leveraging Navitas Technology](https://www.semiconductor-digest.com/cyient-semiconductors-launches-indias-first-gan-power-ic-family-leveraging-navitas-technology/?utm_source=rss&utm_medium=rss&utm_campaign=cyient-semiconductors-launches-indias-first-gan-power-ic-family-leveraging-navitas-technology)
+**Published:** Mon, 11 May 2026 22:36:24 +0000
 
-<p>Delta Electronics showcased its smart manufacturing solutions for advanced semiconductor packaging at SEMICON Southeast Asia 2026.</p>
-<p>The post <a href="https://www.eetasia.com/delta-electronics-showcases-advance-semiconductor-packaging-solutions-at-semicon-sea-2026/">Delta Electronics Showcases Advance Semiconductor Packaging Solutions at SEMICON SEA 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Cyient Semiconductors Private Limited today announced the launch of seven new gallium nitride (GaN) power devices for the Indian market, developed using Navitas Semiconductor's (Nasdaq: NVTS) industry leading GaN technology.  </p>
+<p>The post <a href="https://www.semiconductor-digest.com/cyient-semiconductors-launches-indias-first-gan-power-ic-family-leveraging-navitas-technology/">Cyient Semiconductors Launches India&#8217;s First GaN Power IC Family Leveraging Navitas Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [indie to Acquire CMOS Image Sensor Product Line from ams OSRAM](https://www.semiconductor-digest.com/indie-to-acquire-cmos-image-sensor-product-line-from-ams-osram/?utm_source=rss&utm_medium=rss&utm_campaign=indie-to-acquire-cmos-image-sensor-product-line-from-ams-osram)
+**Published:** Mon, 11 May 2026 22:29:56 +0000
+
+<p>indie Semiconductor, an automotive solutions innovator, has announced the signing of a definitive agreement to acquire the fabless CMOS image sensor group from ams OSRAM AG for a total consideration of 40 million euros.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/indie-to-acquire-cmos-image-sensor-product-line-from-ams-osram/">indie to Acquire CMOS Image Sensor Product Line from ams OSRAM</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Flexible Touch Sensors: Mimicking Human Skin With a Smart Conductive Polymer](https://www.semiconductor-digest.com/flexible-touch-sensors-mimicking-human-skin-with-a-smart-conductive-polymer/?utm_source=rss&utm_medium=rss&utm_campaign=flexible-touch-sensors-mimicking-human-skin-with-a-smart-conductive-polymer)
+**Published:** Mon, 11 May 2026 22:28:13 +0000
+
+<p>Imagine a prosthetic hand that can feel the warmth of a coffee cup, or a smart bandage that tracks your pulse and breathing. Scientists are now one step closer to making these a reality —thanks to a versatile material called PEDOT:PSS.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/flexible-touch-sensors-mimicking-human-skin-with-a-smart-conductive-polymer/">Flexible Touch Sensors: Mimicking Human Skin With a Smart Conductive Polymer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [KAIST Demonstrates Ultralow-Noise Microwave and Millimeter-Wave Signal Generation Using Microcomb-based Photonic Chip](https://www.semiconductor-digest.com/kaist-demonstrates-ultralow-noise-microwave-and-millimeter-wave-signal-generation-using-microcomb-based-photonic-chip/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-demonstrates-ultralow-noise-microwave-and-millimeter-wave-signal-generation-using-microcomb-based-photonic-chip)
+**Published:** Mon, 11 May 2026 21:27:06 +0000
+
+<p>Researchers at KAIST have demonstrated a chip-scale photonic approach for generating ultralow-noise and highly stable microwave and millimeter-wave signals based on optical frequency combs (microcombs), offering a potential pathway toward compact, high-performance frequency sources for next-generation technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kaist-demonstrates-ultralow-noise-microwave-and-millimeter-wave-signal-generation-using-microcomb-based-photonic-chip/">KAIST Demonstrates Ultralow-Noise Microwave and Millimeter-Wave Signal Generation Using Microcomb-based Photonic Chip</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [A Maskless Laser Printing Breakthrough for Next-Generation Semiconductor Packaging](https://www.semiconductor-digest.com/a-maskless-laser-printing-breakthrough-for-next-generation-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=a-maskless-laser-printing-breakthrough-for-next-generation-semiconductor-packaging)
+**Published:** Mon, 11 May 2026 21:23:58 +0000
+
+<p>A global research team has developed an 'All-Surface' 3D laser patterning technique to directly draw highly conductive carbon circuitry on transparent glass, overcoming conventional 2D lithography limits for advanced AI packaging.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/a-maskless-laser-printing-breakthrough-for-next-generation-semiconductor-packaging/">A Maskless Laser Printing Breakthrough for Next-Generation Semiconductor Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,46 +839,6 @@ _Last updated: 2026-05-11 15:05 UTC_
 
 <p>Researchers at the National Institute of Standards and Technology (NIST) have developed a new way to package photonic integrated circuits so they can survive and operate in extreme environments.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/nist-researchers-develop-photonic-chip-packaging-that-can-withstand-extreme-environments/">NIST Researchers Develop Photonic Chip Packaging That Can Withstand Extreme Environments</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rapidus Opens Analysis Center and Rapidus Chiplet Solutions](https://www.semiconductor-digest.com/rapidus-opens-analysis-center-and-rapidus-chiplet-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-opens-analysis-center-and-rapidus-chiplet-solutions)
-**Published:** Mon, 13 Apr 2026 17:38:13 +0000
-
-<p>New facilities enhance Rapidus' development environment to ensure a steady transition to mass production of cutting-edge semiconductors in 2027.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rapidus-opens-analysis-center-and-rapidus-chiplet-solutions/">Rapidus Opens Analysis Center and Rapidus Chiplet Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SNIA Launches MRAM Alliance SIG](https://www.semiconductor-digest.com/snia-launches-mram-alliance-sig/?utm_source=rss&utm_medium=rss&utm_campaign=snia-launches-mram-alliance-sig)
-**Published:** Mon, 13 Apr 2026 17:34:19 +0000
-
-<p>New initiative invites industry participation to enable optimal use of MRAM in lower-power edge devices to high-performance subsystems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/snia-launches-mram-alliance-sig/">SNIA Launches MRAM Alliance SIG</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ESD Alliance Reports Electronic System Design Industry Posts $5.5 Billion in Revenue in Q4 2025](https://www.semiconductor-digest.com/esd-alliance-reports-electronic-system-design-industry-posts-5-5-billion-in-revenue-in-q4-2025/?utm_source=rss&utm_medium=rss&utm_campaign=esd-alliance-reports-electronic-system-design-industry-posts-5-5-billion-in-revenue-in-q4-2025)
-**Published:** Mon, 13 Apr 2026 17:24:03 +0000
-
-<p>Electronic System Design (ESD) industry revenue increased 10.3% to $5,466.3 million in the fourth quarter of 2025 from the $4,955.2 million registered in the fourth quarter of 2024.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/esd-alliance-reports-electronic-system-design-industry-posts-5-5-billion-in-revenue-in-q4-2025/">ESD Alliance Reports Electronic System Design Industry Posts $5.5 Billion in Revenue in Q4 2025</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Transcat Expands into Latin America with Acquisition of SCM Metrology and Laboratories S.A.](https://www.semiconductor-digest.com/transcat-expands-into-latin-america-with-acquisition-of-scm-metrology-and-laboratories-s-a/?utm_source=rss&utm_medium=rss&utm_campaign=transcat-expands-into-latin-america-with-acquisition-of-scm-metrology-and-laboratories-s-a)
-**Published:** Fri, 10 Apr 2026 14:17:53 +0000
-
-<p>Transcat, Inc., a provider of test measurement, control and calibration, today announced the acquisition of SCM Metrology and Laboratories S.A., a privately-held calibration services provider based in Costa Rica.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/transcat-expands-into-latin-america-with-acquisition-of-scm-metrology-and-laboratories-s-a/">Transcat Expands into Latin America with Acquisition of SCM Metrology and Laboratories S.A.</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Snap and Qualcomm Expand Strategic Collaboration](https://www.semiconductor-digest.com/snap-and-qualcomm-expand-strategic-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=snap-and-qualcomm-expand-strategic-collaboration)
-**Published:** Fri, 10 Apr 2026 14:11:36 +0000
-
-<p>Long-term agreement brings Snapdragon XR solutions to future generations of Specs, strengthening the platform for developers and customers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/snap-and-qualcomm-expand-strategic-collaboration/">Snap and Qualcomm Expand Strategic Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
