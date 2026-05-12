@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-12 00:12 UTC_
+_Last updated: 2026-05-12 06:50 UTC_
 
 ## [ams OSRAM to Sell CMOS Image Sensor Product Line to indie Semiconductor](https://www.eetasia.com/ams-osram-to-sell-cmos-image-sensor-product-line-to-indie-semiconductor/)
 **Published:** Mon, 11 May 2026 23:09:35 +0000
@@ -946,6 +946,22 @@ _Last updated: 2026-05-12 00:12 UTC_
 
 ---
 
+## [Price rises spread to analogue, discretes and passives](https://www.electronicsweekly.com/news/business/price-rises-increase-across-multiple-sectors-2026-05/)
+**Published:** Tue, 12 May 2026 05:28:53 +0000
+
+<p>More companies will be raising semiconductor prices rises, reports TrendForce, quoting multiple sources. According to eTime, TI will raise prices on July 1st and according to Sina increases could range ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/price-rises-increase-across-multiple-sectors-2026-05/">Price rises spread to analogue, discretes and passives</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Infineon expands XHP 2 power module portfolio](https://www.electronicsweekly.com/news/business/infineon-expands-xhp-2-power-module-portfolio-2026-05/)
+**Published:** Tue, 12 May 2026 05:14:49 +0000
+
+<p>Infineon has  expanded its XHP 2 power module portfolio with new variants incorporating CoolSiC MOSFETs 2300 V, designed for high-voltage power systems. The 2300 V class devices support DC-link voltages ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/infineon-expands-xhp-2-power-module-portfolio-2026-05/">Infineon expands XHP 2 power module portfolio</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [ScaleBridge Labs incubator offers leading GaN technology](https://www.electronicsweekly.com/news/business/manufacturing/scalebridge-labs-incubator-offers-leading-gan-technology-2026-05/)
 **Published:** Mon, 11 May 2026 13:21:03 +0000
 
@@ -954,10 +970,10 @@ _Last updated: 2026-05-12 00:12 UTC_
 
 ---
 
-## [JOB: Memory Design Engineer – SRAM and ROM At GlobalFoundries In Bengaluru](https://www.electronicsforu.com/career/memory-design-engineer-sram-rom-globalfoundries-bengaluru)
-**Published:** Fri, 08 May 2026 07:25:46 +0000
+## [Why AI Cannot Take the Blame for a $100 Million Chip Failure](https://www.electronicsforu.com/news/why-ai-cannot-take-the-blame-for-a-100-million-chip-failure)
+**Published:** Mon, 11 May 2026 08:33:28 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2024/10/globalfoundries-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: GlobalFoundries GlobalFoundries is looking for a highly motivated Memory Design Engineer to work in the Memory IP group in the Global Organisation, based in Bangalore.  The successful candidate will work with 100% quality and minimal cycle time in mind. This role requires working closely with the internal design, layout teams, technology, test [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/1000043725-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As AI enters semiconductor verification, it is erasing roles for beginner training while making expert human judgment more critical than ever. How? Artificial intelligence (AI) is rapidly transforming semiconductor verification, helping engineers automate scripting, generate tests, trace coverage gaps, and modify large codebases in minutes instead of days. But as chip companies race to integrate [&#8230;]
 
 ---
 
