@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-12 12:09 UTC_
+_Last updated: 2026-05-12 23:15 UTC_
 
 ## [ams OSRAM to Sell CMOS Image Sensor Product Line to indie Semiconductor](https://www.eetasia.com/ams-osram-to-sell-cmos-image-sensor-product-line-to-indie-semiconductor/)
 **Published:** Mon, 11 May 2026 23:09:35 +0000
@@ -39,6 +39,46 @@ _Last updated: 2026-05-12 12:09 UTC_
 
 <p>COMPUTEX 2026 keynotes will emphasize AI infrastructure, heterogeneous computing, physical AI, and distributed intelligent systems.</p>
 <p>The post <a href="https://www.eetasia.com/computex-2026-keynotes-focus-on-scaling-ai-infrastructure-edge-intelligence-and-physical-ai-deployment/">COMPUTEX 2026 Keynotes Focus on Scaling AI Infrastructure, Edge Intelligence, and Physical AI Deployment</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Cohu Receives Multiple Orders for Testing Next-Generation GaN Power Devices for AI Data Centers](https://www.semiconductor-digest.com/cohu-receives-multiple-orders-for-testing-next-generation-gan-power-devices-for-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=cohu-receives-multiple-orders-for-testing-next-generation-gan-power-devices-for-ai-data-centers)
+**Published:** Tue, 12 May 2026 21:11:44 +0000
+
+<p>The systems will support development and manufacturing of next-generation gallium nitride (GaN) power devices used in AI data center power architectures.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cohu-receives-multiple-orders-for-testing-next-generation-gan-power-devices-for-ai-data-centers/">Cohu Receives Multiple Orders for Testing Next-Generation GaN Power Devices for AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Rigaku Accelerates Next-generation Semiconductor Metrology Development Leveraging World-Class Research Infrastructure](https://www.semiconductor-digest.com/rigaku-accelerates-next-generation-semiconductor-metrology-development-leveraging-world-class-research-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=rigaku-accelerates-next-generation-semiconductor-metrology-development-leveraging-world-class-research-infrastructure)
+**Published:** Tue, 12 May 2026 21:00:38 +0000
+
+<p>Rigaku Corporation announced the expansion of its development of metrology technologies for next-generation semiconductors, leveraging global research environments.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rigaku-accelerates-next-generation-semiconductor-metrology-development-leveraging-world-class-research-infrastructure/">Rigaku Accelerates Next-generation Semiconductor Metrology Development Leveraging World-Class Research Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens Unveils AI-Powered Library Characterization to Accelerate Semiconductor Design](https://www.semiconductor-digest.com/siemens-unveils-ai-powered-library-characterization-to-accelerate-semiconductor-design/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-unveils-ai-powered-library-characterization-to-accelerate-semiconductor-design)
+**Published:** Tue, 12 May 2026 20:47:18 +0000
+
+<p>Siemens today announced Solido Characterizer software, the next evolution in its Solido Characterization Suite software, designed to meet the semiconductor industry's rapidly evolving requirements for speed, accuracy and efficiency in library characterization across process nodes, from mature to the most advanced.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-unveils-ai-powered-library-characterization-to-accelerate-semiconductor-design/">Siemens Unveils AI-Powered Library Characterization to Accelerate Semiconductor Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs](https://www.semiconductor-digest.com/asu-tsmc-arizona-launch-accelerated-technician-training-program-to-meet-expanding-semiconductor-workforce-needs/?utm_source=rss&utm_medium=rss&utm_campaign=asu-tsmc-arizona-launch-accelerated-technician-training-program-to-meet-expanding-semiconductor-workforce-needs)
+**Published:** Tue, 12 May 2026 20:43:07 +0000
+
+<p>Arizona State University is launching a new semiconductor technician training program in collaboration with Taiwan Semiconductor Manufacturing Company, (TSMC Arizona), to help meet growing demand for skilled manufacturing workers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/asu-tsmc-arizona-launch-accelerated-technician-training-program-to-meet-expanding-semiconductor-workforce-needs/">ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Global Semiconductor Materials Market Revenue Reaches Record $73.2 Billion in 2025, SEMI Reports](https://www.semiconductor-digest.com/global-semiconductor-materials-market-revenue-reaches-record-73-2-billion-in-2025-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-materials-market-revenue-reaches-record-73-2-billion-in-2025-semi-reports)
+**Published:** Tue, 12 May 2026 20:39:52 +0000
+
+<p>Global semiconductor materials market revenue increased 6.8% year-over-year to $73.2 billion in 2025, SEMI, reported today in its Materials Market Data Subscription (MMDS).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-materials-market-revenue-reaches-record-73-2-billion-in-2025-semi-reports/">Global Semiconductor Materials Market Revenue Reaches Record $73.2 Billion in 2025, SEMI Reports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -802,43 +842,19 @@ _Last updated: 2026-05-12 12:09 UTC_
 
 ---
 
-## [Northeast Microelectronics Coalition Awards $1M to Eight Startups Through PROPEL Grant Program](https://www.semiconductor-digest.com/northeast-microelectronics-coalition-awards-1m-to-eight-startups-through-propel-grant-program/?utm_source=rss&utm_medium=rss&utm_campaign=northeast-microelectronics-coalition-awards-1m-to-eight-startups-through-propel-grant-program)
-**Published:** Tue, 14 Apr 2026 20:29:13 +0000
+## [Humanoid Robotics is a Power Electronics Problem](https://www.powerelectronicsnews.com/humanoid-robotics-is-a-power-electronics-problem/)
+**Published:** Tue, 12 May 2026 13:00:00 +0000
 
-<p>The Northeast Microelectronics Coalition (NEMC), a division of the Massachusetts Technology Collaborative (MassTech), today announced a new cohort of eight startups selected to receive $1,013,287 in combined funding through its Powering Regional Opportunities for Prototyping Microelectronics (PROPEL) program.  </p>
-<p>The post <a href="https://www.semiconductor-digest.com/northeast-microelectronics-coalition-awards-1m-to-eight-startups-through-propel-grant-program/">Northeast Microelectronics Coalition Awards $1M to Eight Startups Through PROPEL Grant Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Advantest Announces Opening of Strategic Innovation Center](https://www.semiconductor-digest.com/advantest-announces-opening-of-strategic-innovation-center/?utm_source=rss&utm_medium=rss&utm_campaign=advantest-announces-opening-of-strategic-innovation-center)
-**Published:** Tue, 14 Apr 2026 20:26:02 +0000
-
-<p>Semiconductor test equipment supplier Advantest Corporation today announced the opening of two Advantest Innovation Centers—one located on the company’s campus in San Jose, Calif., and another currently under construction in nearby Sunnyvale, Calif.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/advantest-announces-opening-of-strategic-innovation-center/">Advantest Announces Opening of Strategic Innovation Center</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/image_30a3ae.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>Experts from EPC and Texas Instruments explain why GaN dominates humanoid robot motor drive design at the joint level.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/humanoid-robotics-is-a-power-electronics-problem/">Humanoid Robotics is a Power Electronics Problem</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [This Lab’s Research Is A Little Extreme](https://www.semiconductor-digest.com/this-labs-research-is-a-little-extreme/?utm_source=rss&utm_medium=rss&utm_campaign=this-labs-research-is-a-little-extreme)
-**Published:** Tue, 14 Apr 2026 19:02:38 +0000
+## [Infineon and d-Matrix Advance Energy-Efficient AI Infrastructure](https://www.powerelectronicsnews.com/infineon-and-d-matrix-advance-energy-efficient-ai-infrastructure/)
+**Published:** Tue, 12 May 2026 13:00:00 +0000
 
-<p>ASU's Extreme Environments Lab tests semiconductor technologies under some of the harshest conditions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/this-labs-research-is-a-little-extreme/">This Lab’s Research Is A Little Extreme</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lighting the Path for AI: Co‑Packaged Optics Moves from Promise to Production](https://www.semiconductor-digest.com/lighting-the-path-for-ai-co-packaged-optics-moves-from-promise-to-production/?utm_source=rss&utm_medium=rss&utm_campaign=lighting-the-path-for-ai-co-packaged-optics-moves-from-promise-to-production)
-**Published:** Tue, 14 Apr 2026 13:25:32 +0000
-
-<p>Co‑packaged optics (CPO) has moved from a long‑anticipated future technology to an immediate requirement for AI‑class data centers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lighting-the-path-for-ai-co-packaged-optics-moves-from-promise-to-production/">Lighting the Path for AI: Co‑Packaged Optics Moves from Promise to Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NIST Researchers Develop Photonic Chip Packaging That Can Withstand Extreme Environments](https://www.semiconductor-digest.com/nist-researchers-develop-photonic-chip-packaging-that-can-withstand-extreme-environments/?utm_source=rss&utm_medium=rss&utm_campaign=nist-researchers-develop-photonic-chip-packaging-that-can-withstand-extreme-environments)
-**Published:** Mon, 13 Apr 2026 18:47:33 +0000
-
-<p>Researchers at the National Institute of Standards and Technology (NIST) have developed a new way to package photonic integrated circuits so they can survive and operate in extreme environments.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nist-researchers-develop-photonic-chip-packaging-that-can-withstand-extreme-environments/">NIST Researchers Develop Photonic Chip Packaging That Can Withstand Extreme Environments</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Infineon and d-Matrix Advance Energy-Efficient AI Infrastructure." class="webfeedsFeaturedVisual wp-post-image" height="1250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/OptiMOS™-TDM22544D-dual-phase-power-module.tif_.jpg?fit=1500%2C1250" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>The collaboration combines Infineon power modules with d-Matrix AI accelerators for efficient low-latency inference.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-and-d-matrix-advance-energy-efficient-ai-infrastructure/">Infineon and d-Matrix Advance Energy-Efficient AI Infrastructure</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -906,22 +922,6 @@ _Last updated: 2026-05-12 12:09 UTC_
 
 ---
 
-## [AOS Expands Power Portfolio with Protected DrMOS Technology](https://www.powerelectronicsnews.com/aos-expands-power-portfolio-with-protected-drmos-technology/)
-**Published:** Wed, 06 May 2026 15:00:00 +0000
-
-<img alt="AOS Expands Power Portfolio with Protected DrMOS Technology." class="webfeedsFeaturedVisual wp-post-image" height="1028" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AOS_53228QI.jpg?fit=1200%2C1028" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new protected DrMOS devices improve current limiting and reliability for demanding AI and data center workloads.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/aos-expands-power-portfolio-with-protected-drmos-technology/">AOS Expands Power Portfolio with Protected DrMOS Technology</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Arrow Electronics World 2026: Geopolitics, AI at the Edge, and 100+ Exhibitors Come to Parma](https://www.powerelectronicsnews.com/arrow-electronics-world-2026-geopolitics-ai-at-the-edge-and-100-exhibitors-come-to-parma/)
-**Published:** Wed, 06 May 2026 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Arrow-Electronics-World-2026.jpg?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Italy's premier electronics event returns June 18, exploring AI at the edge and global supply chain geopolitics.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/arrow-electronics-world-2026-geopolitics-ai-at-the-edge-and-100-exhibitors-come-to-parma/">Arrow Electronics World 2026: Geopolitics, AI at the Edge, and 100+ Exhibitors Come to Parma</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Wooptix Targets AI Packaging Bottleneck with Astronomy Tech](https://www.eetimes.com/wooptix-targets-ai-packaging-bottleneck-with-astronomy-tech/)
 **Published:** Mon, 11 May 2026 08:57:35 +0000
 
@@ -935,6 +935,14 @@ _Last updated: 2026-05-12 12:09 UTC_
 
 <p> Infineon Q2 earnings rise 4% as the chipmaker reorganizes to target SDVs and power systems.</p>
 <p>The post <a href="https://www.eetimes.com/automotive-and-ai-lift-infineon-q2-point-to-fy2026-revenue-above-18b/">Automotive and AI Lift Infineon Q2, Point to FY2026 Revenue Above $18B</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [King’s Awards for Enterprise 2026](https://www.electronicsweekly.com/news/kings-awards-for-enterprise-2026-2026-05/)
+**Published:** Tue, 12 May 2026 13:58:54 +0000
+
+<p>The King’s Awards for Enterprise 2026 have been announced, and Electronics Weekly studied the list of winners to discover which electronics-related organisations have been honoured this year. They were officially ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/kings-awards-for-enterprise-2026-2026-05/">King’s Awards for Enterprise 2026</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -962,10 +970,17 @@ _Last updated: 2026-05-12 12:09 UTC_
 
 ---
 
-## [Why AI Cannot Take the Blame for a $100 Million Chip Failure](https://www.electronicsforu.com/news/why-ai-cannot-take-the-blame-for-a-100-million-chip-failure)
-**Published:** Mon, 11 May 2026 08:33:28 +0000
+## [From Sensor to Insight: Using NI DAQ for Intelligent electromechanical test and control applications](https://www.electronicsforu.com/videos-slideshows/from-sensor-to-insight-using-ni-daq-for-intelligent-electromechanical-test-and-control-applications)
+**Published:** Tue, 12 May 2026 12:12:31 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/1000043725-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As AI enters semiconductor verification, it is erasing roles for beginner training while making expert human judgment more critical than ever. How? Artificial intelligence (AI) is rapidly transforming semiconductor verification, helping engineers automate scripting, generate tests, trace coverage gaps, and modify large codebases in minutes instead of days. But as chip companies race to integrate [&#8230;]
+This webinar is an introductory session to build intelligent test systems, from capturing measurements from physical world, to building scalable intelligent electromechanical test systems with integrated control.
+
+---
+
+## [India Shifts Semiconductor Focus To Advanced Packaging](https://www.electronicsforu.com/technology-trends/india-shifts-semiconductor-focus-to-advanced-packaging)
+**Published:** Tue, 12 May 2026 11:34:20 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/5af916b5-8460-4e0e-af25-e89d32aecea1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />India’s chip ambitions are moving beyond fabs toward advanced packaging, glass substrates, and chiplets technologies that could power India’s next wave of AI, EV, telecom, and data centre hardware. India’s semiconductor ambitions are increasingly shifting beyond fabs toward advanced packaging, glass substrates, wafer-level packaging, and indigenous chip ecosystems. In an exclusive conversation, Sharat Kaul of [&#8230;]
 
 ---
 
