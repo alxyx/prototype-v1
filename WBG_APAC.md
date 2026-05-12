@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-12 09:52 UTC_
+_Last updated: 2026-05-12 12:09 UTC_
 
 ## [ams OSRAM to Sell CMOS Image Sensor Product Line to indie Semiconductor](https://www.eetasia.com/ams-osram-to-sell-cmos-image-sensor-product-line-to-indie-semiconductor/)
 **Published:** Mon, 11 May 2026 23:09:35 +0000
