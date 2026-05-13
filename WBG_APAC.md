@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-13 07:00 UTC_
+_Last updated: 2026-05-13 09:57 UTC_
 
 ## [SEMI: Global Semiconductor Materials Market Revenue Hits Record $73.2B in 2025](https://www.eetasia.com/semi-global-semiconductor-materials-market-revenue-hits-record-73-2b-in-2025/)
 **Published:** Tue, 12 May 2026 23:40:46 +0000
@@ -914,6 +914,14 @@ _Last updated: 2026-05-13 07:00 UTC_
 
 ---
 
+## [Europe’s Photonics Push Runs Through Spain](https://www.eetimes.com/europe-photonics-push-runs-through-spain/)
+**Published:** Wed, 13 May 2026 09:37:44 +0000
+
+<p>Spain coordinates Europe’s €400 million PIXEurope initiative to turn photonics research into scalable semiconductor manufacturing capacity.</p>
+<p>The post <a href="https://www.eetimes.com/europe-photonics-push-runs-through-spain/">Europe’s Photonics Push Runs Through Spain</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Wooptix Targets AI Packaging Bottleneck with Astronomy Tech](https://www.eetimes.com/wooptix-targets-ai-packaging-bottleneck-with-astronomy-tech/)
 **Published:** Mon, 11 May 2026 08:57:35 +0000
 
@@ -927,6 +935,38 @@ _Last updated: 2026-05-13 07:00 UTC_
 
 <p> Infineon Q2 earnings rise 4% as the chipmaker reorganizes to target SDVs and power systems.</p>
 <p>The post <a href="https://www.eetimes.com/automotive-and-ai-lift-infineon-q2-point-to-fy2026-revenue-above-18b/">Automotive and AI Lift Infineon Q2, Point to FY2026 Revenue Above $18B</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [amsOsram sells sensor business to indie Semiconductor](https://www.electronicsweekly.com/news/business/amsosram-sells-sensor-business-to-indie-semiconductor-2026-05/)
+**Published:** Wed, 13 May 2026 05:18:10 +0000
+
+<p>amsOsram has sold its CMOS Image Sensor business to indie Semiconductor for €40 million in cash, further concentrating its growth investments into AI Photonics and AR smart glasses. “With the ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/amsosram-sells-sensor-business-to-indie-semiconductor-2026-05/">amsOsram sells sensor business to indie Semiconductor</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Siemens democratises EDA](https://www.electronicsweekly.com/news/business/siemens-democratises-eda-2026-05/)
+**Published:** Wed, 13 May 2026 05:11:57 +0000
+
+<p>Siemens has become the first software provider to sign a strategic framework agreement with the European Chips Joint Undertaking (Chips JU) which aims to bolster Europe&#8217;s semiconductor industry by fostering ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/siemens-democratises-eda-2026-05/">Siemens democratises EDA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [King’s Awards for Enterprise 2026](https://www.electronicsweekly.com/news/kings-awards-for-enterprise-2026-2026-05/)
+**Published:** Tue, 12 May 2026 13:58:54 +0000
+
+<p>The King’s Awards for Enterprise 2026 have been announced, and Electronics Weekly studied the list of winners to discover which electronics-related organisations have been honoured this year. They were officially ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/kings-awards-for-enterprise-2026-2026-05/">King’s Awards for Enterprise 2026</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Price rises spread to analogue, discretes and passives](https://www.electronicsweekly.com/news/business/price-rises-increase-across-multiple-sectors-2026-05/)
+**Published:** Tue, 12 May 2026 05:28:53 +0000
+
+<p>More companies will be raising semiconductor prices rises, reports TrendForce, quoting multiple sources. According to eTime, TI will raise prices on July 1st and according to Sina increases could range ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/price-rises-increase-across-multiple-sectors-2026-05/">Price rises spread to analogue, discretes and passives</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
