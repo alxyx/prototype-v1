@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-13 09:57 UTC_
+_Last updated: 2026-05-13 12:17 UTC_
 
 ## [SEMI: Global Semiconductor Materials Market Revenue Hits Record $73.2B in 2025](https://www.eetasia.com/semi-global-semiconductor-materials-market-revenue-hits-record-73-2b-in-2025/)
 **Published:** Tue, 12 May 2026 23:40:46 +0000
