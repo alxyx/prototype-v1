@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-12 23:15 UTC_
+_Last updated: 2026-05-13 03:40 UTC_
+
+## [SEMI: Global Semiconductor Materials Market Revenue Hits Record $73.2B in 2025](https://www.eetasia.com/semi-global-semiconductor-materials-market-revenue-hits-record-73-2b-in-2025/)
+**Published:** Tue, 12 May 2026 23:40:46 +0000
+
+<p>The global semiconductor materials market growth was supported by gains in both the wafer fab materials and packaging materials segments.</p>
+<p>The post <a href="https://www.eetasia.com/semi-global-semiconductor-materials-market-revenue-hits-record-73-2b-in-2025/">SEMI: Global Semiconductor Materials Market Revenue Hits Record $73.2B in 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [ams OSRAM to Sell CMOS Image Sensor Product Line to indie Semiconductor](https://www.eetasia.com/ams-osram-to-sell-cmos-image-sensor-product-line-to-indie-semiconductor/)
 **Published:** Mon, 11 May 2026 23:09:35 +0000
@@ -23,22 +31,6 @@ _Last updated: 2026-05-12 23:15 UTC_
 
 <p>MIDA is strengthening semiconductor supply chain resilience through the JS-SEZ collaboration with Micron and OCBC in Malaysia.</p>
 <p>The post <a href="https://www.eetasia.com/mida-expands-malaysias-semiconductor-supply-chain-role-through-johor-singapore-sez-partnership/">MIDA Expands Malaysia&#8217;s Semiconductor Supply Chain Role Through Johor–Singapore SEZ Partnership</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [MIDA Pushes Talent Development as Malaysia Expands Semiconductor Value Chain](https://www.eetasia.com/mida-pushes-talent-development-as-malaysia-expands-semiconductor-value-chain/)
-**Published:** Sun, 10 May 2026 21:59:48 +0000
-
-<p>Malaysia links semiconductor talent development with smart manufacturing and supply chain integration to support industry expansion globally.</p>
-<p>The post <a href="https://www.eetasia.com/mida-pushes-talent-development-as-malaysia-expands-semiconductor-value-chain/">MIDA Pushes Talent Development as Malaysia Expands Semiconductor Value Chain</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [COMPUTEX 2026 Keynotes Focus on Scaling AI Infrastructure, Edge Intelligence, and Physical AI Deployment](https://www.eetasia.com/computex-2026-keynotes-focus-on-scaling-ai-infrastructure-edge-intelligence-and-physical-ai-deployment/)
-**Published:** Fri, 08 May 2026 10:19:15 +0000
-
-<p>COMPUTEX 2026 keynotes will emphasize AI infrastructure, heterogeneous computing, physical AI, and distributed intelligent systems.</p>
-<p>The post <a href="https://www.eetasia.com/computex-2026-keynotes-focus-on-scaling-ai-infrastructure-edge-intelligence-and-physical-ai-deployment/">COMPUTEX 2026 Keynotes Focus on Scaling AI Infrastructure, Edge Intelligence, and Physical AI Deployment</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
