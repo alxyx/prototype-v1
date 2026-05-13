@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-13 03:40 UTC_
+_Last updated: 2026-05-13 07:00 UTC_
 
 ## [SEMI: Global Semiconductor Materials Market Revenue Hits Record $73.2B in 2025](https://www.eetasia.com/semi-global-semiconductor-materials-market-revenue-hits-record-73-2b-in-2025/)
 **Published:** Tue, 12 May 2026 23:40:46 +0000
@@ -927,38 +927,6 @@ _Last updated: 2026-05-13 03:40 UTC_
 
 <p> Infineon Q2 earnings rise 4% as the chipmaker reorganizes to target SDVs and power systems.</p>
 <p>The post <a href="https://www.eetimes.com/automotive-and-ai-lift-infineon-q2-point-to-fy2026-revenue-above-18b/">Automotive and AI Lift Infineon Q2, Point to FY2026 Revenue Above $18B</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [King’s Awards for Enterprise 2026](https://www.electronicsweekly.com/news/kings-awards-for-enterprise-2026-2026-05/)
-**Published:** Tue, 12 May 2026 13:58:54 +0000
-
-<p>The King’s Awards for Enterprise 2026 have been announced, and Electronics Weekly studied the list of winners to discover which electronics-related organisations have been honoured this year. They were officially ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/kings-awards-for-enterprise-2026-2026-05/">King’s Awards for Enterprise 2026</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Price rises spread to analogue, discretes and passives](https://www.electronicsweekly.com/news/business/price-rises-increase-across-multiple-sectors-2026-05/)
-**Published:** Tue, 12 May 2026 05:28:53 +0000
-
-<p>More companies will be raising semiconductor prices rises, reports TrendForce, quoting multiple sources. According to eTime, TI will raise prices on July 1st and according to Sina increases could range ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/price-rises-increase-across-multiple-sectors-2026-05/">Price rises spread to analogue, discretes and passives</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Infineon expands XHP 2 power module portfolio](https://www.electronicsweekly.com/news/business/infineon-expands-xhp-2-power-module-portfolio-2026-05/)
-**Published:** Tue, 12 May 2026 05:14:49 +0000
-
-<p>Infineon has  expanded its XHP 2 power module portfolio with new variants incorporating CoolSiC MOSFETs 2300 V, designed for high-voltage power systems. The 2300 V class devices support DC-link voltages ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/infineon-expands-xhp-2-power-module-portfolio-2026-05/">Infineon expands XHP 2 power module portfolio</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [ScaleBridge Labs incubator offers leading GaN technology](https://www.electronicsweekly.com/news/business/manufacturing/scalebridge-labs-incubator-offers-leading-gan-technology-2026-05/)
-**Published:** Mon, 11 May 2026 13:21:03 +0000
-
-<p>Since its launch in October 2025, incubator and accelerator, ScaleBridge Labs, has focused on both national security and commercial applications. At Microelectronics US, it announced 60nm N-polar RF GaN, claiming ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/manufacturing/scalebridge-labs-incubator-offers-leading-gan-technology-2026-05/">ScaleBridge Labs incubator offers leading GaN technology</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
