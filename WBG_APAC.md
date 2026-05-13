@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-13 12:17 UTC_
+_Last updated: 2026-05-13 15:55 UTC_
 
 ## [SEMI: Global Semiconductor Materials Market Revenue Hits Record $73.2B in 2025](https://www.eetasia.com/semi-global-semiconductor-materials-market-revenue-hits-record-73-2b-in-2025/)
 **Published:** Tue, 12 May 2026 23:40:46 +0000
@@ -834,6 +834,14 @@ _Last updated: 2026-05-13 12:17 UTC_
 
 ---
 
+## [Renesas’ End-to-End Power Solutions for AI Data Centers](https://www.powerelectronicsnews.com/renesas-end-to-end-power-solutions-for-ai-data-centers/)
+**Published:** Wed, 13 May 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_1207674120.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>Renesas presents end-to-end power solutions for AI data centers as HVDC architectures replace conventional 48V distribution.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/renesas-end-to-end-power-solutions-for-ai-data-centers/">Renesas&#8217; End-to-End Power Solutions for AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Humanoid Robotics is a Power Electronics Problem](https://www.powerelectronicsnews.com/humanoid-robotics-is-a-power-electronics-problem/)
 **Published:** Tue, 12 May 2026 13:00:00 +0000
 
@@ -906,14 +914,6 @@ _Last updated: 2026-05-13 12:17 UTC_
 
 ---
 
-## [Power Corner: Texas Instruments’ Nikhil Jotwani on Smarter, Safer Automotive BMS](https://www.powerelectronicsnews.com/power-corner-texas-instruments-nikhil-jotwani-on-smarter-safer-automotive-bms/)
-**Published:** Thu, 07 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/04/TI-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Description In this episode of Power Corner, Aalyia Shaukat sits down with Nikhil Jotwani, Systems Marketing and Business Development Manager for Automotive BMS at Texas...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-texas-instruments-nikhil-jotwani-on-smarter-safer-automotive-bms/">Power Corner: Texas Instruments&#8217; Nikhil Jotwani on Smarter, Safer Automotive BMS</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Europe’s Photonics Push Runs Through Spain](https://www.eetimes.com/europe-photonics-push-runs-through-spain/)
 **Published:** Wed, 13 May 2026 09:37:44 +0000
 
@@ -930,11 +930,11 @@ _Last updated: 2026-05-13 12:17 UTC_
 
 ---
 
-## [Automotive and AI Lift Infineon Q2, Point to FY2026 Revenue Above $18B](https://www.eetimes.com/automotive-and-ai-lift-infineon-q2-point-to-fy2026-revenue-above-18b/)
-**Published:** Thu, 07 May 2026 14:33:04 +0000
+## [TSMC’s ecosystem grows as Taiwan promotes investment links to Trump’s America](https://www.electronicsweekly.com/news/research-news/process-rd/tsmcs-ecosystem-grows-as-taiwan-promotes-investment-links-to-trumps-america-2026-05/)
+**Published:** Wed, 13 May 2026 12:21:33 +0000
 
-<p> Infineon Q2 earnings rise 4% as the chipmaker reorganizes to target SDVs and power systems.</p>
-<p>The post <a href="https://www.eetimes.com/automotive-and-ai-lift-infineon-q2-point-to-fy2026-revenue-above-18b/">Automotive and AI Lift Infineon Q2, Point to FY2026 Revenue Above $18B</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Taiwan is set to bring its US semiconductor investments to more than $200bn (£147bn), to build out the chip manufacturing ecosystem led by TSMC’s growing operation in Arizona, reports Paul ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/research-news/process-rd/tsmcs-ecosystem-grows-as-taiwan-promotes-investment-links-to-trumps-america-2026-05/">TSMC’s ecosystem grows as Taiwan promotes investment links to Trump’s America</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -962,25 +962,31 @@ _Last updated: 2026-05-13 12:17 UTC_
 
 ---
 
-## [Price rises spread to analogue, discretes and passives](https://www.electronicsweekly.com/news/business/price-rises-increase-across-multiple-sectors-2026-05/)
-**Published:** Tue, 12 May 2026 05:28:53 +0000
+## [Electronics and Embedded Engineering Internship At Vector Robotics In Pune](https://www.electronicsforu.com/career/electronics-and-embedded-engineering-internship-at-vector-robotics-in-pune)
+**Published:** Wed, 13 May 2026 07:00:59 +0000
 
-<p>More companies will be raising semiconductor prices rises, reports TrendForce, quoting multiple sources. According to eTime, TI will raise prices on July 1st and according to Sina increases could range ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/price-rises-increase-across-multiple-sectors-2026-05/">Price rises spread to analogue, discretes and passives</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [From Sensor to Insight: Using NI DAQ for Intelligent electromechanical test and control applications](https://www.electronicsforu.com/videos-slideshows/from-sensor-to-insight-using-ni-daq-for-intelligent-electromechanical-test-and-control-applications)
-**Published:** Tue, 12 May 2026 12:12:31 +0000
-
-This webinar is an introductory session to build intelligent test systems, from capturing measurements from physical world, to building scalable intelligent electromechanical test systems with integrated control.
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Pune Company: Vector Robotics Key Responsibilities You will be the architect of the robot’s nervous system and powerhouse. Your goal is to design the robust electrical backbone and low-level intelligence that allows our humanoids and industrial robots to perform complex tasks with reliability, safety, and high-performance efficiency. Requirements Valued Additions
 
 ---
 
-## [India Shifts Semiconductor Focus To Advanced Packaging](https://www.electronicsforu.com/technology-trends/india-shifts-semiconductor-focus-to-advanced-packaging)
-**Published:** Tue, 12 May 2026 11:34:20 +0000
+## [New ASIC Chip Embeds AI Models Directly Into Hardware](https://www.electronicsforu.com/news/new-asic-chip-embeds-ai-models-directly-into-hardware)
+**Published:** Wed, 13 May 2026 06:47:04 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/5af916b5-8460-4e0e-af25-e89d32aecea1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />India’s chip ambitions are moving beyond fabs toward advanced packaging, glass substrates, and chiplets technologies that could power India’s next wave of AI, EV, telecom, and data centre hardware. India’s semiconductor ambitions are increasingly shifting beyond fabs toward advanced packaging, glass substrates, wafer-level packaging, and indigenous chip ecosystems. In an exclusive conversation, Sharat Kaul of [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/Screenshot-2026-05-13-103043-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New inference hardware claims up to 10x faster AI response times with drastically lower power and cost by embedding models directly into custom silicon rather than relying on GPUs. A new AI accelerator architecture by Taalas is challenging the conventional GPU-driven approach to artificial intelligence inference by converting entire AI models into dedicated silicon. The [&#8230;]
+
+---
+
+## [JOB: Power Electronics Engineer At Quest Global In Bengaluru](https://www.electronicsforu.com/career/power-electronics-engineer-quest-global-bengaluru)
+**Published:** Wed, 13 May 2026 06:32:21 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/06/quest-global-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Quest Global Roles and Responsibilities Required Skills (Technical Competency) Desired Skills We are known for our extraordinary people who make the impossible possible every day. Questians are driven by hunger, humility, and aspiration. We believe that our company culture is the key to our ability to make a true difference [&#8230;]
+
+---
+
+## [JOB: Electronics Engineer At XSubRobotics In Chennai](https://www.electronicsforu.com/career/electronics-engineer-xsubrobotics-chennai)
+**Published:** Wed, 13 May 2026 06:09:06 +0000
+
+<img alt="Internship" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/lam-job-search-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Chennai Company: XSubRobotics The Embedded Electronics Engineer is a full-time, on-site role based in Chennai. The role involves supporting the design and development of embedded electronics, power electronics, and communication systems for ROV and AUV platforms. Responsibilities include circuit design and simulation, firmware development for AVR/ARM microcontrollers, hardware bring-up, validation, [&#8230;]
 
 ---
 
