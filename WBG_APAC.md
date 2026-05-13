@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-13 18:14 UTC_
+_Last updated: 2026-05-13 22:25 UTC_
 
 ## [SEMI: Global Semiconductor Materials Market Revenue Hits Record $73.2B in 2025](https://www.eetasia.com/semi-global-semiconductor-materials-market-revenue-hits-record-73-2b-in-2025/)
 **Published:** Tue, 12 May 2026 23:40:46 +0000
@@ -31,6 +31,54 @@ _Last updated: 2026-05-13 18:14 UTC_
 
 <p>MIDA is strengthening semiconductor supply chain resilience through the JS-SEZ collaboration with Micron and OCBC in Malaysia.</p>
 <p>The post <a href="https://www.eetasia.com/mida-expands-malaysias-semiconductor-supply-chain-role-through-johor-singapore-sez-partnership/">MIDA Expands Malaysia&#8217;s Semiconductor Supply Chain Role Through Johor–Singapore SEZ Partnership</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [FotoNation and SEMIFIVE Announce Strategic Collaboration for Turnkey Development of TriSilica Perceptual AI Chip Family Using Samsung Foundry](https://www.semiconductor-digest.com/fotonation-and-semifive-announce-strategic-collaboration-for-turnkey-development-of-trisilica-perceptual-ai-chip-family-using-samsung-foundry/?utm_source=rss&utm_medium=rss&utm_campaign=fotonation-and-semifive-announce-strategic-collaboration-for-turnkey-development-of-trisilica-perceptual-ai-chip-family-using-samsung-foundry)
+**Published:** Wed, 13 May 2026 19:27:28 +0000
+
+<p>FotoNation Ltd., a European-based Perception Recognition company and SEMIFIVE Inc., a global provider of custom AI semiconductor solutions, today announced a strategic collaboration agreement under which SEMIFIVE will lead turnkey development for TriSilica, FotoNation's ultra-low-power perceptual AI chip family.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/fotonation-and-semifive-announce-strategic-collaboration-for-turnkey-development-of-trisilica-perceptual-ai-chip-family-using-samsung-foundry/">FotoNation and SEMIFIVE Announce Strategic Collaboration for Turnkey Development of TriSilica Perceptual AI Chip Family Using Samsung Foundry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [University of Arizona Research Powers New Optical Switching Technology Designed to Reduce Data Center Energy Consumption](https://www.semiconductor-digest.com/university-of-arizona-research-powers-new-optical-switching-technology-designed-to-reduce-data-center-energy-consumption/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-arizona-research-powers-new-optical-switching-technology-designed-to-reduce-data-center-energy-consumption)
+**Published:** Wed, 13 May 2026 19:17:26 +0000
+
+<p>Post-Quantum Tek has developed the High-Speed Optical Switch (PQT-HOS), which is 1,000 times faster than switches now in use and consumes 1/1000th the amount of energy.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/university-of-arizona-research-powers-new-optical-switching-technology-designed-to-reduce-data-center-energy-consumption/">University of Arizona Research Powers New Optical Switching Technology Designed to Reduce Data Center Energy Consumption</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Oracle Java to Power Samsung Electronics’ Global Semiconductor Development](https://www.semiconductor-digest.com/oracle-java-to-power-samsung-electronics-global-semiconductor-development/?utm_source=rss&utm_medium=rss&utm_campaign=oracle-java-to-power-samsung-electronics-global-semiconductor-development)
+**Published:** Wed, 13 May 2026 19:14:59 +0000
+
+<p>Oracle today announced that the Oracle Java SE Universal Subscription will help standardize global software development at Samsung Electronics.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/oracle-java-to-power-samsung-electronics-global-semiconductor-development/">Oracle Java to Power Samsung Electronics&#8217; Global Semiconductor Development</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [T-Global Technology Partners with France’s SiPearl to Advance Next-Generation HPC Cooling Technologies](https://www.semiconductor-digest.com/t-global-technology-partners-with-frances-sipearl-to-advance-next-generation-hpc-cooling-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=t-global-technology-partners-with-frances-sipearl-to-advance-next-generation-hpc-cooling-technologies)
+**Published:** Wed, 13 May 2026 18:43:08 +0000
+
+<p>T-Global Technology today announced that its flagship project, "Development of High Thermal Conductivity Materials and Two-Phase Liquid Cooling Modules for HPC Chips," has been officially approved under Taiwan's Ministry of Economic Affairs' "A+ Driving Industrial Innovation with AI" Program.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/t-global-technology-partners-with-frances-sipearl-to-advance-next-generation-hpc-cooling-technologies/">T-Global Technology Partners with France&#8217;s SiPearl to Advance Next-Generation HPC Cooling Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NHanced Semiconductors & the University of Florida to Present on Hybrid Bonding Reliability at the 2026 Electronic Components & Technology Conference in Orlando](https://www.semiconductor-digest.com/nhanced-semiconductors-the-university-of-florida-to-present-on-hybrid-bonding-reliability-at-the-2026-electronic-components-technology-conference-in-orlando/?utm_source=rss&utm_medium=rss&utm_campaign=nhanced-semiconductors-the-university-of-florida-to-present-on-hybrid-bonding-reliability-at-the-2026-electronic-components-technology-conference-in-orlando)
+**Published:** Wed, 13 May 2026 18:18:58 +0000
+
+<p>The paper will present a predictive model to address hybrid bonding challenges (bonding via gaps, misalignment, and interfacial delamination) by integrating pre-bond inspection and post-bond analysis to enable warpage mapping, defect correlation, and yield prediction for advanced 3D integration.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nhanced-semiconductors-the-university-of-florida-to-present-on-hybrid-bonding-reliability-at-the-2026-electronic-components-technology-conference-in-orlando/">NHanced Semiconductors &#038; the University of Florida to Present on Hybrid Bonding Reliability at the 2026 Electronic Components &#038; Technology Conference in Orlando</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Accurate Gas Control Systems Introduces CryoSure Platform to Solve Diborane Instability Challenges Threatening Next-Generation Semiconductor Yields](https://www.semiconductor-digest.com/accurate-gas-control-systems-introduces-cryosure-platform-to-solve-diborane-instability-challenges-threatening-next-generation-semiconductor-yields/?utm_source=rss&utm_medium=rss&utm_campaign=accurate-gas-control-systems-introduces-cryosure-platform-to-solve-diborane-instability-challenges-threatening-next-generation-semiconductor-yields)
+**Published:** Wed, 13 May 2026 18:14:45 +0000
+
+<p>Accurate Gas Control Systems (AGCS), a provider of specialty gas delivery solutions for the semiconductor industry, today announced the broad availability of its CryoSure Precision Chilled Delivery Platform, purpose-built to address the growing yield and safety risks posed by uncontrolled diborane (B₂H₆) temperatures in advanced logic and memory fabs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/accurate-gas-control-systems-introduces-cryosure-platform-to-solve-diborane-instability-challenges-threatening-next-generation-semiconductor-yields/">Accurate Gas Control Systems Introduces CryoSure Platform to Solve Diborane Instability Challenges Threatening Next-Generation Semiconductor Yields</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -786,51 +834,11 @@ _Last updated: 2026-05-13 18:14 UTC_
 
 ---
 
-## [Molex Announces Agreement to Acquire Teramount Ltd.](https://www.semiconductor-digest.com/molex-announces-agreement-to-acquire-teramount-ltd/?utm_source=rss&utm_medium=rss&utm_campaign=molex-announces-agreement-to-acquire-teramount-ltd)
-**Published:** Wed, 15 Apr 2026 19:58:59 +0000
+## [Cyient Launches India’s First GaN Power ICs](https://www.powerelectronicsnews.com/cyient-launches-indias-first-gan-power-ics/)
+**Published:** Wed, 13 May 2026 22:00:27 +0000
 
-<p>Molex today announced an agreement to acquire Teramount Ltd., an Israel-based developer of detachable fiber-to-chip connectivity solutions optimized for high-volume Co-Packaged Optics (CPO) and other silicon photonics applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/molex-announces-agreement-to-acquire-teramount-ltd/">Molex Announces Agreement to Acquire Teramount Ltd.</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [EdgeCortix Announces New Investment from Axiro Semiconductor and MPower Partners](https://www.semiconductor-digest.com/edgecortix-announces-new-investment-from-axiro-semiconductor-and-mpower-partners/?utm_source=rss&utm_medium=rss&utm_campaign=edgecortix-announces-new-investment-from-axiro-semiconductor-and-mpower-partners)
-**Published:** Wed, 15 Apr 2026 19:23:53 +0000
-
-<p>EdgeCortix, a fabless semiconductor company specializing in energy-efficient AI processing at the edge, today announced a new investment from Axiro Semiconductor Pvt. Ltd. and MPower Partners.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/edgecortix-announces-new-investment-from-axiro-semiconductor-and-mpower-partners/">EdgeCortix Announces New Investment from Axiro Semiconductor and MPower Partners</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Sivers Semiconductors Collaborates With Jabil](https://www.semiconductor-digest.com/sivers-semiconductors-collaborates-with-jabil/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-collaborates-with-jabil)
-**Published:** Wed, 15 Apr 2026 19:20:14 +0000
-
-<p>Sivers Semiconductors AB today announced a collaboration with Jabil, a global engineering, supply chain, and manufacturing solutions provider.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sivers-semiconductors-collaborates-with-jabil/">Sivers Semiconductors Collaborates With Jabil</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Terry Berke Honored with Si2 Outstanding Contributions Award](https://www.semiconductor-digest.com/terry-berke-honored-with-si2-outstanding-contributions-award/?utm_source=rss&utm_medium=rss&utm_campaign=terry-berke-honored-with-si2-outstanding-contributions-award)
-**Published:** Wed, 15 Apr 2026 19:12:06 +0000
-
-<p>The Silicon Integration Initiative (Si2) has honored Terry Berke with an Si2 Outstanding Contributions Award, acknowledging over 25 years of dedication and success in semiconductor marketing and communications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/terry-berke-honored-with-si2-outstanding-contributions-award/">Terry Berke Honored with Si2 Outstanding Contributions Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Industry-Wide Memory Constraints Grow as AI-Driven Supply Shift Reshapes Market](https://www.semiconductor-digest.com/industry-wide-memory-constraints-grow-as-ai-driven-supply-shift-reshapes-market/?utm_source=rss&utm_medium=rss&utm_campaign=industry-wide-memory-constraints-grow-as-ai-driven-supply-shift-reshapes-market)
-**Published:** Tue, 14 Apr 2026 20:44:34 +0000
-
-<p>Artificial Intelligence is consuming a growing share of the world’s memory supply, leaving electronics manufacturers across industries facing longer lead times, rising prices, and increasing uncertainty, according to a new report released today from the Global Electronics Association.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/industry-wide-memory-constraints-grow-as-ai-driven-supply-shift-reshapes-market/">Industry-Wide Memory Constraints Grow as AI-Driven Supply Shift Reshapes Market</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AlixLabs Closes 15 M EUR Series A](https://www.semiconductor-digest.com/alixlabs-closes-15-m-eur-series-a/?utm_source=rss&utm_medium=rss&utm_campaign=alixlabs-closes-15-m-eur-series-a)
-**Published:** Tue, 14 Apr 2026 20:37:28 +0000
-
-<p>AlixLabs today announced that it closed its Series A in the first quarter of 2026 following a strategic investment from Stephen Industries.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/alixlabs-closes-15-m-eur-series-a/">AlixLabs Closes 15 M EUR Series A</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="639" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/03/SemiconductorWafer.jpg?fit=1000%2C639" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The 650V GaN power ICs target AI, telecom, fast charging, and e-mobility applications with improved efficiency.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/cyient-launches-indias-first-gan-power-ics/">Cyient Launches India’s First GaN Power ICs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -903,14 +911,6 @@ _Last updated: 2026-05-13 18:14 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3383" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_1141746633.jpeg?fit=5080%2C3383" style="display: block; margin-bottom: 5px; clear: both;" width="5080" /><p>Vertical power delivery modules replace lateral PDNs, efficiently powering high-current AI processors from directly beneath the package.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/discrete-vertical-power-delivery-solutions-for-high-current-ai-loads/">Discrete Vertical Power Delivery Solutions for High-Current AI Loads</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Kensington Boosts Charging Efficiency with New GaN Products](https://www.powerelectronicsnews.com/kensington-boosts-charging-efficiency-with-new-gan-products/)
-**Published:** Thu, 07 May 2026 15:00:00 +0000
-
-<img alt="Kensington Boosts Charging Efficiency with New GaN Products." class="webfeedsFeaturedVisual wp-post-image" height="627" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/ke-38100-38102-a3-ww-1200x627_1777542152.png?fit=1200%2C627" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new GaN chargers and cable enable fast, efficient multi-device charging with compact, travel-friendly designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/kensington-boosts-charging-efficiency-with-new-gan-products/">Kensington Boosts Charging Efficiency with New GaN Products</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
