@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-14 10:28 UTC_
+_Last updated: 2026-05-14 15:33 UTC_
 
 ## [yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data](https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/)
 **Published:** Wed, 13 May 2026 22:37:54 +0000
@@ -23,14 +23,6 @@ _Last updated: 2026-05-14 10:28 UTC_
 
 <p>The global semiconductor materials market growth was supported by gains in both the wafer fab materials and packaging materials segments.</p>
 <p>The post <a href="https://www.eetasia.com/semi-global-semiconductor-materials-market-revenue-hits-record-73-2b-in-2025/">SEMI: Global Semiconductor Materials Market Revenue Hits Record $73.2B in 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [ams OSRAM to Sell CMOS Image Sensor Product Line to indie Semiconductor](https://www.eetasia.com/ams-osram-to-sell-cmos-image-sensor-product-line-to-indie-semiconductor/)
-**Published:** Mon, 11 May 2026 23:09:35 +0000
-
-<p>indie Semiconductor has signed a definitive agreement to acquire the fabless CMOS image sensor group from ams OSRAM for €40 million.</p>
-<p>The post <a href="https://www.eetasia.com/ams-osram-to-sell-cmos-image-sensor-product-line-to-indie-semiconductor/">ams OSRAM to Sell CMOS Image Sensor Product Line to indie Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -834,6 +826,30 @@ _Last updated: 2026-05-14 10:28 UTC_
 
 ---
 
+## [Vishay Unveils Automotive-Grade 3000 W TVS Protection Devices](https://www.powerelectronicsnews.com/vishay-unveils-automotive-grade-3000-w-tvs-protection-devices/)
+**Published:** Thu, 14 May 2026 15:00:00 +0000
+
+<img alt="Vishay Unveils Automotive-Grade 3000 W TVS Protection Devices." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/55242203151_4d2287ff0e_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new TVS diodes combine 3000 W protection, compact packaging, and wettable flanks for automotive and industrial use.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-unveils-automotive-grade-3000-w-tvs-protection-devices/">Vishay Unveils Automotive-Grade 3000 W TVS Protection Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Corner: iDEAL’s SuperQ Tapping Si’s Potential Beyond Superjunction](https://www.powerelectronicsnews.com/power-corner-ideals-superq-tapping-sis-potential-beyond-superjunction/)
+**Published:** Thu, 14 May 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/iDEAL-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>iDEAL Semiconductor's SuperQ replaces P-N pillars with high-K dielectric trenches to redefine silicon MOSFET cost-performance.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-ideals-superq-tapping-sis-potential-beyond-superjunction/">Power Corner: iDEAL’s SuperQ Tapping Si&#8217;s Potential Beyond Superjunction</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Rethinking Superjunction’s Charge-Compensation Architecture with SuperQ](https://www.powerelectronicsnews.com/rethinking-superjunctions-charge-compensation-architecture-with-superq/)
+**Published:** Thu, 14 May 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4016" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_148551057.jpeg?fit=6016%2C4016" style="display: block; margin-bottom: 5px; clear: both;" width="6016" /><p>SuperQ uses a nanometer-thin high-K dielectric film to rethink charge compensation in silicon power MOSFETs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/rethinking-superjunctions-charge-compensation-architecture-with-superq/">Rethinking Superjunction&#8217;s Charge-Compensation Architecture with SuperQ </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Cyient Launches India’s First GaN Power ICs](https://www.powerelectronicsnews.com/cyient-launches-indias-first-gan-power-ics/)
 **Published:** Wed, 13 May 2026 22:00:27 +0000
 
@@ -890,30 +906,6 @@ _Last updated: 2026-05-14 10:28 UTC_
 
 ---
 
-## [Samtec Expands Compact Power Interconnect Portfolio](https://www.powerelectronicsnews.com/samtec-expands-compact-power-interconnect-portfolio/)
-**Published:** Fri, 08 May 2026 15:00:00 +0000
-
-<img alt="Samtec Expands Compact Power Interconnect Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="360" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Samtec_mPOWER.jpg?fit=640%2C360" style="display: block; margin-bottom: 5px; clear: both;" width="640" /><p>The new ultra micro connectors improve durability and power density for industrial, aerospace, and military designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/samtec-expands-compact-power-interconnect-portfolio/">Samtec Expands Compact Power Interconnect Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [PCIM Expo & Conference, SSTs and DABs, SiC SJ MOSFETs: Power Electronics Week Insights](https://www.powerelectronicsnews.com/pcim-expo-conference-ssts-and-dabs-sic-sj-mosfets-power-electronics-week-insights/)
-**Published:** Fri, 08 May 2026 13:33:08 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on PCIM Expo &#38; Conference, SSTs and DABs, and SiC SJ MOSFETs!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/pcim-expo-conference-ssts-and-dabs-sic-sj-mosfets-power-electronics-week-insights/">PCIM Expo &amp; Conference, SSTs and DABs, SiC SJ MOSFETs: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Discrete Vertical Power Delivery Solutions for High-Current AI Loads](https://www.powerelectronicsnews.com/discrete-vertical-power-delivery-solutions-for-high-current-ai-loads/)
-**Published:** Fri, 08 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3383" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_1141746633.jpeg?fit=5080%2C3383" style="display: block; margin-bottom: 5px; clear: both;" width="5080" /><p>Vertical power delivery modules replace lateral PDNs, efficiently powering high-current AI processors from directly beneath the package.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/discrete-vertical-power-delivery-solutions-for-high-current-ai-loads/">Discrete Vertical Power Delivery Solutions for High-Current AI Loads</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Europe’s Photonics Push Runs Through Spain](https://www.eetimes.com/europe-photonics-push-runs-through-spain/)
 **Published:** Wed, 13 May 2026 09:37:44 +0000
 
@@ -922,11 +914,11 @@ _Last updated: 2026-05-14 10:28 UTC_
 
 ---
 
-## [Wooptix Targets AI Packaging Bottleneck with Astronomy Tech](https://www.eetimes.com/wooptix-targets-ai-packaging-bottleneck-with-astronomy-tech/)
-**Published:** Mon, 11 May 2026 08:57:35 +0000
+## [Cerebras IPOs at $185; opens at $219](https://www.electronicsweekly.com/news/business/cerebras-ipos-at-185-opens-at-219-2026-05/)
+**Published:** Thu, 14 May 2026 13:30:32 +0000
 
-<p>A Canary Islands startup brings wavefront imaging to semiconductor metrology, aiming to tackle wafer shape challenges in 3D integration.</p>
-<p>The post <a href="https://www.eetimes.com/wooptix-targets-ai-packaging-bottleneck-with-astronomy-tech/">Wooptix Targets AI Packaging Bottleneck with Astronomy Tech</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Cerebras, the waferscale specialist, eventually IPO’d at $185 &#8211; after increasing the price several times in the wake of considerable interest. Trading began at 2pm UK time today. The IPO ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/cerebras-ipos-at-185-opens-at-219-2026-05/">Cerebras IPOs at $185; opens at $219</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -938,31 +930,10 @@ _Last updated: 2026-05-14 10:28 UTC_
 
 ---
 
-## [Electronics and Embedded Engineering Internship At Vector Robotics In Pune](https://www.electronicsforu.com/career/electronics-and-embedded-engineering-internship-at-vector-robotics-in-pune)
-**Published:** Wed, 13 May 2026 07:00:59 +0000
+## [JOB: ASIC Engineer At Cisco In Bengaluru](https://www.electronicsforu.com/career/asic-engineer-cisco-bengaluru)
+**Published:** Thu, 14 May 2026 10:49:25 +0000
 
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Pune Company: Vector Robotics Key Responsibilities You will be the architect of the robot’s nervous system and powerhouse. Your goal is to design the robust electrical backbone and low-level intelligence that allows our humanoids and industrial robots to perform complex tasks with reliability, safety, and high-performance efficiency. Requirements Valued Additions
-
----
-
-## [New ASIC Chip Embeds AI Models Directly Into Hardware](https://www.electronicsforu.com/news/new-asic-chip-embeds-ai-models-directly-into-hardware)
-**Published:** Wed, 13 May 2026 06:47:04 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/Screenshot-2026-05-13-103043-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New inference hardware claims up to 10x faster AI response times with drastically lower power and cost by embedding models directly into custom silicon rather than relying on GPUs. A new AI accelerator architecture by Taalas is challenging the conventional GPU-driven approach to artificial intelligence inference by converting entire AI models into dedicated silicon. The [&#8230;]
-
----
-
-## [JOB: Power Electronics Engineer At Quest Global In Bengaluru](https://www.electronicsforu.com/career/power-electronics-engineer-quest-global-bengaluru)
-**Published:** Wed, 13 May 2026 06:32:21 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/06/quest-global-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Quest Global Roles and Responsibilities Required Skills (Technical Competency) Desired Skills We are known for our extraordinary people who make the impossible possible every day. Questians are driven by hunger, humility, and aspiration. We believe that our company culture is the key to our ability to make a true difference [&#8230;]
-
----
-
-## [JOB: Electronics Engineer At XSubRobotics In Chennai](https://www.electronicsforu.com/career/electronics-engineer-xsubrobotics-chennai)
-**Published:** Wed, 13 May 2026 06:09:06 +0000
-
-<img alt="Internship" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/lam-job-search-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Chennai Company: XSubRobotics The Embedded Electronics Engineer is a full-time, on-site role based in Chennai. The role involves supporting the design and development of embedded electronics, power electronics, and communication systems for ROV and AUV platforms. Responsibilities include circuit design and simulation, firmware development for AVR/ARM microcontrollers, hardware bring-up, validation, [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/cisco-hero-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Cisco Your Impact Minimum Qualifications Preferred Qualifications
 
 ---
 
