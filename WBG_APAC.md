@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-13 22:25 UTC_
+_Last updated: 2026-05-14 04:21 UTC_
+
+## [yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data](https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/)
+**Published:** Wed, 13 May 2026 22:37:54 +0000
+
+<p>yieldWerx and WATS are partnering to bridge the gap in the PCB test and semiconductor manufacturing workflows.</p>
+<p>The post <a href="https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/">yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Rigaku Working with imec to Accelerate Next-gen Semiconductor Metrology Development](https://www.eetasia.com/rigaku-working-with-imec-to-accelerate-next-gen-semiconductor-metrology-development/)
+**Published:** Wed, 13 May 2026 22:26:17 +0000
+
+<p>Rigaku is working with imec under a three-year development program to advance its core X-ray technologies.</p>
+<p>The post <a href="https://www.eetasia.com/rigaku-working-with-imec-to-accelerate-next-gen-semiconductor-metrology-development/">Rigaku Working with imec to Accelerate Next-gen Semiconductor Metrology Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [SEMI: Global Semiconductor Materials Market Revenue Hits Record $73.2B in 2025](https://www.eetasia.com/semi-global-semiconductor-materials-market-revenue-hits-record-73-2b-in-2025/)
 **Published:** Tue, 12 May 2026 23:40:46 +0000
@@ -15,22 +31,6 @@ _Last updated: 2026-05-13 22:25 UTC_
 
 <p>indie Semiconductor has signed a definitive agreement to acquire the fabless CMOS image sensor group from ams OSRAM for €40 million.</p>
 <p>The post <a href="https://www.eetasia.com/ams-osram-to-sell-cmos-image-sensor-product-line-to-indie-semiconductor/">ams OSRAM to Sell CMOS Image Sensor Product Line to indie Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [5 Steps to Align Your Physical Fab Infrastructure with AI Yield Models](https://www.eetasia.com/5-steps-to-align-your-physical-fab-infrastructure-with-ai-yield-models/)
-**Published:** Mon, 11 May 2026 22:36:50 +0000
-
-<p>Digital twins deliver flawless predictions only when the physical environment behaves predictably, and eliminating hidden variables ensures AI accuracy.</p>
-<p>The post <a href="https://www.eetasia.com/5-steps-to-align-your-physical-fab-infrastructure-with-ai-yield-models/">5 Steps to Align Your Physical Fab Infrastructure with AI Yield Models</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [MIDA Expands Malaysia’s Semiconductor Supply Chain Role Through Johor–Singapore SEZ Partnership](https://www.eetasia.com/mida-expands-malaysias-semiconductor-supply-chain-role-through-johor-singapore-sez-partnership/)
-**Published:** Mon, 11 May 2026 22:31:53 +0000
-
-<p>MIDA is strengthening semiconductor supply chain resilience through the JS-SEZ collaboration with Micron and OCBC in Malaysia.</p>
-<p>The post <a href="https://www.eetasia.com/mida-expands-malaysias-semiconductor-supply-chain-role-through-johor-singapore-sez-partnership/">MIDA Expands Malaysia&#8217;s Semiconductor Supply Chain Role Through Johor–Singapore SEZ Partnership</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
