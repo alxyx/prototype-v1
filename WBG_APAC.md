@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-14 04:21 UTC_
+_Last updated: 2026-05-14 10:28 UTC_
 
 ## [yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data](https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/)
 **Published:** Wed, 13 May 2026 22:37:54 +0000
@@ -935,30 +935,6 @@ _Last updated: 2026-05-14 04:21 UTC_
 
 <p>Taiwan is set to bring its US semiconductor investments to more than $200bn (£147bn), to build out the chip manufacturing ecosystem led by TSMC’s growing operation in Arizona, reports Paul ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/research-news/process-rd/tsmcs-ecosystem-grows-as-taiwan-promotes-investment-links-to-trumps-america-2026-05/">TSMC’s ecosystem grows as Taiwan promotes investment links to Trump’s America</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [amsOsram sells sensor business to indie Semiconductor](https://www.electronicsweekly.com/news/business/amsosram-sells-sensor-business-to-indie-semiconductor-2026-05/)
-**Published:** Wed, 13 May 2026 05:18:10 +0000
-
-<p>amsOsram has sold its CMOS Image Sensor business to indie Semiconductor for €40 million in cash, further concentrating its growth investments into AI Photonics and AR smart glasses. “With the ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/amsosram-sells-sensor-business-to-indie-semiconductor-2026-05/">amsOsram sells sensor business to indie Semiconductor</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Siemens democratises EDA](https://www.electronicsweekly.com/news/business/siemens-democratises-eda-2026-05/)
-**Published:** Wed, 13 May 2026 05:11:57 +0000
-
-<p>Siemens has become the first software provider to sign a strategic framework agreement with the European Chips Joint Undertaking (Chips JU) which aims to bolster Europe&#8217;s semiconductor industry by fostering ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/siemens-democratises-eda-2026-05/">Siemens democratises EDA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [King’s Awards for Enterprise 2026](https://www.electronicsweekly.com/news/kings-awards-for-enterprise-2026-2026-05/)
-**Published:** Tue, 12 May 2026 13:58:54 +0000
-
-<p>The King’s Awards for Enterprise 2026 have been announced, and Electronics Weekly studied the list of winners to discover which electronics-related organisations have been honoured this year. They were officially ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/kings-awards-for-enterprise-2026-2026-05/">King’s Awards for Enterprise 2026</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
