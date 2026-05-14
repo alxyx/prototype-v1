@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-14 15:33 UTC_
+_Last updated: 2026-05-14 21:22 UTC_
 
 ## [yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data](https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/)
 **Published:** Wed, 13 May 2026 22:37:54 +0000
@@ -906,6 +906,14 @@ _Last updated: 2026-05-14 15:33 UTC_
 
 ---
 
+## [Automakers Face Memory Shock as AI Uses Up Semiconductor Supply](https://www.eetimes.com/automakers-face-memory-shock-as-ai-uses-up-semiconductor-supply/)
+**Published:** Thu, 14 May 2026 20:00:00 +0000
+
+<p>Automakers face a severe memory shortage as AI infrastructure dominates semiconductor supply. </p>
+<p>The post <a href="https://www.eetimes.com/automakers-face-memory-shock-as-ai-uses-up-semiconductor-supply/">Automakers Face Memory Shock as AI Uses Up Semiconductor Supply</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Europe’s Photonics Push Runs Through Spain](https://www.eetimes.com/europe-photonics-push-runs-through-spain/)
 **Published:** Wed, 13 May 2026 09:37:44 +0000
 
@@ -914,11 +922,11 @@ _Last updated: 2026-05-14 15:33 UTC_
 
 ---
 
-## [Cerebras IPOs at $185; opens at $219](https://www.electronicsweekly.com/news/business/cerebras-ipos-at-185-opens-at-219-2026-05/)
+## [Cerebras IPOs at $185; hits $385](https://www.electronicsweekly.com/news/business/cerebras-ipos-at-185-opens-at-219-2026-05/)
 **Published:** Thu, 14 May 2026 13:30:32 +0000
 
-<p>Cerebras, the waferscale specialist, eventually IPO’d at $185 &#8211; after increasing the price several times in the wake of considerable interest. Trading began at 2pm UK time today. The IPO ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/cerebras-ipos-at-185-opens-at-219-2026-05/">Cerebras IPOs at $185; opens at $219</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Cerebras, the waferscale specialist, eventually IPO’d at $185 &#8211; after increasing the price several times in the wake of considerable interest. Trading began at 2pm UK time today and by ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/cerebras-ipos-at-185-opens-at-219-2026-05/">Cerebras IPOs at $185; hits $385</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
