@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-14 21:22 UTC_
+_Last updated: 2026-05-15 00:12 UTC_
 
 ## [yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data](https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/)
 **Published:** Wed, 13 May 2026 22:37:54 +0000
@@ -23,6 +23,54 @@ _Last updated: 2026-05-14 21:22 UTC_
 
 <p>The global semiconductor materials market growth was supported by gains in both the wafer fab materials and packaging materials segments.</p>
 <p>The post <a href="https://www.eetasia.com/semi-global-semiconductor-materials-market-revenue-hits-record-73-2b-in-2025/">SEMI: Global Semiconductor Materials Market Revenue Hits Record $73.2B in 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Meet the Semiconductor That Stretches Like a Rubber Band And Heals Itself — No Sci-Fi Required](https://www.semiconductor-digest.com/meet-the-semiconductor-that-stretches-like-a-rubber-band-and-heals-itself-no-sci-fi-required/?utm_source=rss&utm_medium=rss&utm_campaign=meet-the-semiconductor-that-stretches-like-a-rubber-band-and-heals-itself-no-sci-fi-required)
+**Published:** Thu, 14 May 2026 21:59:41 +0000
+
+<p>A stretchable, self-healing semiconductor has been developed using hierarchical hydrogen bonds—like mixing Velcro with a zipper.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/meet-the-semiconductor-that-stretches-like-a-rubber-band-and-heals-itself-no-sci-fi-required/">Meet the Semiconductor That Stretches Like a Rubber Band And Heals Itself — No Sci-Fi Required</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Toshiba Starts Sample Shipments of New SmartMCD Series IC with Built-in MOSFETs for Motor Drive](https://www.semiconductor-digest.com/toshiba-starts-sample-shipments-of-new-smartmcd-series-ic-with-built-in-mosfets-for-motor-drive/?utm_source=rss&utm_medium=rss&utm_campaign=toshiba-starts-sample-shipments-of-new-smartmcd-series-ic-with-built-in-mosfets-for-motor-drive)
+**Published:** Thu, 14 May 2026 21:50:06 +0000
+
+<p>Toshiba Electronic Devices &#038; Storage Corporation has started to ship engineering samples of "TB9M040FTG," a motor control device with built-in power MOSFETs for three-phase brushless DC motor drives.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/toshiba-starts-sample-shipments-of-new-smartmcd-series-ic-with-built-in-mosfets-for-motor-drive/">Toshiba Starts Sample Shipments of New SmartMCD Series IC with Built-in MOSFETs for Motor Drive</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [UMC Announces Release of 14nm eHV FinFET Platform](https://www.semiconductor-digest.com/umc-announces-release-of-14nm-ehv-finfet-platform/?utm_source=rss&utm_medium=rss&utm_campaign=umc-announces-release-of-14nm-ehv-finfet-platform)
+**Published:** Thu, 14 May 2026 21:38:51 +0000
+
+<p>The 14nm eHV FinFET platform achieves up to 40% reduction in power consumption and 35% reduction in chip area, enabling longer battery life and thinner driver modules for premium smartphone models.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/umc-announces-release-of-14nm-ehv-finfet-platform/">UMC Announces Release of 14nm eHV FinFET Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NSF Announces $1.5B NSF X-Labs Initiative to Pursue Generational Breakthrough Science Efforts](https://www.semiconductor-digest.com/nsf-announces-1-5b-nsf-x-labs-initiative-to-pursue-generational-breakthrough-science-efforts/?utm_source=rss&utm_medium=rss&utm_campaign=nsf-announces-1-5b-nsf-x-labs-initiative-to-pursue-generational-breakthrough-science-efforts)
+**Published:** Thu, 14 May 2026 21:34:13 +0000
+
+<p>NSF X-Labs will scale a new generation of transformative independent research organizations to advance breakthrough science outside of traditional institutions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nsf-announces-1-5b-nsf-x-labs-initiative-to-pursue-generational-breakthrough-science-efforts/">NSF Announces $1.5B NSF X-Labs Initiative to Pursue Generational Breakthrough Science Efforts</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI and 23 Member Companies Urge U.S. Congress to Extend Advanced Manufacturing Investment Credit](https://www.semiconductor-digest.com/semi-and-23-member-companies-urge-u-s-congress-to-extend-advanced-manufacturing-investment-credit/?utm_source=rss&utm_medium=rss&utm_campaign=semi-and-23-member-companies-urge-u-s-congress-to-extend-advanced-manufacturing-investment-credit)
+**Published:** Thu, 14 May 2026 21:31:27 +0000
+
+<p>SEMI and 23 member companies on the SEMI Tax Policy Committee, issued a letter to the U.S. Congress urging immediate passage of a multi-year extension of the Advanced Manufacturing Investment Credit (AMIC).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-and-23-member-companies-urge-u-s-congress-to-extend-advanced-manufacturing-investment-credit/">SEMI and 23 Member Companies Urge U.S. Congress to Extend Advanced Manufacturing Investment Credit</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [BrainChip Expands AI Ecosystem with Strategic Software Partners](https://www.semiconductor-digest.com/brainchip-expands-ai-ecosystem-with-strategic-software-partners/?utm_source=rss&utm_medium=rss&utm_campaign=brainchip-expands-ai-ecosystem-with-strategic-software-partners)
+**Published:** Thu, 14 May 2026 21:13:47 +0000
+
+<p>BrainChip Inc., a provider of ultra-low power, high-performance, neuromorphic AI IP, today announced a significant expansion of its software partner ecosystem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/brainchip-expands-ai-ecosystem-with-strategic-software-partners/">BrainChip Expands AI Ecosystem with Strategic Software Partners</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -775,54 +823,6 @@ _Last updated: 2026-05-14 21:22 UTC_
 
 <p>Acquisition expands Teradyne’s leadership in design to test software.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/teradyne-acquires-testinsight/">Teradyne Acquires TestInsight</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Ultra-Sensitive Multi-Band Infrared Polarization Photodetector Based on 1T’-MoTe2/2H-MoTe2 van der Waals Heterostructure](https://www.semiconductor-digest.com/ultra-sensitive-multi-band-infrared-polarization-photodetector-based-on-1t-mote2-2h-mote2-van-der-waals-heterostructure/?utm_source=rss&utm_medium=rss&utm_campaign=ultra-sensitive-multi-band-infrared-polarization-photodetector-based-on-1t-mote2-2h-mote2-van-der-waals-heterostructure)
-**Published:** Thu, 16 Apr 2026 18:36:13 +0000
-
-<p>This research presents a high-performance near-infrared polarized photodetector based on a 1T'-MoTe2/2H-MoTe2 homologous polymorphic van der Waals heterojunction. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/ultra-sensitive-multi-band-infrared-polarization-photodetector-based-on-1t-mote2-2h-mote2-van-der-waals-heterostructure/">Ultra-Sensitive Multi-Band Infrared Polarization Photodetector Based on 1T&#8217;-MoTe2/2H-MoTe2 van der Waals Heterostructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Achieving Wafer-Scale Growth of 2D Magnetic Materials](https://www.semiconductor-digest.com/achieving-wafer-scale-growth-of-2d-magnetic-materials/?utm_source=rss&utm_medium=rss&utm_campaign=achieving-wafer-scale-growth-of-2d-magnetic-materials)
-**Published:** Thu, 16 Apr 2026 18:31:41 +0000
-
-<p>In a major advance, researchers at the Indian Institute of Science (IISc) have devised a method to grow high-quality 2D magnetic materials (2D-MMs) over centimetre-scale wafers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/achieving-wafer-scale-growth-of-2d-magnetic-materials/">Achieving Wafer-Scale Growth of 2D Magnetic Materials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Wooptix Breaks Ground on New Semiconductor Cleanroom Facility in Spain](https://www.semiconductor-digest.com/wooptix-breaks-ground-on-new-semiconductor-cleanroom-facility-in-spain/?utm_source=rss&utm_medium=rss&utm_campaign=wooptix-breaks-ground-on-new-semiconductor-cleanroom-facility-in-spain)
-**Published:** Thu, 16 Apr 2026 18:27:28 +0000
-
-<p>Strategic investment marks significant milestone for the company’s growth and reinforces importance of the expanding semiconductor industry in Spain.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/wooptix-breaks-ground-on-new-semiconductor-cleanroom-facility-in-spain/">Wooptix Breaks Ground on New Semiconductor Cleanroom Facility in Spain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [West-MEC Celebrated Opening of Nation’s First K-12 CTE Semiconductor Cleanroom](https://www.semiconductor-digest.com/west-mec-celebrated-opening-of-nations-first-k-12-cte-semiconductor-cleanroom/?utm_source=rss&utm_medium=rss&utm_campaign=west-mec-celebrated-opening-of-nations-first-k-12-cte-semiconductor-cleanroom)
-**Published:** Wed, 15 Apr 2026 20:26:25 +0000
-
-<p>Western Maricopa Education Center (West-MEC) officially celebrated the grand opening of its Advanced Manufacturing Cleanroom on April 13, marking a historic milestone as the nation's first K–12 CTE semiconductor cleanroom of its size.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/west-mec-celebrated-opening-of-nations-first-k-12-cte-semiconductor-cleanroom/">West-MEC Celebrated Opening of Nation&#8217;s First K-12 CTE Semiconductor Cleanroom</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Silicon Box Announces Plans to Join Imec Automotive Chiplet Program](https://www.semiconductor-digest.com/silicon-box-announces-plans-to-join-imec-automotive-chiplet-program/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-box-announces-plans-to-join-imec-automotive-chiplet-program)
-**Published:** Wed, 15 Apr 2026 20:21:09 +0000
-
-<p>Through the collaboration, Silicon Box will work with industry leaders to advance automotive-grade chiplet devices with advanced packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/silicon-box-announces-plans-to-join-imec-automotive-chiplet-program/">Silicon Box Announces Plans to Join Imec Automotive Chiplet Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Cadence and NVIDIA Expand Partnership](https://www.semiconductor-digest.com/cadence-and-nvidia-expand-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-and-nvidia-expand-partnership)
-**Published:** Wed, 15 Apr 2026 20:15:39 +0000
-
-<p>Expanded collaboration combines agentic AI, physics-based simulation, and digital twins to accelerate engineering and unlock new levels of productivity across semiconductors, physical AI systems and AI factories.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cadence-and-nvidia-expand-partnership/">Cadence and NVIDIA Expand Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
