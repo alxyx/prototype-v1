@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-15 10:36 UTC_
+_Last updated: 2026-05-15 13:06 UTC_
 
 ## [yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data](https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/)
 **Published:** Wed, 13 May 2026 22:37:54 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-05-15 10:36 UTC_
 
 ---
 
+## [Inductor Design for AI-Scale Power Density](https://www.powerelectronicsnews.com/inductor-design-for-ai-scale-power-density/)
+**Published:** Fri, 15 May 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="640" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/image_3efb1a.png?fit=640%2C640" style="display: block; margin-bottom: 5px; clear: both;" width="640" /><p>Flat wire inductors overcome the skin and proximity effects limiting round-wire designs in AI power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/inductor-design-for-ai-scale-power-density/">Inductor Design for AI-Scale Power Density</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Vishay Unveils Automotive-Grade 3000 W TVS Protection Devices](https://www.powerelectronicsnews.com/vishay-unveils-automotive-grade-3000-w-tvs-protection-devices/)
 **Published:** Thu, 14 May 2026 15:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2026-05-15 10:36 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3509" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_1288076851.jpeg?fit=6261%2C3509" style="display: block; margin-bottom: 5px; clear: both;" width="6261" /><p>SiC JFETs offer key advantages over MOSFETs in solid-state circuit breaker applications for high-power distribution systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/sic-jfet-advantages-in-power-distribution-protection-circuits-part-1-sccbs/">SiC JFET Advantages in Power Distribution Protection Circuits: Part 1—SCCBs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ITC Confirms Innoscience Infringed Infineon GaN Patent](https://www.powerelectronicsnews.com/itc-confirms-innoscience-infringed-infineon-gan-patent/)
-**Published:** Fri, 08 May 2026 19:59:27 +0000
-
-<img alt="ITC Confirms Innoscience Infringed Infineon GaN Patent." class="webfeedsFeaturedVisual wp-post-image" height="1417" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/infineon-gan300-technology-2.jpg?fit=2126%2C1417" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The decision reinforces Infineon’s GaN IP leadership as legal disputes with Innoscience continue in the U.S. and Germany.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/itc-confirms-innoscience-infringed-infineon-gan-patent/">ITC Confirms Innoscience Infringed Infineon GaN Patent</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
