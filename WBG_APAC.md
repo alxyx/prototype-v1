@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-15 00:12 UTC_
+_Last updated: 2026-05-15 04:26 UTC_
 
 ## [yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data](https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/)
 **Published:** Wed, 13 May 2026 22:37:54 +0000
@@ -15,14 +15,6 @@ _Last updated: 2026-05-15 00:12 UTC_
 
 <p>Rigaku is working with imec under a three-year development program to advance its core X-ray technologies.</p>
 <p>The post <a href="https://www.eetasia.com/rigaku-working-with-imec-to-accelerate-next-gen-semiconductor-metrology-development/">Rigaku Working with imec to Accelerate Next-gen Semiconductor Metrology Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SEMI: Global Semiconductor Materials Market Revenue Hits Record $73.2B in 2025](https://www.eetasia.com/semi-global-semiconductor-materials-market-revenue-hits-record-73-2b-in-2025/)
-**Published:** Tue, 12 May 2026 23:40:46 +0000
-
-<p>The global semiconductor materials market growth was supported by gains in both the wafer fab materials and packaging materials segments.</p>
-<p>The post <a href="https://www.eetasia.com/semi-global-semiconductor-materials-market-revenue-hits-record-73-2b-in-2025/">SEMI: Global Semiconductor Materials Market Revenue Hits Record $73.2B in 2025</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
