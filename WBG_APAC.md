@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-15 13:06 UTC_
+_Last updated: 2026-05-15 21:14 UTC_
 
 ## [yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data](https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/)
 **Published:** Wed, 13 May 2026 22:37:54 +0000
@@ -15,6 +15,54 @@ _Last updated: 2026-05-15 13:06 UTC_
 
 <p>Rigaku is working with imec under a three-year development program to advance its core X-ray technologies.</p>
 <p>The post <a href="https://www.eetasia.com/rigaku-working-with-imec-to-accelerate-next-gen-semiconductor-metrology-development/">Rigaku Working with imec to Accelerate Next-gen Semiconductor Metrology Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Top Business Groups Urge Congress to Extend, Expand Successful Semiconductor Tax Credit](https://www.semiconductor-digest.com/top-business-groups-urge-congress-to-extend-expand-successful-semiconductor-tax-credit/?utm_source=rss&utm_medium=rss&utm_campaign=top-business-groups-urge-congress-to-extend-expand-successful-semiconductor-tax-credit)
+**Published:** Fri, 15 May 2026 19:29:42 +0000
+
+<p>The Advanced Manufacturing Investment Credit, which has helped spark hundreds of billions of dollars in private investment across the U.S. semiconductor ecosystem, expires at the end of 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/top-business-groups-urge-congress-to-extend-expand-successful-semiconductor-tax-credit/">Top Business Groups Urge Congress to Extend, Expand Successful Semiconductor Tax Credit</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [A New Heat Transport Regime Discovered in Ultrathin Semiconductors](https://www.semiconductor-digest.com/a-new-heat-transport-regime-discovered-in-ultrathin-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-heat-transport-regime-discovered-in-ultrathin-semiconductors)
+**Published:** Fri, 15 May 2026 19:25:41 +0000
+
+<p>Controlling heat flow is a major challenge for many technologies. In electronic and photonic devices, for example, heat dissipation can limit the performance and efficiency, as well as their potential for further miniaturisation.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/a-new-heat-transport-regime-discovered-in-ultrathin-semiconductors/">A New Heat Transport Regime Discovered in Ultrathin Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Stretchy Implants Could Stick to Arteries to Treat High Blood Pressure](https://www.semiconductor-digest.com/stretchy-implants-could-stick-to-arteries-to-treat-high-blood-pressure/?utm_source=rss&utm_medium=rss&utm_campaign=stretchy-implants-could-stick-to-arteries-to-treat-high-blood-pressure)
+**Published:** Fri, 15 May 2026 18:47:22 +0000
+
+<p>Even though the team's new bioelectronic is only about the size of a fingertip, it could offer an effective and biocompatible approach to addressing high blood pressure.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/stretchy-implants-could-stick-to-arteries-to-treat-high-blood-pressure/">Stretchy Implants Could Stick to Arteries to Treat High Blood Pressure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Infineon Collaborates with d-Matrix](https://www.semiconductor-digest.com/infineon-collaborates-with-d-matrix/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-collaborates-with-d-matrix)
+**Published:** Fri, 15 May 2026 18:41:37 +0000
+
+<p>Infineon Technologies AG announced a collaboration with d-Matrix, a pioneer in highly interactive, low-latency AI inference compute for data centers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/infineon-collaborates-with-d-matrix/">Infineon Collaborates with d-Matrix</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Micron Redefines AI Performance With Sampling of 256GB DDR5 Server Module](https://www.semiconductor-digest.com/micron-redefines-ai-performance-with-sampling-of-256gb-ddr5-server-module/?utm_source=rss&utm_medium=rss&utm_campaign=micron-redefines-ai-performance-with-sampling-of-256gb-ddr5-server-module)
+**Published:** Fri, 15 May 2026 18:31:54 +0000
+
+<p>Delivers industry’s fastest performance capability with 1-gamma DRAM and advanced packaging.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-redefines-ai-performance-with-sampling-of-256gb-ddr5-server-module/">Micron Redefines AI Performance With Sampling of 256GB DDR5 Server Module</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Nidec Advance Technology Launches the New AURCA-series, an AI-based Inspection & Measurement Solution for Semiconductors and Printed Substrates](https://www.semiconductor-digest.com/nidec-advance-technology-launches-the-new-aurca-series-an-ai-based-inspection-measurement-solution-for-semiconductors-and-printed-substrates/?utm_source=rss&utm_medium=rss&utm_campaign=nidec-advance-technology-launches-the-new-aurca-series-an-ai-based-inspection-measurement-solution-for-semiconductors-and-printed-substrates)
+**Published:** Fri, 15 May 2026 18:24:26 +0000
+
+<p>Nidec Advance Technology Corporation announced today the launch of the AURCA series, an AI-based inspection &#038; measurement solution for semiconductors and printed substrates.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nidec-advance-technology-launches-the-new-aurca-series-an-ai-based-inspection-measurement-solution-for-semiconductors-and-printed-substrates/">Nidec Advance Technology Launches the New AURCA-series, an AI-based Inspection &#038; Measurement Solution for Semiconductors and Printed Substrates</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -770,51 +818,19 @@ _Last updated: 2026-05-15 13:06 UTC_
 
 ---
 
-## [SEMIquest Pop-Up Exhibition at Arizona Science Center Extended Through May 31](https://www.semiconductor-digest.com/semiquest-pop-up-exhibition-at-arizona-science-center-extended-through-may-31/?utm_source=rss&utm_medium=rss&utm_campaign=semiquest-pop-up-exhibition-at-arizona-science-center-extended-through-may-31)
-**Published:** Fri, 17 Apr 2026 22:15:40 +0000
+## [TAIYO YUDEN Introduces Miniaturized Power Inductors](https://www.powerelectronicsnews.com/taiyo-yuden-introduces-miniaturized-power-inductors/)
+**Published:** Fri, 15 May 2026 15:00:00 +0000
 
-<p>The SEMI Foundation today announced the extension of SEMIquest, its immersive, hands-on STEM experience at Arizona Science Center through May 31, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semiquest-pop-up-exhibition-at-arizona-science-center-extended-through-may-31/">SEMIquest Pop-Up Exhibition at Arizona Science Center Extended Through May 31</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [When Light Gets Trapped at Nanoscale: New Ways to Power the Future of Optoelectronics](https://www.semiconductor-digest.com/when-light-gets-trapped-at-nanoscale-new-ways-to-power-the-future-of-optoelectronics/?utm_source=rss&utm_medium=rss&utm_campaign=when-light-gets-trapped-at-nanoscale-new-ways-to-power-the-future-of-optoelectronics)
-**Published:** Fri, 17 Apr 2026 22:03:05 +0000
-
-<p>From bound states in the continuum to machine-learning design, photonic metasurfaces are opening scalable routes to efficient light control.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/when-light-gets-trapped-at-nanoscale-new-ways-to-power-the-future-of-optoelectronics/">When Light Gets Trapped at Nanoscale: New Ways to Power the Future of Optoelectronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="TAIYO YUDEN Introduces Miniaturized Power Inductors." class="webfeedsFeaturedVisual wp-post-image" height="1479" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/TAIYTO_YUDEN_MCOIL_LSCN_series.jpg?fit=1972%2C1479" style="display: block; margin-bottom: 5px; clear: both;" width="1972" /><p>The new compact inductors reduce PCB footprint while maintaining high current handling for wearables and smartphones.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/taiyo-yuden-introduces-miniaturized-power-inductors/">TAIYO YUDEN Introduces Miniaturized Power Inductors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Flexible Sensor Gains Sensitivity Under Pressure](https://www.semiconductor-digest.com/flexible-sensor-gains-sensitivity-under-pressure/?utm_source=rss&utm_medium=rss&utm_campaign=flexible-sensor-gains-sensitivity-under-pressure)
-**Published:** Fri, 17 Apr 2026 22:00:01 +0000
+## [SiC JFETs in Solid-State Circuit Breakers, Humanoid Robotics, SuperQ’s New Architecture: Power Electronics Week Insights](https://www.powerelectronicsnews.com/sic-jfets-in-solid-state-circuit-breakers-humanoid-robotics-superqs-new-architecture-power-electronics-week-insights/)
+**Published:** Fri, 15 May 2026 14:00:00 +0000
 
-<p>Pressure sensors are expected to stay accurate across everything from gentle touch to strong, shifting loads. Yet many flexible designs are most sensitive only at low pressure, losing resolution as the force rises. Now, researchers have developed a tunable flexible capacitive pressure sensor that does the opposite: it becomes more sensitive as pressure increases.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/flexible-sensor-gains-sensitivity-under-pressure/">Flexible Sensor Gains Sensitivity Under Pressure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [VFabTech Launches to Help Solve the Semiconductor Capacity Bottleneck Behind the Next Wave of AI and Advanced Manufacturing](https://www.semiconductor-digest.com/vfabtech-launches-to-help-solve-the-semiconductor-capacity-bottleneck-behind-the-next-wave-of-ai-and-advanced-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=vfabtech-launches-to-help-solve-the-semiconductor-capacity-bottleneck-behind-the-next-wave-of-ai-and-advanced-manufacturing)
-**Published:** Fri, 17 Apr 2026 21:49:11 +0000
-
-<p>VFabTech supports semiconductor capacity expansion with practical, start-to-finish engineering expertise.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/vfabtech-launches-to-help-solve-the-semiconductor-capacity-bottleneck-behind-the-next-wave-of-ai-and-advanced-manufacturing/">VFabTech Launches to Help Solve the Semiconductor Capacity Bottleneck Behind the Next Wave of AI and Advanced Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Tageos Launches World’s First FlexIC-based RFID Product Lines Powered by Pragmatic Semiconductor Technology](https://www.semiconductor-digest.com/tageos-launches-worlds-first-flexic-based-rfid-product-lines-powered-by-pragmatic-semiconductor-technology/?utm_source=rss&utm_medium=rss&utm_campaign=tageos-launches-worlds-first-flexic-based-rfid-product-lines-powered-by-pragmatic-semiconductor-technology)
-**Published:** Fri, 17 Apr 2026 21:38:15 +0000
-
-<p>Tageos and Pragmatic Semiconductor today announced the expansion of their long-term strategic partnership with the launch of Tageos' latest product portfolio based on Pragmatic's flexible and sustainable NFC Connect product line.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tageos-launches-worlds-first-flexic-based-rfid-product-lines-powered-by-pragmatic-semiconductor-technology/">Tageos Launches World&#8217;s First FlexIC-based RFID Product Lines Powered by Pragmatic Semiconductor Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Teradyne Acquires TestInsight](https://www.semiconductor-digest.com/teradyne-acquires-testinsight/?utm_source=rss&utm_medium=rss&utm_campaign=teradyne-acquires-testinsight)
-**Published:** Thu, 16 Apr 2026 18:40:40 +0000
-
-<p>Acquisition expands Teradyne’s leadership in design to test software.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/teradyne-acquires-testinsight/">Teradyne Acquires TestInsight</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on SiC JFETs in Solid-State Circuit Breakers, Humanoid Robotics, and SuperQ’s New Architecture!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/sic-jfets-in-solid-state-circuit-breakers-humanoid-robotics-superqs-new-architecture-power-electronics-week-insights/">SiC JFETs in Solid-State Circuit Breakers, Humanoid Robotics, SuperQ’s New Architecture: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,22 +898,6 @@ _Last updated: 2026-05-15 13:06 UTC_
 
 ---
 
-## [Nyobolt Secures $60M to Expand AI and Robotics Power Solutions](https://www.powerelectronicsnews.com/nyobolt-secures-60m-to-expand-ai-and-robotics-power-solutions/)
-**Published:** Mon, 11 May 2026 14:00:00 +0000
-
-<img alt="Nyobolt Secures $60M to Expand AI and Robotics Power Solutions." class="webfeedsFeaturedVisual wp-post-image" height="675" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Hero-icon-with-tagline.png?fit=1200%2C675" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>Funding will accelerate Nyobolt’s fast-charging energy solutions for robotics, autonomous systems, and AI infrastructure.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/nyobolt-secures-60m-to-expand-ai-and-robotics-power-solutions/">Nyobolt Secures $60M to Expand AI and Robotics Power Solutions</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [SiC JFET Advantages in Power Distribution Protection Circuits: Part 1—SCCBs](https://www.powerelectronicsnews.com/sic-jfet-advantages-in-power-distribution-protection-circuits-part-1-sccbs/)
-**Published:** Mon, 11 May 2026 13:40:44 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3509" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_1288076851.jpeg?fit=6261%2C3509" style="display: block; margin-bottom: 5px; clear: both;" width="6261" /><p>SiC JFETs offer key advantages over MOSFETs in solid-state circuit breaker applications for high-power distribution systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/sic-jfet-advantages-in-power-distribution-protection-circuits-part-1-sccbs/">SiC JFET Advantages in Power Distribution Protection Circuits: Part 1—SCCBs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Automakers Face Memory Shock as AI Uses Up Semiconductor Supply](https://www.eetimes.com/automakers-face-memory-shock-as-ai-uses-up-semiconductor-supply/)
 **Published:** Thu, 14 May 2026 20:00:00 +0000
 
@@ -911,22 +911,6 @@ _Last updated: 2026-05-15 13:06 UTC_
 
 <p>Spain coordinates Europe’s €400 million PIXEurope initiative to turn photonics research into scalable semiconductor manufacturing capacity.</p>
 <p>The post <a href="https://www.eetimes.com/europe-photonics-push-runs-through-spain/">Europe’s Photonics Push Runs Through Spain</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Imec IC-Link joins TSMC OIP](https://www.electronicsweekly.com/news/business/imec-ic-link-joins-tsmc-oip-2026-05/)
-**Published:** Fri, 15 May 2026 05:15:31 +0000
-
-<p>IC-Link by imec, imec’s design and manufacturing service provider for ASIC and silicon photonics, has joined TSMC Open Innovation Platform (OIP) 3DFabric Alliance As part of the TSMC OIP ecosystem, ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/imec-ic-link-joins-tsmc-oip-2026-05/">Imec IC-Link joins TSMC OIP</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Cerebras IPOs at $185; hits $385](https://www.electronicsweekly.com/news/business/cerebras-ipos-at-185-opens-at-219-2026-05/)
-**Published:** Thu, 14 May 2026 13:30:32 +0000
-
-<p>Cerebras, the waferscale specialist, eventually IPO’d at $185 &#8211; after increasing the price several times in the wake of considerable interest. Trading began at 2pm UK time today and by ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/cerebras-ipos-at-185-opens-at-219-2026-05/">Cerebras IPOs at $185; hits $385</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
