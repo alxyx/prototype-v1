@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-16 22:58 UTC_
+_Last updated: 2026-05-17 00:06 UTC_
 
 ## [yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data](https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/)
 **Published:** Wed, 13 May 2026 22:37:54 +0000
@@ -911,6 +911,22 @@ _Last updated: 2026-05-16 22:58 UTC_
 
 <p>Spain coordinates Europe’s €400 million PIXEurope initiative to turn photonics research into scalable semiconductor manufacturing capacity.</p>
 <p>The post <a href="https://www.eetimes.com/europe-photonics-push-runs-through-spain/">Europe’s Photonics Push Runs Through Spain</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Imec IC-Link joins TSMC OIP](https://www.electronicsweekly.com/news/business/imec-ic-link-joins-tsmc-oip-2026-05/)
+**Published:** Fri, 15 May 2026 05:15:31 +0000
+
+<p>IC-Link by imec, imec’s design and manufacturing service provider for ASIC and silicon photonics, has joined TSMC Open Innovation Platform (OIP) 3DFabric Alliance As part of the TSMC OIP ecosystem, ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/imec-ic-link-joins-tsmc-oip-2026-05/">Imec IC-Link joins TSMC OIP</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Cerebras IPOs at $185; hits $385](https://www.electronicsweekly.com/news/business/cerebras-ipos-at-185-opens-at-219-2026-05/)
+**Published:** Thu, 14 May 2026 13:30:32 +0000
+
+<p>Cerebras, the waferscale specialist, eventually IPO’d at $185 &#8211; after increasing the price several times in the wake of considerable interest. Trading began at 2pm UK time today and by ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/cerebras-ipos-at-185-opens-at-219-2026-05/">Cerebras IPOs at $185; hits $385</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
