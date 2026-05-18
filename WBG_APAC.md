@@ -1,20 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-18 04:27 UTC_
+_Last updated: 2026-05-18 16:36 UTC_
 
 ## [The Shifting Cost Structure of Advanced Manufacturing](https://www.eetasia.com/the-shifting-cost-structure-of-advanced-manufacturing/)
 **Published:** Mon, 18 May 2026 02:15:50 +0000
 
 <p>The semiconductor industry is facing a reckoning it has postponed for years.</p>
 <p>The post <a href="https://www.eetasia.com/the-shifting-cost-structure-of-advanced-manufacturing/">The Shifting Cost Structure of Advanced Manufacturing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data](https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/)
-**Published:** Wed, 13 May 2026 22:37:54 +0000
-
-<p>yieldWerx and WATS are partnering to bridge the gap in the PCB test and semiconductor manufacturing workflows.</p>
-<p>The post <a href="https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/">yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -818,6 +810,22 @@ _Last updated: 2026-05-18 04:27 UTC_
 
 ---
 
+## [SiC JFET Advantages in Power Distribution Protection Circuits: Part 2—Hot-Swap Protection](https://www.powerelectronicsnews.com/sic-jfet-advantages-in-power-distribution-protection-circuits-part-2-sccbs/)
+**Published:** Mon, 18 May 2026 14:01:16 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3335" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_249490392.jpeg?fit=5000%2C3335" style="display: block; margin-bottom: 5px; clear: both;" width="5000" /><p>SiC JFETs offer superior thermal stability, wide SOA, and low RDS(ON) for 800 VDC hot-swap circuit protection. </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/sic-jfet-advantages-in-power-distribution-protection-circuits-part-2-sccbs/">SiC JFET Advantages in Power Distribution Protection Circuits: Part 2—Hot-Swap Protection</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Asahi Kasei Expands EV Sensor Portfolio With CZ3K Series](https://www.powerelectronicsnews.com/asahi-kasei-expands-ev-sensor-portfolio-with-cz3k-series/)
+**Published:** Mon, 18 May 2026 14:00:00 +0000
+
+<img alt="Asahi Kasei Expands EV Sensor Portfolio With CZ3K Series." class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/s600-cz3k-series.jpeg?fit=600%2C600" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>The new AKM EV current sensors support ±300A measurement with low resistance for compact high-power automotive systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/asahi-kasei-expands-ev-sensor-portfolio-with-cz3k-series/">Asahi Kasei Expands EV Sensor Portfolio With CZ3K Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [TAIYO YUDEN Introduces Miniaturized Power Inductors](https://www.powerelectronicsnews.com/taiyo-yuden-introduces-miniaturized-power-inductors/)
 **Published:** Fri, 15 May 2026 15:00:00 +0000
 
@@ -882,19 +890,19 @@ _Last updated: 2026-05-18 04:27 UTC_
 
 ---
 
-## [Humanoid Robotics is a Power Electronics Problem](https://www.powerelectronicsnews.com/humanoid-robotics-is-a-power-electronics-problem/)
-**Published:** Tue, 12 May 2026 13:00:00 +0000
+## [Canada Spins Off Photonics Lab](https://www.eetimes.com/canada-spins-off-photonics-lab/)
+**Published:** Mon, 18 May 2026 14:35:37 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/image_30a3ae.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>Experts from EPC and Texas Instruments explain why GaN dominates humanoid robot motor drive design at the joint level.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/humanoid-robotics-is-a-power-electronics-problem/">Humanoid Robotics is a Power Electronics Problem</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>The Canadian Photonics Fabrication Center will be commercialized to scale up its compound semiconductor and photonics capabilities.</p>
+<p>The post <a href="https://www.eetimes.com/canada-spins-off-photonics-lab/">Canada Spins Off Photonics Lab</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
-## [Infineon and d-Matrix Advance Energy-Efficient AI Infrastructure](https://www.powerelectronicsnews.com/infineon-and-d-matrix-advance-energy-efficient-ai-infrastructure/)
-**Published:** Tue, 12 May 2026 13:00:00 +0000
+## [ASML, Tata Electronics Partner for India’s First 300-mm Semiconductor Fab](https://www.eetimes.com/asml-tata-electronics-partner-for-indias-first-300-mm-semiconductor-fab/)
+**Published:** Mon, 18 May 2026 08:26:32 +0000
 
-<img alt="Infineon and d-Matrix Advance Energy-Efficient AI Infrastructure." class="webfeedsFeaturedVisual wp-post-image" height="1250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/OptiMOS™-TDM22544D-dual-phase-power-module.tif_.jpg?fit=1500%2C1250" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>The collaboration combines Infineon power modules with d-Matrix AI accelerators for efficient low-latency inference.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-and-d-matrix-advance-energy-efficient-ai-infrastructure/">Infineon and d-Matrix Advance Energy-Efficient AI Infrastructure</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Strategic deal brings Dutch lithography giant's technology to Gujarat facility.</p>
+<p>The post <a href="https://www.eetimes.com/asml-tata-electronics-partner-for-indias-first-300-mm-semiconductor-fab/">ASML, Tata Electronics Partner for India&#8217;s First 300-mm Semiconductor Fab</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -906,41 +914,19 @@ _Last updated: 2026-05-18 04:27 UTC_
 
 ---
 
-## [Europe’s Photonics Push Runs Through Spain](https://www.eetimes.com/europe-photonics-push-runs-through-spain/)
-**Published:** Wed, 13 May 2026 09:37:44 +0000
+## [Ultra-compact FXO imaging system supports 4-Channel CoaXPress-12](https://www.electronicsweekly.com/news/products/sensors-products/ultra-compact-fxo-imaging-system-supports-4-channel-coaxpress-12-2026-05/)
+**Published:** Mon, 18 May 2026 14:52:31 +0000
 
-<p>Spain coordinates Europe’s €400 million PIXEurope initiative to turn photonics research into scalable semiconductor manufacturing capacity.</p>
-<p>The post <a href="https://www.eetimes.com/europe-photonics-push-runs-through-spain/">Europe’s Photonics Push Runs Through Spain</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Imec IC-Link joins TSMC OIP](https://www.electronicsweekly.com/news/business/imec-ic-link-joins-tsmc-oip-2026-05/)
-**Published:** Fri, 15 May 2026 05:15:31 +0000
-
-<p>IC-Link by imec, imec’s design and manufacturing service provider for ASIC and silicon photonics, has joined TSMC Open Innovation Platform (OIP) 3DFabric Alliance As part of the TSMC OIP ecosystem, ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/imec-ic-link-joins-tsmc-oip-2026-05/">Imec IC-Link joins TSMC OIP</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Allied Vision is releasing its ultra-compact FXO camera series with 4-Channel CoaXPress-12 interfaces. They are high-end machine vision cameras. Possible applications include electronics and semiconductor production. For example, for 2D/3D ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/sensors-products/ultra-compact-fxo-imaging-system-supports-4-channel-coaxpress-12-2026-05/">Ultra-compact FXO imaging system supports 4-Channel CoaXPress-12</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Cerebras IPOs at $185; hits $385](https://www.electronicsweekly.com/news/business/cerebras-ipos-at-185-opens-at-219-2026-05/)
-**Published:** Thu, 14 May 2026 13:30:32 +0000
+## [BrainChip adds software partners](https://www.electronicsweekly.com/news/business/brainchip-adds-software-partners-2026-05/)
+**Published:** Mon, 18 May 2026 05:03:53 +0000
 
-<p>Cerebras, the waferscale specialist, eventually IPO’d at $185 &#8211; after increasing the price several times in the wake of considerable interest. Trading began at 2pm UK time today and by ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/cerebras-ipos-at-185-opens-at-219-2026-05/">Cerebras IPOs at $185; hits $385</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Semiconductor Defect Detection Advancement](https://www.electronicsforu.com/news/semiconductor-defect-detection-advancement)
-**Published:** Fri, 15 May 2026 04:06:15 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/tn22-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers have developed a physics-based technique that accurately measures atomic-scale semiconductor defects, helping improve power electronics used in electric vehicles, renewable energy systems, and next-generation high-efficiency devices. Researchers from Auburn University and Sandia National Laboratories have developed a new semiconductor measurement method that could significantly improve the reliability and efficiency of future power electronics. The [&#8230;]
-
----
-
-## [JOB: ASIC Engineer At Cisco In Bengaluru](https://www.electronicsforu.com/career/asic-engineer-cisco-bengaluru)
-**Published:** Thu, 14 May 2026 10:49:25 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/cisco-hero-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Cisco Your Impact Minimum Qualifications Preferred Qualifications
+<p>BrainChip, the neuromorphic AI IP specialist, is collaborating with MulticoreWare, P-Product and BeEmotion.ai to develop and optimise ML models tailored for the Akida AKD1500 processor. BrainChip sells semiconductor IP and SoC designs ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/brainchip-adds-software-partners-2026-05/">BrainChip adds software partners</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
