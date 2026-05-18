@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-18 19:04 UTC_
+_Last updated: 2026-05-18 20:37 UTC_
 
 ## [The Shifting Cost Structure of Advanced Manufacturing](https://www.eetasia.com/the-shifting-cost-structure-of-advanced-manufacturing/)
 **Published:** Mon, 18 May 2026 02:15:50 +0000
