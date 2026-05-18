@@ -1,12 +1,52 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-18 16:36 UTC_
+_Last updated: 2026-05-18 19:04 UTC_
 
 ## [The Shifting Cost Structure of Advanced Manufacturing](https://www.eetasia.com/the-shifting-cost-structure-of-advanced-manufacturing/)
 **Published:** Mon, 18 May 2026 02:15:50 +0000
 
 <p>The semiconductor industry is facing a reckoning it has postponed for years.</p>
 <p>The post <a href="https://www.eetasia.com/the-shifting-cost-structure-of-advanced-manufacturing/">The Shifting Cost Structure of Advanced Manufacturing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Alpha and Omega Semiconductor Unveils Total Power Solution for Next-Gen Intel Panther Lake and Wildcat Lake Platforms](https://www.semiconductor-digest.com/alpha-and-omega-semiconductor-unveils-total-power-solution-for-next-gen-intel-panther-lake-and-wildcat-lake-platforms/?utm_source=rss&utm_medium=rss&utm_campaign=alpha-and-omega-semiconductor-unveils-total-power-solution-for-next-gen-intel-panther-lake-and-wildcat-lake-platforms)
+**Published:** Mon, 18 May 2026 18:25:21 +0000
+
+<p>Alpha and Omega Semiconductor Limited today announced a new family of digital multiphase controllers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/alpha-and-omega-semiconductor-unveils-total-power-solution-for-next-gen-intel-panther-lake-and-wildcat-lake-platforms/">Alpha and Omega Semiconductor Unveils Total Power Solution for Next-Gen Intel Panther Lake and Wildcat Lake Platforms</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Gradiant Announces Series E Financing at $2 Billion Valuation to Accelerate Expansion in AI, Semiconductors, and Industrial Water Infrastructure](https://www.semiconductor-digest.com/gradiant-announces-series-e-financing-at-2-billion-valuation-to-accelerate-expansion-in-ai-semiconductors-and-industrial-water-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=gradiant-announces-series-e-financing-at-2-billion-valuation-to-accelerate-expansion-in-ai-semiconductors-and-industrial-water-infrastructure)
+**Published:** Mon, 18 May 2026 18:19:03 +0000
+
+<p>New investment supports strategic M&#038;A, next-generation R&#038;D, and IPO readiness as Gradiant experiences record growth driven by AI infrastructure and advanced manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/gradiant-announces-series-e-financing-at-2-billion-valuation-to-accelerate-expansion-in-ai-semiconductors-and-industrial-water-infrastructure/">Gradiant Announces Series E Financing at $2 Billion Valuation to Accelerate Expansion in AI, Semiconductors, and Industrial Water Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TetraMem Announces 22nm Multi-Level RRAM Analog In-Memory Computing SoC Milestone](https://www.semiconductor-digest.com/tetramem-announces-22nm-multi-level-rram-analog-in-memory-computing-soc-milestone/?utm_source=rss&utm_medium=rss&utm_campaign=tetramem-announces-22nm-multi-level-rram-analog-in-memory-computing-soc-milestone)
+**Published:** Mon, 18 May 2026 18:13:53 +0000
+
+<p>TetraMem Inc., a Silicon Valley–based semiconductor company developing analog in-memory computing (IMC) solutions, today announced the successful tape-out, manufacturing, and initial silicon validation of its MLX200 platform, a 22nm multi-level RRAM-based analog IMC system-on-chip (SoC).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tetramem-announces-22nm-multi-level-rram-analog-in-memory-computing-soc-milestone/">TetraMem Announces 22nm Multi-Level RRAM Analog In-Memory Computing SoC Milestone</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SKKU Research Team Reveals Chemical Pathway for Next-Generation Infrared III–V Nanocrystals](https://www.semiconductor-digest.com/skku-research-team-reveals-chemical-pathway-for-next-generation-infrared-iii-v-nanocrystals/?utm_source=rss&utm_medium=rss&utm_campaign=skku-research-team-reveals-chemical-pathway-for-next-generation-infrared-iii-v-nanocrystals)
+**Published:** Mon, 18 May 2026 18:06:31 +0000
+
+<p>Metal–amide chemistry provides a rational approach to controlling heavy-pnictogen reduction, paving the way for safer and more scalable semiconductor quantum dots.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/skku-research-team-reveals-chemical-pathway-for-next-generation-infrared-iii-v-nanocrystals/">SKKU Research Team Reveals Chemical Pathway for Next-Generation Infrared III–V Nanocrystals</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [HANMI Semiconductor Expands Presence in U.S. Semiconductor Supply Chain](https://www.semiconductor-digest.com/hanmi-semiconductor-expands-presence-in-u-s-semiconductor-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-expands-presence-in-u-s-semiconductor-supply-chain)
+**Published:** Mon, 18 May 2026 17:49:53 +0000
+
+<p>HANMI Semiconductor today announced that it will formally enter the U.S. market by establishing its local subsidiary, HANMI USA, by the end of 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hanmi-semiconductor-expands-presence-in-u-s-semiconductor-supply-chain/">HANMI Semiconductor Expands Presence in U.S. Semiconductor Supply Chain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -767,46 +807,6 @@ _Last updated: 2026-05-18 16:36 UTC_
 
 <p>He succeeds Michael Budde, who has stepped down from the ESIA Presidency following his recent change of responsibilities within Bosch.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/bosch-executive-erik-rein-elected-new-president-of-esia/">Bosch Executive Erik Rein Elected New President of ESIA</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: AMOLED Smartphone Display Shipments Expected to Decline Sharply in 2026](https://www.semiconductor-digest.com/omdia-amoled-smartphone-display-shipments-expected-to-decline-sharply-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-amoled-smartphone-display-shipments-expected-to-decline-sharply-in-2026)
-**Published:** Mon, 20 Apr 2026 22:11:44 +0000
-
-<p>AMOLED smartphone display shipments are expected to decline sharply in 2026 amid  rising memory prices and increasing market uncertainty, according to Omdia’s latest OLED Display Market Tracker. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-amoled-smartphone-display-shipments-expected-to-decline-sharply-in-2026/">Omdia: AMOLED Smartphone Display Shipments Expected to Decline Sharply in 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New Report Shows South Wales Semiconductor Cluster Now Supports £436m for Welsh Economy and 3,140 Jobs](https://www.semiconductor-digest.com/new-report-shows-south-wales-semiconductor-cluster-now-supports-436m-for-welsh-economy-and-3140-jobs/?utm_source=rss&utm_medium=rss&utm_campaign=new-report-shows-south-wales-semiconductor-cluster-now-supports-436m-for-welsh-economy-and-3140-jobs)
-**Published:** Mon, 20 Apr 2026 22:01:36 +0000
-
-<p>The latest annual report from CSconnected confirms that the compound semiconductor cluster in South Wales continues to expand its economic contribution, now supporting £436 million of Gross Value Added (GVA) and 3,140 jobs across Wales.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-report-shows-south-wales-semiconductor-cluster-now-supports-436m-for-welsh-economy-and-3140-jobs/">New Report Shows South Wales Semiconductor Cluster Now Supports £436m for Welsh Economy and 3,140 Jobs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Advanced Chip and Circuit Materials Introduces Negative and Near-Zero CTE Materials to Eliminate Thermomechanical Constraints for Large-Format AI Chips](https://www.semiconductor-digest.com/advanced-chip-and-circuit-materials-introduces-negative-and-near-zero-cte-materials-to-eliminate-thermomechanical-constraints-for-large-format-ai-chips/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-chip-and-circuit-materials-introduces-negative-and-near-zero-cte-materials-to-eliminate-thermomechanical-constraints-for-large-format-ai-chips)
-**Published:** Mon, 20 Apr 2026 21:45:49 +0000
-
-<p>Scaling of large-scale chips for AI is limited by the mismatch in CTE of circuit boards and the devices mounted on them.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/advanced-chip-and-circuit-materials-introduces-negative-and-near-zero-cte-materials-to-eliminate-thermomechanical-constraints-for-large-format-ai-chips/">Advanced Chip and Circuit Materials Introduces Negative and Near-Zero CTE Materials to Eliminate Thermomechanical Constraints for Large-Format AI Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Semiconductor Test Vision Using Data](https://www.semiconductor-digest.com/semiconductor-test-vision-using-data/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-test-vision-using-data)
-**Published:** Mon, 20 Apr 2026 14:48:41 +0000
-
-<p>Dynamic KPI Intelligence is a data-driven structure that utilizes federated data pipes, machine learning models, and role-based insights to support predictive, adaptive testing. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-test-vision-using-data/">Semiconductor Test Vision Using Data</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Operations Engineering: Hidden Yield Lever in Advanced Semiconductor Packaging](https://www.semiconductor-digest.com/operations-engineering-hidden-yield-lever-in-advanced-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=operations-engineering-hidden-yield-lever-in-advanced-semiconductor-packaging)
-**Published:** Mon, 20 Apr 2026 14:39:41 +0000
-
-<p>By supporting iterative learnings early and structured execution, organizations create a smoother path from engineering validation to repeatable production.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/operations-engineering-hidden-yield-lever-in-advanced-semiconductor-packaging/">Operations Engineering: Hidden Yield Lever in Advanced Semiconductor Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
