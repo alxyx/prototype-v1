@@ -1,20 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-17 23:07 UTC_
+_Last updated: 2026-05-18 04:27 UTC_
+
+## [The Shifting Cost Structure of Advanced Manufacturing](https://www.eetasia.com/the-shifting-cost-structure-of-advanced-manufacturing/)
+**Published:** Mon, 18 May 2026 02:15:50 +0000
+
+<p>The semiconductor industry is facing a reckoning it has postponed for years.</p>
+<p>The post <a href="https://www.eetasia.com/the-shifting-cost-structure-of-advanced-manufacturing/">The Shifting Cost Structure of Advanced Manufacturing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data](https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/)
 **Published:** Wed, 13 May 2026 22:37:54 +0000
 
 <p>yieldWerx and WATS are partnering to bridge the gap in the PCB test and semiconductor manufacturing workflows.</p>
 <p>The post <a href="https://www.eetasia.com/yieldwerx-collaborates-with-wats-to-bridge-pcb-test-with-chip-level-manufacturing-data/">yieldWerx Collaborates with WATS to Bridge PCB Test with Chip-level Manufacturing Data</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Rigaku Working with imec to Accelerate Next-gen Semiconductor Metrology Development](https://www.eetasia.com/rigaku-working-with-imec-to-accelerate-next-gen-semiconductor-metrology-development/)
-**Published:** Wed, 13 May 2026 22:26:17 +0000
-
-<p>Rigaku is working with imec under a three-year development program to advance its core X-ray technologies.</p>
-<p>The post <a href="https://www.eetasia.com/rigaku-working-with-imec-to-accelerate-next-gen-semiconductor-metrology-development/">Rigaku Working with imec to Accelerate Next-gen Semiconductor Metrology Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
