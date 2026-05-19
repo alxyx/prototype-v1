@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-18 22:16 UTC_
+_Last updated: 2026-05-19 12:51 UTC_
 
-## [The Shifting Cost Structure of Advanced Manufacturing](https://www.eetasia.com/the-shifting-cost-structure-of-advanced-manufacturing/)
-**Published:** Mon, 18 May 2026 02:15:50 +0000
+## [DEEPX Partners with Ultralytics to Define Global Standard for Physical AI](https://www.eetasia.com/deepx-partners-with-ultralytics-to-define-global-standard-for-physical-ai/)
+**Published:** Tue, 19 May 2026 02:53:42 +0000
 
-<p>The semiconductor industry is facing a reckoning it has postponed for years.</p>
-<p>The post <a href="https://www.eetasia.com/the-shifting-cost-structure-of-advanced-manufacturing/">The Shifting Cost Structure of Advanced Manufacturing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>DEEPX is partnering with Ultralytics, the company behind Ultralytics YOLO, to establish a unified global standard for Physical AI.</p>
+<p>The post <a href="https://www.eetasia.com/deepx-partners-with-ultralytics-to-define-global-standard-for-physical-ai/">DEEPX Partners with Ultralytics to Define Global Standard for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Variscite to Launch NXP i.MX 95-based SoM Product Family](https://www.eetasia.com/variscite-to-launch-nxp-i-mx-95-based-som-product-family/)
+**Published:** Tue, 19 May 2026 02:41:41 +0000
+
+<p>Variscite will be launching a new SMARC-compatible SoM integrating NXP Semiconductors' i.MX 95 applications processor.</p>
+<p>The post <a href="https://www.eetasia.com/variscite-to-launch-nxp-i-mx-95-based-som-product-family/">Variscite to Launch NXP i.MX 95-based SoM Product Family</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [AMI Acquisition Marks Lattice’s Strategic Pivot to Firmware World](https://www.eetasia.com/ami-acquisition-marks-lattices-strategic-pivot-to-firmware-world/)
+**Published:** Tue, 19 May 2026 02:21:03 +0000
+
+<p>Lattice Semiconductor has acquired AMI to combine its low-power FPGAs with open-source firmware platforms.</p>
+<p>The post <a href="https://www.eetasia.com/ami-acquisition-marks-lattices-strategic-pivot-to-firmware-world/">AMI Acquisition Marks Lattice&#8217;s Strategic Pivot to Firmware World</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -890,6 +906,14 @@ _Last updated: 2026-05-18 22:16 UTC_
 
 ---
 
+## [Imec’s Patrick Vandenameele: Full-stack Innovation Is the Name of the Game](https://www.eetimes.com/imec-patrick-vandenameele-full-stack-innovation-is-the-name-of-the-game/)
+**Published:** Tue, 19 May 2026 08:00:58 +0000
+
+<p>As AI pushes semiconductors toward new limits in energy, memory, and interconnects, imec’s CEO says future progress will depend on deep co-optimization across the entire computing stack.</p>
+<p>The post <a href="https://www.eetimes.com/imec-patrick-vandenameele-full-stack-innovation-is-the-name-of-the-game/">Imec&#8217;s Patrick Vandenameele: Full-stack Innovation Is the Name of the Game</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Canada Spins Off Photonics Lab](https://www.eetimes.com/canada-spins-off-photonics-lab/)
 **Published:** Mon, 18 May 2026 14:35:37 +0000
 
@@ -914,6 +938,14 @@ _Last updated: 2026-05-18 22:16 UTC_
 
 ---
 
+## [Mouser signs EPC](https://www.electronicsweekly.com/news/business/mouser-signs-epc-2026-05/)
+**Published:** Tue, 19 May 2026 05:20:00 +0000
+
+<p>Mouser has signed a global distribution agreement with Efficient Power Conversion (EPC) a  leader in eGaN-based power solutions, offering GaN devices spanning 15 V to 350 V. The agreement is ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/mouser-signs-epc-2026-05/">Mouser signs EPC</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Ultra-compact FXO imaging system supports 4-Channel CoaXPress-12](https://www.electronicsweekly.com/news/products/sensors-products/ultra-compact-fxo-imaging-system-supports-4-channel-coaxpress-12-2026-05/)
 **Published:** Mon, 18 May 2026 14:52:31 +0000
 
@@ -922,11 +954,10 @@ _Last updated: 2026-05-18 22:16 UTC_
 
 ---
 
-## [BrainChip adds software partners](https://www.electronicsweekly.com/news/business/brainchip-adds-software-partners-2026-05/)
-**Published:** Mon, 18 May 2026 05:03:53 +0000
+## [India gets new high-efficiency power chips](https://www.electronicsforu.com/news/india-gets-new-high-efficiency-power-chips)
+**Published:** Tue, 19 May 2026 07:47:03 +0000
 
-<p>BrainChip, the neuromorphic AI IP specialist, is collaborating with MulticoreWare, P-Product and BeEmotion.ai to develop and optimise ML models tailored for the Akida AKD1500 processor. BrainChip sells semiconductor IP and SoC designs ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/brainchip-adds-software-partners-2026-05/">BrainChip adds software partners</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/banner-main-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Power devices for charging, AI servers, telecom networks, and EV systems have been launched with a focus on lower energy loss and smaller electronics. Cyient Semiconductors has introduced seven gallium nitride (GaN) power devices for the Indian market, marking the company’s entry into commercial GaN products and expanding India’s domestic power semiconductor capabilities. The devices, [&#8230;]
 
 ---
 
