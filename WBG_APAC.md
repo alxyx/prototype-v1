@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-19 12:51 UTC_
+_Last updated: 2026-05-20 00:19 UTC_
 
 ## [DEEPX Partners with Ultralytics to Define Global Standard for Physical AI](https://www.eetasia.com/deepx-partners-with-ultralytics-to-define-global-standard-for-physical-ai/)
 **Published:** Tue, 19 May 2026 02:53:42 +0000
@@ -23,6 +23,54 @@ _Last updated: 2026-05-19 12:51 UTC_
 
 <p>Lattice Semiconductor has acquired AMI to combine its low-power FPGAs with open-source firmware platforms.</p>
 <p>The post <a href="https://www.eetasia.com/ami-acquisition-marks-lattices-strategic-pivot-to-firmware-world/">AMI Acquisition Marks Lattice&#8217;s Strategic Pivot to Firmware World</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMI FlexTech Solicits Proposals for  Advancing the Future of Flexible Hybrid Electronics](https://www.semiconductor-digest.com/semi-flextech-solicits-proposals-for-advancing-the-future-of-flexible-hybrid-electronics-2/?utm_source=rss&utm_medium=rss&utm_campaign=semi-flextech-solicits-proposals-for-advancing-the-future-of-flexible-hybrid-electronics-2)
+**Published:** Tue, 19 May 2026 20:07:47 +0000
+
+<p>FlexTech, a SEMI Technology Coalition, today issued a request for proposals (RFP) to advance flexible hybrid electronics (FHE) technologies, including the development of advanced materials and additive processing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-flextech-solicits-proposals-for-advancing-the-future-of-flexible-hybrid-electronics-2/">SEMI FlexTech Solicits Proposals for  Advancing the Future of Flexible Hybrid Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [EV Group Highlights Hybrid Bonding, Layer Transfer and Maskless Lithography Technologies for Heterogeneous Integration and Advanced Packaging at ECTC 2026](https://www.semiconductor-digest.com/ev-group-highlights-hybrid-bonding-layer-transfer-and-maskless-lithography-technologies-for-heterogeneous-integration-and-advanced-packaging-at-ectc-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-highlights-hybrid-bonding-layer-transfer-and-maskless-lithography-technologies-for-heterogeneous-integration-and-advanced-packaging-at-ectc-2026)
+**Published:** Tue, 19 May 2026 20:00:47 +0000
+
+<p>EV Group today announced that it will showcase its latest solutions for heterogeneous integration and advanced packaging at the 2026 IEEE Electronic Components and Technology Conference (ECTC), taking place May 26-29 in Orlando, Fla.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ev-group-highlights-hybrid-bonding-layer-transfer-and-maskless-lithography-technologies-for-heterogeneous-integration-and-advanced-packaging-at-ectc-2026/">EV Group Highlights Hybrid Bonding, Layer Transfer and Maskless Lithography Technologies for Heterogeneous Integration and Advanced Packaging at ECTC 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Imec Expands the Global Footprint of imec.ventures with a Dedicated US Presence](https://www.semiconductor-digest.com/imec-expands-the-global-footprint-of-imec-ventures-with-a-dedicated-us-presence/?utm_source=rss&utm_medium=rss&utm_campaign=imec-expands-the-global-footprint-of-imec-ventures-with-a-dedicated-us-presence)
+**Published:** Tue, 19 May 2026 19:47:40 +0000
+
+<p>Supporting the creation and scaling of semiconductor deeptech ventures worldwide.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/imec-expands-the-global-footprint-of-imec-ventures-with-a-dedicated-us-presence/">Imec Expands the Global Footprint of imec.ventures with a Dedicated US Presence</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TSMC Board Approves US$31.3 Billion Capital Appropriation](https://www.semiconductor-digest.com/tsmc-board-approves-us31-3-billion-capital-appropriation-greenlights-additional-us20-billion-injection-into-arizona/?utm_source=rss&utm_medium=rss&utm_campaign=tsmc-board-approves-us31-3-billion-capital-appropriation-greenlights-additional-us20-billion-injection-into-arizona)
+**Published:** Tue, 19 May 2026 14:46:46 +0000
+
+<p>TSMC said its Board of Directors has approved capital appropriations of approximately US$31.28 billion to fund advanced technology capacity, fab construction, and fab facility systems, in one of the largest single-meeting capital authorizations in the foundry's history.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tsmc-board-approves-us31-3-billion-capital-appropriation-greenlights-additional-us20-billion-injection-into-arizona/">TSMC Board Approves US$31.3 Billion Capital Appropriation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Tata Electronics and ASML Announce Strategic Partnership](https://www.semiconductor-digest.com/tata-electronics-and-asml-announce-strategic-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=tata-electronics-and-asml-announce-strategic-partnership)
+**Published:** Tue, 19 May 2026 14:33:22 +0000
+
+<p>Tata Electronics, a pioneering leader in India’s electronics and semiconductor manufacturing sector, and ASML, one of the world’s leading semiconductor equipment manufacturing companies, today, announced the signing of a Memorandum of Understanding (MoU) to advance the semiconductor manufacturing ecosystem in India.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tata-electronics-and-asml-announce-strategic-partnership/">Tata Electronics and ASML Announce Strategic Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Fraunhofer IPMS Develops High-Density Chiplet Systems at the Wafer Level](https://www.semiconductor-digest.com/fraunhofer-ipms-develops-high-density-chiplet-systems-at-the-wafer-level/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-ipms-develops-high-density-chiplet-systems-at-the-wafer-level)
+**Published:** Tue, 19 May 2026 14:28:10 +0000
+
+<p>As part of the European APECS pilot line, researchers at Fraunhofer Institute for Photonic Microsystems IPMS have developed a method that allows different chip components to be fused almost seamlessly into a single unit. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/fraunhofer-ipms-develops-high-density-chiplet-systems-at-the-wafer-level/">Fraunhofer IPMS Develops High-Density Chiplet Systems at the Wafer Level</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -778,51 +826,19 @@ _Last updated: 2026-05-19 12:51 UTC_
 
 ---
 
-## [ISRL USA and AI Infrastructure Partners Sign MOU to Build America’s First Dedicated Semiconductor SubFAB R&D Facility](https://www.semiconductor-digest.com/isrl-usa-and-ai-infrastructure-partners-sign-mou-to-build-americas-first-dedicated-semiconductor-subfab-rd-facility/?utm_source=rss&utm_medium=rss&utm_campaign=isrl-usa-and-ai-infrastructure-partners-sign-mou-to-build-americas-first-dedicated-semiconductor-subfab-rd-facility)
-**Published:** Tue, 21 Apr 2026 17:26:36 +0000
+## [AOS Launches Intel Mobile Power Solution](https://www.powerelectronicsnews.com/aos-launches-intel-mobile-power-solution/)
+**Published:** Tue, 19 May 2026 15:00:00 +0000
 
-<p>Partnership pairs ISRL's industry-neutral R&#038;D platform with AIIP's multi-million dollar infrastructure commitment to close semiconductor industry's most critical sustainability gap.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/isrl-usa-and-ai-infrastructure-partners-sign-mou-to-build-americas-first-dedicated-semiconductor-subfab-rd-facility/">ISRL USA and AI Infrastructure Partners Sign MOU to Build America&#8217;s First Dedicated Semiconductor SubFAB R&#038;D Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMICON Southeast Asia 2026 to Convene Leaders in Malaysia to Drive Next Phase of Semiconductor Growth](https://www.semiconductor-digest.com/semicon-southeast-asia-2026-to-convene-leaders-in-malaysia-to-drive-next-phase-of-semiconductor-growth/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-southeast-asia-2026-to-convene-leaders-in-malaysia-to-drive-next-phase-of-semiconductor-growth)
-**Published:** Tue, 21 Apr 2026 17:15:25 +0000
-
-<p>SEMICON Southeast Asia (SEMICON SEA) 2026, the region’s premier platform for the global semiconductor and electronics manufacturing supply chain, will return to the Malaysia International Trade and Exhibition Centre (MITEC) in Kuala Lumpur from 5 to 7 May. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/semicon-southeast-asia-2026-to-convene-leaders-in-malaysia-to-drive-next-phase-of-semiconductor-growth/">SEMICON Southeast Asia 2026 to Convene Leaders in Malaysia to Drive Next Phase of Semiconductor Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="AOS Launches Intel Mobile Power Solution." class="webfeedsFeaturedVisual wp-post-image" height="1028" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AOS_71149-46-049QI.jpg?fit=1200%2C1028" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new AOS controllers and smart power stages improve efficiency and battery life for next-generation Intel laptops.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/aos-launches-intel-mobile-power-solution/">AOS Launches Intel Mobile Power Solution</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Turning the MIPI A-PHY Standard into Camera Design Advantage](https://www.semiconductor-digest.com/turning-the-mipi-a-phy-standard-into-camera-design-advantage/?utm_source=rss&utm_medium=rss&utm_campaign=turning-the-mipi-a-phy-standard-into-camera-design-advantage)
-**Published:** Tue, 21 Apr 2026 13:59:45 +0000
+## [Zooming into Navitas’ TAP SiC Gate Oxide Reliability](https://www.powerelectronicsnews.com/zooming-into-navitas-tap-sic-gate-oxide-reliability/)
+**Published:** Tue, 19 May 2026 13:00:00 +0000
 
-<p>How sensor integration saves on size, power, and cost.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/turning-the-mipi-a-phy-standard-into-camera-design-advantage/">Turning the MIPI A-PHY Standard into Camera Design Advantage</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Safety, Purity and Performance in Semiconductor Cleanroom Environments](https://www.semiconductor-digest.com/safety-purity-and-performance-in-semiconductor-cleanroom-environments/?utm_source=rss&utm_medium=rss&utm_campaign=safety-purity-and-performance-in-semiconductor-cleanroom-environments)
-**Published:** Tue, 21 Apr 2026 13:52:16 +0000
-
-<p>Air-operated double-diaphragm pumps play a vital role in next-generation semiconductor manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/safety-purity-and-performance-in-semiconductor-cleanroom-environments/">Safety, Purity and Performance in Semiconductor Cleanroom Environments</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Can Filtration Keep Up with Airborne Molecular Contamination Control Limits?](https://www.semiconductor-digest.com/can-filtration-keep-up-with-airborne-molecular-contamination-control-limits/?utm_source=rss&utm_medium=rss&utm_campaign=can-filtration-keep-up-with-airborne-molecular-contamination-control-limits)
-**Published:** Tue, 21 Apr 2026 13:43:35 +0000
-
-<p>As control limits move to sub-ppb levels, both filtration media and media delivery systems will have to evolve.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/can-filtration-keep-up-with-airborne-molecular-contamination-control-limits/">Can Filtration Keep Up with Airborne Molecular Contamination Control Limits?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Bosch Executive Erik Rein Elected New President of ESIA](https://www.semiconductor-digest.com/bosch-executive-erik-rein-elected-new-president-of-esia/?utm_source=rss&utm_medium=rss&utm_campaign=bosch-executive-erik-rein-elected-new-president-of-esia)
-**Published:** Mon, 20 Apr 2026 22:13:46 +0000
-
-<p>He succeeds Michael Budde, who has stepped down from the ESIA Presidency following his recent change of responsibilities within Bosch.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/bosch-executive-erik-rein-elected-new-president-of-esia/">Bosch Executive Erik Rein Elected New President of ESIA</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5060" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_679767225.jpeg?fit=8416%2C5060" style="display: block; margin-bottom: 5px; clear: both;" width="8416" /><p>Navitas validates TAP SiC MOSFET gate reliability across BESS, data center SST, and solar inverter switching cycle requirements.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/zooming-into-navitas-tap-sic-gate-oxide-reliability/">Zooming into Navitas’ TAP SiC Gate Oxide Reliability </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -890,19 +906,11 @@ _Last updated: 2026-05-19 12:51 UTC_
 
 ---
 
-## [Cyient Launches India’s First GaN Power ICs](https://www.powerelectronicsnews.com/cyient-launches-indias-first-gan-power-ics/)
-**Published:** Wed, 13 May 2026 22:00:27 +0000
+## [ADI to Acquire IVR Tech to Join Data Center’s Power Gold Rush](https://www.eetimes.com/adi-to-acquire-empower-to-join-data-centers-power-gold-rush/)
+**Published:** Tue, 19 May 2026 13:26:54 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="639" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/03/SemiconductorWafer.jpg?fit=1000%2C639" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The 650V GaN power ICs target AI, telecom, fast charging, and e-mobility applications with improved efficiency.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/cyient-launches-indias-first-gan-power-ics/">Cyient Launches India’s First GaN Power ICs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Renesas’ End-to-End Power Solutions for AI Data Centers](https://www.powerelectronicsnews.com/renesas-end-to-end-power-solutions-for-ai-data-centers/)
-**Published:** Wed, 13 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_1207674120.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>Renesas presents end-to-end power solutions for AI data centers as HVDC architectures replace conventional 48V distribution.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/renesas-end-to-end-power-solutions-for-ai-data-centers/">Renesas&#8217; End-to-End Power Solutions for AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Empower Semiconductor’s integrated voltage regulators (IVRs) can be placed directly inside an AI processor package.</p>
+<p>The post <a href="https://www.eetimes.com/adi-to-acquire-empower-to-join-data-centers-power-gold-rush/">ADI to Acquire IVR Tech to Join Data Center’s Power Gold Rush</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -927,14 +935,6 @@ _Last updated: 2026-05-19 12:51 UTC_
 
 <p>Strategic deal brings Dutch lithography giant's technology to Gujarat facility.</p>
 <p>The post <a href="https://www.eetimes.com/asml-tata-electronics-partner-for-indias-first-300-mm-semiconductor-fab/">ASML, Tata Electronics Partner for India&#8217;s First 300-mm Semiconductor Fab</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Automakers Face Memory Shock as AI Uses Up Semiconductor Supply](https://www.eetimes.com/automakers-face-memory-shock-as-ai-uses-up-semiconductor-supply/)
-**Published:** Thu, 14 May 2026 20:00:00 +0000
-
-<p>Automakers face a severe memory shortage as AI infrastructure dominates semiconductor supply. </p>
-<p>The post <a href="https://www.eetimes.com/automakers-face-memory-shock-as-ai-uses-up-semiconductor-supply/">Automakers Face Memory Shock as AI Uses Up Semiconductor Supply</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
