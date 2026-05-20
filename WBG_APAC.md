@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-20 00:19 UTC_
+_Last updated: 2026-05-20 05:18 UTC_
+
+## [Analog Devices to Acquire Empower Semiconductor](https://www.eetasia.com/analog-devices-to-acquire-empower-semiconductor/)
+**Published:** Wed, 20 May 2026 02:53:30 +0000
+
+<p>Analog Devices is strengthening its high-density power portfolio by acquiring Empower in an all-cash transaction for $1.5 billion.</p>
+<p>The post <a href="https://www.eetasia.com/analog-devices-to-acquire-empower-semiconductor/">Analog Devices to Acquire Empower Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [DEEPX Partners with Ultralytics to Define Global Standard for Physical AI](https://www.eetasia.com/deepx-partners-with-ultralytics-to-define-global-standard-for-physical-ai/)
 **Published:** Tue, 19 May 2026 02:53:42 +0000
@@ -15,14 +23,6 @@ _Last updated: 2026-05-20 00:19 UTC_
 
 <p>Variscite will be launching a new SMARC-compatible SoM integrating NXP Semiconductors' i.MX 95 applications processor.</p>
 <p>The post <a href="https://www.eetasia.com/variscite-to-launch-nxp-i-mx-95-based-som-product-family/">Variscite to Launch NXP i.MX 95-based SoM Product Family</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [AMI Acquisition Marks Lattice’s Strategic Pivot to Firmware World](https://www.eetasia.com/ami-acquisition-marks-lattices-strategic-pivot-to-firmware-world/)
-**Published:** Tue, 19 May 2026 02:21:03 +0000
-
-<p>Lattice Semiconductor has acquired AMI to combine its low-power FPGAs with open-source firmware platforms.</p>
-<p>The post <a href="https://www.eetasia.com/ami-acquisition-marks-lattices-strategic-pivot-to-firmware-world/">AMI Acquisition Marks Lattice&#8217;s Strategic Pivot to Firmware World</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -938,19 +938,19 @@ _Last updated: 2026-05-20 00:19 UTC_
 
 ---
 
+## [Modelithics adds Guerrilla RF GaN models](https://www.electronicsweekly.com/news/business/modelithics-adds-guerrilla-rf-gan-models-2026-05/)
+**Published:** Wed, 20 May 2026 05:11:25 +0000
+
+<p>Modelithics, the  RF and microwave simulation model specialist, has added new high-power GaN models from Guerrilla RF, developed through Guerrilla’s collaboration with Modelithics via the Sponsoring MVP (Modelithics Vendor Partner) ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/modelithics-adds-guerrilla-rf-gan-models-2026-05/">Modelithics adds Guerrilla RF GaN models</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Mouser signs EPC](https://www.electronicsweekly.com/news/business/mouser-signs-epc-2026-05/)
 **Published:** Tue, 19 May 2026 05:20:00 +0000
 
 <p>Mouser has signed a global distribution agreement with Efficient Power Conversion (EPC) a  leader in eGaN-based power solutions, offering GaN devices spanning 15 V to 350 V. The agreement is ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/mouser-signs-epc-2026-05/">Mouser signs EPC</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Ultra-compact FXO imaging system supports 4-Channel CoaXPress-12](https://www.electronicsweekly.com/news/products/sensors-products/ultra-compact-fxo-imaging-system-supports-4-channel-coaxpress-12-2026-05/)
-**Published:** Mon, 18 May 2026 14:52:31 +0000
-
-<p>Allied Vision is releasing its ultra-compact FXO camera series with 4-Channel CoaXPress-12 interfaces. They are high-end machine vision cameras. Possible applications include electronics and semiconductor production. For example, for 2D/3D ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/sensors-products/ultra-compact-fxo-imaging-system-supports-4-channel-coaxpress-12-2026-05/">Ultra-compact FXO imaging system supports 4-Channel CoaXPress-12</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
