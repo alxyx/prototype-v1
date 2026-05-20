@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-20 05:18 UTC_
+_Last updated: 2026-05-20 09:47 UTC_
 
 ## [Analog Devices to Acquire Empower Semiconductor](https://www.eetasia.com/analog-devices-to-acquire-empower-semiconductor/)
 **Published:** Wed, 20 May 2026 02:53:30 +0000
@@ -938,19 +938,26 @@ _Last updated: 2026-05-20 05:18 UTC_
 
 ---
 
+## [ADI buys Empower Semi for $1.5bn](https://www.electronicsweekly.com/news/business/adi-buys-empower-semi-for-1-5bn-2026-05/)
+**Published:** Wed, 20 May 2026 05:24:27 +0000
+
+<p>ADI is to buy privately held Empower Semiconductor for $1.5 billion. “AI infrastructure is fundamentally reshaping how power must be delivered, with energy now the most persistent constraint to scaling ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/adi-buys-empower-semi-for-1-5bn-2026-05/">ADI buys Empower Semi for $1.5bn</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Modelithics adds Guerrilla RF GaN models](https://www.electronicsweekly.com/news/business/modelithics-adds-guerrilla-rf-gan-models-2026-05/)
 **Published:** Wed, 20 May 2026 05:11:25 +0000
 
-<p>Modelithics, the  RF and microwave simulation model specialist, has added new high-power GaN models from Guerrilla RF, developed through Guerrilla’s collaboration with Modelithics via the Sponsoring MVP (Modelithics Vendor Partner) ...</p>
+<p>Modelithics, the RF and microwave simulation model specialist, has added new high-power GaN models from Guerrilla RF, developed through Guerrilla’s collaboration with Modelithics via the Sponsoring MVP (Modelithics Vendor Partner) ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/modelithics-adds-guerrilla-rf-gan-models-2026-05/">Modelithics adds Guerrilla RF GaN models</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Mouser signs EPC](https://www.electronicsweekly.com/news/business/mouser-signs-epc-2026-05/)
-**Published:** Tue, 19 May 2026 05:20:00 +0000
+## [GaN-Based Three-Phase Power Reference Design](https://www.electronicsforu.com/electronics-projects/gan-based-three-phase-power-reference-design)
+**Published:** Tue, 19 May 2026 12:17:30 +0000
 
-<p>Mouser has signed a global distribution agreement with Efficient Power Conversion (EPC) a  leader in eGaN-based power solutions, offering GaN devices spanning 15 V to 350 V. The agreement is ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/mouser-signs-epc-2026-05/">Mouser signs EPC</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/tida-010957-design-board-top-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if three-phase power conversion could become smaller and reach nearly 99% efficiency while enabling bidirectional energy flow and grid support? TIDA-010957 is a reference design from Texas Instruments (TI) that provides design engineers with a validated framework for developing high-density three-phase power conversion systems using a three-level flying capacitor Gallium Nitride (GaN) topology. The [&#8230;]
 
 ---
 
