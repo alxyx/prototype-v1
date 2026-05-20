@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-20 09:47 UTC_
+_Last updated: 2026-05-20 22:06 UTC_
 
 ## [Analog Devices to Acquire Empower Semiconductor](https://www.eetasia.com/analog-devices-to-acquire-empower-semiconductor/)
 **Published:** Wed, 20 May 2026 02:53:30 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-05-20 09:47 UTC_
 
 <p>Variscite will be launching a new SMARC-compatible SoM integrating NXP Semiconductors' i.MX 95 applications processor.</p>
 <p>The post <a href="https://www.eetasia.com/variscite-to-launch-nxp-i-mx-95-based-som-product-family/">Variscite to Launch NXP i.MX 95-based SoM Product Family</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [2026 IEEE Electronic Components and Technology Conference (ECTC) To Showcase the Latest Electronic Packaging Technologies](https://www.semiconductor-digest.com/2026-ieee-electronic-components-and-technology-conference-ectc-to-showcase-the-latest-electronic-packaging-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=2026-ieee-electronic-components-and-technology-conference-ectc-to-showcase-the-latest-electronic-packaging-technologies)
+**Published:** Wed, 20 May 2026 16:46:22 +0000
+
+<p>The 76th annual IEEE Electronic Components and Technology Conference (ECTC) will be held from May 26-29, 2026 at the JW Marriott &#038; The Ritz-Carlton Grande Lakes Resort, Orlando, Florida.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/2026-ieee-electronic-components-and-technology-conference-ectc-to-showcase-the-latest-electronic-packaging-technologies/">2026 IEEE Electronic Components and Technology Conference (ECTC) To Showcase the Latest Electronic Packaging Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [PFlow Industries Highlights VRCs for Semiconductor Manufacturing Environments](https://www.semiconductor-digest.com/pflow-industries-highlights-vrcs-for-semiconductor-manufacturing-environments-2/?utm_source=rss&utm_medium=rss&utm_campaign=pflow-industries-highlights-vrcs-for-semiconductor-manufacturing-environments-2)
+**Published:** Wed, 20 May 2026 16:42:16 +0000
+
+<p>PFlow Industries, the pioneer in vertical reciprocating conveyor (VRC) technology, highlights its VRCs, including the M Series and F Series, for the semiconductor industry.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/pflow-industries-highlights-vrcs-for-semiconductor-manufacturing-environments-2/">PFlow Industries Highlights VRCs for Semiconductor Manufacturing Environments</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Chips Act II: European Start-ups Need Faster Funding and Less Red Tape, Investor Says](https://www.semiconductor-digest.com/chips-act-ii-european-start-ups-need-faster-funding-and-less-red-tape-investor-says/?utm_source=rss&utm_medium=rss&utm_campaign=chips-act-ii-european-start-ups-need-faster-funding-and-less-red-tape-investor-says)
+**Published:** Wed, 20 May 2026 16:39:02 +0000
+
+<p>The lack of growth-stage capital and slow commercialisation remain key issues for European start-ups in semiconductors, quantum and other deep tech sectors.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/chips-act-ii-european-start-ups-need-faster-funding-and-less-red-tape-investor-says/">Chips Act II: European Start-ups Need Faster Funding and Less Red Tape, Investor Says</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Texas Tech Receives $4.5 Million Grant to Advance Semiconductor Research](https://www.semiconductor-digest.com/texas-tech-receives-4-5-million-grant-to-advance-semiconductor-research/?utm_source=rss&utm_medium=rss&utm_campaign=texas-tech-receives-4-5-million-grant-to-advance-semiconductor-research)
+**Published:** Wed, 20 May 2026 16:33:40 +0000
+
+<p>Engineering faculty will pursue development of wide/ultrawide bandgap semiconductors for use in harsh environments, to improve communications and more.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/texas-tech-receives-4-5-million-grant-to-advance-semiconductor-research/">Texas Tech Receives $4.5 Million Grant to Advance Semiconductor Research</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,35 +826,19 @@ _Last updated: 2026-05-20 09:47 UTC_
 
 ---
 
-## [Bosch Introduces Third Generation of SiC Chips](https://www.semiconductor-digest.com/bosch-introduces-third-generation-of-sic-chips/?utm_source=rss&utm_medium=rss&utm_campaign=bosch-introduces-third-generation-of-sic-chips)
-**Published:** Wed, 22 Apr 2026 18:47:18 +0000
+## [Power Electronics Course with QSPICE (Episode 10): Linear Variable Power Supply](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-10-linear-variable-power-supply/)
+**Published:** Wed, 20 May 2026 13:00:00 +0000
 
-<p>Chips made of silicon carbide (SiC) are the key to making electric cars more efficient and increasing their range. Bosch has now taken the development of these chips to the next level: the company has started to introduce third-generation silicon carbide chips and is supplying samples to global automakers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/bosch-introduces-third-generation-of-sic-chips/">Bosch Introduces Third Generation of SiC Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CMC F2F & Joint Session Highlights Evolving Strategies for Supply Chain Resilience](https://www.semiconductor-digest.com/cmc-f2f-joint-session-highlights-evolving-strategies-for-supply-chain-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=cmc-f2f-joint-session-highlights-evolving-strategies-for-supply-chain-resilience)
-**Published:** Wed, 22 Apr 2026 18:44:38 +0000
-
-<p>The Critical Materials Council (CMC) convened its semiconductor Fabs F2F Meeting on April 13, followed by a Joint Session hosted at Analog Devices on April 14.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cmc-f2f-joint-session-highlights-evolving-strategies-for-supply-chain-resilience/">CMC F2F &#038; Joint Session Highlights Evolving Strategies for Supply Chain Resilience</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/figure-00-power-course-1.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>Configuring a power BJT as an emitter follower enables variable voltage output with straightforward but energy-inefficient analog regulation.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-10-linear-variable-power-supply/">Power Electronics Course with QSPICE (Episode 10): Linear Variable Power Supply</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [SEMI’s ASMC Event Spotlights Practical Strategies for Overcoming Today’s Biggest Semiconductor Manufacturing Challenges](https://www.semiconductor-digest.com/semis-asmc-event-spotlights-practical-strategies-for-overcoming-todays-biggest-semiconductor-manufacturing-challenges/?utm_source=rss&utm_medium=rss&utm_campaign=semis-asmc-event-spotlights-practical-strategies-for-overcoming-todays-biggest-semiconductor-manufacturing-challenges)
-**Published:** Wed, 22 Apr 2026 18:38:23 +0000
+## [Enphase Enters the SST Race With GaN BDS-Based Distributed Power Platform](https://www.powerelectronicsnews.com/enphase-enters-the-sst-race-with-gan-bds-based-distributed-power-platform/)
+**Published:** Wed, 20 May 2026 13:00:00 +0000
 
-<p>SEMI today announced the program for its 37th annual Advanced Semiconductor Manufacturing Conference (ASMC), taking place from May 11-14 in Albany, New York.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semis-asmc-event-spotlights-practical-strategies-for-overcoming-todays-biggest-semiconductor-manufacturing-challenges/">SEMI&#8217;s ASMC Event Spotlights Practical Strategies for Overcoming Today’s Biggest Semiconductor Manufacturing Challenges</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Siemens Collaborates with TSMC to Advance AI for Semiconductor Design](https://www.semiconductor-digest.com/siemens-collaborates-with-tsmc-to-advance-ai-for-semiconductor-design/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-collaborates-with-tsmc-to-advance-ai-for-semiconductor-design)
-**Published:** Wed, 22 Apr 2026 18:36:35 +0000
-
-<p>Siemens today announced the continuation of collaboration with TSMC to drive innovation in AI-powered automation and advanced semiconductor design enablement.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-collaborates-with-tsmc-to-advance-ai-for-semiconductor-design/">Siemens Collaborates with TSMC to Advance AI for Semiconductor Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4896" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_618317497.jpeg?fit=8736%2C4896" style="display: block; margin-bottom: 5px; clear: both;" width="8736" /><p>Enphase is leveraging its GaN BDS expertise and 90 million microinverters of field data to challenge SiC-based rivals in the emerging SST market.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/enphase-enters-the-sst-race-with-gan-bds-based-distributed-power-platform/">Enphase Enters the SST Race With GaN BDS-Based Distributed Power Platform </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -890,22 +906,6 @@ _Last updated: 2026-05-20 09:47 UTC_
 
 ---
 
-## [Power Corner: iDEAL’s SuperQ Tapping Si’s Potential Beyond Superjunction](https://www.powerelectronicsnews.com/power-corner-ideals-superq-tapping-sis-potential-beyond-superjunction/)
-**Published:** Thu, 14 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/iDEAL-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>iDEAL Semiconductor's SuperQ replaces P-N pillars with high-K dielectric trenches to redefine silicon MOSFET cost-performance.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-ideals-superq-tapping-sis-potential-beyond-superjunction/">Power Corner: iDEAL’s SuperQ Tapping Si&#8217;s Potential Beyond Superjunction</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Rethinking Superjunction’s Charge-Compensation Architecture with SuperQ](https://www.powerelectronicsnews.com/rethinking-superjunctions-charge-compensation-architecture-with-superq/)
-**Published:** Thu, 14 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4016" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_148551057.jpeg?fit=6016%2C4016" style="display: block; margin-bottom: 5px; clear: both;" width="6016" /><p>SuperQ uses a nanometer-thin high-K dielectric film to rethink charge compensation in silicon power MOSFETs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/rethinking-superjunctions-charge-compensation-architecture-with-superq/">Rethinking Superjunction&#8217;s Charge-Compensation Architecture with SuperQ </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [ADI to Acquire IVR Tech to Join Data Center’s Power Gold Rush](https://www.eetimes.com/adi-to-acquire-empower-to-join-data-centers-power-gold-rush/)
 **Published:** Tue, 19 May 2026 13:26:54 +0000
 
@@ -938,33 +938,17 @@ _Last updated: 2026-05-20 09:47 UTC_
 
 ---
 
-## [ADI buys Empower Semi for $1.5bn](https://www.electronicsweekly.com/news/business/adi-buys-empower-semi-for-1-5bn-2026-05/)
-**Published:** Wed, 20 May 2026 05:24:27 +0000
+## [Hardware Assembly Intern – Wire Harnessing At Vir Innovations In Hyderabad](https://www.electronicsforu.com/career/hardware-assembly-intern-wire-harnessing-vir-innovations-hyderabad)
+**Published:** Wed, 20 May 2026 08:52:15 +0000
 
-<p>ADI is to buy privately held Empower Semiconductor for $1.5 billion. “AI infrastructure is fundamentally reshaping how power must be delivered, with energy now the most persistent constraint to scaling ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/adi-buys-empower-semi-for-1-5bn-2026-05/">ADI buys Empower Semi for $1.5bn</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Modelithics adds Guerrilla RF GaN models](https://www.electronicsweekly.com/news/business/modelithics-adds-guerrilla-rf-gan-models-2026-05/)
-**Published:** Wed, 20 May 2026 05:11:25 +0000
-
-<p>Modelithics, the RF and microwave simulation model specialist, has added new high-power GaN models from Guerrilla RF, developed through Guerrilla’s collaboration with Modelithics via the Sponsoring MVP (Modelithics Vendor Partner) ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/modelithics-adds-guerrilla-rf-gan-models-2026-05/">Modelithics adds Guerrilla RF GaN models</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/Job1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Hyderabad Company: Vir Innovations Eligibility &#38; Role Details Important Note This is a purely hands-on hardware role involving physical assembly and wiring work. Not suitable for: • Software-only candidates (Programming, Web, App, Data Science, etc.) • Candidates expecting design-only or desk-based roles.
 
 ---
 
-## [GaN-Based Three-Phase Power Reference Design](https://www.electronicsforu.com/electronics-projects/gan-based-three-phase-power-reference-design)
-**Published:** Tue, 19 May 2026 12:17:30 +0000
+## [Safer power delivery for AI systems](https://www.electronicsforu.com/news/safer-power-delivery-for-ai-systems)
+**Published:** Wed, 20 May 2026 07:13:29 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/tida-010957-design-board-top-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if three-phase power conversion could become smaller and reach nearly 99% efficiency while enabling bidirectional energy flow and grid support? TIDA-010957 is a reference design from Texas Instruments (TI) that provides design engineers with a validated framework for developing high-density three-phase power conversion systems using a three-level flying capacitor Gallium Nitride (GaN) topology. The [&#8230;]
-
----
-
-## [India gets new high-efficiency power chips](https://www.electronicsforu.com/news/india-gets-new-high-efficiency-power-chips)
-**Published:** Tue, 19 May 2026 07:47:03 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/banner-main-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Power devices for charging, AI servers, telecom networks, and EV systems have been launched with a focus on lower energy loss and smaller electronics. Cyient Semiconductors has introduced seven gallium nitride (GaN) power devices for the Indian market, marking the company’s entry into commercial GaN products and expanding India’s domestic power semiconductor capabilities. The devices, [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/AOS_53228QI_No-txt_1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A power device can help protect AI servers and GPUs from damage caused by sudden power spikes in high-performance computing systems. Alpha and Omega Semiconductor Limited has introduced its SmartClamp protected DrMOS family to improve power-stage protection in high-current environments such as AI servers, data centers, and high-end GPUs. The devices are designed to prevent [&#8230;]
 
 ---
 
