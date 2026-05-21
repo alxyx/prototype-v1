@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-20 22:06 UTC_
+_Last updated: 2026-05-21 20:17 UTC_
+
+## [imec Unveils Quantum Dot Qubit Device Using High NA EUV Lithography](https://www.eetasia.com/imec-unveils-quantum-dot-qubit-device-using-high-na-euv-lithography/)
+**Published:** Thu, 21 May 2026 02:20:13 +0000
+
+<p>imec's achievement marks a milestone toward the industrial scaling of more reliable qubits, the basic computational units of quantum computers.</p>
+<p>The post <a href="https://www.eetasia.com/imec-unveils-quantum-dot-qubit-device-using-high-na-euv-lithography/">imec Unveils Quantum Dot Qubit Device Using High NA EUV Lithography</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Analog Devices to Acquire Empower Semiconductor](https://www.eetasia.com/analog-devices-to-acquire-empower-semiconductor/)
 **Published:** Wed, 20 May 2026 02:53:30 +0000
@@ -10,19 +18,67 @@ _Last updated: 2026-05-20 22:06 UTC_
 
 ---
 
-## [DEEPX Partners with Ultralytics to Define Global Standard for Physical AI](https://www.eetasia.com/deepx-partners-with-ultralytics-to-define-global-standard-for-physical-ai/)
-**Published:** Tue, 19 May 2026 02:53:42 +0000
+## [Toward Power-Generating Displays: A Single Device That Harvests And Emits Light](https://www.semiconductor-digest.com/toward-power-generating-displays-a-single-device-that-harvests-and-emits-light/?utm_source=rss&utm_medium=rss&utm_campaign=toward-power-generating-displays-a-single-device-that-harvests-and-emits-light)
+**Published:** Thu, 21 May 2026 19:57:32 +0000
 
-<p>DEEPX is partnering with Ultralytics, the company behind Ultralytics YOLO, to establish a unified global standard for Physical AI.</p>
-<p>The post <a href="https://www.eetasia.com/deepx-partners-with-ultralytics-to-define-global-standard-for-physical-ai/">DEEPX Partners with Ultralytics to Define Global Standard for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Researchers develop a promising organic semiconductor material for multifunctional electronic devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/toward-power-generating-displays-a-single-device-that-harvests-and-emits-light/">Toward Power-Generating Displays: A Single Device That Harvests And Emits Light</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Variscite to Launch NXP i.MX 95-based SoM Product Family](https://www.eetasia.com/variscite-to-launch-nxp-i-mx-95-based-som-product-family/)
-**Published:** Tue, 19 May 2026 02:41:41 +0000
+## [Analog Devices to Acquire Empower Semiconductor](https://www.semiconductor-digest.com/analog-devices-to-acquire-empower-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=analog-devices-to-acquire-empower-semiconductor)
+**Published:** Thu, 21 May 2026 19:47:00 +0000
 
-<p>Variscite will be launching a new SMARC-compatible SoM integrating NXP Semiconductors' i.MX 95 applications processor.</p>
-<p>The post <a href="https://www.eetasia.com/variscite-to-launch-nxp-i-mx-95-based-som-product-family/">Variscite to Launch NXP i.MX 95-based SoM Product Family</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Analog Devices, Inc. and Empower Semiconductor today announced that they have entered into a definitive agreement under which ADI will acquire Empower in an all-cash transaction for $1.5 billion.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/analog-devices-to-acquire-empower-semiconductor/">Analog Devices to Acquire Empower Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [IBM and U.S. Department of Commerce Announce America’s First Purpose-Built Quantum Foundry, Supported by Proposed $1 Billion CHIPS Award](https://www.semiconductor-digest.com/ibm-and-u-s-department-of-commerce-announce-americas-first-purpose-built-quantum-foundry-supported-by-proposed-1-billion-chips-award/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-and-u-s-department-of-commerce-announce-americas-first-purpose-built-quantum-foundry-supported-by-proposed-1-billion-chips-award)
+**Published:** Thu, 21 May 2026 19:29:08 +0000
+
+<p>Today, IBM and the U.S. Department of Commerce (DoC) announced a Letter of Intent (LOI) to build an American quantum chip foundry, securing the nation's global quantum leadership and fueling the country's growing quantum ecosystem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ibm-and-u-s-department-of-commerce-announce-americas-first-purpose-built-quantum-foundry-supported-by-proposed-1-billion-chips-award/">IBM and U.S. Department of Commerce Announce America&#8217;s First Purpose-Built Quantum Foundry, Supported by Proposed $1 Billion CHIPS Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Axion Semiconductor Acquires Moov Technologies](https://www.semiconductor-digest.com/axion-semiconductor-acquires-moov-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=axion-semiconductor-acquires-moov-technologies)
+**Published:** Thu, 21 May 2026 19:24:48 +0000
+
+<p>Axion Semiconductor, founded by semiconductor industry leaders Austin Gill, John Getchell and Jeff Robbins, acquires global semiconductor equipment marketplace Moov Technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/axion-semiconductor-acquires-moov-technologies/">Axion Semiconductor Acquires Moov Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Applied Energy Systems Receives Supplier Excellence Award from Applied Materials](https://www.semiconductor-digest.com/applied-energy-systems-receives-supplier-excellence-award-from-applied-materials/?utm_source=rss&utm_medium=rss&utm_campaign=applied-energy-systems-receives-supplier-excellence-award-from-applied-materials)
+**Published:** Thu, 21 May 2026 19:15:10 +0000
+
+<p>Applied Energy Systems has earned a Supplier Excellence Award from Applied Materials, Inc., the leader in materials engineering solutions for the semiconductor industry.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applied-energy-systems-receives-supplier-excellence-award-from-applied-materials/">Applied Energy Systems Receives Supplier Excellence Award from Applied Materials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Asahi Kasei Develops Novel Photosensitive Polyimide Film for Advanced Panel-Level Semiconductor Packaging](https://www.semiconductor-digest.com/asahi-kasei-develops-novel-photosensitive-polyimide-film-for-advanced-panel-level-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=asahi-kasei-develops-novel-photosensitive-polyimide-film-for-advanced-panel-level-semiconductor-packaging)
+**Published:** Thu, 21 May 2026 19:10:53 +0000
+
+<p>Panel-level packaging has gained momentum in the semiconductor industry as manufacturers pursue higher efficiency and improved yield that can support next-generation packaging processes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/asahi-kasei-develops-novel-photosensitive-polyimide-film-for-advanced-panel-level-semiconductor-packaging/">Asahi Kasei Develops Novel Photosensitive Polyimide Film for Advanced Panel-Level Semiconductor Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Omdia: Small-Sized Automotive AMOLED Shipments to Reach 1.5 Million Units by 2030, Growing 541%](https://www.semiconductor-digest.com/omdia-small-sized-automotive-amoled-shipments-to-reach-1-5-million-units-by-2030-growing-541/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-small-sized-automotive-amoled-shipments-to-reach-1-5-million-units-by-2030-growing-541)
+**Published:** Thu, 21 May 2026 18:56:58 +0000
+
+<p>Small-sized automotive AMOLED display shipments (under 5 inches) are expected to reach 1.5 million units by 2030, growing 541% versus 2025, according to new research from Omdia.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-small-sized-automotive-amoled-shipments-to-reach-1-5-million-units-by-2030-growing-541/">Omdia: Small-Sized Automotive AMOLED Shipments to Reach 1.5 Million Units by 2030, Growing 541%</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Mark Rossman of Cadence Wins Si2 Pinnacle Award﻿](https://www.semiconductor-digest.com/mark-rossman-of-cadence-wins-si2-pinnacle-award/?utm_source=rss&utm_medium=rss&utm_campaign=mark-rossman-of-cadence-wins-si2-pinnacle-award)
+**Published:** Thu, 21 May 2026 18:54:41 +0000
+
+<p>Si2 today announced its recognition of Mark Rossman for his contributions to the OpenAccess Coalition.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/mark-rossman-of-cadence-wins-si2-pinnacle-award/">Mark Rossman of Cadence Wins Si2 Pinnacle Award﻿</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -762,67 +818,43 @@ _Last updated: 2026-05-20 22:06 UTC_
 
 ---
 
-## [Semiconductor Growth Will Stall Without a Real Talent Strategy](https://www.semiconductor-digest.com/semiconductor-growth-will-stall-without-a-real-talent-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-growth-will-stall-without-a-real-talent-strategy)
-**Published:** Fri, 24 Apr 2026 14:14:45 +0000
+## [Navitas Unveils AI Data Center and Grid Power Technologies at PCIM 2026](https://www.powerelectronicsnews.com/navitas-unveils-ai-data-center-and-grid-power-technologies-at-pcim-2026/)
+**Published:** Thu, 21 May 2026 16:00:00 +0000
 
-<p>The demand for semiconductor engineers and specialized technical professionals is rising sharply — and in many organizations, it is rising faster than training pipelines and hiring systems can support.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-growth-will-stall-without-a-real-talent-strategy/">Semiconductor Growth Will Stall Without a Real Talent Strategy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Five AI and Semiconductor Trends to Watch](https://www.semiconductor-digest.com/five-ai-and-semiconductor-trends-to-watch/?utm_source=rss&utm_medium=rss&utm_campaign=five-ai-and-semiconductor-trends-to-watch)
-**Published:** Fri, 24 Apr 2026 14:10:33 +0000
-
-<p>Demand for new processors is driven by maturing AI workloads, geopolitics, and increased competition among key players.  </p>
-<p>The post <a href="https://www.semiconductor-digest.com/five-ai-and-semiconductor-trends-to-watch/">Five AI and Semiconductor Trends to Watch</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Navitas Unveils AI Data Center and Grid Power Technologies at PCIM 2026." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/PR-PCIM-2026-d4-1.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>Navitas will highlight GaN and SiC technologies for AI data centers, smart grids, and industrial electrification at PCIM 2026.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/navitas-unveils-ai-data-center-and-grid-power-technologies-at-pcim-2026/">Navitas Unveils AI Data Center and Grid Power Technologies at PCIM 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Why “Enough” May Not Be Enough](https://www.semiconductor-digest.com/why-enough-may-not-be-enough/?utm_source=rss&utm_medium=rss&utm_campaign=why-enough-may-not-be-enough)
-**Published:** Fri, 24 Apr 2026 13:18:20 +0000
+## [Diodes Incorporated Expands Automotive Hall-Effect Latch Family](https://www.powerelectronicsnews.com/diodes-incorporated-expands-automotive-hall-effect-latch-family/)
+**Published:** Thu, 21 May 2026 16:00:00 +0000
 
-<p>As semiconductor manufacturers expand production and accelerate efforts to reduce their environmental footprint, greenhouse gas (GHG) abatement performance is no longer just a compliance requirement but an increasingly strategic lever in meeting net-zero commitments. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/why-enough-may-not-be-enough/">Why “Enough” May Not Be Enough</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Cadence Collaborates with TSMC to Accelerate Design of Next-Generation AI Silicon](https://www.semiconductor-digest.com/cadence-collaborates-with-tsmc-to-accelerate-design-of-next-generation-ai-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-collaborates-with-tsmc-to-accelerate-design-of-next-generation-ai-silicon)
-**Published:** Thu, 23 Apr 2026 15:45:01 +0000
-
-<p>Expanding partnership enables Cadence’s Design for AI and AI for Design strategy across TSMC’s N3, N2, A16 and A14 process nodes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cadence-collaborates-with-tsmc-to-accelerate-design-of-next-generation-ai-silicon/">Cadence Collaborates with TSMC to Accelerate Design of Next-Generation AI Silicon</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Diodes Incorporated Expands Automotive Hall Effect Latch Family." class="webfeedsFeaturedVisual wp-post-image" height="690" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/DIO1132_image_AH3711Q.jpg?fit=900%2C690" style="display: block; margin-bottom: 5px; clear: both;" width="900" /><p>The new automotive Hall-effect latch improves low-field position sensing while reducing magnet size and power consumption.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/diodes-incorporated-expands-automotive-hall-effect-latch-family/">Diodes Incorporated Expands Automotive Hall-Effect Latch Family</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Scientists Create Atomically Precise Molecular Chains to Power Next Generation Tech](https://www.semiconductor-digest.com/scientists-create-atomically-precise-molecular-chains-to-power-next-generation-tech/?utm_source=rss&utm_medium=rss&utm_campaign=scientists-create-atomically-precise-molecular-chains-to-power-next-generation-tech)
-**Published:** Thu, 23 Apr 2026 15:41:36 +0000
+## [Power Corner: Adiabatic Charge Pumps and pSemi’s Fast Charging Strategy—Laurence McGarry, pSemi](https://www.powerelectronicsnews.com/power-corner-adiabatic-charge-pumps-and-psemis-fast-charging-strategy-laurence-mcgarry-psemi/)
+**Published:** Thu, 21 May 2026 13:00:00 +0000
 
-<p>Scientists have developed a unique way to build electronic components so small they are made from chains of individual molecules - creating a toolbox to help build materials that could power the next generation of technology.  </p>
-<p>The post <a href="https://www.semiconductor-digest.com/scientists-create-atomically-precise-molecular-chains-to-power-next-generation-tech/">Scientists Create Atomically Precise Molecular Chains to Power Next Generation Tech</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Applied Materials Introduces Deposition Systems for Angstrom-Era Logic Chips](https://www.semiconductor-digest.com/applied-materials-introduces-deposition-systems-for-angstrom-era-logic-chips/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-introduces-deposition-systems-for-angstrom-era-logic-chips)
-**Published:** Thu, 23 Apr 2026 15:37:41 +0000
-
-<p>Applied Materials, Inc. today introduced two chipmaking systems designed to create the smallest features in the world’s most advanced logic chips.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-introduces-deposition-systems-for-angstrom-era-logic-chips/">Applied Materials Introduces Deposition Systems for Angstrom-Era Logic Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/pSemi-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>pSemi's Laurence McGarry breaks down adiabatic switching and the company's IP portfolio in power conversion.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-adiabatic-charge-pumps-and-psemis-fast-charging-strategy-laurence-mcgarry-psemi/">Power Corner: Adiabatic Charge Pumps and pSemi&#8217;s Fast Charging Strategy—Laurence McGarry, pSemi</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Omdia Raises 2026 Semiconductor Forecast to 62.7% as AI Drives Global Memory Crunch](https://www.semiconductor-digest.com/omdia-raises-2026-semiconductor-forecast-to-62-7-as-ai-drives-global-memory-crunch/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-raises-2026-semiconductor-forecast-to-62-7-as-ai-drives-global-memory-crunch)
-**Published:** Thu, 23 Apr 2026 15:28:41 +0000
+## [The Adapter Fragmentation Problem and pSemi’s Adiabatic Charge Pump](https://www.powerelectronicsnews.com/the-adapter-fragmentation-problem-and-psemis-adiabatic-charge-pump/)
+**Published:** Thu, 21 May 2026 13:00:00 +0000
 
-<p>The DRAM market is forecast to nearly double in value, with the smaller NAND segment could quadruple compared to 2025.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-raises-2026-semiconductor-forecast-to-62-7-as-ai-drives-global-memory-crunch/">Omdia Raises 2026 Semiconductor Forecast to 62.7% as AI Drives Global Memory Crunch</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2948" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_198051301.jpeg?fit=7205%2C2948" style="display: block; margin-bottom: 5px; clear: both;" width="7205" /><p>pSemi's multi-level buck and resonant charge pump technology underpin adaptive fast-charging ICs and a new push into humanoid robotics.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-adapter-fragmentation-problem-and-psemis-adiabatic-charge-pump/">The Adapter Fragmentation Problem and pSemi’s Adiabatic Charge Pump</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Applied Materials Announces Advantest as Innovation Partner for EPIC Platform in Silicon Valley](https://www.semiconductor-digest.com/applied-materials-announces-advantest-as-innovation-partner-for-epic-platform-in-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-announces-advantest-as-innovation-partner-for-epic-platform-in-silicon-valley)
-**Published:** Wed, 22 Apr 2026 18:50:45 +0000
+## [ADI Expands AI Infrastructure Strategy With Empower Acquisition](https://www.powerelectronicsnews.com/adi-expands-ai-infrastructure-strategy-with-empower-acquisition/)
+**Published:** Thu, 21 May 2026 12:50:18 +0000
 
-<p>Companies will co-innovate to bridge the gap between front-end manufacturing and back-end testing of semiconductors and advanced packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-announces-advantest-as-innovation-partner-for-epic-platform-in-silicon-valley/">Applied Materials Announces Advantest as Innovation Partner for EPIC Platform in Silicon Valley</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1093357651.jpeg?fit=9294%2C5685" style="display: block; margin-bottom: 5px; clear: both;" width="9294" /><p>Analog Devices will acquire Empower Semiconductor to expand AI-focused high-density power and IVR technology capabilities.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/adi-expands-ai-infrastructure-strategy-with-empower-acquisition/">ADI Expands AI Infrastructure Strategy With Empower Acquisition</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -866,43 +898,11 @@ _Last updated: 2026-05-20 22:06 UTC_
 
 ---
 
-## [Asahi Kasei Expands EV Sensor Portfolio With CZ3K Series](https://www.powerelectronicsnews.com/asahi-kasei-expands-ev-sensor-portfolio-with-cz3k-series/)
-**Published:** Mon, 18 May 2026 14:00:00 +0000
+## [Gartner Urges Supply Chain Execs to Adopt Autonomous Business Strategies](https://www.eetimes.com/gartner-urges-supply-chain-execs-to-adopt-autonomous-business-strategies/)
+**Published:** Thu, 21 May 2026 13:45:28 +0000
 
-<img alt="Asahi Kasei Expands EV Sensor Portfolio With CZ3K Series." class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/s600-cz3k-series.jpeg?fit=600%2C600" style="display: block; margin-bottom: 5px; clear: both;" width="600" /><p>The new AKM EV current sensors support ±300A measurement with low resistance for compact high-power automotive systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/asahi-kasei-expands-ev-sensor-portfolio-with-cz3k-series/">Asahi Kasei Expands EV Sensor Portfolio With CZ3K Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TAIYO YUDEN Introduces Miniaturized Power Inductors](https://www.powerelectronicsnews.com/taiyo-yuden-introduces-miniaturized-power-inductors/)
-**Published:** Fri, 15 May 2026 15:00:00 +0000
-
-<img alt="TAIYO YUDEN Introduces Miniaturized Power Inductors." class="webfeedsFeaturedVisual wp-post-image" height="1479" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/TAIYTO_YUDEN_MCOIL_LSCN_series.jpg?fit=1972%2C1479" style="display: block; margin-bottom: 5px; clear: both;" width="1972" /><p>The new compact inductors reduce PCB footprint while maintaining high current handling for wearables and smartphones.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/taiyo-yuden-introduces-miniaturized-power-inductors/">TAIYO YUDEN Introduces Miniaturized Power Inductors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [SiC JFETs in Solid-State Circuit Breakers, Humanoid Robotics, SuperQ’s New Architecture: Power Electronics Week Insights](https://www.powerelectronicsnews.com/sic-jfets-in-solid-state-circuit-breakers-humanoid-robotics-superqs-new-architecture-power-electronics-week-insights/)
-**Published:** Fri, 15 May 2026 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on SiC JFETs in Solid-State Circuit Breakers, Humanoid Robotics, and SuperQ’s New Architecture!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/sic-jfets-in-solid-state-circuit-breakers-humanoid-robotics-superqs-new-architecture-power-electronics-week-insights/">SiC JFETs in Solid-State Circuit Breakers, Humanoid Robotics, SuperQ’s New Architecture: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Inductor Design for AI-Scale Power Density](https://www.powerelectronicsnews.com/inductor-design-for-ai-scale-power-density/)
-**Published:** Fri, 15 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="640" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/image_3efb1a.png?fit=640%2C640" style="display: block; margin-bottom: 5px; clear: both;" width="640" /><p>Flat wire inductors overcome the skin and proximity effects limiting round-wire designs in AI power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/inductor-design-for-ai-scale-power-density/">Inductor Design for AI-Scale Power Density</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Vishay Unveils Automotive-Grade 3000 W TVS Protection Devices](https://www.powerelectronicsnews.com/vishay-unveils-automotive-grade-3000-w-tvs-protection-devices/)
-**Published:** Thu, 14 May 2026 15:00:00 +0000
-
-<img alt="Vishay Unveils Automotive-Grade 3000 W TVS Protection Devices." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/55242203151_4d2287ff0e_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new TVS diodes combine 3000 W protection, compact packaging, and wettable flanks for automotive and industrial use.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vishay-unveils-automotive-grade-3000-w-tvs-protection-devices/">Vishay Unveils Automotive-Grade 3000 W TVS Protection Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>According to Gartner, 22% of organizations have introduced roles for autonomous business operations, a share expected to exceed 50% next year.</p>
+<p>The post <a href="https://www.eetimes.com/gartner-urges-supply-chain-execs-to-adopt-autonomous-business-strategies/">Gartner Urges Supply Chain Execs to Adopt Autonomous Business Strategies</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -930,11 +930,11 @@ _Last updated: 2026-05-20 22:06 UTC_
 
 ---
 
-## [ASML, Tata Electronics Partner for India’s First 300-mm Semiconductor Fab](https://www.eetimes.com/asml-tata-electronics-partner-for-indias-first-300-mm-semiconductor-fab/)
-**Published:** Mon, 18 May 2026 08:26:32 +0000
+## [Intel CEO looking beyond 18A and 14A to 10A and 7A](https://www.electronicsweekly.com/news/business/intel-ceo-looking-beyond-18a-and-14a-2026-05/)
+**Published:** Thu, 21 May 2026 05:30:56 +0000
 
-<p>Strategic deal brings Dutch lithography giant's technology to Gujarat facility.</p>
-<p>The post <a href="https://www.eetimes.com/asml-tata-electronics-partner-for-indias-first-300-mm-semiconductor-fab/">ASML, Tata Electronics Partner for India&#8217;s First 300-mm Semiconductor Fab</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Intel CEO Lip-Bu Tan is looking beyond the 18A and 14A processes to 10A and 7A, he told the JP Morgan Global Technology, Media and Communications Conference on Tuesday. “Now ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/intel-ceo-looking-beyond-18a-and-14a-2026-05/">Intel CEO looking beyond 18A and 14A to 10A and 7A</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
