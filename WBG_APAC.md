@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-22 11:58 UTC_
+_Last updated: 2026-05-22 17:22 UTC_
 
 ## [imec Unveils Quantum Dot Qubit Device Using High NA EUV Lithography](https://www.eetasia.com/imec-unveils-quantum-dot-qubit-device-using-high-na-euv-lithography/)
 **Published:** Thu, 21 May 2026 02:20:13 +0000
@@ -15,6 +15,46 @@ _Last updated: 2026-05-22 11:58 UTC_
 
 <p>Analog Devices is strengthening its high-density power portfolio by acquiring Empower in an all-cash transaction for $1.5 billion.</p>
 <p>The post <a href="https://www.eetasia.com/analog-devices-to-acquire-empower-semiconductor/">Analog Devices to Acquire Empower Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [AMD Announces More Than $10 Billion in Taiwan Ecosystem Investments to Accelerate AI Infrastructure](https://www.semiconductor-digest.com/amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure)
+**Published:** Fri, 22 May 2026 16:08:32 +0000
+
+<p>To meet the growing demand for AI infrastructure, AMD today announced more than $10 billion in investments across the Taiwan ecosystem to expand strategic partnerships and scale advanced packaging manufacturing for next-generation AI infrastructure.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure/">AMD Announces More Than $10 Billion in Taiwan Ecosystem Investments to Accelerate AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Micron Advances Made-in-America Memory With Manufacturing Expansion in Virginia](https://www.semiconductor-digest.com/micron-advances-made-in-america-memory-with-manufacturing-expansion-in-virginia/?utm_source=rss&utm_medium=rss&utm_campaign=micron-advances-made-in-america-memory-with-manufacturing-expansion-in-virginia)
+**Published:** Fri, 22 May 2026 16:01:11 +0000
+
+<p>Micron Technology, Inc. today is celebrating the start of 1α (1-alpha) DRAM manufacturing at its Manassas, Virginia, fab, an important step in the company's efforts to significantly expand U.S. memory manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-advances-made-in-america-memory-with-manufacturing-expansion-in-virginia/">Micron Advances Made-in-America Memory With Manufacturing Expansion in Virginia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Stressed Crystal Creates Nanoscale Patterns on Chip Materials at Room Temperature](https://www.semiconductor-digest.com/stressed-crystal-creates-nanoscale-patterns-on-chip-materials-at-room-temperature/?utm_source=rss&utm_medium=rss&utm_campaign=stressed-crystal-creates-nanoscale-patterns-on-chip-materials-at-room-temperature)
+**Published:** Fri, 22 May 2026 15:57:17 +0000
+
+<p>A new chip-making technique exploits a material’s crystal structure to create nanoscale patterns at room temperature directly onto hard materials used in devices, including silica.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/stressed-crystal-creates-nanoscale-patterns-on-chip-materials-at-room-temperature/">Stressed Crystal Creates Nanoscale Patterns on Chip Materials at Room Temperature</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [imec Presents Quantum Dot Qubit Device Using High NA EUV Lithography](https://www.semiconductor-digest.com/imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography/?utm_source=rss&utm_medium=rss&utm_campaign=imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography)
+**Published:** Fri, 22 May 2026 15:54:39 +0000
+
+<p>The most advanced lithography system, crucial for future advanced memory and computer chips, will play a key role in scaling up quantum technology.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography/">imec Presents Quantum Dot Qubit Device Using High NA EUV Lithography</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [World Micro Signs Distribution Agreement with Mobilint to Expand AI Semiconductor Solutions](https://www.semiconductor-digest.com/world-micro-signs-distribution-agreement-with-mobilint-to-expand-ai-semiconductor-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=world-micro-signs-distribution-agreement-with-mobilint-to-expand-ai-semiconductor-solutions)
+**Published:** Fri, 22 May 2026 15:48:57 +0000
+
+<p>World Micro, a global distributor of electronic components and supply chain solutions, is pleased to announce a new distribution agreement with Mobilint, a pioneering developer of AI accelerator chips.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/world-micro-signs-distribution-agreement-with-mobilint-to-expand-ai-semiconductor-solutions/">World Micro Signs Distribution Agreement with Mobilint to Expand AI Semiconductor Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -778,43 +818,43 @@ _Last updated: 2026-05-22 11:58 UTC_
 
 ---
 
-## [$7 Trillion in AI Mirage](https://www.semiconductor-digest.com/7-trillion-in-ai-mirage/?utm_source=rss&utm_medium=rss&utm_campaign=7-trillion-in-ai-mirage)
-**Published:** Mon, 27 Apr 2026 13:27:51 +0000
+## [ST Launches Enhanced Lithium Battery Management IC](https://www.powerelectronicsnews.com/st-launches-enhanced-lithium-battery-management-ic/)
+**Published:** Fri, 22 May 2026 16:00:00 +0000
 
-<p>The combination of recursive demand and physical constraints has transformed AI infrastructure into a sovereign utility.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/7-trillion-in-ai-mirage/">$7 Trillion in AI Mirage</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Orthodoxies of Semiconductor Factories (A review as seen by manufacturing science)](https://www.semiconductor-digest.com/orthodoxies-of-semiconductor-factories-a-review-as-seen-by-manufacturing-science/?utm_source=rss&utm_medium=rss&utm_campaign=orthodoxies-of-semiconductor-factories-a-review-as-seen-by-manufacturing-science)
-**Published:** Mon, 27 Apr 2026 13:22:34 +0000
-
-<p>Enabling dispatch systems with a complimentary infrastructure patch promises substantial re-ductions in manufacturing cycle times.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/orthodoxies-of-semiconductor-factories-a-review-as-seen-by-manufacturing-science/">Orthodoxies of Semiconductor Factories (A review as seen by manufacturing science)</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="ST Launches Enhanced Lithium Battery Management IC." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/N4777D-May-21-2026-L9963F-automotive-battery-management-IC_PR-IMAGE.jpg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>ST’s new L9963F battery-management IC improves safety, synchronization, and monitoring for EV battery systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-launches-enhanced-lithium-battery-management-ic/">ST Launches Enhanced Lithium Battery Management IC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [From Scarcity to Strength: Building Water Resilience in Chipmaking](https://www.semiconductor-digest.com/from-scarcity-to-strength-building-water-resilience-in-chipmaking/?utm_source=rss&utm_medium=rss&utm_campaign=from-scarcity-to-strength-building-water-resilience-in-chipmaking)
-**Published:** Mon, 27 Apr 2026 13:16:40 +0000
+## [Electrical Power Architecture of CubeSats and SmallSats](https://www.powerelectronicsnews.com/electrical-power-architecture-of-cubesats-and-smallsats/)
+**Published:** Fri, 22 May 2026 15:00:00 +0000
 
-<p>New research by Global Water Intelligence and Xylem reveals why water security is now a strategic priority for global chipmakers – and offers a fact-based framework to help the industry drive a shift towards greater water security.    </p>
-<p>The post <a href="https://www.semiconductor-digest.com/from-scarcity-to-strength-building-water-resilience-in-chipmaking/">From Scarcity to Strength: Building Water Resilience in Chipmaking</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [How the Quantum Computing Threat Will Reinforce Already Growing Security Needs](https://www.semiconductor-digest.com/how-the-quantum-computing-threat-will-reinforce-already-growing-security-needs/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-quantum-computing-threat-will-reinforce-already-growing-security-needs)
-**Published:** Fri, 24 Apr 2026 14:26:08 +0000
-
-<p>A sufficiently powerful quantum computer could break RSA using Shor’s algorithm, a mathematically proven method for factoring large integers. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/how-the-quantum-computing-threat-will-reinforce-already-growing-security-needs/">How the Quantum Computing Threat Will Reinforce Already Growing Security Needs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="582" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/image_0a859b.jpeg?fit=640%2C582" style="display: block; margin-bottom: 5px; clear: both;" width="640" /><p>CubeSat electrical power systems balance solar generation, battery management, and tight SWaP-C constraints in miniaturized spacecraft designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/electrical-power-architecture-of-cubesats-and-smallsats/">Electrical Power Architecture of CubeSats and SmallSats</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Why a Semiconductor Crisis Could Push the Public Sector to the Brink](https://www.semiconductor-digest.com/why-a-semiconductor-crisis-could-push-the-public-sector-to-the-brink/?utm_source=rss&utm_medium=rss&utm_campaign=why-a-semiconductor-crisis-could-push-the-public-sector-to-the-brink)
-**Published:** Fri, 24 Apr 2026 14:19:45 +0000
+## [Vishay Introduces High-Isolation Automotive Optocouplers](https://www.powerelectronicsnews.com/vishay-introduces-high-isolation-automotive-optocouplers/)
+**Published:** Fri, 22 May 2026 15:00:00 +0000
 
-<p>A potential scarcity of semiconductors is seen as a disaster, especially from a consumer technology perspective. In reality, their absence threatens public-sector continuity with alarming gravity.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/why-a-semiconductor-crisis-could-push-the-public-sector-to-the-brink/">Why a Semiconductor Crisis Could Push the Public Sector to the Brink</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Vishay Introduces High-Isolation Automotive Optocouplers." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/55253395709_db9179e284_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new Vishay optocouplers deliver high isolation and extended creepage distances for EV and solar power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-introduces-high-isolation-automotive-optocouplers/">Vishay Introduces High-Isolation Automotive Optocouplers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Navitas’ TAP SiC Gate Oxide Reliability, Bosch Gen3 SiC, pSemi’s Adiabatic Charge Pump: Power Electronics Week Insights](https://www.powerelectronicsnews.com/navitas-tap-sic-gate-oxide-reliability-bosch-gen3-sic-psemis-adiabatic-charge-pump-power-electronics-week-insights/)
+**Published:** Fri, 22 May 2026 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Navitas’ TAP SiC Gate Oxide Reliability, Bosch Gen3 SiC, and pSemi’s Adiabatic Charge Pump!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/navitas-tap-sic-gate-oxide-reliability-bosch-gen3-sic-psemis-adiabatic-charge-pump-power-electronics-week-insights/">Navitas’ TAP SiC Gate Oxide Reliability, Bosch Gen3 SiC, pSemi’s Adiabatic Charge Pump: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [How Bosch Gen 3 SiC Improves EV Powertrain Efficiency](https://www.powerelectronicsnews.com/how-bosch-gen-3-sic-improves-ev-powertrain-efficiency/)
+**Published:** Fri, 22 May 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="450" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Cover-Image.jpg?fit=800%2C450" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>The third-generation Bosch SiC reduces resistance, improves switching behavior, and supports more cost-effective power module design.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/how-bosch-gen-3-sic-improves-ev-powertrain-efficiency/">How Bosch Gen 3 SiC Improves EV Powertrain Efficiency</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -858,46 +898,6 @@ _Last updated: 2026-05-22 11:58 UTC_
 
 ---
 
-## [Power Electronics Course with QSPICE (Episode 10): Linear Variable Power Supply](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-10-linear-variable-power-supply/)
-**Published:** Wed, 20 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/figure-00-power-course-1.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>Configuring a power BJT as an emitter follower enables variable voltage output with straightforward but energy-inefficient analog regulation.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-10-linear-variable-power-supply/">Power Electronics Course with QSPICE (Episode 10): Linear Variable Power Supply</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Enphase Enters the SST Race With GaN BDS-Based Distributed Power Platform](https://www.powerelectronicsnews.com/enphase-enters-the-sst-race-with-gan-bds-based-distributed-power-platform/)
-**Published:** Wed, 20 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4896" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_618317497.jpeg?fit=8736%2C4896" style="display: block; margin-bottom: 5px; clear: both;" width="8736" /><p>Enphase is leveraging its GaN BDS expertise and 90 million microinverters of field data to challenge SiC-based rivals in the emerging SST market.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/enphase-enters-the-sst-race-with-gan-bds-based-distributed-power-platform/">Enphase Enters the SST Race With GaN BDS-Based Distributed Power Platform </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [AOS Launches Intel Mobile Power Solution](https://www.powerelectronicsnews.com/aos-launches-intel-mobile-power-solution/)
-**Published:** Tue, 19 May 2026 15:00:00 +0000
-
-<img alt="AOS Launches Intel Mobile Power Solution." class="webfeedsFeaturedVisual wp-post-image" height="1028" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AOS_71149-46-049QI.jpg?fit=1200%2C1028" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new AOS controllers and smart power stages improve efficiency and battery life for next-generation Intel laptops.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/aos-launches-intel-mobile-power-solution/">AOS Launches Intel Mobile Power Solution</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Zooming into Navitas’ TAP SiC Gate Oxide Reliability](https://www.powerelectronicsnews.com/zooming-into-navitas-tap-sic-gate-oxide-reliability/)
-**Published:** Tue, 19 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5060" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_679767225.jpeg?fit=8416%2C5060" style="display: block; margin-bottom: 5px; clear: both;" width="8416" /><p>Navitas validates TAP SiC MOSFET gate reliability across BESS, data center SST, and solar inverter switching cycle requirements.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/zooming-into-navitas-tap-sic-gate-oxide-reliability/">Zooming into Navitas’ TAP SiC Gate Oxide Reliability </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [SiC JFET Advantages in Power Distribution Protection Circuits: Part 2—Hot-Swap Protection](https://www.powerelectronicsnews.com/sic-jfet-advantages-in-power-distribution-protection-circuits-part-2-sccbs/)
-**Published:** Mon, 18 May 2026 14:01:16 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3335" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_249490392.jpeg?fit=5000%2C3335" style="display: block; margin-bottom: 5px; clear: both;" width="5000" /><p>SiC JFETs offer superior thermal stability, wide SOA, and low RDS(ON) for 800 VDC hot-swap circuit protection. </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/sic-jfet-advantages-in-power-distribution-protection-circuits-part-2-sccbs/">SiC JFET Advantages in Power Distribution Protection Circuits: Part 2—Hot-Swap Protection</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Gartner Urges Supply Chain Execs to Adopt Autonomous Business Strategies](https://www.eetimes.com/gartner-urges-supply-chain-execs-to-adopt-autonomous-business-strategies/)
 **Published:** Thu, 21 May 2026 13:45:28 +0000
 
@@ -911,30 +911,6 @@ _Last updated: 2026-05-22 11:58 UTC_
 
 <p>Empower Semiconductor’s integrated voltage regulators (IVRs) can be placed directly inside an AI processor package.</p>
 <p>The post <a href="https://www.eetimes.com/adi-to-acquire-empower-to-join-data-centers-power-gold-rush/">ADI to Acquire IVR Tech to Join Data Center’s Power Gold Rush</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Imec’s Patrick Vandenameele: Full-stack Innovation Is the Name of the Game](https://www.eetimes.com/imec-patrick-vandenameele-full-stack-innovation-is-the-name-of-the-game/)
-**Published:** Tue, 19 May 2026 08:00:58 +0000
-
-<p>As AI pushes semiconductors toward new limits in energy, memory, and interconnects, imec’s CEO says future progress will depend on deep co-optimization across the entire computing stack.</p>
-<p>The post <a href="https://www.eetimes.com/imec-patrick-vandenameele-full-stack-innovation-is-the-name-of-the-game/">Imec&#8217;s Patrick Vandenameele: Full-stack Innovation Is the Name of the Game</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Canada Spins Off Photonics Lab](https://www.eetimes.com/canada-spins-off-photonics-lab/)
-**Published:** Mon, 18 May 2026 14:35:37 +0000
-
-<p>The Canadian Photonics Fabrication Center will be commercialized to scale up its compound semiconductor and photonics capabilities.</p>
-<p>The post <a href="https://www.eetimes.com/canada-spins-off-photonics-lab/">Canada Spins Off Photonics Lab</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Historic Start To 2026](https://www.electronicsweekly.com/news/business/historic-q1-2026-05/)
-**Published:** Fri, 22 May 2026 05:27:57 +0000
-
-<p>The global semiconductor market grew 25% in the 1st quarter of 2026 from the 4th quarter of 2025 to reach $299 billion, according to WSTS. The 1st quarter of 2026 ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/historic-q1-2026-05/">Historic Start To 2026</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
