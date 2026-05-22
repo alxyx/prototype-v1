@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-21 22:32 UTC_
+_Last updated: 2026-05-22 11:58 UTC_
 
 ## [imec Unveils Quantum Dot Qubit Device Using High NA EUV Lithography](https://www.eetasia.com/imec-unveils-quantum-dot-qubit-device-using-high-na-euv-lithography/)
 **Published:** Thu, 21 May 2026 02:20:13 +0000
@@ -930,25 +930,25 @@ _Last updated: 2026-05-21 22:32 UTC_
 
 ---
 
-## [Intel CEO looking beyond 18A and 14A to 10A and 7A](https://www.electronicsweekly.com/news/business/intel-ceo-looking-beyond-18a-and-14a-2026-05/)
-**Published:** Thu, 21 May 2026 05:30:56 +0000
+## [Historic Start To 2026](https://www.electronicsweekly.com/news/business/historic-q1-2026-05/)
+**Published:** Fri, 22 May 2026 05:27:57 +0000
 
-<p>Intel CEO Lip-Bu Tan is looking beyond the 18A and 14A processes to 10A and 7A, he told the JP Morgan Global Technology, Media and Communications Conference on Tuesday. “Now ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/intel-ceo-looking-beyond-18a-and-14a-2026-05/">Intel CEO looking beyond 18A and 14A to 10A and 7A</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Hardware Assembly Intern – Wire Harnessing At Vir Innovations In Hyderabad](https://www.electronicsforu.com/career/hardware-assembly-intern-wire-harnessing-vir-innovations-hyderabad)
-**Published:** Wed, 20 May 2026 08:52:15 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/Job1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Hyderabad Company: Vir Innovations Eligibility &#38; Role Details Important Note This is a purely hands-on hardware role involving physical assembly and wiring work. Not suitable for: • Software-only candidates (Programming, Web, App, Data Science, etc.) • Candidates expecting design-only or desk-based roles.
+<p>The global semiconductor market grew 25% in the 1st quarter of 2026 from the 4th quarter of 2025 to reach $299 billion, according to WSTS. The 1st quarter of 2026 ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/historic-q1-2026-05/">Historic Start To 2026</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Safer power delivery for AI systems](https://www.electronicsforu.com/news/safer-power-delivery-for-ai-systems)
-**Published:** Wed, 20 May 2026 07:13:29 +0000
+## [JOB: Design Engineer- Security Systems At Johnson Controls In Pune](https://www.electronicsforu.com/career/design-engineer-security-systems-johnson-controls-pune)
+**Published:** Thu, 21 May 2026 09:26:40 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/AOS_53228QI_No-txt_1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A power device can help protect AI servers and GPUs from damage caused by sudden power spikes in high-performance computing systems. Alpha and Omega Semiconductor Limited has introduced its SmartClamp protected DrMOS family to improve power-stage protection in high-current environments such as AI servers, data centers, and high-end GPUs. The devices are designed to prevent [&#8230;]
+<img alt="Application Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/03/640px-JohnsonControlsRichmondHill2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Johnson Controls What you will do The primary responsibility for this role is to support pre-sales engineering for Security System global projects as per country-specific standards. Basic knowledge about bill of material preparation, cost estimation, to come up with a competitive bid. Follow processes, maintain required quality standards and on-time [&#8230;]
+
+---
+
+## [Tiny ESD Diodes Built for the 10 Gbps Era](https://www.electronicsforu.com/news/tiny-esd-diodes-built-for-the-10-gbps-era)
+**Published:** Thu, 21 May 2026 07:33:16 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/image-3-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />How do you protect ultra fast data lines without slowing them down, when even tiny electrical noise can distort signals and break communication reliability? ROHM Semiconductor has introduced the RESDxVx series of Electro Static Discharge protection diodes, developed to support high speed communication interfaces operating beyond 10 Gbps. The launch comes at a time when [&#8230;]
 
 ---
 
