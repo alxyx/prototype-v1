@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-22 17:22 UTC_
+_Last updated: 2026-05-22 21:22 UTC_
 
 ## [imec Unveils Quantum Dot Qubit Device Using High NA EUV Lithography](https://www.eetasia.com/imec-unveils-quantum-dot-qubit-device-using-high-na-euv-lithography/)
 **Published:** Thu, 21 May 2026 02:20:13 +0000
@@ -911,6 +911,22 @@ _Last updated: 2026-05-22 17:22 UTC_
 
 <p>Empower Semiconductor’s integrated voltage regulators (IVRs) can be placed directly inside an AI processor package.</p>
 <p>The post <a href="https://www.eetimes.com/adi-to-acquire-empower-to-join-data-centers-power-gold-rush/">ADI to Acquire IVR Tech to Join Data Center’s Power Gold Rush</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [CSA Catapult joins project SONATA for aircraft taxiing system](https://www.electronicsweekly.com/news/business/csa-catapult-joins-project-sonata-for-aircraft-taxiing-system-2026-05/)
+**Published:** Fri, 22 May 2026 14:32:48 +0000
+
+<p>Compound Semiconductor Applications (CSA) Catapult has announced that it will be bringing its SiC (silicon carbide) power expertise as a technology partner to project SONATA. This is developing an on-aircraft ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/csa-catapult-joins-project-sonata-for-aircraft-taxiing-system-2026-05/">CSA Catapult joins project SONATA for aircraft taxiing system</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Historic Start To 2026](https://www.electronicsweekly.com/news/business/historic-q1-2026-05/)
+**Published:** Fri, 22 May 2026 05:27:57 +0000
+
+<p>The global semiconductor market grew 25% in the 1st quarter of 2026 from the 4th quarter of 2025 to reach $299 billion, according to WSTS. The 1st quarter of 2026 ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/historic-q1-2026-05/">Historic Start To 2026</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
