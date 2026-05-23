@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-23 00:26 UTC_
+_Last updated: 2026-05-23 10:06 UTC_
 
 ## [imec Unveils Quantum Dot Qubit Device Using High NA EUV Lithography](https://www.eetasia.com/imec-unveils-quantum-dot-qubit-device-using-high-na-euv-lithography/)
 **Published:** Thu, 21 May 2026 02:20:13 +0000
@@ -906,33 +906,31 @@ _Last updated: 2026-05-23 00:26 UTC_
 
 ---
 
-## [CSA Catapult joins project SONATA for aircraft taxiing system](https://www.electronicsweekly.com/news/business/csa-catapult-joins-project-sonata-for-aircraft-taxiing-system-2026-05/)
-**Published:** Fri, 22 May 2026 14:32:48 +0000
+## [JOB: Hardware Design Engineer At Skynetics In Bengaluru](https://www.electronicsforu.com/career/job-hardware-design-engineer-at-skynetics-in-bengaluru)
+**Published:** Fri, 22 May 2026 08:43:38 +0000
 
-<p>Compound Semiconductor Applications (CSA) Catapult has announced that it will be bringing its SiC (silicon carbide) power expertise as a technology partner to project SONATA. This is developing an on-aircraft ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/csa-catapult-joins-project-sonata-for-aircraft-taxiing-system-2026-05/">CSA Catapult joins project SONATA for aircraft taxiing system</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Historic Start To 2026](https://www.electronicsweekly.com/news/business/historic-q1-2026-05/)
-**Published:** Fri, 22 May 2026 05:27:57 +0000
-
-<p>The global semiconductor market grew 25% in the 1st quarter of 2026 from the 4th quarter of 2025 to reach $299 billion, according to WSTS. The 1st quarter of 2026 ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/historic-q1-2026-05/">Historic Start To 2026</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Bengaluru This role involves the design and development of high-reliability embedded hardware for mission-critical applications including satellite subsystems, electronic warfare systems, RF communication platforms, SDRs, power amplifiers, and aerospace payload electronics. Candidates should have strong expertise in at least one of the following domains: Key Responsibilities Required Skills (atleast three) [&#8230;]
 
 ---
 
-## [JOB: Design Engineer- Security Systems At Johnson Controls In Pune](https://www.electronicsforu.com/career/design-engineer-security-systems-johnson-controls-pune)
-**Published:** Thu, 21 May 2026 09:26:40 +0000
+## [JOB: IP Physical Design Engineer At Qualcomm In Bengaluru](https://www.electronicsforu.com/career/ip-physical-design-engineer-qualcomm-bengaluru)
+**Published:** Fri, 22 May 2026 08:18:30 +0000
 
-<img alt="Application Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2022/03/640px-JohnsonControlsRichmondHill2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Johnson Controls What you will do The primary responsibility for this role is to support pre-sales engineering for Security System global projects as per country-specific standards. Basic knowledge about bill of material preparation, cost estimation, to come up with a competitive bid. Follow processes, maintain required quality standards and on-time [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2014/02/qualcomm-sign-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Qualcomm As a Qualcomm Hardware Engineer, you will plan, design, optimise, verify, and test electronic systems, bring-up yield, circuits, mechanical systems,  Digital/Analog/RF/optical  systems, equipment and packaging, test systems, FPGA, and/or DSP systems that launch cutting-edge, world-class products. Qualcomm Hardware Engineers collaborate with cross-functional teams to develop solutions and meet performance [&#8230;]
 
 ---
 
-## [Tiny ESD Diodes Built for the 10 Gbps Era](https://www.electronicsforu.com/news/tiny-esd-diodes-built-for-the-10-gbps-era)
-**Published:** Thu, 21 May 2026 07:33:16 +0000
+## [Lab Chip Reveals Hidden Drivers of Gut Disease](https://www.electronicsforu.com/news/lab-chip-reveals-hidden-drivers-of-gut-disease)
+**Published:** Fri, 22 May 2026 08:07:19 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/image-3-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />How do you protect ultra fast data lines without slowing them down, when even tiny electrical noise can distort signals and break communication reliability? ROHM Semiconductor has introduced the RESDxVx series of Electro Static Discharge protection diodes, developed to support high speed communication interfaces operating beyond 10 Gbps. The launch comes at a time when [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/organ-on-chip-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if gut inflammation, pregnancy hormones, and cancer risk could all be recreated on a chip revealing how disease actually begins?  Researchers at Harvard Medical School and collaborating institutes have developed the most complete colon on a chip model yet for inflammatory bowel disease, offering a closer look at how the condition develops, worsens, and [&#8230;]
+
+---
+
+## [New Film Material Targets Advanced Chip Packaging](https://www.electronicsforu.com/news/new-film-material-targets-advanced-chip-packaging)
+**Published:** Fri, 22 May 2026 06:08:03 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/Asahi-Kaseis-newly-developed-PSPI-film-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Aims to simplify large-panel semiconductor packaging, improve manufacturing efficiency, and support finer circuitry and multi-layer structures required for AI-driven chip designs. A newly developed photosensitive film technology by Asahi Kasei could address growing manufacturing challenges in advanced semiconductor packaging as the industry shifts toward larger formats, higher circuit density and increasingly complex chip architectures. The [&#8230;]
 
 ---
 
