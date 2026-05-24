@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-24 08:01 UTC_
+_Last updated: 2026-05-24 10:07 UTC_
 
 ## [imec Unveils Quantum Dot Qubit Device Using High NA EUV Lithography](https://www.eetasia.com/imec-unveils-quantum-dot-qubit-device-using-high-na-euv-lithography/)
 **Published:** Thu, 21 May 2026 02:20:13 +0000
