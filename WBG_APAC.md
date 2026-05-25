@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-25 19:53 UTC_
+_Last updated: 2026-05-25 21:20 UTC_
 
 ## [Wolfspeed Launches 3.3kV SiC Power Modules](https://www.eetasia.com/wolfspeed-launches-3-3kv-sic-power-modules/)
 **Published:** Mon, 25 May 2026 01:59:15 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-05-25 19:53 UTC_
 
 ---
 
+## [Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package](https://www.powerelectronicsnews.com/toshiba-starts-sampling-1200v-sic-mosfet-in-qdpak-package/)
+**Published:** Mon, 25 May 2026 20:52:57 +0000
+
+<img alt="Toshiba Starts Sampling New 1200V SiC MOSFET in QDPAK Package." class="webfeedsFeaturedVisual wp-post-image" height="628" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/SiC_MOS_QDPAK_260508.jpg?fit=1200%2C628" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new SiC MOSFET reduces switching and conduction losses for high-density AI and industrial power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/toshiba-starts-sampling-1200v-sic-mosfet-in-qdpak-package/">Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [GaN FET Drivers Enhance LiDAR Performance](https://www.powerelectronicsnews.com/gan-fet-drivers-enhance-lidar-performance/)
 **Published:** Mon, 25 May 2026 14:01:40 +0000
 
@@ -898,19 +906,27 @@ _Last updated: 2026-05-25 19:53 UTC_
 
 ---
 
-## [Diodes Incorporated Expands Automotive Hall-Effect Latch Family](https://www.powerelectronicsnews.com/diodes-incorporated-expands-automotive-hall-effect-latch-family/)
-**Published:** Thu, 21 May 2026 16:00:00 +0000
-
-<img alt="Diodes Incorporated Expands Automotive Hall Effect Latch Family." class="webfeedsFeaturedVisual wp-post-image" height="690" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/DIO1132_image_AH3711Q.jpg?fit=900%2C690" style="display: block; margin-bottom: 5px; clear: both;" width="900" /><p>The new automotive Hall-effect latch improves low-field position sensing while reducing magnet size and power consumption.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/diodes-incorporated-expands-automotive-hall-effect-latch-family/">Diodes Incorporated Expands Automotive Hall-Effect Latch Family</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Gartner Urges Supply Chain Execs to Adopt Autonomous Business Strategies](https://www.eetimes.com/gartner-urges-supply-chain-execs-to-adopt-autonomous-business-strategies/)
 **Published:** Thu, 21 May 2026 13:45:28 +0000
 
 <p>According to Gartner, 22% of organizations have introduced roles for autonomous business operations, a share expected to exceed 50% next year.</p>
 <p>The post <a href="https://www.eetimes.com/gartner-urges-supply-chain-execs-to-adopt-autonomous-business-strategies/">Gartner Urges Supply Chain Execs to Adopt Autonomous Business Strategies</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Imec is first to make quantum dot qubit with high-NA](https://www.electronicsweekly.com/news/research-news/imec-is-first-to-make-quantum-dot-qubit-with-high-na-2026-05/)
+**Published:** Mon, 25 May 2026 05:27:31 +0000
+
+<p>Imec is the first organisation to make a quantum dot qubit using High NA EUV lithography. A useful quantum computer, will require millions of connected qubits with high reliability and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/research-news/imec-is-first-to-make-quantum-dot-qubit-with-high-na-2026-05/">Imec is first to make quantum dot qubit with high-NA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [CSA Catapult joins project SONATA for aircraft taxiing system](https://www.electronicsweekly.com/news/business/csa-catapult-joins-project-sonata-for-aircraft-taxiing-system-2026-05/)
+**Published:** Fri, 22 May 2026 14:32:48 +0000
+
+<p>Compound Semiconductor Applications (CSA) Catapult has announced that it will be bringing its SiC (silicon carbide) power expertise as a technology partner to project SONATA. This is developing an on-aircraft ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/csa-catapult-joins-project-sonata-for-aircraft-taxiing-system-2026-05/">CSA Catapult joins project SONATA for aircraft taxiing system</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
