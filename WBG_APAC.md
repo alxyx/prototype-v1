@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-25 16:04 UTC_
+_Last updated: 2026-05-25 17:56 UTC_
 
 ## [Wolfspeed Launches 3.3kV SiC Power Modules](https://www.eetasia.com/wolfspeed-launches-3-3kv-sic-power-modules/)
 **Published:** Mon, 25 May 2026 01:59:15 +0000
