@@ -1,20 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-24 23:14 UTC_
+_Last updated: 2026-05-25 04:04 UTC_
+
+## [Wolfspeed Launches 3.3kV SiC Power Modules](https://www.eetasia.com/wolfspeed-launches-3-3kv-sic-power-modules/)
+**Published:** Mon, 25 May 2026 01:59:15 +0000
+
+<p>Wolfspeed's 3.3kV SiC power modules address the rapidly approaching power constraints driven by AI data centers and the broader energy transition.</p>
+<p>The post <a href="https://www.eetasia.com/wolfspeed-launches-3-3kv-sic-power-modules/">Wolfspeed Launches 3.3kV SiC Power Modules</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Automakers Now Competing with AI Infra Developers for Memory Supply](https://www.eetasia.com/automakers-now-competing-with-ai-infra-developers-for-memory-supply/)
+**Published:** Mon, 25 May 2026 01:42:57 +0000
+
+<p>Automakers face severe memory shortage as AI infrastructure dominates semiconductor supply. RAM demands for ADAS and infotainment skyrocket.</p>
+<p>The post <a href="https://www.eetasia.com/automakers-now-competing-with-ai-infra-developers-for-memory-supply/">Automakers Now Competing with AI Infra Developers for Memory Supply</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [imec Unveils Quantum Dot Qubit Device Using High NA EUV Lithography](https://www.eetasia.com/imec-unveils-quantum-dot-qubit-device-using-high-na-euv-lithography/)
 **Published:** Thu, 21 May 2026 02:20:13 +0000
 
 <p>imec's achievement marks a milestone toward the industrial scaling of more reliable qubits, the basic computational units of quantum computers.</p>
 <p>The post <a href="https://www.eetasia.com/imec-unveils-quantum-dot-qubit-device-using-high-na-euv-lithography/">imec Unveils Quantum Dot Qubit Device Using High NA EUV Lithography</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Analog Devices to Acquire Empower Semiconductor](https://www.eetasia.com/analog-devices-to-acquire-empower-semiconductor/)
-**Published:** Wed, 20 May 2026 02:53:30 +0000
-
-<p>Analog Devices is strengthening its high-density power portfolio by acquiring Empower in an all-cash transaction for $1.5 billion.</p>
-<p>The post <a href="https://www.eetasia.com/analog-devices-to-acquire-empower-semiconductor/">Analog Devices to Acquire Empower Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
