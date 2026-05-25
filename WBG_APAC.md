@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-25 17:56 UTC_
+_Last updated: 2026-05-25 19:53 UTC_
 
 ## [Wolfspeed Launches 3.3kV SiC Power Modules](https://www.eetasia.com/wolfspeed-launches-3-3kv-sic-power-modules/)
 **Published:** Mon, 25 May 2026 01:59:15 +0000
@@ -911,22 +911,6 @@ _Last updated: 2026-05-25 17:56 UTC_
 
 <p>According to Gartner, 22% of organizations have introduced roles for autonomous business operations, a share expected to exceed 50% next year.</p>
 <p>The post <a href="https://www.eetimes.com/gartner-urges-supply-chain-execs-to-adopt-autonomous-business-strategies/">Gartner Urges Supply Chain Execs to Adopt Autonomous Business Strategies</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Imec is first to make quantum dot qubit with high-NA](https://www.electronicsweekly.com/news/research-news/imec-is-first-to-make-quantum-dot-qubit-with-high-na-2026-05/)
-**Published:** Mon, 25 May 2026 05:27:31 +0000
-
-<p>Imec is the first organisation to make a quantum dot qubit using High NA EUV lithography. A useful quantum computer, will require millions of connected qubits with high reliability and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/research-news/imec-is-first-to-make-quantum-dot-qubit-with-high-na-2026-05/">Imec is first to make quantum dot qubit with high-NA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [CSA Catapult joins project SONATA for aircraft taxiing system](https://www.electronicsweekly.com/news/business/csa-catapult-joins-project-sonata-for-aircraft-taxiing-system-2026-05/)
-**Published:** Fri, 22 May 2026 14:32:48 +0000
-
-<p>Compound Semiconductor Applications (CSA) Catapult has announced that it will be bringing its SiC (silicon carbide) power expertise as a technology partner to project SONATA. This is developing an on-aircraft ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/csa-catapult-joins-project-sonata-for-aircraft-taxiing-system-2026-05/">CSA Catapult joins project SONATA for aircraft taxiing system</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
