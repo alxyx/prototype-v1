@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-25 08:33 UTC_
+_Last updated: 2026-05-25 16:04 UTC_
 
 ## [Wolfspeed Launches 3.3kV SiC Power Modules](https://www.eetasia.com/wolfspeed-launches-3-3kv-sic-power-modules/)
 **Published:** Mon, 25 May 2026 01:59:15 +0000
@@ -826,6 +826,30 @@ _Last updated: 2026-05-25 08:33 UTC_
 
 ---
 
+## [GaN FET Drivers Enhance LiDAR Performance](https://www.powerelectronicsnews.com/gan-fet-drivers-enhance-lidar-performance/)
+**Published:** Mon, 25 May 2026 14:01:40 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_911077783.jpeg?fit=4944%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="4944" /><p>GaN FETs enable shorter, higher-current laser pulses in LiDAR systems, improving range, resolution, and imaging performance.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/gan-fet-drivers-enhance-lidar-performance/">GaN FET Drivers Enhance LiDAR Performance</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Stackpole Introduces Low-VCR High-Voltage Chip Resistors](https://www.powerelectronicsnews.com/stackpole-introduces-low-vcr-high-voltage-chip-resistors/)
+**Published:** Mon, 25 May 2026 14:00:00 +0000
+
+<img alt="Stackpole Introduces Low-VCR High-Voltage Chip Resistors." class="webfeedsFeaturedVisual wp-post-image" height="941" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Stackpole-RVCU-Series.jpg?fit=1672%2C941" style="display: block; margin-bottom: 5px; clear: both;" width="1672" /><p>Stackpole’s RVCU resistors deliver low VCR and stable performance for precision high-voltage divider applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/stackpole-introduces-low-vcr-high-voltage-chip-resistors/">Stackpole Introduces Low-VCR High-Voltage Chip Resistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Wolfspeed Debuts High-Power SiC Modules at PCIM 2026](https://www.powerelectronicsnews.com/wolfspeed-debuts-high-power-sic-modules-at-pcim-2026/)
+**Published:** Mon, 25 May 2026 13:36:39 +0000
+
+<img alt="Wolfspeed Debuts High-Power SiC Modules at PCIM 2026." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/3.3Kv-PR-Inline.png?fit=1200%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new Wolfspeed SiC modules improve efficiency and scalability for AI data centers and renewable energy systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-debuts-high-power-sic-modules-at-pcim-2026/">Wolfspeed Debuts High-Power SiC Modules at PCIM 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [ST Launches Enhanced Lithium Battery Management IC](https://www.powerelectronicsnews.com/st-launches-enhanced-lithium-battery-management-ic/)
 **Published:** Fri, 22 May 2026 16:00:00 +0000
 
@@ -879,30 +903,6 @@ _Last updated: 2026-05-25 08:33 UTC_
 
 <img alt="Diodes Incorporated Expands Automotive Hall Effect Latch Family." class="webfeedsFeaturedVisual wp-post-image" height="690" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/DIO1132_image_AH3711Q.jpg?fit=900%2C690" style="display: block; margin-bottom: 5px; clear: both;" width="900" /><p>The new automotive Hall-effect latch improves low-field position sensing while reducing magnet size and power consumption.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/diodes-incorporated-expands-automotive-hall-effect-latch-family/">Diodes Incorporated Expands Automotive Hall-Effect Latch Family</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Corner: Adiabatic Charge Pumps and pSemi’s Fast Charging Strategy—Laurence McGarry, pSemi](https://www.powerelectronicsnews.com/power-corner-adiabatic-charge-pumps-and-psemis-fast-charging-strategy-laurence-mcgarry-psemi/)
-**Published:** Thu, 21 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/pSemi-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>pSemi's Laurence McGarry breaks down adiabatic switching and the company's IP portfolio in power conversion.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-adiabatic-charge-pumps-and-psemis-fast-charging-strategy-laurence-mcgarry-psemi/">Power Corner: Adiabatic Charge Pumps and pSemi&#8217;s Fast Charging Strategy—Laurence McGarry, pSemi</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [The Adapter Fragmentation Problem and pSemi’s Adiabatic Charge Pump](https://www.powerelectronicsnews.com/the-adapter-fragmentation-problem-and-psemis-adiabatic-charge-pump/)
-**Published:** Thu, 21 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2948" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_198051301.jpeg?fit=7205%2C2948" style="display: block; margin-bottom: 5px; clear: both;" width="7205" /><p>pSemi's multi-level buck and resonant charge pump technology underpin adaptive fast-charging ICs and a new push into humanoid robotics.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-adapter-fragmentation-problem-and-psemis-adiabatic-charge-pump/">The Adapter Fragmentation Problem and pSemi’s Adiabatic Charge Pump</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ADI Expands AI Infrastructure Strategy With Empower Acquisition](https://www.powerelectronicsnews.com/adi-expands-ai-infrastructure-strategy-with-empower-acquisition/)
-**Published:** Thu, 21 May 2026 12:50:18 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="5685" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/01/AdobeStock_1093357651.jpeg?fit=9294%2C5685" style="display: block; margin-bottom: 5px; clear: both;" width="9294" /><p>Analog Devices will acquire Empower Semiconductor to expand AI-focused high-density power and IVR technology capabilities.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/adi-expands-ai-infrastructure-strategy-with-empower-acquisition/">ADI Expands AI Infrastructure Strategy With Empower Acquisition</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
