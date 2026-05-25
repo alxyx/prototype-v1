@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-25 04:04 UTC_
+_Last updated: 2026-05-25 08:33 UTC_
 
 ## [Wolfspeed Launches 3.3kV SiC Power Modules](https://www.eetasia.com/wolfspeed-launches-3-3kv-sic-power-modules/)
 **Published:** Mon, 25 May 2026 01:59:15 +0000
@@ -914,6 +914,14 @@ _Last updated: 2026-05-25 04:04 UTC_
 
 ---
 
+## [Imec is first to make quantum dot qubit with high-NA](https://www.electronicsweekly.com/news/research-news/imec-is-first-to-make-quantum-dot-qubit-with-high-na-2026-05/)
+**Published:** Mon, 25 May 2026 05:27:31 +0000
+
+<p>Imec is the first organisation to make a quantum dot qubit using High NA EUV lithography. A useful quantum computer, will require millions of connected qubits with high reliability and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/research-news/imec-is-first-to-make-quantum-dot-qubit-with-high-na-2026-05/">Imec is first to make quantum dot qubit with high-NA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [CSA Catapult joins project SONATA for aircraft taxiing system](https://www.electronicsweekly.com/news/business/csa-catapult-joins-project-sonata-for-aircraft-taxiing-system-2026-05/)
 **Published:** Fri, 22 May 2026 14:32:48 +0000
 
@@ -922,39 +930,10 @@ _Last updated: 2026-05-25 04:04 UTC_
 
 ---
 
-## [Historic Start To 2026](https://www.electronicsweekly.com/news/business/historic-q1-2026-05/)
-**Published:** Fri, 22 May 2026 05:27:57 +0000
-
-<p>The global semiconductor market grew 25% in the 1st quarter of 2026 from the 4th quarter of 2025 to reach $299 billion, according to WSTS. The 1st quarter of 2026 ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/historic-q1-2026-05/">Historic Start To 2026</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
 ## [JOB: Hardware Design Engineer At Skynetics In Bengaluru](https://www.electronicsforu.com/career/job-hardware-design-engineer-at-skynetics-in-bengaluru)
 **Published:** Fri, 22 May 2026 08:43:38 +0000
 
 <img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Bengaluru This role involves the design and development of high-reliability embedded hardware for mission-critical applications including satellite subsystems, electronic warfare systems, RF communication platforms, SDRs, power amplifiers, and aerospace payload electronics. Candidates should have strong expertise in at least one of the following domains: Key Responsibilities Required Skills (atleast three) [&#8230;]
-
----
-
-## [JOB: IP Physical Design Engineer At Qualcomm In Bengaluru](https://www.electronicsforu.com/career/ip-physical-design-engineer-qualcomm-bengaluru)
-**Published:** Fri, 22 May 2026 08:18:30 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2014/02/qualcomm-sign-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Qualcomm As a Qualcomm Hardware Engineer, you will plan, design, optimise, verify, and test electronic systems, bring-up yield, circuits, mechanical systems,  Digital/Analog/RF/optical  systems, equipment and packaging, test systems, FPGA, and/or DSP systems that launch cutting-edge, world-class products. Qualcomm Hardware Engineers collaborate with cross-functional teams to develop solutions and meet performance [&#8230;]
-
----
-
-## [Lab Chip Reveals Hidden Drivers of Gut Disease](https://www.electronicsforu.com/news/lab-chip-reveals-hidden-drivers-of-gut-disease)
-**Published:** Fri, 22 May 2026 08:07:19 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/organ-on-chip-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if gut inflammation, pregnancy hormones, and cancer risk could all be recreated on a chip revealing how disease actually begins?  Researchers at Harvard Medical School and collaborating institutes have developed the most complete colon on a chip model yet for inflammatory bowel disease, offering a closer look at how the condition develops, worsens, and [&#8230;]
-
----
-
-## [New Film Material Targets Advanced Chip Packaging](https://www.electronicsforu.com/news/new-film-material-targets-advanced-chip-packaging)
-**Published:** Fri, 22 May 2026 06:08:03 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/Asahi-Kaseis-newly-developed-PSPI-film-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Aims to simplify large-panel semiconductor packaging, improve manufacturing efficiency, and support finer circuitry and multi-layer structures required for AI-driven chip designs. A newly developed photosensitive film technology by Asahi Kasei could address growing manufacturing challenges in advanced semiconductor packaging as the industry shifts toward larger formats, higher circuit density and increasingly complex chip architectures. The [&#8230;]
 
 ---
 
