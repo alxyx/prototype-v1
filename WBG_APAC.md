@@ -1,6 +1,38 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-25 21:20 UTC_
+_Last updated: 2026-05-26 03:47 UTC_
+
+## [ROBOTECH ASIA to Debut at NEPCON ASIA 2026](https://www.eetasia.com/robotech-asia-to-debut-at-nepcon-asia-2026/)
+**Published:** Tue, 26 May 2026 03:05:14 +0000
+
+<p>NEPCON ASIA 2026 expands manufacturing focus across AI, automotive, semiconductors, and embodied intelligence supply chain ecosystems.</p>
+<p>The post <a href="https://www.eetasia.com/robotech-asia-to-debut-at-nepcon-asia-2026/">ROBOTECH ASIA to Debut at NEPCON ASIA 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [World Micro Inks Global Distribution Agreement with Mobilint](https://www.eetasia.com/world-micro-inks-global-distribution-agreement-with-mobilint/)
+**Published:** Tue, 26 May 2026 02:55:44 +0000
+
+<p>World Micro will offer Mobilint's advanced AI semiconductor solutions to its global customer base.</p>
+<p>The post <a href="https://www.eetasia.com/world-micro-inks-global-distribution-agreement-with-mobilint/">World Micro Inks Global Distribution Agreement with Mobilint</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Axion Expands Operating Platform with Moov Acquisition](https://www.eetasia.com/axion-expands-operating-platform-with-moov-acquisition/)
+**Published:** Tue, 26 May 2026 02:38:25 +0000
+
+<p>The Moov acquisition expands Axion's operating platform and strengthens its position across the semiconductor manufacturing supply chain.</p>
+<p>The post <a href="https://www.eetasia.com/axion-expands-operating-platform-with-moov-acquisition/">Axion Expands Operating Platform with Moov Acquisition</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [ASICs Becoming System-specific](https://www.eetasia.com/asics-becoming-system-specific/)
+**Published:** Tue, 26 May 2026 02:23:53 +0000
+
+<p>For ASICS, the rapid rise of AI means workloads are becoming more system-specific while architectures grow increasingly modular and disaggregated.</p>
+<p>The post <a href="https://www.eetasia.com/asics-becoming-system-specific/">ASICs Becoming System-specific</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Wolfspeed Launches 3.3kV SiC Power Modules](https://www.eetasia.com/wolfspeed-launches-3-3kv-sic-power-modules/)
 **Published:** Mon, 25 May 2026 01:59:15 +0000
@@ -15,14 +47,6 @@ _Last updated: 2026-05-25 21:20 UTC_
 
 <p>Automakers face severe memory shortage as AI infrastructure dominates semiconductor supply. RAM demands for ADAS and infotainment skyrocket.</p>
 <p>The post <a href="https://www.eetasia.com/automakers-now-competing-with-ai-infra-developers-for-memory-supply/">Automakers Now Competing with AI Infra Developers for Memory Supply</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [imec Unveils Quantum Dot Qubit Device Using High NA EUV Lithography](https://www.eetasia.com/imec-unveils-quantum-dot-qubit-device-using-high-na-euv-lithography/)
-**Published:** Thu, 21 May 2026 02:20:13 +0000
-
-<p>imec's achievement marks a milestone toward the industrial scaling of more reliable qubits, the basic computational units of quantum computers.</p>
-<p>The post <a href="https://www.eetasia.com/imec-unveils-quantum-dot-qubit-device-using-high-na-euv-lithography/">imec Unveils Quantum Dot Qubit Device Using High NA EUV Lithography</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -911,6 +935,14 @@ _Last updated: 2026-05-25 21:20 UTC_
 
 <p>According to Gartner, 22% of organizations have introduced roles for autonomous business operations, a share expected to exceed 50% next year.</p>
 <p>The post <a href="https://www.eetimes.com/gartner-urges-supply-chain-execs-to-adopt-autonomous-business-strategies/">Gartner Urges Supply Chain Execs to Adopt Autonomous Business Strategies</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Sponsored Content: Keywave Unveils “Spatial Intelligence” Silicon – A 24GHz Radar SoC Breakthrough](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/sponsored-content-keywave-unveils-spatial-intelligence-silicon-a-24ghz-radar-soc-breakthrough-2026-05/)
+**Published:** Mon, 25 May 2026 23:01:27 +0000
+
+<p>As the tech industry pivots toward Edge AI — where intelligence is processed locally and instantly — the ability for machines to &#8220;sense&#8221; and &#8220;understand&#8221; the physical world has become ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/sponsored-content-keywave-unveils-spatial-intelligence-silicon-a-24ghz-radar-soc-breakthrough-2026-05/">Sponsored Content: Keywave Unveils &#8220;Spatial Intelligence&#8221; Silicon &#8211; A 24GHz Radar SoC Breakthrough</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
