@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-26 08:00 UTC_
+_Last updated: 2026-05-26 18:45 UTC_
 
 ## [GUC Showcases VSORA’s Jotunn8 AI Inference Processor at TSMC Europe Technology Symposium](https://www.eetasia.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-tsmc-europe-technology-symposium/)
 **Published:** Tue, 26 May 2026 05:31:28 +0000
@@ -858,6 +858,38 @@ _Last updated: 2026-05-26 08:00 UTC_
 
 ---
 
+## [Mitsubishi Electric Unveils 8th-Gen NX-Type IGBT Modules](https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-8th-gen-nx-type-igbt-modules/)
+**Published:** Tue, 26 May 2026 16:00:00 +0000
+
+<img alt="Mitsubishi Electric Unveils 8th-Gen NX-Type IGBT Modules for Industrial Drives." class="webfeedsFeaturedVisual wp-post-image" height="844" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/0519_sd.jpg?fit=1500%2C844" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>Optimized eighth-generation IGBTs reduce inverter power loss by up to 19%, with a new 1000A model in the same NX package size.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-8th-gen-nx-type-igbt-modules/">Mitsubishi Electric Unveils 8th-Gen NX-Type IGBT Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [The GaN Ecosystem Developing for SmallSats in New Space](https://www.powerelectronicsnews.com/the-gan-ecosystem-developing-for-smallsats-in-new-space/)
+**Published:** Tue, 26 May 2026 15:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_1041120427.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>TI, Renesas, EPC, and Infineon are building a GaN ecosystem targeting smallsat power systems with radiation-hardened devices.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-gan-ecosystem-developing-for-smallsats-in-new-space/">The GaN Ecosystem Developing for SmallSats in New Space</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Real-World Solid-State Transformers Overcome Barriers to Meet Adoption Needs of AC and DC Networks](https://www.powerelectronicsnews.com/real-world-solid-state-transformers-overcome-barriers-to-meet-adoption-needs-of-ac-and-dc-networks/)
+**Published:** Tue, 26 May 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_76706386.jpeg?fit=4500%2C3000" style="display: block; margin-bottom: 5px; clear: both;" width="4500" /><p>Real-world SST deployments are accelerating as SiC and GaN technology matures and AI data center power requirements intensify.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/real-world-solid-state-transformers-overcome-barriers-to-meet-adoption-needs-of-ac-and-dc-networks/">Real-World Solid-State Transformers Overcome Barriers to Meet Adoption Needs of AC and DC Networks</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Infineon Expands CoolGaN BDS Family](https://www.powerelectronicsnews.com/infineon-expands-coolgan-bds-family/)
+**Published:** Tue, 26 May 2026 11:00:00 +0000
+
+<img alt="Infineon Expands CoolGaN BDS Family." class="webfeedsFeaturedVisual wp-post-image" height="1114" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/coolgan-bds-40v-g3-ufwlb-22-1.jpg?fit=2126%2C1114" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The new CoolGaN switches reduce PCB space and improve efficiency in smartphones, notebooks, and wearable devices.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-expands-coolgan-bds-family/">Infineon Expands CoolGaN BDS Family</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package](https://www.powerelectronicsnews.com/toshiba-starts-sampling-1200v-sic-mosfet-in-qdpak-package/)
 **Published:** Mon, 25 May 2026 20:52:57 +0000
 
@@ -906,59 +938,35 @@ _Last updated: 2026-05-26 08:00 UTC_
 
 ---
 
-## [Vishay Introduces High-Isolation Automotive Optocouplers](https://www.powerelectronicsnews.com/vishay-introduces-high-isolation-automotive-optocouplers/)
-**Published:** Fri, 22 May 2026 15:00:00 +0000
+## [GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium](https://www.eetimes.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-the-tsmc-europe-technology-symposium/)
+**Published:** Tue, 26 May 2026 13:00:00 +0000
 
-<img alt="Vishay Introduces High-Isolation Automotive Optocouplers." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/55253395709_db9179e284_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new Vishay optocouplers deliver high isolation and extended creepage distances for EV and solar power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vishay-introduces-high-isolation-automotive-optocouplers/">Vishay Introduces High-Isolation Automotive Optocouplers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Navitas’ TAP SiC Gate Oxide Reliability, Bosch Gen3 SiC, pSemi’s Adiabatic Charge Pump: Power Electronics Week Insights](https://www.powerelectronicsnews.com/navitas-tap-sic-gate-oxide-reliability-bosch-gen3-sic-psemis-adiabatic-charge-pump-power-electronics-week-insights/)
-**Published:** Fri, 22 May 2026 14:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Navitas’ TAP SiC Gate Oxide Reliability, Bosch Gen3 SiC, and pSemi’s Adiabatic Charge Pump!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/navitas-tap-sic-gate-oxide-reliability-bosch-gen3-sic-psemis-adiabatic-charge-pump-power-electronics-week-insights/">Navitas’ TAP SiC Gate Oxide Reliability, Bosch Gen3 SiC, pSemi’s Adiabatic Charge Pump: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Global Unichip Corp. (GUC), the Advanced ASIC Leader, will showcase Jotunn8, a next-generation data center AI inference processor developed by VSORA, at the TSMC Europe Technology Symposium.</p>
+<p>The post <a href="https://www.eetimes.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-the-tsmc-europe-technology-symposium/">GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
-## [How Bosch Gen 3 SiC Improves EV Powertrain Efficiency](https://www.powerelectronicsnews.com/how-bosch-gen-3-sic-improves-ev-powertrain-efficiency/)
-**Published:** Fri, 22 May 2026 13:00:00 +0000
+## [Ultra-compact FXO imaging system supports 4-Channel CoaXPress-12](https://www.electronicsweekly.com/news/products/sensors-products/ultra-compact-fxo-imaging-system-supports-4-channel-coaxpress-12-2-2026-05/)
+**Published:** Tue, 26 May 2026 10:30:16 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="450" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Cover-Image.jpg?fit=800%2C450" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>The third-generation Bosch SiC reduces resistance, improves switching behavior, and supports more cost-effective power module design.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/how-bosch-gen-3-sic-improves-ev-powertrain-efficiency/">How Bosch Gen 3 SiC Improves EV Powertrain Efficiency</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Navitas Unveils AI Data Center and Grid Power Technologies at PCIM 2026](https://www.powerelectronicsnews.com/navitas-unveils-ai-data-center-and-grid-power-technologies-at-pcim-2026/)
-**Published:** Thu, 21 May 2026 16:00:00 +0000
-
-<img alt="Navitas Unveils AI Data Center and Grid Power Technologies at PCIM 2026." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/PR-PCIM-2026-d4-1.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>Navitas will highlight GaN and SiC technologies for AI data centers, smart grids, and industrial electrification at PCIM 2026.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/navitas-unveils-ai-data-center-and-grid-power-technologies-at-pcim-2026/">Navitas Unveils AI Data Center and Grid Power Technologies at PCIM 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Gartner Urges Supply Chain Execs to Adopt Autonomous Business Strategies](https://www.eetimes.com/gartner-urges-supply-chain-execs-to-adopt-autonomous-business-strategies/)
-**Published:** Thu, 21 May 2026 13:45:28 +0000
-
-<p>According to Gartner, 22% of organizations have introduced roles for autonomous business operations, a share expected to exceed 50% next year.</p>
-<p>The post <a href="https://www.eetimes.com/gartner-urges-supply-chain-execs-to-adopt-autonomous-business-strategies/">Gartner Urges Supply Chain Execs to Adopt Autonomous Business Strategies</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Allied Vision is releasing its ultra-compact FXO camera series with 4-Channel CoaXPress-12 interfaces. They are high-end machine vision cameras. Possible applications include use in electronics and semiconductor production. For example, ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/sensors-products/ultra-compact-fxo-imaging-system-supports-4-channel-coaxpress-12-2-2026-05/">Ultra-compact FXO imaging system supports 4-Channel CoaXPress-12</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
 ## [Infineon expands CoolGaN BDS family](https://www.electronicsweekly.com/news/business/infineon-expands-coolgan-bds-family-2026-05/)
 **Published:** Tue, 26 May 2026 05:10:03 +0000
 
-<p>Infineon has expanded  its CoolGaN BDS 40 V G3 bidirectional switch (BDS) family with two new devices, the IGK048B041S and IGK120B041S. The new additions reduce PCB footprint by up to ...</p>
+<p>Infineon has expanded  its CoolGaN BDS 40V G3 bidirectional switch (BDS) family with two new devices, the IGK048B041S and IGK120B041S. The new additions reduce PCB footprint by up to 82% ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/infineon-expands-coolgan-bds-family-2026-05/">Infineon expands CoolGaN BDS family</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Toshiba test-sampling 1200V SiC MOSFET](https://www.electronicsweekly.com/news/business/toshiba-sampling-1200v-sic-mosfet-2026-05/)
+## [Toshiba test-sampling 1,200V SiC mosfet](https://www.electronicsweekly.com/news/business/toshiba-sampling-1200v-sic-mosfet-2026-05/)
 **Published:** Tue, 26 May 2026 05:01:17 +0000
 
-<p>Toshiba is test-sampling shipments of the TW007D120E, 1200V trench-gate SiC MOSFET primarily intended for power supply systems in AI datacentres. Housed in a QDPAK top-side cooled package, the surface mount ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/toshiba-sampling-1200v-sic-mosfet-2026-05/">Toshiba test-sampling 1200V SiC MOSFET</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Toshiba is test-sampling shipments of the TW007D120E, 1,200V trench-gate SiC mosfet primarily intended for power supply systems in AI datacentres. Housed in a QDPAK top-side cooled package, the surface-mount device ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/toshiba-sampling-1200v-sic-mosfet-2026-05/">Toshiba test-sampling 1,200V SiC mosfet</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -967,14 +975,6 @@ _Last updated: 2026-05-26 08:00 UTC_
 
 <p>As the tech industry pivots toward Edge AI — where intelligence is processed locally and instantly — the ability for machines to &#8220;sense&#8221; and &#8220;understand&#8221; the physical world has become ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/sponsored-content-keywave-unveils-spatial-intelligence-silicon-a-24ghz-radar-soc-breakthrough-2026-05/">Sponsored Content: Keywave Unveils &#8220;Spatial Intelligence&#8221; Silicon &#8211; A 24GHz Radar SoC Breakthrough</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Imec is first to make quantum dot qubit with high-NA](https://www.electronicsweekly.com/news/research-news/imec-is-first-to-make-quantum-dot-qubit-with-high-na-2026-05/)
-**Published:** Mon, 25 May 2026 05:27:31 +0000
-
-<p>Imec is the first organisation to make a quantum dot qubit using High NA EUV lithography. A useful quantum computer, will require millions of connected qubits with high reliability and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/research-news/imec-is-first-to-make-quantum-dot-qubit-with-high-na-2026-05/">Imec is first to make quantum dot qubit with high-NA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
