@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-26 18:45 UTC_
+_Last updated: 2026-05-26 22:32 UTC_
 
 ## [GUC Showcases VSORA’s Jotunn8 AI Inference Processor at TSMC Europe Technology Symposium](https://www.eetasia.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-tsmc-europe-technology-symposium/)
 **Published:** Tue, 26 May 2026 05:31:28 +0000
@@ -55,6 +55,14 @@ _Last updated: 2026-05-26 18:45 UTC_
 
 <p>Automakers face severe memory shortage as AI infrastructure dominates semiconductor supply. RAM demands for ADAS and infotainment skyrocket.</p>
 <p>The post <a href="https://www.eetasia.com/automakers-now-competing-with-ai-infra-developers-for-memory-supply/">Automakers Now Competing with AI Infra Developers for Memory Supply</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [STMicroelectronics’ New GaN Semiconductors Improve Energy Efficiency for High-Demand Applications from AI Servers to Robotics](https://www.semiconductor-digest.com/stmicroelectronics-new-gan-semiconductors-improve-energy-efficiency-for-high-demand-applications-from-ai-servers-to-robotics/?utm_source=rss&utm_medium=rss&utm_campaign=stmicroelectronics-new-gan-semiconductors-improve-energy-efficiency-for-high-demand-applications-from-ai-servers-to-robotics)
+**Published:** Tue, 26 May 2026 22:13:56 +0000
+
+<p>New gallium nitride (GaN)-based power semiconductors from STMicroelectronics are designed to improve efficiency and increase power density in high-demand applications that support electrification.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/stmicroelectronics-new-gan-semiconductors-improve-energy-efficiency-for-high-demand-applications-from-ai-servers-to-robotics/">STMicroelectronics’ New GaN Semiconductors Improve Energy Efficiency for High-Demand Applications from AI Servers to Robotics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -847,14 +855,6 @@ _Last updated: 2026-05-26 18:45 UTC_
 
 <p>The second edition of SEMIEXPO Heartland opens this week, April 29-30 at the Detroit Marriot at the Renaissance Center in Detroit, Michigan, centered around smart manufacturing, automotive electronics, and workforce development.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semiexpo-heartland-2026-spotlights-innovation-in-next-generation-automotive-electronics-and-smart-manufacturing/">SEMIEXPO Heartland 2026 Spotlights Innovation in Next-Generation Automotive Electronics and Smart Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ACM Research Ships First PECVD SiCN System for Advanced Semiconductor Applications](https://www.semiconductor-digest.com/acm-research-ships-first-pecvd-sicn-system-for-advanced-semiconductor-applications/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-ships-first-pecvd-sicn-system-for-advanced-semiconductor-applications)
-**Published:** Mon, 27 Apr 2026 20:16:11 +0000
-
-<p>Proprietary three-station rotating deposition architecture enables demanding BEOL and advanced packaging processes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/acm-research-ships-first-pecvd-sicn-system-for-advanced-semiconductor-applications/">ACM Research Ships First PECVD SiCN System for Advanced Semiconductor Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
