@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-27 13:04 UTC_
+_Last updated: 2026-05-27 16:50 UTC_
 
 ## [Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers](https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/)
 **Published:** Wed, 27 May 2026 11:43:13 +0000
@@ -842,6 +842,22 @@ _Last updated: 2026-05-27 13:04 UTC_
 
 ---
 
+## [Microchip Unveils 3.3 kV SiC Modules for Solid-State Transformers](https://www.powerelectronicsnews.com/microchip-unveils-3-3-kv-sic-modules-for-solid-state-transformers/)
+**Published:** Wed, 27 May 2026 16:00:00 +0000
+
+<img alt="Microchip Unveils 3.3 kV SiC Modules for Solid-State Transformers." class="webfeedsFeaturedVisual wp-post-image" height="889" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/55264371024_5ac9c76d5e_h.jpg?fit=1600%2C889" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new SiC modules improve high-voltage power conversion efficiency and thermal performance in next-gen AI infrastructure.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/microchip-unveils-3-3-kv-sic-modules-for-solid-state-transformers/">Microchip Unveils 3.3 kV SiC Modules for Solid-State Transformers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [ROHM Unveils ESD Protection Diodes for High-Speed Interfaces](https://www.powerelectronicsnews.com/rohm-unveils-esd-protection-diodes-for-high-speed-interfaces/)
+**Published:** Wed, 27 May 2026 15:00:00 +0000
+
+<img alt="ROHM Unveils ESD Protection Diodes for High-Speed Interfaces." class="webfeedsFeaturedVisual wp-post-image" height="473" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/260521_diode_1.jpg?fit=757%2C473" style="display: block; margin-bottom: 5px; clear: both;" width="757" /><p>The new ESD protection diodes break the capacitance-resistance trade-off, reducing clamping voltage by 40% for high-speed interfaces.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/rohm-unveils-esd-protection-diodes-for-high-speed-interfaces/">ROHM Unveils ESD Protection Diodes for High-Speed Interfaces</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [DC Protection in High-Voltage AI Data Center Power Architectures](https://www.powerelectronicsnews.com/dc-protection-in-high-voltage-ai-data-center-power-architectures/)
 **Published:** Wed, 27 May 2026 13:00:00 +0000
 
@@ -906,27 +922,27 @@ _Last updated: 2026-05-27 13:04 UTC_
 
 ---
 
-## [GaN FET Drivers Enhance LiDAR Performance](https://www.powerelectronicsnews.com/gan-fet-drivers-enhance-lidar-performance/)
-**Published:** Mon, 25 May 2026 14:01:40 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_911077783.jpeg?fit=4944%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="4944" /><p>GaN FETs enable shorter, higher-current laser pulses in LiDAR systems, improving range, resolution, and imaging performance.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/gan-fet-drivers-enhance-lidar-performance/">GaN FET Drivers Enhance LiDAR Performance</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Stackpole Introduces Low-VCR High-Voltage Chip Resistors](https://www.powerelectronicsnews.com/stackpole-introduces-low-vcr-high-voltage-chip-resistors/)
-**Published:** Mon, 25 May 2026 14:00:00 +0000
-
-<img alt="Stackpole Introduces Low-VCR High-Voltage Chip Resistors." class="webfeedsFeaturedVisual wp-post-image" height="941" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Stackpole-RVCU-Series.jpg?fit=1672%2C941" style="display: block; margin-bottom: 5px; clear: both;" width="1672" /><p>Stackpole’s RVCU resistors deliver low VCR and stable performance for precision high-voltage divider applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/stackpole-introduces-low-vcr-high-voltage-chip-resistors/">Stackpole Introduces Low-VCR High-Voltage Chip Resistors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium](https://www.eetimes.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-the-tsmc-europe-technology-symposium/)
 **Published:** Tue, 26 May 2026 13:00:00 +0000
 
 <p>Global Unichip Corp. (GUC), the Advanced ASIC Leader, will showcase Jotunn8, a next-generation data center AI inference processor developed by VSORA, at the TSMC Europe Technology Symposium.</p>
 <p>The post <a href="https://www.eetimes.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-the-tsmc-europe-technology-symposium/">GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Nexperia hooks up with Polar for MOSFET fab](https://www.electronicsweekly.com/news/business/nexperia-hooks-up-with-polar-for-mosfet-fab-2026-05/)
+**Published:** Wed, 27 May 2026 13:25:37 +0000
+
+<p>Nexperia is to manufacture power MOSFETs at Polar Semiconductor, the US foundry. Polar , runs a  fab in Minnesota, originally built in 1969, which has extensive experience in power processes. ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/nexperia-hooks-up-with-polar-for-mosfet-fab-2026-05/">Nexperia hooks up with Polar for MOSFET fab</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Samsung strike called off as pay rise agreed](https://www.electronicsweekly.com/news/business/samsung-strike-called-off-as-pay-rise-agreed-2026-05/)
+**Published:** Wed, 27 May 2026 05:30:15 +0000
+
+<p>The threatened strike at Samsung Electronics has been averted as 74% of Samsung’s 78,000 workers in its semiconductor unit voted to accept an offer of a bonus of an average ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/samsung-strike-called-off-as-pay-rise-agreed-2026-05/">Samsung strike called off as pay rise agreed</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
