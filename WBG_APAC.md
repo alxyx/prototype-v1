@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-27 22:08 UTC_
+_Last updated: 2026-05-27 23:30 UTC_
 
 ## [Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers](https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/)
 **Published:** Wed, 27 May 2026 11:43:13 +0000
@@ -39,6 +39,46 @@ _Last updated: 2026-05-27 22:08 UTC_
 
 <p>The Moov acquisition expands Axion's operating platform and strengthens its position across the semiconductor manufacturing supply chain.</p>
 <p>The post <a href="https://www.eetasia.com/axion-expands-operating-platform-with-moov-acquisition/">Axion Expands Operating Platform with Moov Acquisition</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Polar Semiconductor and Nexperia Partner on Power MOSFET Manufacturing](https://www.semiconductor-digest.com/polar-semiconductor-and-nexperia-partner-on-power-mosfet-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=polar-semiconductor-and-nexperia-partner-on-power-mosfet-manufacturing)
+**Published:** Wed, 27 May 2026 22:36:09 +0000
+
+<p>Foundry collaboration strengthens supply stability and supports growth in AI server infrastructure, robotics, industrial, and automotive applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/polar-semiconductor-and-nexperia-partner-on-power-mosfet-manufacturing/">Polar Semiconductor and Nexperia Partner on Power MOSFET Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TDK Ventures Invests in C2i Semiconductors](https://www.semiconductor-digest.com/tdk-ventures-invests-in-c2i-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=tdk-ventures-invests-in-c2i-semiconductors)
+**Published:** Wed, 27 May 2026 22:30:14 +0000
+
+<p>TDK Corporation announced today that TDK Ventures Inc. has invested in C2i Semiconductors, a pioneer in software-defined Voltage Regulator (VR) platforms.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tdk-ventures-invests-in-c2i-semiconductors/">TDK Ventures Invests in C2i Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI And Global Net Corp. Release New Report On Glass Core Substrate Market And Development Trends For Semiconductors](https://www.semiconductor-digest.com/semi-and-global-net-corp-release-new-report-on-glass-core-substrate-market-and-development-trends-for-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=semi-and-global-net-corp-release-new-report-on-glass-core-substrate-market-and-development-trends-for-semiconductors)
+**Published:** Wed, 27 May 2026 22:14:21 +0000
+
+<p>Report projects 67.2% CAGR for glass core substrates from 2028 to 2040 as AI and HPC accelerate demand for advanced packaging technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-and-global-net-corp-release-new-report-on-glass-core-substrate-market-and-development-trends-for-semiconductors/">SEMI And Global Net Corp. Release New Report On Glass Core Substrate Market And Development Trends For Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Applied Materials Partners with SCREEN To Bring Advanced Wafer Cleaning Technologies to EPIC Center](https://www.semiconductor-digest.com/applied-materials-partners-with-screen-to-bring-advanced-wafer-cleaning-technologies-to-epic-center/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-partners-with-screen-to-bring-advanced-wafer-cleaning-technologies-to-epic-center)
+**Published:** Wed, 27 May 2026 22:10:01 +0000
+
+<p>The collaboration will bring together SCREEN SPE’s expertise in wafer cleaning technology with Applied's leadership in materials engineering to develop co-optimized process solutions for the world’s most advanced chips.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-partners-with-screen-to-bring-advanced-wafer-cleaning-technologies-to-epic-center/">Applied Materials Partners with SCREEN To Bring Advanced Wafer Cleaning Technologies to EPIC Center</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens Taps Jabil to Expand Electrical Equipment Manufacturing in Virginia](https://www.semiconductor-digest.com/siemens-taps-jabil-to-expand-electrical-equipment-manufacturing-in-virginia/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-taps-jabil-to-expand-electrical-equipment-manufacturing-in-virginia)
+**Published:** Wed, 27 May 2026 22:06:27 +0000
+
+<p>Siemens and Jabil Inc. recently announced plans to operate a new manufacturing facility at the Crosspointe Logistics Center in Prince George County, Va., supporting the energy infrastructure industry.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-taps-jabil-to-expand-electrical-equipment-manufacturing-in-virginia/">Siemens Taps Jabil to Expand Electrical Equipment Manufacturing in Virginia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -799,46 +839,6 @@ _Last updated: 2026-05-27 22:08 UTC_
 
 <p>This strategic move is designed to support the infrastructure behind AI and cloud growth, where accurate, reliable flow measurement is essential to mission-critical cooling and process operations.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/krohne-dedicates-production-capacity-and-establishes-u-s-center-of-excellence-to-support-explosive-growth-in-ai-driven-data-centers/">KROHNE Dedicates Production Capacity and Establishes U.S. Center of Excellence to Support Explosive Growth in AI-Driven Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ASU-led Southwest Advanced Prototyping Hub Awarded $36.3M for Second Year of Funding for Microelectronics Projects](https://www.semiconductor-digest.com/asu-led-southwest-advanced-prototyping-hub-awarded-36-3m-for-second-year-of-funding-for-microelectronics-projects/?utm_source=rss&utm_medium=rss&utm_campaign=asu-led-southwest-advanced-prototyping-hub-awarded-36-3m-for-second-year-of-funding-for-microelectronics-projects)
-**Published:** Wed, 29 Apr 2026 17:49:35 +0000
-
-<p>The Southwest Advanced Prototyping (SWAP) Hub, led by Arizona State University, has been awarded $36.3 million in Year 2 funding from the Department of War under the CHIPS and Science Act.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/asu-led-southwest-advanced-prototyping-hub-awarded-36-3m-for-second-year-of-funding-for-microelectronics-projects/">ASU-led Southwest Advanced Prototyping Hub Awarded $36.3M for Second Year of Funding for Microelectronics Projects</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ASU Supercharges AI Research Capabilities with Technology Donation](https://www.semiconductor-digest.com/asu-supercharges-ai-research-capabilities-with-technology-donation/?utm_source=rss&utm_medium=rss&utm_campaign=asu-supercharges-ai-research-capabilities-with-technology-donation)
-**Published:** Wed, 29 Apr 2026 17:25:58 +0000
-
-<p>Arizona State University is expanding its artificial intelligence research capabilities following a multimillion-dollar technology donation from Intel.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/asu-supercharges-ai-research-capabilities-with-technology-donation/">ASU Supercharges AI Research Capabilities with Technology Donation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Reports Worldwide Silicon Wafer Shipments Increase 13% Year-on-Year in Q1 2026](https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-13-year-on-year-in-q1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-worldwide-silicon-wafer-shipments-increase-13-year-on-year-in-q1-2026)
-**Published:** Wed, 29 Apr 2026 17:23:09 +0000
-
-<p>AI-driven demand and signs of broad-based recovery boost global silicon wafer shipments, despite mixed market conditions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-13-year-on-year-in-q1-2026/">SEMI Reports Worldwide Silicon Wafer Shipments Increase 13% Year-on-Year in Q1 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NEO Semiconductor Demonstrates 3D X-DRAM Proof-of-Concept, Secures Strategic Investment to Advance AI Memory](https://www.semiconductor-digest.com/neo-semiconductor-demonstrates-3d-x-dram-proof-of-concept-secures-strategic-investment-to-advance-ai-memory/?utm_source=rss&utm_medium=rss&utm_campaign=neo-semiconductor-demonstrates-3d-x-dram-proof-of-concept-secures-strategic-investment-to-advance-ai-memory)
-**Published:** Tue, 28 Apr 2026 20:54:15 +0000
-
-<p>NEO Semiconductor, an innovator in advanced AI and memory technologies, today announced successful proof-of-concept (POC) results for its 3D X-DRAM technology, marking a major milestone toward next-generation, high-density memory solutions for AI and data-centric systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/neo-semiconductor-demonstrates-3d-x-dram-proof-of-concept-secures-strategic-investment-to-advance-ai-memory/">NEO Semiconductor Demonstrates 3D X-DRAM Proof-of-Concept, Secures Strategic Investment to Advance AI Memory</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Kopin Announces Breakthrough MicroLED-Based Optical Interconnect Technology for AI Infrastructure in Collaboration with Fabric.AI](https://www.semiconductor-digest.com/kopin-announces-breakthrough-microled-based-optical-interconnect-technology-for-ai-infrastructure-in-collaboration-with-fabric-ai/?utm_source=rss&utm_medium=rss&utm_campaign=kopin-announces-breakthrough-microled-based-optical-interconnect-technology-for-ai-infrastructure-in-collaboration-with-fabric-ai)
-**Published:** Tue, 28 Apr 2026 20:43:49 +0000
-
-<p>Fabric.AI has placed a $15M purchase order with Kopin to fund the demonstration chipset.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kopin-announces-breakthrough-microled-based-optical-interconnect-technology-for-ai-infrastructure-in-collaboration-with-fabric-ai/">Kopin Announces Breakthrough MicroLED-Based Optical Interconnect Technology for AI Infrastructure in Collaboration with Fabric.AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
