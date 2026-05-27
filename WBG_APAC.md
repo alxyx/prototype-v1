@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-27 05:28 UTC_
+_Last updated: 2026-05-27 10:02 UTC_
 
 ## [GUC Showcases VSORA’s Jotunn8 AI Inference Processor at TSMC Europe Technology Symposium](https://www.eetasia.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-tsmc-europe-technology-symposium/)
 **Published:** Tue, 26 May 2026 05:31:28 +0000
@@ -31,14 +31,6 @@ _Last updated: 2026-05-27 05:28 UTC_
 
 <p>The Moov acquisition expands Axion's operating platform and strengthens its position across the semiconductor manufacturing supply chain.</p>
 <p>The post <a href="https://www.eetasia.com/axion-expands-operating-platform-with-moov-acquisition/">Axion Expands Operating Platform with Moov Acquisition</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [ASICs Becoming System-specific](https://www.eetasia.com/asics-becoming-system-specific/)
-**Published:** Tue, 26 May 2026 02:23:53 +0000
-
-<p>For ASICS, the rapid rise of AI means workloads are becoming more system-specific while architectures grow increasingly modular and disaggregated.</p>
-<p>The post <a href="https://www.eetasia.com/asics-becoming-system-specific/">ASICs Becoming System-specific</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -930,6 +922,14 @@ _Last updated: 2026-05-27 05:28 UTC_
 
 ---
 
+## [Samsung strike called off as pay rise agreed](https://www.electronicsweekly.com/news/business/samsung-strike-called-off-as-pay-rise-agreed-2026-05/)
+**Published:** Wed, 27 May 2026 05:30:15 +0000
+
+<p>The threatened strike at Samsung Electronics has been averted as 74% of Samsung’s 78,000 workers in its semiconductor unit voted to accept an offer of a bonus of an average ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/samsung-strike-called-off-as-pay-rise-agreed-2026-05/">Samsung strike called off as pay rise agreed</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Ultra-compact FXO imaging system supports 4-Channel CoaXPress-12](https://www.electronicsweekly.com/news/products/sensors-products/ultra-compact-fxo-imaging-system-supports-4-channel-coaxpress-12-2-2026-05/)
 **Published:** Tue, 26 May 2026 10:30:16 +0000
 
@@ -938,55 +938,17 @@ _Last updated: 2026-05-27 05:28 UTC_
 
 ---
 
-## [Infineon expands CoolGaN BDS family](https://www.electronicsweekly.com/news/business/infineon-expands-coolgan-bds-family-2026-05/)
-**Published:** Tue, 26 May 2026 05:10:03 +0000
+## [JOB: Design Engineer II In Cadence In Bengaluru](https://www.electronicsforu.com/career/design-engineer-ii-cadence-bengaluru)
+**Published:** Tue, 26 May 2026 09:51:30 +0000
 
-<p>Infineon has expanded  its CoolGaN BDS 40V G3 bidirectional switch (BDS) family with two new devices, the IGK048B041S and IGK120B041S. The new additions reduce PCB footprint by up to 82% ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/infineon-expands-coolgan-bds-family-2026-05/">Infineon expands CoolGaN BDS family</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Toshiba test-sampling 1,200V SiC mosfet](https://www.electronicsweekly.com/news/business/toshiba-sampling-1200v-sic-mosfet-2026-05/)
-**Published:** Tue, 26 May 2026 05:01:17 +0000
-
-<p>Toshiba is test-sampling shipments of the TW007D120E, 1,200V trench-gate SiC mosfet primarily intended for power supply systems in AI datacentres. Housed in a QDPAK top-side cooled package, the surface-mount device ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/toshiba-sampling-1200v-sic-mosfet-2026-05/">Toshiba test-sampling 1,200V SiC mosfet</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="Cadence" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/11/cadence-noida-office-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Cadence The role will be a key player in the organisation, responsible for characterising and validating Analogue and Digital IP-based Silicon Solutions at Cadence. Candidate should possess strong leadership skills with the ability to manage multiple priorities and guide team members on day-to-day lab tests and silicon characterisation activities. Ownership [&#8230;]
 
 ---
 
-## [Sponsored Content: Keywave Unveils “Spatial Intelligence” Silicon – A 24GHz Radar SoC Breakthrough](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/sponsored-content-keywave-unveils-spatial-intelligence-silicon-a-24ghz-radar-soc-breakthrough-2026-05/)
-**Published:** Mon, 25 May 2026 23:01:27 +0000
+## [JOB: GET / PGET – Power Electronics Engineer At Xylem In Vadodara](https://www.electronicsforu.com/career/get-pget-power-electronics-engineer-xylem-vadodara)
+**Published:** Tue, 26 May 2026 09:40:17 +0000
 
-<p>As the tech industry pivots toward Edge AI — where intelligence is processed locally and instantly — the ability for machines to &#8220;sense&#8221; and &#8220;understand&#8221; the physical world has become ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/sponsored-content-keywave-unveils-spatial-intelligence-silicon-a-24ghz-radar-soc-breakthrough-2026-05/">Sponsored Content: Keywave Unveils &#8220;Spatial Intelligence&#8221; Silicon &#8211; A 24GHz Radar SoC Breakthrough</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Robots Are Getting Smarter With New AI Chips](https://www.electronicsforu.com/news/robots-are-getting-smarter-with-new-ai-chips)
-**Published:** Tue, 26 May 2026 07:35:27 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/ella-barista-bot-sensory-ai-1536x864-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New AI chips are helping robots work faster and without bulky hardware, powering coffee-making machines, humanoid assistants, and factory automation systems. Intel is pushing deeper into physical AI with a new generation of robotics systems powered entirely by Intel Core Ultra Series 3 processors, eliminating the need for discrete GPUs in deployed machines. The system [&#8230;]
-
----
-
-## [New SiC Modules Target Power Grids](https://www.electronicsforu.com/news/new-sic-modules-target-power-grids)
-**Published:** Tue, 26 May 2026 06:42:20 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/Screenshot-2026-05-26-121109-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New high-voltage silicon carbide power modules aim to improve efficiency, reduce losses, and simplify next-generation power systems supporting AI infrastructure, renewable energy, and high-power energy conversion applications. As AI data centres and renewable energy systems rapidly increase electricity demand, the pressure on power conversion infrastructure is growing. Addressing these challenges, Wolfspeed has introduced a new [&#8230;]
-
----
-
-## [AI Accelerates Gallium Chip Discovery](https://www.electronicsforu.com/news/ai-accelerates-gallium-chip-discovery)
-**Published:** Tue, 26 May 2026 06:24:55 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/ai-speeds-up-discovery-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers developed an AI-driven materials engine that rapidly identifies new gallium semiconductor candidates, potentially reducing years of chip-material testing and accelerating innovation in future electronics, power devices, and optoelectronics. Artificial intelligence is moving beyond chip design and entering a new phase: discovering the materials that could power future generations of semiconductors. Researchers from Flinders University [&#8230;]
-
----
-
-## [Robots Gain Smarter Spatial Intelligence](https://www.electronicsforu.com/news/robots-gain-smarter-spatial-intelligence)
-**Published:** Tue, 26 May 2026 06:22:27 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/new-framework-helps-robots-turn-complex-language-into-precise-3d-actions2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new AI framework gives robots stronger 3D spatial understanding, enabling them to translate complex human instructions into accurate physical actions without requiring task-specific training or retraining. Researchers have developed a new robotics framework that could significantly improve how machines understand and execute complex human instructions by connecting language understanding with spatial awareness in real-world [&#8230;]
+<img alt="Garuda3d" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/jobs5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Vadodara Company: Xylem Essential Duties/Principal Responsibilities Minimum Qualifications: Education, Experience, Skills, Abilities, License/Certification
 
 ---
 
