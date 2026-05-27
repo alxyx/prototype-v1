@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-26 22:32 UTC_
+_Last updated: 2026-05-27 05:28 UTC_
 
 ## [GUC Showcases VSORA’s Jotunn8 AI Inference Processor at TSMC Europe Technology Symposium](https://www.eetasia.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-tsmc-europe-technology-symposium/)
 **Published:** Tue, 26 May 2026 05:31:28 +0000
@@ -42,19 +42,27 @@ _Last updated: 2026-05-26 22:32 UTC_
 
 ---
 
-## [Wolfspeed Launches 3.3kV SiC Power Modules](https://www.eetasia.com/wolfspeed-launches-3-3kv-sic-power-modules/)
-**Published:** Mon, 25 May 2026 01:59:15 +0000
+## [TIFRH Scientists Develop IRAA, A Transformative Strategy for Next Generation Semiconductors](https://www.semiconductor-digest.com/tifrh-scientists-develop-iraa-a-transformative-strategy-for-next-generation-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=tifrh-scientists-develop-iraa-a-transformative-strategy-for-next-generation-semiconductors)
+**Published:** Tue, 26 May 2026 22:45:41 +0000
 
-<p>Wolfspeed's 3.3kV SiC power modules address the rapidly approaching power constraints driven by AI data centers and the broader energy transition.</p>
-<p>The post <a href="https://www.eetasia.com/wolfspeed-launches-3-3kv-sic-power-modules/">Wolfspeed Launches 3.3kV SiC Power Modules</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Researchers led by Dr. Pabitra Nayak at the Tata Institute of Fundamental Research, Hyderabad, have now introduced a new doping strategy called in situ regenerative adduct-assisted (IRAA) doping, a breakthrough approach that could redefine how organic semiconductors are electronically doped for next-generation optoelectronic devices. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/tifrh-scientists-develop-iraa-a-transformative-strategy-for-next-generation-semiconductors/">TIFRH Scientists Develop IRAA, A Transformative Strategy for Next Generation Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Automakers Now Competing with AI Infra Developers for Memory Supply](https://www.eetasia.com/automakers-now-competing-with-ai-infra-developers-for-memory-supply/)
-**Published:** Mon, 25 May 2026 01:42:57 +0000
+## [SEMI Foundation and the U.S. National Science Foundation Launch First Four Regional Nodes of the National Network for Microelectronics Education](https://www.semiconductor-digest.com/semi-foundation-and-the-u-s-national-science-foundation-launch-first-four-regional-nodes-of-the-national-network-for-microelectronics-education/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-and-the-u-s-national-science-foundation-launch-first-four-regional-nodes-of-the-national-network-for-microelectronics-education)
+**Published:** Tue, 26 May 2026 22:41:11 +0000
 
-<p>Automakers face severe memory shortage as AI infrastructure dominates semiconductor supply. RAM demands for ADAS and infotainment skyrocket.</p>
-<p>The post <a href="https://www.eetasia.com/automakers-now-competing-with-ai-infra-developers-for-memory-supply/">Automakers Now Competing with AI Infra Developers for Memory Supply</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The SEMI Foundation, serving as the Hub Operator for the National Network for Microelectronics Education (NNME), today announced the launch of the first four Regional Nodes of the NNME, marking a major national milestone in the effort to build America's microelectronics and semiconductor workforce at unprecedented scale.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-foundation-and-the-u-s-national-science-foundation-launch-first-four-regional-nodes-of-the-national-network-for-microelectronics-education/">SEMI Foundation and the U.S. National Science Foundation Launch First Four Regional Nodes of the National Network for Microelectronics Education</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ASE Launches Automated 310mm Panel-Level Packaging to Accelerate AI Innovation](https://www.semiconductor-digest.com/ase-launches-automated-310mm-panel-level-packaging-to-accelerate-ai-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=ase-launches-automated-310mm-panel-level-packaging-to-accelerate-ai-innovation)
+**Published:** Tue, 26 May 2026 22:36:29 +0000
+
+<p>Advanced Semiconductor Engineering, Inc., a member of ASE Technology Holding Co., Ltd. and a provider of semiconductor assembly and test services, today announced the development of an industry-first automated 310mm × 310mm panel-level packaging production line, advancing its leadership in next-generation advanced packaging technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ase-launches-automated-310mm-panel-level-packaging-to-accelerate-ai-innovation/">ASE Launches Automated 310mm Panel-Level Packaging to Accelerate AI Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -834,27 +842,11 @@ _Last updated: 2026-05-26 22:32 UTC_
 
 ---
 
-## [Atomera Extends Collaboration With Synopsys](https://www.semiconductor-digest.com/atomera-extends-collaboration-with-synopsys/?utm_source=rss&utm_medium=rss&utm_campaign=atomera-extends-collaboration-with-synopsys)
-**Published:** Tue, 28 Apr 2026 20:35:07 +0000
+## [Infineon Launches EU Flagship Project Moore4Power](https://www.powerelectronicsnews.com/infineon-launches-eu-flagship-project-moore4power/)
+**Published:** Tue, 26 May 2026 23:20:03 +0000
 
-<p>Atomera Incorporated, a semiconductor materials and technology licensing company, today announced an expanded collaboration with Synopsys, Inc. to advance gallium nitride (GaN) device modeling for radio frequency (RF) and power semiconductor applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/atomera-extends-collaboration-with-synopsys/">Atomera Extends Collaboration With Synopsys</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Intel and FPT Collaborate to Advance AI-Driven Autonomous Factories with Digital Manufacturing Platforms](https://www.semiconductor-digest.com/intel-and-fpt-collaborate-to-advance-ai-driven-autonomous-factories-with-digital-manufacturing-platforms/?utm_source=rss&utm_medium=rss&utm_campaign=intel-and-fpt-collaborate-to-advance-ai-driven-autonomous-factories-with-digital-manufacturing-platforms)
-**Published:** Tue, 28 Apr 2026 20:31:48 +0000
-
-<p>The collaboration brings together Intel’s advanced factory simulation and AI optimization technologies with FPT’s digital manufacturing platforms to improve throughput, reduce bottlenecks, and accelerate the transition toward autonomous factory operations.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/intel-and-fpt-collaborate-to-advance-ai-driven-autonomous-factories-with-digital-manufacturing-platforms/">Intel and FPT Collaborate to Advance AI-Driven Autonomous Factories with Digital Manufacturing Platforms</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMIEXPO Heartland 2026 Spotlights Innovation in Next-Generation Automotive Electronics and Smart Manufacturing](https://www.semiconductor-digest.com/semiexpo-heartland-2026-spotlights-innovation-in-next-generation-automotive-electronics-and-smart-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=semiexpo-heartland-2026-spotlights-innovation-in-next-generation-automotive-electronics-and-smart-manufacturing)
-**Published:** Mon, 27 Apr 2026 20:32:10 +0000
-
-<p>The second edition of SEMIEXPO Heartland opens this week, April 29-30 at the Detroit Marriot at the Renaissance Center in Detroit, Michigan, centered around smart manufacturing, automotive electronics, and workforce development.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semiexpo-heartland-2026-spotlights-innovation-in-next-generation-automotive-electronics-and-smart-manufacturing/">SEMIEXPO Heartland 2026 Spotlights Innovation in Next-Generation Automotive Electronics and Smart Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Infineon Launches EU Flagship Project Moore4Power." class="webfeedsFeaturedVisual wp-post-image" height="1417" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/moore4power.jpg?fit=2126%2C1417" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The Moore4Power project pioneers heterogeneous integration of Si, SiC, and GaN to improve efficiency in renewable energy and e-mobility.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-launches-eu-flagship-project-moore4power/">Infineon Launches EU Flagship Project Moore4Power</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -927,14 +919,6 @@ _Last updated: 2026-05-26 22:32 UTC_
 
 <img alt="ST Launches Enhanced Lithium Battery Management IC." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/N4777D-May-21-2026-L9963F-automotive-battery-management-IC_PR-IMAGE.jpg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>ST’s new L9963F battery-management IC improves safety, synchronization, and monitoring for EV battery systems.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/st-launches-enhanced-lithium-battery-management-ic/">ST Launches Enhanced Lithium Battery Management IC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Electrical Power Architecture of CubeSats and SmallSats](https://www.powerelectronicsnews.com/electrical-power-architecture-of-cubesats-and-smallsats/)
-**Published:** Fri, 22 May 2026 15:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="582" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/image_0a859b.jpeg?fit=640%2C582" style="display: block; margin-bottom: 5px; clear: both;" width="640" /><p>CubeSat electrical power systems balance solar generation, battery management, and tight SWaP-C constraints in miniaturized spacecraft designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/electrical-power-architecture-of-cubesats-and-smallsats/">Electrical Power Architecture of CubeSats and SmallSats</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
