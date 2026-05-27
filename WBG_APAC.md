@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-27 10:02 UTC_
+_Last updated: 2026-05-27 13:04 UTC_
+
+## [Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers](https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/)
+**Published:** Wed, 27 May 2026 11:43:13 +0000
+
+<p>Microchip's 3.3kV HV‑D3 mSiC Power Modules simplify and accelerate the adoption of solid-state transformers in AI hyperscale data centers.</p>
+<p>The post <a href="https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/">Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [GUC Showcases VSORA’s Jotunn8 AI Inference Processor at TSMC Europe Technology Symposium](https://www.eetasia.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-tsmc-europe-technology-symposium/)
 **Published:** Tue, 26 May 2026 05:31:28 +0000
@@ -834,6 +842,22 @@ _Last updated: 2026-05-27 10:02 UTC_
 
 ---
 
+## [DC Protection in High-Voltage AI Data Center Power Architectures](https://www.powerelectronicsnews.com/dc-protection-in-high-voltage-ai-data-center-power-architectures/)
+**Published:** Wed, 27 May 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2880" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_350459236.jpeg?fit=5120%2C2880" style="display: block; margin-bottom: 5px; clear: both;" width="5120" /><p>High-voltage DC distribution reduces losses in AI data centers, but demands coordinated, multi-layer solid-state fault protection.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/dc-protection-in-high-voltage-ai-data-center-power-architectures/">DC Protection in High-Voltage AI Data Center Power Architectures</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [ST Unveils GaN Semiconductors For AI Servers And Robotics](https://www.powerelectronicsnews.com/st-unveils-gan-semiconductors-for-ai-servers-and-robotics/)
+**Published:** Wed, 27 May 2026 11:00:00 +0000
+
+<img alt="ST Unveils GaN Semiconductors For AI Servers And Robotics." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/N4776I-May-26-2026-PowerGaN_PR-IMAGE.jpg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new PowerGaN devices deliver low conduction and switching losses, improving efficiency in AI servers, robotics, and industrial systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-unveils-gan-semiconductors-for-ai-servers-and-robotics/">ST Unveils GaN Semiconductors For AI Servers And Robotics</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Infineon Launches EU Flagship Project Moore4Power](https://www.powerelectronicsnews.com/infineon-launches-eu-flagship-project-moore4power/)
 **Published:** Tue, 26 May 2026 23:20:03 +0000
 
@@ -898,43 +922,11 @@ _Last updated: 2026-05-27 10:02 UTC_
 
 ---
 
-## [Wolfspeed Debuts High-Power SiC Modules at PCIM 2026](https://www.powerelectronicsnews.com/wolfspeed-debuts-high-power-sic-modules-at-pcim-2026/)
-**Published:** Mon, 25 May 2026 13:36:39 +0000
-
-<img alt="Wolfspeed Debuts High-Power SiC Modules at PCIM 2026." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/3.3Kv-PR-Inline.png?fit=1200%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new Wolfspeed SiC modules improve efficiency and scalability for AI data centers and renewable energy systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-debuts-high-power-sic-modules-at-pcim-2026/">Wolfspeed Debuts High-Power SiC Modules at PCIM 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ST Launches Enhanced Lithium Battery Management IC](https://www.powerelectronicsnews.com/st-launches-enhanced-lithium-battery-management-ic/)
-**Published:** Fri, 22 May 2026 16:00:00 +0000
-
-<img alt="ST Launches Enhanced Lithium Battery Management IC." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/N4777D-May-21-2026-L9963F-automotive-battery-management-IC_PR-IMAGE.jpg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>ST’s new L9963F battery-management IC improves safety, synchronization, and monitoring for EV battery systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/st-launches-enhanced-lithium-battery-management-ic/">ST Launches Enhanced Lithium Battery Management IC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium](https://www.eetimes.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-the-tsmc-europe-technology-symposium/)
 **Published:** Tue, 26 May 2026 13:00:00 +0000
 
 <p>Global Unichip Corp. (GUC), the Advanced ASIC Leader, will showcase Jotunn8, a next-generation data center AI inference processor developed by VSORA, at the TSMC Europe Technology Symposium.</p>
 <p>The post <a href="https://www.eetimes.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-the-tsmc-europe-technology-symposium/">GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Samsung strike called off as pay rise agreed](https://www.electronicsweekly.com/news/business/samsung-strike-called-off-as-pay-rise-agreed-2026-05/)
-**Published:** Wed, 27 May 2026 05:30:15 +0000
-
-<p>The threatened strike at Samsung Electronics has been averted as 74% of Samsung’s 78,000 workers in its semiconductor unit voted to accept an offer of a bonus of an average ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/samsung-strike-called-off-as-pay-rise-agreed-2026-05/">Samsung strike called off as pay rise agreed</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Ultra-compact FXO imaging system supports 4-Channel CoaXPress-12](https://www.electronicsweekly.com/news/products/sensors-products/ultra-compact-fxo-imaging-system-supports-4-channel-coaxpress-12-2-2026-05/)
-**Published:** Tue, 26 May 2026 10:30:16 +0000
-
-<p>Allied Vision is releasing its ultra-compact FXO camera series with 4-Channel CoaXPress-12 interfaces. They are high-end machine vision cameras. Possible applications include use in electronics and semiconductor production. For example, ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/sensors-products/ultra-compact-fxo-imaging-system-supports-4-channel-coaxpress-12-2-2026-05/">Ultra-compact FXO imaging system supports 4-Channel CoaXPress-12</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
