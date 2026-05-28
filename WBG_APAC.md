@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-28 08:11 UTC_
+_Last updated: 2026-05-28 16:07 UTC_
 
 ## [Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers](https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/)
 **Published:** Wed, 27 May 2026 11:43:13 +0000
@@ -818,6 +818,22 @@ _Last updated: 2026-05-28 08:11 UTC_
 
 ---
 
+## [TDK Expands micro POL Power Module Portfolio](https://www.powerelectronicsnews.com/tdk-expands-micro-pol-power-module-portfolio/)
+**Published:** Thu, 28 May 2026 15:00:00 +0000
+
+<img alt="TDK Expands micro POL Power Module Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="1153" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/press_2026051901_photo_w.png?fit=2000%2C1153" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>The new micro POL power module delivers 3 A in a 2.5×2.5 mm footprint with 95% efficiency for optical modules and AI chipsets.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tdk-expands-micro-pol-power-module-portfolio/">TDK Expands micro POL Power Module Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Corner: Beyond SiC and GaN—Von Ardenne’s Guido Überreiter on Gallium Oxide and the Case for PVD](https://www.powerelectronicsnews.com/power-corner-beyond-sic-and-gan-von-ardennes-guido-uberreiter-on-gallium-oxide-and-the-case-for-pvd/)
+**Published:** Thu, 28 May 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Von-Ardenne-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Guido Überreiter explains how Von Ardenne's PVD platform is advancing gallium oxide as a next-generation power semiconductor.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-beyond-sic-and-gan-von-ardennes-guido-uberreiter-on-gallium-oxide-and-the-case-for-pvd/">Power Corner: Beyond SiC and GaN—Von Ardenne&#8217;s Guido Überreiter on Gallium Oxide and the Case for PVD</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Microchip Unveils 3.3 kV SiC Modules for Solid-State Transformers](https://www.powerelectronicsnews.com/microchip-unveils-3-3-kv-sic-modules-for-solid-state-transformers/)
 **Published:** Wed, 27 May 2026 16:00:00 +0000
 
@@ -882,19 +898,11 @@ _Last updated: 2026-05-28 08:11 UTC_
 
 ---
 
-## [Infineon Expands CoolGaN BDS Family](https://www.powerelectronicsnews.com/infineon-expands-coolgan-bds-family/)
-**Published:** Tue, 26 May 2026 11:00:00 +0000
+## [Chiplets, Ecosystems, and Europe’s Post-Fab Semiconductor Strategy](https://www.eetimes.com/chiplets-ecosystems-and-europes-post-fab-semiconductor-strategy/)
+**Published:** Thu, 28 May 2026 08:38:29 +0000
 
-<img alt="Infineon Expands CoolGaN BDS Family." class="webfeedsFeaturedVisual wp-post-image" height="1114" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/coolgan-bds-40v-g3-ufwlb-22-1.jpg?fit=2126%2C1114" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The new CoolGaN switches reduce PCB space and improve efficiency in smartphones, notebooks, and wearable devices.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-expands-coolgan-bds-family/">Infineon Expands CoolGaN BDS Family</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package](https://www.powerelectronicsnews.com/toshiba-starts-sampling-1200v-sic-mosfet-in-qdpak-package/)
-**Published:** Mon, 25 May 2026 20:52:57 +0000
-
-<img alt="Toshiba Starts Sampling New 1200V SiC MOSFET in QDPAK Package." class="webfeedsFeaturedVisual wp-post-image" height="628" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/SiC_MOS_QDPAK_260508.jpg?fit=1200%2C628" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new SiC MOSFET reduces switching and conduction losses for high-density AI and industrial power systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/toshiba-starts-sampling-1200v-sic-mosfet-in-qdpak-package/">Toshiba Starts Sampling 1200V SiC MOSFET in QDPAK Package</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>“Can Europe realistically compete on leading-edge fabs alone?” Maria Marced said. “No.”</p>
+<p>The post <a href="https://www.eetimes.com/chiplets-ecosystems-and-europes-post-fab-semiconductor-strategy/">Chiplets, Ecosystems, and Europe’s Post-Fab Semiconductor Strategy</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -903,6 +911,14 @@ _Last updated: 2026-05-28 08:11 UTC_
 
 <p>Global Unichip Corp. (GUC), the Advanced ASIC Leader, will showcase Jotunn8, a next-generation data center AI inference processor developed by VSORA, at the TSMC Europe Technology Symposium.</p>
 <p>The post <a href="https://www.eetimes.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-the-tsmc-europe-technology-symposium/">GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Nexperia hooks up with Polar for MOSFET fab](https://www.electronicsweekly.com/news/business/nexperia-hooks-up-with-polar-for-mosfet-fab-2026-05/)
+**Published:** Wed, 27 May 2026 13:25:37 +0000
+
+<p>Nexperia is to manufacture power MOSFETs at Polar Semiconductor, the US foundry. Polar , runs a  fab in Minnesota, originally built in 1969, which has extensive experience in power processes. ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/nexperia-hooks-up-with-polar-for-mosfet-fab-2026-05/">Nexperia hooks up with Polar for MOSFET fab</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
