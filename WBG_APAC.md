@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-27 23:30 UTC_
+_Last updated: 2026-05-28 08:11 UTC_
 
 ## [Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers](https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/)
 **Published:** Wed, 27 May 2026 11:43:13 +0000
@@ -15,30 +15,6 @@ _Last updated: 2026-05-27 23:30 UTC_
 
 <p>The showcase highlights the successful collaboration between GUC and VSORA, combining advanced AI architecture with leading-edge ASIC implementation and packaging technologies.</p>
 <p>The post <a href="https://www.eetasia.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-tsmc-europe-technology-symposium/">GUC Showcases VSORA&#8217;s Jotunn8 AI Inference Processor at TSMC Europe Technology Symposium</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [ROBOTECH ASIA to Debut at NEPCON ASIA 2026](https://www.eetasia.com/robotech-asia-to-debut-at-nepcon-asia-2026/)
-**Published:** Tue, 26 May 2026 03:05:14 +0000
-
-<p>NEPCON ASIA 2026 expands manufacturing focus across AI, automotive, semiconductors, and embodied intelligence supply chain ecosystems.</p>
-<p>The post <a href="https://www.eetasia.com/robotech-asia-to-debut-at-nepcon-asia-2026/">ROBOTECH ASIA to Debut at NEPCON ASIA 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [World Micro Inks Global Distribution Agreement with Mobilint](https://www.eetasia.com/world-micro-inks-global-distribution-agreement-with-mobilint/)
-**Published:** Tue, 26 May 2026 02:55:44 +0000
-
-<p>World Micro will offer Mobilint's advanced AI semiconductor solutions to its global customer base.</p>
-<p>The post <a href="https://www.eetasia.com/world-micro-inks-global-distribution-agreement-with-mobilint/">World Micro Inks Global Distribution Agreement with Mobilint</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Axion Expands Operating Platform with Moov Acquisition](https://www.eetasia.com/axion-expands-operating-platform-with-moov-acquisition/)
-**Published:** Tue, 26 May 2026 02:38:25 +0000
-
-<p>The Moov acquisition expands Axion's operating platform and strengthens its position across the semiconductor manufacturing supply chain.</p>
-<p>The post <a href="https://www.eetasia.com/axion-expands-operating-platform-with-moov-acquisition/">Axion Expands Operating Platform with Moov Acquisition</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -927,36 +903,6 @@ _Last updated: 2026-05-27 23:30 UTC_
 
 <p>Global Unichip Corp. (GUC), the Advanced ASIC Leader, will showcase Jotunn8, a next-generation data center AI inference processor developed by VSORA, at the TSMC Europe Technology Symposium.</p>
 <p>The post <a href="https://www.eetimes.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-the-tsmc-europe-technology-symposium/">GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Nexperia hooks up with Polar for MOSFET fab](https://www.electronicsweekly.com/news/business/nexperia-hooks-up-with-polar-for-mosfet-fab-2026-05/)
-**Published:** Wed, 27 May 2026 13:25:37 +0000
-
-<p>Nexperia is to manufacture power MOSFETs at Polar Semiconductor, the US foundry. Polar , runs a  fab in Minnesota, originally built in 1969, which has extensive experience in power processes. ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/nexperia-hooks-up-with-polar-for-mosfet-fab-2026-05/">Nexperia hooks up with Polar for MOSFET fab</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Samsung strike called off as pay rise agreed](https://www.electronicsweekly.com/news/business/samsung-strike-called-off-as-pay-rise-agreed-2026-05/)
-**Published:** Wed, 27 May 2026 05:30:15 +0000
-
-<p>The threatened strike at Samsung Electronics has been averted as 74% of Samsung’s 78,000 workers in its semiconductor unit voted to accept an offer of a bonus of an average ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/samsung-strike-called-off-as-pay-rise-agreed-2026-05/">Samsung strike called off as pay rise agreed</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [JOB: Design Engineer II In Cadence In Bengaluru](https://www.electronicsforu.com/career/design-engineer-ii-cadence-bengaluru)
-**Published:** Tue, 26 May 2026 09:51:30 +0000
-
-<img alt="Cadence" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/11/cadence-noida-office-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Cadence The role will be a key player in the organisation, responsible for characterising and validating Analogue and Digital IP-based Silicon Solutions at Cadence. Candidate should possess strong leadership skills with the ability to manage multiple priorities and guide team members on day-to-day lab tests and silicon characterisation activities. Ownership [&#8230;]
-
----
-
-## [JOB: GET / PGET – Power Electronics Engineer At Xylem In Vadodara](https://www.electronicsforu.com/career/get-pget-power-electronics-engineer-xylem-vadodara)
-**Published:** Tue, 26 May 2026 09:40:17 +0000
-
-<img alt="Garuda3d" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/jobs5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Vadodara Company: Xylem Essential Duties/Principal Responsibilities Minimum Qualifications: Education, Experience, Skills, Abilities, License/Certification
 
 ---
 
