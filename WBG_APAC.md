@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-28 16:07 UTC_
+_Last updated: 2026-05-28 18:50 UTC_
 
 ## [Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers](https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/)
 **Published:** Wed, 27 May 2026 11:43:13 +0000
