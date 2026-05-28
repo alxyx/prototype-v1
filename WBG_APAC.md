@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-28 18:50 UTC_
+_Last updated: 2026-05-28 23:29 UTC_
 
 ## [Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers](https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/)
 **Published:** Wed, 27 May 2026 11:43:13 +0000
@@ -15,6 +15,38 @@ _Last updated: 2026-05-28 18:50 UTC_
 
 <p>The showcase highlights the successful collaboration between GUC and VSORA, combining advanced AI architecture with leading-edge ASIC implementation and packaging technologies.</p>
 <p>The post <a href="https://www.eetasia.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-tsmc-europe-technology-symposium/">GUC Showcases VSORA&#8217;s Jotunn8 AI Inference Processor at TSMC Europe Technology Symposium</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Imec and EV Group Demonstrate Wafer-to-Wafer Hybrid Bonding with 200nm Interconnect Pitch and Record High Overlay Accuracy](https://www.semiconductor-digest.com/imec-and-ev-group-demonstrate-wafer-to-wafer-hybrid-bonding-with-200nm-interconnect-pitch-and-record-high-overlay-accuracy/?utm_source=rss&utm_medium=rss&utm_campaign=imec-and-ev-group-demonstrate-wafer-to-wafer-hybrid-bonding-with-200nm-interconnect-pitch-and-record-high-overlay-accuracy)
+**Published:** Thu, 28 May 2026 21:17:42 +0000
+
+<p>Imec and EV Group (EVG) are focusing on advancing the overlay performance required for advanced logic-to-logic and memory-to-logic tier stacking.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/imec-and-ev-group-demonstrate-wafer-to-wafer-hybrid-bonding-with-200nm-interconnect-pitch-and-record-high-overlay-accuracy/">Imec and EV Group Demonstrate Wafer-to-Wafer Hybrid Bonding with 200nm Interconnect Pitch and Record High Overlay Accuracy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Purdue, GCCS Partner to Scale the Future of Silicon Carbide](https://www.semiconductor-digest.com/purdue-gccs-partner-to-scale-the-future-of-silicon-carbide/?utm_source=rss&utm_medium=rss&utm_campaign=purdue-gccs-partner-to-scale-the-future-of-silicon-carbide)
+**Published:** Thu, 28 May 2026 21:07:38 +0000
+
+<p>Joint initiative targets critical thermal and power bottlenecks in global AI infrastructure.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/purdue-gccs-partner-to-scale-the-future-of-silicon-carbide/">Purdue, GCCS Partner to Scale the Future of Silicon Carbide</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Cadence and Samsung Foundry Deepen 2nm and 3D‑IC Collaboration to Meet Surging AI Infrastructure and Physical AI Demand](https://www.semiconductor-digest.com/cadence-and-samsung-foundry-deepen-2nm-and-3d-ic-collaboration-to-meet-surging-ai-infrastructure-and-physical-ai-demand/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-and-samsung-foundry-deepen-2nm-and-3d-ic-collaboration-to-meet-surging-ai-infrastructure-and-physical-ai-demand)
+**Published:** Thu, 28 May 2026 20:53:19 +0000
+
+<p>Multi-year agreement expands Memory, NVIDIA NVLink-C2C and advanced Interface IP, and agentic AI-optimized GPU‑accelerated EDA and SDA flows on Samsung Foundry’s second-generation 2nm node for next-generation AI infrastructure and physical AI designs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cadence-and-samsung-foundry-deepen-2nm-and-3d-ic-collaboration-to-meet-surging-ai-infrastructure-and-physical-ai-demand/">Cadence and Samsung Foundry Deepen 2nm and 3D‑IC Collaboration to Meet Surging AI Infrastructure and Physical AI Demand</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens and Samsung Foundry Strengthen Collaboration to Advance Silicon Design Enablement](https://www.semiconductor-digest.com/siemens-and-samsung-foundry-strengthen-collaboration-to-advance-silicon-design-enablement/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-and-samsung-foundry-strengthen-collaboration-to-advance-silicon-design-enablement)
+**Published:** Thu, 28 May 2026 20:36:59 +0000
+
+<p>Siemens today announced the latest continued collaboration with Samsung Foundry, reinforcing joint efforts to enable advanced semiconductor design and manufacturing workflows for the global fabless ecosystem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-and-samsung-foundry-strengthen-collaboration-to-advance-silicon-design-enablement/">Siemens and Samsung Foundry Strengthen Collaboration to Advance Silicon Design Enablement</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,38 +815,6 @@ _Last updated: 2026-05-28 18:50 UTC_
 
 <p>Everspin expands on-shore Toggle MRAM technology capabilities, adding support for U.S. government initiatives.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/everspin-executes-40m-agreement-for-mil-aero-mram-applications/">Everspin Executes $40M Agreement for Mil-Aero MRAM Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Appoints Julie Rogers Executive Director of the ESD Alliance](https://www.semiconductor-digest.com/semi-appoints-julie-rogers-executive-director-of-the-esd-alliance/?utm_source=rss&utm_medium=rss&utm_campaign=semi-appoints-julie-rogers-executive-director-of-the-esd-alliance)
-**Published:** Thu, 30 Apr 2026 16:25:53 +0000
-
-<p>SEMI, the industry association serving the global semiconductor and electronics design and manufacturing supply chain, today announced the appointment of Julie Rogers as Executive Director of the Electronic System Design Alliance (ESDA), a SEMI Technology Community.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-appoints-julie-rogers-executive-director-of-the-esd-alliance/">SEMI Appoints Julie Rogers Executive Director of the ESD Alliance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [MIPI Alliance Launches Physical AI Birds of a Feather (BoF) Group Focused on Humanoids](https://www.semiconductor-digest.com/mipi-alliance-launches-physical-ai-birds-of-a-feather-bof-group-focused-on-humanoids/?utm_source=rss&utm_medium=rss&utm_campaign=mipi-alliance-launches-physical-ai-birds-of-a-feather-bof-group-focused-on-humanoids)
-**Published:** Thu, 30 Apr 2026 16:00:37 +0000
-
-<p>The group will examine how MIPI specifications can support the rapidly developing humanoid application space.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/mipi-alliance-launches-physical-ai-birds-of-a-feather-bof-group-focused-on-humanoids/">MIPI Alliance Launches Physical AI Birds of a Feather (BoF) Group Focused on Humanoids</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [POLYN Technology Announces Tapeout of Automotive Chip](https://www.semiconductor-digest.com/polyn-technology-announces-tapeout-of-automotive-chip/?utm_source=rss&utm_medium=rss&utm_campaign=polyn-technology-announces-tapeout-of-automotive-chip)
-**Published:** Wed, 29 Apr 2026 18:19:20 +0000
-
-<p>POLYN Technology, a leader in neuromorphic technology with application-specific Neuromorphic Analog Signal Processing (NASP) products, has taped out a VibroSense engineering chip featuring an analog neuromorphic core for tire friction monitoring.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/polyn-technology-announces-tapeout-of-automotive-chip/">POLYN Technology Announces Tapeout of Automotive Chip</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [KROHNE Dedicates Production Capacity and Establishes U.S. Center of Excellence to Support Explosive Growth in AI-Driven Data Centers](https://www.semiconductor-digest.com/krohne-dedicates-production-capacity-and-establishes-u-s-center-of-excellence-to-support-explosive-growth-in-ai-driven-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=krohne-dedicates-production-capacity-and-establishes-u-s-center-of-excellence-to-support-explosive-growth-in-ai-driven-data-centers)
-**Published:** Wed, 29 Apr 2026 17:52:29 +0000
-
-<p>This strategic move is designed to support the infrastructure behind AI and cloud growth, where accurate, reliable flow measurement is essential to mission-critical cooling and process operations.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/krohne-dedicates-production-capacity-and-establishes-u-s-center-of-excellence-to-support-explosive-growth-in-ai-driven-data-centers/">KROHNE Dedicates Production Capacity and Establishes U.S. Center of Excellence to Support Explosive Growth in AI-Driven Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
