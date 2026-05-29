@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-29 08:09 UTC_
+_Last updated: 2026-05-29 15:46 UTC_
 
 ## [Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers](https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/)
 **Published:** Wed, 27 May 2026 11:43:13 +0000
@@ -810,6 +810,38 @@ _Last updated: 2026-05-29 08:09 UTC_
 
 ---
 
+## [Powerbox Expands Defense Power Portfolio with ECDD Series](https://www.powerelectronicsnews.com/powerbox-expands-defense-power-portfolio-with-ecdd-series/)
+**Published:** Fri, 29 May 2026 15:00:00 +0000
+
+<img alt="Powerbox Introduces Rugged ECDD DC/DC Converters for Defense Platforms." class="webfeedsFeaturedVisual wp-post-image" height="1666" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/POWERBOX_ECDD_DCDC.jpg?fit=2500%2C1666" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>The new conduction-cooled converters provide stable power delivery in harsh mobile and defense environments.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/powerbox-expands-defense-power-portfolio-with-ecdd-series/">Powerbox Expands Defense Power Portfolio with ECDD Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Wide Bandgap Monthly Insights – May 2026](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-may-2026/)
+**Published:** Fri, 29 May 2026 13:21:32 +0000
+
+<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about silicon carbide (SiC), gallium nitride (GaN), and Wide Bandgap Materials!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-may-2026/">Wide Bandgap Monthly Insights &#8211; May 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [The Motor Control Demands of Modern Data Center Cooling](https://www.powerelectronicsnews.com/the-motor-control-demands-of-modern-data-center-cooling/)
+**Published:** Fri, 29 May 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1536" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Allegro_Industrial_Datacenter_Hero.png?fit=2752%2C1536" style="display: block; margin-bottom: 5px; clear: both;" width="2752" /><p>Motor control technology, specifically FOC-based BLDC drivers, is central to meeting the thermal management demands of data centers.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-motor-control-demands-of-modern-data-center-cooling/">The Motor Control Demands of Modern Data Center Cooling</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Vishay Expands IHXL Inductor Series with High-Current Devices](https://www.powerelectronicsnews.com/vishay-expands-ihxl-inductor-series-with-high-current-devices/)
+**Published:** Fri, 29 May 2026 12:00:00 +0000
+
+<img alt="Vishay Expands IHXL Inductor Series with 209 A High-Current Devices." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/55269825223_f635523326_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new IHXL inductors improve core losses, thermal performance and EMC for high-current automotive and industrial systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-expands-ihxl-inductor-series-with-high-current-devices/">Vishay Expands IHXL Inductor Series with High-Current Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [TDK Expands micro POL Power Module Portfolio](https://www.powerelectronicsnews.com/tdk-expands-micro-pol-power-module-portfolio/)
 **Published:** Thu, 28 May 2026 15:00:00 +0000
 
@@ -858,51 +890,11 @@ _Last updated: 2026-05-29 08:09 UTC_
 
 ---
 
-## [Infineon Launches EU Flagship Project Moore4Power](https://www.powerelectronicsnews.com/infineon-launches-eu-flagship-project-moore4power/)
-**Published:** Tue, 26 May 2026 23:20:03 +0000
-
-<img alt="Infineon Launches EU Flagship Project Moore4Power." class="webfeedsFeaturedVisual wp-post-image" height="1417" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/moore4power.jpg?fit=2126%2C1417" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The Moore4Power project pioneers heterogeneous integration of Si, SiC, and GaN to improve efficiency in renewable energy and e-mobility.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-launches-eu-flagship-project-moore4power/">Infineon Launches EU Flagship Project Moore4Power</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Mitsubishi Electric Unveils 8th-Gen NX-Type IGBT Modules](https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-8th-gen-nx-type-igbt-modules/)
-**Published:** Tue, 26 May 2026 16:00:00 +0000
-
-<img alt="Mitsubishi Electric Unveils 8th-Gen NX-Type IGBT Modules for Industrial Drives." class="webfeedsFeaturedVisual wp-post-image" height="844" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/0519_sd.jpg?fit=1500%2C844" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>Optimized eighth-generation IGBTs reduce inverter power loss by up to 19%, with a new 1000A model in the same NX package size.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-8th-gen-nx-type-igbt-modules/">Mitsubishi Electric Unveils 8th-Gen NX-Type IGBT Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [The GaN Ecosystem Developing for SmallSats in New Space](https://www.powerelectronicsnews.com/the-gan-ecosystem-developing-for-smallsats-in-new-space/)
-**Published:** Tue, 26 May 2026 15:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3264" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_1041120427.jpeg?fit=5824%2C3264" style="display: block; margin-bottom: 5px; clear: both;" width="5824" /><p>TI, Renesas, EPC, and Infineon are building a GaN ecosystem targeting smallsat power systems with radiation-hardened devices.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-gan-ecosystem-developing-for-smallsats-in-new-space/">The GaN Ecosystem Developing for SmallSats in New Space</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Real-World Solid-State Transformers Overcome Barriers to Meet Adoption Needs of AC and DC Networks](https://www.powerelectronicsnews.com/real-world-solid-state-transformers-overcome-barriers-to-meet-adoption-needs-of-ac-and-dc-networks/)
-**Published:** Tue, 26 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_76706386.jpeg?fit=4500%2C3000" style="display: block; margin-bottom: 5px; clear: both;" width="4500" /><p>Real-world SST deployments are accelerating as SiC and GaN technology matures and AI data center power requirements intensify.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/real-world-solid-state-transformers-overcome-barriers-to-meet-adoption-needs-of-ac-and-dc-networks/">Real-World Solid-State Transformers Overcome Barriers to Meet Adoption Needs of AC and DC Networks</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Chiplets, Ecosystems, and Europe’s Post-Fab Semiconductor Strategy](https://www.eetimes.com/chiplets-ecosystems-and-europes-post-fab-semiconductor-strategy/)
 **Published:** Thu, 28 May 2026 08:38:29 +0000
 
 <p>“Can Europe realistically compete on leading-edge fabs alone?” Maria Marced said. “No.”</p>
 <p>The post <a href="https://www.eetimes.com/chiplets-ecosystems-and-europes-post-fab-semiconductor-strategy/">Chiplets, Ecosystems, and Europe’s Post-Fab Semiconductor Strategy</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium](https://www.eetimes.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-the-tsmc-europe-technology-symposium/)
-**Published:** Tue, 26 May 2026 13:00:00 +0000
-
-<p>Global Unichip Corp. (GUC), the Advanced ASIC Leader, will showcase Jotunn8, a next-generation data center AI inference processor developed by VSORA, at the TSMC Europe Technology Symposium.</p>
-<p>The post <a href="https://www.eetimes.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-the-tsmc-europe-technology-symposium/">GUC Showcases VSORA’s Jotunn8 AI inference Processor at the TSMC Europe Technology Symposium</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
