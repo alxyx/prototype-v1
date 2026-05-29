@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-29 03:50 UTC_
+_Last updated: 2026-05-29 08:09 UTC_
 
 ## [Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers](https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/)
 **Published:** Wed, 27 May 2026 11:43:13 +0000
@@ -906,11 +906,17 @@ _Last updated: 2026-05-29 03:50 UTC_
 
 ---
 
-## [Nexperia hooks up with Polar for MOSFET fab](https://www.electronicsweekly.com/news/business/nexperia-hooks-up-with-polar-for-mosfet-fab-2026-05/)
-**Published:** Wed, 27 May 2026 13:25:37 +0000
+## [Advanced Online Simulation Tool For Design Verification](https://www.electronicsforu.com/news/advanced-online-simulation-tool-for-design-verification)
+**Published:** Fri, 29 May 2026 06:05:16 +0000
 
-<p>Nexperia is to manufacture power MOSFETs at Polar Semiconductor, the US foundry. Polar , runs a  fab in Minnesota, originally built in 1969, which has extensive experience in power processes. ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/nexperia-hooks-up-with-polar-for-mosfet-fab-2026-05/">Nexperia hooks up with Polar for MOSFET fab</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/Screenshot-2026-05-29-113409-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new browser-based simulation platform is helping engineers accelerate loss and thermal analysis in power electronics design, reducing development time from hours to minutes through rapid virtual verification. A newly launched online simulation platform by ROHM Semiconductor is set to streamline the early-stage design process for power electronics engineers by enabling rapid verification of circuit [&#8230;]
+
+---
+
+## [Electronic Earbot Performs Live Music](https://www.electronicsforu.com/news/electronic-earbot-performs-live-music)
+**Published:** Fri, 29 May 2026 05:54:22 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/usc-robot-learns-music-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers have developed a robotic system with an artificial ear that can listen to and respond to live musical performances in real time, opening new possibilities for adaptive electronics and human-machine collaboration. A research team at the University of Southern California has unveiled a music-playing robot equipped with an electronic ear that can detect, interpret [&#8230;]
 
 ---
 
