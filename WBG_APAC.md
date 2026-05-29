@@ -1,20 +1,12 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-28 23:29 UTC_
+_Last updated: 2026-05-29 03:50 UTC_
 
 ## [Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers](https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/)
 **Published:** Wed, 27 May 2026 11:43:13 +0000
 
 <p>Microchip's 3.3kV HV‑D3 mSiC Power Modules simplify and accelerate the adoption of solid-state transformers in AI hyperscale data centers.</p>
 <p>The post <a href="https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/">Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [GUC Showcases VSORA’s Jotunn8 AI Inference Processor at TSMC Europe Technology Symposium](https://www.eetasia.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-tsmc-europe-technology-symposium/)
-**Published:** Tue, 26 May 2026 05:31:28 +0000
-
-<p>The showcase highlights the successful collaboration between GUC and VSORA, combining advanced AI architecture with leading-edge ASIC implementation and packaging technologies.</p>
-<p>The post <a href="https://www.eetasia.com/guc-showcases-vsoras-jotunn8-ai-inference-processor-at-tsmc-europe-technology-symposium/">GUC Showcases VSORA&#8217;s Jotunn8 AI Inference Processor at TSMC Europe Technology Symposium</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
