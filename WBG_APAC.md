@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-05-30 06:58 UTC_
+_Last updated: 2026-05-30 09:30 UTC_
 
 ## [Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers](https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/)
 **Published:** Wed, 27 May 2026 11:43:13 +0000
@@ -898,17 +898,10 @@ _Last updated: 2026-05-30 06:58 UTC_
 
 ---
 
-## [Advanced Online Simulation Tool For Design Verification](https://www.electronicsforu.com/news/advanced-online-simulation-tool-for-design-verification)
-**Published:** Fri, 29 May 2026 06:05:16 +0000
+## [AI Startup Builds Software Layer for Defence and Forensic Data Analysis](https://www.electronicsforu.com/news/ai-startup-builds-software-layer-for-defence-and-forensic-data-analysis)
+**Published:** Fri, 29 May 2026 12:35:22 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/Screenshot-2026-05-29-113409-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new browser-based simulation platform is helping engineers accelerate loss and thermal analysis in power electronics design, reducing development time from hours to minutes through rapid virtual verification. A newly launched online simulation platform by ROHM Semiconductor is set to streamline the early-stage design process for power electronics engineers by enabling rapid verification of circuit [&#8230;]
-
----
-
-## [Electronic Earbot Performs Live Music](https://www.electronicsforu.com/news/electronic-earbot-performs-live-music)
-**Published:** Fri, 29 May 2026 05:54:22 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/usc-robot-learns-music-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers have developed a robotic system with an artificial ear that can listen to and respond to live musical performances in real time, opening new possibilities for adaptive electronics and human-machine collaboration. A research team at the University of Southern California has unveiled a music-playing robot equipped with an electronic ear that can detect, interpret [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/Ankush-Tiwari-Founder-and-CEO-of-Pi-Labs-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />AI software stack processes defence and law enforcement data, analyses video, audio, and images, and generates intelligence from large unstructured datasets. Defence, intelligence, and law enforcement agencies are dealing with a growing volume of unstructured data—from CCTV footage and audio recordings to images and telecom records—while existing forensic workflows remain largely manual, fragmented, and time-intensive. [&#8230;]
 
 ---
 
