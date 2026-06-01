@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-01 10:33 UTC_
+_Last updated: 2026-06-01 21:09 UTC_
 
 ## [Nordic Chip-to-cloud Solution Enables AI-assisted Workflows Across Entire Product Lifecycle](https://www.eetasia.com/nordic-chip-to-cloud-solution-enables-ai-assisted-workflows-across-entire-product-lifecycle/)
 **Published:** Mon, 01 Jun 2026 00:10:35 +0000
@@ -15,6 +15,46 @@ _Last updated: 2026-06-01 10:33 UTC_
 
 <p>Microchip's 3.3kV HV‑D3 mSiC Power Modules simplify and accelerate the adoption of solid-state transformers in AI hyperscale data centers.</p>
 <p>The post <a href="https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/">Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Invisix Raises €20M Seed Round to Bring Soft X-Ray Metrology to AI-Era Chip Manufacturing](https://www.semiconductor-digest.com/invisix-raises-e20m-seed-round-to-bring-soft-x-ray-metrology-to-ai-era-chip-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=invisix-raises-e20m-seed-round-to-bring-soft-x-ray-metrology-to-ai-era-chip-manufacturing)
+**Published:** Mon, 01 Jun 2026 19:09:36 +0000
+
+<p>Invisix, the semiconductor metrology company developing next-generation measurement tools for advanced chip manufacturing, has raised an oversubscribed €20 million seed round, which includes Hitachi Ventures, Transition Ventures, imec.xpand, Doosan Investment Co., and a tier-1 semiconductor manufacturer.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/invisix-raises-e20m-seed-round-to-bring-soft-x-ray-metrology-to-ai-era-chip-manufacturing/">Invisix Raises €20M Seed Round to Bring Soft X-Ray Metrology to AI-Era Chip Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Samsung Electronics Begins Shipment of Industry-First HBM4E Samples](https://www.semiconductor-digest.com/samsung-electronics-begins-shipment-of-industry-first-hbm4e-samples/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-electronics-begins-shipment-of-industry-first-hbm4e-samples)
+**Published:** Mon, 01 Jun 2026 18:55:43 +0000
+
+<p>Samsung Electronics has begun shipping the industry's first 12-layer HBM4E samples to major global customers, further strengthening its leadership in the next-generation HBM market.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/samsung-electronics-begins-shipment-of-industry-first-hbm4e-samples/">Samsung Electronics Begins Shipment of Industry-First HBM4E Samples</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Seoul Semiconductor’s World-First ‘HV Opto-Semiconductor’ Powers Up Global Top 4 Automakers](https://www.semiconductor-digest.com/seoul-semiconductors-world-first-hv-opto-semiconductor-powers-up-global-top-4-automakers/?utm_source=rss&utm_medium=rss&utm_campaign=seoul-semiconductors-world-first-hv-opto-semiconductor-powers-up-global-top-4-automakers)
+**Published:** Mon, 01 Jun 2026 18:48:28 +0000
+
+<p>Seoul Semiconductor Co., Ltd. announced that its world's first High Voltage (HV) opto-semiconductor technology has entered mass production with four of the world's top automotive brands across the Americas, Europe, and Asia, with plans to expand supply to 10 models by the end of the year.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/seoul-semiconductors-world-first-hv-opto-semiconductor-powers-up-global-top-4-automakers/">Seoul Semiconductor&#8217;s World-First &#8216;HV Opto-Semiconductor&#8217; Powers Up Global Top 4 Automakers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Hemlock Semiconductor Appoints New Vice President of Manufacturing](https://www.semiconductor-digest.com/hemlock-semiconductor-appoints-new-vice-president-of-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=hemlock-semiconductor-appoints-new-vice-president-of-manufacturing)
+**Published:** Mon, 01 Jun 2026 18:40:23 +0000
+
+<p>Hemlock Semiconductor, the nation’s leading manufacturer of hyper-pure polysilicon for the semiconductor and solar industries, today announced the appointment of Drew Laney as vice president of manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hemlock-semiconductor-appoints-new-vice-president-of-manufacturing/">Hemlock Semiconductor Appoints New Vice President of Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [New Report Finds Semiconductors Account for 95% of an AI Data Server Rack’s Value, Encompassing the Full Stack of Chip Technologies](https://www.semiconductor-digest.com/new-report-finds-semiconductors-account-for-95-of-an-ai-data-server-racks-value-encompassing-the-full-stack-of-chip-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=new-report-finds-semiconductors-account-for-95-of-an-ai-data-server-racks-value-encompassing-the-full-stack-of-chip-technologies)
+**Published:** Mon, 01 Jun 2026 18:36:42 +0000
+
+<p>SIA-Deloitte study estimates annual revenue from chips deployed in AI data centers could reach over $1.2 trillion by 2028, a nearly tenfold increase over four years.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-report-finds-semiconductors-account-for-95-of-an-ai-data-server-racks-value-encompassing-the-full-stack-of-chip-technologies/">New Report Finds Semiconductors Account for 95% of an AI Data Server Rack’s Value, Encompassing the Full Stack of Chip Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -778,43 +818,43 @@ _Last updated: 2026-06-01 10:33 UTC_
 
 ---
 
-## [Siemens Achieves $1B in U.S. Manufacturing Investments](https://www.semiconductor-digest.com/siemens-achieves-1b-in-u-s-manufacturing-investments/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-achieves-1b-in-u-s-manufacturing-investments)
-**Published:** Mon, 04 May 2026 19:12:56 +0000
+## [Infineon Joins Nvidia MGX Ecosystem for 800 VDC AI Power Architectures](https://www.powerelectronicsnews.com/infineon-joins-nvidia-mgx-ecosystem-for-800-vdc-ai-power-architectures/)
+**Published:** Mon, 01 Jun 2026 14:52:13 +0000
 
-<p>Siemens today announced it has reached $1 billion in domestic manufacturing investments to support American industry, infrastructure and transportation over the past five years.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-achieves-1b-in-u-s-manufacturing-investments/">Siemens Achieves $1B in U.S. Manufacturing Investments</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries Accelerates Adoption of Co-Packaged Optics for Advanced AI Data Centers with SCALE Optical Module Solution](https://www.semiconductor-digest.com/globalfoundries-accelerates-adoption-of-co-packaged-optics-for-advanced-ai-data-centers-with-scale-optical-module-solution/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-accelerates-adoption-of-co-packaged-optics-for-advanced-ai-data-centers-with-scale-optical-module-solution)
-**Published:** Mon, 04 May 2026 18:58:07 +0000
-
-<p>GlobalFoundries today announced the introduction of its SCALE optical module solution for co-packaged optics (CPO). GF’s SCALE solution, or Silicon photonics Co-packaged Advanced Light Engine solution, is the industry’s first Optical Compute Interconnect Multi-Source Agreement (OCI MSA) capable platform.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-accelerates-adoption-of-co-packaged-optics-for-advanced-ai-data-centers-with-scale-optical-module-solution/">GlobalFoundries Accelerates Adoption of Co-Packaged Optics for Advanced AI Data Centers with SCALE Optical Module Solution</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Infineon Joins Nvidia MGX Ecosystem for 800 VDC AI Power Architectures." class="webfeedsFeaturedVisual wp-post-image" height="1000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/adam-white-2.jpg?fit=1500%2C1000" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>High-efficiency 800 VDC power conversion targets next-generation AI server racks and accelerated computing systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-joins-nvidia-mgx-ecosystem-for-800-vdc-ai-power-architectures/">Infineon Joins Nvidia MGX Ecosystem for 800 VDC AI Power Architectures</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [GOWIN Semiconductor Collaborates with JLCPCB](https://www.semiconductor-digest.com/gowin-semiconductor-collaborates-with-jlcpcb/?utm_source=rss&utm_medium=rss&utm_campaign=gowin-semiconductor-collaborates-with-jlcpcb)
-**Published:** Fri, 01 May 2026 17:55:58 +0000
+## [Imec Explores the Future of AI Hardware](https://www.powerelectronicsnews.com/imec-explores-the-future-of-ai-hardware/)
+**Published:** Mon, 01 Jun 2026 14:42:14 +0000
 
-<p>New cooperation supports makers, educators, and commercial teams requiring fast, low-quantity FPGA access.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/gowin-semiconductor-collaborates-with-jlcpcb/">GOWIN Semiconductor Collaborates with JLCPCB</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Amtech Systems Appoints Thomas Sabol as Chief Financial Officer](https://www.semiconductor-digest.com/amtech-systems-appoints-thomas-sabol-as-chief-financial-officer/?utm_source=rss&utm_medium=rss&utm_campaign=amtech-systems-appoints-thomas-sabol-as-chief-financial-officer)
-**Published:** Fri, 01 May 2026 17:42:21 +0000
-
-<p>Amtech Systems, Inc., a manufacturer of equipment and consumables enabling AI semiconductor device packaging and advanced substrate fabrication, today announced the appointment of Mr. Thomas Sabol as the Company’s Chief Financial Officer, effective May 14, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/amtech-systems-appoints-thomas-sabol-as-chief-financial-officer/">Amtech Systems Appoints Thomas Sabol as Chief Financial Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/itf-world-2026-audience1.jpg?fit=1080%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1080" /><p>Imec's ITF World 2026 showcased AI hardware scaling roadmaps, from CMOS advances to physical AI and medical data applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/imec-explores-the-future-of-ai-hardware/">Imec Explores the Future of AI Hardware</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Nordson Test & Inspection Announces Partnership with Quiptech Mexico](https://www.semiconductor-digest.com/nordson-test-inspection-announces-partnership-with-quiptech-mexico/?utm_source=rss&utm_medium=rss&utm_campaign=nordson-test-inspection-announces-partnership-with-quiptech-mexico)
-**Published:** Fri, 01 May 2026 16:59:42 +0000
+## [PEN eBook June 2026 – The Gigawatt Era: Power Electronics in the Age of AI](https://www.powerelectronicsnews.com/pen-ebook-june-2026-the-gigawatt-era-power-electronics-in-the-age-of-ai/)
+**Published:** Mon, 01 Jun 2026 13:00:00 +0000
 
-<p>Quiptech Mexico will serve as an authorized distributor for Nordson Test &#038; Inspection products in Mexico, providing local sales, technical support, and responsive service.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nordson-test-inspection-announces-partnership-with-quiptech-mexico/">Nordson Test &#038; Inspection Announces Partnership with Quiptech Mexico</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="PEN eBook 2026 June" class="webfeedsFeaturedVisual wp-post-image" height="1131" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/PEN_June_2026-1.jpg?fit=800%2C1131" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>GaN, SiC, and VPD technologies are rapidly closing the gap between grid power and the power-hungry AI chip.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/pen-ebook-june-2026-the-gigawatt-era-power-electronics-in-the-age-of-ai/">PEN eBook June 2026 &#8211; The Gigawatt Era: Power Electronics in the Age of AI</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Bidirectional SSCBs Based on Half-Bridge SiC Modules](https://www.powerelectronicsnews.com/bidirectional-sscbs-based-on-half-bridge-sic-modules/)
+**Published:** Mon, 01 Jun 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2412" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_526440454.jpeg?fit=6000%2C2412" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>DC faults in 800V AI data center architectures develop in microseconds, requiring solid-state breakers and hierarchical protection design.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/bidirectional-sscbs-based-on-half-bridge-sic-modules/">Bidirectional SSCBs Based on Half-Bridge SiC Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [TDK Ventures Backs C2i’s Software-Defined Voltage Regulator Platform](https://www.powerelectronicsnews.com/tdk-ventures-backs-c2is-software-defined-voltage-regulator-platform/)
+**Published:** Mon, 01 Jun 2026 13:00:00 +0000
+
+<img alt="TDK Ventures Backs C2i’s Software-Defined Voltage Regulator Platform." class="webfeedsFeaturedVisual wp-post-image" height="183" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/LOGO.png?fit=275%2C183" style="display: block; margin-bottom: 5px; clear: both;" width="275" /><p>C2i aims to improve AI data center efficiency with software-defined voltage regulators and advanced power architectures.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tdk-ventures-backs-c2is-software-defined-voltage-regulator-platform/">TDK Ventures Backs C2i’s Software-Defined Voltage Regulator Platform</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -858,51 +898,27 @@ _Last updated: 2026-06-01 10:33 UTC_
 
 ---
 
-## [TDK Expands micro POL Power Module Portfolio](https://www.powerelectronicsnews.com/tdk-expands-micro-pol-power-module-portfolio/)
-**Published:** Thu, 28 May 2026 15:00:00 +0000
+## [TSMC Defends Transistor Scaling Amid Huawei’s ‘Her’s Law’ Proposal](https://www.eetimes.com/tsmc-defends-transistor-scaling-amid-huaweis-hers-law-proposal/)
+**Published:** Mon, 01 Jun 2026 18:12:48 +0000
 
-<img alt="TDK Expands micro POL Power Module Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="1153" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/press_2026051901_photo_w.png?fit=2000%2C1153" style="display: block; margin-bottom: 5px; clear: both;" width="2000" /><p>The new micro POL power module delivers 3 A in a 2.5×2.5 mm footprint with 95% efficiency for optical modules and AI chipsets.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tdk-expands-micro-pol-power-module-portfolio/">TDK Expands micro POL Power Module Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Corner: Beyond SiC and GaN—Von Ardenne’s Guido Überreiter on Gallium Oxide and the Case for PVD](https://www.powerelectronicsnews.com/power-corner-beyond-sic-and-gan-von-ardennes-guido-uberreiter-on-gallium-oxide-and-the-case-for-pvd/)
-**Published:** Thu, 28 May 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Von-Ardenne-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Guido Überreiter explains how Von Ardenne's PVD platform is advancing gallium oxide as a next-generation power semiconductor.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-beyond-sic-and-gan-von-ardennes-guido-uberreiter-on-gallium-oxide-and-the-case-for-pvd/">Power Corner: Beyond SiC and GaN—Von Ardenne&#8217;s Guido Überreiter on Gallium Oxide and the Case for PVD</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Kevin Zhang said 3D integration is important, but transistor scaling remains the semiconductor industry's primary driver of performance and energy-efficiency gains.</p>
+<p>The post <a href="https://www.eetimes.com/tsmc-defends-transistor-scaling-amid-huaweis-hers-law-proposal/">TSMC Defends Transistor Scaling Amid Huawei&#8217;s ‘Her’s Law’ Proposal</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
-## [Microchip Unveils 3.3 kV SiC Modules for Solid-State Transformers](https://www.powerelectronicsnews.com/microchip-unveils-3-3-kv-sic-modules-for-solid-state-transformers/)
-**Published:** Wed, 27 May 2026 16:00:00 +0000
+## [High-Voltage GaN Bi-Directional Switches: Strong Performance, Simpler to Use](https://www.eetimes.com/high-voltage-gan-bi-directional-switches-strong-performance-simpler-to-use/)
+**Published:** Mon, 01 Jun 2026 14:00:00 +0000
 
-<img alt="Microchip Unveils 3.3 kV SiC Modules for Solid-State Transformers." class="webfeedsFeaturedVisual wp-post-image" height="889" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/55264371024_5ac9c76d5e_h.jpg?fit=1600%2C889" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new SiC modules improve high-voltage power conversion efficiency and thermal performance in next-gen AI infrastructure.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/microchip-unveils-3-3-kv-sic-modules-for-solid-state-transformers/">Microchip Unveils 3.3 kV SiC Modules for Solid-State Transformers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [ROHM Unveils ESD Protection Diodes for High-Speed Interfaces](https://www.powerelectronicsnews.com/rohm-unveils-esd-protection-diodes-for-high-speed-interfaces/)
-**Published:** Wed, 27 May 2026 15:00:00 +0000
-
-<img alt="ROHM Unveils ESD Protection Diodes for High-Speed Interfaces." class="webfeedsFeaturedVisual wp-post-image" height="473" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/260521_diode_1.jpg?fit=757%2C473" style="display: block; margin-bottom: 5px; clear: both;" width="757" /><p>The new ESD protection diodes break the capacitance-resistance trade-off, reducing clamping voltage by 40% for high-speed interfaces.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/rohm-unveils-esd-protection-diodes-for-high-speed-interfaces/">ROHM Unveils ESD Protection Diodes for High-Speed Interfaces</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>The demand for more efficient power solutions continues to put pressure on designers to optimize system design without compromising performance. Read how you can simplify high-voltage power conversion and reduce system cost, size and complexity for a range of demanding applications with GaN BDS. High-voltage GaN bi-directional switches enable implementation of single-stage power converters with [&#8230;]</p>
+<p>The post <a href="https://www.eetimes.com/high-voltage-gan-bi-directional-switches-strong-performance-simpler-to-use/">High-Voltage GaN Bi-Directional Switches: Strong Performance, Simpler to Use</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
-## [DC Protection in High-Voltage AI Data Center Power Architectures](https://www.powerelectronicsnews.com/dc-protection-in-high-voltage-ai-data-center-power-architectures/)
-**Published:** Wed, 27 May 2026 13:00:00 +0000
+## [Product Recall Management Guide for Electronics Manufacturing SMBs](https://www.eetimes.com/product-recall-management-guide-for-electronics-manufacturing-smbs/)
+**Published:** Mon, 01 Jun 2026 13:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2880" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_350459236.jpeg?fit=5120%2C2880" style="display: block; margin-bottom: 5px; clear: both;" width="5120" /><p>High-voltage DC distribution reduces losses in AI data centers, but demands coordinated, multi-layer solid-state fault protection.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/dc-protection-in-high-voltage-ai-data-center-power-architectures/">DC Protection in High-Voltage AI Data Center Power Architectures</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Chiplets, Ecosystems, and Europe’s Post-Fab Semiconductor Strategy](https://www.eetimes.com/chiplets-ecosystems-and-europes-post-fab-semiconductor-strategy/)
-**Published:** Thu, 28 May 2026 08:38:29 +0000
-
-<p>“Can Europe realistically compete on leading-edge fabs alone?” Maria Marced said. “No.”</p>
-<p>The post <a href="https://www.eetimes.com/chiplets-ecosystems-and-europes-post-fab-semiconductor-strategy/">Chiplets, Ecosystems, and Europe’s Post-Fab Semiconductor Strategy</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>This guide explains what product recalls are, what risks they create, and how small and midsize manufacturers can handle them in an organized way.</p>
+<p>The post <a href="https://www.eetimes.com/product-recall-management-guide-for-electronics-manufacturing-smbs/">Product Recall Management Guide for Electronics Manufacturing SMBs</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
