@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-01 04:18 UTC_
+_Last updated: 2026-06-01 10:33 UTC_
 
 ## [Nordic Chip-to-cloud Solution Enables AI-assisted Workflows Across Entire Product Lifecycle](https://www.eetasia.com/nordic-chip-to-cloud-solution-enables-ai-assisted-workflows-across-entire-product-lifecycle/)
 **Published:** Mon, 01 Jun 2026 00:10:35 +0000
@@ -906,10 +906,46 @@ _Last updated: 2026-06-01 04:18 UTC_
 
 ---
 
-## [AI Startup Builds Software Layer for Defence and Forensic Data Analysis](https://www.electronicsforu.com/news/ai-startup-builds-software-layer-for-defence-and-forensic-data-analysis)
-**Published:** Fri, 29 May 2026 12:35:22 +0000
+## [Microchip 100/1000BASE‑T1 SPE PHYs integrate MACsec security](https://www.electronicsweekly.com/news/products/connectors/microchip-100-1000base%e2%80%91t1-spe-phys-integrate-macsec-security-2026-06/)
+**Published:** Mon, 01 Jun 2026 09:31:02 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/Ankush-Tiwari-Founder-and-CEO-of-Pi-Labs-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />AI software stack processes defence and law enforcement data, analyses video, audio, and images, and generates intelligence from large unstructured datasets. Defence, intelligence, and law enforcement agencies are dealing with a growing volume of unstructured data—from CCTV footage and audio recordings to images and telecom records—while existing forensic workflows remain largely manual, fragmented, and time-intensive. [&#8230;]
+<p>Microchip Technology is sampling its LAN878x and LAN888x families of Single Pair Ethernet (SPE) PHY (physical layer) transceivers, which are available in 100BASE-T1, 1000BASE-T1 and dual-speed 100/1000BASE-T1. As well as ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/connectors/microchip-100-1000base%e2%80%91t1-spe-phys-integrate-macsec-security-2026-06/">Microchip 100/1000BASE‑T1 SPE PHYs integrate MACsec security</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [“We Can Turn Any IP Camera Into A Real-Time, AI-Powered Monitor”](https://www.electronicsforu.com/electronics-startups/we-can-turn-any-ip-camera-into-a-real-time-ai-powered-monitor)
+**Published:** Mon, 01 Jun 2026 07:15:25 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/Quantum-Vision-X-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A Vellore-based startup claims to turn any camera into a system that detects tampering, tracks people, and sends real-time alerts across multiple locations. Quantum Sharq, a Vellore-based private limited startup established in 2023, began with a clear goal: creating practical solutions that deliver measurable impact. The company initially focused on healthcare, where Dr M. Saravanan, [&#8230;]
+
+---
+
+## [Kerala Firm Launches Homegrown AI SoC](https://www.electronicsforu.com/news/kerala-firm-launches-homegrown-ai-soc)
+**Published:** Mon, 01 Jun 2026 07:14:18 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/WhatsApp-Image-2026-05-29-at-15.36.39-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />This AI system on chip integrates proprietary processing engines and hardware accelerators to enable real time intelligence at the edge.  Netrasemi, a Thiruvananthapuram based semiconductor startup has unveiled its flagship AI system on chip (SoC), A2000, a processor designed to bring advanced artificial intelligence capabilities to compact edge devices. The chip has successfully completed silicon [&#8230;]
+
+---
+
+## [Turning Disposable Vape Into Mini Web Server](https://www.electronicsforu.com/news/turning-disposable-vape-into-mini-web-server)
+**Published:** Mon, 01 Jun 2026 07:05:59 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Untitled-design-1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What can be done with the electronics inside a discarded vape? One engineer has answered that question to the unthinkable. Romanian engineer and maker Bogdan Ionescu has converted a discarded disposable vape into a fully functional web server, showcasing how everyday electronic waste can be repurposed for computing applications. The project began when Ionescu, who [&#8230;]
+
+---
+
+## [Tabletop System Brings Chip Making to More Labs](https://www.electronicsforu.com/news/tabletop-system-brings-chip-making-to-more-labs)
+**Published:** Mon, 01 Jun 2026 06:01:54 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/minutes-instead-of-day-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A tabletop chip-making system can print multiple nanoscale layers at once, cutting fabrication time from days to minutes and lowering research costs. Researchers at the University of Texas at Austin have developed a tabletop extreme ultraviolet (EUV) lithography system that could make semiconductor research more accessible by reducing the cost and complexity of chip fabrication [&#8230;]
+
+---
+
+## [Open Frontier AI Model For Robotics and Autonomous Systems](https://www.electronicsforu.com/news/new-products/open-frontier-ai-model-for-robotics-and-autonomous-systems)
+**Published:** Mon, 01 Jun 2026 05:56:35 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/54961e64-210a-484c-8f5e-cbf4ecd20c34-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new open foundation model aims to help robots, autonomous vehicles and industrial machines better understand, simulate and interact with real-world environments through advanced physical reasoning and world-generation capabilities. A major new foundation model for physical AI has been unveiled by NVIDIA, marking a significant step toward more capable robots, autonomous vehicles and intelligent industrial [&#8230;]
 
 ---
 
