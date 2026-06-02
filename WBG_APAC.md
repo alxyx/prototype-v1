@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-02 08:55 UTC_
+_Last updated: 2026-06-02 21:02 UTC_
 
 ## [USI to Showcase Advanced SiC Chip-embedded Packaging Technology at PCIM Europe 2026](https://www.eetasia.com/usi-to-showcase-advanced-sic-chip-embedded-packaging-technology-at-pcim-europe-2026/)
 **Published:** Mon, 01 Jun 2026 23:24:06 +0000
@@ -23,6 +23,54 @@ _Last updated: 2026-06-02 08:55 UTC_
 
 <p>Nordic Semiconductor is bringing AI-assisted development to all parts of the IoT device lifecycle with its complete chip-to-cloud solution.</p>
 <p>The post <a href="https://www.eetasia.com/nordic-chip-to-cloud-solution-enables-ai-assisted-workflows-across-entire-product-lifecycle/">Nordic Chip-to-cloud Solution Enables AI-assisted Workflows Across Entire Product Lifecycle</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [New Hand Sensors Turn Post-Stroke Rehab Into an On-Screen Game](https://www.semiconductor-digest.com/new-hand-sensors-turn-post-stroke-rehab-into-an-on-screen-game/?utm_source=rss&utm_medium=rss&utm_campaign=new-hand-sensors-turn-post-stroke-rehab-into-an-on-screen-game)
+**Published:** Tue, 02 Jun 2026 18:18:29 +0000
+
+<p>New paper-thin piezoelectric patch sensors designed for at-home stroke rehabilitation may soon revolutionize post-stroke care by offering potential accessible, efficient rehabilitation and improving patient outcomes through self-motivated healthcare and entertainment. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-hand-sensors-turn-post-stroke-rehab-into-an-on-screen-game/">New Hand Sensors Turn Post-Stroke Rehab Into an On-Screen Game</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [xLight Finalizes $150M CHIPS Incentives with U.S. Department of Commerce](https://www.semiconductor-digest.com/xlight-finalizes-150m-chips-incentives-with-u-s-department-of-commerce/?utm_source=rss&utm_medium=rss&utm_campaign=xlight-finalizes-150m-chips-incentives-with-u-s-department-of-commerce)
+**Published:** Tue, 02 Jun 2026 17:29:39 +0000
+
+<p>xLight, the American company building the world’s most powerful lasers, today announced the signing of a final award of $150 million in federal incentives under the CHIPS and Science Act with the U.S. Department of Commerce and the National Institute of Standards and Technology (NIST).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/xlight-finalizes-150m-chips-incentives-with-u-s-department-of-commerce/">xLight Finalizes $150M CHIPS Incentives with U.S. Department of Commerce</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NNME Northeast, Led by NY Creates, Launches to Strengthen Semiconductor Workforce Pathways Across the Greater Northeast](https://www.semiconductor-digest.com/nnme-northeast-launches/?utm_source=rss&utm_medium=rss&utm_campaign=nnme-northeast-launches)
+**Published:** Tue, 02 Jun 2026 17:17:34 +0000
+
+<p>Regional collaboration led by NY Creates and SUNY will connect education, workforce, industry, and economic development partners across 12 states as part of the National Network for Microelectronics Education.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nnme-northeast-launches/">NNME Northeast, Led by NY Creates, Launches to Strengthen Semiconductor Workforce Pathways Across the Greater Northeast</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Sivers & GlobalFoundries Advance AI Data Center Optical Solutions](https://www.semiconductor-digest.com/sivers-globalfoundries-advance-ai-data-center-optical-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-globalfoundries-advance-ai-data-center-optical-solutions)
+**Published:** Tue, 02 Jun 2026 16:28:00 +0000
+
+<p>Sivers Semiconductors AB today announced a strategic collaboration with GlobalFoundries, to develop advanced silicon photonics solutions for the high-growth AI infrastructure market.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sivers-globalfoundries-advance-ai-data-center-optical-solutions/">Sivers &#038; GlobalFoundries Advance AI Data Center Optical Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Festo VTOC Valve Terminal Enhances Valve Control in Semiconductor Fabrication](https://www.semiconductor-digest.com/festo-vtoc-valve-terminal-enhances-valve-control-in-semiconductor-fabrication/?utm_source=rss&utm_medium=rss&utm_campaign=festo-vtoc-valve-terminal-enhances-valve-control-in-semiconductor-fabrication)
+**Published:** Tue, 02 Jun 2026 16:14:59 +0000
+
+<p>Festo offers the VTOC valve terminal designed for high-density semiconductor applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/festo-vtoc-valve-terminal-enhances-valve-control-in-semiconductor-fabrication/">Festo VTOC Valve Terminal Enhances Valve Control in Semiconductor Fabrication</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [What’s in the June Issue?](https://www.semiconductor-digest.com/whats-in-the-june-issue-5/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-june-issue-5)
+**Published:** Tue, 02 Jun 2026 15:45:18 +0000
+
+<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the June issue. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-june-issue-5/">What&#8217;s in the June Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -778,51 +826,19 @@ _Last updated: 2026-06-02 08:55 UTC_
 
 ---
 
-## [Uviquity Announces the World’s First Chip-Scale Deep-UV Laser at 229nm](https://www.semiconductor-digest.com/uviquity-announces-the-worlds-first-chip-scale-deep-uv-laser-at-229nm/?utm_source=rss&utm_medium=rss&utm_campaign=uviquity-announces-the-worlds-first-chip-scale-deep-uv-laser-at-229nm)
-**Published:** Tue, 05 May 2026 21:44:55 +0000
+## [Power Electronics Course with QSPICE (Episode 11): Circuit Protection—Fuses](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-11-circuit-protection-fuses/)
+**Published:** Tue, 02 Jun 2026 13:00:00 +0000
 
-<p>Aluminum nitride photonic integrated circuit brings chip-scale deep-UV light to analytical and inspection instruments serving semiconductor, pharmaceutical/biopharmaceutical, petrochemical, environmental, and defense markets.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/uviquity-announces-the-worlds-first-chip-scale-deep-uv-laser-at-229nm/">Uviquity Announces the World&#8217;s First Chip-Scale Deep-UV Laser at 229nm</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Xanadu and EV Group Partner to Build Industrial-Scale Photonic Quantum Hardware](https://www.semiconductor-digest.com/xanadu-and-ev-group-partner-to-build-industrial-scale-photonic-quantum-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=xanadu-and-ev-group-partner-to-build-industrial-scale-photonic-quantum-hardware)
-**Published:** Tue, 05 May 2026 21:37:18 +0000
-
-<p>Xanadu Quantum Technologies Ltd. and EV Group today announced a strategic partnership to develop critical heterogeneous integration and wafer bonding processes to facilitate the scalability of photonic quantum systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/xanadu-and-ev-group-partner-to-build-industrial-scale-photonic-quantum-hardware/">Xanadu and EV Group Partner to Build Industrial-Scale Photonic Quantum Hardware</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>Episode 11 of the QSPICE course covers fuse operation, characteristics, SPICE modeling, and circuit simulation for overcurrent protection.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-11-circuit-protection-fuses/">Power Electronics Course with QSPICE (Episode 11): Circuit Protection—Fuses</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [TechniQuip Introduces FlightDeck Operating System](https://www.semiconductor-digest.com/techniquip-introduces-flightdeck-operating-system/?utm_source=rss&utm_medium=rss&utm_campaign=techniquip-introduces-flightdeck-operating-system)
-**Published:** Tue, 05 May 2026 21:26:40 +0000
+## [Power Integrations Introduces New GaN-Based Auxiliary PSUs](https://www.powerelectronicsnews.com/power-integrations-introduces-new-gan-based-auxiliary-psus/)
+**Published:** Tue, 02 Jun 2026 11:00:00 +0000
 
-<p>TechniQuip, designers and builders of precision OEM illumination for applications in semiconductor, life sciences and medical devices, announces today the introduction of the FlightDeck.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/techniquip-introduces-flightdeck-operating-system/">TechniQuip Introduces FlightDeck Operating System</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [What’s in the April/May Issue?](https://www.semiconductor-digest.com/whats-in-the-april-may-issue-6/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-april-may-issue-6)
-**Published:** Tue, 05 May 2026 19:17:58 +0000
-
-<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the April/May issue. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-april-may-issue-6/">What&#8217;s in the April/May Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SNU Researchers Develop Battery-Free Skin-Conformal Wearable System](https://www.semiconductor-digest.com/snu-researchers-develop-battery-free-skin-conformal-wearable-system/?utm_source=rss&utm_medium=rss&utm_campaign=snu-researchers-develop-battery-free-skin-conformal-wearable-system)
-**Published:** Mon, 04 May 2026 19:28:19 +0000
-
-<p>Breakthrough addresses a key power supply challenge in wearable devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/snu-researchers-develop-battery-free-skin-conformal-wearable-system/">SNU Researchers Develop Battery-Free Skin-Conformal Wearable System</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Applied Materials Broadens Advanced Packaging Portfolio with Acquisition of NEXX](https://www.semiconductor-digest.com/applied-materials-broadens-advanced-packaging-portfolio-with-acquisition-of-nexx/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-broadens-advanced-packaging-portfolio-with-acquisition-of-nexx)
-**Published:** Mon, 04 May 2026 19:21:19 +0000
-
-<p>Applied Materials, Inc. today announced it has entered into a definitive agreement with ASMPT Limited to acquire its NEXX business, a supplier of large-area advanced packaging deposition equipment for the semiconductor industry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-broadens-advanced-packaging-portfolio-with-acquisition-of-nexx/">Applied Materials Broadens Advanced Packaging Portfolio with Acquisition of NEXX</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Power Integrations Introduces New GaN-Based Auxiliary PSUs." class="webfeedsFeaturedVisual wp-post-image" height="1260" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/1110-and-1114-PR-2400x1260-052726-1.jpg?fit=2400%2C1260" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new GaN-based auxiliary PSU designs reduce board space and component count in 800 VDC AI server infrastructure.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-integrations-introduces-new-gan-based-auxiliary-psus/">Power Integrations Introduces New GaN-Based Auxiliary PSUs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -890,19 +906,11 @@ _Last updated: 2026-06-02 08:55 UTC_
 
 ---
 
-## [The Motor Control Demands of Modern Data Center Cooling](https://www.powerelectronicsnews.com/the-motor-control-demands-of-modern-data-center-cooling/)
-**Published:** Fri, 29 May 2026 13:00:00 +0000
+## [Physical AI Pushes Chipmakers Up the Value Chain](https://www.eetimes.com/physical-ai-pushes-chipmakers-up-the-value-chain/)
+**Published:** Tue, 02 Jun 2026 14:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1536" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Allegro_Industrial_Datacenter_Hero.png?fit=2752%2C1536" style="display: block; margin-bottom: 5px; clear: both;" width="2752" /><p>Motor control technology, specifically FOC-based BLDC drivers, is central to meeting the thermal management demands of data centers.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-motor-control-demands-of-modern-data-center-cooling/">The Motor Control Demands of Modern Data Center Cooling</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Vishay Expands IHXL Inductor Series with High-Current Devices](https://www.powerelectronicsnews.com/vishay-expands-ihxl-inductor-series-with-high-current-devices/)
-**Published:** Fri, 29 May 2026 12:00:00 +0000
-
-<img alt="Vishay Expands IHXL Inductor Series with 209 A High-Current Devices." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/55269825223_f635523326_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new IHXL inductors improve core losses, thermal performance and EMC for high-current automotive and industrial systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vishay-expands-ihxl-inductor-series-with-high-current-devices/">Vishay Expands IHXL Inductor Series with High-Current Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>At the TSMC European Symposium, European semiconductor CEOs spoke about how AI in influencing business.</p>
+<p>The post <a href="https://www.eetimes.com/physical-ai-pushes-chipmakers-up-the-value-chain/">Physical AI Pushes Chipmakers Up the Value Chain</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
