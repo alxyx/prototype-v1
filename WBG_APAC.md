@@ -1,20 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-01 21:09 UTC_
+_Last updated: 2026-06-02 08:55 UTC_
+
+## [USI to Showcase Advanced SiC Chip-embedded Packaging Technology at PCIM Europe 2026](https://www.eetasia.com/usi-to-showcase-advanced-sic-chip-embedded-packaging-technology-at-pcim-europe-2026/)
+**Published:** Mon, 01 Jun 2026 23:24:06 +0000
+
+<p>USI has achieved a breakthrough in advanced power semiconductor packaging technology designed for next-generation power solutions.</p>
+<p>The post <a href="https://www.eetasia.com/usi-to-showcase-advanced-sic-chip-embedded-packaging-technology-at-pcim-europe-2026/">USI to Showcase Advanced SiC Chip-embedded Packaging Technology at PCIM Europe 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Huawei Tau Scaling Law: Next Guiding Principle for Semiconductor Evolution](https://www.eetasia.com/huawei-tau-scaling-law-next-guiding-principle-for-semiconductor-evolution/)
+**Published:** Mon, 01 Jun 2026 23:19:23 +0000
+
+<p>Huawei proposes the Tau Scaling Law to extend semiconductor advancement beyond Moore’s Law through time-based optimization.</p>
+<p>The post <a href="https://www.eetasia.com/huawei-tau-scaling-law-next-guiding-principle-for-semiconductor-evolution/">Huawei Tau Scaling Law: Next Guiding Principle for Semiconductor Evolution</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Nordic Chip-to-cloud Solution Enables AI-assisted Workflows Across Entire Product Lifecycle](https://www.eetasia.com/nordic-chip-to-cloud-solution-enables-ai-assisted-workflows-across-entire-product-lifecycle/)
 **Published:** Mon, 01 Jun 2026 00:10:35 +0000
 
 <p>Nordic Semiconductor is bringing AI-assisted development to all parts of the IoT device lifecycle with its complete chip-to-cloud solution.</p>
 <p>The post <a href="https://www.eetasia.com/nordic-chip-to-cloud-solution-enables-ai-assisted-workflows-across-entire-product-lifecycle/">Nordic Chip-to-cloud Solution Enables AI-assisted Workflows Across Entire Product Lifecycle</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers](https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/)
-**Published:** Wed, 27 May 2026 11:43:13 +0000
-
-<p>Microchip's 3.3kV HV‑D3 mSiC Power Modules simplify and accelerate the adoption of solid-state transformers in AI hyperscale data centers.</p>
-<p>The post <a href="https://www.eetasia.com/microchip-accelerates-adoption-of-solid-state-transformers-in-ai-data-centers/">Microchip Accelerates Adoption of Solid-state Transformers in AI Data Centers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -922,6 +930,22 @@ _Last updated: 2026-06-01 21:09 UTC_
 
 ---
 
+## [Invisix raises €20m](https://www.electronicsweekly.com/news/business/invisix-raises-e20m-2026-06/)
+**Published:** Tue, 02 Jun 2026 05:20:53 +0000
+
+<p> Invisix, the semiconductor metrology company founded by ASML alumni, has raised an oversubscribed €20 million seed round. Investors  include Hitachi Ventures, Transition Ventures, imec.xpand, Doosan Investment and a tier-1 semiconductor ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/invisix-raises-e20m-2026-06/">Invisix raises €20m</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Anglia signs Nanopore](https://www.electronicsweekly.com/news/business/anglia-signs-nanopore-2026-06/)
+**Published:** Tue, 02 Jun 2026 05:16:47 +0000
+
+<p>Anglia Components has signed a pan-European distribution agreement with the Norwegian energy-harvesting IoT specialist Nanopore Semiconductor. Nanopower’s nPZero Gen1 power management IC extends system lifetime by reducing the load on the ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/anglia-signs-nanopore-2026-06/">Anglia signs Nanopore</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
 ## [Microchip 100/1000BASE‑T1 SPE PHYs integrate MACsec security](https://www.electronicsweekly.com/news/products/connectors/microchip-100-1000base%e2%80%91t1-spe-phys-integrate-macsec-security-2026-06/)
 **Published:** Mon, 01 Jun 2026 09:31:02 +0000
 
@@ -930,38 +954,17 @@ _Last updated: 2026-06-01 21:09 UTC_
 
 ---
 
-## [“We Can Turn Any IP Camera Into A Real-Time, AI-Powered Monitor”](https://www.electronicsforu.com/electronics-startups/we-can-turn-any-ip-camera-into-a-real-time-ai-powered-monitor)
-**Published:** Mon, 01 Jun 2026 07:15:25 +0000
+## [New RF Design Workflow Tool](https://www.electronicsforu.com/news/new-rf-design-workflow-tool)
+**Published:** Tue, 02 Jun 2026 07:11:31 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/05/Quantum-Vision-X-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A Vellore-based startup claims to turn any camera into a system that detects tampering, tracks people, and sends real-time alerts across multiple locations. Quantum Sharq, a Vellore-based private limited startup established in 2023, began with a clear goal: creating practical solutions that deliver measurable impact. The company initially focused on healthcare, where Dr M. Saravanan, [&#8230;]
-
----
-
-## [Kerala Firm Launches Homegrown AI SoC](https://www.electronicsforu.com/news/kerala-firm-launches-homegrown-ai-soc)
-**Published:** Mon, 01 Jun 2026 07:14:18 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/WhatsApp-Image-2026-05-29-at-15.36.39-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />This AI system on chip integrates proprietary processing engines and hardware accelerators to enable real time intelligence at the edge.  Netrasemi, a Thiruvananthapuram based semiconductor startup has unveiled its flagship AI system on chip (SoC), A2000, a processor designed to bring advanced artificial intelligence capabilities to compact edge devices. The chip has successfully completed silicon [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/image002-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Enables engineers to capture design decisions, simulations, and optimisation workflows on an executable whiteboard, helping teams preserve expertise, automate processes, and prepare workflows for AI-driven development. The semiconductor industry’s growing talent shortage is putting increasing pressure on engineering teams, particularly in specialised areas such as radio frequency (RF) design. Addressing this challenge, a new enhancement [&#8230;]
 
 ---
 
-## [Turning Disposable Vape Into Mini Web Server](https://www.electronicsforu.com/news/turning-disposable-vape-into-mini-web-server)
-**Published:** Mon, 01 Jun 2026 07:05:59 +0000
+## [JOB: Microwave Technical Support Engineer – Telecom At Ceragon Networks In Bengaluru](https://www.electronicsforu.com/career/microwave-technical-support-engineer-telecom-ceragon-networks-bengaluru)
+**Published:** Mon, 01 Jun 2026 13:16:17 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Untitled-design-1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What can be done with the electronics inside a discarded vape? One engineer has answered that question to the unthinkable. Romanian engineer and maker Bogdan Ionescu has converted a discarded disposable vape into a fully functional web server, showcasing how everyday electronic waste can be repurposed for computing applications. The project began when Ionescu, who [&#8230;]
-
----
-
-## [Tabletop System Brings Chip Making to More Labs](https://www.electronicsforu.com/news/tabletop-system-brings-chip-making-to-more-labs)
-**Published:** Mon, 01 Jun 2026 06:01:54 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/minutes-instead-of-day-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A tabletop chip-making system can print multiple nanoscale layers at once, cutting fabrication time from days to minutes and lowering research costs. Researchers at the University of Texas at Austin have developed a tabletop extreme ultraviolet (EUV) lithography system that could make semiconductor research more accessible by reducing the cost and complexity of chip fabrication [&#8230;]
-
----
-
-## [Open Frontier AI Model For Robotics and Autonomous Systems](https://www.electronicsforu.com/news/new-products/open-frontier-ai-model-for-robotics-and-autonomous-systems)
-**Published:** Mon, 01 Jun 2026 05:56:35 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/54961e64-210a-484c-8f5e-cbf4ecd20c34-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new open foundation model aims to help robots, autonomous vehicles and industrial machines better understand, simulate and interact with real-world environments through advanced physical reasoning and world-generation capabilities. A major new foundation model for physical AI has been unveiled by NVIDIA, marking a significant step toward more capable robots, autonomous vehicles and intelligent industrial [&#8230;]
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Ceragon Network The Technical Support Engineer will have the following responsibilities: Job Requirements The ideal candidate has the following: Must: Advantage:
 
 ---
 
