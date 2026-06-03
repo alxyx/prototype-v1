@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-03 04:20 UTC_
+_Last updated: 2026-06-03 14:42 UTC_
 
 ## [DEEPX Inks Global Edge AI Mass Production Partnership with AAEON](https://www.eetasia.com/deepx-inks-global-edge-ai-mass-production-partnership-with-aaeon/)
 **Published:** Tue, 02 Jun 2026 22:17:16 +0000
@@ -31,6 +31,14 @@ _Last updated: 2026-06-03 04:20 UTC_
 
 <p>Huawei proposes the Tau Scaling Law to extend semiconductor advancement beyond Moore’s Law through time-based optimization.</p>
 <p>The post <a href="https://www.eetasia.com/huawei-tau-scaling-law-next-guiding-principle-for-semiconductor-evolution/">Huawei Tau Scaling Law: Next Guiding Principle for Semiconductor Evolution</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Power-Efficient VLSI Design at the Heart of the EV Revolution](https://www.semiconductor-digest.com/power-efficient-vlsi-design-at-the-heart-of-the-ev-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=power-efficient-vlsi-design-at-the-heart-of-the-ev-revolution)
+**Published:** Wed, 03 Jun 2026 13:14:01 +0000
+
+<p>The electric vehicle is, at its core, a system optimization problem expressed in silicon. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/power-efficient-vlsi-design-at-the-heart-of-the-ev-revolution/">Power-Efficient VLSI Design at the Heart of the EV Revolution</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -826,11 +834,19 @@ _Last updated: 2026-06-03 04:20 UTC_
 
 ---
 
-## [Sharp Increase in Global Semiconductor Sales in Q1 2026](https://www.semiconductor-digest.com/sharp-increase-in-global-semiconductor-sales-in-q1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=sharp-increase-in-global-semiconductor-sales-in-q1-2026)
-**Published:** Tue, 05 May 2026 21:54:05 +0000
+## [Infineon Introduces 750V CoolSiC G2 Bidirectional Switch](https://www.powerelectronicsnews.com/infineon-introduces-750v-coolsic-g2-bidirectional-switch/)
+**Published:** Wed, 03 Jun 2026 13:05:21 +0000
 
-<p>Today, the European Semiconductor Industry Association (ESIA) reports that, in the first quarter of 2026, the global semiconductor market recorded a sharp increase of 79.2% year-on-year, reaching USD 298.55 billion in sales.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sharp-increase-in-global-semiconductor-sales-in-q1-2026/">Sharp Increase in Global Semiconductor Sales in Q1 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Infineon Introduces 750V CoolSiC G2 Bidirectional Switch." class="webfeedsFeaturedVisual wp-post-image" height="1263" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/coolsic-mosfet-750v-g2-bds-q-dpak-tsc-g2-hdsop-22-01-combi.jpg?fit=2126%2C1263" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The new 750 V SiC bidirectional switch simplifies power designs while improving efficiency and system robustness.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-introduces-750v-coolsic-g2-bidirectional-switch/">Infineon Introduces 750V CoolSiC G2 Bidirectional Switch</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Module from SiC Discrete Devices Repackaged: Part 1](https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-1/)
+**Published:** Wed, 03 Jun 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2592" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/AdobeStock_122645969.jpeg?fit=3872%2C2592" style="display: block; margin-bottom: 5px; clear: both;" width="3872" /><p>A novel SiC IPM based on repackaged TO-247 discrete devices achieves 98.1% efficiency and nearly 2x cost reduction.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-1/">Power Module from SiC Discrete Devices Repackaged: Part 1</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -898,19 +914,11 @@ _Last updated: 2026-06-03 04:20 UTC_
 
 ---
 
-## [Powerbox Expands Defense Power Portfolio with ECDD Series](https://www.powerelectronicsnews.com/powerbox-expands-defense-power-portfolio-with-ecdd-series/)
-**Published:** Fri, 29 May 2026 15:00:00 +0000
+## [Taiwan Minister Emphasizes Collaboration and Future Focus on Photonics, WBG, and Quantum](https://www.eetimes.com/taiwan-minister-emphasizes-collaboration-and-future-focus-on-photonics-wbg-and-quantum/)
+**Published:** Wed, 03 Jun 2026 06:00:00 +0000
 
-<img alt="Powerbox Introduces Rugged ECDD DC/DC Converters for Defense Platforms." class="webfeedsFeaturedVisual wp-post-image" height="1666" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/POWERBOX_ECDD_DCDC.jpg?fit=2500%2C1666" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>The new conduction-cooled converters provide stable power delivery in harsh mobile and defense environments.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/powerbox-expands-defense-power-portfolio-with-ecdd-series/">Powerbox Expands Defense Power Portfolio with ECDD Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wide Bandgap Monthly Insights – May 2026](https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-may-2026/)
-**Published:** Fri, 29 May 2026 13:21:32 +0000
-
-<img alt="Wide Bandgap Monthly Insights" class="webfeedsFeaturedVisual wp-post-image" height="667" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2024/04/Weekly_SiC_GaN_WBG.jpg?fit=1000%2C667" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>Here’s a RoundUp of this month’s must-read news about silicon carbide (SiC), gallium nitride (GaN), and Wide Bandgap Materials!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wide-bandgap-monthly-insights-may-2026/">Wide Bandgap Monthly Insights &#8211; May 2026</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>In an exclusive video interview, NSTC Minister Wu shares Taiwan's four-pillar shift from chipmaker to AI enabler.</p>
+<p>The post <a href="https://www.eetimes.com/taiwan-minister-emphasizes-collaboration-and-future-focus-on-photonics-wbg-and-quantum/">Taiwan Minister Emphasizes Collaboration and Future Focus on Photonics, WBG, and Quantum</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -946,41 +954,17 @@ _Last updated: 2026-06-03 04:20 UTC_
 
 ---
 
-## [Invisix raises €20m](https://www.electronicsweekly.com/news/business/invisix-raises-e20m-2026-06/)
-**Published:** Tue, 02 Jun 2026 05:20:53 +0000
+## [Quartus Prime: From Idea to FPGA Hardware](https://www.electronicsforu.com/technology-trends/quartus-prime-from-idea-to-fpga-hardware)
+**Published:** Wed, 03 Jun 2026 12:23:34 +0000
 
-<p> Invisix, the semiconductor metrology company founded by ASML alumni, has raised an oversubscribed €20 million seed round. Investors  include Hitachi Ventures, Transition Ventures, imec.xpand, Doosan Investment and a tier-1 semiconductor ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/invisix-raises-e20m-2026-06/">Invisix raises €20m</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Anglia signs Nanopore](https://www.electronicsweekly.com/news/business/anglia-signs-nanopore-2026-06/)
-**Published:** Tue, 02 Jun 2026 05:16:47 +0000
-
-<p>Anglia Components has signed a pan-European distribution agreement with the Norwegian energy-harvesting IoT specialist Nanopore Semiconductor. Nanopower’s nPZero Gen1 power management IC extends system lifetime by reducing the load on the ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/anglia-signs-nanopore-2026-06/">Anglia signs Nanopore</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/1-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An EDA tool that turns code into real hardware inside a chip—design, test, and run custom FPGA systems before anything is physically built. Quartus Prime (Latest update in May 2026) is a software suite developed by Altera, formerly part of Intel FPGA, for designing, testing, analyzing, and programming programmable logic devices such as FPGAs (Field-Programmable [&#8230;]
 
 ---
 
-## [Microchip 100/1000BASE‑T1 SPE PHYs integrate MACsec security](https://www.electronicsweekly.com/news/products/connectors/microchip-100-1000base%e2%80%91t1-spe-phys-integrate-macsec-security-2026-06/)
-**Published:** Mon, 01 Jun 2026 09:31:02 +0000
+## [JOB: Quality Engineer At Continental Device India Pvt. Ltd. In New Delhi](https://www.electronicsforu.com/career/quality-engineer-continental-device-india-new-delhi)
+**Published:** Wed, 03 Jun 2026 08:08:47 +0000
 
-<p>Microchip Technology is sampling its LAN878x and LAN888x families of Single Pair Ethernet (SPE) PHY (physical layer) transceivers, which are available in 100BASE-T1, 1000BASE-T1 and dual-speed 100/1000BASE-T1. As well as ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/connectors/microchip-100-1000base%e2%80%91t1-spe-phys-integrate-macsec-security-2026-06/">Microchip 100/1000BASE‑T1 SPE PHYs integrate MACsec security</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [New RF Design Workflow Tool](https://www.electronicsforu.com/news/new-rf-design-workflow-tool)
-**Published:** Tue, 02 Jun 2026 07:11:31 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/image002-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Enables engineers to capture design decisions, simulations, and optimisation workflows on an executable whiteboard, helping teams preserve expertise, automate processes, and prepare workflows for AI-driven development. The semiconductor industry’s growing talent shortage is putting increasing pressure on engineering teams, particularly in specialised areas such as radio frequency (RF) design. Addressing this challenge, a new enhancement [&#8230;]
-
----
-
-## [JOB: Microwave Technical Support Engineer – Telecom At Ceragon Networks In Bengaluru](https://www.electronicsforu.com/career/microwave-technical-support-engineer-telecom-ceragon-networks-bengaluru)
-**Published:** Mon, 01 Jun 2026 13:16:17 +0000
-
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Ceragon Network The Technical Support Engineer will have the following responsibilities: Job Requirements The ideal candidate has the following: Must: Advantage:
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/CDAC-Noida-Campus-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: New Delhi Company: Continental Device India Pvt. Ltd. The candidate will be responsible for ensuring product quality, reliability, and compliance with HiRel standards while working closely with internal teams and subcontractors. The ideal candidate should have strong knowledge of device physics, quality assurance processes, and reliability engineering practices. Responsibilities Requirements
 
 ---
 
