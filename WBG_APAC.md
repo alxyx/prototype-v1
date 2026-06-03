@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-02 21:02 UTC_
+_Last updated: 2026-06-03 04:20 UTC_
+
+## [DEEPX Inks Global Edge AI Mass Production Partnership with AAEON](https://www.eetasia.com/deepx-inks-global-edge-ai-mass-production-partnership-with-aaeon/)
+**Published:** Tue, 02 Jun 2026 22:17:16 +0000
+
+<p>The three-year commercialization cooperation will see the integration of DEEPX's AI semiconductors across AAEON's key hardware product lines.</p>
+<p>The post <a href="https://www.eetasia.com/deepx-inks-global-edge-ai-mass-production-partnership-with-aaeon/">DEEPX Inks Global Edge AI Mass Production Partnership with AAEON</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Synopsys and Samsung Foundry Expand AI-Driven Design, Test, and 3DIC Enablement for Advanced Nodes](https://www.eetasia.com/synopsys-and-samsung-foundry-expand-ai-driven-design-test-and-3dic-enablement-for-advanced-nodes/)
+**Published:** Tue, 02 Jun 2026 22:00:51 +0000
+
+<p>Expanded collaboration delivers AI-powered EDA, test, IP, and 3DIC solutions for advanced semiconductor designs.</p>
+<p>The post <a href="https://www.eetasia.com/synopsys-and-samsung-foundry-expand-ai-driven-design-test-and-3dic-enablement-for-advanced-nodes/">Synopsys and Samsung Foundry Expand AI-Driven Design, Test, and 3DIC Enablement for Advanced Nodes</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [USI to Showcase Advanced SiC Chip-embedded Packaging Technology at PCIM Europe 2026](https://www.eetasia.com/usi-to-showcase-advanced-sic-chip-embedded-packaging-technology-at-pcim-europe-2026/)
 **Published:** Mon, 01 Jun 2026 23:24:06 +0000
@@ -15,14 +31,6 @@ _Last updated: 2026-06-02 21:02 UTC_
 
 <p>Huawei proposes the Tau Scaling Law to extend semiconductor advancement beyond Moore’s Law through time-based optimization.</p>
 <p>The post <a href="https://www.eetasia.com/huawei-tau-scaling-law-next-guiding-principle-for-semiconductor-evolution/">Huawei Tau Scaling Law: Next Guiding Principle for Semiconductor Evolution</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Nordic Chip-to-cloud Solution Enables AI-assisted Workflows Across Entire Product Lifecycle](https://www.eetasia.com/nordic-chip-to-cloud-solution-enables-ai-assisted-workflows-across-entire-product-lifecycle/)
-**Published:** Mon, 01 Jun 2026 00:10:35 +0000
-
-<p>Nordic Semiconductor is bringing AI-assisted development to all parts of the IoT device lifecycle with its complete chip-to-cloud solution.</p>
-<p>The post <a href="https://www.eetasia.com/nordic-chip-to-cloud-solution-enables-ai-assisted-workflows-across-entire-product-lifecycle/">Nordic Chip-to-cloud Solution Enables AI-assisted Workflows Across Entire Product Lifecycle</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
