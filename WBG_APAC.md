@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-03 14:42 UTC_
+_Last updated: 2026-06-03 18:59 UTC_
 
 ## [DEEPX Inks Global Edge AI Mass Production Partnership with AAEON](https://www.eetasia.com/deepx-inks-global-edge-ai-mass-production-partnership-with-aaeon/)
 **Published:** Tue, 02 Jun 2026 22:17:16 +0000
@@ -31,6 +31,14 @@ _Last updated: 2026-06-03 14:42 UTC_
 
 <p>Huawei proposes the Tau Scaling Law to extend semiconductor advancement beyond Moore’s Law through time-based optimization.</p>
 <p>The post <a href="https://www.eetasia.com/huawei-tau-scaling-law-next-guiding-principle-for-semiconductor-evolution/">Huawei Tau Scaling Law: Next Guiding Principle for Semiconductor Evolution</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Global Semiconductor Market Surges Beyond $1.5T 2026](https://www.semiconductor-digest.com/global-semiconductor-market-surges-beyond-1-5t-2026/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-market-surges-beyond-1-5t-2026)
+**Published:** Wed, 03 Jun 2026 15:57:28 +0000
+
+<p>The World Semiconductor Trade Statistics (WSTS) organization has released its Spring 2026 semiconductor market forecast, significantly raising the industry outlook for both 2026 and 2027.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-market-surges-beyond-1-5t-2026/">Global Semiconductor Market Surges Beyond $1.5T 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -826,11 +834,19 @@ _Last updated: 2026-06-03 14:42 UTC_
 
 ---
 
-## [Siemens Hardware-Assisted Verification Validates Arm AGI CPU for Scalable Agentic AI](https://www.semiconductor-digest.com/siemens-hardware-assisted-verification-validates-arm-agi-cpu-for-scalable-agentic-ai/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-hardware-assisted-verification-validates-arm-agi-cpu-for-scalable-agentic-ai)
-**Published:** Wed, 06 May 2026 20:47:06 +0000
+## [Bourns Launches MH3261 T Series High-Current Ferrite Beads](https://www.powerelectronicsnews.com/bourns-launches-mh3261-t-series-high-current-ferrite-beads/)
+**Published:** Wed, 03 Jun 2026 15:00:00 +0000
 
-<p>Siemens has collaborated with Arm to support verification of the Arm AGI CPU and validate its performance for next-generation agentic AI workloads, enabling scalable, production-ready infrastructure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-hardware-assisted-verification-validates-arm-agi-cpu-for-scalable-agentic-ai/">Siemens Hardware-Assisted Verification Validates Arm AGI CPU for Scalable Agentic AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Bourns Launches MH3261 T Series High-Current Ferrite Beads." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/bourns_mh3261-t_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new ferrite beads deliver up to 11 A current handling with low resistance for EMI suppression in compact designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/bourns-launches-mh3261-t-series-high-current-ferrite-beads/">Bourns Launches MH3261 T Series High-Current Ferrite Beads</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Flex Unveils Power Solutions for 800 VDC Data Center Architectures](https://www.powerelectronicsnews.com/flex-unveils-power-solutions-for-800-vdc-data-center-architectures/)
+**Published:** Wed, 03 Jun 2026 15:00:00 +0000
+
+<img alt="Flex Unveils Power Solutions for 800 VDC Data Center Architectures." class="webfeedsFeaturedVisual wp-post-image" height="1516" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/Flex_110_kW_power_shelf.jpg?fit=2700%2C1516" style="display: block; margin-bottom: 5px; clear: both;" width="2700" /><p>New power distribution, energy storage and conversion solutions support growing AI rack power demands and 800 VDC adoption.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/flex-unveils-power-solutions-for-800-vdc-data-center-architectures/">Flex Unveils Power Solutions for 800 VDC Data Center Architectures</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -895,22 +911,6 @@ _Last updated: 2026-06-03 14:42 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2412" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_526440454.jpeg?fit=6000%2C2412" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>DC faults in 800V AI data center architectures develop in microseconds, requiring solid-state breakers and hierarchical protection design.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/bidirectional-sscbs-based-on-half-bridge-sic-modules/">Bidirectional SSCBs Based on Half-Bridge SiC Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TDK Ventures Backs C2i’s Software-Defined Voltage Regulator Platform](https://www.powerelectronicsnews.com/tdk-ventures-backs-c2is-software-defined-voltage-regulator-platform/)
-**Published:** Mon, 01 Jun 2026 13:00:00 +0000
-
-<img alt="TDK Ventures Backs C2i’s Software-Defined Voltage Regulator Platform." class="webfeedsFeaturedVisual wp-post-image" height="183" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/LOGO.png?fit=275%2C183" style="display: block; margin-bottom: 5px; clear: both;" width="275" /><p>C2i aims to improve AI data center efficiency with software-defined voltage regulators and advanced power architectures.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tdk-ventures-backs-c2is-software-defined-voltage-regulator-platform/">TDK Ventures Backs C2i’s Software-Defined Voltage Regulator Platform</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [HV AI Data Centers DC Protection, New Space GaN Ecosystem, SSTs Adoption in Power Networks: Power Electronics Week Insights](https://www.powerelectronicsnews.com/hv-ai-data-centers-dc-protection-new-space-gan-ecosystem-ssts-adoption-in-power-networks-power-electronics-week-insights/)
-**Published:** Fri, 29 May 2026 17:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on High-Voltage AI Data Centers DC Protection, New Space GaN Ecosystem, SSTs Adoption in Power Networks!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/hv-ai-data-centers-dc-protection-new-space-gan-ecosystem-ssts-adoption-in-power-networks-power-electronics-week-insights/">HV AI Data Centers DC Protection, New Space GaN Ecosystem, SSTs Adoption in Power Networks: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
