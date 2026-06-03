@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-03 18:59 UTC_
+_Last updated: 2026-06-03 22:02 UTC_
+
+## [Infineon Brings Quantum-resilient Hardware Security to NVIDIA Jetson Thor for Physical AI Systems](https://www.eetasia.com/infineon-brings-quantum-resilient-hardware-security-to-nvidia-jetson-thor-for-physical-ai-systems/)
+**Published:** Wed, 03 Jun 2026 21:39:35 +0000
+
+<p>Infineon integrates certified TPM with NVIDIA Jetson Thor, enabling quantum-resilient security for autonomous AI systems.</p>
+<p>The post <a href="https://www.eetasia.com/infineon-brings-quantum-resilient-hardware-security-to-nvidia-jetson-thor-for-physical-ai-systems/">Infineon Brings Quantum-resilient Hardware Security to NVIDIA Jetson Thor for Physical AI Systems</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Huawei’s Tau Law Reframes Chip Scaling Around Time Compression](https://www.eetasia.com/huaweis-tau-law-reframes-chip-scaling-around-time-compression/)
+**Published:** Wed, 03 Jun 2026 21:28:50 +0000
+
+<p>Huawei's Tau Law proposes using time compression and LogicFolding architectures to sustain semiconductor performance gains.</p>
+<p>The post <a href="https://www.eetasia.com/huaweis-tau-law-reframes-chip-scaling-around-time-compression/">Huawei&#8217;s Tau Law Reframes Chip Scaling Around Time Compression</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [DEEPX Inks Global Edge AI Mass Production Partnership with AAEON](https://www.eetasia.com/deepx-inks-global-edge-ai-mass-production-partnership-with-aaeon/)
 **Published:** Tue, 02 Jun 2026 22:17:16 +0000
@@ -18,19 +34,19 @@ _Last updated: 2026-06-03 18:59 UTC_
 
 ---
 
-## [USI to Showcase Advanced SiC Chip-embedded Packaging Technology at PCIM Europe 2026](https://www.eetasia.com/usi-to-showcase-advanced-sic-chip-embedded-packaging-technology-at-pcim-europe-2026/)
-**Published:** Mon, 01 Jun 2026 23:24:06 +0000
+## [Europe Must Turn Semiconductor Ambition Into Industrial Reality](https://www.semiconductor-digest.com/europe-must-turn-semiconductor-ambition-into-industrial-reality/?utm_source=rss&utm_medium=rss&utm_campaign=europe-must-turn-semiconductor-ambition-into-industrial-reality)
+**Published:** Wed, 03 Jun 2026 20:19:45 +0000
 
-<p>USI has achieved a breakthrough in advanced power semiconductor packaging technology designed for next-generation power solutions.</p>
-<p>The post <a href="https://www.eetasia.com/usi-to-showcase-advanced-sic-chip-embedded-packaging-technology-at-pcim-europe-2026/">USI to Showcase Advanced SiC Chip-embedded Packaging Technology at PCIM Europe 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The European Semiconductor Industry Association (ESIA) today welcomed the European Commission’s publication of the Tech Sovereignty Package, including the Chips Act 2, as an important next step toward strengthening Europe’s technological resilience and industrial competitiveness.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/europe-must-turn-semiconductor-ambition-into-industrial-reality/">Europe Must Turn Semiconductor Ambition Into Industrial Reality</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Huawei Tau Scaling Law: Next Guiding Principle for Semiconductor Evolution](https://www.eetasia.com/huawei-tau-scaling-law-next-guiding-principle-for-semiconductor-evolution/)
-**Published:** Mon, 01 Jun 2026 23:19:23 +0000
+## [Qunova Joins JHPC-quantum Test User Program in Japan](https://www.semiconductor-digest.com/qunova-joins-jhpc-quantum-test-user-program-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=qunova-joins-jhpc-quantum-test-user-program-in-japan)
+**Published:** Wed, 03 Jun 2026 19:48:11 +0000
 
-<p>Huawei proposes the Tau Scaling Law to extend semiconductor advancement beyond Moore’s Law through time-based optimization.</p>
-<p>The post <a href="https://www.eetasia.com/huawei-tau-scaling-law-next-guiding-principle-for-semiconductor-evolution/">Huawei Tau Scaling Law: Next Guiding Principle for Semiconductor Evolution</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>More than 20 organizations are participating, including multinational corporations in autos, chemicals and other industries, as well as RIKEN and several prestigious Japanese universities.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/qunova-joins-jhpc-quantum-test-user-program-in-japan/">Qunova Joins JHPC-quantum Test User Program in Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -818,22 +834,6 @@ _Last updated: 2026-06-03 18:59 UTC_
 
 ---
 
-## [NVIDIA and Corning Announce Long-Term Partnership To Strengthen U.S. Manufacturing for AI Infrastructure](https://www.semiconductor-digest.com/nvidia-and-corning-announce-long-term-partnership-to-strengthen-u-s-manufacturing-for-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-and-corning-announce-long-term-partnership-to-strengthen-u-s-manufacturing-for-ai-infrastructure)
-**Published:** Wed, 06 May 2026 20:56:28 +0000
-
-<p>Corning will expand U.S. optical connectivity capacity 10x, build three new manufacturing plants, and create more than 3,000 high-paying American jobs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nvidia-and-corning-announce-long-term-partnership-to-strengthen-u-s-manufacturing-for-ai-infrastructure/">NVIDIA and Corning Announce Long-Term Partnership To Strengthen U.S. Manufacturing for AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SPARK Microsystems Honored with Product Innovation Award by Canada’s Semiconductor Council](https://www.semiconductor-digest.com/spark-microsystems-honored-with-product-innovation-award-by-canadas-semiconductor-council/?utm_source=rss&utm_medium=rss&utm_campaign=spark-microsystems-honored-with-product-innovation-award-by-canadas-semiconductor-council)
-**Published:** Wed, 06 May 2026 20:49:41 +0000
-
-<p>SPARK Microsystems, a Canadian fabless semiconductor company specializing in next-generation short-range wireless communications, today announced that its SR1120 LE-UWB wireless transceiver has been honored as a recipient of the Product Innovation Award in conjunction with the Semiconductor Achievement Awards hosted by Canada's Semiconductor Council (CSC).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/spark-microsystems-honored-with-product-innovation-award-by-canadas-semiconductor-council/">SPARK Microsystems Honored with Product Innovation Award by Canada’s Semiconductor Council</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Bourns Launches MH3261 T Series High-Current Ferrite Beads](https://www.powerelectronicsnews.com/bourns-launches-mh3261-t-series-high-current-ferrite-beads/)
 **Published:** Wed, 03 Jun 2026 15:00:00 +0000
 
@@ -943,14 +943,6 @@ _Last updated: 2026-06-03 18:59 UTC_
 
 <p>The demand for more efficient power solutions continues to put pressure on designers to optimize system design without compromising performance. Read how you can simplify high-voltage power conversion and reduce system cost, size and complexity for a range of demanding applications with GaN BDS. High-voltage GaN bi-directional switches enable implementation of single-stage power converters with [&#8230;]</p>
 <p>The post <a href="https://www.eetimes.com/high-voltage-gan-bi-directional-switches-strong-performance-simpler-to-use/">High-Voltage GaN Bi-Directional Switches: Strong Performance, Simpler to Use</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Product Recall Management Guide for Electronics Manufacturing SMBs](https://www.eetimes.com/product-recall-management-guide-for-electronics-manufacturing-smbs/)
-**Published:** Mon, 01 Jun 2026 13:00:00 +0000
-
-<p>This guide explains what product recalls are, what risks they create, and how small and midsize manufacturers can handle them in an organized way.</p>
-<p>The post <a href="https://www.eetimes.com/product-recall-management-guide-for-electronics-manufacturing-smbs/">Product Recall Management Guide for Electronics Manufacturing SMBs</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
