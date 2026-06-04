@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-03 23:57 UTC_
+_Last updated: 2026-06-04 09:00 UTC_
 
 ## [Infineon Brings Quantum-resilient Hardware Security to NVIDIA Jetson Thor for Physical AI Systems](https://www.eetasia.com/infineon-brings-quantum-resilient-hardware-security-to-nvidia-jetson-thor-for-physical-ai-systems/)
 **Published:** Wed, 03 Jun 2026 21:39:35 +0000
@@ -938,11 +938,11 @@ _Last updated: 2026-06-03 23:57 UTC_
 
 ---
 
-## [High-Voltage GaN Bi-Directional Switches: Strong Performance, Simpler to Use](https://www.eetimes.com/high-voltage-gan-bi-directional-switches-strong-performance-simpler-to-use/)
-**Published:** Mon, 01 Jun 2026 14:00:00 +0000
+## [Tessalia plans $250m packaging plant in France](https://www.electronicsweekly.com/news/business/tessia-plans-250m-packaging-plant-in-france-2026-06/)
+**Published:** Thu, 04 Jun 2026 05:26:27 +0000
 
-<p>The demand for more efficient power solutions continues to put pressure on designers to optimize system design without compromising performance. Read how you can simplify high-voltage power conversion and reduce system cost, size and complexity for a range of demanding applications with GaN BDS. High-voltage GaN bi-directional switches enable implementation of single-stage power converters with [&#8230;]</p>
-<p>The post <a href="https://www.eetimes.com/high-voltage-gan-bi-directional-switches-strong-performance-simpler-to-use/">High-Voltage GaN Bi-Directional Switches: Strong Performance, Simpler to Use</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>Earlier this week Tessalia Technology.  a  packaging jv between Foxconn, Radiall, and Thales, laid the foundation stone of  an advanced semiconductor packaging facility in Le Barp, Nouvelle-Aquitaine. Patrice Caine, Chairman ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/tessia-plans-250m-packaging-plant-in-france-2026-06/">Tessalia plans $250m packaging plant in France</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
