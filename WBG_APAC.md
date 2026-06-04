@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-04 09:00 UTC_
+_Last updated: 2026-06-04 12:09 UTC_
 
 ## [Infineon Brings Quantum-resilient Hardware Security to NVIDIA Jetson Thor for Physical AI Systems](https://www.eetasia.com/infineon-brings-quantum-resilient-hardware-security-to-nvidia-jetson-thor-for-physical-ai-systems/)
 **Published:** Wed, 03 Jun 2026 21:39:35 +0000
@@ -941,7 +941,7 @@ _Last updated: 2026-06-04 09:00 UTC_
 ## [Tessalia plans $250m packaging plant in France](https://www.electronicsweekly.com/news/business/tessia-plans-250m-packaging-plant-in-france-2026-06/)
 **Published:** Thu, 04 Jun 2026 05:26:27 +0000
 
-<p>Earlier this week Tessalia Technology.  a  packaging jv between Foxconn, Radiall, and Thales, laid the foundation stone of  an advanced semiconductor packaging facility in Le Barp, Nouvelle-Aquitaine. Patrice Caine, Chairman ...</p>
+<p>Earlier this week Tessalia Technology, a packaging joint venture between Foxconn, Radiall and Thales, laid the foundation stone of an advanced semiconductor packaging facility in Le Barp, Nouvelle-Aquitaine. Patrice Caine, ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/tessia-plans-250m-packaging-plant-in-france-2026-06/">Tessalia plans $250m packaging plant in France</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
