@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-04 12:09 UTC_
+_Last updated: 2026-06-04 15:28 UTC_
 
 ## [Infineon Brings Quantum-resilient Hardware Security to NVIDIA Jetson Thor for Physical AI Systems](https://www.eetasia.com/infineon-brings-quantum-resilient-hardware-security-to-nvidia-jetson-thor-for-physical-ai-systems/)
 **Published:** Wed, 03 Jun 2026 21:39:35 +0000
@@ -31,6 +31,30 @@ _Last updated: 2026-06-04 12:09 UTC_
 
 <p>Expanded collaboration delivers AI-powered EDA, test, IP, and 3DIC solutions for advanced semiconductor designs.</p>
 <p>The post <a href="https://www.eetasia.com/synopsys-and-samsung-foundry-expand-ai-driven-design-test-and-3dic-enablement-for-advanced-nodes/">Synopsys and Samsung Foundry Expand AI-Driven Design, Test, and 3DIC Enablement for Advanced Nodes</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Omdia: OLED Display Demand for Notebook PCs to Reach $11.5B by 2033](https://www.semiconductor-digest.com/omdia-oled-display-demand-for-notebook-pcs-to-reach-11-5b-by-2033/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-oled-display-demand-for-notebook-pcs-to-reach-11-5b-by-2033)
+**Published:** Thu, 04 Jun 2026 15:14:02 +0000
+
+<p>New research from Omdia finds that OLED display shipments for notebook PCs is expected to grow to $11.5 billion by 2033, accounting for approximately 16.2% of total OLED display revenue.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-oled-display-demand-for-notebook-pcs-to-reach-11-5b-by-2033/">Omdia: OLED Display Demand for Notebook PCs to Reach $11.5B by 2033</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Quantum Diamond Magnetic Imaging for Non-Destructive Electrical Fault Localization](https://www.semiconductor-digest.com/quantum-diamond-magnetic-imaging-for-non-destructive-electrical-fault-localization/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-diamond-magnetic-imaging-for-non-destructive-electrical-fault-localization)
+**Published:** Thu, 04 Jun 2026 13:42:04 +0000
+
+<p>By mapping the magnetic fields produced by current flow inside a device, quantum diamond microscopy reconstructs three-dimensional current pathway maps with micrometer lateral resolution in fully assembled packages without mechanical preparation or sample destruction. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/quantum-diamond-magnetic-imaging-for-non-destructive-electrical-fault-localization/">Quantum Diamond Magnetic Imaging for Non-Destructive Electrical Fault Localization</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Seeing the Unseen: How Advanced X-ray Technology is Safeguarding Semiconductor Reliability](https://www.semiconductor-digest.com/seeing-the-unseen-how-advanced-x-ray-technology-is-safeguarding-semiconductor-reliability/?utm_source=rss&utm_medium=rss&utm_campaign=seeing-the-unseen-how-advanced-x-ray-technology-is-safeguarding-semiconductor-reliability)
+**Published:** Thu, 04 Jun 2026 13:36:43 +0000
+
+<p>Advances in X-ray inspection are helping manufacturers identify defects earlier and ensure reliability in modern chip production. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/seeing-the-unseen-how-advanced-x-ray-technology-is-safeguarding-semiconductor-reliability/">Seeing the Unseen: How Advanced X-ray Technology is Safeguarding Semiconductor Reliability</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -810,27 +834,11 @@ _Last updated: 2026-06-04 12:09 UTC_
 
 ---
 
-## [Quantum Motion Raises $160 Million Series C to Deliver Quantum Computing’s “Transistor Moment”](https://www.semiconductor-digest.com/quantum-motion-raises-160-million-series-c-to-deliver-quantum-computings-transistor-moment/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-motion-raises-160-million-series-c-to-deliver-quantum-computings-transistor-moment)
-**Published:** Thu, 07 May 2026 18:44:27 +0000
+## [Power Corner: ABB’s Andrea Estrada-Hein on Eliminating SF₆ from Medium Voltage Switchgear](https://www.powerelectronicsnews.com/power-corner-abbs-andrea-estrada-hein-on-eliminating-sf%e2%82%86-from-medium-voltage-switchgear/)
+**Published:** Thu, 04 Jun 2026 13:00:00 +0000
 
-<p>Quantum Motion, a company in silicon transistor-based quantum computing, today announced a $160 million Series C round to commercialise its scalable and energy-efficient approach to quantum computing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/quantum-motion-raises-160-million-series-c-to-deliver-quantum-computings-transistor-moment/">Quantum Motion Raises $160 Million Series C to Deliver Quantum Computing&#8217;s &#8220;Transistor Moment&#8221;</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SCALE Expands its National Impact, Becomes Purdue’s Largest Federally Funded Research Effort](https://www.semiconductor-digest.com/scale-expands-its-national-impact-becomes-purdues-largest-federally-funded-research-effort/?utm_source=rss&utm_medium=rss&utm_campaign=scale-expands-its-national-impact-becomes-purdues-largest-federally-funded-research-effort)
-**Published:** Thu, 07 May 2026 18:38:53 +0000
-
-<p>The Scalable Asymmetric Lifecycle Engagement (SCALE) program, the only U.S. defense microelectronics public-private-academic workforce development consortium, is now Purdue University’s largest-ever federally funded research effort.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/scale-expands-its-national-impact-becomes-purdues-largest-federally-funded-research-effort/">SCALE Expands its National Impact, Becomes Purdue’s Largest Federally Funded Research Effort</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Advent Diamond and Northrop Grumman Set New Record for Diamond-based Solid-State Limiters](https://www.semiconductor-digest.com/advent-diamond-and-northrop-grumman-set-new-record-for-diamond-based-solid-state-limiters/?utm_source=rss&utm_medium=rss&utm_campaign=advent-diamond-and-northrop-grumman-set-new-record-for-diamond-based-solid-state-limiters)
-**Published:** Wed, 06 May 2026 21:39:09 +0000
-
-<p>Advent Diamond Inc. and Northrop Grumman have set a new performance record for solid state limiters made from engineered diamond.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/advent-diamond-and-northrop-grumman-set-new-record-for-diamond-based-solid-state-limiters/">Advent Diamond and Northrop Grumman Set New Record for Diamond-based Solid-State Limiters</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/ABB-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>ABB's Andrea Estrada-Hein discusses replacing SF₆ with dry air in switchgear, covering design challenges, cost, and future regulations.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-abbs-andrea-estrada-hein-on-eliminating-sf%e2%82%86-from-medium-voltage-switchgear/"> Power Corner: ABB&#8217;s Andrea Estrada-Hein on Eliminating SF₆ from Medium Voltage Switchgear</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -906,14 +914,6 @@ _Last updated: 2026-06-04 12:09 UTC_
 
 ---
 
-## [Bidirectional SSCBs Based on Half-Bridge SiC Modules](https://www.powerelectronicsnews.com/bidirectional-sscbs-based-on-half-bridge-sic-modules/)
-**Published:** Mon, 01 Jun 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2412" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/AdobeStock_526440454.jpeg?fit=6000%2C2412" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>DC faults in 800V AI data center architectures develop in microseconds, requiring solid-state breakers and hierarchical protection design.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/bidirectional-sscbs-based-on-half-bridge-sic-modules/">Bidirectional SSCBs Based on Half-Bridge SiC Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Taiwan Minister Emphasizes Collaboration and Future Focus on Photonics, WBG, and Quantum](https://www.eetimes.com/taiwan-minister-emphasizes-collaboration-and-future-focus-on-photonics-wbg-and-quantum/)
 **Published:** Wed, 03 Jun 2026 06:00:00 +0000
 
@@ -946,17 +946,10 @@ _Last updated: 2026-06-04 12:09 UTC_
 
 ---
 
-## [Quartus Prime: From Idea to FPGA Hardware](https://www.electronicsforu.com/technology-trends/quartus-prime-from-idea-to-fpga-hardware)
-**Published:** Wed, 03 Jun 2026 12:23:34 +0000
+## [Capacitors for Energy and Motor Drives](https://www.electronicsforu.com/news/capacitors-for-energy-and-motor-drives)
+**Published:** Thu, 04 Jun 2026 05:36:36 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/1-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An EDA tool that turns code into real hardware inside a chip—design, test, and run custom FPGA systems before anything is physically built. Quartus Prime (Latest update in May 2026) is a software suite developed by Altera, formerly part of Intel FPGA, for designing, testing, analyzing, and programming programmable logic devices such as FPGAs (Field-Programmable [&#8230;]
-
----
-
-## [JOB: Quality Engineer At Continental Device India Pvt. Ltd. In New Delhi](https://www.electronicsforu.com/career/quality-engineer-continental-device-india-new-delhi)
-**Published:** Wed, 03 Jun 2026 08:08:47 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/CDAC-Noida-Campus-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: New Delhi Company: Continental Device India Pvt. Ltd. The candidate will be responsible for ensuring product quality, reliability, and compliance with HiRel standards while working closely with internal teams and subcontractors. The ideal candidate should have strong knowledge of device physics, quality assurance processes, and reliability engineering practices. Responsibilities Requirements
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/bild-teaser-en-6-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As power systems switch faster and handle more energy, a new DC-link capacitor series targets the needs of SiC-based converters. TDK Corporation has introduced the B25696H series of MKP DC high-frequency film capacitors for silicon carbide (SiC)-based power electronics. The series is intended for power conversion systems used in renewable energy converters, energy storage systems, [&#8230;]
 
 ---
 
