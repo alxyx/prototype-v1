@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-05 05:32 UTC_
+_Last updated: 2026-06-05 12:50 UTC_
 
 ## [HKUST Partners with CalmCar to Establish Physical AI Innovation Center](https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/)
 **Published:** Thu, 04 Jun 2026 22:29:42 +0000
@@ -914,6 +914,14 @@ _Last updated: 2026-06-05 05:32 UTC_
 
 ---
 
+## [Chips Act 2.0 Puts Demand at Center of Europe’s Semiconductor Strategy](https://www.eetimes.com/chips-act-2-0-puts-demand-at-center-of-europes-semiconductor-strategy/)
+**Published:** Fri, 05 Jun 2026 07:00:00 +0000
+
+<p>Chips Act 2.0 shifts EU focus from factory subsidies to chip design and demand.</p>
+<p>The post <a href="https://www.eetimes.com/chips-act-2-0-puts-demand-at-center-of-europes-semiconductor-strategy/">Chips Act 2.0 Puts Demand at Center of Europe’s Semiconductor Strategy</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
 ## [Taiwan Minister Emphasizes Collaboration and Future Focus on Photonics, WBG, and Quantum](https://www.eetimes.com/taiwan-minister-emphasizes-collaboration-and-future-focus-on-photonics-wbg-and-quantum/)
 **Published:** Wed, 03 Jun 2026 06:00:00 +0000
 
@@ -938,18 +946,17 @@ _Last updated: 2026-06-05 05:32 UTC_
 
 ---
 
-## [Tessalia plans $250m packaging plant in France](https://www.electronicsweekly.com/news/business/tessia-plans-250m-packaging-plant-in-france-2026-06/)
-**Published:** Thu, 04 Jun 2026 05:26:27 +0000
+## [JOB: GET / PGET – Power Electronics Engineer At Xylem In Vadodara](https://www.electronicsforu.com/career/get-pget-power-electronics-engineer-xylem-vadodara)
+**Published:** Fri, 05 Jun 2026 09:44:32 +0000
 
-<p>Earlier this week Tessalia Technology, a packaging joint venture between Foxconn, Radiall and Thales, laid the foundation stone of an advanced semiconductor packaging facility in Le Barp, Nouvelle-Aquitaine. Patrice Caine, ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/tessia-plans-250m-packaging-plant-in-france-2026-06/">Tessalia plans $250m packaging plant in France</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="Garuda3d" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/jobs5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Vadodara Company: Xylem Essential Duties/Principal Responsibilities Minimum Qualifications: Education, Experience, Skills, Abilities, License/Certification
 
 ---
 
-## [Capacitors for Energy and Motor Drives](https://www.electronicsforu.com/news/capacitors-for-energy-and-motor-drives)
-**Published:** Thu, 04 Jun 2026 05:36:36 +0000
+## [JOB: Manager – Power Electronics At Schneider Electric In Mumbai](https://www.electronicsforu.com/career/manager-power-electronics-at-schneider-electric-mumbai)
+**Published:** Fri, 05 Jun 2026 09:18:34 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/bild-teaser-en-6-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />As power systems switch faster and handle more energy, a new DC-link capacitor series targets the needs of SiC-based converters. TDK Corporation has introduced the B25696H series of MKP DC high-frequency film capacitors for silicon carbide (SiC)-based power electronics. The series is intended for power conversion systems used in renewable energy converters, energy storage systems, [&#8230;]
+<img alt="Test Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2017/08/Schneider-Electric-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Mumbai Company: Schneider Electric Critical Skills Key responsibilities
 
 ---
 
