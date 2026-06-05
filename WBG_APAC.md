@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-05 12:50 UTC_
+_Last updated: 2026-06-05 23:22 UTC_
 
 ## [HKUST Partners with CalmCar to Establish Physical AI Innovation Center](https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/)
 **Published:** Thu, 04 Jun 2026 22:29:42 +0000
@@ -31,6 +31,46 @@ _Last updated: 2026-06-05 12:50 UTC_
 
 <p>Huawei's Tau Law proposes using time compression and LogicFolding architectures to sustain semiconductor performance gains.</p>
 <p>The post <a href="https://www.eetasia.com/huaweis-tau-law-reframes-chip-scaling-around-time-compression/">Huawei&#8217;s Tau Law Reframes Chip Scaling Around Time Compression</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Semiconductors Enter the “Multi-Tasking” Era](https://www.semiconductor-digest.com/semiconductors-enter-the-multi-tasking-era/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductors-enter-the-multi-tasking-era)
+**Published:** Fri, 05 Jun 2026 14:41:47 +0000
+
+<p>POSTECH develops a low-temperature heterojunction-based transistor that implements complex circuits with a single device.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiconductors-enter-the-multi-tasking-era/">Semiconductors Enter the “Multi-Tasking” Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Kumamoto University Launches Academic Venture ‘Kumadai Research Institute’ to Boost Semiconductor Management Ecosystem](https://www.semiconductor-digest.com/kumamoto-university-launches-academic-venture-kumadai-research-institute-to-boost-semiconductor-management-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=kumamoto-university-launches-academic-venture-kumadai-research-institute-to-boost-semiconductor-management-ecosystem)
+**Published:** Fri, 05 Jun 2026 14:38:20 +0000
+
+<p>Kumamoto University has announced the establishment of the Kumadai Research Institute (KURI)—a university-launched venture named after "Kumadai," the common Japanese abbreviation for Kumamoto University.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kumamoto-university-launches-academic-venture-kumadai-research-institute-to-boost-semiconductor-management-ecosystem/">Kumamoto University Launches Academic Venture &#8216;Kumadai Research Institute&#8217; to Boost Semiconductor Management Ecosystem</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Reports Global Semiconductor Equipment Billings Increased 14% Year-Over-Year in Q1 2026](https://www.semiconductor-digest.com/semi-reports-global-semiconductor-equipment-billings-increased-14-year-over-year-in-q1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-global-semiconductor-equipment-billings-increased-14-year-over-year-in-q1-2026)
+**Published:** Fri, 05 Jun 2026 14:30:57 +0000
+
+<p>Record quarterly equipment billings reflect continued AI-driven investment.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-global-semiconductor-equipment-billings-increased-14-year-over-year-in-q1-2026/">SEMI Reports Global Semiconductor Equipment Billings Increased 14% Year-Over-Year in Q1 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Scaling Semiconductor Manufacturing from Pilot Lines to High-Volume Execution](https://www.semiconductor-digest.com/scaling-semiconductor-manufacturing-from-pilot-lines-to-high-volume-execution/?utm_source=rss&utm_medium=rss&utm_campaign=scaling-semiconductor-manufacturing-from-pilot-lines-to-high-volume-execution)
+**Published:** Fri, 05 Jun 2026 14:01:48 +0000
+
+<p>Scaling from pilot to high-volume manufacturing is one of the most complex transitions in the semiconductor lifecycle, where variability, fluid behavior, and contamination control determine whether a validated process can survive real-world production.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/scaling-semiconductor-manufacturing-from-pilot-lines-to-high-volume-execution/">Scaling Semiconductor Manufacturing from Pilot Lines to High-Volume Execution</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Beating AI Bottlenecks with Better Switches](https://www.semiconductor-digest.com/beating-ai-bottlenecks-with-better-switches/?utm_source=rss&utm_medium=rss&utm_campaign=beating-ai-bottlenecks-with-better-switches)
+**Published:** Fri, 05 Jun 2026 13:58:11 +0000
+
+<p>Companies are now considering new ways to build switch matrices for IC testers, using relays built using microelectromechanical systems (MEMS). </p>
+<p>The post <a href="https://www.semiconductor-digest.com/beating-ai-bottlenecks-with-better-switches/">Beating AI Bottlenecks with Better Switches</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,43 +834,35 @@ _Last updated: 2026-06-05 12:50 UTC_
 
 ---
 
-## [Lambda Closes $1 Billion Senior Secured Credit Facility to Meet Gigawatt-Scale AI Infrastructure Demand](https://www.semiconductor-digest.com/lambda-closes-1-billion-senior-secured-credit-facility-to-meet-gigawatt-scale-ai-infrastructure-demand/?utm_source=rss&utm_medium=rss&utm_campaign=lambda-closes-1-billion-senior-secured-credit-facility-to-meet-gigawatt-scale-ai-infrastructure-demand)
-**Published:** Fri, 08 May 2026 18:05:20 +0000
+## [Wise Integration Advances WiseGan Digital-First Power IC Strategy](https://www.powerelectronicsnews.com/wise-integration-advances-wisegan-digital-first-power-ic-strategy/)
+**Published:** Fri, 05 Jun 2026 15:00:00 +0000
 
-<p>Upsized financing builds on August 2025 credit facility, supporting continued expansion of Lambda's AI factory footprint.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lambda-closes-1-billion-senior-secured-credit-facility-to-meet-gigawatt-scale-ai-infrastructure-demand/">Lambda Closes $1 Billion Senior Secured Credit Facility to Meet Gigawatt-Scale AI Infrastructure Demand</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Renesas Completes Acquisition of Irida Labs](https://www.semiconductor-digest.com/renesas-completes-acquisition-of-irida-labs/?utm_source=rss&utm_medium=rss&utm_campaign=renesas-completes-acquisition-of-irida-labs)
-**Published:** Fri, 08 May 2026 17:49:31 +0000
-
-<p>Renesas Electronics Corporation, a supplier of advanced semiconductor solutions, today announced that a subsidiary of Renesas has completed the acquisition of Irida Labs, a Greece-based company specializing in embedded software for AI-powered visual perception systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/renesas-completes-acquisition-of-irida-labs/">Renesas Completes Acquisition of Irida Labs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Wise Integration Advances WiseGan Digital-First Power IC Strategy." class="webfeedsFeaturedVisual wp-post-image" height="1308" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/PR-PCIM-002.jpg?fit=2500%2C1308" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>The company highlights distributed digital control technologies for high-efficiency GaN and SiC power conversion systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wise-integration-advances-wisegan-digital-first-power-ic-strategy/">Wise Integration Advances WiseGan Digital-First Power IC Strategy</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Veeco Announces $250 Million+ in Equipment Orders for Manufacturing Indium Phosphide Lasers](https://www.semiconductor-digest.com/veeco-announces-250-million-in-equipment-orders-for-manufacturing-indium-phosphide-lasers/?utm_source=rss&utm_medium=rss&utm_campaign=veeco-announces-250-million-in-equipment-orders-for-manufacturing-indium-phosphide-lasers)
-**Published:** Fri, 08 May 2026 17:24:20 +0000
+## [SiC-Based SSCBs, PEN eBook June 2026, Discrete SiC-Based Power Modules: Power Electronics Week Insights](https://www.powerelectronicsnews.com/sic-based-sscbs-pen-ebook-june-2026-discrete-sic-based-power-modules-power-electronics-week-insights/)
+**Published:** Fri, 05 Jun 2026 15:00:00 +0000
 
-<p>High-volume orders from multiple customers for its Spector, Lumina and Wet Processing Systems to drive strong growth.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/veeco-announces-250-million-in-equipment-orders-for-manufacturing-indium-phosphide-lasers/">Veeco Announces $250 Million+ in Equipment Orders for Manufacturing Indium Phosphide Lasers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Global Semiconductor Sales Increase 25% from Q4 2025 to Q1 2026](https://www.semiconductor-digest.com/global-semiconductor-sales-increase-25-from-q4-2025-to-q1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-sales-increase-25-from-q4-2025-to-q1-2026)
-**Published:** Thu, 07 May 2026 19:16:15 +0000
-
-<p>Worldwide chip sales in March increase 79.2% year-to-year, 11.5% month-to-month.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-sales-increase-25-from-q4-2025-to-q1-2026/">Global Semiconductor Sales Increase 25% from Q4 2025 to Q1 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on SiC-Based SSCBs, PEN eBook June 2026, and Discrete SiC-Based Power Modules!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/sic-based-sscbs-pen-ebook-june-2026-discrete-sic-based-power-modules-power-electronics-week-insights/">SiC-Based SSCBs, PEN eBook June 2026, Discrete SiC-Based Power Modules: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Organic Luminescent Radicals Enable Bright Circularly Polarized Light in the Near-Infrared Region](https://www.semiconductor-digest.com/organic-luminescent-radicals-enable-bright-circularly-polarized-light-in-the-near-infrared-region/?utm_source=rss&utm_medium=rss&utm_campaign=organic-luminescent-radicals-enable-bright-circularly-polarized-light-in-the-near-infrared-region)
-**Published:** Thu, 07 May 2026 19:06:54 +0000
+## [Flex Launches BMR317 Intermediate Bus Converter for AI Systems](https://www.powerelectronicsnews.com/flex-launches-bmr317-intermediate-bus-converter-for-ai-systems/)
+**Published:** Fri, 05 Jun 2026 14:00:00 +0000
 
-<p>New molecular design unlocks high photoluminescence efficiency and improved stability, with potential applications in lasers, bioimaging, and quantum technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/organic-luminescent-radicals-enable-bright-circularly-polarized-light-in-the-near-infrared-region/">Organic Luminescent Radicals Enable Bright Circularly Polarized Light in the Near-Infrared Region</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Flex Launches BMR317 Intermediate Bus Converter for AI Systems." class="webfeedsFeaturedVisual wp-post-image" height="3710" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/BMR317-Flex-Power-Modules.jpg?fit=5563%2C3710" style="display: block; margin-bottom: 5px; clear: both;" width="5563" /><p>The BMR317 intermediate bus converter supports fast AI workload transients with peak power up to 2.5 kW in a compact footprint.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/flex-launches-bmr317-intermediate-bus-converter-for-ai-systems/">Flex Launches BMR317 Intermediate Bus Converter for AI Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [The MOSFET Innovation Pace: Why Silicon Wins Critical Power Stages Alongside SiC and GaN](https://www.powerelectronicsnews.com/the-mosfet-innovation-pace-why-silicon-wins-critical-power-stages-alongside-sic-and-gan/)
+**Published:** Fri, 05 Jun 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/Inf_RR_Wafer20um-36.jpg?fit=6000%2C4000" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>From 20-µm wafers to top-side cooling, Infineon's Si MOSFET portfolio advances efficiency, thermal performance, and application optimization.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/the-mosfet-innovation-pace-why-silicon-wins-critical-power-stages-alongside-sic-and-gan/">The MOSFET Innovation Pace: Why Silicon Wins Critical Power Stages Alongside SiC and GaN</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,38 +914,6 @@ _Last updated: 2026-06-05 12:50 UTC_
 
 ---
 
-## [Power Electronics Course with QSPICE (Episode 11): Circuit Protection—Fuses](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-11-circuit-protection-fuses/)
-**Published:** Tue, 02 Jun 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>Episode 11 of the QSPICE course covers fuse operation, characteristics, SPICE modeling, and circuit simulation for overcurrent protection.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-11-circuit-protection-fuses/">Power Electronics Course with QSPICE (Episode 11): Circuit Protection—Fuses</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Integrations Introduces New GaN-Based Auxiliary PSUs](https://www.powerelectronicsnews.com/power-integrations-introduces-new-gan-based-auxiliary-psus/)
-**Published:** Tue, 02 Jun 2026 11:00:00 +0000
-
-<img alt="Power Integrations Introduces New GaN-Based Auxiliary PSUs." class="webfeedsFeaturedVisual wp-post-image" height="1260" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/1110-and-1114-PR-2400x1260-052726-1.jpg?fit=2400%2C1260" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new GaN-based auxiliary PSU designs reduce board space and component count in 800 VDC AI server infrastructure.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-integrations-introduces-new-gan-based-auxiliary-psus/">Power Integrations Introduces New GaN-Based Auxiliary PSUs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Infineon Joins Nvidia MGX Ecosystem for 800 VDC AI Power Architectures](https://www.powerelectronicsnews.com/infineon-joins-nvidia-mgx-ecosystem-for-800-vdc-ai-power-architectures/)
-**Published:** Mon, 01 Jun 2026 14:52:13 +0000
-
-<img alt="Infineon Joins Nvidia MGX Ecosystem for 800 VDC AI Power Architectures." class="webfeedsFeaturedVisual wp-post-image" height="1000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/adam-white-2.jpg?fit=1500%2C1000" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>High-efficiency 800 VDC power conversion targets next-generation AI server racks and accelerated computing systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-joins-nvidia-mgx-ecosystem-for-800-vdc-ai-power-architectures/">Infineon Joins Nvidia MGX Ecosystem for 800 VDC AI Power Architectures</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Imec Explores the Future of AI Hardware](https://www.powerelectronicsnews.com/imec-explores-the-future-of-ai-hardware/)
-**Published:** Mon, 01 Jun 2026 14:42:14 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/itf-world-2026-audience1.jpg?fit=1080%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1080" /><p>Imec's ITF World 2026 showcased AI hardware scaling roadmaps, from CMOS advances to physical AI and medical data applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/imec-explores-the-future-of-ai-hardware/">Imec Explores the Future of AI Hardware</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Chips Act 2.0 Puts Demand at Center of Europe’s Semiconductor Strategy](https://www.eetimes.com/chips-act-2-0-puts-demand-at-center-of-europes-semiconductor-strategy/)
 **Published:** Fri, 05 Jun 2026 07:00:00 +0000
 
@@ -927,22 +927,6 @@ _Last updated: 2026-06-05 12:50 UTC_
 
 <p>In an exclusive video interview, NSTC Minister Wu shares Taiwan's four-pillar shift from chipmaker to AI enabler.</p>
 <p>The post <a href="https://www.eetimes.com/taiwan-minister-emphasizes-collaboration-and-future-focus-on-photonics-wbg-and-quantum/">Taiwan Minister Emphasizes Collaboration and Future Focus on Photonics, WBG, and Quantum</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Physical AI Pushes Chipmakers Up the Value Chain](https://www.eetimes.com/physical-ai-pushes-chipmakers-up-the-value-chain/)
-**Published:** Tue, 02 Jun 2026 14:00:00 +0000
-
-<p>At the TSMC European Symposium, European semiconductor CEOs spoke about how AI in influencing business.</p>
-<p>The post <a href="https://www.eetimes.com/physical-ai-pushes-chipmakers-up-the-value-chain/">Physical AI Pushes Chipmakers Up the Value Chain</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Jedec SiC Guidelines improve reliability in WBG power electronics](https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-sic-guidelines-improve-reliability-in-wbg-power-electronics-2026-06/)
-**Published:** Thu, 04 Jun 2026 15:26:08 +0000
-
-<p>JEDEC is publishing two new guidelines around the use of wide bandgap (WBG) power semiconductor materials, such as Gallium Nitride (GaN) and Silicon Carbide (SiC). There is JEP203: Guideline for ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-sic-guidelines-improve-reliability-in-wbg-power-electronics-2026-06/">Jedec SiC Guidelines improve reliability in WBG power electronics</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
