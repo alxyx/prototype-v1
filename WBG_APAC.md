@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-04 15:28 UTC_
+_Last updated: 2026-06-05 00:20 UTC_
+
+## [HKUST Partners with CalmCar to Establish Physical AI Innovation Center](https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/)
+**Published:** Thu, 04 Jun 2026 22:29:42 +0000
+
+<p>The center aims to build a new-generation physical AI technology foundation capable of understanding, predicting, reasoning, and decision-making.</p>
+<p>The post <a href="https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/">HKUST Partners with CalmCar to Establish Physical AI Innovation Center</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026](https://www.eetasia.com/twse-highlights-ai-driven-capital-growth-and-semiconductor-leadership-at-computex-2026/)
+**Published:** Thu, 04 Jun 2026 22:08:46 +0000
+
+<p>TWSE highlights AI-driven growth, semiconductor strength, and capital market momentum at COMPUTEX 2026.</p>
+<p>The post <a href="https://www.eetasia.com/twse-highlights-ai-driven-capital-growth-and-semiconductor-leadership-at-computex-2026/">TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Infineon Brings Quantum-resilient Hardware Security to NVIDIA Jetson Thor for Physical AI Systems](https://www.eetasia.com/infineon-brings-quantum-resilient-hardware-security-to-nvidia-jetson-thor-for-physical-ai-systems/)
 **Published:** Wed, 03 Jun 2026 21:39:35 +0000
@@ -18,19 +34,11 @@ _Last updated: 2026-06-04 15:28 UTC_
 
 ---
 
-## [DEEPX Inks Global Edge AI Mass Production Partnership with AAEON](https://www.eetasia.com/deepx-inks-global-edge-ai-mass-production-partnership-with-aaeon/)
-**Published:** Tue, 02 Jun 2026 22:17:16 +0000
+## [Mitsubishi Electric to Ship 5th-generation SiC-MOSFET Bare Die Samples](https://www.semiconductor-digest.com/mitsubishi-electric-to-ship-5th-generation-sic-mosfet-bare-die-samples/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-electric-to-ship-5th-generation-sic-mosfet-bare-die-samples)
+**Published:** Thu, 04 Jun 2026 15:29:20 +0000
 
-<p>The three-year commercialization cooperation will see the integration of DEEPX's AI semiconductors across AAEON's key hardware product lines.</p>
-<p>The post <a href="https://www.eetasia.com/deepx-inks-global-edge-ai-mass-production-partnership-with-aaeon/">DEEPX Inks Global Edge AI Mass Production Partnership with AAEON</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Synopsys and Samsung Foundry Expand AI-Driven Design, Test, and 3DIC Enablement for Advanced Nodes](https://www.eetasia.com/synopsys-and-samsung-foundry-expand-ai-driven-design-test-and-3dic-enablement-for-advanced-nodes/)
-**Published:** Tue, 02 Jun 2026 22:00:51 +0000
-
-<p>Expanded collaboration delivers AI-powered EDA, test, IP, and 3DIC solutions for advanced semiconductor designs.</p>
-<p>The post <a href="https://www.eetasia.com/synopsys-and-samsung-foundry-expand-ai-driven-design-test-and-3dic-enablement-for-advanced-nodes/">Synopsys and Samsung Foundry Expand AI-Driven Design, Test, and 3DIC Enablement for Advanced Nodes</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Industry-leading low on-resistance, approx. 25% less than existing products, enhances xEV power efficiency.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/mitsubishi-electric-to-ship-5th-generation-sic-mosfet-bare-die-samples/">Mitsubishi Electric to Ship 5th-generation SiC-MOSFET Bare Die Samples</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -826,11 +834,11 @@ _Last updated: 2026-06-04 15:28 UTC_
 
 ---
 
-## [SEMIFIVE and ICY Tech Achieve Successful Tape-out of 8nm eMRAM-Based Edge AI SoC, Targeting First Commercialization in Asia](https://www.semiconductor-digest.com/semifive-and-icy-tech-achieve-successful-tape-out-of-8nm-emram-based-edge-ai-soc-targeting-first-commercialization-in-asia/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-and-icy-tech-achieve-successful-tape-out-of-8nm-emram-based-edge-ai-soc-targeting-first-commercialization-in-asia)
-**Published:** Thu, 07 May 2026 18:49:00 +0000
+## [Vishay Launches 200 A Power Module for 48 V EV Systems](https://www.powerelectronicsnews.com/vishay-launches-200-a-power-module-for-48-v-ev-systems/)
+**Published:** Thu, 04 Jun 2026 17:47:30 +0000
 
-<p>This marks a significant milestone toward the first commercial deployment of 8nm eMRAM technology in Asia.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semifive-and-icy-tech-achieve-successful-tape-out-of-8nm-emram-based-edge-ai-soc-targeting-first-commercialization-in-asia/">SEMIFIVE and ICY Tech Achieve Successful Tape-out of 8nm eMRAM-Based Edge AI SoC, Targeting First Commercialization in Asia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Vishay Launches 200 A Power Module for 48 V EV Systems." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/55310367678_719a3fb6d2_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The integrated 200 A power module reduces board space and conduction losses in 48 V vehicle powertrain systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-launches-200-a-power-module-for-48-v-ev-systems/">Vishay Launches 200 A Power Module for 48 V EV Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -906,14 +914,6 @@ _Last updated: 2026-06-04 15:28 UTC_
 
 ---
 
-## [PEN eBook June 2026 – The Gigawatt Era: Power Electronics in the Age of AI](https://www.powerelectronicsnews.com/pen-ebook-june-2026-the-gigawatt-era-power-electronics-in-the-age-of-ai/)
-**Published:** Mon, 01 Jun 2026 13:00:00 +0000
-
-<img alt="PEN eBook 2026 June" class="webfeedsFeaturedVisual wp-post-image" height="1131" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/PEN_June_2026-1.jpg?fit=800%2C1131" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>GaN, SiC, and VPD technologies are rapidly closing the gap between grid power and the power-hungry AI chip.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/pen-ebook-june-2026-the-gigawatt-era-power-electronics-in-the-age-of-ai/">PEN eBook June 2026 &#8211; The Gigawatt Era: Power Electronics in the Age of AI</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Taiwan Minister Emphasizes Collaboration and Future Focus on Photonics, WBG, and Quantum](https://www.eetimes.com/taiwan-minister-emphasizes-collaboration-and-future-focus-on-photonics-wbg-and-quantum/)
 **Published:** Wed, 03 Jun 2026 06:00:00 +0000
 
@@ -930,11 +930,11 @@ _Last updated: 2026-06-04 15:28 UTC_
 
 ---
 
-## [TSMC Defends Transistor Scaling Amid Huawei’s ‘Her’s Law’ Proposal](https://www.eetimes.com/tsmc-defends-transistor-scaling-amid-huaweis-hers-law-proposal/)
-**Published:** Mon, 01 Jun 2026 18:12:48 +0000
+## [Jedec SiC Guidelines improve reliability in WBG power electronics](https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-sic-guidelines-improve-reliability-in-wbg-power-electronics-2026-06/)
+**Published:** Thu, 04 Jun 2026 15:26:08 +0000
 
-<p>Kevin Zhang said 3D integration is important, but transistor scaling remains the semiconductor industry's primary driver of performance and energy-efficiency gains.</p>
-<p>The post <a href="https://www.eetimes.com/tsmc-defends-transistor-scaling-amid-huaweis-hers-law-proposal/">TSMC Defends Transistor Scaling Amid Huawei&#8217;s ‘Her’s Law’ Proposal</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>JEDEC is publishing two new guidelines around the use of wide bandgap (WBG) power semiconductor materials, such as Gallium Nitride (GaN) and Silicon Carbide (SiC). There is JEP203: Guideline for ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-sic-guidelines-improve-reliability-in-wbg-power-electronics-2026-06/">Jedec SiC Guidelines improve reliability in WBG power electronics</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
