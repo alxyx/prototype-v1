@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-06 09:39 UTC_
+_Last updated: 2026-06-06 13:56 UTC_
 
 ## [HKUST Partners with CalmCar to Establish Physical AI Innovation Center](https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/)
 **Published:** Thu, 04 Jun 2026 22:29:42 +0000
