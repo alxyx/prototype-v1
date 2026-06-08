@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-08 15:01 UTC_
+_Last updated: 2026-06-08 20:29 UTC_
 
 ## [COMPUTEX 2026 Wrap Up with Nitin Dahad and Jim McGregor](https://www.eetasia.com/computex-2026-wrap-up-with-nitin-dahad-and-jim-mcgregor/)
 **Published:** Mon, 08 Jun 2026 03:00:10 +0000
