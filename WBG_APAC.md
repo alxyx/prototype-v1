@@ -1,6 +1,30 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-08 00:21 UTC_
+_Last updated: 2026-06-08 15:01 UTC_
+
+## [COMPUTEX 2026 Wrap Up with Nitin Dahad and Jim McGregor](https://www.eetasia.com/computex-2026-wrap-up-with-nitin-dahad-and-jim-mcgregor/)
+**Published:** Mon, 08 Jun 2026 03:00:10 +0000
+
+<p>EE Times' Nitin Dahad and Tirias Research's Jim McGregor discuss agentic PCs, physical AI, and more, in a wrap up of this year's COMPUTEX.</p>
+<p>The post <a href="https://www.eetasia.com/computex-2026-wrap-up-with-nitin-dahad-and-jim-mcgregor/">COMPUTEX 2026 Wrap Up with Nitin Dahad and Jim McGregor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Semiconductor Equipment Billings Jump 14% YoY in 1Q 2026](https://www.eetasia.com/semiconductor-equipment-billings-jump-14-yoy-in-1q-2026/)
+**Published:** Mon, 08 Jun 2026 02:40:57 +0000
+
+<p>Record quarterly billings were driven by continued AI-related investment, including capacity expansion and technology upgrades supporting leading-edge logic, DRAM, and advanced packaging.</p>
+<p>The post <a href="https://www.eetasia.com/semiconductor-equipment-billings-jump-14-yoy-in-1q-2026/">Semiconductor Equipment Billings Jump 14% YoY in 1Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI](https://www.eetasia.com/micron-metai-build-simready-fab-twins-on-nvidia-omniverse-for-semiconductor-physical-ai/)
+**Published:** Mon, 08 Jun 2026 02:15:02 +0000
+
+<p>Collaboration creates simulation-ready semiconductor fab environments to support digital twins, automation, and AI-driven operations.</p>
+<p>The post <a href="https://www.eetasia.com/micron-metai-build-simready-fab-twins-on-nvidia-omniverse-for-semiconductor-physical-ai/">Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [HKUST Partners with CalmCar to Establish Physical AI Innovation Center](https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/)
 **Published:** Thu, 04 Jun 2026 22:29:42 +0000
@@ -18,19 +42,19 @@ _Last updated: 2026-06-08 00:21 UTC_
 
 ---
 
-## [Infineon Brings Quantum-resilient Hardware Security to NVIDIA Jetson Thor for Physical AI Systems](https://www.eetasia.com/infineon-brings-quantum-resilient-hardware-security-to-nvidia-jetson-thor-for-physical-ai-systems/)
-**Published:** Wed, 03 Jun 2026 21:39:35 +0000
+## [Valve Selection for UHP Gas and Chemical Delivery](https://www.semiconductor-digest.com/valve-selection-for-uhp-gas-and-chemical-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=valve-selection-for-uhp-gas-and-chemical-delivery)
+**Published:** Mon, 08 Jun 2026 13:11:19 +0000
 
-<p>Infineon integrates certified TPM with NVIDIA Jetson Thor, enabling quantum-resilient security for autonomous AI systems.</p>
-<p>The post <a href="https://www.eetasia.com/infineon-brings-quantum-resilient-hardware-security-to-nvidia-jetson-thor-for-physical-ai-systems/">Infineon Brings Quantum-resilient Hardware Security to NVIDIA Jetson Thor for Physical AI Systems</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>A practical checklist for semiconductor fluid systems. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/valve-selection-for-uhp-gas-and-chemical-delivery/">Valve Selection for UHP Gas and Chemical Delivery</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Huawei’s Tau Law Reframes Chip Scaling Around Time Compression](https://www.eetasia.com/huaweis-tau-law-reframes-chip-scaling-around-time-compression/)
-**Published:** Wed, 03 Jun 2026 21:28:50 +0000
+## [Rethinking Memory in a Demand-Driven Market](https://www.semiconductor-digest.com/rethinking-memory-in-a-demand-driven-market/?utm_source=rss&utm_medium=rss&utm_campaign=rethinking-memory-in-a-demand-driven-market)
+**Published:** Mon, 08 Jun 2026 13:04:58 +0000
 
-<p>Huawei's Tau Law proposes using time compression and LogicFolding architectures to sustain semiconductor performance gains.</p>
-<p>The post <a href="https://www.eetasia.com/huaweis-tau-law-reframes-chip-scaling-around-time-compression/">Huawei&#8217;s Tau Law Reframes Chip Scaling Around Time Compression</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Today’s memory market isn’t a shortage, it’s controlled scarcity — and allocation decisions driven by AI infrastructure are forcing system designers to plan architectures years ahead of the memory availability curve.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rethinking-memory-in-a-demand-driven-market/">Rethinking Memory in a Demand-Driven Market</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -818,19 +842,11 @@ _Last updated: 2026-06-08 00:21 UTC_
 
 ---
 
-## [Semidynamics and SiPearl Announce Strategic Cooperation to Develop EU-Sovereign Rack-Scale AI Compute Platform](https://www.semiconductor-digest.com/semidynamics-and-sipearl-announce-strategic-cooperation-to-develop-eu-sovereign-rack-scale-ai-compute-platform/?utm_source=rss&utm_medium=rss&utm_campaign=semidynamics-and-sipearl-announce-strategic-cooperation-to-develop-eu-sovereign-rack-scale-ai-compute-platform)
-**Published:** Fri, 08 May 2026 18:31:06 +0000
+## [Power Electronics Course with QSPICE (Episode 12): Other Components for Circuit Protection](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-12-other-components-for-circuit-protection/)
+**Published:** Mon, 08 Jun 2026 13:00:00 +0000
 
-<p>The two companies share a common goal: to offer a sovereign high‑performance energy‑efficient compute solution capable of supporting major European initiatives, both public and private, including AI Factory and Giga Factory programmes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semidynamics-and-sipearl-announce-strategic-cooperation-to-develop-eu-sovereign-rack-scale-ai-compute-platform/">Semidynamics and SiPearl Announce Strategic Cooperation to Develop EU-Sovereign Rack-Scale AI Compute Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Molex Completes Acquisition of Teramount Ltd.](https://www.semiconductor-digest.com/molex-completes-acquisition-of-teramount-ltd/?utm_source=rss&utm_medium=rss&utm_campaign=molex-completes-acquisition-of-teramount-ltd)
-**Published:** Fri, 08 May 2026 18:07:21 +0000
-
-<p>Molex has completed the acquisition of Teramount Ltd., an Israel‑based developer of detachable fiber‑to‑chip connectivity solutions optimized for high‑volume Co‑Packaged Optics (CPO) and other silicon photonics applications. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/molex-completes-acquisition-of-teramount-ltd/">Molex Completes Acquisition of Teramount Ltd.</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>Episode 12 of the QSPICE course covers TVS diodes and MOV varistors for power circuit overvoltage protection.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-12-other-components-for-circuit-protection/">Power Electronics Course with QSPICE (Episode 12): Other Components for Circuit Protection</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -906,11 +922,11 @@ _Last updated: 2026-06-08 00:21 UTC_
 
 ---
 
-## [Power Module from SiC Discrete Devices Repackaged: Part 1](https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-1/)
-**Published:** Wed, 03 Jun 2026 13:00:00 +0000
+## [Inside Europe’s Chip Rethink: Why Fabs Weren’t Enough and Why Spain Matters](https://www.eetimes.com/chips-act-2-0-inside-europes-semiconductor-rethink/)
+**Published:** Mon, 08 Jun 2026 12:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2592" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/AdobeStock_122645969.jpeg?fit=3872%2C2592" style="display: block; margin-bottom: 5px; clear: both;" width="3872" /><p>A novel SiC IPM based on repackaged TO-247 discrete devices achieves 98.1% efficiency and nearly 2x cost reduction.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-1/">Power Module from SiC Discrete Devices Repackaged: Part 1</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Spain is emerging as a more influential player in Europe’s next chip debate—through design startups, photonics, quantum technologies, and a growing talent base.</p>
+<p>The post <a href="https://www.eetimes.com/chips-act-2-0-inside-europes-semiconductor-rethink/">Inside Europe’s Chip Rethink: Why Fabs Weren’t Enough and Why Spain Matters</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -922,33 +938,25 @@ _Last updated: 2026-06-08 00:21 UTC_
 
 ---
 
-## [Taiwan Minister Emphasizes Collaboration and Future Focus on Photonics, WBG, and Quantum](https://www.eetimes.com/taiwan-minister-emphasizes-collaboration-and-future-focus-on-photonics-wbg-and-quantum/)
-**Published:** Wed, 03 Jun 2026 06:00:00 +0000
+## [Semiconductor sales up 93.9% y-o-y in April, says SIA](https://www.electronicsweekly.com/news/business/q1-semiconductor-sales-2026-06/)
+**Published:** Mon, 08 Jun 2026 05:26:15 +0000
 
-<p>In an exclusive video interview, NSTC Minister Wu shares Taiwan's four-pillar shift from chipmaker to AI enabler.</p>
-<p>The post <a href="https://www.eetimes.com/taiwan-minister-emphasizes-collaboration-and-future-focus-on-photonics-wbg-and-quantum/">Taiwan Minister Emphasizes Collaboration and Future Focus on Photonics, WBG, and Quantum</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Jedec SiC Guidelines improve reliability in WBG power electronics](https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-sic-guidelines-improve-reliability-in-wbg-power-electronics-2026-06/)
-**Published:** Thu, 04 Jun 2026 15:26:08 +0000
-
-<p>JEDEC is publishing two new guidelines around the use of wide bandgap (WBG) power semiconductor materials, such as Gallium Nitride (GaN) and Silicon Carbide (SiC). There is JEP203: Guideline for ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-sic-guidelines-improve-reliability-in-wbg-power-electronics-2026-06/">Jedec SiC Guidelines improve reliability in WBG power electronics</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>April semiconductor sales of $110.5bn were 11% up on the $99.5bn of March 2026  and 93.9% more than the April 2025 total of $56.9bn, according to the SIA. The SIA ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/q1-semiconductor-sales-2026-06/">Semiconductor sales up 93.9% y-o-y in April, says SIA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [JOB: GET / PGET – Power Electronics Engineer At Xylem In Vadodara](https://www.electronicsforu.com/career/get-pget-power-electronics-engineer-xylem-vadodara)
-**Published:** Fri, 05 Jun 2026 09:44:32 +0000
+## [Sourcing And Procurement – Internship At UNIO Labs In Hyderabad](https://www.electronicsforu.com/career/sourcing-and-procurement-internship-at-unio-labs-in-hyderabad)
+**Published:** Mon, 08 Jun 2026 11:27:39 +0000
 
-<img alt="Garuda3d" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/jobs5-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Vadodara Company: Xylem Essential Duties/Principal Responsibilities Minimum Qualifications: Education, Experience, Skills, Abilities, License/Certification
+<img alt="Hardware Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2017/01/jobs-633559_960_720-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON INTERNSHALA Location: Hyderabad Company: UNIO Labs Selected intern&#8217;s day-to-day responsibilities include: 1. Identify and source suppliers for semiconductor components including ICs, sensors, and modules2. Research and procure Arduino, Raspberry Pi kits, and DIY electronics components3. Evaluate and shortlist PCB manufacturing and assembly vendors4. Compare pricing, MOQ, lead time, and quality across platforms [&#8230;]
 
 ---
 
-## [JOB: Manager – Power Electronics At Schneider Electric In Mumbai](https://www.electronicsforu.com/career/manager-power-electronics-at-schneider-electric-mumbai)
-**Published:** Fri, 05 Jun 2026 09:18:34 +0000
+## [Autonomous AI ‘Virtual Engineer’ for Chip Design](https://www.electronicsforu.com/news/autonomous-ai-virtual-engineer-for-chip-design)
+**Published:** Mon, 08 Jun 2026 08:38:39 +0000
 
-<img alt="Test Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2017/08/Schneider-Electric-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Mumbai Company: Schneider Electric Critical Skills Key responsibilities
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Screenshot-2026-06-08-140541-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New agentic EDA capability is positioned to execute design and verification tasks with minimal human intervention, aiming to compress simulation-heavy workflows and speed time-to-silicon. A new autonomous “virtual engineer” for semiconductor development has been introduced by Cadence, with the vendor positioning it as the industry’s first Level‑5 agentic AI system capable of performing substantial chip [&#8230;]
 
 ---
 
