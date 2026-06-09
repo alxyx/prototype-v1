@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-09 09:55 UTC_
+_Last updated: 2026-06-09 12:50 UTC_
 
 ## [Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development](https://www.eetasia.com/cadence-autonomous-ai-design-engineer-accelerates-chip-verification-and-development/)
 **Published:** Tue, 09 Jun 2026 02:11:12 +0000
