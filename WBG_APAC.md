@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-08 20:29 UTC_
+_Last updated: 2026-06-09 05:19 UTC_
+
+## [Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development](https://www.eetasia.com/cadence-autonomous-ai-design-engineer-accelerates-chip-verification-and-development/)
+**Published:** Tue, 09 Jun 2026 02:11:12 +0000
+
+<p>Cadence extends ChipStack AI Super Agent to Level-5 autonomy, enabling fully autonomous semiconductor verification workflows.</p>
+<p>The post <a href="https://www.eetasia.com/cadence-autonomous-ai-design-engineer-accelerates-chip-verification-and-development/">Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Why Semiconductor Manufacturers are Rethinking MES](https://www.eetasia.com/why-semiconductor-manufacturers-are-rethinking-mes/)
+**Published:** Mon, 08 Jun 2026 23:26:13 +0000
+
+<p>AI-ready MES platforms are becoming essential for quality, agility, and control as semiconductor manufacturing expands across Southeast Asia.</p>
+<p>The post <a href="https://www.eetasia.com/why-semiconductor-manufacturers-are-rethinking-mes/">Why Semiconductor Manufacturers are Rethinking MES</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [COMPUTEX 2026 Wrap Up with Nitin Dahad and Jim McGregor](https://www.eetasia.com/computex-2026-wrap-up-with-nitin-dahad-and-jim-mcgregor/)
 **Published:** Mon, 08 Jun 2026 03:00:10 +0000
@@ -34,11 +50,35 @@ _Last updated: 2026-06-08 20:29 UTC_
 
 ---
 
-## [TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026](https://www.eetasia.com/twse-highlights-ai-driven-capital-growth-and-semiconductor-leadership-at-computex-2026/)
-**Published:** Thu, 04 Jun 2026 22:08:46 +0000
+## [Covalent Expands Wafer-Level Semiconductor Characterization Through Oxford Instruments Collaboration](https://www.semiconductor-digest.com/covalent-expands-wafer-level-semiconductor-characterization-through-oxford-instruments-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=covalent-expands-wafer-level-semiconductor-characterization-through-oxford-instruments-collaboration)
+**Published:** Mon, 08 Jun 2026 21:00:41 +0000
 
-<p>TWSE highlights AI-driven growth, semiconductor strength, and capital market momentum at COMPUTEX 2026.</p>
-<p>The post <a href="https://www.eetasia.com/twse-highlights-ai-driven-capital-growth-and-semiconductor-leadership-at-computex-2026/">TWSE Highlights AI-driven Capital Growth and Semiconductor Leadership at COMPUTEX 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Covalent today announced a strategic collaboration with Oxford Instruments that expands its semiconductor characterization offering with customer-ready, wafer-level Raman and photoluminescence (PL) workflows.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/covalent-expands-wafer-level-semiconductor-characterization-through-oxford-instruments-collaboration/">Covalent Expands Wafer-Level Semiconductor Characterization Through Oxford Instruments Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Mitsubishi Electric and Semikron Danfoss Jointly Develop New Standard Package for Power Semiconductor Modules](https://www.semiconductor-digest.com/mitsubishi-electric-and-semikron-danfoss-jointly-develop-new-standard-package-for-power-semiconductor-modules/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-electric-and-semikron-danfoss-jointly-develop-new-standard-package-for-power-semiconductor-modules)
+**Published:** Mon, 08 Jun 2026 20:53:05 +0000
+
+<p>New LV100-type standard package with integrated 3-level circuit contributes to standardized inverter designs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/mitsubishi-electric-and-semikron-danfoss-jointly-develop-new-standard-package-for-power-semiconductor-modules/">Mitsubishi Electric and Semikron Danfoss Jointly Develop New Standard Package for Power Semiconductor Modules</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Van der Waals Forces Can Play Unexpected Role in Thin Film Properties](https://www.semiconductor-digest.com/van-der-waals-forces-can-play-unexpected-role-in-thin-film-properties/?utm_source=rss&utm_medium=rss&utm_campaign=van-der-waals-forces-can-play-unexpected-role-in-thin-film-properties)
+**Published:** Mon, 08 Jun 2026 20:41:13 +0000
+
+<p>Researchers have demonstrated the ability to use van der Waals forces to tune the physical and electronic properties of ferroelectric thin films. The work opens the door to new techniques for engineering materials for use in smaller, more energy efficient electronic devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/van-der-waals-forces-can-play-unexpected-role-in-thin-film-properties/">Van der Waals Forces Can Play Unexpected Role in Thin Film Properties</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Presto Engineering and Menta Announce Strategic Collaboration](https://www.semiconductor-digest.com/presto-engineering-and-menta-announce-strategic-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=presto-engineering-and-menta-announce-strategic-collaboration)
+**Published:** Mon, 08 Jun 2026 20:23:20 +0000
+
+<p>Partnership combines embedded FPGA innovation with end-to-end ASIC industrialization expertise to enable flexible, future-proof semiconductor solutions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/presto-engineering-and-menta-announce-strategic-collaboration/">Presto Engineering and Menta Announce Strategic Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -807,38 +847,6 @@ _Last updated: 2026-06-08 20:29 UTC_
 
 <p>Cyient Semiconductors Private Limited today announced the launch of seven new gallium nitride (GaN) power devices for the Indian market, developed using Navitas Semiconductor's (Nasdaq: NVTS) industry leading GaN technology.  </p>
 <p>The post <a href="https://www.semiconductor-digest.com/cyient-semiconductors-launches-indias-first-gan-power-ic-family-leveraging-navitas-technology/">Cyient Semiconductors Launches India&#8217;s First GaN Power IC Family Leveraging Navitas Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [indie to Acquire CMOS Image Sensor Product Line from ams OSRAM](https://www.semiconductor-digest.com/indie-to-acquire-cmos-image-sensor-product-line-from-ams-osram/?utm_source=rss&utm_medium=rss&utm_campaign=indie-to-acquire-cmos-image-sensor-product-line-from-ams-osram)
-**Published:** Mon, 11 May 2026 22:29:56 +0000
-
-<p>indie Semiconductor, an automotive solutions innovator, has announced the signing of a definitive agreement to acquire the fabless CMOS image sensor group from ams OSRAM AG for a total consideration of 40 million euros.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/indie-to-acquire-cmos-image-sensor-product-line-from-ams-osram/">indie to Acquire CMOS Image Sensor Product Line from ams OSRAM</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Flexible Touch Sensors: Mimicking Human Skin With a Smart Conductive Polymer](https://www.semiconductor-digest.com/flexible-touch-sensors-mimicking-human-skin-with-a-smart-conductive-polymer/?utm_source=rss&utm_medium=rss&utm_campaign=flexible-touch-sensors-mimicking-human-skin-with-a-smart-conductive-polymer)
-**Published:** Mon, 11 May 2026 22:28:13 +0000
-
-<p>Imagine a prosthetic hand that can feel the warmth of a coffee cup, or a smart bandage that tracks your pulse and breathing. Scientists are now one step closer to making these a reality —thanks to a versatile material called PEDOT:PSS.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/flexible-touch-sensors-mimicking-human-skin-with-a-smart-conductive-polymer/">Flexible Touch Sensors: Mimicking Human Skin With a Smart Conductive Polymer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [KAIST Demonstrates Ultralow-Noise Microwave and Millimeter-Wave Signal Generation Using Microcomb-based Photonic Chip](https://www.semiconductor-digest.com/kaist-demonstrates-ultralow-noise-microwave-and-millimeter-wave-signal-generation-using-microcomb-based-photonic-chip/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-demonstrates-ultralow-noise-microwave-and-millimeter-wave-signal-generation-using-microcomb-based-photonic-chip)
-**Published:** Mon, 11 May 2026 21:27:06 +0000
-
-<p>Researchers at KAIST have demonstrated a chip-scale photonic approach for generating ultralow-noise and highly stable microwave and millimeter-wave signals based on optical frequency combs (microcombs), offering a potential pathway toward compact, high-performance frequency sources for next-generation technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kaist-demonstrates-ultralow-noise-microwave-and-millimeter-wave-signal-generation-using-microcomb-based-photonic-chip/">KAIST Demonstrates Ultralow-Noise Microwave and Millimeter-Wave Signal Generation Using Microcomb-based Photonic Chip</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [A Maskless Laser Printing Breakthrough for Next-Generation Semiconductor Packaging](https://www.semiconductor-digest.com/a-maskless-laser-printing-breakthrough-for-next-generation-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=a-maskless-laser-printing-breakthrough-for-next-generation-semiconductor-packaging)
-**Published:** Mon, 11 May 2026 21:23:58 +0000
-
-<p>A global research team has developed an 'All-Surface' 3D laser patterning technique to directly draw highly conductive carbon circuitry on transparent glass, overcoming conventional 2D lithography limits for advanced AI packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/a-maskless-laser-printing-breakthrough-for-next-generation-semiconductor-packaging/">A Maskless Laser Printing Breakthrough for Next-Generation Semiconductor Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
