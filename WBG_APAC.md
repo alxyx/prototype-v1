@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-09 16:07 UTC_
+_Last updated: 2026-06-09 21:11 UTC_
 
 ## [Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development](https://www.eetasia.com/cadence-autonomous-ai-design-engineer-accelerates-chip-verification-and-development/)
 **Published:** Tue, 09 Jun 2026 02:11:12 +0000
@@ -47,6 +47,30 @@ _Last updated: 2026-06-09 16:07 UTC_
 
 <p>The center aims to build a new-generation physical AI technology foundation capable of understanding, predicting, reasoning, and decision-making.</p>
 <p>The post <a href="https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/">HKUST Partners with CalmCar to Establish Physical AI Innovation Center</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [onsemi Introduces GaNEXUS Gallium Nitride Power Portfolio](https://www.semiconductor-digest.com/onsemi-introduces-ganexus-gallium-nitride-power-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=onsemi-introduces-ganexus-gallium-nitride-power-portfolio)
+**Published:** Tue, 09 Jun 2026 20:40:36 +0000
+
+<p>onsemi announced today the launch of its GaNEXUS gallium nitride (GaN) power portfolio, with the initial sampling of GaNEXUS FETs across voltage ranges from 40V to 650V as well as its GaNEXUS Smart 650V GaN FETs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/onsemi-introduces-ganexus-gallium-nitride-power-portfolio/">onsemi Introduces GaNEXUS Gallium Nitride Power Portfolio</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Veeco Receives Follow-On Order for Nanosecond Annealing System](https://www.semiconductor-digest.com/veeco-receives-follow-on-order-for-nanosecond-annealing-system/?utm_source=rss&utm_medium=rss&utm_campaign=veeco-receives-follow-on-order-for-nanosecond-annealing-system)
+**Published:** Tue, 09 Jun 2026 20:19:03 +0000
+
+<p>Second system order follows successful evaluation.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/veeco-receives-follow-on-order-for-nanosecond-annealing-system/">Veeco Receives Follow-On Order for Nanosecond Annealing System</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Building at High Speeds: How Manufacturing-Driven Construction is Reshaping Semiconductor Fabs](https://www.semiconductor-digest.com/building-at-high-speeds-how-manufacturing-driven-construction-is-reshaping-semiconductor-fabs/?utm_source=rss&utm_medium=rss&utm_campaign=building-at-high-speeds-how-manufacturing-driven-construction-is-reshaping-semiconductor-fabs)
+**Published:** Tue, 09 Jun 2026 19:05:29 +0000
+
+<p>Manufacturing-driven construction — applying industrialized, off-site methods to fab delivery — is emerging as a way to meet the speed, precision, and reliability demands of the U.S. semiconductor reshoring boom.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/building-at-high-speeds-how-manufacturing-driven-construction-is-reshaping-semiconductor-fabs/">Building at High Speeds: How Manufacturing-Driven Construction is Reshaping Semiconductor Fabs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -826,27 +850,19 @@ _Last updated: 2026-06-09 16:07 UTC_
 
 ---
 
-## [Siemens Unveils AI-Powered Library Characterization to Accelerate Semiconductor Design](https://www.semiconductor-digest.com/siemens-unveils-ai-powered-library-characterization-to-accelerate-semiconductor-design/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-unveils-ai-powered-library-characterization-to-accelerate-semiconductor-design)
-**Published:** Tue, 12 May 2026 20:47:18 +0000
+## [EPC Launches New GaN-Based BLDC Inverter Boards](https://www.powerelectronicsnews.com/epc-launches-new-gan-based-bldc-inverter-boards/)
+**Published:** Tue, 09 Jun 2026 17:57:12 +0000
 
-<p>Siemens today announced Solido Characterizer software, the next evolution in its Solido Characterization Suite software, designed to meet the semiconductor industry's rapidly evolving requirements for speed, accuracy and efficiency in library characterization across process nodes, from mature to the most advanced.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-unveils-ai-powered-library-characterization-to-accelerate-semiconductor-design/">Siemens Unveils AI-Powered Library Characterization to Accelerate Semiconductor Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs](https://www.semiconductor-digest.com/asu-tsmc-arizona-launch-accelerated-technician-training-program-to-meet-expanding-semiconductor-workforce-needs/?utm_source=rss&utm_medium=rss&utm_campaign=asu-tsmc-arizona-launch-accelerated-technician-training-program-to-meet-expanding-semiconductor-workforce-needs)
-**Published:** Tue, 12 May 2026 20:43:07 +0000
-
-<p>Arizona State University is launching a new semiconductor technician training program in collaboration with Taiwan Semiconductor Manufacturing Company, (TSMC Arizona), to help meet growing demand for skilled manufacturing workers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/asu-tsmc-arizona-launch-accelerated-technician-training-program-to-meet-expanding-semiconductor-workforce-needs/">ASU, TSMC Arizona Launch Accelerated Technician Training Program to Meet Expanding Semiconductor Workforce Needs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="EPC Launches New GaN-Based BLDC Inverter Boards." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/EPC91128-91131-333-250-333-250-p-L-97.jpg?fit=333%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="333" /><p>The four new GaN-based inverter boards support high-current BLDC motor control for robotics and industrial applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/epc-launches-new-gan-based-bldc-inverter-boards/">EPC Launches New GaN-Based BLDC Inverter Boards</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Global Semiconductor Materials Market Revenue Reaches Record $73.2 Billion in 2025, SEMI Reports](https://www.semiconductor-digest.com/global-semiconductor-materials-market-revenue-reaches-record-73-2-billion-in-2025-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-materials-market-revenue-reaches-record-73-2-billion-in-2025-semi-reports)
-**Published:** Tue, 12 May 2026 20:39:52 +0000
+## [Navitas Launches Isolated TO-247 Package for HV SiC MOSFETs](https://www.powerelectronicsnews.com/navitas-launches-isolated-to-247-package-for-hv-sic-mosfets/)
+**Published:** Tue, 09 Jun 2026 17:55:49 +0000
 
-<p>Global semiconductor materials market revenue increased 6.8% year-over-year to $73.2 billion in 2025, SEMI, reported today in its Materials Market Data Subscription (MMDS).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-materials-market-revenue-reaches-record-73-2-billion-in-2025-semi-reports/">Global Semiconductor Materials Market Revenue Reaches Record $73.2 Billion in 2025, SEMI Reports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Navitas Launches Isolated TO-247 Package for HV SiC MOSFETs." class="webfeedsFeaturedVisual wp-post-image" height="1216" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/5406aa2650d458c6c7a66bc516d6bda8.jpg?fit=2160%2C1216" style="display: block; margin-bottom: 5px; clear: both;" width="2160" /><p>The new package integrates high-voltage isolation and direct cooling to improve efficiency, reliability and power density.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/navitas-launches-isolated-to-247-package-for-hv-sic-mosfets/">Navitas Launches Isolated TO-247 Package for HV SiC MOSFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -914,22 +930,6 @@ _Last updated: 2026-06-09 16:07 UTC_
 
 ---
 
-## [Bourns Launches MH3261 T Series High-Current Ferrite Beads](https://www.powerelectronicsnews.com/bourns-launches-mh3261-t-series-high-current-ferrite-beads/)
-**Published:** Wed, 03 Jun 2026 15:00:00 +0000
-
-<img alt="Bourns Launches MH3261 T Series High-Current Ferrite Beads." class="webfeedsFeaturedVisual wp-post-image" height="2550" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/bourns_mh3261-t_pr.jpg?fit=3300%2C2550" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new ferrite beads deliver up to 11 A current handling with low resistance for EMI suppression in compact designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/bourns-launches-mh3261-t-series-high-current-ferrite-beads/">Bourns Launches MH3261 T Series High-Current Ferrite Beads</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Flex Unveils Power Solutions for 800 VDC Data Center Architectures](https://www.powerelectronicsnews.com/flex-unveils-power-solutions-for-800-vdc-data-center-architectures/)
-**Published:** Wed, 03 Jun 2026 15:00:00 +0000
-
-<img alt="Flex Unveils Power Solutions for 800 VDC Data Center Architectures." class="webfeedsFeaturedVisual wp-post-image" height="1516" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/Flex_110_kW_power_shelf.jpg?fit=2700%2C1516" style="display: block; margin-bottom: 5px; clear: both;" width="2700" /><p>New power distribution, energy storage and conversion solutions support growing AI rack power demands and 800 VDC adoption.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/flex-unveils-power-solutions-for-800-vdc-data-center-architectures/">Flex Unveils Power Solutions for 800 VDC Data Center Architectures</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [The Concerning, Unchecked Rise of E2E AI in Physical Applications](https://www.eetimes.com/the-concerning-unchecked-rise-of-e2e-ai-in-physical-applications/)
 **Published:** Tue, 09 Jun 2026 13:24:48 +0000
 
@@ -943,14 +943,6 @@ _Last updated: 2026-06-09 16:07 UTC_
 
 <p>Spain is emerging as a more influential player in Europe’s next chip debate—through design startups, photonics, quantum technologies, and a growing talent base.</p>
 <p>The post <a href="https://www.eetimes.com/chips-act-2-0-inside-europes-semiconductor-rethink/">Inside Europe’s Chip Rethink: Why Fabs Weren’t Enough and Why Spain Matters</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Chips Act 2.0 Puts Demand at Center of Europe’s Semiconductor Strategy](https://www.eetimes.com/chips-act-2-0-puts-demand-at-center-of-europes-semiconductor-strategy/)
-**Published:** Fri, 05 Jun 2026 07:00:00 +0000
-
-<p>Chips Act 2.0 shifts EU focus from factory subsidies to chip design and demand.</p>
-<p>The post <a href="https://www.eetimes.com/chips-act-2-0-puts-demand-at-center-of-europes-semiconductor-strategy/">Chips Act 2.0 Puts Demand at Center of Europe’s Semiconductor Strategy</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
