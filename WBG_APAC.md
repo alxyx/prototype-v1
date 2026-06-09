@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-09 21:11 UTC_
+_Last updated: 2026-06-09 22:40 UTC_
 
 ## [Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development](https://www.eetasia.com/cadence-autonomous-ai-design-engineer-accelerates-chip-verification-and-development/)
 **Published:** Tue, 09 Jun 2026 02:11:12 +0000
@@ -47,6 +47,14 @@ _Last updated: 2026-06-09 21:11 UTC_
 
 <p>The center aims to build a new-generation physical AI technology foundation capable of understanding, predicting, reasoning, and decision-making.</p>
 <p>The post <a href="https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/">HKUST Partners with CalmCar to Establish Physical AI Innovation Center</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [NimbleAI: A European Consortium Advances Next-Generation Edge AI Technologies and Strengthens Technological Sovereignty](https://www.semiconductor-digest.com/nimbleai-a-european-consortium-advances-next-generation-edge-ai-technologies-and-strengthens-technological-sovereignty/?utm_source=rss&utm_medium=rss&utm_campaign=nimbleai-a-european-consortium-advances-next-generation-edge-ai-technologies-and-strengthens-technological-sovereignty)
+**Published:** Tue, 09 Jun 2026 21:04:03 +0000
+
+<p>After three years of intensive research and collaboration, the European project NimbleAI reaches its conclusion, delivering significant advances in edge artificial intelligence technologies and contributing to Europe’s ambition for technological sovereignty.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nimbleai-a-european-consortium-advances-next-generation-edge-ai-technologies-and-strengthens-technological-sovereignty/">NimbleAI: A European Consortium Advances Next-Generation Edge AI Technologies and Strengthens Technological Sovereignty</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -842,14 +850,6 @@ _Last updated: 2026-06-09 21:11 UTC_
 
 ---
 
-## [Rigaku Accelerates Next-generation Semiconductor Metrology Development Leveraging World-Class Research Infrastructure](https://www.semiconductor-digest.com/rigaku-accelerates-next-generation-semiconductor-metrology-development-leveraging-world-class-research-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=rigaku-accelerates-next-generation-semiconductor-metrology-development-leveraging-world-class-research-infrastructure)
-**Published:** Tue, 12 May 2026 21:00:38 +0000
-
-<p>Rigaku Corporation announced the expansion of its development of metrology technologies for next-generation semiconductors, leveraging global research environments.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rigaku-accelerates-next-generation-semiconductor-metrology-development-leveraging-world-class-research-infrastructure/">Rigaku Accelerates Next-generation Semiconductor Metrology Development Leveraging World-Class Research Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [EPC Launches New GaN-Based BLDC Inverter Boards](https://www.powerelectronicsnews.com/epc-launches-new-gan-based-bldc-inverter-boards/)
 **Published:** Tue, 09 Jun 2026 17:57:12 +0000
 
@@ -943,14 +943,6 @@ _Last updated: 2026-06-09 21:11 UTC_
 
 <p>Spain is emerging as a more influential player in Europe’s next chip debate—through design startups, photonics, quantum technologies, and a growing talent base.</p>
 <p>The post <a href="https://www.eetimes.com/chips-act-2-0-inside-europes-semiconductor-rethink/">Inside Europe’s Chip Rethink: Why Fabs Weren’t Enough and Why Spain Matters</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Atomera addresses parasitic channel losses in GaN-on-Si](https://www.electronicsweekly.com/news/business/atomera-addresses-parasitic-channel-losses-in-gan-on-sin-2026-06/)
-**Published:** Tue, 09 Jun 2026 05:23:59 +0000
-
-<p>Atomera, a materials and technology licensing company, has come up with a new approach to GaN-on-Si that addresses parasitic channel losses that reduce efficiency, especially at high frequencies. Atomera claims ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/atomera-addresses-parasitic-channel-losses-in-gan-on-sin-2026-06/">Atomera addresses parasitic channel losses in GaN-on-Si</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
