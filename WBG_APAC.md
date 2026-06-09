@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-09 12:50 UTC_
+_Last updated: 2026-06-09 16:07 UTC_
 
 ## [Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development](https://www.eetasia.com/cadence-autonomous-ai-design-engineer-accelerates-chip-verification-and-development/)
 **Published:** Tue, 09 Jun 2026 02:11:12 +0000
@@ -47,6 +47,14 @@ _Last updated: 2026-06-09 12:50 UTC_
 
 <p>The center aims to build a new-generation physical AI technology foundation capable of understanding, predicting, reasoning, and decision-making.</p>
 <p>The post <a href="https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/">HKUST Partners with CalmCar to Establish Physical AI Innovation Center</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Optimizing ABF Drilling with Picosecond Lasers](https://www.semiconductor-digest.com/optimizing-abf-drilling-with-picosecond-lasers/?utm_source=rss&utm_medium=rss&utm_campaign=optimizing-abf-drilling-with-picosecond-lasers)
+**Published:** Tue, 09 Jun 2026 13:51:58 +0000
+
+<p>Picosecond lasers with “burst-on-the-fly” pulsing can improve processing speed, via quality, and total cost-per-via for Ajinomoto Build-up Film (ABF) drilling. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/optimizing-abf-drilling-with-picosecond-lasers/">Optimizing ABF Drilling with Picosecond Lasers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -842,11 +850,11 @@ _Last updated: 2026-06-09 12:50 UTC_
 
 ---
 
-## [Cyient Semiconductors Launches India’s First GaN Power IC Family Leveraging Navitas Technology](https://www.semiconductor-digest.com/cyient-semiconductors-launches-indias-first-gan-power-ic-family-leveraging-navitas-technology/?utm_source=rss&utm_medium=rss&utm_campaign=cyient-semiconductors-launches-indias-first-gan-power-ic-family-leveraging-navitas-technology)
-**Published:** Mon, 11 May 2026 22:36:24 +0000
+## [Power Module from SiC Discrete Devices Repackaged: Part 2](https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-2/)
+**Published:** Tue, 09 Jun 2026 13:00:00 +0000
 
-<p>Cyient Semiconductors Private Limited today announced the launch of seven new gallium nitride (GaN) power devices for the Indian market, developed using Navitas Semiconductor's (Nasdaq: NVTS) industry leading GaN technology.  </p>
-<p>The post <a href="https://www.semiconductor-digest.com/cyient-semiconductors-launches-indias-first-gan-power-ic-family-leveraging-navitas-technology/">Cyient Semiconductors Launches India&#8217;s First GaN Power IC Family Leveraging Navitas Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2688" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/AdobeStock_1302708905.jpeg?fit=4096%2C2688" style="display: block; margin-bottom: 5px; clear: both;" width="4096" /><p>Part 2 examines IMS-based repackaging of discrete SiC devices as a cost-effective alternative to commercial power modules.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-2/">Power Module from SiC Discrete Devices Repackaged: Part 2</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -922,11 +930,11 @@ _Last updated: 2026-06-09 12:50 UTC_
 
 ---
 
-## [Infineon Introduces 750V CoolSiC G2 Bidirectional Switch](https://www.powerelectronicsnews.com/infineon-introduces-750v-coolsic-g2-bidirectional-switch/)
-**Published:** Wed, 03 Jun 2026 13:05:21 +0000
+## [The Concerning, Unchecked Rise of E2E AI in Physical Applications](https://www.eetimes.com/the-concerning-unchecked-rise-of-e2e-ai-in-physical-applications/)
+**Published:** Tue, 09 Jun 2026 13:24:48 +0000
 
-<img alt="Infineon Introduces 750V CoolSiC G2 Bidirectional Switch." class="webfeedsFeaturedVisual wp-post-image" height="1263" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/coolsic-mosfet-750v-g2-bds-q-dpak-tsc-g2-hdsop-22-01-combi.jpg?fit=2126%2C1263" style="display: block; margin-bottom: 5px; clear: both;" width="2126" /><p>The new 750 V SiC bidirectional switch simplifies power designs while improving efficiency and system robustness.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/infineon-introduces-750v-coolsic-g2-bidirectional-switch/">Infineon Introduces 750V CoolSiC G2 Bidirectional Switch</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Don’t let the bodies pile up</p>
+<p>The post <a href="https://www.eetimes.com/the-concerning-unchecked-rise-of-e2e-ai-in-physical-applications/">The Concerning, Unchecked Rise of E2E AI in Physical Applications</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -954,17 +962,38 @@ _Last updated: 2026-06-09 12:50 UTC_
 
 ---
 
-## [Sourcing And Procurement – Internship At UNIO Labs In Hyderabad](https://www.electronicsforu.com/career/sourcing-and-procurement-internship-at-unio-labs-in-hyderabad)
-**Published:** Mon, 08 Jun 2026 11:27:39 +0000
+## [The Startup Designing India’s Next Battery Intelligence IC](https://www.electronicsforu.com/electronics-startups/the-startup-designing-indias-next-battery-intelligence-ic)
+**Published:** Tue, 09 Jun 2026 12:12:18 +0000
 
-<img alt="Hardware Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2017/01/jobs-633559_960_720-2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON INTERNSHALA Location: Hyderabad Company: UNIO Labs Selected intern&#8217;s day-to-day responsibilities include: 1. Identify and source suppliers for semiconductor components including ICs, sensors, and modules2. Research and procure Arduino, Raspberry Pi kits, and DIY electronics components3. Evaluate and shortlist PCB manufacturing and assembly vendors4. Compare pricing, MOQ, lead time, and quality across platforms [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/image-69-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An Indian startup is developing an AI-enabled BMS chip designed to simplify battery development and enhance monitoring for next-generation EV platforms. India’s transition towards electric mobility and large-scale energy storage is accelerating rapidly, but one of the biggest bottlenecks lies deep inside the battery itself: the intelligence that monitors, protects, and optimises it. Semiconductor startup [&#8230;]
 
 ---
 
-## [Autonomous AI ‘Virtual Engineer’ for Chip Design](https://www.electronicsforu.com/news/autonomous-ai-virtual-engineer-for-chip-design)
-**Published:** Mon, 08 Jun 2026 08:38:39 +0000
+## [JOB: Validation Engineer At Renesas Electronics In Bengaluru](https://www.electronicsforu.com/career/validation-engineer-at-renesas-electronics-bengaluru)
+**Published:** Tue, 09 Jun 2026 11:58:38 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Screenshot-2026-06-08-140541-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />New agentic EDA capability is positioned to execute design and verification tasks with minimal human intervention, aiming to compress simulation-heavy workflows and speed time-to-silicon. A new autonomous “virtual engineer” for semiconductor development has been introduced by Cadence, with the vendor positioning it as the industry’s first Level‑5 agentic AI system capable of performing substantial chip [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/09/p7-renesas-a-20140123-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Renesas Electronics The successful candidate will work on a range of exciting new products such as discrete low voltage GaN, GaN power stages, gate driver and motor drivers for next generation of infrastructure, industrial, consumer, and automotive applications. This is an early-stage growth opportunity where in the candidate [&#8230;]
+
+---
+
+## [JOB: Technical Lead – Power Electronics At Ametek In Bengaluru](https://www.electronicsforu.com/career/technical-lead-power-electronics-ametek-bengaluru)
+**Published:** Tue, 09 Jun 2026 11:18:34 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/03/ametek-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Ametek The Technical Lead, Power Electronics is a highly motivated individual working as part of a research and development team to design and develop high-frequency double-conversion online 3-phase UPS systems.  The candidate should have good written and verbal communication skills and be able to work in a team effectively.  This [&#8230;]
+
+---
+
+## [2D Chip Opens New Path for Computing](https://www.electronicsforu.com/news/2d-chip-opens-new-path-for-computing)
+**Published:** Tue, 09 Jun 2026 08:33:40 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/new-ultra-thin-compute-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A computer built with a 2D semiconductor integrates more than 1,400 transistors on one chip, demonstrating a path toward AI and edge computing. Researchers from Nanjing University, Suzhou Laboratory, and Huawei Technologies have developed a computer built using the two-dimensional (2D) semiconductor molybdenum disulfide (MoS₂). The system integrates more than 1,400 transistors on a single [&#8230;]
+
+---
+
+## [New Platform Simplifies Power Design](https://www.electronicsforu.com/news/new-platform-simplifies-power-design)
+**Published:** Tue, 09 Jun 2026 07:40:36 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Screenshot-2026-06-09-110632-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Engineers designing next-generation EVs, AI infrastructure, and industrial systems can now evaluate and optimise critical power-component pairings much earlier in the design cycle, reducing iterations and accelerating time-to-market. A new cloud-based design platform from Onsemi aims to simplify one of the most challenging aspects of power electronics development: matching silicon carbide (SiC) power switches with [&#8230;]
 
 ---
 
