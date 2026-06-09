@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-09 05:19 UTC_
+_Last updated: 2026-06-09 09:55 UTC_
 
 ## [Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development](https://www.eetasia.com/cadence-autonomous-ai-design-engineer-accelerates-chip-verification-and-development/)
 **Published:** Tue, 09 Jun 2026 02:11:12 +0000
@@ -946,11 +946,11 @@ _Last updated: 2026-06-09 05:19 UTC_
 
 ---
 
-## [Semiconductor sales up 93.9% y-o-y in April, says SIA](https://www.electronicsweekly.com/news/business/q1-semiconductor-sales-2026-06/)
-**Published:** Mon, 08 Jun 2026 05:26:15 +0000
+## [Atomera addresses parasitic channel losses in GaN-on-Si](https://www.electronicsweekly.com/news/business/atomera-addresses-parasitic-channel-losses-in-gan-on-sin-2026-06/)
+**Published:** Tue, 09 Jun 2026 05:23:59 +0000
 
-<p>April semiconductor sales of $110.5bn were 11% up on the $99.5bn of March 2026  and 93.9% more than the April 2025 total of $56.9bn, according to the SIA. The SIA ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/q1-semiconductor-sales-2026-06/">Semiconductor sales up 93.9% y-o-y in April, says SIA</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Atomera, a materials and technology licensing company, has come up with a new approach to GaN-on-Si that addresses parasitic channel losses that reduce efficiency, especially at high frequencies. Atomera claims ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/atomera-addresses-parasitic-channel-losses-in-gan-on-sin-2026-06/">Atomera addresses parasitic channel losses in GaN-on-Si</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
