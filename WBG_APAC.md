@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-09 22:40 UTC_
+_Last updated: 2026-06-10 00:27 UTC_
+
+## [ST Puts Focus on Continuous Learning to Address Semiconductor Talent Pressures](https://www.eetasia.com/st-puts-focus-on-continuous-learning-to-address-semiconductor-talent-pressures/)
+**Published:** Tue, 09 Jun 2026 23:04:20 +0000
+
+<p>Workforce development is becoming a critical competitive advantage as AI and automation transform semiconductor manufacturing.</p>
+<p>The post <a href="https://www.eetasia.com/st-puts-focus-on-continuous-learning-to-address-semiconductor-talent-pressures/">ST Puts Focus on Continuous Learning to Address Semiconductor Talent Pressures</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development](https://www.eetasia.com/cadence-autonomous-ai-design-engineer-accelerates-chip-verification-and-development/)
 **Published:** Tue, 09 Jun 2026 02:11:12 +0000
@@ -39,14 +47,6 @@ _Last updated: 2026-06-09 22:40 UTC_
 
 <p>Collaboration creates simulation-ready semiconductor fab environments to support digital twins, automation, and AI-driven operations.</p>
 <p>The post <a href="https://www.eetasia.com/micron-metai-build-simready-fab-twins-on-nvidia-omniverse-for-semiconductor-physical-ai/">Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [HKUST Partners with CalmCar to Establish Physical AI Innovation Center](https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/)
-**Published:** Thu, 04 Jun 2026 22:29:42 +0000
-
-<p>The center aims to build a new-generation physical AI technology foundation capable of understanding, predicting, reasoning, and decision-making.</p>
-<p>The post <a href="https://www.eetasia.com/hkust-partners-with-calmcar-to-establish-physical-ai-innovation-center/">HKUST Partners with CalmCar to Establish Physical AI Innovation Center</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -943,6 +943,14 @@ _Last updated: 2026-06-09 22:40 UTC_
 
 <p>Spain is emerging as a more influential player in Europe’s next chip debate—through design startups, photonics, quantum technologies, and a growing talent base.</p>
 <p>The post <a href="https://www.eetimes.com/chips-act-2-0-inside-europes-semiconductor-rethink/">Inside Europe’s Chip Rethink: Why Fabs Weren’t Enough and Why Spain Matters</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Atomera addresses parasitic channel losses in GaN-on-Si](https://www.electronicsweekly.com/news/business/atomera-addresses-parasitic-channel-losses-in-gan-on-sin-2026-06/)
+**Published:** Tue, 09 Jun 2026 05:23:59 +0000
+
+<p>Atomera, a materials and technology licensing company, has come up with a new approach to GaN-on-Si that addresses parasitic channel losses that reduce efficiency, especially at high frequencies. Atomera claims ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/atomera-addresses-parasitic-channel-losses-in-gan-on-sin-2026-06/">Atomera addresses parasitic channel losses in GaN-on-Si</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
