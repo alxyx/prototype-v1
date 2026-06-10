@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-10 00:27 UTC_
+_Last updated: 2026-06-10 05:31 UTC_
 
 ## [ST Puts Focus on Continuous Learning to Address Semiconductor Talent Pressures](https://www.eetasia.com/st-puts-focus-on-continuous-learning-to-address-semiconductor-talent-pressures/)
 **Published:** Tue, 09 Jun 2026 23:04:20 +0000
@@ -31,22 +31,6 @@ _Last updated: 2026-06-10 00:27 UTC_
 
 <p>EE Times' Nitin Dahad and Tirias Research's Jim McGregor discuss agentic PCs, physical AI, and more, in a wrap up of this year's COMPUTEX.</p>
 <p>The post <a href="https://www.eetasia.com/computex-2026-wrap-up-with-nitin-dahad-and-jim-mcgregor/">COMPUTEX 2026 Wrap Up with Nitin Dahad and Jim McGregor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Semiconductor Equipment Billings Jump 14% YoY in 1Q 2026](https://www.eetasia.com/semiconductor-equipment-billings-jump-14-yoy-in-1q-2026/)
-**Published:** Mon, 08 Jun 2026 02:40:57 +0000
-
-<p>Record quarterly billings were driven by continued AI-related investment, including capacity expansion and technology upgrades supporting leading-edge logic, DRAM, and advanced packaging.</p>
-<p>The post <a href="https://www.eetasia.com/semiconductor-equipment-billings-jump-14-yoy-in-1q-2026/">Semiconductor Equipment Billings Jump 14% YoY in 1Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI](https://www.eetasia.com/micron-metai-build-simready-fab-twins-on-nvidia-omniverse-for-semiconductor-physical-ai/)
-**Published:** Mon, 08 Jun 2026 02:15:02 +0000
-
-<p>Collaboration creates simulation-ready semiconductor fab environments to support digital twins, automation, and AI-driven operations.</p>
-<p>The post <a href="https://www.eetasia.com/micron-metai-build-simready-fab-twins-on-nvidia-omniverse-for-semiconductor-physical-ai/">Micron, MetAI Build SimReady Fab Twins on NVIDIA Omniverse for Semiconductor Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
