@@ -1,6 +1,22 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-10 05:31 UTC_
+_Last updated: 2026-06-10 10:13 UTC_
+
+## [Why Robotics’ Next Leap Relies on Physical Engineering](https://www.eetasia.com/embeddedblog-why-robotics-next-leap-relies-on-physical-engineering/)
+**Published:** Wed, 10 Jun 2026 08:32:09 +0000
+
+<p>Robotics advancement requires reliable mechanisms, deterministic design, and robust hardware foundations alongside AI innovation.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-why-robotics-next-leap-relies-on-physical-engineering/">Why Robotics’ Next Leap Relies on Physical Engineering</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Next-Gen Real-Time Intelligence for Modern Smart Factories](https://www.eetasia.com/embeddedblog-next-gen-real-time-intelligence-for-smart-factories/)
+**Published:** Wed, 10 Jun 2026 07:38:01 +0000
+
+<p>Smart factories are evolving toward physical AI systems capable of real-time perception, adaptation, and autonomous action.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-next-gen-real-time-intelligence-for-smart-factories/">Next-Gen Real-Time Intelligence for Modern Smart Factories</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [ST Puts Focus on Continuous Learning to Address Semiconductor Talent Pressures](https://www.eetasia.com/st-puts-focus-on-continuous-learning-to-address-semiconductor-talent-pressures/)
 **Published:** Tue, 09 Jun 2026 23:04:20 +0000
@@ -15,22 +31,6 @@ _Last updated: 2026-06-10 05:31 UTC_
 
 <p>Cadence extends ChipStack AI Super Agent to Level-5 autonomy, enabling fully autonomous semiconductor verification workflows.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-autonomous-ai-design-engineer-accelerates-chip-verification-and-development/">Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Why Semiconductor Manufacturers are Rethinking MES](https://www.eetasia.com/why-semiconductor-manufacturers-are-rethinking-mes/)
-**Published:** Mon, 08 Jun 2026 23:26:13 +0000
-
-<p>AI-ready MES platforms are becoming essential for quality, agility, and control as semiconductor manufacturing expands across Southeast Asia.</p>
-<p>The post <a href="https://www.eetasia.com/why-semiconductor-manufacturers-are-rethinking-mes/">Why Semiconductor Manufacturers are Rethinking MES</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [COMPUTEX 2026 Wrap Up with Nitin Dahad and Jim McGregor](https://www.eetasia.com/computex-2026-wrap-up-with-nitin-dahad-and-jim-mcgregor/)
-**Published:** Mon, 08 Jun 2026 03:00:10 +0000
-
-<p>EE Times' Nitin Dahad and Tirias Research's Jim McGregor discuss agentic PCs, physical AI, and more, in a wrap up of this year's COMPUTEX.</p>
-<p>The post <a href="https://www.eetasia.com/computex-2026-wrap-up-with-nitin-dahad-and-jim-mcgregor/">COMPUTEX 2026 Wrap Up with Nitin Dahad and Jim McGregor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -927,6 +927,30 @@ _Last updated: 2026-06-10 05:31 UTC_
 
 <p>Spain is emerging as a more influential player in Europe’s next chip debate—through design startups, photonics, quantum technologies, and a growing talent base.</p>
 <p>The post <a href="https://www.eetimes.com/chips-act-2-0-inside-europes-semiconductor-rethink/">Inside Europe’s Chip Rethink: Why Fabs Weren’t Enough and Why Spain Matters</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Win Semi qualifies 0.12 μm GaN-on-SiC NP12-0B process for 40V operation](https://www.electronicsweekly.com/news/business/win-semi-qualifies-0-12-%ce%bcm-gan-on-sic-np12-0b-process-for-40v-operstion-2026-06/)
+**Published:** Wed, 10 Jun 2026 05:15:42 +0000
+
+<p>Win Semiconductors of Taiwan, the world’s largest pure-play compound semiconductor foundry, has qualified NP12-0B for 40V operation. This 0.12 μm gate-length GaN-on-SiC technology integrates multiple transistor improvements providing high ruggedness ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/win-semi-qualifies-0-12-%ce%bcm-gan-on-sic-np12-0b-process-for-40v-operstion-2026-06/">Win Semi qualifies 0.12 μm GaN-on-SiC NP12-0B process for 40V operation</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Pairing SiC MOSFETS and gate drivers](https://www.electronicsweekly.com/news/business/pairing-sic-mosfets-and-gate-drivers-2026-06/)
+**Published:** Wed, 10 Jun 2026 05:15:31 +0000
+
+<p>onsemi has announced its Elite Pairing Studio &#8211; an online design tool that pairs SiC MOSFETs and gate drivers for power electronics applications, including AI datacentres, EVs, and industrial systems. ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/pairing-sic-mosfets-and-gate-drivers-2026-06/">Pairing SiC MOSFETS and gate drivers</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Nexperia and Semikron Danfoss hook up on SiC-based modules](https://www.electronicsweekly.com/news/business/nexperia-and-semikron-danfoss-hook-up-on-sic-based-modules-2026-06/)
+**Published:** Wed, 10 Jun 2026 05:10:22 +0000
+
+<p>Nexperia and Semikron Danfoss have signed an MoU to explore a strategic collaboration on SiC-based power modules for automotive traction inverter applications. The collaboration aims to combine Nexperia’s expertise in ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/nexperia-and-semikron-danfoss-hook-up-on-sic-based-modules-2026-06/">Nexperia and Semikron Danfoss hook up on SiC-based modules</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
