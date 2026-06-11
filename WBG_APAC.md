@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-11 06:00 UTC_
+_Last updated: 2026-06-11 18:26 UTC_
 
 ## [Why Robotics’ Next Leap Relies on Physical Engineering](https://www.eetasia.com/embeddedblog-why-robotics-next-leap-relies-on-physical-engineering/)
 **Published:** Wed, 10 Jun 2026 08:32:09 +0000
@@ -15,6 +15,70 @@ _Last updated: 2026-06-11 06:00 UTC_
 
 <p>Smart factories are evolving toward physical AI systems capable of real-time perception, adaptation, and autonomous action.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-next-gen-real-time-intelligence-for-smart-factories/">Next-Gen Real-Time Intelligence for Modern Smart Factories</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [imec Unlocks III-V Chiplet Integration on 300mm Silicon](https://www.semiconductor-digest.com/imec-unlocks-iii-v-chiplet-integration-on-300mm-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=imec-unlocks-iii-v-chiplet-integration-on-300mm-silicon)
+**Published:** Thu, 11 Jun 2026 17:52:45 +0000
+
+<p>Imec is evolving its 300mm RF silicon interposer into a system-level platform for the heterogeneous integration of III-V chiplets on Si-CMOS.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/imec-unlocks-iii-v-chiplet-integration-on-300mm-silicon/">imec Unlocks III-V Chiplet Integration on 300mm Silicon</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Omdia: Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q26 as Memory Market Shifts Historical Patterns](https://www.semiconductor-digest.com/omdia-semiconductor-market-surpasses-300b-quarterly-revenue-in-1q26-as-memory-market-shifts-historical-patterns/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-semiconductor-market-surpasses-300b-quarterly-revenue-in-1q26-as-memory-market-shifts-historical-patterns)
+**Published:** Thu, 11 Jun 2026 15:46:26 +0000
+
+<p>Following a record-setting year for the semiconductor industry, the start of the new year has continued the momentum, as semiconductor revenue grew 27% in 1Q26 from 4Q25 to reach $319bn, according to new research form Omdia. Memory revenue drove the increase, rising over 80% sequentially in 1Q26 from 4Q25. Since Omdia began tracking the semiconductor&#8230;</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-semiconductor-market-surpasses-300b-quarterly-revenue-in-1q26-as-memory-market-shifts-historical-patterns/">Omdia: Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q26 as Memory Market Shifts Historical Patterns</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [CEA‑Leti Advances European FD-SOI Innovation with GlobalFoundries’ Collaboration in the FAMES Pilot Line](https://www.semiconductor-digest.com/cea-leti-advances-european-fd-soi-innovation-with-globalfoundries-collaboration-in-the-fames-pilot-line/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-advances-european-fd-soi-innovation-with-globalfoundries-collaboration-in-the-fames-pilot-line)
+**Published:** Thu, 11 Jun 2026 15:27:37 +0000
+
+<p>Funded by the European Commission and participating Member States under the Chips JU, FAMES continues to accelerate the early‑stage research shaping the next generation of FD‑SOI.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-advances-european-fd-soi-innovation-with-globalfoundries-collaboration-in-the-fames-pilot-line/">CEA‑Leti Advances European FD-SOI Innovation with GlobalFoundries’ Collaboration in the FAMES Pilot Line</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Can Photonics Completely Replace Electronic Circuits?](https://www.semiconductor-digest.com/can-photonics-completely-replace-electronic-circuits/?utm_source=rss&utm_medium=rss&utm_campaign=can-photonics-completely-replace-electronic-circuits)
+**Published:** Thu, 11 Jun 2026 13:17:58 +0000
+
+<p>With silicon semiconductors approaching their physical limits and data demands climbing, photonic integrated circuits offer faster, more energy-efficient data processing — though fully replacing electronic circuits remains a complex transition.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/can-photonics-completely-replace-electronic-circuits/">Can Photonics Completely Replace Electronic Circuits?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The Unseen World of Semiconductor Insulation](https://www.semiconductor-digest.com/the-unseen-world-of-semiconductor-insulation/?utm_source=rss&utm_medium=rss&utm_campaign=the-unseen-world-of-semiconductor-insulation)
+**Published:** Thu, 11 Jun 2026 13:17:57 +0000
+
+<p>Energy-efficient thermal insulation is emerging as a small but critical process enhancement, cutting heat-transfer loss and helping fabs modernize without complete facility overhauls.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-unseen-world-of-semiconductor-insulation/">The Unseen World of Semiconductor Insulation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Will Power Semiconductors Become the Next Component Crisis?](https://www.semiconductor-digest.com/will-power-semiconductors-become-the-next-component-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=will-power-semiconductors-become-the-next-component-crisis)
+**Published:** Thu, 11 Jun 2026 13:16:51 +0000
+
+<p>With AI-driven demand already straining high-performance memory supply, distributors and OEMs need to anticipate a similar squeeze on power semiconductors and build mitigation strategies now.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/will-power-semiconductors-become-the-next-component-crisis/">Will Power Semiconductors Become the Next Component Crisis?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design](https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design)
+**Published:** Thu, 11 Jun 2026 13:16:50 +0000
+
+<p>Q&#038;A with Senior ASIC engineer Adarsh Mittal.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/">Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance](https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/?utm_source=rss&utm_medium=rss&utm_campaign=silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance)
+**Published:** Thu, 11 Jun 2026 13:16:50 +0000
+
+<p>Silicone-based thermal interface materials (TIMs), particularly thermally conductive compounds and gels, offer material properties and performance characteristics that are well-suited to today’s data center applications. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/">Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -42,19 +106,19 @@ _Last updated: 2026-06-11 06:00 UTC_
 
 ---
 
-## [Precision Sensing for Yield Improvement in Advanced Semiconductor Manufacturing](https://www.semiconductor-digest.com/precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing)
-**Published:** Wed, 10 Jun 2026 13:19:10 +0000
-
-<p>Integrating high-precision piezoelectric sensor systems as early as possible in the R&#038;D phase of semiconductor equipment design has become indispensable for meeting the rising demand for yield, quality, and efficiency throughout the machine’s lifecycle. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing/">Precision Sensing for Yield Improvement in Advanced Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Inside Intel’s Die Sort and Singulation Operation: An Up-Close Look at an Overlooked Process](https://www.semiconductor-digest.com/inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process/?utm_source=rss&utm_medium=rss&utm_campaign=inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process)
 **Published:** Wed, 10 Jun 2026 13:19:10 +0000
 
 <p>Singulation and die sort sit at a critical juncture in the semiconductor value chain: the point where wafer-level investment is converted — or lost — into individual die-level assets. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process/">Inside Intel&#8217;s Die Sort and Singulation Operation: An Up-Close Look at an Overlooked Process</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Precision Sensing for Yield Improvement in Advanced Semiconductor Manufacturing](https://www.semiconductor-digest.com/precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing)
+**Published:** Wed, 10 Jun 2026 13:19:10 +0000
+
+<p>Integrating high-precision piezoelectric sensor systems as early as possible in the R&#038;D phase of semiconductor equipment design has become indispensable for meeting the rising demand for yield, quality, and efficiency throughout the machine’s lifecycle. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing/">Precision Sensing for Yield Improvement in Advanced Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -754,67 +818,19 @@ _Last updated: 2026-06-11 06:00 UTC_
 
 ---
 
-## [Micron Redefines AI Performance With Sampling of 256GB DDR5 Server Module](https://www.semiconductor-digest.com/micron-redefines-ai-performance-with-sampling-of-256gb-ddr5-server-module/?utm_source=rss&utm_medium=rss&utm_campaign=micron-redefines-ai-performance-with-sampling-of-256gb-ddr5-server-module)
-**Published:** Fri, 15 May 2026 18:31:54 +0000
+## [Power Corner: Ferric CEO Noah Sturcken on the Fe1766, BEOL Integration, and the Input Voltage Roadmap](https://www.powerelectronicsnews.com/power-corner-ferric-ceo-noah-sturcken-on-the-fe1766-beol-integration-and-the-input-voltage-roadmap/)
+**Published:** Thu, 11 Jun 2026 13:00:00 +0000
 
-<p>Delivers industry’s fastest performance capability with 1-gamma DRAM and advanced packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-redefines-ai-performance-with-sampling-of-256gb-ddr5-server-module/">Micron Redefines AI Performance With Sampling of 256GB DDR5 Server Module</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nidec Advance Technology Launches the New AURCA-series, an AI-based Inspection & Measurement Solution for Semiconductors and Printed Substrates](https://www.semiconductor-digest.com/nidec-advance-technology-launches-the-new-aurca-series-an-ai-based-inspection-measurement-solution-for-semiconductors-and-printed-substrates/?utm_source=rss&utm_medium=rss&utm_campaign=nidec-advance-technology-launches-the-new-aurca-series-an-ai-based-inspection-measurement-solution-for-semiconductors-and-printed-substrates)
-**Published:** Fri, 15 May 2026 18:24:26 +0000
-
-<p>Nidec Advance Technology Corporation announced today the launch of the AURCA series, an AI-based inspection &#038; measurement solution for semiconductors and printed substrates.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nidec-advance-technology-launches-the-new-aurca-series-an-ai-based-inspection-measurement-solution-for-semiconductors-and-printed-substrates/">Nidec Advance Technology Launches the New AURCA-series, an AI-based Inspection &#038; Measurement Solution for Semiconductors and Printed Substrates</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Ferric-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Noah Sturcken details how Ferric's on-die thin-film magnetics deliver 89% efficiency and 10 MHz control bandwidth for AI compute.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-ferric-ceo-noah-sturcken-on-the-fe1766-beol-integration-and-the-input-voltage-roadmap/">Power Corner: Ferric CEO Noah Sturcken on the Fe1766, BEOL Integration, and the Input Voltage Roadmap</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Meet the Semiconductor That Stretches Like a Rubber Band And Heals Itself — No Sci-Fi Required](https://www.semiconductor-digest.com/meet-the-semiconductor-that-stretches-like-a-rubber-band-and-heals-itself-no-sci-fi-required/?utm_source=rss&utm_medium=rss&utm_campaign=meet-the-semiconductor-that-stretches-like-a-rubber-band-and-heals-itself-no-sci-fi-required)
-**Published:** Thu, 14 May 2026 21:59:41 +0000
+## [JEDEC Publishes New SiC Evaluation and Reliability Guidelines](https://www.powerelectronicsnews.com/jedec-publishes-new-sic-evaluation-and-reliability-guidelines/)
+**Published:** Thu, 11 Jun 2026 13:00:00 +0000
 
-<p>A stretchable, self-healing semiconductor has been developed using hierarchical hydrogen bonds—like mixing Velcro with a zipper.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/meet-the-semiconductor-that-stretches-like-a-rubber-band-and-heals-itself-no-sci-fi-required/">Meet the Semiconductor That Stretches Like a Rubber Band And Heals Itself — No Sci-Fi Required</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Toshiba Starts Sample Shipments of New SmartMCD Series IC with Built-in MOSFETs for Motor Drive](https://www.semiconductor-digest.com/toshiba-starts-sample-shipments-of-new-smartmcd-series-ic-with-built-in-mosfets-for-motor-drive/?utm_source=rss&utm_medium=rss&utm_campaign=toshiba-starts-sample-shipments-of-new-smartmcd-series-ic-with-built-in-mosfets-for-motor-drive)
-**Published:** Thu, 14 May 2026 21:50:06 +0000
-
-<p>Toshiba Electronic Devices &#038; Storage Corporation has started to ship engineering samples of "TB9M040FTG," a motor control device with built-in power MOSFETs for three-phase brushless DC motor drives.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/toshiba-starts-sample-shipments-of-new-smartmcd-series-ic-with-built-in-mosfets-for-motor-drive/">Toshiba Starts Sample Shipments of New SmartMCD Series IC with Built-in MOSFETs for Motor Drive</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [UMC Announces Release of 14nm eHV FinFET Platform](https://www.semiconductor-digest.com/umc-announces-release-of-14nm-ehv-finfet-platform/?utm_source=rss&utm_medium=rss&utm_campaign=umc-announces-release-of-14nm-ehv-finfet-platform)
-**Published:** Thu, 14 May 2026 21:38:51 +0000
-
-<p>The 14nm eHV FinFET platform achieves up to 40% reduction in power consumption and 35% reduction in chip area, enabling longer battery life and thinner driver modules for premium smartphone models.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/umc-announces-release-of-14nm-ehv-finfet-platform/">UMC Announces Release of 14nm eHV FinFET Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NSF Announces $1.5B NSF X-Labs Initiative to Pursue Generational Breakthrough Science Efforts](https://www.semiconductor-digest.com/nsf-announces-1-5b-nsf-x-labs-initiative-to-pursue-generational-breakthrough-science-efforts/?utm_source=rss&utm_medium=rss&utm_campaign=nsf-announces-1-5b-nsf-x-labs-initiative-to-pursue-generational-breakthrough-science-efforts)
-**Published:** Thu, 14 May 2026 21:34:13 +0000
-
-<p>NSF X-Labs will scale a new generation of transformative independent research organizations to advance breakthrough science outside of traditional institutions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nsf-announces-1-5b-nsf-x-labs-initiative-to-pursue-generational-breakthrough-science-efforts/">NSF Announces $1.5B NSF X-Labs Initiative to Pursue Generational Breakthrough Science Efforts</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI and 23 Member Companies Urge U.S. Congress to Extend Advanced Manufacturing Investment Credit](https://www.semiconductor-digest.com/semi-and-23-member-companies-urge-u-s-congress-to-extend-advanced-manufacturing-investment-credit/?utm_source=rss&utm_medium=rss&utm_campaign=semi-and-23-member-companies-urge-u-s-congress-to-extend-advanced-manufacturing-investment-credit)
-**Published:** Thu, 14 May 2026 21:31:27 +0000
-
-<p>SEMI and 23 member companies on the SEMI Tax Policy Committee, issued a letter to the U.S. Congress urging immediate passage of a multi-year extension of the Advanced Manufacturing Investment Credit (AMIC).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-and-23-member-companies-urge-u-s-congress-to-extend-advanced-manufacturing-investment-credit/">SEMI and 23 Member Companies Urge U.S. Congress to Extend Advanced Manufacturing Investment Credit</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [BrainChip Expands AI Ecosystem with Strategic Software Partners](https://www.semiconductor-digest.com/brainchip-expands-ai-ecosystem-with-strategic-software-partners/?utm_source=rss&utm_medium=rss&utm_campaign=brainchip-expands-ai-ecosystem-with-strategic-software-partners)
-**Published:** Thu, 14 May 2026 21:13:47 +0000
-
-<p>BrainChip Inc., a provider of ultra-low power, high-performance, neuromorphic AI IP, today announced a significant expansion of its software partner ecosystem.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/brainchip-expands-ai-ecosystem-with-strategic-software-partners/">BrainChip Expands AI Ecosystem with Strategic Software Partners</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="527" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/07/wafers.jpg?fit=1000%2C527" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The new JEDEC guidelines establish common methodologies for SiC reliability assessment and short-circuit evaluation.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/jedec-publishes-new-sic-evaluation-and-reliability-guidelines/">JEDEC Publishes New SiC Evaluation and Reliability Guidelines</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,22 +898,6 @@ _Last updated: 2026-06-11 06:00 UTC_
 
 ---
 
-## [Wise Integration Advances WiseGan Digital-First Power IC Strategy](https://www.powerelectronicsnews.com/wise-integration-advances-wisegan-digital-first-power-ic-strategy/)
-**Published:** Fri, 05 Jun 2026 15:00:00 +0000
-
-<img alt="Wise Integration Advances WiseGan Digital-First Power IC Strategy." class="webfeedsFeaturedVisual wp-post-image" height="1308" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/PR-PCIM-002.jpg?fit=2500%2C1308" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>The company highlights distributed digital control technologies for high-efficiency GaN and SiC power conversion systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wise-integration-advances-wisegan-digital-first-power-ic-strategy/">Wise Integration Advances WiseGan Digital-First Power IC Strategy</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [SiC-Based SSCBs, PEN eBook June 2026, Discrete SiC-Based Power Modules: Power Electronics Week Insights](https://www.powerelectronicsnews.com/sic-based-sscbs-pen-ebook-june-2026-discrete-sic-based-power-modules-power-electronics-week-insights/)
-**Published:** Fri, 05 Jun 2026 15:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on SiC-Based SSCBs, PEN eBook June 2026, and Discrete SiC-Based Power Modules!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/sic-based-sscbs-pen-ebook-june-2026-discrete-sic-based-power-modules-power-electronics-week-insights/">SiC-Based SSCBs, PEN eBook June 2026, Discrete SiC-Based Power Modules: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [The Concerning, Unchecked Rise of E2E AI in Physical Applications](https://www.eetimes.com/the-concerning-unchecked-rise-of-e2e-ai-in-physical-applications/)
 **Published:** Tue, 09 Jun 2026 13:24:48 +0000
 
@@ -906,72 +906,17 @@ _Last updated: 2026-06-11 06:00 UTC_
 
 ---
 
-## [Inside Europe’s Chip Rethink: Why Fabs Weren’t Enough and Why Spain Matters](https://www.eetimes.com/chips-act-2-0-inside-europes-semiconductor-rethink/)
-**Published:** Mon, 08 Jun 2026 12:00:00 +0000
+## [JOB: Associate ROC Analyst At Stem In Gurgaon](https://www.electronicsforu.com/career/associate-roc-analyst-stem-gurgaon)
+**Published:** Thu, 11 Jun 2026 11:23:38 +0000
 
-<p>Spain is emerging as a more influential player in Europe’s next chip debate—through design startups, photonics, quantum technologies, and a growing talent base.</p>
-<p>The post <a href="https://www.eetimes.com/chips-act-2-0-inside-europes-semiconductor-rethink/">Inside Europe’s Chip Rethink: Why Fabs Weren’t Enough and Why Spain Matters</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [NPL spin-out K3Metrology raises £2.75 million seed funding](https://www.electronicsweekly.com/news/business/finance/npl-spin-out-k3metrology-raises-2-75-million-seed-funding-2026-06/)
-**Published:** Wed, 10 Jun 2026 10:35:02 +0000
-
-<p>K3Metrology is a spin-out from the National Physical Laboratory (NPL) developing large-scale measurement technology for advanced manufacturing and aerospace. And it has raised £2.75 million in a seed funding round. ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/finance/npl-spin-out-k3metrology-raises-2-75-million-seed-funding-2026-06/">NPL spin-out K3Metrology raises £2.75 million seed funding</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Gurgaon Company: Stem The ROC (Remote operations center) Analyst performs technical analysis of system issues and outages as they occur across our fleet of networked Energy Storage Systems. This individual performs research to troubleshoot and resolve the issue or, depending upon complexity, escalates the issue to higher-level network engineers. The NOC Analyst [&#8230;]
 
 ---
 
-## [Nebius, Nvidia launch Physical AI Living Lab in London](https://www.electronicsweekly.com/news/nebius-nvidia-launch-physical-ai-living-lab-in-london-2026-06/)
-**Published:** Wed, 10 Jun 2026 09:37:20 +0000
+## [Single-Chip Radar Brings ADAS Processing](https://www.electronicsforu.com/news/single-chip-radar-brings-adas-processing)
+**Published:** Thu, 11 Jun 2026 07:09:56 +0000
 
-<p>A Physical AI &#8220;Living Lab&#8221; for UK and European robotics startups is being launched by Nebius, the Dutch the AI cloud company. The lab builds on Nvidia technologies and its ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/nebius-nvidia-launch-physical-ai-living-lab-in-london-2026-06/">Nebius, Nvidia launch Physical AI Living Lab in London</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Win Semi qualifies 0.12 μm GaN-on-SiC NP12-0B process for 40V operation](https://www.electronicsweekly.com/news/business/win-semi-qualifies-0-12-%ce%bcm-gan-on-sic-np12-0b-process-for-40v-operstion-2026-06/)
-**Published:** Wed, 10 Jun 2026 05:15:42 +0000
-
-<p>Win Semiconductors of Taiwan, the world’s largest pure-play compound semiconductor foundry, has qualified NP12-0B for 40V operation. This 0.12 μm gate-length GaN-on-SiC technology integrates multiple transistor improvements providing high ruggedness ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/win-semi-qualifies-0-12-%ce%bcm-gan-on-sic-np12-0b-process-for-40v-operstion-2026-06/">Win Semi qualifies 0.12 μm GaN-on-SiC NP12-0B process for 40V operation</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Pairing SiC MOSFETS and gate drivers](https://www.electronicsweekly.com/news/business/pairing-sic-mosfets-and-gate-drivers-2026-06/)
-**Published:** Wed, 10 Jun 2026 05:15:31 +0000
-
-<p>onsemi has announced its Elite Pairing Studio &#8211; an online design tool that pairs SiC MOSFETs and gate drivers for power electronics applications, including AI datacentres, EVs, and industrial systems. ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/pairing-sic-mosfets-and-gate-drivers-2026-06/">Pairing SiC MOSFETS and gate drivers</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Nexperia and Semikron Danfoss hook up on SiC-based modules](https://www.electronicsweekly.com/news/business/nexperia-and-semikron-danfoss-hook-up-on-sic-based-modules-2026-06/)
-**Published:** Wed, 10 Jun 2026 05:10:22 +0000
-
-<p>Nexperia and Semikron Danfoss have signed an MoU to explore a strategic collaboration on SiC-based power modules for automotive traction inverter applications. The collaboration aims to combine Nexperia’s expertise in ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/nexperia-and-semikron-danfoss-hook-up-on-sic-based-modules-2026-06/">Nexperia and Semikron Danfoss hook up on SiC-based modules</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Do Chip Designers Still Need Traditional EDA Tools?](https://www.electronicsforu.com/technology-trends/do-chip-designers-still-need-traditional-eda-tools)
-**Published:** Wed, 10 Jun 2026 10:51:10 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Screenshot-2026-06-10-161858-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Beyond fabs, this startup is tackling a hidden semiconductor challenge that could redefine chip design and expand opportunities for innovation.&#160; India&#8217;s semiconductor ambitions are often framed around billion-dollar fabs, advanced packaging facilities and government-backed manufacturing initiatives. Yet, beneath the headlines lies a less visible challenge that many industry observers rarely discuss: access to the sophisticated [&#8230;]
-
----
-
-## [SiC Power Devices Gain Cooling](https://www.electronicsforu.com/news/sic-power-devices-gain-cooling)
-**Published:** Wed, 10 Jun 2026 07:47:51 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/NEX2608_I118_PR-Image-SiC-QDPAK-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new generation of silicon carbide power devices introduces top-side cooling in a surface-mount package, enabling higher output power, improved thermal performance, and greater design flexibility for EVs, renewable energy systems, and datacenter power infrastructure. As power electronics designers push for higher efficiency and power density, thermal management remains one of the biggest challenges in [&#8230;]
-
----
-
-## [Surface-Mount Power Package for High-Voltage Applications](https://www.electronicsforu.com/news/surface-mount-power-package-for-high-voltage-applications)
-**Published:** Wed, 10 Jun 2026 07:42:16 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/np12-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A newly introduced surface-mount package for silicon carbide power devices combines high heat dissipation, 1200V-class voltage support, and automated assembly compatibility, targeting EV power electronics and industrial energy systems. As electric vehicles and high-efficiency industrial systems demand greater power density, a new surface-mount packaging technology aims to bridge the gap between thermal performance and manufacturing [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/3135000-SAF8444-Product-Imagery-Banner-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new automotive radar SoC integrates sensing and perception processing on a single chip, helping automakers reduce system complexity, power consumption and costs while expanding advanced driver-assistance features to mainstream vehicles. Advanced driver-assistance systems (ADAS) could become more affordable for mass-market vehicles with the introduction of a new single-chip automotive radar solution by NXP Semiconductors [&#8230;]
 
 ---
 
