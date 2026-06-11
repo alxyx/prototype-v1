@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-11 00:28 UTC_
+_Last updated: 2026-06-11 06:00 UTC_
 
 ## [Why Robotics’ Next Leap Relies on Physical Engineering](https://www.eetasia.com/embeddedblog-why-robotics-next-leap-relies-on-physical-engineering/)
 **Published:** Wed, 10 Jun 2026 08:32:09 +0000
@@ -15,22 +15,6 @@ _Last updated: 2026-06-11 00:28 UTC_
 
 <p>Smart factories are evolving toward physical AI systems capable of real-time perception, adaptation, and autonomous action.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-next-gen-real-time-intelligence-for-smart-factories/">Next-Gen Real-Time Intelligence for Modern Smart Factories</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [ST Puts Focus on Continuous Learning to Address Semiconductor Talent Pressures](https://www.eetasia.com/st-puts-focus-on-continuous-learning-to-address-semiconductor-talent-pressures/)
-**Published:** Tue, 09 Jun 2026 23:04:20 +0000
-
-<p>Workforce development is becoming a critical competitive advantage as AI and automation transform semiconductor manufacturing.</p>
-<p>The post <a href="https://www.eetasia.com/st-puts-focus-on-continuous-learning-to-address-semiconductor-talent-pressures/">ST Puts Focus on Continuous Learning to Address Semiconductor Talent Pressures</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development](https://www.eetasia.com/cadence-autonomous-ai-design-engineer-accelerates-chip-verification-and-development/)
-**Published:** Tue, 09 Jun 2026 02:11:12 +0000
-
-<p>Cadence extends ChipStack AI Super Agent to Level-5 autonomy, enabling fully autonomous semiconductor verification workflows.</p>
-<p>The post <a href="https://www.eetasia.com/cadence-autonomous-ai-design-engineer-accelerates-chip-verification-and-development/">Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
