@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-11 18:26 UTC_
+_Last updated: 2026-06-11 21:34 UTC_
 
 ## [Why Robotics’ Next Leap Relies on Physical Engineering](https://www.eetasia.com/embeddedblog-why-robotics-next-leap-relies-on-physical-engineering/)
 **Published:** Wed, 10 Jun 2026 08:32:09 +0000
@@ -903,6 +903,22 @@ _Last updated: 2026-06-11 18:26 UTC_
 
 <p>Don’t let the bodies pile up</p>
 <p>The post <a href="https://www.eetimes.com/the-concerning-unchecked-rise-of-e2e-ai-in-physical-applications/">The Concerning, Unchecked Rise of E2E AI in Physical Applications</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Post-quantum cryptography challenges for embedded hardware](https://www.electronicsweekly.com/news/post-quantum-cryptography-challenges-for-embedded-hardware-2026-06/)
+**Published:** Thu, 11 Jun 2026 11:00:41 +0000
+
+<p>While quantum computers have many benefits, their sensitive data may not be safe for very long. Venus Kohli looks at the safeguards. Classical public-key cryptography derives its security from integer ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/post-quantum-cryptography-challenges-for-embedded-hardware-2026-06/">Post-quantum cryptography challenges for embedded hardware</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Qualinx and Globalfoundries complete all-European foundry process](https://www.electronicsweekly.com/news/business/manufacturing/qualinx-and-globalfoundries-complete-all-european-foundry-process-2026-06/)
+**Published:** Thu, 11 Jun 2026 05:20:16 +0000
+
+<p>Qualinx has completed a fully European-based, end-to-end semiconductor manufacturing flow at GlobalFoundries’ Dresden fab on its FD-SOI technology. It shows that security-critical chips for aerospace, defence and critical infrastructure can be designed, manufactured and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/manufacturing/qualinx-and-globalfoundries-complete-all-european-foundry-process-2026-06/">Qualinx and Globalfoundries complete all-European foundry process</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
