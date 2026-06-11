@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-10 10:13 UTC_
+_Last updated: 2026-06-11 00:28 UTC_
 
 ## [Why Robotics’ Next Leap Relies on Physical Engineering](https://www.eetasia.com/embeddedblog-why-robotics-next-leap-relies-on-physical-engineering/)
 **Published:** Wed, 10 Jun 2026 08:32:09 +0000
@@ -31,6 +31,62 @@ _Last updated: 2026-06-10 10:13 UTC_
 
 <p>Cadence extends ChipStack AI Super Agent to Level-5 autonomy, enabling fully autonomous semiconductor verification workflows.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-autonomous-ai-design-engineer-accelerates-chip-verification-and-development/">Cadence Autonomous AI Design Engineer Accelerates Chip Verification and Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Applied Materials Expands Singapore Manufacturing to Support AI Chip Demand](https://www.semiconductor-digest.com/applied-materials-expands-singapore-manufacturing-to-support-ai-chip-demand/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-expands-singapore-manufacturing-to-support-ai-chip-demand)
+**Published:** Wed, 10 Jun 2026 17:53:19 +0000
+
+<p>Applied Materials, Inc. has expanded its manufacturing and R&#038;D operations in Singapore to support the global build-out of AI infrastructure.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-expands-singapore-manufacturing-to-support-ai-chip-demand/">Applied Materials Expands Singapore Manufacturing to Support AI Chip Demand</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Imec Unlocks Fourfold UWB Range Extension](https://www.semiconductor-digest.com/imec-unlocks-fourfold-uwb-range-extension/?utm_source=rss&utm_medium=rss&utm_campaign=imec-unlocks-fourfold-uwb-range-extension)
+**Published:** Wed, 10 Jun 2026 16:08:46 +0000
+
+<p>Building on this, imec further demonstrates the first full transceiver architecture compliant with IEEE 802.15.4ab, delivering up to a 32x improvement in ranging performance through combined receiver, transmitter, and IEEE 802.15.4ab standard innovations.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/imec-unlocks-fourfold-uwb-range-extension/">Imec Unlocks Fourfold UWB Range Extension</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [GlobalFoundries and Qualinx Demonstrate First European Sovereign Manufacturing Flow for Security‑Critical Semiconductors](https://www.semiconductor-digest.com/globalfoundries-and-qualinx-demonstrate-first-european-sovereign-manufacturing-flow-for-security-critical-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-qualinx-demonstrate-first-european-sovereign-manufacturing-flow-for-security-critical-semiconductors)
+**Published:** Wed, 10 Jun 2026 15:42:59 +0000
+
+<p>First end-to-end European chip manufacturing flow proven for aerospace, defense, IoT, consumer electronics and critical infrastructure.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-qualinx-demonstrate-first-european-sovereign-manufacturing-flow-for-security-critical-semiconductors/">GlobalFoundries and Qualinx Demonstrate First European Sovereign Manufacturing Flow for Security‑Critical Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Precision Sensing for Yield Improvement in Advanced Semiconductor Manufacturing](https://www.semiconductor-digest.com/precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing)
+**Published:** Wed, 10 Jun 2026 13:19:10 +0000
+
+<p>Integrating high-precision piezoelectric sensor systems as early as possible in the R&#038;D phase of semiconductor equipment design has become indispensable for meeting the rising demand for yield, quality, and efficiency throughout the machine’s lifecycle. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing/">Precision Sensing for Yield Improvement in Advanced Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Inside Intel’s Die Sort and Singulation Operation: An Up-Close Look at an Overlooked Process](https://www.semiconductor-digest.com/inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process/?utm_source=rss&utm_medium=rss&utm_campaign=inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process)
+**Published:** Wed, 10 Jun 2026 13:19:10 +0000
+
+<p>Singulation and die sort sit at a critical juncture in the semiconductor value chain: the point where wafer-level investment is converted — or lost — into individual die-level assets. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process/">Inside Intel&#8217;s Die Sort and Singulation Operation: An Up-Close Look at an Overlooked Process</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Genealogy: The Hidden Thread from Wafer to Yield](https://www.semiconductor-digest.com/genealogy-the-hidden-thread-from-wafer-to-yield/?utm_source=rss&utm_medium=rss&utm_campaign=genealogy-the-hidden-thread-from-wafer-to-yield)
+**Published:** Wed, 10 Jun 2026 13:17:57 +0000
+
+<p>As chiplets, advanced packaging, and fabless supply chains proliferate, genealogy — the ability to trace every material, step, and process behind a chip — is becoming essential to yield, reliability, and regulatory compliance.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/genealogy-the-hidden-thread-from-wafer-to-yield/">Genealogy: The Hidden Thread from Wafer to Yield</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Unlocking the Future of Engineering through Rapid Prototyping, Fueled by AI](https://www.semiconductor-digest.com/unlocking-the-future-of-engineering-through-rapid-prototyping-fueled-by-ai/?utm_source=rss&utm_medium=rss&utm_campaign=unlocking-the-future-of-engineering-through-rapid-prototyping-fueled-by-ai)
+**Published:** Wed, 10 Jun 2026 13:16:51 +0000
+
+<p>Rapid prototyping fused with AI-assisted workflows is reshaping how engineers move from idea to proof-of-concept, making iteration speed the new competitive differentiator.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/unlocking-the-future-of-engineering-through-rapid-prototyping-fueled-by-ai/">Unlocking the Future of Engineering through Rapid Prototyping, Fueled by AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -778,59 +834,35 @@ _Last updated: 2026-06-10 10:13 UTC_
 
 ---
 
-## [FotoNation and SEMIFIVE Announce Strategic Collaboration for Turnkey Development of TriSilica Perceptual AI Chip Family Using Samsung Foundry](https://www.semiconductor-digest.com/fotonation-and-semifive-announce-strategic-collaboration-for-turnkey-development-of-trisilica-perceptual-ai-chip-family-using-samsung-foundry/?utm_source=rss&utm_medium=rss&utm_campaign=fotonation-and-semifive-announce-strategic-collaboration-for-turnkey-development-of-trisilica-perceptual-ai-chip-family-using-samsung-foundry)
-**Published:** Wed, 13 May 2026 19:27:28 +0000
+## [Mitsubishi Electric Unveils New SiC MOSFETs for EV Powertrains](https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-new-sic-mosfets-for-ev-powertrains/)
+**Published:** Wed, 10 Jun 2026 15:00:00 +0000
 
-<p>FotoNation Ltd., a European-based Perception Recognition company and SEMIFIVE Inc., a global provider of custom AI semiconductor solutions, today announced a strategic collaboration agreement under which SEMIFIVE will lead turnkey development for TriSilica, FotoNation's ultra-low-power perceptual AI chip family.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/fotonation-and-semifive-announce-strategic-collaboration-for-turnkey-development-of-trisilica-perceptual-ai-chip-family-using-samsung-foundry/">FotoNation and SEMIFIVE Announce Strategic Collaboration for Turnkey Development of TriSilica Perceptual AI Chip Family Using Samsung Foundry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [University of Arizona Research Powers New Optical Switching Technology Designed to Reduce Data Center Energy Consumption](https://www.semiconductor-digest.com/university-of-arizona-research-powers-new-optical-switching-technology-designed-to-reduce-data-center-energy-consumption/?utm_source=rss&utm_medium=rss&utm_campaign=university-of-arizona-research-powers-new-optical-switching-technology-designed-to-reduce-data-center-energy-consumption)
-**Published:** Wed, 13 May 2026 19:17:26 +0000
-
-<p>Post-Quantum Tek has developed the High-Speed Optical Switch (PQT-HOS), which is 1,000 times faster than switches now in use and consumes 1/1000th the amount of energy.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/university-of-arizona-research-powers-new-optical-switching-technology-designed-to-reduce-data-center-energy-consumption/">University of Arizona Research Powers New Optical Switching Technology Designed to Reduce Data Center Energy Consumption</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Mitsubishi Electric Unveils New SiC MOSFETs for EV Powertrains." class="webfeedsFeaturedVisual wp-post-image" height="629" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/0604_sd.jpg?fit=1500%2C629" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>The fifth-generation SiC MOSFETs target improved efficiency and durability in electric vehicle (EV) powertrains.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-new-sic-mosfets-for-ev-powertrains/">Mitsubishi Electric Unveils New SiC MOSFETs for EV Powertrains</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Oracle Java to Power Samsung Electronics’ Global Semiconductor Development](https://www.semiconductor-digest.com/oracle-java-to-power-samsung-electronics-global-semiconductor-development/?utm_source=rss&utm_medium=rss&utm_campaign=oracle-java-to-power-samsung-electronics-global-semiconductor-development)
-**Published:** Wed, 13 May 2026 19:14:59 +0000
+## [TDK Launches B25696H DC-Link Capacitors for SiC Converters](https://www.powerelectronicsnews.com/tdk-launches-b25696h-dc-link-capacitors-for-sic-converters/)
+**Published:** Wed, 10 Jun 2026 14:00:00 +0000
 
-<p>Oracle today announced that the Oracle Java SE Universal Subscription will help standardize global software development at Samsung Electronics.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/oracle-java-to-power-samsung-electronics-global-semiconductor-development/">Oracle Java to Power Samsung Electronics&#8217; Global Semiconductor Development</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [T-Global Technology Partners with France’s SiPearl to Advance Next-Generation HPC Cooling Technologies](https://www.semiconductor-digest.com/t-global-technology-partners-with-frances-sipearl-to-advance-next-generation-hpc-cooling-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=t-global-technology-partners-with-frances-sipearl-to-advance-next-generation-hpc-cooling-technologies)
-**Published:** Wed, 13 May 2026 18:43:08 +0000
-
-<p>T-Global Technology today announced that its flagship project, "Development of High Thermal Conductivity Materials and Two-Phase Liquid Cooling Modules for HPC Chips," has been officially approved under Taiwan's Ministry of Economic Affairs' "A+ Driving Industrial Innovation with AI" Program.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/t-global-technology-partners-with-frances-sipearl-to-advance-next-generation-hpc-cooling-technologies/">T-Global Technology Partners with France&#8217;s SiPearl to Advance Next-Generation HPC Cooling Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="TDK Launches B25696H DC-Link Capacitors for SiC Converters." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/bild-press-download-en-data.png?fit=1600%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new film capacitors reduce parasitic losses and support high-frequency SiC power conversion applications.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tdk-launches-b25696h-dc-link-capacitors-for-sic-converters/">TDK Launches B25696H DC-Link Capacitors for SiC Converters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [NHanced Semiconductors & the University of Florida to Present on Hybrid Bonding Reliability at the 2026 Electronic Components & Technology Conference in Orlando](https://www.semiconductor-digest.com/nhanced-semiconductors-the-university-of-florida-to-present-on-hybrid-bonding-reliability-at-the-2026-electronic-components-technology-conference-in-orlando/?utm_source=rss&utm_medium=rss&utm_campaign=nhanced-semiconductors-the-university-of-florida-to-present-on-hybrid-bonding-reliability-at-the-2026-electronic-components-technology-conference-in-orlando)
-**Published:** Wed, 13 May 2026 18:18:58 +0000
+## [TSMC Paves the Way to One-Trillion-Transistor Devices](https://www.powerelectronicsnews.com/tsmc-paves-the-way-to-one-trillion-transistor-devices/)
+**Published:** Wed, 10 Jun 2026 13:00:00 +0000
 
-<p>The paper will present a predictive model to address hybrid bonding challenges (bonding via gaps, misalignment, and interfacial delamination) by integrating pre-bond inspection and post-bond analysis to enable warpage mapping, defect correlation, and yield prediction for advanced 3D integration.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nhanced-semiconductors-the-university-of-florida-to-present-on-hybrid-bonding-reliability-at-the-2026-electronic-components-technology-conference-in-orlando/">NHanced Semiconductors &#038; the University of Florida to Present on Hybrid Bonding Reliability at the 2026 Electronic Components &#038; Technology Conference in Orlando</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Accurate Gas Control Systems Introduces CryoSure Platform to Solve Diborane Instability Challenges Threatening Next-Generation Semiconductor Yields](https://www.semiconductor-digest.com/accurate-gas-control-systems-introduces-cryosure-platform-to-solve-diborane-instability-challenges-threatening-next-generation-semiconductor-yields/?utm_source=rss&utm_medium=rss&utm_campaign=accurate-gas-control-systems-introduces-cryosure-platform-to-solve-diborane-instability-challenges-threatening-next-generation-semiconductor-yields)
-**Published:** Wed, 13 May 2026 18:14:45 +0000
-
-<p>Accurate Gas Control Systems (AGCS), a provider of specialty gas delivery solutions for the semiconductor industry, today announced the broad availability of its CryoSure Precision Chilled Delivery Platform, purpose-built to address the growing yield and safety risks posed by uncontrolled diborane (B₂H₆) temperatures in advanced logic and memory fabs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/accurate-gas-control-systems-introduces-cryosure-platform-to-solve-diborane-instability-challenges-threatening-next-generation-semiconductor-yields/">Accurate Gas Control Systems Introduces CryoSure Platform to Solve Diborane Instability Challenges Threatening Next-Generation Semiconductor Yields</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1365" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/image_83c113.jpeg?fit=2048%2C1365" style="display: block; margin-bottom: 5px; clear: both;" width="2048" /><p>#TSMC's 2026 Europe Technology Symposium laid out a path to one trillion transistors per package by 2030 — combining A12, CoWoS scaling to 48x, SoIC, and co-packaged optics into a single AI platform. #Semiconductors #AIHardware #CoWoS </p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tsmc-paves-the-way-to-one-trillion-transistor-devices/">TSMC Paves the Way to One-Trillion-Transistor Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Cohu Receives Multiple Orders for Testing Next-Generation GaN Power Devices for AI Data Centers](https://www.semiconductor-digest.com/cohu-receives-multiple-orders-for-testing-next-generation-gan-power-devices-for-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=cohu-receives-multiple-orders-for-testing-next-generation-gan-power-devices-for-ai-data-centers)
-**Published:** Tue, 12 May 2026 21:11:44 +0000
+## [onsemi Launches Elite Pairing Studio for SiC Power Devices](https://www.powerelectronicsnews.com/onsemi-launches-elite-pairing-studio-for-sic-power-devices/)
+**Published:** Wed, 10 Jun 2026 12:00:00 +0000
 
-<p>The systems will support development and manufacturing of next-generation gallium nitride (GaN) power devices used in AI data center power architectures.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cohu-receives-multiple-orders-for-testing-next-generation-gan-power-devices-for-ai-data-centers/">Cohu Receives Multiple Orders for Testing Next-Generation GaN Power Devices for AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="onsemi Launches Elite Pairing Studio for SiC Power Devices." class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/onsemi-Elite-Pairing-Studio-square.jpg?fit=1080%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1080" /><p>Elite Pairing Studio evaluates silicon carbide (SiC) MOSFET and gate driver combinations early in the design cycle.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/onsemi-launches-elite-pairing-studio-for-sic-power-devices/">onsemi Launches Elite Pairing Studio for SiC Power Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,38 +914,6 @@ _Last updated: 2026-06-10 10:13 UTC_
 
 ---
 
-## [Flex Launches BMR317 Intermediate Bus Converter for AI Systems](https://www.powerelectronicsnews.com/flex-launches-bmr317-intermediate-bus-converter-for-ai-systems/)
-**Published:** Fri, 05 Jun 2026 14:00:00 +0000
-
-<img alt="Flex Launches BMR317 Intermediate Bus Converter for AI Systems." class="webfeedsFeaturedVisual wp-post-image" height="3710" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/BMR317-Flex-Power-Modules.jpg?fit=5563%2C3710" style="display: block; margin-bottom: 5px; clear: both;" width="5563" /><p>The BMR317 intermediate bus converter supports fast AI workload transients with peak power up to 2.5 kW in a compact footprint.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/flex-launches-bmr317-intermediate-bus-converter-for-ai-systems/">Flex Launches BMR317 Intermediate Bus Converter for AI Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [The MOSFET Innovation Pace: Why Silicon Wins Critical Power Stages Alongside SiC and GaN](https://www.powerelectronicsnews.com/the-mosfet-innovation-pace-why-silicon-wins-critical-power-stages-alongside-sic-and-gan/)
-**Published:** Fri, 05 Jun 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/Inf_RR_Wafer20um-36.jpg?fit=6000%2C4000" style="display: block; margin-bottom: 5px; clear: both;" width="6000" /><p>From 20-µm wafers to top-side cooling, Infineon's Si MOSFET portfolio advances efficiency, thermal performance, and application optimization.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/the-mosfet-innovation-pace-why-silicon-wins-critical-power-stages-alongside-sic-and-gan/">The MOSFET Innovation Pace: Why Silicon Wins Critical Power Stages Alongside SiC and GaN</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Vishay Launches 200 A Power Module for 48 V EV Systems](https://www.powerelectronicsnews.com/vishay-launches-200-a-power-module-for-48-v-ev-systems/)
-**Published:** Thu, 04 Jun 2026 17:47:30 +0000
-
-<img alt="Vishay Launches 200 A Power Module for 48 V EV Systems." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/55310367678_719a3fb6d2_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The integrated 200 A power module reduces board space and conduction losses in 48 V vehicle powertrain systems.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/vishay-launches-200-a-power-module-for-48-v-ev-systems/">Vishay Launches 200 A Power Module for 48 V EV Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Corner: ABB’s Andrea Estrada-Hein on Eliminating SF₆ from Medium Voltage Switchgear](https://www.powerelectronicsnews.com/power-corner-abbs-andrea-estrada-hein-on-eliminating-sf%e2%82%86-from-medium-voltage-switchgear/)
-**Published:** Thu, 04 Jun 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/ABB-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>ABB's Andrea Estrada-Hein discusses replacing SF₆ with dry air in switchgear, covering design challenges, cost, and future regulations.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-abbs-andrea-estrada-hein-on-eliminating-sf%e2%82%86-from-medium-voltage-switchgear/"> Power Corner: ABB&#8217;s Andrea Estrada-Hein on Eliminating SF₆ from Medium Voltage Switchgear</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [The Concerning, Unchecked Rise of E2E AI in Physical Applications](https://www.eetimes.com/the-concerning-unchecked-rise-of-e2e-ai-in-physical-applications/)
 **Published:** Tue, 09 Jun 2026 13:24:48 +0000
 
@@ -927,6 +927,22 @@ _Last updated: 2026-06-10 10:13 UTC_
 
 <p>Spain is emerging as a more influential player in Europe’s next chip debate—through design startups, photonics, quantum technologies, and a growing talent base.</p>
 <p>The post <a href="https://www.eetimes.com/chips-act-2-0-inside-europes-semiconductor-rethink/">Inside Europe’s Chip Rethink: Why Fabs Weren’t Enough and Why Spain Matters</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [NPL spin-out K3Metrology raises £2.75 million seed funding](https://www.electronicsweekly.com/news/business/finance/npl-spin-out-k3metrology-raises-2-75-million-seed-funding-2026-06/)
+**Published:** Wed, 10 Jun 2026 10:35:02 +0000
+
+<p>K3Metrology is a spin-out from the National Physical Laboratory (NPL) developing large-scale measurement technology for advanced manufacturing and aerospace. And it has raised £2.75 million in a seed funding round. ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/finance/npl-spin-out-k3metrology-raises-2-75-million-seed-funding-2026-06/">NPL spin-out K3Metrology raises £2.75 million seed funding</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+
+---
+
+## [Nebius, Nvidia launch Physical AI Living Lab in London](https://www.electronicsweekly.com/news/nebius-nvidia-launch-physical-ai-living-lab-in-london-2026-06/)
+**Published:** Wed, 10 Jun 2026 09:37:20 +0000
+
+<p>A Physical AI &#8220;Living Lab&#8221; for UK and European robotics startups is being launched by Nebius, the Dutch the AI cloud company. The lab builds on Nvidia technologies and its ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/nebius-nvidia-launch-physical-ai-living-lab-in-london-2026-06/">Nebius, Nvidia launch Physical AI Living Lab in London</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
@@ -954,46 +970,24 @@ _Last updated: 2026-06-10 10:13 UTC_
 
 ---
 
-## [Atomera addresses parasitic channel losses in GaN-on-Si](https://www.electronicsweekly.com/news/business/atomera-addresses-parasitic-channel-losses-in-gan-on-sin-2026-06/)
-**Published:** Tue, 09 Jun 2026 05:23:59 +0000
+## [Do Chip Designers Still Need Traditional EDA Tools?](https://www.electronicsforu.com/technology-trends/do-chip-designers-still-need-traditional-eda-tools)
+**Published:** Wed, 10 Jun 2026 10:51:10 +0000
 
-<p>Atomera, a materials and technology licensing company, has come up with a new approach to GaN-on-Si that addresses parasitic channel losses that reduce efficiency, especially at high frequencies. Atomera claims ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/atomera-addresses-parasitic-channel-losses-in-gan-on-sin-2026-06/">Atomera addresses parasitic channel losses in GaN-on-Si</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [The Startup Designing India’s Next Battery Intelligence IC](https://www.electronicsforu.com/electronics-startups/the-startup-designing-indias-next-battery-intelligence-ic)
-**Published:** Tue, 09 Jun 2026 12:12:18 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/image-69-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />An Indian startup is developing an AI-enabled BMS chip designed to simplify battery development and enhance monitoring for next-generation EV platforms. India’s transition towards electric mobility and large-scale energy storage is accelerating rapidly, but one of the biggest bottlenecks lies deep inside the battery itself: the intelligence that monitors, protects, and optimises it. Semiconductor startup [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Screenshot-2026-06-10-161858-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Beyond fabs, this startup is tackling a hidden semiconductor challenge that could redefine chip design and expand opportunities for innovation.&#160; India&#8217;s semiconductor ambitions are often framed around billion-dollar fabs, advanced packaging facilities and government-backed manufacturing initiatives. Yet, beneath the headlines lies a less visible challenge that many industry observers rarely discuss: access to the sophisticated [&#8230;]
 
 ---
 
-## [JOB: Validation Engineer At Renesas Electronics In Bengaluru](https://www.electronicsforu.com/career/validation-engineer-at-renesas-electronics-bengaluru)
-**Published:** Tue, 09 Jun 2026 11:58:38 +0000
+## [SiC Power Devices Gain Cooling](https://www.electronicsforu.com/news/sic-power-devices-gain-cooling)
+**Published:** Wed, 10 Jun 2026 07:47:51 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2016/09/p7-renesas-a-20140123-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Bengaluru Company: Renesas Electronics The successful candidate will work on a range of exciting new products such as discrete low voltage GaN, GaN power stages, gate driver and motor drivers for next generation of infrastructure, industrial, consumer, and automotive applications. This is an early-stage growth opportunity where in the candidate [&#8230;]
-
----
-
-## [JOB: Technical Lead – Power Electronics At Ametek In Bengaluru](https://www.electronicsforu.com/career/technical-lead-power-electronics-ametek-bengaluru)
-**Published:** Tue, 09 Jun 2026 11:18:34 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2025/03/ametek-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Ametek The Technical Lead, Power Electronics is a highly motivated individual working as part of a research and development team to design and develop high-frequency double-conversion online 3-phase UPS systems.  The candidate should have good written and verbal communication skills and be able to work in a team effectively.  This [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/NEX2608_I118_PR-Image-SiC-QDPAK-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new generation of silicon carbide power devices introduces top-side cooling in a surface-mount package, enabling higher output power, improved thermal performance, and greater design flexibility for EVs, renewable energy systems, and datacenter power infrastructure. As power electronics designers push for higher efficiency and power density, thermal management remains one of the biggest challenges in [&#8230;]
 
 ---
 
-## [2D Chip Opens New Path for Computing](https://www.electronicsforu.com/news/2d-chip-opens-new-path-for-computing)
-**Published:** Tue, 09 Jun 2026 08:33:40 +0000
+## [Surface-Mount Power Package for High-Voltage Applications](https://www.electronicsforu.com/news/surface-mount-power-package-for-high-voltage-applications)
+**Published:** Wed, 10 Jun 2026 07:42:16 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/new-ultra-thin-compute-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A computer built with a 2D semiconductor integrates more than 1,400 transistors on one chip, demonstrating a path toward AI and edge computing. Researchers from Nanjing University, Suzhou Laboratory, and Huawei Technologies have developed a computer built using the two-dimensional (2D) semiconductor molybdenum disulfide (MoS₂). The system integrates more than 1,400 transistors on a single [&#8230;]
-
----
-
-## [New Platform Simplifies Power Design](https://www.electronicsforu.com/news/new-platform-simplifies-power-design)
-**Published:** Tue, 09 Jun 2026 07:40:36 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Screenshot-2026-06-09-110632-150x150.jpeg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Engineers designing next-generation EVs, AI infrastructure, and industrial systems can now evaluate and optimise critical power-component pairings much earlier in the design cycle, reducing iterations and accelerating time-to-market. A new cloud-based design platform from Onsemi aims to simplify one of the most challenging aspects of power electronics development: matching silicon carbide (SiC) power switches with [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/np12-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A newly introduced surface-mount package for silicon carbide power devices combines high heat dissipation, 1200V-class voltage support, and automated assembly compatibility, targeting EV power electronics and industrial energy systems. As electric vehicles and high-efficiency industrial systems demand greater power density, a new surface-mount packaging technology aims to bridge the gap between thermal performance and manufacturing [&#8230;]
 
 ---
 
