@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-12 04:11 UTC_
+_Last updated: 2026-06-13 03:57 UTC_
 
 ## [Why Robotics’ Next Leap Relies on Physical Engineering](https://www.eetasia.com/embeddedblog-why-robotics-next-leap-relies-on-physical-engineering/)
 **Published:** Wed, 10 Jun 2026 08:32:09 +0000
@@ -10,11 +10,27 @@ _Last updated: 2026-06-12 04:11 UTC_
 
 ---
 
-## [Next-Gen Real-Time Intelligence for Modern Smart Factories](https://www.eetasia.com/embeddedblog-next-gen-real-time-intelligence-for-smart-factories/)
-**Published:** Wed, 10 Jun 2026 07:38:01 +0000
+## [Ennostar Qualifies Veeco’s New LUMINA+ MOCVD System for Advanced Product Applications](https://www.semiconductor-digest.com/ennostar-qualifies-veecos-new-lumina-mocvd-system-for-advanced-product-applications/?utm_source=rss&utm_medium=rss&utm_campaign=ennostar-qualifies-veecos-new-lumina-mocvd-system-for-advanced-product-applications)
+**Published:** Fri, 12 Jun 2026 18:27:13 +0000
 
-<p>Smart factories are evolving toward physical AI systems capable of real-time perception, adaptation, and autonomous action.</p>
-<p>The post <a href="https://www.eetasia.com/embeddedblog-next-gen-real-time-intelligence-for-smart-factories/">Next-Gen Real-Time Intelligence for Modern Smart Factories</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Breakthrough system is the industry’s largest capacity arsenide phosphide tool with the highest throughput.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ennostar-qualifies-veecos-new-lumina-mocvd-system-for-advanced-product-applications/">Ennostar Qualifies Veeco’s New LUMINA+ MOCVD System for Advanced Product Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [South Wales Semiconductor Cluster Delivers £436m Impact, New Report Shows](https://www.semiconductor-digest.com/south-wales-semiconductor-cluster-delivers-436m-impact-new-report-shows/?utm_source=rss&utm_medium=rss&utm_campaign=south-wales-semiconductor-cluster-delivers-436m-impact-new-report-shows)
+**Published:** Fri, 12 Jun 2026 18:15:09 +0000
+
+<p>CSconnected has published its Strength in Places Fund (SIPF) impact report 2026, marking the conclusion of a transformative programme that has established South Wales as a globally recognised hub for compound semiconductor innovation.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/south-wales-semiconductor-cluster-delivers-436m-impact-new-report-shows/">South Wales Semiconductor Cluster Delivers £436m Impact, New Report Shows</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Cooling the AI Era: Why Smart Water Use Matters for Data Centers and Chip Manufacturing](https://www.semiconductor-digest.com/cooling-the-ai-era-why-smart-water-use-matters-for-data-centers-and-chip-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=cooling-the-ai-era-why-smart-water-use-matters-for-data-centers-and-chip-manufacturing)
+**Published:** Fri, 12 Jun 2026 13:17:57 +0000
+
+<p>As AI workloads reshape data center thermal demands, a site-to-chip approach to water-based cooling — backed by digital monitoring — is becoming a strategic lever for performance, resilience, and sustainability.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cooling-the-ai-era-why-smart-water-use-matters-for-data-centers-and-chip-manufacturing/">Cooling the AI Era: Why Smart Water Use Matters for Data Centers and Chip Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -106,19 +122,19 @@ _Last updated: 2026-06-12 04:11 UTC_
 
 ---
 
-## [Inside Intel’s Die Sort and Singulation Operation: An Up-Close Look at an Overlooked Process](https://www.semiconductor-digest.com/inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process/?utm_source=rss&utm_medium=rss&utm_campaign=inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process)
-**Published:** Wed, 10 Jun 2026 13:19:10 +0000
-
-<p>Singulation and die sort sit at a critical juncture in the semiconductor value chain: the point where wafer-level investment is converted — or lost — into individual die-level assets. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process/">Inside Intel&#8217;s Die Sort and Singulation Operation: An Up-Close Look at an Overlooked Process</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Precision Sensing for Yield Improvement in Advanced Semiconductor Manufacturing](https://www.semiconductor-digest.com/precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing)
 **Published:** Wed, 10 Jun 2026 13:19:10 +0000
 
 <p>Integrating high-precision piezoelectric sensor systems as early as possible in the R&#038;D phase of semiconductor equipment design has become indispensable for meeting the rising demand for yield, quality, and efficiency throughout the machine’s lifecycle. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing/">Precision Sensing for Yield Improvement in Advanced Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Inside Intel’s Die Sort and Singulation Operation: An Up-Close Look at an Overlooked Process](https://www.semiconductor-digest.com/inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process/?utm_source=rss&utm_medium=rss&utm_campaign=inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process)
+**Published:** Wed, 10 Jun 2026 13:19:10 +0000
+
+<p>Singulation and die sort sit at a critical juncture in the semiconductor value chain: the point where wafer-level investment is converted — or lost — into individual die-level assets. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process/">Inside Intel&#8217;s Die Sort and Singulation Operation: An Up-Close Look at an Overlooked Process</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,27 +810,19 @@ _Last updated: 2026-06-12 04:11 UTC_
 
 ---
 
-## [A New Heat Transport Regime Discovered in Ultrathin Semiconductors](https://www.semiconductor-digest.com/a-new-heat-transport-regime-discovered-in-ultrathin-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-heat-transport-regime-discovered-in-ultrathin-semiconductors)
-**Published:** Fri, 15 May 2026 19:25:41 +0000
+## [Why 800 VDC Power Distribution is Gaining Traction in AI Data Centers](https://www.powerelectronicsnews.com/why-800-vdc-power-distribution-is-gaining-traction-in-ai-data-centers/)
+**Published:** Fri, 12 Jun 2026 13:00:00 +0000
 
-<p>Controlling heat flow is a major challenge for many technologies. In electronic and photonic devices, for example, heat dissipation can limit the performance and efficiency, as well as their potential for further miniaturisation.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/a-new-heat-transport-regime-discovered-in-ultrathin-semiconductors/">A New Heat Transport Regime Discovered in Ultrathin Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Stretchy Implants Could Stick to Arteries to Treat High Blood Pressure](https://www.semiconductor-digest.com/stretchy-implants-could-stick-to-arteries-to-treat-high-blood-pressure/?utm_source=rss&utm_medium=rss&utm_campaign=stretchy-implants-could-stick-to-arteries-to-treat-high-blood-pressure)
-**Published:** Fri, 15 May 2026 18:47:22 +0000
-
-<p>Even though the team's new bioelectronic is only about the size of a fingertip, it could offer an effective and biocompatible approach to addressing high blood pressure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/stretchy-implants-could-stick-to-arteries-to-treat-high-blood-pressure/">Stretchy Implants Could Stick to Arteries to Treat High Blood Pressure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/image_f14fd0.jpeg?fit=800%2C600" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>800 VDC promises 157% more power through the same copper cross-section, but standards, connectors, and SSTs must catch up.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/why-800-vdc-power-distribution-is-gaining-traction-in-ai-data-centers/">Why 800 VDC Power Distribution is Gaining Traction in AI Data Centers </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Infineon Collaborates with d-Matrix](https://www.semiconductor-digest.com/infineon-collaborates-with-d-matrix/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-collaborates-with-d-matrix)
-**Published:** Fri, 15 May 2026 18:41:37 +0000
+## [Murata Introduces Compact 2.2µF 100V Soft-Termination MLCC](https://www.powerelectronicsnews.com/murata-introduces-compact-2-2%c2%b5f-100v-soft-termination-mlcc/)
+**Published:** Fri, 12 Jun 2026 13:00:00 +0000
 
-<p>Infineon Technologies AG announced a collaboration with d-Matrix, a pioneer in highly interactive, low-latency AI inference compute for data centers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/infineon-collaborates-with-d-matrix/">Infineon Collaborates with d-Matrix</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Murata Introduces Compact 2.2µF 100V Soft-Termination MLCC." class="webfeedsFeaturedVisual wp-post-image" height="200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/MLCC_Mobility_PR_Image_300x200.png?fit=300%2C200" style="display: block; margin-bottom: 5px; clear: both;" width="300" /><p>The new automotive MLCC combines 2.2µF capacitance and 100V rating in a compact 0805 package with enhanced reliability.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/murata-introduces-compact-2-2%c2%b5f-100v-soft-termination-mlcc/">Murata Introduces Compact 2.2µF 100V Soft-Termination MLCC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,57 +890,62 @@ _Last updated: 2026-06-12 04:11 UTC_
 
 ---
 
-## [Power Module from SiC Discrete Devices Repackaged: Part 2](https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-2/)
-**Published:** Tue, 09 Jun 2026 13:00:00 +0000
+## [UCLA’s $125M Semiconductor Hub: “We Want High Impact, Not Incremental Research”](https://www.eetimes.com/uclas-125m-semiconductor-hub-we-want-high-impact-not-incremental-research/)
+**Published:** Fri, 12 Jun 2026 19:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2688" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/AdobeStock_1302708905.jpeg?fit=4096%2C2688" style="display: block; margin-bottom: 5px; clear: both;" width="4096" /><p>Part 2 examines IMS-based repackaging of discrete SiC devices as a cost-effective alternative to commercial power modules.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-module-from-sic-discrete-devices-repackaged-part-2/">Power Module from SiC Discrete Devices Repackaged: Part 2</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Electronics Course with QSPICE (Episode 12): Other Components for Circuit Protection](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-12-other-components-for-circuit-protection/)
-**Published:** Mon, 08 Jun 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>Episode 12 of the QSPICE course covers TVS diodes and MOV varistors for power circuit overvoltage protection.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-12-other-components-for-circuit-protection/">Power Electronics Course with QSPICE (Episode 12): Other Components for Circuit Protection</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>UCLA launches a $125M semiconductor hub to smash chip bottlenecks with AI research.</p>
+<p>The post <a href="https://www.eetimes.com/uclas-125m-semiconductor-hub-we-want-high-impact-not-incremental-research/">UCLA’s $125M Semiconductor Hub: “We Want High Impact, Not Incremental Research”</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
-## [The Concerning, Unchecked Rise of E2E AI in Physical Applications](https://www.eetimes.com/the-concerning-unchecked-rise-of-e2e-ai-in-physical-applications/)
-**Published:** Tue, 09 Jun 2026 13:24:48 +0000
+## [PEAK Goes Automotive Ethernet: PAE-Media Converter connects 100/1000BASE-T1 with Standard Ethernet](https://www.eetimes.com/peak-goes-automotive-ethernet-pae-media-converter-connects-100-1000base-t1-with-standard-ethernet/)
+**Published:** Fri, 12 Jun 2026 17:01:05 +0000
 
-<p>Don’t let the bodies pile up</p>
-<p>The post <a href="https://www.eetimes.com/the-concerning-unchecked-rise-of-e2e-ai-in-physical-applications/">The Concerning, Unchecked Rise of E2E AI in Physical Applications</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Post-quantum cryptography challenges for embedded hardware](https://www.electronicsweekly.com/news/post-quantum-cryptography-challenges-for-embedded-hardware-2026-06/)
-**Published:** Thu, 11 Jun 2026 11:00:41 +0000
-
-<p>While quantum computers have many benefits, their sensitive data may not be safe for very long. Venus Kohli looks at the safeguards. Classical public-key cryptography derives its security from integer ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/post-quantum-cryptography-challenges-for-embedded-hardware-2026-06/">Post-quantum cryptography challenges for embedded hardware</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Unique Features for Automotive Testing The PAE-Media Converter addresses crucial market challenges in automotive development and validation with three core innovations. It enables realistic fault simulation by allowing physical interruption of the Automotive Ethernet link. This can be triggered directly on the device or via an API, supporting reproducible and controlled test scenarios. “We empower [&#8230;]</p>
+<p>The post <a href="https://www.eetimes.com/peak-goes-automotive-ethernet-pae-media-converter-connects-100-1000base-t1-with-standard-ethernet/">PEAK Goes Automotive Ethernet: PAE-Media Converter connects 100/1000BASE-T1 with Standard Ethernet</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
-## [Qualinx and Globalfoundries complete all-European foundry process](https://www.electronicsweekly.com/news/business/manufacturing/qualinx-and-globalfoundries-complete-all-european-foundry-process-2026-06/)
-**Published:** Thu, 11 Jun 2026 05:20:16 +0000
+## [NextSilicon to productise Arbel core into a CPU for launch in Q12028](https://www.electronicsweekly.com/news/business/nextsicon-to-productise-arbel-core-into-a-cpu-for-launch-in-q12028-2026-06/)
+**Published:** Fri, 12 Jun 2026 05:15:07 +0000
 
-<p>Qualinx has completed a fully European-based, end-to-end semiconductor manufacturing flow at GlobalFoundries’ Dresden fab on its FD-SOI technology. It shows that security-critical chips for aerospace, defence and critical infrastructure can be designed, manufactured and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/manufacturing/qualinx-and-globalfoundries-complete-all-european-foundry-process-2026-06/">Qualinx and Globalfoundries complete all-European foundry process</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [JOB: Associate ROC Analyst At Stem In Gurgaon](https://www.electronicsforu.com/career/associate-roc-analyst-stem-gurgaon)
-**Published:** Thu, 11 Jun 2026 11:23:38 +0000
-
-<img alt="Power Electronics Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/job-680733-1024x609-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Gurgaon Company: Stem The ROC (Remote operations center) Analyst performs technical analysis of system issues and outages as they occur across our fleet of networked Energy Storage Systems. This individual performs research to troubleshoot and resolve the issue or, depending upon complexity, escalates the issue to higher-level network engineers. The NOC Analyst [&#8230;]
+<p>NextSilicon plans to productise its Arbel RISC-V core into a 64-core and a 128-core, enterprise-grade processor suited to deliver ultra-speed performance for agentic tools, expected to be available in early ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/nextsicon-to-productise-arbel-core-into-a-cpu-for-launch-in-q12028-2026-06/">NextSilicon to productise Arbel core into a CPU for launch in Q12028</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Single-Chip Radar Brings ADAS Processing](https://www.electronicsforu.com/news/single-chip-radar-brings-adas-processing)
-**Published:** Thu, 11 Jun 2026 07:09:56 +0000
+## [Hardware Design (Power Electronics) Internship At Emiant Innovations Pvt Ltd. In Vadodara](https://www.electronicsforu.com/career/hardware-design-power-electronics-internship-at-emiant-innovations-vadodara)
+**Published:** Fri, 12 Jun 2026 10:06:01 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/3135000-SAF8444-Product-Imagery-Banner-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new automotive radar SoC integrates sensing and perception processing on a single chip, helping automakers reduce system complexity, power consumption and costs while expanding advanced driver-assistance features to mainstream vehicles. Advanced driver-assistance systems (ADAS) could become more affordable for mass-market vehicles with the introduction of a new single-chip automotive radar solution by NXP Semiconductors [&#8230;]
+<img alt="Field Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/JOB1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Vadodara Company: Emiant Innovations What You’ll Do What We’re Looking For Must-Have Good-to-Have (Not Mandatory) Who Should Apply Stipend: INR 10,000-15,000 per month Eligibility
+
+---
+
+## [JOB: Engineer – EMI/EMC At Eaton In Pune](https://www.electronicsforu.com/career/engineer-emi-emc-eaton-pune)
+**Published:** Fri, 12 Jun 2026 09:40:05 +0000
+
+<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton The primary responsibility of this role is to execute System/Sub-system/Component level EMI/EMC modeling and simulation for product design and development of various Eaton products in the domain of Power Electronics. Qualifications Skills
+
+---
+
+## [JOB: Application Engineer – Power Electronics At Rohde & Schwarz In Bengaluru](https://www.electronicsforu.com/career/application-engineer-power-electronics-rohde-schwarz-bengaluru)
+**Published:** Fri, 12 Jun 2026 09:20:54 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2023/07/Rohde-Schwarz-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Rohde &#38; Schwarz Your tasks Your Qualifications
+
+---
+
+## [EVs Get New Low-Power Lighting Tech](https://www.electronicsforu.com/news/evs-get-new-low-power-lighting-tech)
+**Published:** Fri, 12 Jun 2026 08:38:48 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Screenshot-2026-06-12-at-2.06.18-PM-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LED technology enters vehicle production, reduces components and power use, and changes how lighting systems are built in electric cars. Seoul Semiconductor Co., Ltd. (KOSDAQ: 046890) has announced the mass production rollout of its High Voltage (HV) opto-semiconductor technology, marking a step toward higher-efficiency lighting systems for hybrid and electric vehicles. The company said the [&#8230;]
+
+---
+
+## [Power Package Combines Cooling and Isolation](https://www.electronicsforu.com/news/power-package-combines-cooling-and-isolation)
+**Published:** Fri, 12 Jun 2026 07:41:57 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/unnamed-15-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A power device package combines isolation, cooling, and reduced EMI in a design that helps engineers build high-voltage systems with fewer components. Navitas Semiconductor has launched the UHV-TO-247-4-ISO, a new high-voltage package for silicon carbide (SiC) MOSFETs designed to simplify the development of high-power systems while improving thermal performance, isolation, and electromagnetic interference (EMI) characteristics. [&#8230;]
 
 ---
 
