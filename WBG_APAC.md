@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-13 16:37 UTC_
+_Last updated: 2026-06-14 00:20 UTC_
 
 ## [Why Robotics’ Next Leap Relies on Physical Engineering](https://www.eetasia.com/embeddedblog-why-robotics-next-leap-relies-on-physical-engineering/)
 **Published:** Wed, 10 Jun 2026 08:32:09 +0000
@@ -903,6 +903,14 @@ _Last updated: 2026-06-13 16:37 UTC_
 
 <p>Unique Features for Automotive Testing The PAE-Media Converter addresses crucial market challenges in automotive development and validation with three core innovations. It enables realistic fault simulation by allowing physical interruption of the Automotive Ethernet link. This can be triggered directly on the device or via an API, supporting reproducible and controlled test scenarios. “We empower [&#8230;]</p>
 <p>The post <a href="https://www.eetimes.com/peak-goes-automotive-ethernet-pae-media-converter-connects-100-1000base-t1-with-standard-ethernet/">PEAK Goes Automotive Ethernet: PAE-Media Converter connects 100/1000BASE-T1 with Standard Ethernet</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [NextSilicon to productise Arbel core into a CPU for launch in Q12028](https://www.electronicsweekly.com/news/business/nextsicon-to-productise-arbel-core-into-a-cpu-for-launch-in-q12028-2026-06/)
+**Published:** Fri, 12 Jun 2026 05:15:07 +0000
+
+<p>NextSilicon plans to productise its Arbel RISC-V core into a 64-core and a 128-core, enterprise-grade processor suited to deliver ultra-speed performance for agentic tools, expected to be available in early ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/nextsicon-to-productise-arbel-core-into-a-cpu-for-launch-in-q12028-2026-06/">NextSilicon to productise Arbel core into a CPU for launch in Q12028</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
