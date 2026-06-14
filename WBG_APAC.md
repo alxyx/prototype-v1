@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-14 09:47 UTC_
+_Last updated: 2026-06-14 14:30 UTC_
 
 ## [Why Robotics’ Next Leap Relies on Physical Engineering](https://www.eetasia.com/embeddedblog-why-robotics-next-leap-relies-on-physical-engineering/)
 **Published:** Wed, 10 Jun 2026 08:32:09 +0000
@@ -906,11 +906,11 @@ _Last updated: 2026-06-14 09:47 UTC_
 
 ---
 
-## [NextSilicon to productise Arbel core into a CPU for launch in Q12028](https://www.electronicsweekly.com/news/business/nextsicon-to-productise-arbel-core-into-a-cpu-for-launch-in-q12028-2026-06/)
+## [NextSilicon to productise Arbel core into a CPU for launch in Q1 2028](https://www.electronicsweekly.com/news/business/nextsicon-to-productise-arbel-core-into-a-cpu-for-launch-in-q12028-2026-06/)
 **Published:** Fri, 12 Jun 2026 05:15:07 +0000
 
-<p>NextSilicon plans to productise its Arbel RISC-V core into a 64-core and a 128-core, enterprise-grade processor suited to deliver ultra-speed performance for agentic tools, expected to be available in early ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/nextsicon-to-productise-arbel-core-into-a-cpu-for-launch-in-q12028-2026-06/">NextSilicon to productise Arbel core into a CPU for launch in Q12028</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>NextSilicon plans to productise its Arbel Risc-V core into a 64-core and a 128-core, enterprise-grade processor suited to deliver ultra-speed performance for agentic tools, expected to be available in early ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/nextsicon-to-productise-arbel-core-into-a-cpu-for-launch-in-q12028-2026-06/">NextSilicon to productise Arbel core into a CPU for launch in Q1 2028</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
