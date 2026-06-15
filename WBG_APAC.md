@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-15 13:27 UTC_
+_Last updated: 2026-06-15 23:58 UTC_
 
 ## [Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q 2026](https://www.eetasia.com/semiconductor-market-surpasses-300b-quarterly-revenue-in-1q-2026/)
 **Published:** Mon, 15 Jun 2026 02:46:56 +0000
@@ -23,6 +23,38 @@ _Last updated: 2026-06-15 13:27 UTC_
 
 <p>QBit is strengthening its ASIC design services by acquiring a majority stake in Singapore-based IC design services firm SinChip.</p>
 <p>The post <a href="https://www.eetasia.com/qbit-expands-asic-ambitions-with-majority-acquisition-of-singapore-based-sinchip/">QBit Expands ASIC Ambitions with Majority Acquisition of Singapore-Based SinChip</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify](https://www.semiconductor-digest.com/omdia-2026-display-demand-downgraded-to-6-unit-decline-as-supply-chain-pressures-intensify/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-2026-display-demand-downgraded-to-6-unit-decline-as-supply-chain-pressures-intensify)
+**Published:** Mon, 15 Jun 2026 20:33:10 +0000
+
+<p>The global display market outlook has deteriorated significantly, with 2026 demand forecasts revised sharply downward, according to Omdia’s Display long-term demand forecast tracker.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-2026-display-demand-downgraded-to-6-unit-decline-as-supply-chain-pressures-intensify/">Omdia: 2026 Display Demand Downgraded to 6% Unit Decline as Supply Chain Pressures Intensify</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [CEA-Leti Scales Ferroelectric RAM to 22nm Node, Unlocking Denser, More Efficient Memory for Edge AI](https://www.semiconductor-digest.com/cea-leti-scales-ferroelectric-ram-to-22nm-node-unlocking-denser-more-efficient-memory-for-edge-ai/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-scales-ferroelectric-ram-to-22nm-node-unlocking-denser-more-efficient-memory-for-edge-ai)
+**Published:** Mon, 15 Jun 2026 20:25:25 +0000
+
+<p>CEA-Leti today announced a major advance in memory technology: the demonstration of ferroelectric RAM (FeRAM) scaled to the 22nm manufacturing node using an innovative 3D capacitor architecture.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-scales-ferroelectric-ram-to-22nm-node-unlocking-denser-more-efficient-memory-for-edge-ai/">CEA-Leti Scales Ferroelectric RAM to 22nm Node, Unlocking Denser, More Efficient Memory for Edge AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMICON Taiwan 2026 to Serve as Global Stage Where the Semiconductor Industry Defines What’s Next](https://www.semiconductor-digest.com/semicon-taiwan-2026-to-serve-as-global-stage-where-the-semiconductor-industry-defines-whats-next/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-taiwan-2026-to-serve-as-global-stage-where-the-semiconductor-industry-defines-whats-next)
+**Published:** Mon, 15 Jun 2026 20:22:26 +0000
+
+<p>SEMICON Taiwan 2026, one of the global semiconductor industry’s flagship annual events, will be held September 2-4 at the Nangang Exhibition Center in Taipei, with forums beginning on August 31 to align with International Semiconductor Week.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semicon-taiwan-2026-to-serve-as-global-stage-where-the-semiconductor-industry-defines-whats-next/">SEMICON Taiwan 2026 to Serve as Global Stage Where the Semiconductor Industry Defines What’s Next</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Why Rack Density, Not Grid Power, Will Define the Next Generation of AI Data Centers](https://www.semiconductor-digest.com/why-rack-density-not-grid-power-will-define-the-next-generation-of-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=why-rack-density-not-grid-power-will-define-the-next-generation-of-ai-data-centers)
+**Published:** Mon, 15 Jun 2026 16:16:10 +0000
+
+<p>Data center cooling has evolved from ancillary infrastructure to a fundamental design variable. The question has shifted from "Do we have enough power from the grid?" to "Can we deploy the power we have?"</p>
+<p>The post <a href="https://www.semiconductor-digest.com/why-rack-density-not-grid-power-will-define-the-next-generation-of-ai-data-centers/">Why Rack Density, Not Grid Power, Will Define the Next Generation of AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -98,19 +130,19 @@ _Last updated: 2026-06-15 13:27 UTC_
 
 ---
 
-## [Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design](https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design)
-**Published:** Thu, 11 Jun 2026 13:16:50 +0000
-
-<p>Q&#038;A with Senior ASIC engineer Adarsh Mittal.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/">Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance](https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/?utm_source=rss&utm_medium=rss&utm_campaign=silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance)
 **Published:** Thu, 11 Jun 2026 13:16:50 +0000
 
 <p>Silicone-based thermal interface materials (TIMs), particularly thermally conductive compounds and gels, offer material properties and performance characteristics that are well-suited to today’s data center applications. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/">Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design](https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design)
+**Published:** Thu, 11 Jun 2026 13:16:50 +0000
+
+<p>Q&#038;A with Senior ASIC engineer Adarsh Mittal.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/">Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -794,35 +826,35 @@ _Last updated: 2026-06-15 13:27 UTC_
 
 ---
 
-## [TetraMem Announces 22nm Multi-Level RRAM Analog In-Memory Computing SoC Milestone](https://www.semiconductor-digest.com/tetramem-announces-22nm-multi-level-rram-analog-in-memory-computing-soc-milestone/?utm_source=rss&utm_medium=rss&utm_campaign=tetramem-announces-22nm-multi-level-rram-analog-in-memory-computing-soc-milestone)
-**Published:** Mon, 18 May 2026 18:13:53 +0000
+## [PCIM 2026: Infineon’s Peter Wawer on Grid Resilience, Solid-State Circuit Breakers, and the Path to 800V Data Centers](https://www.powerelectronicsnews.com/pcim-2026-infineons-peter-wawer-on-grid-resilience-solid-state-circuit-breakers-and-the-path-to-800v-data-centers/)
+**Published:** Mon, 15 Jun 2026 18:56:09 +0000
 
-<p>TetraMem Inc., a Silicon Valley–based semiconductor company developing analog in-memory computing (IMC) solutions, today announced the successful tape-out, manufacturing, and initial silicon validation of its MLX200 platform, a 22nm multi-level RRAM-based analog IMC system-on-chip (SoC).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tetramem-announces-22nm-multi-level-rram-analog-in-memory-computing-soc-milestone/">TetraMem Announces 22nm Multi-Level RRAM Analog In-Memory Computing SoC Milestone</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SKKU Research Team Reveals Chemical Pathway for Next-Generation Infrared III–V Nanocrystals](https://www.semiconductor-digest.com/skku-research-team-reveals-chemical-pathway-for-next-generation-infrared-iii-v-nanocrystals/?utm_source=rss&utm_medium=rss&utm_campaign=skku-research-team-reveals-chemical-pathway-for-next-generation-infrared-iii-v-nanocrystals)
-**Published:** Mon, 18 May 2026 18:06:31 +0000
-
-<p>Metal–amide chemistry provides a rational approach to controlling heavy-pnictogen reduction, paving the way for safer and more scalable semiconductor quantum dots.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/skku-research-team-reveals-chemical-pathway-for-next-generation-infrared-iii-v-nanocrystals/">SKKU Research Team Reveals Chemical Pathway for Next-Generation Infrared III–V Nanocrystals</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="901" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/PCIM_Infineon_PeterWawer.png?fit=1917%2C901" style="display: block; margin-bottom: 5px; clear: both;" width="1917" /><p>Infineon's Peter Wawer discusses solid-state circuit breakers, CoolSiC JFETs, grid resilience, and the shift to 800V DC.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/pcim-2026-infineons-peter-wawer-on-grid-resilience-solid-state-circuit-breakers-and-the-path-to-800v-data-centers/">PCIM 2026: Infineon’s Peter Wawer on Grid Resilience, Solid-State Circuit Breakers, and the Path to 800V Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [HANMI Semiconductor Expands Presence in U.S. Semiconductor Supply Chain](https://www.semiconductor-digest.com/hanmi-semiconductor-expands-presence-in-u-s-semiconductor-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-expands-presence-in-u-s-semiconductor-supply-chain)
-**Published:** Mon, 18 May 2026 17:49:53 +0000
+## [Wolfspeed Introduces Gen 5 SiC MOSFETs with Industry-Leading Low RDS(ON)](https://www.powerelectronicsnews.com/wolfspeed-introduces-gen-5-sic-mosfets-with-industry-leading-low-rdson/)
+**Published:** Mon, 15 Jun 2026 15:00:00 +0000
 
-<p>HANMI Semiconductor today announced that it will formally enter the U.S. market by establishing its local subsidiary, HANMI USA, by the end of 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hanmi-semiconductor-expands-presence-in-u-s-semiconductor-supply-chain/">HANMI Semiconductor Expands Presence in U.S. Semiconductor Supply Chain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Wolfspeed Introduces Gen 5 SiC MOSFETs with Industry-Leading Low RDS(ON)." class="webfeedsFeaturedVisual wp-post-image" height="4500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/Gen5_Chart-TOGO-WHITE.jpg?fit=8000%2C4500" style="display: block; margin-bottom: 5px; clear: both;" width="8000" /><p>The new SiC MOSFETs reduce conduction losses, improve thermal performance, and support compact, high-efficiency power designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-introduces-gen-5-sic-mosfets-with-industry-leading-low-rdson/">Wolfspeed Introduces Gen 5 SiC MOSFETs with Industry-Leading Low RDS(ON)</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Top Business Groups Urge Congress to Extend, Expand Successful Semiconductor Tax Credit](https://www.semiconductor-digest.com/top-business-groups-urge-congress-to-extend-expand-successful-semiconductor-tax-credit/?utm_source=rss&utm_medium=rss&utm_campaign=top-business-groups-urge-congress-to-extend-expand-successful-semiconductor-tax-credit)
-**Published:** Fri, 15 May 2026 19:29:42 +0000
+## [Choosing the Right Power Device for Utility-Scale GFM Inverters](https://www.powerelectronicsnews.com/choosing-the-right-power-device-for-utility-scale-gfm-inverters/)
+**Published:** Mon, 15 Jun 2026 14:56:23 +0000
 
-<p>The Advanced Manufacturing Investment Credit, which has helped spark hundreds of billions of dollars in private investment across the U.S. semiconductor ecosystem, expires at the end of 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/top-business-groups-urge-congress-to-extend-expand-successful-semiconductor-tax-credit/">Top Business Groups Urge Congress to Extend, Expand Successful Semiconductor Tax Credit</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/AdobeStock_76706386.jpeg?fit=4500%2C3000" style="display: block; margin-bottom: 5px; clear: both;" width="4500" /><p>The right choice of power device depends on the inverter size, efficiency, cooling capability, and fault-ride-through requirements of the application.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/choosing-the-right-power-device-for-utility-scale-gfm-inverters/">Choosing the Right Power Device for Utility-Scale GFM Inverters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Advanced Energy Unveils 800 VDC Converters for AI Data Centers](https://www.powerelectronicsnews.com/advanced-energy-unveils-800-vdc-converters-for-ai-data-centers/)
+**Published:** Mon, 15 Jun 2026 14:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="450" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/DataCenterThumbnailNovemberBlog-1.jpg?fit=450%2C450" style="display: block; margin-bottom: 5px; clear: both;" width="450" /><p>The new DC-DC converters support the transition to 800 VDC AI infrastructure with high efficiency and power density.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/advanced-energy-unveils-800-vdc-converters-for-ai-data-centers/">Advanced Energy Unveils 800 VDC Converters for AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -874,42 +906,10 @@ _Last updated: 2026-06-15 13:27 UTC_
 
 ---
 
-## [JEDEC Publishes New SiC Evaluation and Reliability Guidelines](https://www.powerelectronicsnews.com/jedec-publishes-new-sic-evaluation-and-reliability-guidelines/)
-**Published:** Thu, 11 Jun 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="527" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/07/wafers.jpg?fit=1000%2C527" style="display: block; margin-bottom: 5px; clear: both;" width="1000" /><p>The new JEDEC guidelines establish common methodologies for SiC reliability assessment and short-circuit evaluation.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/jedec-publishes-new-sic-evaluation-and-reliability-guidelines/">JEDEC Publishes New SiC Evaluation and Reliability Guidelines</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Mitsubishi Electric Unveils New SiC MOSFETs for EV Powertrains](https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-new-sic-mosfets-for-ev-powertrains/)
-**Published:** Wed, 10 Jun 2026 15:00:00 +0000
-
-<img alt="Mitsubishi Electric Unveils New SiC MOSFETs for EV Powertrains." class="webfeedsFeaturedVisual wp-post-image" height="629" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/0604_sd.jpg?fit=1500%2C629" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>The fifth-generation SiC MOSFETs target improved efficiency and durability in electric vehicle (EV) powertrains.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/mitsubishi-electric-unveils-new-sic-mosfets-for-ev-powertrains/">Mitsubishi Electric Unveils New SiC MOSFETs for EV Powertrains</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TDK Launches B25696H DC-Link Capacitors for SiC Converters](https://www.powerelectronicsnews.com/tdk-launches-b25696h-dc-link-capacitors-for-sic-converters/)
-**Published:** Wed, 10 Jun 2026 14:00:00 +0000
-
-<img alt="TDK Launches B25696H DC-Link Capacitors for SiC Converters." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/bild-press-download-en-data.png?fit=1600%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new film capacitors reduce parasitic losses and support high-frequency SiC power conversion applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tdk-launches-b25696h-dc-link-capacitors-for-sic-converters/">TDK Launches B25696H DC-Link Capacitors for SiC Converters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TSMC Paves the Way to One-Trillion-Transistor Devices](https://www.powerelectronicsnews.com/tsmc-paves-the-way-to-one-trillion-transistor-devices/)
-**Published:** Wed, 10 Jun 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1365" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/image_83c113.jpeg?fit=2048%2C1365" style="display: block; margin-bottom: 5px; clear: both;" width="2048" /><p>#TSMC's 2026 Europe Technology Symposium laid out a path to one trillion transistors per package by 2030 — combining A12, CoWoS scaling to 48x, SoIC, and co-packaged optics into a single AI platform. #Semiconductors #AIHardware #CoWoS </p>
-<p>The post <a href="https://www.powerelectronicsnews.com/tsmc-paves-the-way-to-one-trillion-transistor-devices/">TSMC Paves the Way to One-Trillion-Transistor Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Andy McLean: Rapidus MoU Will Help British Innovators Access 2-nm Technology](https://www.eetimes.com/andy-mclean-rapidus-mou-will-help-british-innovators-access-2-nm-technology/)
 **Published:** Mon, 15 Jun 2026 13:10:12 +0000
 
-<p>As Rapidus signs an MoU with the UK Semiconductor Centre (UKSC), EE Times speaks exclusively with the UKSC's new CEO, Andy McLean.</p>
+<p>As the UK Semiconductor Centre signs an MoU with Rapidus, EE Times speaks exclusively with its new CEO, Andy McLean.</p>
 <p>The post <a href="https://www.eetimes.com/andy-mclean-rapidus-mou-will-help-british-innovators-access-2-nm-technology/">Andy McLean: Rapidus MoU Will Help British Innovators Access 2-nm Technology</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
@@ -941,7 +941,7 @@ _Last updated: 2026-06-15 13:27 UTC_
 ## [Rapidus signs MoU with UKSC](https://www.electronicsweekly.com/news/business/rapidus-signs-mou-with-uksc-2026-06/)
 **Published:** Mon, 15 Jun 2026 12:30:30 +0000
 
-<p>Rapidus, the Japanese initiative targetting 2nm process technology, has signed an MoU with the UK Semiconductor Centre (UKSC) covering future semiconductor manufacturing. In  January 2026, the leaders of Japan and ...</p>
+<p>Rapidus, the Japanese initiative targetting 2nm process technology, has signed an MoU with the UK Semiconductor Centre (UKSC) covering future semiconductor manufacturing. In January 2026, the leaders of Japan and ...</p>
 <p>The post <a href="https://www.electronicsweekly.com/news/business/rapidus-signs-mou-with-uksc-2026-06/">Rapidus signs MoU with UKSC</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
