@@ -1,12 +1,28 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-14 22:26 UTC_
+_Last updated: 2026-06-15 06:36 UTC_
 
-## [Why Robotics’ Next Leap Relies on Physical Engineering](https://www.eetasia.com/embeddedblog-why-robotics-next-leap-relies-on-physical-engineering/)
-**Published:** Wed, 10 Jun 2026 08:32:09 +0000
+## [Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q 2026](https://www.eetasia.com/semiconductor-market-surpasses-300b-quarterly-revenue-in-1q-2026/)
+**Published:** Mon, 15 Jun 2026 02:46:56 +0000
 
-<p>Robotics advancement requires reliable mechanisms, deterministic design, and robust hardware foundations alongside AI innovation.</p>
-<p>The post <a href="https://www.eetasia.com/embeddedblog-why-robotics-next-leap-relies-on-physical-engineering/">Why Robotics’ Next Leap Relies on Physical Engineering</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Memory supply/demand imbalances continue to be among the leading trends in the semiconductor market, according to Omdia.</p>
+<p>The post <a href="https://www.eetasia.com/semiconductor-market-surpasses-300b-quarterly-revenue-in-1q-2026/">Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Infineon and Siemens Leverage SiC Tech to Advance Electrical Protection in Data Centers, Factories](https://www.eetasia.com/infineon-and-siemens-leverage-sic-tech-to-advance-electrical-protection-in-data-centers-factories/)
+**Published:** Mon, 15 Jun 2026 02:32:42 +0000
+
+<p>Infineon and Siemens are partnering to advance electrical protection and ensure reliable operations in data centers, production facilities and battery storage systems.</p>
+<p>The post <a href="https://www.eetasia.com/infineon-and-siemens-leverage-sic-tech-to-advance-electrical-protection-in-data-centers-factories/">Infineon and Siemens Leverage SiC Tech to Advance Electrical Protection in Data Centers, Factories</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [QBit Expands ASIC Ambitions with Majority Acquisition of Singapore-Based SinChip](https://www.eetasia.com/qbit-expands-asic-ambitions-with-majority-acquisition-of-singapore-based-sinchip/)
+**Published:** Mon, 15 Jun 2026 02:06:49 +0000
+
+<p>QBit is strengthening its ASIC design services by acquiring a majority stake in Singapore-based IC design services firm SinChip.</p>
+<p>The post <a href="https://www.eetasia.com/qbit-expands-asic-ambitions-with-majority-acquisition-of-singapore-based-sinchip/">QBit Expands ASIC Ambitions with Majority Acquisition of Singapore-Based SinChip</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -903,14 +919,6 @@ _Last updated: 2026-06-14 22:26 UTC_
 
 <p>Unique Features for Automotive Testing The PAE-Media Converter addresses crucial market challenges in automotive development and validation with three core innovations. It enables realistic fault simulation by allowing physical interruption of the Automotive Ethernet link. This can be triggered directly on the device or via an API, supporting reproducible and controlled test scenarios. “We empower [&#8230;]</p>
 <p>The post <a href="https://www.eetimes.com/peak-goes-automotive-ethernet-pae-media-converter-connects-100-1000base-t1-with-standard-ethernet/">PEAK Goes Automotive Ethernet: PAE-Media Converter connects 100/1000BASE-T1 with Standard Ethernet</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [NextSilicon to productise Arbel core into a CPU for launch in Q1 2028](https://www.electronicsweekly.com/news/business/nextsicon-to-productise-arbel-core-into-a-cpu-for-launch-in-q12028-2026-06/)
-**Published:** Fri, 12 Jun 2026 05:15:07 +0000
-
-<p>NextSilicon plans to productise its Arbel Risc-V core into a 64-core and a 128-core, enterprise-grade processor suited to deliver ultra-speed performance for agentic tools, expected to be available in early ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/nextsicon-to-productise-arbel-core-into-a-cpu-for-launch-in-q12028-2026-06/">NextSilicon to productise Arbel core into a CPU for launch in Q1 2028</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
