@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-15 06:36 UTC_
+_Last updated: 2026-06-15 13:27 UTC_
 
 ## [Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q 2026](https://www.eetasia.com/semiconductor-market-surpasses-300b-quarterly-revenue-in-1q-2026/)
 **Published:** Mon, 15 Jun 2026 02:46:56 +0000
@@ -826,6 +826,30 @@ _Last updated: 2026-06-15 06:36 UTC_
 
 ---
 
+## [TI Unveils BQ79826Z-Q1 Battery Monitor with Integrated EIS](https://www.powerelectronicsnews.com/ti-unveils-bq79826z-q1-battery-monitor-with-integrated-eis/)
+**Published:** Mon, 15 Jun 2026 13:24:34 +0000
+
+<img alt="TI Unveils BQ79826Z-Q1 Battery Monitor with Integrated EIS." class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/ti-battery-monitor-with-integrated-eis-engine.jpg?fit=3840%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="3840" /><p>Integrated EIS diagnostics provide real-time battery health insights, enabling earlier fault detection and improved system reliability.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ti-unveils-bq79826z-q1-battery-monitor-with-integrated-eis/">TI Unveils BQ79826Z-Q1 Battery Monitor with Integrated EIS</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [onsemi Launches GaNEXUS GaN Power Portfolio](https://www.powerelectronicsnews.com/onsemi-launches-ganexus-gan-power-portfolio/)
+**Published:** Mon, 15 Jun 2026 13:23:57 +0000
+
+<img alt="onsemi Launches GaNEXUS GaN Power Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="628" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/onsemi-GaNEXUS-1200_E2_80_8A_C3_97_E2_80_8A628px.png?fit=1200%2C628" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new GaN devices support compact power architectures with lower losses, improved thermal performance and easier integration.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/onsemi-launches-ganexus-gan-power-portfolio/">onsemi Launches GaNEXUS GaN Power Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [800 VDC Power Architecture in AI Data Centers, TSMC Europe Technology Symposium, SiC-Based Power Modules: Power Electronics Week Insights](https://www.powerelectronicsnews.com/800-vdc-power-architecture-in-ai-data-centers-tsmc-europe-technology-symposium-sic-based-power-modules-power-electronics-week-insights/)
+**Published:** Fri, 12 Jun 2026 14:36:34 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on 800 VDC Power Architecture in AI Data Centers, TSMC Europe Technology Symposium, and SiC-Based Power Modules!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/800-vdc-power-architecture-in-ai-data-centers-tsmc-europe-technology-symposium-sic-based-power-modules-power-electronics-week-insights/">800 VDC Power Architecture in AI Data Centers, TSMC Europe Technology Symposium, SiC-Based Power Modules: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Why 800 VDC Power Distribution is Gaining Traction in AI Data Centers](https://www.powerelectronicsnews.com/why-800-vdc-power-distribution-is-gaining-traction-in-ai-data-centers/)
 **Published:** Fri, 12 Jun 2026 13:00:00 +0000
 
@@ -882,27 +906,19 @@ _Last updated: 2026-06-15 06:36 UTC_
 
 ---
 
-## [onsemi Launches Elite Pairing Studio for SiC Power Devices](https://www.powerelectronicsnews.com/onsemi-launches-elite-pairing-studio-for-sic-power-devices/)
-**Published:** Wed, 10 Jun 2026 12:00:00 +0000
+## [Andy McLean: Rapidus MoU Will Help British Innovators Access 2-nm Technology](https://www.eetimes.com/andy-mclean-rapidus-mou-will-help-british-innovators-access-2-nm-technology/)
+**Published:** Mon, 15 Jun 2026 13:10:12 +0000
 
-<img alt="onsemi Launches Elite Pairing Studio for SiC Power Devices." class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/onsemi-Elite-Pairing-Studio-square.jpg?fit=1080%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1080" /><p>Elite Pairing Studio evaluates silicon carbide (SiC) MOSFET and gate driver combinations early in the design cycle.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/onsemi-launches-elite-pairing-studio-for-sic-power-devices/">onsemi Launches Elite Pairing Studio for SiC Power Devices</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [EPC Launches New GaN-Based BLDC Inverter Boards](https://www.powerelectronicsnews.com/epc-launches-new-gan-based-bldc-inverter-boards/)
-**Published:** Tue, 09 Jun 2026 17:57:12 +0000
-
-<img alt="EPC Launches New GaN-Based BLDC Inverter Boards." class="webfeedsFeaturedVisual wp-post-image" height="250" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/EPC91128-91131-333-250-333-250-p-L-97.jpg?fit=333%2C250" style="display: block; margin-bottom: 5px; clear: both;" width="333" /><p>The four new GaN-based inverter boards support high-current BLDC motor control for robotics and industrial applications.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/epc-launches-new-gan-based-bldc-inverter-boards/">EPC Launches New GaN-Based BLDC Inverter Boards</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>As Rapidus signs an MoU with the UK Semiconductor Centre (UKSC), EE Times speaks exclusively with the UKSC's new CEO, Andy McLean.</p>
+<p>The post <a href="https://www.eetimes.com/andy-mclean-rapidus-mou-will-help-british-innovators-access-2-nm-technology/">Andy McLean: Rapidus MoU Will Help British Innovators Access 2-nm Technology</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
-## [Navitas Launches Isolated TO-247 Package for HV SiC MOSFETs](https://www.powerelectronicsnews.com/navitas-launches-isolated-to-247-package-for-hv-sic-mosfets/)
-**Published:** Tue, 09 Jun 2026 17:55:49 +0000
+## [Imec Pushes Quantum Toward Manufacturable Silicon Systems](https://www.eetimes.com/imec-pushes-quantum-toward-manufacturable-silicon-systems/)
+**Published:** Mon, 15 Jun 2026 08:13:05 +0000
 
-<img alt="Navitas Launches Isolated TO-247 Package for HV SiC MOSFETs." class="webfeedsFeaturedVisual wp-post-image" height="1216" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/5406aa2650d458c6c7a66bc516d6bda8.jpg?fit=2160%2C1216" style="display: block; margin-bottom: 5px; clear: both;" width="2160" /><p>The new package integrates high-voltage isolation and direct cooling to improve efficiency, reliability and power density.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/navitas-launches-isolated-to-247-package-for-hv-sic-mosfets/">Navitas Launches Isolated TO-247 Package for HV SiC MOSFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Imec says advanced lithography and semiconductor integration techniques may help scale silicon spin qubits toward manufacturable quantum systems.</p>
+<p>The post <a href="https://www.eetimes.com/imec-pushes-quantum-toward-manufacturable-silicon-systems/">Imec Pushes Quantum Toward Manufacturable Silicon Systems</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -922,38 +938,40 @@ _Last updated: 2026-06-15 06:36 UTC_
 
 ---
 
-## [Hardware Design (Power Electronics) Internship At Emiant Innovations Pvt Ltd. In Vadodara](https://www.electronicsforu.com/career/hardware-design-power-electronics-internship-at-emiant-innovations-vadodara)
-**Published:** Fri, 12 Jun 2026 10:06:01 +0000
+## [Rapidus signs MoU with UKSC](https://www.electronicsweekly.com/news/business/rapidus-signs-mou-with-uksc-2026-06/)
+**Published:** Mon, 15 Jun 2026 12:30:30 +0000
 
-<img alt="Field Engineer" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/JOB1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE ON LINKEDIN Location: Vadodara Company: Emiant Innovations What You’ll Do What We’re Looking For Must-Have Good-to-Have (Not Mandatory) Who Should Apply Stipend: INR 10,000-15,000 per month Eligibility
-
----
-
-## [JOB: Engineer – EMI/EMC At Eaton In Pune](https://www.electronicsforu.com/career/engineer-emi-emc-eaton-pune)
-**Published:** Fri, 12 Jun 2026 09:40:05 +0000
-
-<img alt="Power Electronics" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/eaton-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Pune Company: Eaton The primary responsibility of this role is to execute System/Sub-system/Component level EMI/EMC modeling and simulation for product design and development of various Eaton products in the domain of Power Electronics. Qualifications Skills
+<p>Rapidus, the Japanese initiative targetting 2nm process technology, has signed an MoU with the UK Semiconductor Centre (UKSC) covering future semiconductor manufacturing. In  January 2026, the leaders of Japan and ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/rapidus-signs-mou-with-uksc-2026-06/">Rapidus signs MoU with UKSC</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [JOB: Application Engineer – Power Electronics At Rohde & Schwarz In Bengaluru](https://www.electronicsforu.com/career/application-engineer-power-electronics-rohde-schwarz-bengaluru)
-**Published:** Fri, 12 Jun 2026 09:20:54 +0000
+## [IQE and Tower sign InP epiwafer supply deal](https://www.electronicsweekly.com/news/business/iqe-and-tower-sign-inp-epiwafer-supply-deal-2026-06/)
+**Published:** Mon, 15 Jun 2026 07:03:06 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2023/07/Rohde-Schwarz-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Bengaluru Company: Rohde &#38; Schwarz Your tasks Your Qualifications
-
----
-
-## [EVs Get New Low-Power Lighting Tech](https://www.electronicsforu.com/news/evs-get-new-low-power-lighting-tech)
-**Published:** Fri, 12 Jun 2026 08:38:48 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Screenshot-2026-06-12-at-2.06.18-PM-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />LED technology enters vehicle production, reduces components and power use, and changes how lighting systems are built in electric cars. Seoul Semiconductor Co., Ltd. (KOSDAQ: 046890) has announced the mass production rollout of its High Voltage (HV) opto-semiconductor technology, marking a step toward higher-efficiency lighting systems for hybrid and electric vehicles. The company said the [&#8230;]
+<p>IQE and Tower Semiconductor have signed a multi-year agreement for the supply of Indium Phosphide (InP) epiwafers for optical connectivity applications serving AI-driven data centre infrastructure. IQE&#8217;s InP epiwafers will ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/iqe-and-tower-sign-inp-epiwafer-supply-deal-2026-06/">IQE and Tower sign InP epiwafer supply deal</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Power Package Combines Cooling and Isolation](https://www.electronicsforu.com/news/power-package-combines-cooling-and-isolation)
-**Published:** Fri, 12 Jun 2026 07:41:57 +0000
+## [Physical AI Bed Learns Body Pressure in Real Time](https://www.electronicsforu.com/news/physical-ai-bed-learns-body-pressure-in-real-time)
+**Published:** Mon, 15 Jun 2026 07:26:45 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/unnamed-15-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A power device package combines isolation, cooling, and reduced EMI in a design that helps engineers build high-voltage systems with fewer components. Navitas Semiconductor has launched the UHV-TO-247-4-ISO, a new high-voltage package for silicon carbide (SiC) MOSFETs designed to simplify the development of high-power systems while improving thermal performance, isolation, and electromagnetic interference (EMI) characteristics. [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/db238243-4907-4ce1-a124-3ea2a3ca8f08_1042x1372-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A physical AI system maps human pressure in real time, enabling beds and chairs that adapt posture, movement, and comfort continuously. How? Water Robotics, a deeptech startup focused on physical AI systems, is developing a computing platform that interprets human body pressure in real time and adapts the surfaces people interact with every day. Built [&#8230;]
+
+---
+
+## [Chipmaking Technologies Target 2nm Designs](https://www.electronicsforu.com/news/chipmaking-technologies-target-2nm-designs)
+**Published:** Mon, 15 Jun 2026 06:02:54 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/applied-materials-gaa-image-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What happens when transistor dimensions approach atomic limits? New chipmaking technologies are helping improve AI chip performance and efficiency. Applied Materials has introduced three new semiconductor manufacturing systems designed to improve transistor performance and power efficiency at the 2nm node and beyond, addressing key challenges as the industry transitions to Gate-All-Around (GAA) transistor architectures for [&#8230;]
+
+---
+
+## [AI Tools Expand Support for Advanced Chip Design](https://www.electronicsforu.com/news/ai-tools-expand-support-for-advanced-chip-design)
+**Published:** Mon, 15 Jun 2026 05:43:53 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/thumbnail-synopsys-samsung-safe-2026-news-graphic-1600x900-2-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Building AI and 3D chips is getting harder. New design, test, and IP tools aim to reduce complexity and speed development. Synopsys has expanded its portfolio of AI-powered chip design, verification, testing, and IP solutions for Samsung Foundry&#8217;s latest process technologies, helping semiconductor companies develop AI, high-performance computing (HPC), and multi-die chips faster while improving [&#8230;]
 
 ---
 
