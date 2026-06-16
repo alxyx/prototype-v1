@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-16 19:49 UTC_
+_Last updated: 2026-06-16 22:24 UTC_
 
 ## [Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development](https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/)
 **Published:** Tue, 16 Jun 2026 02:20:52 +0000
@@ -34,6 +34,22 @@ _Last updated: 2026-06-16 19:49 UTC_
 
 ---
 
+## [Danfoss Power Solutions to Establish Manufacturing Operations in Marcy](https://www.semiconductor-digest.com/danfoss-power-solutions-to-establish-manufacturing-operations-in-marcy/?utm_source=rss&utm_medium=rss&utm_campaign=danfoss-power-solutions-to-establish-manufacturing-operations-in-marcy)
+**Published:** Tue, 16 Jun 2026 20:34:37 +0000
+
+<p>Danfoss Power Solutions, a global manufacturer of fluid conveyance and hydraulic systems, plans to establish new operations in Marcy, New York, bringing up to 300 new jobs to the Mohawk Valley by the end of 2027.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/danfoss-power-solutions-to-establish-manufacturing-operations-in-marcy/">Danfoss Power Solutions to Establish Manufacturing Operations in Marcy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Element Six and Orbray Accelerate Wafer-Scale Single Crystal Diamond for Volume Production](https://www.semiconductor-digest.com/element-six-and-orbray-accelerate-wafer-scale-single-crystal-diamond-for-volume-production/?utm_source=rss&utm_medium=rss&utm_campaign=element-six-and-orbray-accelerate-wafer-scale-single-crystal-diamond-for-volume-production)
+**Published:** Tue, 16 Jun 2026 20:32:35 +0000
+
+<p>Today, Element Six (E6) and Orbray, both leaders in advanced materials, announced the next phase of their partnership, building on a joint vision to deliver wafer-scale single crystal diamond (WSC) for next-generation applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/element-six-and-orbray-accelerate-wafer-scale-single-crystal-diamond-for-volume-production/">Element Six and Orbray Accelerate Wafer-Scale Single Crystal Diamond for Volume Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [How Manufacturing Can Solve Quantum’s Greatest Test](https://www.semiconductor-digest.com/how-manufacturing-can-solve-quantums-greatest-test/?utm_source=rss&utm_medium=rss&utm_campaign=how-manufacturing-can-solve-quantums-greatest-test)
 **Published:** Tue, 16 Jun 2026 15:22:40 +0000
 
@@ -58,19 +74,19 @@ _Last updated: 2026-06-16 19:49 UTC_
 
 ---
 
-## [Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays](https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/?utm_source=rss&utm_medium=rss&utm_campaign=unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays)
-**Published:** Tue, 16 Jun 2026 14:59:11 +0000
-
-<p>An integrated process control solution tailored for high-volume manufacturing of surface relief gratings (SRGs) addresses the metrology challenges of scaling AR/MR waveguide production from development to mass-market volumes. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/">Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp](https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp)
 **Published:** Tue, 16 Jun 2026 14:59:11 +0000
 
 <p>Rather than relying on fixed metrology sampling schedules, a Cpk-based adaptive sampling framework deploys a responsive, risk-aware system that dynamically allocates metrology capacity based on real-time statistical evidence, enabling faster yield ramp without sacrificing quality. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/">AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays](https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/?utm_source=rss&utm_medium=rss&utm_campaign=unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays)
+**Published:** Tue, 16 Jun 2026 14:59:11 +0000
+
+<p>An integrated process control solution tailored for high-volume manufacturing of surface relief gratings (SRGs) addresses the metrology challenges of scaling AR/MR waveguide production from development to mass-market volumes. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/">Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -815,22 +831,6 @@ _Last updated: 2026-06-16 19:49 UTC_
 
 <p>Engineering faculty will pursue development of wide/ultrawide bandgap semiconductors for use in harsh environments, to improve communications and more.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/texas-tech-receives-4-5-million-grant-to-advance-semiconductor-research/">Texas Tech Receives $4.5 Million Grant to Advance Semiconductor Research</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI FlexTech Solicits Proposals for  Advancing the Future of Flexible Hybrid Electronics](https://www.semiconductor-digest.com/semi-flextech-solicits-proposals-for-advancing-the-future-of-flexible-hybrid-electronics-2/?utm_source=rss&utm_medium=rss&utm_campaign=semi-flextech-solicits-proposals-for-advancing-the-future-of-flexible-hybrid-electronics-2)
-**Published:** Tue, 19 May 2026 20:07:47 +0000
-
-<p>FlexTech, a SEMI Technology Coalition, today issued a request for proposals (RFP) to advance flexible hybrid electronics (FHE) technologies, including the development of advanced materials and additive processing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-flextech-solicits-proposals-for-advancing-the-future-of-flexible-hybrid-electronics-2/">SEMI FlexTech Solicits Proposals for  Advancing the Future of Flexible Hybrid Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [EV Group Highlights Hybrid Bonding, Layer Transfer and Maskless Lithography Technologies for Heterogeneous Integration and Advanced Packaging at ECTC 2026](https://www.semiconductor-digest.com/ev-group-highlights-hybrid-bonding-layer-transfer-and-maskless-lithography-technologies-for-heterogeneous-integration-and-advanced-packaging-at-ectc-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-highlights-hybrid-bonding-layer-transfer-and-maskless-lithography-technologies-for-heterogeneous-integration-and-advanced-packaging-at-ectc-2026)
-**Published:** Tue, 19 May 2026 20:00:47 +0000
-
-<p>EV Group today announced that it will showcase its latest solutions for heterogeneous integration and advanced packaging at the 2026 IEEE Electronic Components and Technology Conference (ECTC), taking place May 26-29 in Orlando, Fla.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ev-group-highlights-hybrid-bonding-layer-transfer-and-maskless-lithography-technologies-for-heterogeneous-integration-and-advanced-packaging-at-ectc-2026/">EV Group Highlights Hybrid Bonding, Layer Transfer and Maskless Lithography Technologies for Heterogeneous Integration and Advanced Packaging at ECTC 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
