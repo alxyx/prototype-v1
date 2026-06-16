@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-16 04:23 UTC_
+_Last updated: 2026-06-16 19:49 UTC_
 
 ## [Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development](https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/)
 **Published:** Tue, 16 Jun 2026 02:20:52 +0000
@@ -31,6 +31,54 @@ _Last updated: 2026-06-16 04:23 UTC_
 
 <p>QBit is strengthening its ASIC design services by acquiring a majority stake in Singapore-based IC design services firm SinChip.</p>
 <p>The post <a href="https://www.eetasia.com/qbit-expands-asic-ambitions-with-majority-acquisition-of-singapore-based-sinchip/">QBit Expands ASIC Ambitions with Majority Acquisition of Singapore-Based SinChip</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [How Manufacturing Can Solve Quantum’s Greatest Test](https://www.semiconductor-digest.com/how-manufacturing-can-solve-quantums-greatest-test/?utm_source=rss&utm_medium=rss&utm_campaign=how-manufacturing-can-solve-quantums-greatest-test)
+**Published:** Tue, 16 Jun 2026 15:22:40 +0000
+
+<p>Quantum computing’s transition from research curiosity to manufacturable technology depends on solving fundamental materials and process challenges that demand the full rigor and discipline of high-volume semiconductor manufacturing expertise. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/how-manufacturing-can-solve-quantums-greatest-test/">How Manufacturing Can Solve Quantum&#8217;s Greatest Test</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Trust is the New Fabric of the Semiconductor Supply Chain](https://www.semiconductor-digest.com/trust-is-the-new-fabric-of-the-semiconductor-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=trust-is-the-new-fabric-of-the-semiconductor-supply-chain)
+**Published:** Tue, 16 Jun 2026 15:12:28 +0000
+
+<p> As geopolitical tensions and supply chain disruptions reshape the semiconductor industry, trust — across customers, partners, and governments — is emerging as the essential foundation for a resilient and competitive supply chain. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/trust-is-the-new-fabric-of-the-semiconductor-supply-chain/">Trust is the New Fabric of the Semiconductor Supply Chain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Scaling Hardware Validation for AI Infrastructure](https://www.semiconductor-digest.com/scaling-hardware-validation-for-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=scaling-hardware-validation-for-ai-infrastructure)
+**Published:** Tue, 16 Jun 2026 14:59:12 +0000
+
+<p>The Hardware Abstraction-based Validation Suite (HAVS) model decouples validation logic from specific hardware platforms, enabling reusable and scalable validation infrastructure as AI hardware complexity and platform diversity continue to grow. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/scaling-hardware-validation-for-ai-infrastructure/">Scaling Hardware Validation for AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays](https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/?utm_source=rss&utm_medium=rss&utm_campaign=unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays)
+**Published:** Tue, 16 Jun 2026 14:59:11 +0000
+
+<p>An integrated process control solution tailored for high-volume manufacturing of surface relief gratings (SRGs) addresses the metrology challenges of scaling AR/MR waveguide production from development to mass-market volumes. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/">Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp](https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp)
+**Published:** Tue, 16 Jun 2026 14:59:11 +0000
+
+<p>Rather than relying on fixed metrology sampling schedules, a Cpk-based adaptive sampling framework deploys a responsive, risk-aware system that dynamically allocates metrology capacity based on real-time statistical evidence, enabling faster yield ramp without sacrificing quality. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/">AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Meeting 2nm Node Challenges: Overcoming Scaling Limits Through High NA EUV and Ecosystem Collaboration](https://www.semiconductor-digest.com/meeting-2nm-node-challenges-overcoming-scaling-limits-through-high-na-euv-and-ecosystem-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=meeting-2nm-node-challenges-overcoming-scaling-limits-through-high-na-euv-and-ecosystem-collaboration)
+**Published:** Tue, 16 Jun 2026 12:59:00 +0000
+
+<p>Achieving the 2nm node demands more than advanced lithography — it requires coordinated ecosystem collaboration across tool suppliers, materials companies, research institutions, and government investment to address interconnected scaling barriers. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/meeting-2nm-node-challenges-overcoming-scaling-limits-through-high-na-euv-and-ecosystem-collaboration/">Meeting 2nm Node Challenges: Overcoming Scaling Limits Through High NA EUV and Ecosystem Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -138,19 +186,19 @@ _Last updated: 2026-06-16 04:23 UTC_
 
 ---
 
-## [Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance](https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/?utm_source=rss&utm_medium=rss&utm_campaign=silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance)
-**Published:** Thu, 11 Jun 2026 13:16:50 +0000
-
-<p>Silicone-based thermal interface materials (TIMs), particularly thermally conductive compounds and gels, offer material properties and performance characteristics that are well-suited to today’s data center applications. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/">Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design](https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design)
 **Published:** Thu, 11 Jun 2026 13:16:50 +0000
 
 <p>Q&#038;A with Senior ASIC engineer Adarsh Mittal.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/">Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance](https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/?utm_source=rss&utm_medium=rss&utm_campaign=silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance)
+**Published:** Thu, 11 Jun 2026 13:16:50 +0000
+
+<p>Silicone-based thermal interface materials (TIMs), particularly thermally conductive compounds and gels, offer material properties and performance characteristics that are well-suited to today’s data center applications. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/">Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -786,51 +834,43 @@ _Last updated: 2026-06-16 04:23 UTC_
 
 ---
 
-## [Imec Expands the Global Footprint of imec.ventures with a Dedicated US Presence](https://www.semiconductor-digest.com/imec-expands-the-global-footprint-of-imec-ventures-with-a-dedicated-us-presence/?utm_source=rss&utm_medium=rss&utm_campaign=imec-expands-the-global-footprint-of-imec-ventures-with-a-dedicated-us-presence)
-**Published:** Tue, 19 May 2026 19:47:40 +0000
+## [PCIM 2026: onsemi’s Antoine Jalabert on the GaNEXUS Launch and the Push into GaN](https://www.powerelectronicsnews.com/pcim-2026-onsemis-antoine-jalabert-on-the-ganexus-launch-and-the-push-into-gan/)
+**Published:** Tue, 16 Jun 2026 19:16:22 +0000
 
-<p>Supporting the creation and scaling of semiconductor deeptech ventures worldwide.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/imec-expands-the-global-footprint-of-imec-ventures-with-a-dedicated-us-presence/">Imec Expands the Global Footprint of imec.ventures with a Dedicated US Presence</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TSMC Board Approves US$31.3 Billion Capital Appropriation](https://www.semiconductor-digest.com/tsmc-board-approves-us31-3-billion-capital-appropriation-greenlights-additional-us20-billion-injection-into-arizona/?utm_source=rss&utm_medium=rss&utm_campaign=tsmc-board-approves-us31-3-billion-capital-appropriation-greenlights-additional-us20-billion-injection-into-arizona)
-**Published:** Tue, 19 May 2026 14:46:46 +0000
-
-<p>TSMC said its Board of Directors has approved capital appropriations of approximately US$31.28 billion to fund advanced technology capacity, fab construction, and fab facility systems, in one of the largest single-meeting capital authorizations in the foundry's history.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tsmc-board-approves-us31-3-billion-capital-appropriation-greenlights-additional-us20-billion-injection-into-arizona/">TSMC Board Approves US$31.3 Billion Capital Appropriation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/Snapshot.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>At PCIM 2026, onsemi's Antoine Jalabert discusses the GaNEXUS launch and the company's broader push into lateral GaN.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/pcim-2026-onsemis-antoine-jalabert-on-the-ganexus-launch-and-the-push-into-gan/">PCIM 2026: onsemi&#8217;s Antoine Jalabert on the GaNEXUS Launch and the Push into GaN</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Tata Electronics and ASML Announce Strategic Partnership](https://www.semiconductor-digest.com/tata-electronics-and-asml-announce-strategic-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=tata-electronics-and-asml-announce-strategic-partnership)
-**Published:** Tue, 19 May 2026 14:33:22 +0000
+## [PowerUP Circuit Lab: ADI’s EVAL-LT7170-1-AZ Evaluation Board](https://www.powerelectronicsnews.com/powerup-circuit-lab-adis-eval-lt7170-1-az-evaluation-board/)
+**Published:** Tue, 16 Jun 2026 19:15:16 +0000
 
-<p>Tata Electronics, a pioneering leader in India’s electronics and semiconductor manufacturing sector, and ASML, one of the world’s leading semiconductor equipment manufacturing companies, today, announced the signing of a Memorandum of Understanding (MoU) to advance the semiconductor manufacturing ecosystem in India.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tata-electronics-and-asml-announce-strategic-partnership/">Tata Electronics and ASML Announce Strategic Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Fraunhofer IPMS Develops High-Density Chiplet Systems at the Wafer Level](https://www.semiconductor-digest.com/fraunhofer-ipms-develops-high-density-chiplet-systems-at-the-wafer-level/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-ipms-develops-high-density-chiplet-systems-at-the-wafer-level)
-**Published:** Tue, 19 May 2026 14:28:10 +0000
-
-<p>As part of the European APECS pilot line, researchers at Fraunhofer Institute for Photonic Microsystems IPMS have developed a method that allows different chip components to be fused almost seamlessly into a single unit. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/fraunhofer-ipms-develops-high-density-chiplet-systems-at-the-wafer-level/">Fraunhofer IPMS Develops High-Density Chiplet Systems at the Wafer Level</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/YouTube-Thumbnail.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>A walkthrough of the LT7170-1 dual-phase POL converter, covering accuracy, EMI, transient response, and PMBus monitoring for FPGAs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/powerup-circuit-lab-adis-eval-lt7170-1-az-evaluation-board/">PowerUP Circuit Lab: ADI&#8217;s EVAL-LT7170-1-AZ Evaluation Board</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Alpha and Omega Semiconductor Unveils Total Power Solution for Next-Gen Intel Panther Lake and Wildcat Lake Platforms](https://www.semiconductor-digest.com/alpha-and-omega-semiconductor-unveils-total-power-solution-for-next-gen-intel-panther-lake-and-wildcat-lake-platforms/?utm_source=rss&utm_medium=rss&utm_campaign=alpha-and-omega-semiconductor-unveils-total-power-solution-for-next-gen-intel-panther-lake-and-wildcat-lake-platforms)
-**Published:** Mon, 18 May 2026 18:25:21 +0000
+## [Skyworks Introduces Si829x Isolated Gate Driver Platform](https://www.powerelectronicsnews.com/skyworks-introduces-si829x-isolated-gate-driver-platform/)
+**Published:** Tue, 16 Jun 2026 13:00:00 +0000
 
-<p>Alpha and Omega Semiconductor Limited today announced a new family of digital multiphase controllers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/alpha-and-omega-semiconductor-unveils-total-power-solution-for-next-gen-intel-panther-lake-and-wildcat-lake-platforms/">Alpha and Omega Semiconductor Unveils Total Power Solution for Next-Gen Intel Panther Lake and Wildcat Lake Platforms</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Skyworks Introduces Si829x Isolated Gate Driver Platform." class="webfeedsFeaturedVisual wp-post-image" height="200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/20260609-PCIM-PR-tile.png?fit=310%2C200" style="display: block; margin-bottom: 5px; clear: both;" width="310" /><p>Designed for ASIL D systems, the solution supports both SiC and IGBT power stages while simplifying inverter development.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/skyworks-introduces-si829x-isolated-gate-driver-platform/">Skyworks Introduces Si829x Isolated Gate Driver Platform</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Gradiant Announces Series E Financing at $2 Billion Valuation to Accelerate Expansion in AI, Semiconductors, and Industrial Water Infrastructure](https://www.semiconductor-digest.com/gradiant-announces-series-e-financing-at-2-billion-valuation-to-accelerate-expansion-in-ai-semiconductors-and-industrial-water-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=gradiant-announces-series-e-financing-at-2-billion-valuation-to-accelerate-expansion-in-ai-semiconductors-and-industrial-water-infrastructure)
-**Published:** Mon, 18 May 2026 18:19:03 +0000
+## [QSPICE’s Native Python Socket API: Real-Time Co-Simulation for Power, Analog and Mixed-Signal Designers](https://www.powerelectronicsnews.com/qspices-native-python-socket-api-real-time-co-simulation-for-power-analog-and-mixed-signal-designers/)
+**Published:** Tue, 16 Jun 2026 13:00:00 +0000
 
-<p>New investment supports strategic M&#038;A, next-generation R&#038;D, and IPO readiness as Gradiant experiences record growth driven by AI infrastructure and advanced manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/gradiant-announces-series-e-financing-at-2-billion-valuation-to-accelerate-expansion-in-ai-semiconductors-and-industrial-water-infrastructure/">Gradiant Announces Series E Financing at $2 Billion Valuation to Accelerate Expansion in AI, Semiconductors, and Industrial Water Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1732" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/QSPICE-Native-Integrtation.jpg?fit=2814%2C1732" style="display: block; margin-bottom: 5px; clear: both;" width="2814" /><p>For power engineers, Python has become the default glue language for automation, data analysis, and algorithm development. In the meantime, QSPICE has emerged as a...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/qspices-native-python-socket-api-real-time-co-simulation-for-power-analog-and-mixed-signal-designers/">QSPICE’s Native Python Socket API: Real-Time Co-Simulation for Power, Analog and Mixed-Signal Designers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Nexperia Introduces New Industrial-Grade 650V GaN FETs](https://www.powerelectronicsnews.com/nexperia-introduces-new-industrial-grade-650v-gan-fets/)
+**Published:** Tue, 16 Jun 2026 11:00:00 +0000
+
+<img alt="Nexperia Introduces New Industrial-Grade 650V GaN FETs." class="webfeedsFeaturedVisual wp-post-image" height="1050" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/NEX2603_I117_PR-image-GaN-release.jpg?fit=1470%2C1050" style="display: block; margin-bottom: 5px; clear: both;" width="1470" /><p>The new device options provide greater design flexibility for optimizing efficiency, thermal performance and power density.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/nexperia-introduces-new-industrial-grade-650v-gan-fets/">Nexperia Introduces New Industrial-Grade 650V GaN FETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -874,43 +914,11 @@ _Last updated: 2026-06-16 04:23 UTC_
 
 ---
 
-## [onsemi Launches GaNEXUS GaN Power Portfolio](https://www.powerelectronicsnews.com/onsemi-launches-ganexus-gan-power-portfolio/)
-**Published:** Mon, 15 Jun 2026 13:23:57 +0000
+## [SiMa Launches Agentic Development Environment for Physical AI](https://www.eetimes.com/sima-launches-agentic-development-environment-for-physical-ai/)
+**Published:** Tue, 16 Jun 2026 17:50:36 +0000
 
-<img alt="onsemi Launches GaNEXUS GaN Power Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="628" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/onsemi-GaNEXUS-1200_E2_80_8A_C3_97_E2_80_8A628px.png?fit=1200%2C628" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new GaN devices support compact power architectures with lower losses, improved thermal performance and easier integration.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/onsemi-launches-ganexus-gan-power-portfolio/">onsemi Launches GaNEXUS GaN Power Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [800 VDC Power Architecture in AI Data Centers, TSMC Europe Technology Symposium, SiC-Based Power Modules: Power Electronics Week Insights](https://www.powerelectronicsnews.com/800-vdc-power-architecture-in-ai-data-centers-tsmc-europe-technology-symposium-sic-based-power-modules-power-electronics-week-insights/)
-**Published:** Fri, 12 Jun 2026 14:36:34 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on 800 VDC Power Architecture in AI Data Centers, TSMC Europe Technology Symposium, and SiC-Based Power Modules!</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/800-vdc-power-architecture-in-ai-data-centers-tsmc-europe-technology-symposium-sic-based-power-modules-power-electronics-week-insights/">800 VDC Power Architecture in AI Data Centers, TSMC Europe Technology Symposium, SiC-Based Power Modules: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Why 800 VDC Power Distribution is Gaining Traction in AI Data Centers](https://www.powerelectronicsnews.com/why-800-vdc-power-distribution-is-gaining-traction-in-ai-data-centers/)
-**Published:** Fri, 12 Jun 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/image_f14fd0.jpeg?fit=800%2C600" style="display: block; margin-bottom: 5px; clear: both;" width="800" /><p>800 VDC promises 157% more power through the same copper cross-section, but standards, connectors, and SSTs must catch up.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/why-800-vdc-power-distribution-is-gaining-traction-in-ai-data-centers/">Why 800 VDC Power Distribution is Gaining Traction in AI Data Centers </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Murata Introduces Compact 2.2µF 100V Soft-Termination MLCC](https://www.powerelectronicsnews.com/murata-introduces-compact-2-2%c2%b5f-100v-soft-termination-mlcc/)
-**Published:** Fri, 12 Jun 2026 13:00:00 +0000
-
-<img alt="Murata Introduces Compact 2.2µF 100V Soft-Termination MLCC." class="webfeedsFeaturedVisual wp-post-image" height="200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/MLCC_Mobility_PR_Image_300x200.png?fit=300%2C200" style="display: block; margin-bottom: 5px; clear: both;" width="300" /><p>The new automotive MLCC combines 2.2µF capacitance and 100V rating in a compact 0805 package with enhanced reliability.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/murata-introduces-compact-2-2%c2%b5f-100v-soft-termination-mlcc/">Murata Introduces Compact 2.2µF 100V Soft-Termination MLCC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Power Corner: Ferric CEO Noah Sturcken on the Fe1766, BEOL Integration, and the Input Voltage Roadmap](https://www.powerelectronicsnews.com/power-corner-ferric-ceo-noah-sturcken-on-the-fe1766-beol-integration-and-the-input-voltage-roadmap/)
-**Published:** Thu, 11 Jun 2026 13:00:00 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/05/Ferric-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Noah Sturcken details how Ferric's on-die thin-film magnetics deliver 89% efficiency and 10 MHz control bandwidth for AI compute.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-ferric-ceo-noah-sturcken-on-the-fe1766-beol-integration-and-the-input-voltage-roadmap/">Power Corner: Ferric CEO Noah Sturcken on the Fe1766, BEOL Integration, and the Input Voltage Roadmap</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Edge AI chip company said it can speed up engineer productivity when transferring to its hardware from months to hours.</p>
+<p>The post <a href="https://www.eetimes.com/sima-launches-agentic-development-environment-for-physical-ai/">SiMa Launches Agentic Development Environment for Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -938,48 +946,17 @@ _Last updated: 2026-06-16 04:23 UTC_
 
 ---
 
-## [PEAK Goes Automotive Ethernet: PAE-Media Converter connects 100/1000BASE-T1 with Standard Ethernet](https://www.eetimes.com/peak-goes-automotive-ethernet-pae-media-converter-connects-100-1000base-t1-with-standard-ethernet/)
-**Published:** Fri, 12 Jun 2026 17:01:05 +0000
+## [AI Design Tools for Faster 2nm Chip Development](https://www.electronicsforu.com/news/ai-design-tools-for-faster-2nm-chip-development)
+**Published:** Tue, 16 Jun 2026 06:09:29 +0000
 
-<p>Unique Features for Automotive Testing The PAE-Media Converter addresses crucial market challenges in automotive development and validation with three core innovations. It enables realistic fault simulation by allowing physical interruption of the Automotive Ethernet link. This can be triggered directly on the device or via an API, supporting reproducible and controlled test scenarios. “We empower [&#8230;]</p>
-<p>The post <a href="https://www.eetimes.com/peak-goes-automotive-ethernet-pae-media-converter-connects-100-1000base-t1-with-standard-ethernet/">PEAK Goes Automotive Ethernet: PAE-Media Converter connects 100/1000BASE-T1 with Standard Ethernet</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Rapidus signs MoU with UKSC](https://www.electronicsweekly.com/news/business/rapidus-signs-mou-with-uksc-2026-06/)
-**Published:** Mon, 15 Jun 2026 12:30:30 +0000
-
-<p>Rapidus, the Japanese initiative targetting 2nm process technology, has signed an MoU with the UK Semiconductor Centre (UKSC) covering future semiconductor manufacturing. In January 2026, the leaders of Japan and ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/rapidus-signs-mou-with-uksc-2026-06/">Rapidus signs MoU with UKSC</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/RaadsPanel_20251211-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Can AI help engineers design chips faster? A new set of tools can create RTL code, check designs, estimate power and performance, and reduce development time. Rapidus Corporation has announced a suite of AI-based design tools aimed at supporting semiconductor development for its 2nm manufacturing platform. The tools will roll out under the company’s Rapid [&#8230;]
 
 ---
 
-## [IQE and Tower sign InP epiwafer supply deal](https://www.electronicsweekly.com/news/business/iqe-and-tower-sign-inp-epiwafer-supply-deal-2026-06/)
-**Published:** Mon, 15 Jun 2026 07:03:06 +0000
+## [Teaching AI Physics to Solve a Growing Chip Problem](https://www.electronicsforu.com/tech-zone/ai-ml-tech/teaching-ai-physics-to-solve-a-growing-chip-problem)
+**Published:** Mon, 15 Jun 2026 09:44:08 +0000
 
-<p>IQE and Tower Semiconductor have signed a multi-year agreement for the supply of Indium Phosphide (InP) epiwafers for optical connectivity applications serving AI-driven data centre infrastructure. IQE&#8217;s InP epiwafers will ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/iqe-and-tower-sign-inp-epiwafer-supply-deal-2026-06/">IQE and Tower sign InP epiwafer supply deal</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Physical AI Bed Learns Body Pressure in Real Time](https://www.electronicsforu.com/news/physical-ai-bed-learns-body-pressure-in-real-time)
-**Published:** Mon, 15 Jun 2026 07:26:45 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/db238243-4907-4ce1-a124-3ea2a3ca8f08_1042x1372-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A physical AI system maps human pressure in real time, enabling beds and chairs that adapt posture, movement, and comfort continuously. How? Water Robotics, a deeptech startup focused on physical AI systems, is developing a computing platform that interprets human body pressure in real time and adapts the surfaces people interact with every day. Built [&#8230;]
-
----
-
-## [Chipmaking Technologies Target 2nm Designs](https://www.electronicsforu.com/news/chipmaking-technologies-target-2nm-designs)
-**Published:** Mon, 15 Jun 2026 06:02:54 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/applied-materials-gaa-image-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What happens when transistor dimensions approach atomic limits? New chipmaking technologies are helping improve AI chip performance and efficiency. Applied Materials has introduced three new semiconductor manufacturing systems designed to improve transistor performance and power efficiency at the 2nm node and beyond, addressing key challenges as the industry transitions to Gate-All-Around (GAA) transistor architectures for [&#8230;]
-
----
-
-## [AI Tools Expand Support for Advanced Chip Design](https://www.electronicsforu.com/news/ai-tools-expand-support-for-advanced-chip-design)
-**Published:** Mon, 15 Jun 2026 05:43:53 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/thumbnail-synopsys-samsung-safe-2026-news-graphic-1600x900-2-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Building AI and 3D chips is getting harder. New design, test, and IP tools aim to reduce complexity and speed development. Synopsys has expanded its portfolio of AI-powered chip design, verification, testing, and IP solutions for Samsung Foundry&#8217;s latest process technologies, helping semiconductor companies develop AI, high-performance computing (HPC), and multi-die chips faster while improving [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/SarahOsentoski_Vinci-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What happens when the data centres powering AI begin running too hot? One startup believes the answer lies in teaching AI physics. As artificial intelligence fuels demand for faster and more powerful processors, it is also creating a challenge that many in the semiconductor industry are racing to solve: heat. How does Vinci4D.ai, a California-based [&#8230;]
 
 ---
 
