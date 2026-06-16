@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-15 23:58 UTC_
+_Last updated: 2026-06-16 04:23 UTC_
+
+## [Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development](https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/)
+**Published:** Tue, 16 Jun 2026 02:20:52 +0000
+
+<p>Expanded multi-year collaboration combines AI-driven design tools and process technology to optimize future semiconductor designs.</p>
+<p>The post <a href="https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/">Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q 2026](https://www.eetasia.com/semiconductor-market-surpasses-300b-quarterly-revenue-in-1q-2026/)
 **Published:** Mon, 15 Jun 2026 02:46:56 +0000
