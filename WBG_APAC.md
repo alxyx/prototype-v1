@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-17 12:01 UTC_
+_Last updated: 2026-06-17 15:43 UTC_
 
 ## [Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development](https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/)
 **Published:** Tue, 16 Jun 2026 02:20:52 +0000
@@ -31,6 +31,22 @@ _Last updated: 2026-06-17 12:01 UTC_
 
 <p>Infineon and Siemens are partnering to advance electrical protection and ensure reliable operations in data centers, production facilities and battery storage systems.</p>
 <p>The post <a href="https://www.eetasia.com/infineon-and-siemens-leverage-sic-tech-to-advance-electrical-protection-in-data-centers-factories/">Infineon and Siemens Leverage SiC Tech to Advance Electrical Protection in Data Centers, Factories</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Strategic Utility Space Planning in High-Tech Facilities: Navigating Complexity and Uncertainty in Advanced Construction](https://www.semiconductor-digest.com/strategic-utility-space-planning-in-high-tech-facilities-navigating-complexity-and-uncertainty-in-advanced-construction/?utm_source=rss&utm_medium=rss&utm_campaign=strategic-utility-space-planning-in-high-tech-facilities-navigating-complexity-and-uncertainty-in-advanced-construction)
+**Published:** Wed, 17 Jun 2026 14:59:12 +0000
+
+<p>In fast-track high-tech facility projects where MEP backbone design must begin before tool requirements are finalized, a strategic spatial planning methodology bridges the gap between Base Build and Tool Install phases — converting potential conflicts into deliberate spatial strategy. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/strategic-utility-space-planning-in-high-tech-facilities-navigating-complexity-and-uncertainty-in-advanced-construction/">Strategic Utility Space Planning in High-Tech Facilities: Navigating Complexity and Uncertainty in Advanced Construction</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Production Evaluation of 255 nm UV LEDs as a Replacement for Mercury Lamps for Wafer Edge Exposure Processes](https://www.semiconductor-digest.com/production-evaluation-of-255-nm-uv-leds-as-a-replacement-for-mercury-lamps-for-wafer-edge-exposure-processes/?utm_source=rss&utm_medium=rss&utm_campaign=production-evaluation-of-255-nm-uv-leds-as-a-replacement-for-mercury-lamps-for-wafer-edge-exposure-processes)
+**Published:** Wed, 17 Jun 2026 14:59:11 +0000
+
+<p>A 255 nm UV LED array is evaluated as a direct replacement for a 248.7 nm mercury lamp in a production wafer edge exposure system, with results addressing performance, cost, and process compatibility in a real manufacturing environment. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/production-evaluation-of-255-nm-uv-leds-as-a-replacement-for-mercury-lamps-for-wafer-edge-exposure-processes/">Production Evaluation of 255 nm UV LEDs as a Replacement for Mercury Lamps for Wafer Edge Exposure Processes</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -818,19 +834,19 @@ _Last updated: 2026-06-17 12:01 UTC_
 
 ---
 
-## [Chips Act II: European Start-ups Need Faster Funding and Less Red Tape, Investor Says](https://www.semiconductor-digest.com/chips-act-ii-european-start-ups-need-faster-funding-and-less-red-tape-investor-says/?utm_source=rss&utm_medium=rss&utm_campaign=chips-act-ii-european-start-ups-need-faster-funding-and-less-red-tape-investor-says)
-**Published:** Wed, 20 May 2026 16:39:02 +0000
+## [Taiwan Semi Introduces Automotive-Grade TQM MOSFET Series](https://www.powerelectronicsnews.com/taiwan-semi-introduces-automotive-grade-tqm-mosfet-series/)
+**Published:** Wed, 17 Jun 2026 13:00:00 +0000
 
-<p>The lack of growth-stage capital and slow commercialisation remain key issues for European start-ups in semiconductors, quantum and other deep tech sectors.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/chips-act-ii-european-start-ups-need-faster-funding-and-less-red-tape-investor-says/">Chips Act II: European Start-ups Need Faster Funding and Less Red Tape, Investor Says</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Taiwan Semi Introduces Automotive-Grade TQM MOSFET Series." class="webfeedsFeaturedVisual wp-post-image" height="258" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/PMD-PDFN56UPQ56-Single.jpg?fit=218%2C258" style="display: block; margin-bottom: 5px; clear: both;" width="218" /><p>The compact automotive MOSFETs improve thermal efficiency, simplify PCB assembly, and support high-reliability power conversion systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/taiwan-semi-introduces-automotive-grade-tqm-mosfet-series/">Taiwan Semi Introduces Automotive-Grade TQM MOSFET Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Texas Tech Receives $4.5 Million Grant to Advance Semiconductor Research](https://www.semiconductor-digest.com/texas-tech-receives-4-5-million-grant-to-advance-semiconductor-research/?utm_source=rss&utm_medium=rss&utm_campaign=texas-tech-receives-4-5-million-grant-to-advance-semiconductor-research)
-**Published:** Wed, 20 May 2026 16:33:40 +0000
+## [SiC JFETs, Bidirectional GaN, and Software Reinvent Solid-State Circuit Breakers for a New Era](https://www.powerelectronicsnews.com/sic-jfets-bidirectional-gan-and-software-reinvent-solid-state-circuit-breakers-for-a-new-era/)
+**Published:** Wed, 17 Jun 2026 13:00:00 +0000
 
-<p>Engineering faculty will pursue development of wide/ultrawide bandgap semiconductors for use in harsh environments, to improve communications and more.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/texas-tech-receives-4-5-million-grant-to-advance-semiconductor-research/">Texas Tech Receives $4.5 Million Grant to Advance Semiconductor Research</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3456" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/AdobeStock_433826106.jpeg?fit=5184%2C3456" style="display: block; margin-bottom: 5px; clear: both;" width="5184" /><p>onsemi, Infineon, and others advance SiC JFET-based SSCBs as DC architectures demand microsecond-level fault protection.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/sic-jfets-bidirectional-gan-and-software-reinvent-solid-state-circuit-breakers-for-a-new-era/">SiC JFETs, Bidirectional GaN, and Software Reinvent Solid-State Circuit Breakers for a New Era</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -898,19 +914,11 @@ _Last updated: 2026-06-17 12:01 UTC_
 
 ---
 
-## [Advanced Energy Unveils 800 VDC Converters for AI Data Centers](https://www.powerelectronicsnews.com/advanced-energy-unveils-800-vdc-converters-for-ai-data-centers/)
-**Published:** Mon, 15 Jun 2026 14:00:00 +0000
+## [Beyond Chiplets, CMOS 2.0 Moves Scaling into the Circuit](https://www.eetimes.com/beyond-chiplets-cmos-2-0-moves-scaling-into-the-circuit/)
+**Published:** Wed, 17 Jun 2026 12:47:44 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="450" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2025/09/DataCenterThumbnailNovemberBlog-1.jpg?fit=450%2C450" style="display: block; margin-bottom: 5px; clear: both;" width="450" /><p>The new DC-DC converters support the transition to 800 VDC AI infrastructure with high efficiency and power density.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/advanced-energy-unveils-800-vdc-converters-for-ai-data-centers/">Advanced Energy Unveils 800 VDC Converters for AI Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [TI Unveils BQ79826Z-Q1 Battery Monitor with Integrated EIS](https://www.powerelectronicsnews.com/ti-unveils-bq79826z-q1-battery-monitor-with-integrated-eis/)
-**Published:** Mon, 15 Jun 2026 13:24:34 +0000
-
-<img alt="TI Unveils BQ79826Z-Q1 Battery Monitor with Integrated EIS." class="webfeedsFeaturedVisual wp-post-image" height="2160" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/ti-battery-monitor-with-integrated-eis-engine.jpg?fit=3840%2C2160" style="display: block; margin-bottom: 5px; clear: both;" width="3840" /><p>Integrated EIS diagnostics provide real-time battery health insights, enabling earlier fault detection and improved system reliability.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/ti-unveils-bq79826z-q1-battery-monitor-with-integrated-eis/">TI Unveils BQ79826Z-Q1 Battery Monitor with Integrated EIS</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Imec’s Zsolt Tokei and Arm’s Mohamed Awad explain why CMOS 2.0 could redefine semiconductor scaling beyond chiplets.</p>
+<p>The post <a href="https://www.eetimes.com/beyond-chiplets-cmos-2-0-moves-scaling-into-the-circuit/">Beyond Chiplets, CMOS 2.0 Moves Scaling into the Circuit</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -919,22 +927,6 @@ _Last updated: 2026-06-17 12:01 UTC_
 
 <p>Edge AI chip company said it can speed up engineer productivity when transferring to its hardware from months to hours.</p>
 <p>The post <a href="https://www.eetimes.com/sima-launches-agentic-development-environment-for-physical-ai/">SiMa Launches Agentic Development Environment for Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Andy McLean: Rapidus MoU Will Help British Innovators Access 2-nm Technology](https://www.eetimes.com/andy-mclean-rapidus-mou-will-help-british-innovators-access-2-nm-technology/)
-**Published:** Mon, 15 Jun 2026 13:10:12 +0000
-
-<p>As the UK Semiconductor Centre signs an MoU with Rapidus, EE Times speaks exclusively with its new CEO, Andy McLean.</p>
-<p>The post <a href="https://www.eetimes.com/andy-mclean-rapidus-mou-will-help-british-innovators-access-2-nm-technology/">Andy McLean: Rapidus MoU Will Help British Innovators Access 2-nm Technology</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Power SiC market growing at 20% CAGR 2025-31 to $11bn](https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/)
-**Published:** Wed, 17 Jun 2026 05:19:20 +0000
-
-<p>The power SiC market is forecast to be worth $11 billion by 2031 growing at 20% CAGR between 2025 and 2031, fuelled by AI datacentres, 800V EVs, and renewable energy ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/">Power SiC market growing at 20% CAGR 2025-31 to $11bn</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
