@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-17 15:43 UTC_
+_Last updated: 2026-06-17 18:30 UTC_
 
 ## [Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development](https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/)
 **Published:** Tue, 16 Jun 2026 02:20:52 +0000
@@ -927,6 +927,14 @@ _Last updated: 2026-06-17 15:43 UTC_
 
 <p>Edge AI chip company said it can speed up engineer productivity when transferring to its hardware from months to hours.</p>
 <p>The post <a href="https://www.eetimes.com/sima-launches-agentic-development-environment-for-physical-ai/">SiMa Launches Agentic Development Environment for Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Power SiC market growing at 20% CAGR 2025-31 to $11bn](https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/)
+**Published:** Wed, 17 Jun 2026 05:19:20 +0000
+
+<p>The power SiC market is forecast to be worth $11 billion by 2031 growing at 20% CAGR between 2025 and 2031, fuelled by AI datacentres, 800V EVs, and renewable energy ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/">Power SiC market growing at 20% CAGR 2025-31 to $11bn</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
