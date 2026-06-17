@@ -1,12 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-17 06:25 UTC_
+_Last updated: 2026-06-17 12:01 UTC_
 
 ## [Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development](https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/)
 **Published:** Tue, 16 Jun 2026 02:20:52 +0000
 
 <p>Expanded multi-year collaboration combines AI-driven design tools and process technology to optimize future semiconductor designs.</p>
 <p>The post <a href="https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/">Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Oxford Instruments Enables ROHM’s In-house GaN Manufacturing with Advanced Etch Technology for 200mm Production](https://www.eetasia.com/oxford-instruments-enables-rohms-in-house-gan-manufacturing-with-advanced-etch-technology-for-200mm-production/)
+**Published:** Mon, 15 Jun 2026 23:10:56 +0000
+
+<p>Oxford Instruments is supporting ROHM as it transitions to 650V gallium nitride (GaN) power device manufacturing in-house.</p>
+<p>The post <a href="https://www.eetasia.com/oxford-instruments-enables-rohms-in-house-gan-manufacturing-with-advanced-etch-technology-for-200mm-production/">Oxford Instruments Enables ROHM&#8217;s In-house GaN Manufacturing with Advanced Etch Technology for 200mm Production</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -922,14 +930,6 @@ _Last updated: 2026-06-17 06:25 UTC_
 
 ---
 
-## [Imec Pushes Quantum Toward Manufacturable Silicon Systems](https://www.eetimes.com/imec-pushes-quantum-toward-manufacturable-silicon-systems/)
-**Published:** Mon, 15 Jun 2026 08:13:05 +0000
-
-<p>Imec says advanced lithography and semiconductor integration techniques may help scale silicon spin qubits toward manufacturable quantum systems.</p>
-<p>The post <a href="https://www.eetimes.com/imec-pushes-quantum-toward-manufacturable-silicon-systems/">Imec Pushes Quantum Toward Manufacturable Silicon Systems</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
 ## [Power SiC market growing at 20% CAGR 2025-31 to $11bn](https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/)
 **Published:** Wed, 17 Jun 2026 05:19:20 +0000
 
@@ -938,17 +938,31 @@ _Last updated: 2026-06-17 06:25 UTC_
 
 ---
 
-## [AI Design Tools for Faster 2nm Chip Development](https://www.electronicsforu.com/news/ai-design-tools-for-faster-2nm-chip-development)
-**Published:** Tue, 16 Jun 2026 06:09:29 +0000
+## [Diamond Breakthrough Could Reshape Future Quantum Chips](https://www.electronicsforu.com/news/diamond-breakthrough-could-reshape-future-quantum-chips)
+**Published:** Wed, 17 Jun 2026 07:05:42 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/RaadsPanel_20251211-150x150.webp" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Can AI help engineers design chips faster? A new set of tools can create RTL code, check designs, estimate power and performance, and reduce development time. Rapidus Corporation has announced a suite of AI-based design tools aimed at supporting semiconductor development for its 2nm manufacturing platform. The tools will roll out under the company’s Rapid [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/jd-dwivedi-psu-cqe-superconducting-diamond-1600x900-1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Scientists have uncovered hidden superconducting behaviour inside diamond, opening a path to multifunctional quantum chips that combine computing, sensing and communications. Researchers from the U.S. Department of Energy&#8217;s Argonne National Laboratory, Pennsylvania State University, and the University of Chicago have uncovered the physical mechanisms behind superconductivity in diamond, a discovery that could enable a new [&#8230;]
 
 ---
 
-## [Teaching AI Physics to Solve a Growing Chip Problem](https://www.electronicsforu.com/tech-zone/ai-ml-tech/teaching-ai-physics-to-solve-a-growing-chip-problem)
-**Published:** Mon, 15 Jun 2026 09:44:08 +0000
+## [Microchannel Cooling Technology Targets AI Heat Challenge](https://www.electronicsforu.com/news/microchannel-cooling-technology-targets-ai-heat-challenge)
+**Published:** Wed, 17 Jun 2026 06:59:11 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/SarahOsentoski_Vinci-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What happens when the data centres powering AI begin running too hot? One startup believes the answer lies in teaching AI physics. As artificial intelligence fuels demand for faster and more powerful processors, it is also creating a challenge that many in the semiconductor industry are racing to solve: heat. How does Vinci4D.ai, a California-based [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/a216a4c0-f466-4715-9354-ff7b1f894532-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Can microscopic water channels inside chips dramatically cut cooling energy while helping AI processors handle rising computational demands?  Researchers at the Korea Advanced Institute of Science and Technology (KAIST) have developed a liquid cooling technology designed to improve heat management in high performance semiconductors while significantly reducing the energy required for cooling. As AI workloads [&#8230;]
+
+---
+
+## [3.3 kV SiC Power Modules for Modern Grid Systems](https://www.electronicsforu.com/news/3-3-kv-sic-power-modules-for-modern-grid-systems)
+**Published:** Wed, 17 Jun 2026 06:30:30 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Screenshot-2026-06-17-101627-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new class of medium-voltage power modules has been introduced to support next-generation energy infrastructure, offering improved efficiency, compact system design, and enhanced reliability for high-power applications such as renewable integration, AI data centres, and advanced grid networks. Wolfspeed has introduced two new 3.3 kV silicon carbide (SiC) power module families designed to help energy [&#8230;]
+
+---
+
+## [Making Ultra-Thin Chip Materials Easier to Use](https://www.electronicsforu.com/news/making-ultra-thin-chip-materials-easier-to-use)
+**Published:** Wed, 17 Jun 2026 05:24:11 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/new-method-boosts-futu-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new process removes only the top atomic layer of chip materials, helping manufacturers build smaller transistors while reducing damage during production. Researchers in the U.S. Department of Energy’s Princeton Plasma Physics Laboratory (PPPL) have developed a method to remove only the top atomic layer of a material used in next-generation transistors while protecting the [&#8230;]
 
 ---
 
