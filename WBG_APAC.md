@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-16 22:24 UTC_
+_Last updated: 2026-06-17 06:25 UTC_
 
 ## [Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development](https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/)
 **Published:** Tue, 16 Jun 2026 02:20:52 +0000
@@ -23,14 +23,6 @@ _Last updated: 2026-06-16 22:24 UTC_
 
 <p>Infineon and Siemens are partnering to advance electrical protection and ensure reliable operations in data centers, production facilities and battery storage systems.</p>
 <p>The post <a href="https://www.eetasia.com/infineon-and-siemens-leverage-sic-tech-to-advance-electrical-protection-in-data-centers-factories/">Infineon and Siemens Leverage SiC Tech to Advance Electrical Protection in Data Centers, Factories</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [QBit Expands ASIC Ambitions with Majority Acquisition of Singapore-Based SinChip](https://www.eetasia.com/qbit-expands-asic-ambitions-with-majority-acquisition-of-singapore-based-sinchip/)
-**Published:** Mon, 15 Jun 2026 02:06:49 +0000
-
-<p>QBit is strengthening its ASIC design services by acquiring a majority stake in Singapore-based IC design services firm SinChip.</p>
-<p>The post <a href="https://www.eetasia.com/qbit-expands-asic-ambitions-with-majority-acquisition-of-singapore-based-sinchip/">QBit Expands ASIC Ambitions with Majority Acquisition of Singapore-Based SinChip</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -938,11 +930,11 @@ _Last updated: 2026-06-16 22:24 UTC_
 
 ---
 
-## [UCLA’s $125M Semiconductor Hub: “We Want High Impact, Not Incremental Research”](https://www.eetimes.com/uclas-125m-semiconductor-hub-we-want-high-impact-not-incremental-research/)
-**Published:** Fri, 12 Jun 2026 19:00:00 +0000
+## [Power SiC market growing at 20% CAGR 2025-31 to $11bn](https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/)
+**Published:** Wed, 17 Jun 2026 05:19:20 +0000
 
-<p>UCLA launches a $125M semiconductor hub to smash chip bottlenecks with AI research.</p>
-<p>The post <a href="https://www.eetimes.com/uclas-125m-semiconductor-hub-we-want-high-impact-not-incremental-research/">UCLA’s $125M Semiconductor Hub: “We Want High Impact, Not Incremental Research”</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+<p>The power SiC market is forecast to be worth $11 billion by 2031 growing at 20% CAGR between 2025 and 2031, fuelled by AI datacentres, 800V EVs, and renewable energy ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/">Power SiC market growing at 20% CAGR 2025-31 to $11bn</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
