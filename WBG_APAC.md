@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-17 18:30 UTC_
+_Last updated: 2026-06-17 23:38 UTC_
 
 ## [Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development](https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/)
 **Published:** Tue, 16 Jun 2026 02:20:52 +0000
@@ -31,6 +31,22 @@ _Last updated: 2026-06-17 18:30 UTC_
 
 <p>Infineon and Siemens are partnering to advance electrical protection and ensure reliable operations in data centers, production facilities and battery storage systems.</p>
 <p>The post <a href="https://www.eetasia.com/infineon-and-siemens-leverage-sic-tech-to-advance-electrical-protection-in-data-centers-factories/">Infineon and Siemens Leverage SiC Tech to Advance Electrical Protection in Data Centers, Factories</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Governor Shapiro Announces $30 Million Investment from Nokia](https://www.semiconductor-digest.com/governor-shapiro-announces-30-million-investment-from-nokia/?utm_source=rss&utm_medium=rss&utm_campaign=governor-shapiro-announces-30-million-investment-from-nokia)
+**Published:** Wed, 17 Jun 2026 20:10:26 +0000
+
+<p>The Commonwealth is investing over $3 million to support Nokia’s expansion in the Lehigh Valley, strengthening Pennsylvania’s role in a fast-growing industry critical to the development of advanced technology.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/governor-shapiro-announces-30-million-investment-from-nokia/">Governor Shapiro Announces $30 Million Investment from Nokia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Smart MedTech Initiative Identifies Obstacles and Opportunities to Scale Wearable Biosensors for Clinical Use](https://www.semiconductor-digest.com/semi-smart-medtech-initiative-identifies-obstacles-and-opportunities-to-scale-wearable-biosensors-for-clinical-use/?utm_source=rss&utm_medium=rss&utm_campaign=semi-smart-medtech-initiative-identifies-obstacles-and-opportunities-to-scale-wearable-biosensors-for-clinical-use)
+**Published:** Wed, 17 Jun 2026 20:08:15 +0000
+
+<p>Breakthroughs in semiconductor technologies and edge AI are accelerating the rapid advancement of wearable biosensors, but despite the pace of innovation, wearables still struggle to scale beyond everyday wellness into clinically accepted healthcare solutions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-smart-medtech-initiative-identifies-obstacles-and-opportunities-to-scale-wearable-biosensors-for-clinical-use/">SEMI Smart MedTech Initiative Identifies Obstacles and Opportunities to Scale Wearable Biosensors for Clinical Use</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -818,22 +834,6 @@ _Last updated: 2026-06-17 18:30 UTC_
 
 ---
 
-## [2026 IEEE Electronic Components and Technology Conference (ECTC) To Showcase the Latest Electronic Packaging Technologies](https://www.semiconductor-digest.com/2026-ieee-electronic-components-and-technology-conference-ectc-to-showcase-the-latest-electronic-packaging-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=2026-ieee-electronic-components-and-technology-conference-ectc-to-showcase-the-latest-electronic-packaging-technologies)
-**Published:** Wed, 20 May 2026 16:46:22 +0000
-
-<p>The 76th annual IEEE Electronic Components and Technology Conference (ECTC) will be held from May 26-29, 2026 at the JW Marriott &#038; The Ritz-Carlton Grande Lakes Resort, Orlando, Florida.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/2026-ieee-electronic-components-and-technology-conference-ectc-to-showcase-the-latest-electronic-packaging-technologies/">2026 IEEE Electronic Components and Technology Conference (ECTC) To Showcase the Latest Electronic Packaging Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [PFlow Industries Highlights VRCs for Semiconductor Manufacturing Environments](https://www.semiconductor-digest.com/pflow-industries-highlights-vrcs-for-semiconductor-manufacturing-environments-2/?utm_source=rss&utm_medium=rss&utm_campaign=pflow-industries-highlights-vrcs-for-semiconductor-manufacturing-environments-2)
-**Published:** Wed, 20 May 2026 16:42:16 +0000
-
-<p>PFlow Industries, the pioneer in vertical reciprocating conveyor (VRC) technology, highlights its VRCs, including the M Series and F Series, for the semiconductor industry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/pflow-industries-highlights-vrcs-for-semiconductor-manufacturing-environments-2/">PFlow Industries Highlights VRCs for Semiconductor Manufacturing Environments</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Taiwan Semi Introduces Automotive-Grade TQM MOSFET Series](https://www.powerelectronicsnews.com/taiwan-semi-introduces-automotive-grade-tqm-mosfet-series/)
 **Published:** Wed, 17 Jun 2026 13:00:00 +0000
 
@@ -927,14 +927,6 @@ _Last updated: 2026-06-17 18:30 UTC_
 
 <p>Edge AI chip company said it can speed up engineer productivity when transferring to its hardware from months to hours.</p>
 <p>The post <a href="https://www.eetimes.com/sima-launches-agentic-development-environment-for-physical-ai/">SiMa Launches Agentic Development Environment for Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Power SiC market growing at 20% CAGR 2025-31 to $11bn](https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/)
-**Published:** Wed, 17 Jun 2026 05:19:20 +0000
-
-<p>The power SiC market is forecast to be worth $11 billion by 2031 growing at 20% CAGR between 2025 and 2031, fuelled by AI datacentres, 800V EVs, and renewable energy ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/">Power SiC market growing at 20% CAGR 2025-31 to $11bn</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
