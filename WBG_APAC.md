@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-18 16:44 UTC_
+_Last updated: 2026-06-18 19:41 UTC_
 
 ## [CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation](https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/)
 **Published:** Thu, 18 Jun 2026 02:54:16 +0000
@@ -15,6 +15,30 @@ _Last updated: 2026-06-18 16:44 UTC_
 
 <p>WIN Semiconductors' 0.12μm gate-length GaN-on-SiC technology integrates multiple transistor improvements</p>
 <p>The post <a href="https://www.eetasia.com/win-semiconductors-launches-0-12%ce%bcm-gan-power-process-qualified-for-40v-operation/">WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [AI Investment Expected to Drive Semiconductor Industry Past $2 Trillion by 2027](https://www.semiconductor-digest.com/ai-investment-expected-to-drive-semiconductor-industry-past-2-trillion-by-2027/?utm_source=rss&utm_medium=rss&utm_campaign=ai-investment-expected-to-drive-semiconductor-industry-past-2-trillion-by-2027)
+**Published:** Thu, 18 Jun 2026 19:13:34 +0000
+
+<p>New analysis from TechInsights finds AI is fundamentally reshaping semiconductor economics, supply chains and technology development.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ai-investment-expected-to-drive-semiconductor-industry-past-2-trillion-by-2027/">AI Investment Expected to Drive Semiconductor Industry Past $2 Trillion by 2027</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Agile Analog Collaborates with Xiphera for Post-Quantum Cryptography Challenge](https://www.semiconductor-digest.com/agile-analog-collaborates-with-xiphera-for-post-quantum-cryptography-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=agile-analog-collaborates-with-xiphera-for-post-quantum-cryptography-challenge)
+**Published:** Thu, 18 Jun 2026 19:11:07 +0000
+
+<p>Combining analog security IP and digital cryptographic IP for comprehensive defense.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/agile-analog-collaborates-with-xiphera-for-post-quantum-cryptography-challenge/">Agile Analog Collaborates with Xiphera for Post-Quantum Cryptography Challenge</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Micron Selects Bechtel as Construction Partner for Historic New York Semiconductor Project](https://www.semiconductor-digest.com/micron-selects-bechtel-as-construction-partner-for-historic-new-york-semiconductor-project/?utm_source=rss&utm_medium=rss&utm_campaign=micron-selects-bechtel-as-construction-partner-for-historic-new-york-semiconductor-project)
+**Published:** Thu, 18 Jun 2026 19:09:04 +0000
+
+<p>Selection marks the next phase of construction on Micron’s New York project, expected to generate 50,000 jobs and strengthen America’s semiconductor supply chain.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-selects-bechtel-as-construction-partner-for-historic-new-york-semiconductor-project/">Micron Selects Bechtel as Construction Partner for Historic New York Semiconductor Project</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -791,30 +815,6 @@ _Last updated: 2026-06-18 16:44 UTC_
 
 <p>Today, IBM and the U.S. Department of Commerce (DoC) announced a Letter of Intent (LOI) to build an American quantum chip foundry, securing the nation's global quantum leadership and fueling the country's growing quantum ecosystem.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ibm-and-u-s-department-of-commerce-announce-americas-first-purpose-built-quantum-foundry-supported-by-proposed-1-billion-chips-award/">IBM and U.S. Department of Commerce Announce America&#8217;s First Purpose-Built Quantum Foundry, Supported by Proposed $1 Billion CHIPS Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Axion Semiconductor Acquires Moov Technologies](https://www.semiconductor-digest.com/axion-semiconductor-acquires-moov-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=axion-semiconductor-acquires-moov-technologies)
-**Published:** Thu, 21 May 2026 19:24:48 +0000
-
-<p>Axion Semiconductor, founded by semiconductor industry leaders Austin Gill, John Getchell and Jeff Robbins, acquires global semiconductor equipment marketplace Moov Technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/axion-semiconductor-acquires-moov-technologies/">Axion Semiconductor Acquires Moov Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Applied Energy Systems Receives Supplier Excellence Award from Applied Materials](https://www.semiconductor-digest.com/applied-energy-systems-receives-supplier-excellence-award-from-applied-materials/?utm_source=rss&utm_medium=rss&utm_campaign=applied-energy-systems-receives-supplier-excellence-award-from-applied-materials)
-**Published:** Thu, 21 May 2026 19:15:10 +0000
-
-<p>Applied Energy Systems has earned a Supplier Excellence Award from Applied Materials, Inc., the leader in materials engineering solutions for the semiconductor industry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/applied-energy-systems-receives-supplier-excellence-award-from-applied-materials/">Applied Energy Systems Receives Supplier Excellence Award from Applied Materials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Asahi Kasei Develops Novel Photosensitive Polyimide Film for Advanced Panel-Level Semiconductor Packaging](https://www.semiconductor-digest.com/asahi-kasei-develops-novel-photosensitive-polyimide-film-for-advanced-panel-level-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=asahi-kasei-develops-novel-photosensitive-polyimide-film-for-advanced-panel-level-semiconductor-packaging)
-**Published:** Thu, 21 May 2026 19:10:53 +0000
-
-<p>Panel-level packaging has gained momentum in the semiconductor industry as manufacturers pursue higher efficiency and improved yield that can support next-generation packaging processes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/asahi-kasei-develops-novel-photosensitive-polyimide-film-for-advanced-panel-level-semiconductor-packaging/">Asahi Kasei Develops Novel Photosensitive Polyimide Film for Advanced Panel-Level Semiconductor Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
