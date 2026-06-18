@@ -1,36 +1,20 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-17 23:38 UTC_
+_Last updated: 2026-06-18 04:12 UTC_
 
-## [Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development](https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/)
-**Published:** Tue, 16 Jun 2026 02:20:52 +0000
+## [CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation](https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/)
+**Published:** Thu, 18 Jun 2026 02:54:16 +0000
 
-<p>Expanded multi-year collaboration combines AI-driven design tools and process technology to optimize future semiconductor designs.</p>
-<p>The post <a href="https://www.eetasia.com/cadence-intel-foundry-expand-partnership-for-intel-14a-process-development/">Cadence, Intel Foundry Expand Partnership for Intel 14A Process Development</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Oxford Instruments Enables ROHM’s In-house GaN Manufacturing with Advanced Etch Technology for 200mm Production](https://www.eetasia.com/oxford-instruments-enables-rohms-in-house-gan-manufacturing-with-advanced-etch-technology-for-200mm-production/)
-**Published:** Mon, 15 Jun 2026 23:10:56 +0000
-
-<p>Oxford Instruments is supporting ROHM as it transitions to 650V gallium nitride (GaN) power device manufacturing in-house.</p>
-<p>The post <a href="https://www.eetasia.com/oxford-instruments-enables-rohms-in-house-gan-manufacturing-with-advanced-etch-technology-for-200mm-production/">Oxford Instruments Enables ROHM&#8217;s In-house GaN Manufacturing with Advanced Etch Technology for 200mm Production</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The MoU is aimed at establishing a strategic framework to accelerate innovation through simulation-led development and advanced digital engineering methodologies.</p>
+<p>The post <a href="https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/">CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
-## [Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q 2026](https://www.eetasia.com/semiconductor-market-surpasses-300b-quarterly-revenue-in-1q-2026/)
-**Published:** Mon, 15 Jun 2026 02:46:56 +0000
+## [WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation](https://www.eetasia.com/win-semiconductors-launches-0-12%ce%bcm-gan-power-process-qualified-for-40v-operation/)
+**Published:** Thu, 18 Jun 2026 02:28:53 +0000
 
-<p>Memory supply/demand imbalances continue to be among the leading trends in the semiconductor market, according to Omdia.</p>
-<p>The post <a href="https://www.eetasia.com/semiconductor-market-surpasses-300b-quarterly-revenue-in-1q-2026/">Semiconductor Market Surpasses $300B Quarterly Revenue in 1Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Infineon and Siemens Leverage SiC Tech to Advance Electrical Protection in Data Centers, Factories](https://www.eetasia.com/infineon-and-siemens-leverage-sic-tech-to-advance-electrical-protection-in-data-centers-factories/)
-**Published:** Mon, 15 Jun 2026 02:32:42 +0000
-
-<p>Infineon and Siemens are partnering to advance electrical protection and ensure reliable operations in data centers, production facilities and battery storage systems.</p>
-<p>The post <a href="https://www.eetasia.com/infineon-and-siemens-leverage-sic-tech-to-advance-electrical-protection-in-data-centers-factories/">Infineon and Siemens Leverage SiC Tech to Advance Electrical Protection in Data Centers, Factories</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>WIN Semiconductors' 0.12μm gate-length GaN-on-SiC technology integrates multiple transistor improvements</p>
+<p>The post <a href="https://www.eetasia.com/win-semiconductors-launches-0-12%ce%bcm-gan-power-process-qualified-for-40v-operation/">WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -927,6 +911,14 @@ _Last updated: 2026-06-17 23:38 UTC_
 
 <p>Edge AI chip company said it can speed up engineer productivity when transferring to its hardware from months to hours.</p>
 <p>The post <a href="https://www.eetimes.com/sima-launches-agentic-development-environment-for-physical-ai/">SiMa Launches Agentic Development Environment for Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
+
+---
+
+## [Power SiC market growing at 20% CAGR 2025-31 to $11bn](https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/)
+**Published:** Wed, 17 Jun 2026 05:19:20 +0000
+
+<p>The power SiC market is forecast to be worth $11 billion by 2031 growing at 20% CAGR between 2025 and 2031, fuelled by AI datacentres, 800V EVs, and renewable energy ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/">Power SiC market growing at 20% CAGR 2025-31 to $11bn</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
