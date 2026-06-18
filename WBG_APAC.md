@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-18 12:39 UTC_
+_Last updated: 2026-06-18 16:44 UTC_
 
 ## [CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation](https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/)
 **Published:** Thu, 18 Jun 2026 02:54:16 +0000
@@ -15,6 +15,22 @@ _Last updated: 2026-06-18 12:39 UTC_
 
 <p>WIN Semiconductors' 0.12μm gate-length GaN-on-SiC technology integrates multiple transistor improvements</p>
 <p>The post <a href="https://www.eetasia.com/win-semiconductors-launches-0-12%ce%bcm-gan-power-process-qualified-for-40v-operation/">WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [The 2nm Race Begins: Foundries Battle for AI and HPC Leadership](https://www.semiconductor-digest.com/the-2nm-race-begins-foundries-battle-for-ai-and-hpc-leadership/?utm_source=rss&utm_medium=rss&utm_campaign=the-2nm-race-begins-foundries-battle-for-ai-and-hpc-leadership)
+**Published:** Thu, 18 Jun 2026 14:59:13 +0000
+
+<p>With leading foundries converging on 2nm-class process technology, the competitive landscape is entering its most consequential phase yet, driven by surging demand from AI training and high-performance computing workloads. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-2nm-race-begins-foundries-battle-for-ai-and-hpc-leadership/">The 2nm Race Begins: Foundries Battle for AI and HPC Leadership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [From Cost Control to Competitive Advantage: Rethinking Procurement in a Volatile Global Market](https://www.semiconductor-digest.com/from-cost-control-to-competitive-advantage-rethinking-procurement-in-a-volatile-global-market/?utm_source=rss&utm_medium=rss&utm_campaign=from-cost-control-to-competitive-advantage-rethinking-procurement-in-a-volatile-global-market)
+**Published:** Thu, 18 Jun 2026 14:59:12 +0000
+
+<p>As tariffs, trade restrictions, and demand volatility redefine global supply chains, leading manufacturers are elevating procurement from a cost-management function to a strategic driver of competitive differentiation. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/from-cost-control-to-competitive-advantage-rethinking-procurement-in-a-volatile-global-market/">From Cost Control to Competitive Advantage: Rethinking Procurement in a Volatile Global Market</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -90,19 +106,19 @@ _Last updated: 2026-06-18 12:39 UTC_
 
 ---
 
-## [AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp](https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp)
-**Published:** Tue, 16 Jun 2026 14:59:11 +0000
-
-<p>Rather than relying on fixed metrology sampling schedules, a Cpk-based adaptive sampling framework deploys a responsive, risk-aware system that dynamically allocates metrology capacity based on real-time statistical evidence, enabling faster yield ramp without sacrificing quality. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/">AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays](https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/?utm_source=rss&utm_medium=rss&utm_campaign=unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays)
 **Published:** Tue, 16 Jun 2026 14:59:11 +0000
 
 <p>An integrated process control solution tailored for high-volume manufacturing of surface relief gratings (SRGs) addresses the metrology challenges of scaling AR/MR waveguide production from development to mass-market volumes. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/">Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp](https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp)
+**Published:** Tue, 16 Jun 2026 14:59:11 +0000
+
+<p>Rather than relying on fixed metrology sampling schedules, a Cpk-based adaptive sampling framework deploys a responsive, risk-aware system that dynamically allocates metrology capacity based on real-time statistical evidence, enabling faster yield ramp without sacrificing quality. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/">AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -802,19 +818,19 @@ _Last updated: 2026-06-18 12:39 UTC_
 
 ---
 
-## [Omdia: Small-Sized Automotive AMOLED Shipments to Reach 1.5 Million Units by 2030, Growing 541%](https://www.semiconductor-digest.com/omdia-small-sized-automotive-amoled-shipments-to-reach-1-5-million-units-by-2030-growing-541/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-small-sized-automotive-amoled-shipments-to-reach-1-5-million-units-by-2030-growing-541)
-**Published:** Thu, 21 May 2026 18:56:58 +0000
+## [STMicroelectronics Introduces Multiplier-Less PFC Controller](https://www.powerelectronicsnews.com/stmicroelectronics-introduces-multiplier-less-pfc-controller/)
+**Published:** Thu, 18 Jun 2026 13:00:00 +0000
 
-<p>Small-sized automotive AMOLED display shipments (under 5 inches) are expected to reach 1.5 million units by 2030, growing 541% versus 2025, according to new research from Omdia.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-small-sized-automotive-amoled-shipments-to-reach-1-5-million-units-by-2030-growing-541/">Omdia: Small-Sized Automotive AMOLED Shipments to Reach 1.5 Million Units by 2030, Growing 541%</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="STMicroelectronics Introduces Multiplier-Less PFC Controller." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/N4782D-Jun-16-2026-L6462A-PFC-controller_PR-IMAGE.jpeg?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The innovative current shaping and simplified circuitry improve efficiency, reduce THD and lower component count.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/stmicroelectronics-introduces-multiplier-less-pfc-controller/">STMicroelectronics Introduces Multiplier-Less PFC Controller</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Mark Rossman of Cadence Wins Si2 Pinnacle Award﻿](https://www.semiconductor-digest.com/mark-rossman-of-cadence-wins-si2-pinnacle-award/?utm_source=rss&utm_medium=rss&utm_campaign=mark-rossman-of-cadence-wins-si2-pinnacle-award)
-**Published:** Thu, 21 May 2026 18:54:41 +0000
+## [Vishay Expands Gen 7 1200V Hyperfast Rectifier Family](https://www.powerelectronicsnews.com/vishay-expands-gen-7-1200v-hyperfast-rectifier-family/)
+**Published:** Thu, 18 Jun 2026 13:00:00 +0000
 
-<p>Si2 today announced its recognition of Mark Rossman for his contributions to the OpenAccess Coalition.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/mark-rossman-of-cadence-wins-si2-pinnacle-award/">Mark Rossman of Cadence Wins Si2 Pinnacle Award﻿</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Vishay Expands Gen 7 1200V Hyperfast Rectifier Family." class="webfeedsFeaturedVisual wp-post-image" height="1067" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/55328839066_2066929bab_h.jpg?fit=1600%2C1067" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new hyperfast rectifiers combine low recovery charge, fast switching and compact packaging for efficient high-voltage designs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-expands-gen-7-1200v-hyperfast-rectifier-family/">Vishay Expands Gen 7 1200V Hyperfast Rectifier Family</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,19 +898,11 @@ _Last updated: 2026-06-18 12:39 UTC_
 
 ---
 
-## [PCIM 2026: Infineon’s Peter Wawer on Grid Resilience, Solid-State Circuit Breakers, and the Path to 800V Data Centers](https://www.powerelectronicsnews.com/pcim-2026-infineons-peter-wawer-on-grid-resilience-solid-state-circuit-breakers-and-the-path-to-800v-data-centers/)
-**Published:** Mon, 15 Jun 2026 18:56:09 +0000
+## [The New Software Standard for Physical AI](https://www.eetimes.com/the-new-software-standard-for-physical-ai-insert-return-here-for-new-line-accelerating-development-and-deployment-from-months-to-days/)
+**Published:** Thu, 18 Jun 2026 14:00:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="901" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/PCIM_Infineon_PeterWawer.png?fit=1917%2C901" style="display: block; margin-bottom: 5px; clear: both;" width="1917" /><p>Infineon's Peter Wawer discusses solid-state circuit breakers, CoolSiC JFETs, grid resilience, and the shift to 800V DC.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/pcim-2026-infineons-peter-wawer-on-grid-resilience-solid-state-circuit-breakers-and-the-path-to-800v-data-centers/">PCIM 2026: Infineon’s Peter Wawer on Grid Resilience, Solid-State Circuit Breakers, and the Path to 800V Data Centers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Wolfspeed Introduces Gen 5 SiC MOSFETs with Industry-Leading Low RDS(ON)](https://www.powerelectronicsnews.com/wolfspeed-introduces-gen-5-sic-mosfets-with-industry-leading-low-rdson/)
-**Published:** Mon, 15 Jun 2026 15:00:00 +0000
-
-<img alt="Wolfspeed Introduces Gen 5 SiC MOSFETs with Industry-Leading Low RDS(ON)." class="webfeedsFeaturedVisual wp-post-image" height="4500" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/Gen5_Chart-TOGO-WHITE.jpg?fit=8000%2C4500" style="display: block; margin-bottom: 5px; clear: both;" width="8000" /><p>The new SiC MOSFETs reduce conduction losses, improve thermal performance, and support compact, high-efficiency power designs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/wolfspeed-introduces-gen-5-sic-mosfets-with-industry-leading-low-rdson/">Wolfspeed Introduces Gen 5 SiC MOSFETs with Industry-Leading Low RDS(ON)</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Building real-time physical AI applications—such as high-performance, multimodal object tracking for autonomous systems within a constrained power envelope—is notoriously difficult. It requires coordinating specialized hardware, managing complex data flows, and optimizing every microsecond for maximum performance. This tech paper explores how agentic software environments can dramatically accelerate the development and deployment of physical AI applications. [&#8230;]</p>
+<p>The post <a href="https://www.eetimes.com/the-new-software-standard-for-physical-ai-insert-return-here-for-new-line-accelerating-development-and-deployment-from-months-to-days/">The New Software Standard for Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -911,14 +919,6 @@ _Last updated: 2026-06-18 12:39 UTC_
 
 <p>Imec’s Zsolt Tokei and Arm’s Mohamed Awad explain why CMOS 2.0 could redefine semiconductor scaling beyond chiplets.</p>
 <p>The post <a href="https://www.eetimes.com/beyond-chiplets-cmos-2-0-moves-scaling-into-the-circuit/">Beyond Chiplets, CMOS 2.0 Moves Scaling into the Circuit</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [SiMa Launches Agentic Development Environment for Physical AI](https://www.eetimes.com/sima-launches-agentic-development-environment-for-physical-ai/)
-**Published:** Tue, 16 Jun 2026 17:50:36 +0000
-
-<p>Edge AI chip company said it can speed up engineer productivity when transferring to its hardware from months to hours.</p>
-<p>The post <a href="https://www.eetimes.com/sima-launches-agentic-development-environment-for-physical-ai/">SiMa Launches Agentic Development Environment for Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
