@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-18 04:12 UTC_
+_Last updated: 2026-06-18 12:39 UTC_
 
 ## [CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation](https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/)
 **Published:** Thu, 18 Jun 2026 02:54:16 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-06-18 04:12 UTC_
 
 ---
 
+## [PCIM 2026: ADI’s David Andeen on the Empower Acquisition and Vertical Power Delivery for AI](https://www.powerelectronicsnews.com/pcim-2026-adis-david-andeen-on-the-empower-acquisition-and-vertical-power-delivery-for-ai/)
+**Published:** Thu, 18 Jun 2026 11:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/Snapshot_5cc7f9.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>ADI's David Andeen discusses the $1.5B Empower acquisition, vertical power delivery for AI, and the new Power Studio platform.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/pcim-2026-adis-david-andeen-on-the-empower-acquisition-and-vertical-power-delivery-for-ai/">PCIM 2026: ADI&#8217;s David Andeen on the Empower Acquisition and Vertical Power Delivery for AI</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Taiwan Semi Introduces Automotive-Grade TQM MOSFET Series](https://www.powerelectronicsnews.com/taiwan-semi-introduces-automotive-grade-tqm-mosfet-series/)
 **Published:** Wed, 17 Jun 2026 13:00:00 +0000
 
@@ -890,11 +898,11 @@ _Last updated: 2026-06-18 04:12 UTC_
 
 ---
 
-## [Choosing the Right Power Device for Utility-Scale GFM Inverters](https://www.powerelectronicsnews.com/choosing-the-right-power-device-for-utility-scale-gfm-inverters/)
-**Published:** Mon, 15 Jun 2026 14:56:23 +0000
+## [Can Catalonia’s Distributed Semiconductor Network Deliver?](https://www.eetimes.com/can-catalonia-deliver-on-its-distributed-semiconductor-network/)
+**Published:** Thu, 18 Jun 2026 07:15:00 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/AdobeStock_76706386.jpeg?fit=4500%2C3000" style="display: block; margin-bottom: 5px; clear: both;" width="4500" /><p>The right choice of power device depends on the inverter size, efficiency, cooling capability, and fault-ride-through requirements of the application.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/choosing-the-right-power-device-for-utility-scale-gfm-inverters/">Choosing the Right Power Device for Utility-Scale GFM Inverters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Catalonia is unifying its fragmented tech ecosystem into a coordinated semiconductor cluster spanning photonics, packaging, AI, and chip research.</p>
+<p>The post <a href="https://www.eetimes.com/can-catalonia-deliver-on-its-distributed-semiconductor-network/">Can Catalonia’s Distributed Semiconductor Network Deliver?</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -914,39 +922,32 @@ _Last updated: 2026-06-18 04:12 UTC_
 
 ---
 
-## [Power SiC market growing at 20% CAGR 2025-31 to $11bn](https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/)
-**Published:** Wed, 17 Jun 2026 05:19:20 +0000
+## [Synopsys, Ansys launch Multiphysics  Fusion products](https://www.electronicsweekly.com/news/business/898332-2026-06/)
+**Published:** Thu, 18 Jun 2026 05:13:38 +0000
 
-<p>The power SiC market is forecast to be worth $11 billion by 2031 growing at 20% CAGR between 2025 and 2031, fuelled by AI datacentres, 800V EVs, and renewable energy ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/">Power SiC market growing at 20% CAGR 2025-31 to $11bn</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
-
----
-
-## [Diamond Breakthrough Could Reshape Future Quantum Chips](https://www.electronicsforu.com/news/diamond-breakthrough-could-reshape-future-quantum-chips)
-**Published:** Wed, 17 Jun 2026 07:05:42 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/jd-dwivedi-psu-cqe-superconducting-diamond-1600x900-1-150x150.png" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Scientists have uncovered hidden superconducting behaviour inside diamond, opening a path to multifunctional quantum chips that combine computing, sensing and communications. Researchers from the U.S. Department of Energy&#8217;s Argonne National Laboratory, Pennsylvania State University, and the University of Chicago have uncovered the physical mechanisms behind superconductivity in diamond, a discovery that could enable a new [&#8230;]
+<p>Synopsys has announced availability of its first Multiphysics Fusion product for customer deployment. As chip complexity increases, physics-related challenges including signal integrity, power integrity, thermal integrity, electromagnetic effects, and co-packaged ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/business/898332-2026-06/">Synopsys, Ansys launch Multiphysics  Fusion products</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
-## [Microchannel Cooling Technology Targets AI Heat Challenge](https://www.electronicsforu.com/news/microchannel-cooling-technology-targets-ai-heat-challenge)
-**Published:** Wed, 17 Jun 2026 06:59:11 +0000
+## [Semiconductor Chip Writes DNA Sequences in Parallel](https://www.electronicsforu.com/news/semiconductor-chip-writes-dna-sequences-in-parallel)
+**Published:** Thu, 18 Jun 2026 07:32:41 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/a216a4c0-f466-4715-9354-ff7b1f894532-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Can microscopic water channels inside chips dramatically cut cooling energy while helping AI processors handle rising computational demands?  Researchers at the Korea Advanced Institute of Science and Technology (KAIST) have developed a liquid cooling technology designed to improve heat management in high performance semiconductors while significantly reducing the energy required for cooling. As AI workloads [&#8230;]
-
----
-
-## [3.3 kV SiC Power Modules for Modern Grid Systems](https://www.electronicsforu.com/news/3-3-kv-sic-power-modules-for-modern-grid-systems)
-**Published:** Wed, 17 Jun 2026 06:30:30 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Screenshot-2026-06-17-101627-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new class of medium-voltage power modules has been introduced to support next-generation energy infrastructure, offering improved efficiency, compact system design, and enhanced reliability for high-power applications such as renewable integration, AI data centres, and advanced grid networks. Wolfspeed has introduced two new 3.3 kV silicon carbide (SiC) power module families designed to help energy [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Figure-1-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if a computer chip could manufacture DNA? Researchers have now used semiconductor technology to write dozens of genetic sequences simultaneously. Researchers at Harvard University have developed a semiconductor chip capable of synthesising 64 different DNA sequences simultaneously, marking a significant advance in enzymatic DNA manufacturing. The system combines silicon electronics with water based chemistry, [&#8230;]
 
 ---
 
-## [Making Ultra-Thin Chip Materials Easier to Use](https://www.electronicsforu.com/news/making-ultra-thin-chip-materials-easier-to-use)
-**Published:** Wed, 17 Jun 2026 05:24:11 +0000
+## [Current Probes Capture Faster Power Electronics Signals](https://www.electronicsforu.com/news/current-probes-capture-faster-power-electronics-signals)
+**Published:** Thu, 18 Jun 2026 07:03:44 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/new-method-boosts-futu-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new process removes only the top atomic layer of chip materials, helping manufacturers build smaller transistors while reducing damage during production. Researchers in the U.S. Department of Energy’s Princeton Plasma Physics Laboratory (PPPL) have developed a method to remove only the top atomic layer of a material used in next-generation transistors while protecting the [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/CT6704_press-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Designed for SiC and GaN systems, the probes target high frequency current measurement challenges that emerge as power electronics switch faster.  Hioki has developed two current probes, the CT6704 and CT6705, for observing high frequency, large current waveforms in modern power electronics systems. The probes are aimed at applications such as SiC and GaN inverters, [&#8230;]
+
+---
+
+## [JOB: RME coordinator, RME- INGSF At Amazon In Mumbai](https://www.electronicsforu.com/career/rme-coordinator-rme-ingsf-at-amazon-mumbai)
+**Published:** Thu, 18 Jun 2026 06:04:20 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/amazon-logo2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Mumbai Company: Amazon Description Basic Qualifications Experience in Electrical/Mechanical/Electronics and Communication/Instrumentation and Controls Preferred Qualifications 1+ years of conveyors/automation/control systems maintenance experience
 
 ---
 
