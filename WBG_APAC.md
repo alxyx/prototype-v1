@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-19 20:09 UTC_
+_Last updated: 2026-06-19 23:11 UTC_
 
 ## [CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation](https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/)
 **Published:** Thu, 18 Jun 2026 02:54:16 +0000
@@ -895,6 +895,14 @@ _Last updated: 2026-06-19 20:09 UTC_
 
 <img alt="Skyworks Introduces Si829x Isolated Gate Driver Platform." class="webfeedsFeaturedVisual wp-post-image" height="200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/20260609-PCIM-PR-tile.png?fit=310%2C200" style="display: block; margin-bottom: 5px; clear: both;" width="310" /><p>Designed for ASIL D systems, the solution supports both SiC and IGBT power stages while simplifying inverter development.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/skyworks-introduces-si829x-isolated-gate-driver-platform/">Skyworks Introduces Si829x Isolated Gate Driver Platform</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Defense Sends Clear Signal to Canadian Semiconductor Industry](https://www.eetimes.com/defense-sends-clear-signal-to-canadian-semiconductor-industry/)
+**Published:** Fri, 19 Jun 2026 22:00:00 +0000
+
+<p>Canada sharpens its defense and tech edge with policies to boost homegrown chip power.</p>
+<p>The post <a href="https://www.eetimes.com/defense-sends-clear-signal-to-canadian-semiconductor-industry/">Defense Sends Clear Signal to Canadian Semiconductor Industry</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
