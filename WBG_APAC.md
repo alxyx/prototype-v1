@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-19 18:10 UTC_
+_Last updated: 2026-06-19 20:09 UTC_
 
 ## [CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation](https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/)
 **Published:** Thu, 18 Jun 2026 02:54:16 +0000
@@ -18,11 +18,35 @@ _Last updated: 2026-06-19 18:10 UTC_
 
 ---
 
-## [Why Silicon Photonics is Critical to Scaling AI Efficiently](https://www.semiconductor-digest.com/why-silicon-photonics-is-critical-to-scaling-ai-efficiently/?utm_source=rss&utm_medium=rss&utm_campaign=why-silicon-photonics-is-critical-to-scaling-ai-efficiently)
-**Published:** Fri, 19 Jun 2026 12:59:00 +0000
+## [SK hynix Ships Samples of 12-Layer Next-Gen ‘HBM4E’](https://www.semiconductor-digest.com/sk-hynix-ships-samples-of-12-layer-next-gen-hbm4e/?utm_source=rss&utm_medium=rss&utm_campaign=sk-hynix-ships-samples-of-12-layer-next-gen-hbm4e)
+**Published:** Fri, 19 Jun 2026 18:43:11 +0000
 
-<p>As bandwidth demands from AI training and inference outpace the efficiency limits of electrical interconnects, silicon photonics offers a path to faster, more energy-efficient data movement — but realizing it at scale requires mature substrate and integration technology. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/why-silicon-photonics-is-critical-to-scaling-ai-efficiently/">Why Silicon Photonics is Critical to Scaling AI Efficiently</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>SK hynix Inc. announced today that it has shipped samples of HBM4E, a next-generation DRAM for AI, to major customers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sk-hynix-ships-samples-of-12-layer-next-gen-hbm4e/">SK hynix Ships Samples of 12-Layer Next-Gen &#8216;HBM4E&#8217;</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Brewer Science to Acquire Semiconductor Chemical Business Line from Heraeus Epurio](https://www.semiconductor-digest.com/brewer-science-to-acquire-semiconductor-chemical-business-line-from-heraeus-epurio/?utm_source=rss&utm_medium=rss&utm_campaign=brewer-science-to-acquire-semiconductor-chemical-business-line-from-heraeus-epurio)
+**Published:** Fri, 19 Jun 2026 18:40:36 +0000
+
+<p>Brewer Science, Inc. today announced it has entered into an agreement to acquire the semiconductor chemicals business line of Heraeus Epurio, a recognized technology leader in ultrapure electronic chemicals used in semiconductor manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/brewer-science-to-acquire-semiconductor-chemical-business-line-from-heraeus-epurio/">Brewer Science to Acquire Semiconductor Chemical Business Line from Heraeus Epurio</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Intel Announces Leadership Appointment at Intel Foundry to Accelerate Development and Manufacturing](https://www.semiconductor-digest.com/intel-announces-leadership-appointment-at-intel-foundry-to-accelerate-development-and-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=intel-announces-leadership-appointment-at-intel-foundry-to-accelerate-development-and-manufacturing)
+**Published:** Fri, 19 Jun 2026 18:32:33 +0000
+
+<p>Intel Corporation today announced the appointment of Seok-Hee Lee as executive vice president of Intel Foundry, reporting directly to CEO Lip-Bu Tan.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/intel-announces-leadership-appointment-at-intel-foundry-to-accelerate-development-and-manufacturing/">Intel Announces Leadership Appointment at Intel Foundry to Accelerate Development and Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NHanced Semiconductors President Robert Patti to Deliver Plenary Presentation at the 2026 Lithography Workshop](https://www.semiconductor-digest.com/nhanced-semiconductors-president-robert-patti-to-deliver-plenary-presentation-at-the-2026-lithography-workshop/?utm_source=rss&utm_medium=rss&utm_campaign=nhanced-semiconductors-president-robert-patti-to-deliver-plenary-presentation-at-the-2026-lithography-workshop)
+**Published:** Fri, 19 Jun 2026 18:28:07 +0000
+
+<p>Patti will describe how advanced packaging technology is now the enabling factor for a renaissance in leading edge semiconductor design and manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nhanced-semiconductors-president-robert-patti-to-deliver-plenary-presentation-at-the-2026-lithography-workshop/">NHanced Semiconductors President Robert Patti to Deliver Plenary Presentation at the 2026 Lithography Workshop</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -31,6 +55,14 @@ _Last updated: 2026-06-19 18:10 UTC_
 
 <p>As AI workloads scale rapidly, power delivery is emerging as a critical bottleneck, with inefficiencies in the path from grid to transistor demanding new approaches to on-chip and near-chip power conversion. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/ais-next-power-challenge-is-inside-the-delivery-path/">AI&#8217;s Next Power Challenge Is Inside the Delivery Path</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Why Silicon Photonics is Critical to Scaling AI Efficiently](https://www.semiconductor-digest.com/why-silicon-photonics-is-critical-to-scaling-ai-efficiently/?utm_source=rss&utm_medium=rss&utm_campaign=why-silicon-photonics-is-critical-to-scaling-ai-efficiently)
+**Published:** Fri, 19 Jun 2026 12:59:00 +0000
+
+<p>As bandwidth demands from AI training and inference outpace the efficiency limits of electrical interconnects, silicon photonics offers a path to faster, more energy-efficient data movement — but realizing it at scale requires mature substrate and integration technology. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/why-silicon-photonics-is-critical-to-scaling-ai-efficiently/">Why Silicon Photonics is Critical to Scaling AI Efficiently</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -274,19 +306,19 @@ _Last updated: 2026-06-19 18:10 UTC_
 
 ---
 
-## [Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance](https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/?utm_source=rss&utm_medium=rss&utm_campaign=silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance)
-**Published:** Thu, 11 Jun 2026 13:16:50 +0000
-
-<p>Silicone-based thermal interface materials (TIMs), particularly thermally conductive compounds and gels, offer material properties and performance characteristics that are well-suited to today’s data center applications. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/">Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design](https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design)
 **Published:** Thu, 11 Jun 2026 13:16:50 +0000
 
 <p>Q&#038;A with Senior ASIC engineer Adarsh Mittal.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/">Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance](https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/?utm_source=rss&utm_medium=rss&utm_campaign=silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance)
+**Published:** Thu, 11 Jun 2026 13:16:50 +0000
+
+<p>Silicone-based thermal interface materials (TIMs), particularly thermally conductive compounds and gels, offer material properties and performance characteristics that are well-suited to today’s data center applications. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/">Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -783,38 +815,6 @@ _Last updated: 2026-06-19 18:10 UTC_
 
 <p>Micron Technology, Inc. today is celebrating the start of 1α (1-alpha) DRAM manufacturing at its Manassas, Virginia, fab, an important step in the company's efforts to significantly expand U.S. memory manufacturing.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/micron-advances-made-in-america-memory-with-manufacturing-expansion-in-virginia/">Micron Advances Made-in-America Memory With Manufacturing Expansion in Virginia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Stressed Crystal Creates Nanoscale Patterns on Chip Materials at Room Temperature](https://www.semiconductor-digest.com/stressed-crystal-creates-nanoscale-patterns-on-chip-materials-at-room-temperature/?utm_source=rss&utm_medium=rss&utm_campaign=stressed-crystal-creates-nanoscale-patterns-on-chip-materials-at-room-temperature)
-**Published:** Fri, 22 May 2026 15:57:17 +0000
-
-<p>A new chip-making technique exploits a material’s crystal structure to create nanoscale patterns at room temperature directly onto hard materials used in devices, including silica.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/stressed-crystal-creates-nanoscale-patterns-on-chip-materials-at-room-temperature/">Stressed Crystal Creates Nanoscale Patterns on Chip Materials at Room Temperature</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [imec Presents Quantum Dot Qubit Device Using High NA EUV Lithography](https://www.semiconductor-digest.com/imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography/?utm_source=rss&utm_medium=rss&utm_campaign=imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography)
-**Published:** Fri, 22 May 2026 15:54:39 +0000
-
-<p>The most advanced lithography system, crucial for future advanced memory and computer chips, will play a key role in scaling up quantum technology.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/imec-presents-quantum-dot-qubit-device-using-high-na-euv-lithography/">imec Presents Quantum Dot Qubit Device Using High NA EUV Lithography</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [World Micro Signs Distribution Agreement with Mobilint to Expand AI Semiconductor Solutions](https://www.semiconductor-digest.com/world-micro-signs-distribution-agreement-with-mobilint-to-expand-ai-semiconductor-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=world-micro-signs-distribution-agreement-with-mobilint-to-expand-ai-semiconductor-solutions)
-**Published:** Fri, 22 May 2026 15:48:57 +0000
-
-<p>World Micro, a global distributor of electronic components and supply chain solutions, is pleased to announce a new distribution agreement with Mobilint, a pioneering developer of AI accelerator chips.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/world-micro-signs-distribution-agreement-with-mobilint-to-expand-ai-semiconductor-solutions/">World Micro Signs Distribution Agreement with Mobilint to Expand AI Semiconductor Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Toward Power-Generating Displays: A Single Device That Harvests And Emits Light](https://www.semiconductor-digest.com/toward-power-generating-displays-a-single-device-that-harvests-and-emits-light/?utm_source=rss&utm_medium=rss&utm_campaign=toward-power-generating-displays-a-single-device-that-harvests-and-emits-light)
-**Published:** Thu, 21 May 2026 19:57:32 +0000
-
-<p>Researchers develop a promising organic semiconductor material for multifunctional electronic devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/toward-power-generating-displays-a-single-device-that-harvests-and-emits-light/">Toward Power-Generating Displays: A Single Device That Harvests And Emits Light</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
