@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-19 00:40 UTC_
+_Last updated: 2026-06-19 18:10 UTC_
 
 ## [CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation](https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/)
 **Published:** Thu, 18 Jun 2026 02:54:16 +0000
@@ -15,6 +15,22 @@ _Last updated: 2026-06-19 00:40 UTC_
 
 <p>WIN Semiconductors' 0.12μm gate-length GaN-on-SiC technology integrates multiple transistor improvements</p>
 <p>The post <a href="https://www.eetasia.com/win-semiconductors-launches-0-12%ce%bcm-gan-power-process-qualified-for-40v-operation/">WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Why Silicon Photonics is Critical to Scaling AI Efficiently](https://www.semiconductor-digest.com/why-silicon-photonics-is-critical-to-scaling-ai-efficiently/?utm_source=rss&utm_medium=rss&utm_campaign=why-silicon-photonics-is-critical-to-scaling-ai-efficiently)
+**Published:** Fri, 19 Jun 2026 12:59:00 +0000
+
+<p>As bandwidth demands from AI training and inference outpace the efficiency limits of electrical interconnects, silicon photonics offers a path to faster, more energy-efficient data movement — but realizing it at scale requires mature substrate and integration technology. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/why-silicon-photonics-is-critical-to-scaling-ai-efficiently/">Why Silicon Photonics is Critical to Scaling AI Efficiently</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AI’s Next Power Challenge Is Inside the Delivery Path](https://www.semiconductor-digest.com/ais-next-power-challenge-is-inside-the-delivery-path/?utm_source=rss&utm_medium=rss&utm_campaign=ais-next-power-challenge-is-inside-the-delivery-path)
+**Published:** Fri, 19 Jun 2026 12:59:00 +0000
+
+<p>As AI workloads scale rapidly, power delivery is emerging as a critical bottleneck, with inefficiencies in the path from grid to transistor demanding new approaches to on-chip and near-chip power conversion. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/ais-next-power-challenge-is-inside-the-delivery-path/">AI&#8217;s Next Power Challenge Is Inside the Delivery Path</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -74,11 +90,11 @@ _Last updated: 2026-06-19 00:40 UTC_
 
 ---
 
-## [Strategic Utility Space Planning in High-Tech Facilities: Navigating Complexity and Uncertainty in Advanced Construction](https://www.semiconductor-digest.com/strategic-utility-space-planning-in-high-tech-facilities-navigating-complexity-and-uncertainty-in-advanced-construction/?utm_source=rss&utm_medium=rss&utm_campaign=strategic-utility-space-planning-in-high-tech-facilities-navigating-complexity-and-uncertainty-in-advanced-construction)
+## [Strategic Utility Space Planning in High-Tech Facilities](https://www.semiconductor-digest.com/strategic-utility-space-planning-in-high-tech-facilities-navigating-complexity-and-uncertainty-in-advanced-construction/?utm_source=rss&utm_medium=rss&utm_campaign=strategic-utility-space-planning-in-high-tech-facilities-navigating-complexity-and-uncertainty-in-advanced-construction)
 **Published:** Wed, 17 Jun 2026 14:59:12 +0000
 
-<p>In fast-track high-tech facility projects where MEP backbone design must begin before tool requirements are finalized, a strategic spatial planning methodology bridges the gap between Base Build and Tool Install phases — converting potential conflicts into deliberate spatial strategy. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/strategic-utility-space-planning-in-high-tech-facilities-navigating-complexity-and-uncertainty-in-advanced-construction/">Strategic Utility Space Planning in High-Tech Facilities: Navigating Complexity and Uncertainty in Advanced Construction</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>A strategic spatial planning methodology bridges the gap between Base Build and Tool Install phases — converting potential conflicts into deliberate spatial strategy. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/strategic-utility-space-planning-in-high-tech-facilities-navigating-complexity-and-uncertainty-in-advanced-construction/">Strategic Utility Space Planning in High-Tech Facilities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -130,19 +146,19 @@ _Last updated: 2026-06-19 00:40 UTC_
 
 ---
 
-## [Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays](https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/?utm_source=rss&utm_medium=rss&utm_campaign=unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays)
-**Published:** Tue, 16 Jun 2026 14:59:11 +0000
-
-<p>An integrated process control solution tailored for high-volume manufacturing of surface relief gratings (SRGs) addresses the metrology challenges of scaling AR/MR waveguide production from development to mass-market volumes. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/">Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp](https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp)
 **Published:** Tue, 16 Jun 2026 14:59:11 +0000
 
 <p>Rather than relying on fixed metrology sampling schedules, a Cpk-based adaptive sampling framework deploys a responsive, risk-aware system that dynamically allocates metrology capacity based on real-time statistical evidence, enabling faster yield ramp without sacrificing quality. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/">AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays](https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/?utm_source=rss&utm_medium=rss&utm_campaign=unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays)
+**Published:** Tue, 16 Jun 2026 14:59:11 +0000
+
+<p>An integrated process control solution tailored for high-volume manufacturing of surface relief gratings (SRGs) addresses the metrology challenges of scaling AR/MR waveguide production from development to mass-market volumes. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/">Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -258,19 +274,19 @@ _Last updated: 2026-06-19 00:40 UTC_
 
 ---
 
-## [Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design](https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design)
-**Published:** Thu, 11 Jun 2026 13:16:50 +0000
-
-<p>Q&#038;A with Senior ASIC engineer Adarsh Mittal.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/">Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance](https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/?utm_source=rss&utm_medium=rss&utm_campaign=silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance)
 **Published:** Thu, 11 Jun 2026 13:16:50 +0000
 
 <p>Silicone-based thermal interface materials (TIMs), particularly thermally conductive compounds and gels, offer material properties and performance characteristics that are well-suited to today’s data center applications. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/silicone-based-thermal-interface-materials-improve-data-center-cooling-and-performance/">Silicone-Based Thermal Interface Materials Improve Data Center Cooling and Performance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design](https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design)
+**Published:** Thu, 11 Jun 2026 13:16:50 +0000
+
+<p>Q&#038;A with Senior ASIC engineer Adarsh Mittal.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/beyond-ppa-how-total-cost-of-ownership-is-reshaping-chip-design/">Beyond PPA: How Total Cost of Ownership Is Reshaping Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -802,19 +818,19 @@ _Last updated: 2026-06-19 00:40 UTC_
 
 ---
 
-## [Analog Devices to Acquire Empower Semiconductor](https://www.semiconductor-digest.com/analog-devices-to-acquire-empower-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=analog-devices-to-acquire-empower-semiconductor)
-**Published:** Thu, 21 May 2026 19:47:00 +0000
+## [Satellite Power Delivery Architecture: From 28V to High-Voltage Bus](https://www.powerelectronicsnews.com/satellite-power-delivery-architecture-from-28v-to-high-voltage-bus/)
+**Published:** Fri, 19 Jun 2026 13:00:00 +0000
 
-<p>Analog Devices, Inc. and Empower Semiconductor today announced that they have entered into a definitive agreement under which ADI will acquire Empower in an all-cash transaction for $1.5 billion.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/analog-devices-to-acquire-empower-semiconductor/">Analog Devices to Acquire Empower Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="2688" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/AdobeStock_671303377.jpeg?fit=6048%2C2688" style="display: block; margin-bottom: 5px; clear: both;" width="6048" /><p>As spacecraft power demands grow into kilowatts, satellite buses are shifting from 28 V to higher voltages.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/satellite-power-delivery-architecture-from-28v-to-high-voltage-bus/">Satellite Power Delivery Architecture: From 28V to High-Voltage Bus</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [IBM and U.S. Department of Commerce Announce America’s First Purpose-Built Quantum Foundry, Supported by Proposed $1 Billion CHIPS Award](https://www.semiconductor-digest.com/ibm-and-u-s-department-of-commerce-announce-americas-first-purpose-built-quantum-foundry-supported-by-proposed-1-billion-chips-award/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-and-u-s-department-of-commerce-announce-americas-first-purpose-built-quantum-foundry-supported-by-proposed-1-billion-chips-award)
-**Published:** Thu, 21 May 2026 19:29:08 +0000
+## [Element Six, Orbray Advance Wafer-Scale Single Crystal Diamond](https://www.powerelectronicsnews.com/element-six-orbray-advance-wafer-scale-single-crystal-diamond/)
+**Published:** Fri, 19 Jun 2026 13:00:00 +0000
 
-<p>Today, IBM and the U.S. Department of Commerce (DoC) announced a Letter of Intent (LOI) to build an American quantum chip foundry, securing the nation's global quantum leadership and fueling the country's growing quantum ecosystem.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ibm-and-u-s-department-of-commerce-announce-americas-first-purpose-built-quantum-foundry-supported-by-proposed-1-billion-chips-award/">IBM and U.S. Department of Commerce Announce America&#8217;s First Purpose-Built Quantum Foundry, Supported by Proposed $1 Billion CHIPS Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Element Six and Orbray Advance Wafer-Scale Single Crystal Diamond." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/orbray_element_six_logos_announcement_wafer_image.jpg?fit=1200%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new manufacturing milestones support scalable diamond wafers for thermal management, RF electronics and quantum systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/element-six-orbray-advance-wafer-scale-single-crystal-diamond/">Element Six, Orbray Advance Wafer-Scale Single Crystal Diamond</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -882,19 +898,19 @@ _Last updated: 2026-06-19 00:40 UTC_
 
 ---
 
-## [QSPICE’s Native Python Socket API: Real-Time Co-Simulation for Power, Analog and Mixed-Signal Designers](https://www.powerelectronicsnews.com/qspices-native-python-socket-api-real-time-co-simulation-for-power-analog-and-mixed-signal-designers/)
-**Published:** Tue, 16 Jun 2026 13:00:00 +0000
+## [Amazon’s Newest Gambit: Selling AI Chips](https://www.eetimes.com/amazon-newest-gambit-selling-ai-chips/)
+**Published:** Fri, 19 Jun 2026 12:19:36 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1732" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/QSPICE-Native-Integrtation.jpg?fit=2814%2C1732" style="display: block; margin-bottom: 5px; clear: both;" width="2814" /><p>For power engineers, Python has become the default glue language for automation, data analysis, and algorithm development. In the meantime, QSPICE has emerged as a...</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/qspices-native-python-socket-api-real-time-co-simulation-for-power-analog-and-mixed-signal-designers/">QSPICE’s Native Python Socket API: Real-Time Co-Simulation for Power, Analog and Mixed-Signal Designers</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>The world’s largest hyperscaler wants to seize the semiconductor moment by selling AI accelerators at scale.</p>
+<p>The post <a href="https://www.eetimes.com/amazon-newest-gambit-selling-ai-chips/">Amazon’s Newest Gambit: Selling AI Chips</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
-## [Nexperia Introduces New Industrial-Grade 650V GaN FETs](https://www.powerelectronicsnews.com/nexperia-introduces-new-industrial-grade-650v-gan-fets/)
-**Published:** Tue, 16 Jun 2026 11:00:00 +0000
+## [All Semiconductor Roads Lead to Taiwan](https://www.eetimes.com/all-semiconductor-roads-lead-to-taiwan/)
+**Published:** Fri, 19 Jun 2026 07:45:00 +0000
 
-<img alt="Nexperia Introduces New Industrial-Grade 650V GaN FETs." class="webfeedsFeaturedVisual wp-post-image" height="1050" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/NEX2603_I117_PR-image-GaN-release.jpg?fit=1470%2C1050" style="display: block; margin-bottom: 5px; clear: both;" width="1470" /><p>The new device options provide greater design flexibility for optimizing efficiency, thermal performance and power density.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/nexperia-introduces-new-industrial-grade-650v-gan-fets/">Nexperia Introduces New Industrial-Grade 650V GaN FETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Small in size but outsized in influence, Taiwan has become a linchpin of the global semiconductor supply chain.</p>
+<p>The post <a href="https://www.eetimes.com/all-semiconductor-roads-lead-to-taiwan/">All Semiconductor Roads Lead to Taiwan</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -914,19 +930,11 @@ _Last updated: 2026-06-19 00:40 UTC_
 
 ---
 
-## [Beyond Chiplets, CMOS 2.0 Moves Scaling into the Circuit](https://www.eetimes.com/beyond-chiplets-cmos-2-0-moves-scaling-into-the-circuit/)
-**Published:** Wed, 17 Jun 2026 12:47:44 +0000
+## [Nordic finds dual-antenna nRF54L15 prototyping tag](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nordic-finds-dual-antenna-nrf54l15-prototyping-tag-2026-06/)
+**Published:** Fri, 19 Jun 2026 14:38:41 +0000
 
-<p>Imec’s Zsolt Tokei and Arm’s Mohamed Awad explain why CMOS 2.0 could redefine semiconductor scaling beyond chiplets.</p>
-<p>The post <a href="https://www.eetimes.com/beyond-chiplets-cmos-2-0-moves-scaling-into-the-circuit/">Beyond Chiplets, CMOS 2.0 Moves Scaling into the Circuit</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Synopsys, Ansys launch Multiphysics  Fusion products](https://www.electronicsweekly.com/news/business/898332-2026-06/)
-**Published:** Thu, 18 Jun 2026 05:13:38 +0000
-
-<p>Synopsys has announced availability of its first Multiphysics Fusion product for customer deployment. As chip complexity increases, physics-related challenges including signal integrity, power integrity, thermal integrity, electromagnetic effects, and co-packaged ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/business/898332-2026-06/">Synopsys, Ansys launch Multiphysics  Fusion products</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
+<p>Nordic Semiconductor is launching its battery-powered, dual-antenna compact nRF54L15 prototyping tag, which is optimised for Google&#8217;s Find Hub and Apple&#8217;s Find My systems. The idea is for developers to to ...</p>
+<p>The post <a href="https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nordic-finds-dual-antenna-nrf54l15-prototyping-tag-2026-06/">Nordic finds dual-antenna nRF54L15 prototyping tag</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
