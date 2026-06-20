@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-19 23:11 UTC_
+_Last updated: 2026-06-20 00:28 UTC_
 
 ## [CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation](https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/)
 **Published:** Thu, 18 Jun 2026 02:54:16 +0000
@@ -818,6 +818,14 @@ _Last updated: 2026-06-19 23:11 UTC_
 
 ---
 
+## [Satellite Power Delivery Architecture, Utility-Scale GFM Inverters, Solid-State Circuit Breakers: Power Electronics Week Insights](https://www.powerelectronicsnews.com/satellite-power-delivery-architecture-utility-scale-gfm-inverters-solid-state-circuit-breakers-power-electronics-week-insights/)
+**Published:** Fri, 19 Jun 2026 23:22:30 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Satellite Power Delivery Architecture, Utility-Scale GFM Inverters, and Solid-State Circuit Breakers!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/satellite-power-delivery-architecture-utility-scale-gfm-inverters-solid-state-circuit-breakers-power-electronics-week-insights/">Satellite Power Delivery Architecture, Utility-Scale GFM Inverters, Solid-State Circuit Breakers: Power Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Satellite Power Delivery Architecture: From 28V to High-Voltage Bus](https://www.powerelectronicsnews.com/satellite-power-delivery-architecture-from-28v-to-high-voltage-bus/)
 **Published:** Fri, 19 Jun 2026 13:00:00 +0000
 
@@ -887,14 +895,6 @@ _Last updated: 2026-06-19 23:11 UTC_
 
 <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/YouTube-Thumbnail.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>A walkthrough of the LT7170-1 dual-phase POL converter, covering accuracy, EMI, transient response, and PMBus monitoring for FPGAs.</p>
 <p>The post <a href="https://www.powerelectronicsnews.com/powerup-circuit-lab-adis-eval-lt7170-1-az-evaluation-board/">PowerUP Circuit Lab: ADI&#8217;s EVAL-LT7170-1-AZ Evaluation Board</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
-## [Skyworks Introduces Si829x Isolated Gate Driver Platform](https://www.powerelectronicsnews.com/skyworks-introduces-si829x-isolated-gate-driver-platform/)
-**Published:** Tue, 16 Jun 2026 13:00:00 +0000
-
-<img alt="Skyworks Introduces Si829x Isolated Gate Driver Platform." class="webfeedsFeaturedVisual wp-post-image" height="200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/20260609-PCIM-PR-tile.png?fit=310%2C200" style="display: block; margin-bottom: 5px; clear: both;" width="310" /><p>Designed for ASIL D systems, the solution supports both SiC and IGBT power stages while simplifying inverter development.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/skyworks-introduces-si829x-isolated-gate-driver-platform/">Skyworks Introduces Si829x Isolated Gate Driver Platform</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
