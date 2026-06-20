@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-20 00:28 UTC_
+_Last updated: 2026-06-20 11:33 UTC_
 
 ## [CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation](https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/)
 **Published:** Thu, 18 Jun 2026 02:54:16 +0000
@@ -946,24 +946,17 @@ _Last updated: 2026-06-20 00:28 UTC_
 
 ---
 
-## [Semiconductor Chip Writes DNA Sequences in Parallel](https://www.electronicsforu.com/news/semiconductor-chip-writes-dna-sequences-in-parallel)
-**Published:** Thu, 18 Jun 2026 07:32:41 +0000
+## [Atom-Thin Coating Boosts Chip Wiring](https://www.electronicsforu.com/news/atom-thin-coating-boosts-chip-wiring)
+**Published:** Fri, 19 Jun 2026 05:42:32 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/Figure-1-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />What if a computer chip could manufacture DNA? Researchers have now used semiconductor technology to write dozens of genetic sequences simultaneously. Researchers at Harvard University have developed a semiconductor chip capable of synthesising 64 different DNA sequences simultaneously, marking a significant advance in enzymatic DNA manufacturing. The system combines silicon electronics with water based chemistry, [&#8230;]
-
----
-
-## [Current Probes Capture Faster Power Electronics Signals](https://www.electronicsforu.com/news/current-probes-capture-faster-power-electronics-signals)
-**Published:** Thu, 18 Jun 2026 07:03:44 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/CT6704_press-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Designed for SiC and GaN systems, the probes target high frequency current measurement challenges that emerge as power electronics switch faster.  Hioki has developed two current probes, the CT6704 and CT6705, for observing high frequency, large current waveforms in modern power electronics systems. The probes are aimed at applications such as SiC and GaN inverters, [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/atom-thin-coating-tack-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers have developed a single-atom-thick coating that could solve a major semiconductor interconnect challenge, enabling smaller, faster and more reliable chips while preserving valuable space for copper wiring. A breakthrough in semiconductor materials engineering may help the chip industry overcome one of the biggest obstacles to continued miniaturization. Researchers have demonstrated an atomically thin coating [&#8230;]
 
 ---
 
-## [JOB: RME coordinator, RME- INGSF At Amazon In Mumbai](https://www.electronicsforu.com/career/rme-coordinator-rme-ingsf-at-amazon-mumbai)
-**Published:** Thu, 18 Jun 2026 06:04:20 +0000
+## [AI Unlocks Hidden Chip Physics](https://www.electronicsforu.com/news/ai-unlocks-hidden-chip-physics)
+**Published:** Fri, 19 Jun 2026 05:37:39 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2020/10/amazon-logo2-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />APPLY HERE Location: Mumbai Company: Amazon Description Basic Qualifications Experience in Electrical/Mechanical/Electronics and Communication/Instrumentation and Controls Preferred Qualifications 1+ years of conveyors/automation/control systems maintenance experience
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/using-machine-learning-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers have developed an AI-driven semiconductor analysis technique that extracts critical material properties from simple transistor measurements in less than a millisecond, potentially transforming chip development and manufacturing. Artificial intelligence is showing a new way to accelerate semiconductor characterization, enabling engineers to uncover hidden material properties from routine transistor measurements almost instantly. Researchers from the [&#8230;]
 
 ---
 
