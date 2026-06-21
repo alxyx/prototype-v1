@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-21 06:14 UTC_
+_Last updated: 2026-06-21 10:42 UTC_
 
 ## [CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation](https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/)
 **Published:** Thu, 18 Jun 2026 02:54:16 +0000
@@ -935,14 +935,6 @@ _Last updated: 2026-06-21 06:14 UTC_
 
 <p>Catalonia is unifying its fragmented tech ecosystem into a coordinated semiconductor cluster spanning photonics, packaging, AI, and chip research.</p>
 <p>The post <a href="https://www.eetimes.com/can-catalonia-deliver-on-its-distributed-semiconductor-network/">Can Catalonia’s Distributed Semiconductor Network Deliver?</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Nordic finds dual-antenna nRF54L15 prototyping tag](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nordic-finds-dual-antenna-nrf54l15-prototyping-tag-2026-06/)
-**Published:** Fri, 19 Jun 2026 14:38:41 +0000
-
-<p>Nordic Semiconductor is launching its battery-powered, dual-antenna compact nRF54L15 prototyping tag, which is optimised for Google&#8217;s Find Hub and Apple&#8217;s Find My systems. The idea is for developers to to ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nordic-finds-dual-antenna-nrf54l15-prototyping-tag-2026-06/">Nordic finds dual-antenna nRF54L15 prototyping tag</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
