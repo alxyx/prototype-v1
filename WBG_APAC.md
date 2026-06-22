@@ -1,6 +1,14 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-21 23:26 UTC_
+_Last updated: 2026-06-22 04:28 UTC_
+
+## [EE Power Asia 2026 to Spotlight Technologies Driving the Next Era of Electrification](https://www.eetasia.com/ee-power-asia-2026-to-spotlight-technologies-driving-the-next-era-of-electrification/)
+**Published:** Mon, 22 Jun 2026 01:15:38 +0000
+
+<p>Now in its fourth year, EE Power Asia brings together industry leaders to discuss power electronics, AI infrastructure, and electric mobility.</p>
+<p>The post <a href="https://www.eetasia.com/ee-power-asia-2026-to-spotlight-technologies-driving-the-next-era-of-electrification/">EE Power Asia 2026 to Spotlight Technologies Driving the Next Era of Electrification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
 
 ## [CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation](https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/)
 **Published:** Thu, 18 Jun 2026 02:54:16 +0000
