@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-22 16:05 UTC_
+_Last updated: 2026-06-22 22:15 UTC_
 
 ## [EE Power Asia 2026 to Spotlight Technologies Driving the Next Era of Electrification](https://www.eetasia.com/ee-power-asia-2026-to-spotlight-technologies-driving-the-next-era-of-electrification/)
 **Published:** Mon, 22 Jun 2026 01:15:38 +0000
@@ -23,6 +23,46 @@ _Last updated: 2026-06-22 16:05 UTC_
 
 <p>WIN Semiconductors' 0.12μm gate-length GaN-on-SiC technology integrates multiple transistor improvements</p>
 <p>The post <a href="https://www.eetasia.com/win-semiconductors-launches-0-12%ce%bcm-gan-power-process-qualified-for-40v-operation/">WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Valens Semiconductor Appoints Karine Pinto-Flomenboim as Chief Financial Officer](https://www.semiconductor-digest.com/valens-semiconductor-appoints-karine-pinto-flomenboim-as-chief-financial-officer/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-appoints-karine-pinto-flomenboim-as-chief-financial-officer)
+**Published:** Mon, 22 Jun 2026 19:23:13 +0000
+
+<p>Valens Semiconductor today announced the appointment of Karine Pinto-Flomenboim as Chief Financial Officer (CFO), effective August 9, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-appoints-karine-pinto-flomenboim-as-chief-financial-officer/">Valens Semiconductor Appoints Karine Pinto-Flomenboim as Chief Financial Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [U.S. Semiconductor Firms Innovate to Meet AI-Driven Demand](https://www.semiconductor-digest.com/u-s-semiconductor-firms-innovate-to-meet-ai-driven-demand/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-semiconductor-firms-innovate-to-meet-ai-driven-demand)
+**Published:** Mon, 22 Jun 2026 19:14:25 +0000
+
+<p>U.S. semiconductor companies are accelerating investments in AI-focused chip development, advanced packaging technologies and new supply chain strategies as semiconductors become increasingly critical to digital transformation and economic competitiveness.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/u-s-semiconductor-firms-innovate-to-meet-ai-driven-demand/">U.S. Semiconductor Firms Innovate to Meet AI-Driven Demand</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Baya Systems Announces Partnership with Openchip on Next-Gen Intelligent Compute](https://www.semiconductor-digest.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/?utm_source=rss&utm_medium=rss&utm_campaign=baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute)
+**Published:** Mon, 22 Jun 2026 19:07:08 +0000
+
+<p>Partnership accelerates early architectural and interconnect optimization decisions that empower the rapid and successful deployment of efficient, scalable AI systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/">Baya Systems Announces Partnership with Openchip on Next-Gen Intelligent Compute</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Claros Announces Strategic Manufacturing Collaboration with Samsung Foundry](https://www.semiconductor-digest.com/claros-announces-strategic-manufacturing-collaboration-with-samsung-foundry/?utm_source=rss&utm_medium=rss&utm_campaign=claros-announces-strategic-manufacturing-collaboration-with-samsung-foundry)
+**Published:** Mon, 22 Jun 2026 19:01:37 +0000
+
+<p>Claros today announced that it is collaborating with Samsung Foundry on process technology and semiconductor manufacturing to launch high-volume production of Claros’s integrated voltage regulator (IVR).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/claros-announces-strategic-manufacturing-collaboration-with-samsung-foundry/">Claros Announces Strategic Manufacturing Collaboration with Samsung Foundry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Strategic Materials Conference 2026 to Spotlight Materials Innovations Fueling the AI Era](https://www.semiconductor-digest.com/strategic-materials-conference-2026-to-spotlight-materials-innovations-fueling-the-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=strategic-materials-conference-2026-to-spotlight-materials-innovations-fueling-the-ai-era)
+**Published:** Mon, 22 Jun 2026 18:28:53 +0000
+
+<p>The Strategic Materials Conference (SMC) 2026 will convene materials and semiconductor leaders from July 13-15, 2026 at Hayes Mansion in San Jose, Calif. for three days of executive insights, technical discussions and networking.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/strategic-materials-conference-2026-to-spotlight-materials-innovations-fueling-the-ai-era/">Strategic Materials Conference 2026 to Spotlight Materials Innovations Fueling the AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -186,19 +226,19 @@ _Last updated: 2026-06-22 16:05 UTC_
 
 ---
 
-## [AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp](https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp)
-**Published:** Tue, 16 Jun 2026 14:59:11 +0000
-
-<p>Rather than relying on fixed metrology sampling schedules, a Cpk-based adaptive sampling framework deploys a responsive, risk-aware system that dynamically allocates metrology capacity based on real-time statistical evidence, enabling faster yield ramp without sacrificing quality. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/">AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays](https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/?utm_source=rss&utm_medium=rss&utm_campaign=unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays)
 **Published:** Tue, 16 Jun 2026 14:59:11 +0000
 
 <p>An integrated process control solution tailored for high-volume manufacturing of surface relief gratings (SRGs) addresses the metrology challenges of scaling AR/MR waveguide production from development to mass-market volumes. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/unlocking-scalable-srg-waveguides-for-mass-market-ar-mr-displays/">Unlocking Scalable SRG Waveguides for Mass-Market AR/MR Displays</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp](https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp)
+**Published:** Tue, 16 Jun 2026 14:59:11 +0000
+
+<p>Rather than relying on fixed metrology sampling schedules, a Cpk-based adaptive sampling framework deploys a responsive, risk-aware system that dynamically allocates metrology capacity based on real-time statistical evidence, enabling faster yield ramp without sacrificing quality. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/ai-driven-cpk-based-adaptive-sampling-and-closed-loop-control-for-accelerating-yield-ramp/">AI-Driven Cpk-Based Adaptive Sampling and Closed-Loop Control for Accelerating Yield Ramp</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -354,19 +394,19 @@ _Last updated: 2026-06-22 16:05 UTC_
 
 ---
 
-## [Precision Sensing for Yield Improvement in Advanced Semiconductor Manufacturing](https://www.semiconductor-digest.com/precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing)
-**Published:** Wed, 10 Jun 2026 13:19:10 +0000
-
-<p>Integrating high-precision piezoelectric sensor systems as early as possible in the R&#038;D phase of semiconductor equipment design has become indispensable for meeting the rising demand for yield, quality, and efficiency throughout the machine’s lifecycle. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing/">Precision Sensing for Yield Improvement in Advanced Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Inside Intel’s Die Sort and Singulation Operation: An Up-Close Look at an Overlooked Process](https://www.semiconductor-digest.com/inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process/?utm_source=rss&utm_medium=rss&utm_campaign=inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process)
 **Published:** Wed, 10 Jun 2026 13:19:10 +0000
 
 <p>Singulation and die sort sit at a critical juncture in the semiconductor value chain: the point where wafer-level investment is converted — or lost — into individual die-level assets. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/inside-intels-die-sort-and-singulation-operation-an-up-close-look-at-an-overlooked-process/">Inside Intel&#8217;s Die Sort and Singulation Operation: An Up-Close Look at an Overlooked Process</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Precision Sensing for Yield Improvement in Advanced Semiconductor Manufacturing](https://www.semiconductor-digest.com/precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing)
+**Published:** Wed, 10 Jun 2026 13:19:10 +0000
+
+<p>Integrating high-precision piezoelectric sensor systems as early as possible in the R&#038;D phase of semiconductor equipment design has become indispensable for meeting the rising demand for yield, quality, and efficiency throughout the machine’s lifecycle. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/precision-sensing-for-yield-improvement-in-advanced-semiconductor-manufacturing/">Precision Sensing for Yield Improvement in Advanced Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -786,43 +826,11 @@ _Last updated: 2026-06-22 16:05 UTC_
 
 ---
 
-## [SEMI Foundation and the U.S. National Science Foundation Launch First Four Regional Nodes of the National Network for Microelectronics Education](https://www.semiconductor-digest.com/semi-foundation-and-the-u-s-national-science-foundation-launch-first-four-regional-nodes-of-the-national-network-for-microelectronics-education/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-and-the-u-s-national-science-foundation-launch-first-four-regional-nodes-of-the-national-network-for-microelectronics-education)
-**Published:** Tue, 26 May 2026 22:41:11 +0000
+## [ROHM Launches AG16xFNxx 80V MOSFET Series](https://www.powerelectronicsnews.com/rohm-launches-ag16xfnxx-80v-mosfet-series/)
+**Published:** Mon, 22 Jun 2026 21:34:49 +0000
 
-<p>The SEMI Foundation, serving as the Hub Operator for the National Network for Microelectronics Education (NNME), today announced the launch of the first four Regional Nodes of the NNME, marking a major national milestone in the effort to build America's microelectronics and semiconductor workforce at unprecedented scale.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-foundation-and-the-u-s-national-science-foundation-launch-first-four-regional-nodes-of-the-national-network-for-microelectronics-education/">SEMI Foundation and the U.S. National Science Foundation Launch First Four Regional Nodes of the National Network for Microelectronics Education</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ASE Launches Automated 310mm Panel-Level Packaging to Accelerate AI Innovation](https://www.semiconductor-digest.com/ase-launches-automated-310mm-panel-level-packaging-to-accelerate-ai-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=ase-launches-automated-310mm-panel-level-packaging-to-accelerate-ai-innovation)
-**Published:** Tue, 26 May 2026 22:36:29 +0000
-
-<p>Advanced Semiconductor Engineering, Inc., a member of ASE Technology Holding Co., Ltd. and a provider of semiconductor assembly and test services, today announced the development of an industry-first automated 310mm × 310mm panel-level packaging production line, advancing its leadership in next-generation advanced packaging technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ase-launches-automated-310mm-panel-level-packaging-to-accelerate-ai-innovation/">ASE Launches Automated 310mm Panel-Level Packaging to Accelerate AI Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [STMicroelectronics’ New GaN Semiconductors Improve Energy Efficiency for High-Demand Applications from AI Servers to Robotics](https://www.semiconductor-digest.com/stmicroelectronics-new-gan-semiconductors-improve-energy-efficiency-for-high-demand-applications-from-ai-servers-to-robotics/?utm_source=rss&utm_medium=rss&utm_campaign=stmicroelectronics-new-gan-semiconductors-improve-energy-efficiency-for-high-demand-applications-from-ai-servers-to-robotics)
-**Published:** Tue, 26 May 2026 22:13:56 +0000
-
-<p>New gallium nitride (GaN)-based power semiconductors from STMicroelectronics are designed to improve efficiency and increase power density in high-demand applications that support electrification.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/stmicroelectronics-new-gan-semiconductors-improve-energy-efficiency-for-high-demand-applications-from-ai-servers-to-robotics/">STMicroelectronics’ New GaN Semiconductors Improve Energy Efficiency for High-Demand Applications from AI Servers to Robotics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AMD Announces More Than $10 Billion in Taiwan Ecosystem Investments to Accelerate AI Infrastructure](https://www.semiconductor-digest.com/amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure)
-**Published:** Fri, 22 May 2026 16:08:32 +0000
-
-<p>To meet the growing demand for AI infrastructure, AMD today announced more than $10 billion in investments across the Taiwan ecosystem to expand strategic partnerships and scale advanced packaging manufacturing for next-generation AI infrastructure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/amd-announces-more-than-10-billion-in-taiwan-ecosystem-investments-to-accelerate-ai-infrastructure/">AMD Announces More Than $10 Billion in Taiwan Ecosystem Investments to Accelerate AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Micron Advances Made-in-America Memory With Manufacturing Expansion in Virginia](https://www.semiconductor-digest.com/micron-advances-made-in-america-memory-with-manufacturing-expansion-in-virginia/?utm_source=rss&utm_medium=rss&utm_campaign=micron-advances-made-in-america-memory-with-manufacturing-expansion-in-virginia)
-**Published:** Fri, 22 May 2026 16:01:11 +0000
-
-<p>Micron Technology, Inc. today is celebrating the start of 1α (1-alpha) DRAM manufacturing at its Manassas, Virginia, fab, an important step in the company's efforts to significantly expand U.S. memory manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-advances-made-in-america-memory-with-manufacturing-expansion-in-virginia/">Micron Advances Made-in-America Memory With Manufacturing Expansion in Virginia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="ROHM Launches AG16xFNxx 80V MOSFET Series." class="webfeedsFeaturedVisual wp-post-image" height="945" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/Rohm_PR.png?fit=1156%2C945" style="display: block; margin-bottom: 5px; clear: both;" width="1156" /><p>The new 80V MOSFETs for automotive 48V architectures deliver compact packaging, high current capability, and AEC-Q101 qualification.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/rohm-launches-ag16xfnxx-80v-mosfet-series/">ROHM Launches AG16xFNxx 80V MOSFET Series</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
@@ -898,14 +906,6 @@ _Last updated: 2026-06-22 16:05 UTC_
 
 ---
 
-## [PCIM 2026: onsemi’s Antoine Jalabert on the GaNEXUS Launch and the Push into GaN](https://www.powerelectronicsnews.com/pcim-2026-onsemis-antoine-jalabert-on-the-ganexus-launch-and-the-push-into-gan/)
-**Published:** Tue, 16 Jun 2026 19:16:22 +0000
-
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/Snapshot.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>At PCIM 2026, onsemi's Antoine Jalabert discusses the GaNEXUS launch and the company's broader push into lateral GaN.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/pcim-2026-onsemis-antoine-jalabert-on-the-ganexus-launch-and-the-push-into-gan/">PCIM 2026: onsemi&#8217;s Antoine Jalabert on the GaNEXUS Launch and the Push into GaN</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
-
----
-
 ## [Software to Silicon With RISC-V for Physical AI](https://www.eetimes.com/software-to-silicon-with-risc-v-for-physical-ai/)
 **Published:** Mon, 22 Jun 2026 14:13:07 +0000
 
@@ -943,14 +943,6 @@ _Last updated: 2026-06-22 16:05 UTC_
 
 <p>Building real-time physical AI applications—such as high-performance, multimodal object tracking for autonomous systems within a constrained power envelope—is notoriously difficult. It requires coordinating specialized hardware, managing complex data flows, and optimizing every microsecond for maximum performance. This tech paper explores how agentic software environments can dramatically accelerate the development and deployment of physical AI applications. [&#8230;]</p>
 <p>The post <a href="https://www.eetimes.com/the-new-software-standard-for-physical-ai-insert-return-here-for-new-line-accelerating-development-and-deployment-from-months-to-days/">The New Software Standard for Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Can Catalonia’s Distributed Semiconductor Network Deliver?](https://www.eetimes.com/can-catalonia-deliver-on-its-distributed-semiconductor-network/)
-**Published:** Thu, 18 Jun 2026 07:15:00 +0000
-
-<p>Catalonia is unifying its fragmented tech ecosystem into a coordinated semiconductor cluster spanning photonics, packaging, AI, and chip research.</p>
-<p>The post <a href="https://www.eetimes.com/can-catalonia-deliver-on-its-distributed-semiconductor-network/">Can Catalonia’s Distributed Semiconductor Network Deliver?</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
