@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-22 04:28 UTC_
+_Last updated: 2026-06-22 16:05 UTC_
 
 ## [EE Power Asia 2026 to Spotlight Technologies Driving the Next Era of Electrification](https://www.eetasia.com/ee-power-asia-2026-to-spotlight-technologies-driving-the-next-era-of-electrification/)
 **Published:** Mon, 22 Jun 2026 01:15:38 +0000
@@ -826,6 +826,14 @@ _Last updated: 2026-06-22 04:28 UTC_
 
 ---
 
+## [PCIM 2026: Microchip’s Nitesh Satheesh on the New 3.3kV Module and Closing the SiC Power Gap](https://www.powerelectronicsnews.com/pcim-2026-microchips-nitesh-satheesh-on-the-new-3-3kv-module-and-closing-the-sic-power-gap/)
+**Published:** Mon, 22 Jun 2026 11:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="895" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/Microship_Nitesh-Satheesh.png?fit=1914%2C895" style="display: block; margin-bottom: 5px; clear: both;" width="1914" /><p>Microchip discusses the new 3.3kV HVD3 module, its silicon nitride substrate, and how it halves the SST module count for AI power conversion.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/pcim-2026-microchips-nitesh-satheesh-on-the-new-3-3kv-module-and-closing-the-sic-power-gap/">PCIM 2026: Microchip&#8217;s Nitesh Satheesh on the New 3.3kV Module and Closing the SiC Power Gap</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
 ## [Satellite Power Delivery Architecture, Utility-Scale GFM Inverters, Solid-State Circuit Breakers: Power Electronics Week Insights](https://www.powerelectronicsnews.com/satellite-power-delivery-architecture-utility-scale-gfm-inverters-solid-state-circuit-breakers-power-electronics-week-insights/)
 **Published:** Fri, 19 Jun 2026 23:22:30 +0000
 
@@ -898,11 +906,11 @@ _Last updated: 2026-06-22 04:28 UTC_
 
 ---
 
-## [PowerUP Circuit Lab: ADI’s EVAL-LT7170-1-AZ Evaluation Board](https://www.powerelectronicsnews.com/powerup-circuit-lab-adis-eval-lt7170-1-az-evaluation-board/)
-**Published:** Tue, 16 Jun 2026 19:15:16 +0000
+## [Software to Silicon With RISC-V for Physical AI](https://www.eetimes.com/software-to-silicon-with-risc-v-for-physical-ai/)
+**Published:** Mon, 22 Jun 2026 14:13:07 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/06/YouTube-Thumbnail.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>A walkthrough of the LT7170-1 dual-phase POL converter, covering accuracy, EMI, transient response, and PMBus monitoring for FPGAs.</p>
-<p>The post <a href="https://www.powerelectronicsnews.com/powerup-circuit-lab-adis-eval-lt7170-1-az-evaluation-board/">PowerUP Circuit Lab: ADI&#8217;s EVAL-LT7170-1-AZ Evaluation Board</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+<p>Discover how RISC-V is reshaping AI chip design—watch to see why it's becoming the default ISA. </p>
+<p>The post <a href="https://www.eetimes.com/software-to-silicon-with-risc-v-for-physical-ai/">Software to Silicon With RISC-V for Physical AI</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
 
 ---
 
@@ -943,14 +951,6 @@ _Last updated: 2026-06-22 04:28 UTC_
 
 <p>Catalonia is unifying its fragmented tech ecosystem into a coordinated semiconductor cluster spanning photonics, packaging, AI, and chip research.</p>
 <p>The post <a href="https://www.eetimes.com/can-catalonia-deliver-on-its-distributed-semiconductor-network/">Can Catalonia’s Distributed Semiconductor Network Deliver?</a> appeared first on <a href="https://www.eetimes.com">EE Times</a>.</p>
-
----
-
-## [Nordic finds dual-antenna nRF54L15 prototyping tag](https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nordic-finds-dual-antenna-nrf54l15-prototyping-tag-2026-06/)
-**Published:** Fri, 19 Jun 2026 14:38:41 +0000
-
-<p>Nordic Semiconductor is launching its battery-powered, dual-antenna compact nRF54L15 prototyping tag, which is optimised for Google&#8217;s Find Hub and Apple&#8217;s Find My systems. The idea is for developers to to ...</p>
-<p>The post <a href="https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/nordic-finds-dual-antenna-nrf54l15-prototyping-tag-2026-06/">Nordic finds dual-antenna nRF54L15 prototyping tag</a> appeared first on <a href="https://www.electronicsweekly.com">Electronics Weekly</a>.</p>
 
 ---
 
