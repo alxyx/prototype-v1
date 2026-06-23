@@ -55,19 +55,57 @@ def parse_date(article):
 
 articles.sort(key=parse_date, reverse=True)
 
-with open("WBG_APAC.md", "w", encoding="utf-8") as f:
-    f.write("# 🌏 Wide Bandgap Semiconductor Updates - APAC Region\n\n")
-    f.write(f"_Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}_\n\n")
+# --- PAGING LOGIC ---
+ITEMS_PER_PAGE = 10 # Tweak this to whatever feels right for your feed
 
-    if not articles:
+# Handle the case where no articles are found first
+if not articles:
+    with open("WBG_APAC.md", "w", encoding="utf-8") as f:
+        f.write("# 🌏 Wide Bandgap Semiconductor Updates - APAC Region\n\n")
+        f.write(f"_Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}_\n\n")
         f.write("No updates found for the selected keywords.\n\n")
-        f.write("## [Sample WBG Update SiC Expansion in Asia\n")
+        f.write("## [Sample WBG Update SiC Expansion in Asia](dummy-link)\n")
         f.write("**Published:** Sample Date\n\n")
         f.write("This is a sample article to demonstrate the update feed.\n\n")
         f.write("---\n\n")
-    else:
-        for article in articles:
-            f.write(f"## [{article['title']}]({article['link']})\n")
-            f.write(f"**Published:** {article['published']}\n\n")
-            f.write(f"{article['summary']}\n\n")
-            f.write("---\n\n")
+else:
+    # Calculate how many pages we actually need
+    total_pages = (len(articles) + ITEMS_PER_PAGE - 1) // ITEMS_PER_PAGE
+
+    for page in range(total_pages):
+        # Name the files logically: WBG_APAC.md (main), WBG_APAC_page_2.md, etc.
+        current_file = "WBG_APAC.md" if page == 0 else f"WBG_APAC_page_{page + 1}.md"
+        
+        # Slice the list to get just the articles for this specific page
+        start_idx = page * ITEMS_PER_PAGE
+        end_idx = start_idx + ITEMS_PER_PAGE
+        page_articles = articles[start_idx:end_idx]
+
+        with open(current_file, "w", encoding="utf-8") as f:
+            f.write(f"# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page {page + 1}/{total_pages})\n\n")
+            f.write(f"_Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}_\n\n")
+
+            # Set up our navigation links
+            prev_file = "WBG_APAC.md" if page == 1 else f"WBG_APAC_page_{page}.md"
+            next_file = f"WBG_APAC_page_{page + 2}.md"
+            
+            nav_parts = []
+            if page > 0:
+                nav_parts.append(f"[⏪ Previous Page]({prev_file})")
+            if page < total_pages - 1:
+                nav_parts.append(f"[Next Page ⏩]({next_file})")
+
+            # Write Top Navigation
+            if nav_parts:
+                f.write(" | ".join(nav_parts) + "\n\n---\n\n")
+
+            # Dump the articles for this page
+            for article in page_articles:
+                f.write(f"## [{article['title']}]({article['link']})\n")
+                f.write(f"**Published:** {article['published']}\n\n")
+                f.write(f"{article['summary']}\n\n")
+                f.write("---\n\n")
+
+            # Write Bottom Navigation (so you don't have to scroll back up)
+            if nav_parts:
+                f.write(" | ".join(nav_parts) + "\n\n")
