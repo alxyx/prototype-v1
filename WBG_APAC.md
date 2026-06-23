@@ -1,28 +1,36 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-23 00:21 UTC_
+_Last updated: 2026-06-23 05:17 UTC_
 
-## [EE Power Asia 2026 to Spotlight Technologies Driving the Next Era of Electrification](https://www.eetasia.com/ee-power-asia-2026-to-spotlight-technologies-driving-the-next-era-of-electrification/)
-**Published:** Mon, 22 Jun 2026 01:15:38 +0000
+## [German Court Hands Infineon Another Victory in Expanding GaN Patent Dispute With Innoscience](https://www.eetasia.com/german-court-hands-infineon-another-victory-in-expanding-gan-patent-dispute-with-innoscience/)
+**Published:** Tue, 23 Jun 2026 03:10:06 +0000
 
-<p>Now in its fourth year, EE Power Asia brings together industry leaders to discuss power electronics, AI infrastructure, and electric mobility.</p>
-<p>The post <a href="https://www.eetasia.com/ee-power-asia-2026-to-spotlight-technologies-driving-the-next-era-of-electrification/">EE Power Asia 2026 to Spotlight Technologies Driving the Next Era of Electrification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation](https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/)
-**Published:** Thu, 18 Jun 2026 02:54:16 +0000
-
-<p>The MoU is aimed at establishing a strategic framework to accelerate innovation through simulation-led development and advanced digital engineering methodologies.</p>
-<p>The post <a href="https://www.eetasia.com/cadfem-apac-and-silterra-malaysia-ink-mou-to-advance-semiconductor-innovation/">CADFEM APAC and SilTerra Malaysia Ink MoU to Advance Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Munich court blocks additional Innoscience GaN products, awards damages, and reinforces Infineon’s patent claims.</p>
+<p>The post <a href="https://www.eetasia.com/german-court-hands-infineon-another-victory-in-expanding-gan-patent-dispute-with-innoscience/">German Court Hands Infineon Another Victory in Expanding GaN Patent Dispute With Innoscience</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
-## [WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation](https://www.eetasia.com/win-semiconductors-launches-0-12%ce%bcm-gan-power-process-qualified-for-40v-operation/)
-**Published:** Thu, 18 Jun 2026 02:28:53 +0000
+## [Synopsys Rolls Out Multiphysics Fusion Solutions to Tackle Advanced Chip Design Complexity](https://www.eetasia.com/synopsys-rolls-out-multiphysics-fusion-solutions-to-tackle-advanced-chip-design-complexity/)
+**Published:** Tue, 23 Jun 2026 03:05:19 +0000
 
-<p>WIN Semiconductors' 0.12μm gate-length GaN-on-SiC technology integrates multiple transistor improvements</p>
-<p>The post <a href="https://www.eetasia.com/win-semiconductors-launches-0-12%ce%bcm-gan-power-process-qualified-for-40v-operation/">WIN Semiconductors Launches 0.12μm GaN Power Process Qualified for 40V Operation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>New portfolio integrates EDA and multiphysics analysis, accelerating signoff, design closure, and multi-die development.</p>
+<p>The post <a href="https://www.eetasia.com/synopsys-rolls-out-multiphysics-fusion-solutions-to-tackle-advanced-chip-design-complexity/">Synopsys Rolls Out Multiphysics Fusion Solutions to Tackle Advanced Chip Design Complexity</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Brewer Science to Acquire Heraeus Epurio’s Semiconductor Chemical Business](https://www.eetasia.com/brewer-science-to-acquire-heraeus-epurios-semiconductor-chemical-business/)
+**Published:** Tue, 23 Jun 2026 03:00:23 +0000
+
+<p>The acquisition strengthens Brewer Science's ability to support semiconductor customers with highly specialized, ultrapure chemical solutions.</p>
+<p>The post <a href="https://www.eetasia.com/brewer-science-to-acquire-heraeus-epurios-semiconductor-chemical-business/">Brewer Science to Acquire Heraeus Epurio&#8217;s Semiconductor Chemical Business</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Why Cadence Sees AI Super Agents as the Next Semiconductor Productivity Engine](https://www.eetasia.com/why-cadence-sees-ai-super-agents-as-the-next-semiconductor-productivity-engine/)
+**Published:** Tue, 23 Jun 2026 02:05:28 +0000
+
+<p>Cadence believes autonomous AI agents will become essential as semiconductor complexity outpaces engineering workforce growth.</p>
+<p>The post <a href="https://www.eetasia.com/why-cadence-sees-ai-super-agents-as-the-next-semiconductor-productivity-engine/">Why Cadence Sees AI Super Agents as the Next Semiconductor Productivity Engine</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -946,17 +954,17 @@ _Last updated: 2026-06-23 00:21 UTC_
 
 ---
 
-## [Atom-Thin Coating Boosts Chip Wiring](https://www.electronicsforu.com/news/atom-thin-coating-boosts-chip-wiring)
-**Published:** Fri, 19 Jun 2026 05:42:32 +0000
+## [Ultra-Compact GaN Motor Drive Reference Design](https://www.electronicsforu.com/electronics-projects/ultra-compact-gan-motor-drive-reference-design)
+**Published:** Mon, 22 Jun 2026 12:25:45 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/atom-thin-coating-tack-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers have developed a single-atom-thick coating that could solve a major semiconductor interconnect challenge, enabling smaller, faster and more reliable chips while preserving valuable space for copper wiring. A breakthrough in semiconductor materials engineering may help the chip industry overcome one of the biggest obstacles to continued miniaturization. Researchers have demonstrated an atomically thin coating [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/np27-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Combining high switching frequency, exceptional power density, and a footprint small enough for embedded actuators, the platform enables next-generation robotic joints, end-effectors, and UAV propulsion systems while simplifying motor-control development. The EPC91132 is a highly integrated three-phase BLDC motor drive reference design by EPC developed for compact robotic actuators, humanoid robot joints, end-effectors, and drone [&#8230;]
 
 ---
 
-## [AI Unlocks Hidden Chip Physics](https://www.electronicsforu.com/news/ai-unlocks-hidden-chip-physics)
-**Published:** Fri, 19 Jun 2026 05:37:39 +0000
+## [High-Speed Data Acquisition Platform Targets](https://www.electronicsforu.com/news/high-speed-data-acquisition-platform-targets)
+**Published:** Mon, 22 Jun 2026 08:01:44 +0000
 
-<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/using-machine-learning-1-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />Researchers have developed an AI-driven semiconductor analysis technique that extracts critical material properties from simple transistor measurements in less than a millisecond, potentially transforming chip development and manufacturing. Artificial intelligence is showing a new way to accelerate semiconductor characterization, enabling engineers to uncover hidden material properties from routine transistor measurements almost instantly. Researchers from the [&#8230;]
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="150" src="https://www.electronicsforu.com/wp-contents/uploads/2026/06/np26-150x150.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="150" />A new modular data acquisition system combines high-speed sampling, long-duration recording, and flexible multi-channel measurement capabilities to support testing, validation, and troubleshooting across automotive, power electronics, renewable energy, and mechatronics applications. The growing complexity of electric vehicles, renewable energy systems, and advanced mechatronics is driving demand for test equipment capable of capturing both fast transient [&#8230;]
 
 ---
 
