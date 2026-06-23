@@ -52,27 +52,6 @@ def parse_date(article):
         return datetime.strptime(article["published"], "%a, %d %b %Y %H:%M:%S %Z")
     except:
         return datetime.min
-    
-def build_pagination(page, total_pages):
-    links = []
-
-    if page > 0:
-        prev_file = "WBG_APAC.md" if page == 1 else f"WBG_APAC_page_{page}.md"
-        links.append(f"[⏪ Previous]({prev_file})")
-
-    for p in range(total_pages):
-        page_file = "WBG_APAC.md" if p == 0 else f"WBG_APAC_page_{p+1}.md"
-
-        if p == page:
-            links.append(f"**{p+1}**")
-        else:
-            links.append(f"[{p+1}]({page_file})")
-
-    if page < total_pages - 1:
-        next_file = f"WBG_APAC_page_{page+2}.md"
-        links.append(f"[Next ⏩]({next_file})")
-
-    return " | ".join(links)
 
 articles.sort(key=parse_date, reverse=True)
 
@@ -93,6 +72,18 @@ else:
     # Calculate how many pages we actually need
     total_pages = (len(articles) + ITEMS_PER_PAGE - 1) // ITEMS_PER_PAGE
 
+    # --- PAGE NUMBER NAVIGATION ONLY (1 2 3 ... N) ---
+    page_numbers = []
+
+    for i in range(total_pages):
+        if i == page:
+            page_numbers.append(f"**{i + 1}**")  # current page
+        else:
+            filename = "WBG_APAC.md" if i == 0 else f"WBG_APAC_page_{i + 1}.md"
+            page_numbers.append(f"[{i + 1}]({filename})")
+
+    pagination_bar = " ".join(page_numbers)
+
     for page in range(total_pages):
         # Name the files logically: WBG_APAC.md (main), WBG_APAC_page_2.md, etc.
         current_file = "WBG_APAC.md" if page == 0 else f"WBG_APAC_page_{page + 1}.md"
@@ -106,20 +97,11 @@ else:
             f.write(f"# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page {page + 1}/{total_pages})\n\n")
             f.write(f"_Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}_\n\n")
 
-            pagination = build_pagination(page, total_pages)
-
-            if pagination:
-                f.write(pagination + "\n\n---\n\n")
-
             # Dump the articles for this page
             for article in page_articles:
                 f.write(f"## [{article['title']}]({article['link']})\n")
                 f.write(f"**Published:** {article['published']}\n\n")
                 f.write(f"{article['summary']}\n\n")
                 f.write("---\n\n")
-
-            # Write Bottom Navigation (so you don't have to scroll back up)
-            # Write Bottom Navigation
-            if pagination:
-                f.write("\n---\n\n")
-                f.write(pagination + "\n")
+                
+        f.write(pagination_bar + "\n\n---\n\n")
