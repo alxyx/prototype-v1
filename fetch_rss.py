@@ -52,6 +52,27 @@ def parse_date(article):
         return datetime.strptime(article["published"], "%a, %d %b %Y %H:%M:%S %Z")
     except:
         return datetime.min
+    
+def build_pagination(page, total_pages):
+    links = []
+
+    if page > 0:
+        prev_file = "WBG_APAC.md" if page == 1 else f"WBG_APAC_page_{page}.md"
+        links.append(f"[⏪ Previous]({prev_file})")
+
+    for p in range(total_pages):
+        page_file = "WBG_APAC.md" if p == 0 else f"WBG_APAC_page_{p+1}.md"
+
+        if p == page:
+            links.append(f"**{p+1}**")
+        else:
+            links.append(f"[{p+1}]({page_file})")
+
+    if page < total_pages - 1:
+        next_file = f"WBG_APAC_page_{page+2}.md"
+        links.append(f"[Next ⏩]({next_file})")
+
+    return " | ".join(links)
 
 articles.sort(key=parse_date, reverse=True)
 
@@ -85,19 +106,10 @@ else:
             f.write(f"# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page {page + 1}/{total_pages})\n\n")
             f.write(f"_Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}_\n\n")
 
-            # Set up our navigation links
-            prev_file = "WBG_APAC.md" if page == 1 else f"WBG_APAC_page_{page}.md"
-            next_file = f"WBG_APAC_page_{page + 2}.md"
-            
-            nav_parts = []
-            if page > 0:
-                nav_parts.append(f"[⏪ Previous Page]({prev_file})")
-            if page < total_pages - 1:
-                nav_parts.append(f"[Next Page ⏩]({next_file})")
+            pagination = build_pagination(page, total_pages)
 
-            # Write Top Navigation
-            if nav_parts:
-                f.write(" | ".join(nav_parts) + "\n\n---\n\n")
+            if pagination:
+                f.write(pagination + "\n\n---\n\n")
 
             # Dump the articles for this page
             for article in page_articles:
@@ -107,5 +119,7 @@ else:
                 f.write("---\n\n")
 
             # Write Bottom Navigation (so you don't have to scroll back up)
-            if nav_parts:
-                f.write(" | ".join(nav_parts) + "\n\n")
+            # Write Bottom Navigation
+            if pagination:
+                f.write("\n---\n\n")
+                f.write(pagination + "\n")
