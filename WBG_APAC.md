@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region
 
-_Last updated: 2026-06-22 22:15 UTC_
+_Last updated: 2026-06-23 00:21 UTC_
 
 ## [EE Power Asia 2026 to Spotlight Technologies Driving the Next Era of Electrification](https://www.eetasia.com/ee-power-asia-2026-to-spotlight-technologies-driving-the-next-era-of-electrification/)
 **Published:** Mon, 22 Jun 2026 01:15:38 +0000
