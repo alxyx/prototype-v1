@@ -1,8 +1,8 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-06-23 08:35 UTC_
+_Last updated: 2026-06-23 09:21 UTC_
 
-[Next Page ⏩](WBG_APAC_page_2.md)
+**1** | [2](WBG_APAC_page_2.md) | [3](WBG_APAC_page_3.md) | [4](WBG_APAC_page_4.md) | [5](WBG_APAC_page_5.md) | [6](WBG_APAC_page_6.md) | [7](WBG_APAC_page_7.md) | [8](WBG_APAC_page_8.md) | [9](WBG_APAC_page_9.md) | [10](WBG_APAC_page_10.md) | [11](WBG_APAC_page_11.md) | [12](WBG_APAC_page_12.md) | [13](WBG_APAC_page_13.md) | [Next ⏩](WBG_APAC_page_2.md)
 
 ---
 
@@ -86,5 +86,7 @@ _Last updated: 2026-06-23 08:35 UTC_
 
 ---
 
-[Next Page ⏩](WBG_APAC_page_2.md)
 
+---
+
+**1** | [2](WBG_APAC_page_2.md) | [3](WBG_APAC_page_3.md) | [4](WBG_APAC_page_4.md) | [5](WBG_APAC_page_5.md) | [6](WBG_APAC_page_6.md) | [7](WBG_APAC_page_7.md) | [8](WBG_APAC_page_8.md) | [9](WBG_APAC_page_9.md) | [10](WBG_APAC_page_10.md) | [11](WBG_APAC_page_11.md) | [12](WBG_APAC_page_12.md) | [13](WBG_APAC_page_13.md) | [Next ⏩](WBG_APAC_page_2.md)
