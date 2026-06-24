@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-06-24 01:18 UTC_
+_Last updated: 2026-06-24 08:35 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [MKS Opens Penang Supercenter Factory to Support Growing Semiconductor Equipment Demand](https://www.eetasia.com/mks-opens-penang-supercenter-factory-to-support-growing-semiconductor-equipment-demand/)
+**Published:** Wed, 24 Jun 2026 01:53:21 +0000
+
+<p>New Penang facility expands semiconductor equipment production capacity while supporting supply chain resilience and local employment.</p>
+<p>The post <a href="https://www.eetasia.com/mks-opens-penang-supercenter-factory-to-support-growing-semiconductor-equipment-demand/">MKS Opens Penang Supercenter Factory to Support Growing Semiconductor Equipment Demand</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-06-24 01:18 UTC_
 
 <p>The potential of photonic integrated circuits can only be fully realized through advances in foundry infrastructure, advanced packaging integration, and volume manufacturing scale — making ecosystem maturity as important as design innovation. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/why-the-future-of-photonics-depends-on-foundries-packaging-and-scale/">Why the Future of Photonics Depends on Foundries, Packaging, and Scale</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Valens Semiconductor Appoints Karine Pinto-Flomenboim as Chief Financial Officer](https://www.semiconductor-digest.com/valens-semiconductor-appoints-karine-pinto-flomenboim-as-chief-financial-officer/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-appoints-karine-pinto-flomenboim-as-chief-financial-officer)
-**Published:** Mon, 22 Jun 2026 19:23:13 +0000
-
-<p>Valens Semiconductor today announced the appointment of Karine Pinto-Flomenboim as Chief Financial Officer (CFO), effective August 9, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-appoints-karine-pinto-flomenboim-as-chief-financial-officer/">Valens Semiconductor Appoints Karine Pinto-Flomenboim as Chief Financial Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
