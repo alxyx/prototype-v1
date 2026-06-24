@@ -1,8 +1,8 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-06-23 09:21 UTC_
+_Last updated: 2026-06-24 01:18 UTC_
 
-**1** | [2](WBG_APAC_page_2.md) | [3](WBG_APAC_page_3.md) | [4](WBG_APAC_page_4.md) | [5](WBG_APAC_page_5.md) | [6](WBG_APAC_page_6.md) | [7](WBG_APAC_page_7.md) | [8](WBG_APAC_page_8.md) | [9](WBG_APAC_page_9.md) | [10](WBG_APAC_page_10.md) | [11](WBG_APAC_page_11.md) | [12](WBG_APAC_page_12.md) | [13](WBG_APAC_page_13.md) | [Next ⏩](WBG_APAC_page_2.md)
+[Next Page ⏩](WBG_APAC_page_2.md)
 
 ---
 
@@ -38,6 +38,46 @@ _Last updated: 2026-06-23 09:21 UTC_
 
 ---
 
+## [SEMICON West 2026 to Spotlight Key Innovations and Market Drivers Powering the Semiconductor Industry Beyond $1 Trillion](https://www.semiconductor-digest.com/semicon-west-2026-to-spotlight-key-innovations-and-market-drivers-powering-the-semiconductor-industry-beyond-1-trillion/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-west-2026-to-spotlight-key-innovations-and-market-drivers-powering-the-semiconductor-industry-beyond-1-trillion)
+**Published:** Tue, 23 Jun 2026 20:54:15 +0000
+
+<p>SEMI, the industry association serving the global semiconductor and electronics design and manufacturing supply chain, today announced this year’s SEMICON West will be held October 13-15 at Moscone Center in San Francisco.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semicon-west-2026-to-spotlight-key-innovations-and-market-drivers-powering-the-semiconductor-industry-beyond-1-trillion/">SEMICON West 2026 to Spotlight Key Innovations and Market Drivers Powering the Semiconductor Industry Beyond $1 Trillion</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AlpSemi Raises €17 Million to Scale Next-Generation Solid-State Circuit Breaker Power Switches for Buildings and AI Data Centers](https://www.semiconductor-digest.com/alpsemi-raises-e17-million-to-scale-next-generation-solid-state-circuit-breaker-power-switches-for-buildings-and-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=alpsemi-raises-e17-million-to-scale-next-generation-solid-state-circuit-breaker-power-switches-for-buildings-and-ai-data-centers)
+**Published:** Tue, 23 Jun 2026 20:41:29 +0000
+
+<p>Backed by leading industry investors, AlpSemi is advancing an integrated semiconductor platform designed to transform intelligent power protection in global markets.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/alpsemi-raises-e17-million-to-scale-next-generation-solid-state-circuit-breaker-power-switches-for-buildings-and-ai-data-centers/">AlpSemi Raises €17 Million to Scale Next-Generation Solid-State Circuit Breaker Power Switches for Buildings and AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [IEEE International Electron Devices Meeting Announces 2026 Call for Papers](https://www.semiconductor-digest.com/ieee-international-electron-devices-meeting-announces-2026-call-for-papers/?utm_source=rss&utm_medium=rss&utm_campaign=ieee-international-electron-devices-meeting-announces-2026-call-for-papers)
+**Published:** Tue, 23 Jun 2026 20:36:51 +0000
+
+<p>The 72nd annual IEEE International Electron Devices Meeting (IEDM) has issued a Call for Papers seeking original work by the semiconductor industry’s leading researchers in all areas of microelectronics technology, representing the theme “Devices at the Heart of the Intelligence Revolution.”</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ieee-international-electron-devices-meeting-announces-2026-call-for-papers/">IEEE International Electron Devices Meeting Announces 2026 Call for Papers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Addressing Liquid Cooling Gaps in AI Data Centers](https://www.semiconductor-digest.com/addressing-liquid-cooling-gaps-in-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=addressing-liquid-cooling-gaps-in-ai-data-centers)
+**Published:** Tue, 23 Jun 2026 11:59:00 +0000
+
+<p>AI server power densities have overwhelmed conventional air cooling, yet current liquid cooling deployments leave critical thermal management gaps that must be addressed to ensure reliable operation in high-density AI data centers. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/addressing-liquid-cooling-gaps-in-ai-data-centers/">Addressing Liquid Cooling Gaps in AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Why the Future of Photonics Depends on Foundries, Packaging, and Scale](https://www.semiconductor-digest.com/why-the-future-of-photonics-depends-on-foundries-packaging-and-scale/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-future-of-photonics-depends-on-foundries-packaging-and-scale)
+**Published:** Tue, 23 Jun 2026 11:59:00 +0000
+
+<p>The potential of photonic integrated circuits can only be fully realized through advances in foundry infrastructure, advanced packaging integration, and volume manufacturing scale — making ecosystem maturity as important as design innovation. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/why-the-future-of-photonics-depends-on-foundries-packaging-and-scale/">Why the Future of Photonics Depends on Foundries, Packaging, and Scale</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Valens Semiconductor Appoints Karine Pinto-Flomenboim as Chief Financial Officer](https://www.semiconductor-digest.com/valens-semiconductor-appoints-karine-pinto-flomenboim-as-chief-financial-officer/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-appoints-karine-pinto-flomenboim-as-chief-financial-officer)
 **Published:** Mon, 22 Jun 2026 19:23:13 +0000
 
@@ -46,47 +86,5 @@ _Last updated: 2026-06-23 09:21 UTC_
 
 ---
 
-## [U.S. Semiconductor Firms Innovate to Meet AI-Driven Demand](https://www.semiconductor-digest.com/u-s-semiconductor-firms-innovate-to-meet-ai-driven-demand/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-semiconductor-firms-innovate-to-meet-ai-driven-demand)
-**Published:** Mon, 22 Jun 2026 19:14:25 +0000
+[Next Page ⏩](WBG_APAC_page_2.md)
 
-<p>U.S. semiconductor companies are accelerating investments in AI-focused chip development, advanced packaging technologies and new supply chain strategies as semiconductors become increasingly critical to digital transformation and economic competitiveness.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/u-s-semiconductor-firms-innovate-to-meet-ai-driven-demand/">U.S. Semiconductor Firms Innovate to Meet AI-Driven Demand</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Baya Systems Announces Partnership with Openchip on Next-Gen Intelligent Compute](https://www.semiconductor-digest.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/?utm_source=rss&utm_medium=rss&utm_campaign=baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute)
-**Published:** Mon, 22 Jun 2026 19:07:08 +0000
-
-<p>Partnership accelerates early architectural and interconnect optimization decisions that empower the rapid and successful deployment of efficient, scalable AI systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/baya-systems-announces-partnership-with-openchip-on-next-gen-intelligent-compute/">Baya Systems Announces Partnership with Openchip on Next-Gen Intelligent Compute</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Claros Announces Strategic Manufacturing Collaboration with Samsung Foundry](https://www.semiconductor-digest.com/claros-announces-strategic-manufacturing-collaboration-with-samsung-foundry/?utm_source=rss&utm_medium=rss&utm_campaign=claros-announces-strategic-manufacturing-collaboration-with-samsung-foundry)
-**Published:** Mon, 22 Jun 2026 19:01:37 +0000
-
-<p>Claros today announced that it is collaborating with Samsung Foundry on process technology and semiconductor manufacturing to launch high-volume production of Claros’s integrated voltage regulator (IVR).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/claros-announces-strategic-manufacturing-collaboration-with-samsung-foundry/">Claros Announces Strategic Manufacturing Collaboration with Samsung Foundry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Strategic Materials Conference 2026 to Spotlight Materials Innovations Fueling the AI Era](https://www.semiconductor-digest.com/strategic-materials-conference-2026-to-spotlight-materials-innovations-fueling-the-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=strategic-materials-conference-2026-to-spotlight-materials-innovations-fueling-the-ai-era)
-**Published:** Mon, 22 Jun 2026 18:28:53 +0000
-
-<p>The Strategic Materials Conference (SMC) 2026 will convene materials and semiconductor leaders from July 13-15, 2026 at Hayes Mansion in San Jose, Calif. for three days of executive insights, technical discussions and networking.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/strategic-materials-conference-2026-to-spotlight-materials-innovations-fueling-the-ai-era/">Strategic Materials Conference 2026 to Spotlight Materials Innovations Fueling the AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SK hynix Ships Samples of 12-Layer Next-Gen ‘HBM4E’](https://www.semiconductor-digest.com/sk-hynix-ships-samples-of-12-layer-next-gen-hbm4e/?utm_source=rss&utm_medium=rss&utm_campaign=sk-hynix-ships-samples-of-12-layer-next-gen-hbm4e)
-**Published:** Fri, 19 Jun 2026 18:43:11 +0000
-
-<p>SK hynix Inc. announced today that it has shipped samples of HBM4E, a next-generation DRAM for AI, to major customers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sk-hynix-ships-samples-of-12-layer-next-gen-hbm4e/">SK hynix Ships Samples of 12-Layer Next-Gen &#8216;HBM4E&#8217;</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-
----
-
-**1** | [2](WBG_APAC_page_2.md) | [3](WBG_APAC_page_3.md) | [4](WBG_APAC_page_4.md) | [5](WBG_APAC_page_5.md) | [6](WBG_APAC_page_6.md) | [7](WBG_APAC_page_7.md) | [8](WBG_APAC_page_8.md) | [9](WBG_APAC_page_9.md) | [10](WBG_APAC_page_10.md) | [11](WBG_APAC_page_11.md) | [12](WBG_APAC_page_12.md) | [13](WBG_APAC_page_13.md) | [Next ⏩](WBG_APAC_page_2.md)
