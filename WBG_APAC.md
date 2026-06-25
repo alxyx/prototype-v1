@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-06-25 03:46 UTC_
+_Last updated: 2026-06-25 10:54 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [SPHERE AX and Blaize Partner to Develop Physical AI Solutions](https://www.eetasia.com/sphere-ax-and-blaize-partner-to-develop-physical-ai-solutions/)
+**Published:** Thu, 25 Jun 2026 07:34:54 +0000
+
+<p>Partnership combines AI semiconductor technology and vision AI software to accelerate physical AI product development globally.</p>
+<p>The post <a href="https://www.eetasia.com/sphere-ax-and-blaize-partner-to-develop-physical-ai-solutions/">SPHERE AX and Blaize Partner to Develop Physical AI Solutions</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -14,11 +22,11 @@ _Last updated: 2026-06-25 03:46 UTC_
 
 ---
 
-## [MKS Opens Penang Supercenter Factory to Support Growing Semiconductor Equipment Demand](https://www.eetasia.com/mks-opens-penang-supercenter-factory-to-support-growing-semiconductor-equipment-demand/)
-**Published:** Wed, 24 Jun 2026 01:53:21 +0000
+## [IBM Unveils World’s First Sub-1 Nanometer Chip Technology with New NanoStack Architecture](https://www.semiconductor-digest.com/ibm-unveils-worlds-first-sub-1-nanometer-chip-technology-with-new-nanostack-architecture/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-unveils-worlds-first-sub-1-nanometer-chip-technology-with-new-nanostack-architecture)
+**Published:** Thu, 25 Jun 2026 10:00:00 +0000
 
-<p>New Penang facility expands semiconductor equipment production capacity while supporting supply chain resilience and local employment.</p>
-<p>The post <a href="https://www.eetasia.com/mks-opens-penang-supercenter-factory-to-support-growing-semiconductor-equipment-demand/">MKS Opens Penang Supercenter Factory to Support Growing Semiconductor Equipment Demand</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>IBM has announced the world's first sub-1 nanometer chip technology, built on a fundamentally new transistor architecture the company calls NanoStack. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/ibm-unveils-worlds-first-sub-1-nanometer-chip-technology-with-new-nanostack-architecture/">IBM Unveils World&#8217;s First Sub-1 Nanometer Chip Technology with New NanoStack Architecture</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-06-25 03:46 UTC_
 
 <p>Backed by leading industry investors, AlpSemi is advancing an integrated semiconductor platform designed to transform intelligent power protection in global markets.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/alpsemi-raises-e17-million-to-scale-next-generation-solid-state-circuit-breaker-power-switches-for-buildings-and-ai-data-centers/">AlpSemi Raises €17 Million to Scale Next-Generation Solid-State Circuit Breaker Power Switches for Buildings and AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IEEE International Electron Devices Meeting Announces 2026 Call for Papers](https://www.semiconductor-digest.com/ieee-international-electron-devices-meeting-announces-2026-call-for-papers/?utm_source=rss&utm_medium=rss&utm_campaign=ieee-international-electron-devices-meeting-announces-2026-call-for-papers)
-**Published:** Tue, 23 Jun 2026 20:36:51 +0000
-
-<p>The 72nd annual IEEE International Electron Devices Meeting (IEDM) has issued a Call for Papers seeking original work by the semiconductor industry’s leading researchers in all areas of microelectronics technology, representing the theme “Devices at the Heart of the Intelligence Revolution.”</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ieee-international-electron-devices-meeting-announces-2026-call-for-papers/">IEEE International Electron Devices Meeting Announces 2026 Call for Papers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
