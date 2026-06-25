@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-06-25 19:17 UTC_
+_Last updated: 2026-06-25 21:56 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,14 @@ _Last updated: 2026-06-25 19:17 UTC_
 
 <p>STMicroelectronics outlines its sustainability priorities amid growing semiconductor demand and evolving environmental requirements.</p>
 <p>The post <a href="https://www.eetasia.com/stmicroelectronics-discusses-sustainability-roadmap-and-industry-challenges/">STMicroelectronics Discusses Sustainability Roadmap and Industry Challenges</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Nearfield Instruments Secures $380M Series D Funding in Largest Ever Deep-Tech Funding Round in The Netherlands](https://www.semiconductor-digest.com/nearfield-instruments-secures-380m-series-d-funding-in-largest-ever-deep-tech-funding-round-in-the-netherlands/?utm_source=rss&utm_medium=rss&utm_campaign=nearfield-instruments-secures-380m-series-d-funding-in-largest-ever-deep-tech-funding-round-in-the-netherlands)
+**Published:** Thu, 25 Jun 2026 20:21:24 +0000
+
+<p>Nearfield Instruments today announced the successful closure of a $380 million Series-D funding round.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nearfield-instruments-secures-380m-series-d-funding-in-largest-ever-deep-tech-funding-round-in-the-netherlands/">Nearfield Instruments Secures $380M Series D Funding in Largest Ever Deep-Tech Funding Round in The Netherlands</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-06-25 19:17 UTC_
 
 <p>Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software foundation for generative and agentic AI across data center and edge environments.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/qualcomm-to-acquire-modular/">Qualcomm to Acquire Modular</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ChipAgents and AWS Partner to Advance AI-Powered Semiconductor Engineering](https://www.semiconductor-digest.com/chipagents-and-aws-partner-to-advance-ai-powered-semiconductor-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=chipagents-and-aws-partner-to-advance-ai-powered-semiconductor-engineering)
-**Published:** Wed, 24 Jun 2026 21:11:20 +0000
-
-<p>Agentic AI platform helps semiconductor companies accelerate design, verification, and debugging workflows while reducing engineering bottlenecks.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/chipagents-and-aws-partner-to-advance-ai-powered-semiconductor-engineering/">ChipAgents and AWS Partner to Advance AI-Powered Semiconductor Engineering</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
