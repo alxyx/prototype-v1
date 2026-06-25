@@ -1,8 +1,16 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-06-24 17:17 UTC_
+_Last updated: 2026-06-25 03:46 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [STMicroelectronics Discusses Sustainability Roadmap and Industry Challenges](https://www.eetasia.com/stmicroelectronics-discusses-sustainability-roadmap-and-industry-challenges/)
+**Published:** Thu, 25 Jun 2026 02:19:07 +0000
+
+<p>STMicroelectronics outlines its sustainability priorities amid growing semiconductor demand and evolving environmental requirements.</p>
+<p>The post <a href="https://www.eetasia.com/stmicroelectronics-discusses-sustainability-roadmap-and-industry-challenges/">STMicroelectronics Discusses Sustainability Roadmap and Industry Challenges</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -14,35 +22,43 @@ _Last updated: 2026-06-24 17:17 UTC_
 
 ---
 
-## [German Court Hands Infineon Another Victory in Expanding GaN Patent Dispute With Innoscience](https://www.eetasia.com/german-court-hands-infineon-another-victory-in-expanding-gan-patent-dispute-with-innoscience/)
-**Published:** Tue, 23 Jun 2026 03:10:06 +0000
+## [ATLANT 3D, A*STAR IMRE and NAMIC Sign MoU to Advance AI-Driven Materials Discovery in Singapore](https://www.semiconductor-digest.com/atlant-3d-astar-imre-and-namic-sign-mou-to-advance-ai-driven-materials-discovery-in-singapore/?utm_source=rss&utm_medium=rss&utm_campaign=atlant-3d-astar-imre-and-namic-sign-mou-to-advance-ai-driven-materials-discovery-in-singapore)
+**Published:** Wed, 24 Jun 2026 21:22:34 +0000
 
-<p>Munich court blocks additional Innoscience GaN products, awards damages, and reinforces Infineon’s patent claims.</p>
-<p>The post <a href="https://www.eetasia.com/german-court-hands-infineon-another-victory-in-expanding-gan-patent-dispute-with-innoscience/">German Court Hands Infineon Another Victory in Expanding GaN Patent Dispute With Innoscience</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Synopsys Rolls Out Multiphysics Fusion Solutions to Tackle Advanced Chip Design Complexity](https://www.eetasia.com/synopsys-rolls-out-multiphysics-fusion-solutions-to-tackle-advanced-chip-design-complexity/)
-**Published:** Tue, 23 Jun 2026 03:05:19 +0000
-
-<p>New portfolio integrates EDA and multiphysics analysis, accelerating signoff, design closure, and multi-die development.</p>
-<p>The post <a href="https://www.eetasia.com/synopsys-rolls-out-multiphysics-fusion-solutions-to-tackle-advanced-chip-design-complexity/">Synopsys Rolls Out Multiphysics Fusion Solutions to Tackle Advanced Chip Design Complexity</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The partnership aims to combine ATLANT 3D's proprietary Direct Atomic Layer Processing technology with A*STAR IMRE's materials engineering expertise and NAMIC's additive manufacturing and ecosystem development capabilities.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/atlant-3d-astar-imre-and-namic-sign-mou-to-advance-ai-driven-materials-discovery-in-singapore/">ATLANT 3D, A*STAR IMRE and NAMIC Sign MoU to Advance AI-Driven Materials Discovery in Singapore</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Brewer Science to Acquire Heraeus Epurio’s Semiconductor Chemical Business](https://www.eetasia.com/brewer-science-to-acquire-heraeus-epurios-semiconductor-chemical-business/)
-**Published:** Tue, 23 Jun 2026 03:00:23 +0000
+## [SPHERE AX Partners with U.S. AI Semiconductor Company Blaize at the National Assembly](https://www.semiconductor-digest.com/sphere-ax-partners-with-u-s-ai-semiconductor-company-blaize-at-the-national-assembly/?utm_source=rss&utm_medium=rss&utm_campaign=sphere-ax-partners-with-u-s-ai-semiconductor-company-blaize-at-the-national-assembly)
+**Published:** Wed, 24 Jun 2026 21:20:39 +0000
 
-<p>The acquisition strengthens Brewer Science's ability to support semiconductor customers with highly specialized, ultrapure chemical solutions.</p>
-<p>The post <a href="https://www.eetasia.com/brewer-science-to-acquire-heraeus-epurios-semiconductor-chemical-business/">Brewer Science to Acquire Heraeus Epurio&#8217;s Semiconductor Chemical Business</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>SPHERE AX (CEO: Yunha Park), a company specializing in Vision AI and Edge AI Computing, announced that it signed a strategic memorandum of understanding (MOU) with Blaize Holdings, Inc..</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sphere-ax-partners-with-u-s-ai-semiconductor-company-blaize-at-the-national-assembly/">SPHERE AX Partners with U.S. AI Semiconductor Company Blaize at the National Assembly</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Why Cadence Sees AI Super Agents as the Next Semiconductor Productivity Engine](https://www.eetasia.com/why-cadence-sees-ai-super-agents-as-the-next-semiconductor-productivity-engine/)
-**Published:** Tue, 23 Jun 2026 02:05:28 +0000
+## [European Semiconductor Firms Seek Integrated Ecosystems](https://www.semiconductor-digest.com/european-semiconductor-firms-seek-integrated-ecosystems/?utm_source=rss&utm_medium=rss&utm_campaign=european-semiconductor-firms-seek-integrated-ecosystems)
+**Published:** Wed, 24 Jun 2026 21:18:02 +0000
 
-<p>Cadence believes autonomous AI agents will become essential as semiconductor complexity outpaces engineering workforce growth.</p>
-<p>The post <a href="https://www.eetasia.com/why-cadence-sees-ai-super-agents-as-the-next-semiconductor-productivity-engine/">Why Cadence Sees AI Super Agents as the Next Semiconductor Productivity Engine</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Sovereignty goals, supply chain pressures and AI-driven operations are accelerating demand for end-to-end semiconductor partnerships, ISG Provider Lens report says.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/european-semiconductor-firms-seek-integrated-ecosystems/">European Semiconductor Firms Seek Integrated Ecosystems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Qualcomm to Acquire Modular](https://www.semiconductor-digest.com/qualcomm-to-acquire-modular/?utm_source=rss&utm_medium=rss&utm_campaign=qualcomm-to-acquire-modular)
+**Published:** Wed, 24 Jun 2026 21:13:55 +0000
+
+<p>Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software foundation for generative and agentic AI across data center and edge environments.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/qualcomm-to-acquire-modular/">Qualcomm to Acquire Modular</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ChipAgents and AWS Partner to Advance AI-Powered Semiconductor Engineering](https://www.semiconductor-digest.com/chipagents-and-aws-partner-to-advance-ai-powered-semiconductor-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=chipagents-and-aws-partner-to-advance-ai-powered-semiconductor-engineering)
+**Published:** Wed, 24 Jun 2026 21:11:20 +0000
+
+<p>Agentic AI platform helps semiconductor companies accelerate design, verification, and debugging workflows while reducing engineering bottlenecks.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/chipagents-and-aws-partner-to-advance-ai-powered-semiconductor-engineering/">ChipAgents and AWS Partner to Advance AI-Powered Semiconductor Engineering</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-06-24 17:17 UTC_
 
 <p>The 72nd annual IEEE International Electron Devices Meeting (IEDM) has issued a Call for Papers seeking original work by the semiconductor industry’s leading researchers in all areas of microelectronics technology, representing the theme “Devices at the Heart of the Intelligence Revolution.”</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ieee-international-electron-devices-meeting-announces-2026-call-for-papers/">IEEE International Electron Devices Meeting Announces 2026 Call for Papers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Addressing Liquid Cooling Gaps in AI Data Centers](https://www.semiconductor-digest.com/addressing-liquid-cooling-gaps-in-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=addressing-liquid-cooling-gaps-in-ai-data-centers)
-**Published:** Tue, 23 Jun 2026 11:59:00 +0000
-
-<p>AI server power densities have overwhelmed conventional air cooling, yet current liquid cooling deployments leave critical thermal management gaps that must be addressed to ensure reliable operation in high-density AI data centers. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/addressing-liquid-cooling-gaps-in-ai-data-centers/">Addressing Liquid Cooling Gaps in AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Why the Future of Photonics Depends on Foundries, Packaging, and Scale](https://www.semiconductor-digest.com/why-the-future-of-photonics-depends-on-foundries-packaging-and-scale/?utm_source=rss&utm_medium=rss&utm_campaign=why-the-future-of-photonics-depends-on-foundries-packaging-and-scale)
-**Published:** Tue, 23 Jun 2026 11:59:00 +0000
-
-<p>The potential of photonic integrated circuits can only be fully realized through advances in foundry infrastructure, advanced packaging integration, and volume manufacturing scale — making ecosystem maturity as important as design innovation. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/why-the-future-of-photonics-depends-on-foundries-packaging-and-scale/">Why the Future of Photonics Depends on Foundries, Packaging, and Scale</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
