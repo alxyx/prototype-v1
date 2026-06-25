@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-06-25 10:54 UTC_
+_Last updated: 2026-06-25 19:17 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,22 @@ _Last updated: 2026-06-25 10:54 UTC_
 
 <p>STMicroelectronics outlines its sustainability priorities amid growing semiconductor demand and evolving environmental requirements.</p>
 <p>The post <a href="https://www.eetasia.com/stmicroelectronics-discusses-sustainability-roadmap-and-industry-challenges/">STMicroelectronics Discusses Sustainability Roadmap and Industry Challenges</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Silicon Meets Reality: Why Physics Is Now a First-Order Design Constraint for Chips](https://www.semiconductor-digest.com/silicon-meets-reality-why-physics-is-now-a-first-order-design-constraint-for-chips/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-meets-reality-why-physics-is-now-a-first-order-design-constraint-for-chips)
+**Published:** Thu, 25 Jun 2026 13:37:17 +0000
+
+<p>As chip density increases and advanced packaging pushes designs into three dimensions, the physics that engineers once treated as secondary concerns have moved to the center of the design problem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/silicon-meets-reality-why-physics-is-now-a-first-order-design-constraint-for-chips/">Silicon Meets Reality: Why Physics Is Now a First-Order Design Constraint for Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Applied Materials Introduces New Systems to Accelerate DRAM and Advanced Packaging for AI Chips](https://www.semiconductor-digest.com/applied-materials-introduces-new-systems-to-accelerate-dram-and-advanced-packaging-for-ai-chips/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-introduces-new-systems-to-accelerate-dram-and-advanced-packaging-for-ai-chips)
+**Published:** Thu, 25 Jun 2026 13:30:50 +0000
+
+<p>Six new tools span epitaxy, CMP, deposition, and eBeam metrology — targeting the process challenges that most directly limit HBM yield and 3D stacking reliability.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-introduces-new-systems-to-accelerate-dram-and-advanced-packaging-for-ai-chips/">Applied Materials Introduces New Systems to Accelerate DRAM and Advanced Packaging for AI Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-06-25 10:54 UTC_
 
 <p>Agentic AI platform helps semiconductor companies accelerate design, verification, and debugging workflows while reducing engineering bottlenecks.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/chipagents-and-aws-partner-to-advance-ai-powered-semiconductor-engineering/">ChipAgents and AWS Partner to Advance AI-Powered Semiconductor Engineering</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMICON West 2026 to Spotlight Key Innovations and Market Drivers Powering the Semiconductor Industry Beyond $1 Trillion](https://www.semiconductor-digest.com/semicon-west-2026-to-spotlight-key-innovations-and-market-drivers-powering-the-semiconductor-industry-beyond-1-trillion/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-west-2026-to-spotlight-key-innovations-and-market-drivers-powering-the-semiconductor-industry-beyond-1-trillion)
-**Published:** Tue, 23 Jun 2026 20:54:15 +0000
-
-<p>SEMI, the industry association serving the global semiconductor and electronics design and manufacturing supply chain, today announced this year’s SEMICON West will be held October 13-15 at Moscone Center in San Francisco.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semicon-west-2026-to-spotlight-key-innovations-and-market-drivers-powering-the-semiconductor-industry-beyond-1-trillion/">SEMICON West 2026 to Spotlight Key Innovations and Market Drivers Powering the Semiconductor Industry Beyond $1 Trillion</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AlpSemi Raises €17 Million to Scale Next-Generation Solid-State Circuit Breaker Power Switches for Buildings and AI Data Centers](https://www.semiconductor-digest.com/alpsemi-raises-e17-million-to-scale-next-generation-solid-state-circuit-breaker-power-switches-for-buildings-and-ai-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=alpsemi-raises-e17-million-to-scale-next-generation-solid-state-circuit-breaker-power-switches-for-buildings-and-ai-data-centers)
-**Published:** Tue, 23 Jun 2026 20:41:29 +0000
-
-<p>Backed by leading industry investors, AlpSemi is advancing an integrated semiconductor platform designed to transform intelligent power protection in global markets.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/alpsemi-raises-e17-million-to-scale-next-generation-solid-state-circuit-breaker-power-switches-for-buildings-and-ai-data-centers/">AlpSemi Raises €17 Million to Scale Next-Generation Solid-State Circuit Breaker Power Switches for Buildings and AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
