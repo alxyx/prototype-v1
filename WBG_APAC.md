@@ -1,8 +1,32 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-06-28 21:14 UTC_
+_Last updated: 2026-06-29 04:09 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [SK keyfoundry Enhances Automotive Chip Reliability with Bi-SCR-based On-Chip EMC Protection Tech](https://www.eetasia.com/sk-keyfoundry-enhances-automotive-chip-reliability-with-bi-scr-based-on-chip-emc-protection-tech/)
+**Published:** Mon, 29 Jun 2026 03:48:58 +0000
+
+<p>SK keyfoundry's Bi-SCR-based On-Chip EMC protection technology enhanced the electromagnetic compatibility of automotive semiconductors.</p>
+<p>The post <a href="https://www.eetasia.com/sk-keyfoundry-enhances-automotive-chip-reliability-with-bi-scr-based-on-chip-emc-protection-tech/">SK keyfoundry Enhances Automotive Chip Reliability with Bi-SCR-based On-Chip EMC Protection Tech</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [DEEPX AI HAT Aimed at Driving Edge Physical AI on Raspberry Pi](https://www.eetasia.com/deepx-ai-hat-aimed-at-driving-edge-physical-ai-on-raspberry-pi/)
+**Published:** Mon, 29 Jun 2026 03:21:47 +0000
+
+<p>DEEPX's ultra-low-power NPU technology is powering the Sixfab AI HAT+ for Raspberry Pi 5.</p>
+<p>The post <a href="https://www.eetasia.com/deepx-ai-hat-aimed-at-driving-edge-physical-ai-on-raspberry-pi/">DEEPX AI HAT Aimed at Driving Edge Physical AI on Raspberry Pi</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [MacDermid Alpha Highlights Innovation Amid Increasing Focus on Materials Performance](https://www.eetasia.com/macdermid-alpha-highlights-innovation-amid-increasing-focus-on-materials-performance/)
+**Published:** Mon, 29 Jun 2026 02:48:59 +0000
+
+<p>Materials innovation is becoming central to semiconductor manufacturing as AI, EVs, and advanced packaging drive performance demands.</p>
+<p>The post <a href="https://www.eetasia.com/macdermid-alpha-highlights-innovation-amid-increasing-focus-on-materials-performance/">MacDermid Alpha Highlights Innovation Amid Increasing Focus on Materials Performance</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,14 +35,6 @@ _Last updated: 2026-06-28 21:14 UTC_
 
 <p>Partnership combines AI semiconductor technology and vision AI software to accelerate physical AI product development globally.</p>
 <p>The post <a href="https://www.eetasia.com/sphere-ax-and-blaize-partner-to-develop-physical-ai-solutions/">SPHERE AX and Blaize Partner to Develop Physical AI Solutions</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [STMicroelectronics Discusses Sustainability Roadmap and Industry Challenges](https://www.eetasia.com/stmicroelectronics-discusses-sustainability-roadmap-and-industry-challenges/)
-**Published:** Thu, 25 Jun 2026 02:19:07 +0000
-
-<p>STMicroelectronics outlines its sustainability priorities amid growing semiconductor demand and evolving environmental requirements.</p>
-<p>The post <a href="https://www.eetasia.com/stmicroelectronics-discusses-sustainability-roadmap-and-industry-challenges/">STMicroelectronics Discusses Sustainability Roadmap and Industry Challenges</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-06-28 21:14 UTC_
 
 <p>Arteris, Inc., a provider of semiconductor technology for accelerating innovation in the AI era, today announced that SiEngine Technology has licensed Arteris FlexNoC network-on-chip (NoC) interconnect IP for its next-generation automotive SoC platform, which specializes in intelligent cockpit, advanced driver assistance applications, and AI cockpit-drive fusion solution.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/arteris-technology-licensed-by-siengine-for-next-generation-automotive-socs/">Arteris Technology Licensed by SiEngine for Next-Generation Automotive SoCs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [HANMI Semiconductor Launches FC Bonder 3.5 for AI System Semiconductors](https://www.semiconductor-digest.com/hanmi-semiconductor-launches-fc-bonder-3-5-for-ai-system-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-launches-fc-bonder-3-5-for-ai-system-semiconductors)
-**Published:** Fri, 26 Jun 2026 18:47:52 +0000
-
-<p>HANMI Semiconductor today announced the launch of its new “Flip Chip (FC) Bonder 3.5” for AI system and logic semiconductor packaging, which it will supply to global foundries and OSAT companies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hanmi-semiconductor-launches-fc-bonder-3-5-for-ai-system-semiconductors/">HANMI Semiconductor Launches FC Bonder 3.5 for AI System Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nearfield Instruments Secures $380M Series D Funding in Largest Ever Deep-Tech Funding Round in The Netherlands](https://www.semiconductor-digest.com/nearfield-instruments-secures-380m-series-d-funding-in-largest-ever-deep-tech-funding-round-in-the-netherlands/?utm_source=rss&utm_medium=rss&utm_campaign=nearfield-instruments-secures-380m-series-d-funding-in-largest-ever-deep-tech-funding-round-in-the-netherlands)
-**Published:** Thu, 25 Jun 2026 20:21:24 +0000
-
-<p>Nearfield Instruments today announced the successful closure of a $380 million Series-D funding round.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nearfield-instruments-secures-380m-series-d-funding-in-largest-ever-deep-tech-funding-round-in-the-netherlands/">Nearfield Instruments Secures $380M Series D Funding in Largest Ever Deep-Tech Funding Round in The Netherlands</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
