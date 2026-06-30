@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-06-29 21:39 UTC_
+_Last updated: 2026-06-30 05:22 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Lattice Receives 2026 AI Breakthrough Award](https://www.eetasia.com/lattice-receives-2026-ai-breakthrough-award/)
+**Published:** Mon, 29 Jun 2026 23:29:13 +0000
+
+<p>Lattice Semiconductor's Lattice sensAI solution stack was named AI Edge Solution of the Year by the 2026 AI Breakthrough Awards.</p>
+<p>The post <a href="https://www.eetasia.com/lattice-receives-2026-ai-breakthrough-award/">Lattice Receives 2026 AI Breakthrough Award</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -35,14 +43,6 @@ _Last updated: 2026-06-29 21:39 UTC_
 
 <p>Materials innovation is becoming central to semiconductor manufacturing as AI, EVs, and advanced packaging drive performance demands.</p>
 <p>The post <a href="https://www.eetasia.com/macdermid-alpha-highlights-innovation-amid-increasing-focus-on-materials-performance/">MacDermid Alpha Highlights Innovation Amid Increasing Focus on Materials Performance</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SPHERE AX and Blaize Partner to Develop Physical AI Solutions](https://www.eetasia.com/sphere-ax-and-blaize-partner-to-develop-physical-ai-solutions/)
-**Published:** Thu, 25 Jun 2026 07:34:54 +0000
-
-<p>Partnership combines AI semiconductor technology and vision AI software to accelerate physical AI product development globally.</p>
-<p>The post <a href="https://www.eetasia.com/sphere-ax-and-blaize-partner-to-develop-physical-ai-solutions/">SPHERE AX and Blaize Partner to Develop Physical AI Solutions</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
