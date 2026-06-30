@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-06-30 15:40 UTC_
+_Last updated: 2026-06-30 20:11 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -46,43 +46,43 @@ _Last updated: 2026-06-30 15:40 UTC_
 
 ---
 
-## [Disorder Creates New Properties in Compound Semiconductors](https://www.semiconductor-digest.com/disorder-creates-new-properties-in-compound-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=disorder-creates-new-properties-in-compound-semiconductors)
-**Published:** Mon, 29 Jun 2026 20:05:12 +0000
+## [EdgeCortix Demonstrates Edge AI Platform Readiness with U.S. Air Force](https://www.semiconductor-digest.com/edgecortix-demonstrates-edge-ai-platform-readiness-with-u-s-air-force/?utm_source=rss&utm_medium=rss&utm_campaign=edgecortix-demonstrates-edge-ai-platform-readiness-with-u-s-air-force)
+**Published:** Tue, 30 Jun 2026 18:17:33 +0000
 
-<p>New optoelectronical or photocatalytical devices by "disorder engineering".</p>
-<p>The post <a href="https://www.semiconductor-digest.com/disorder-creates-new-properties-in-compound-semiconductors/">Disorder Creates New Properties in Compound Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [VanEck Launches SMHC, Offering Pure-Play Access to China’s Semiconductor Build-Out](https://www.semiconductor-digest.com/vaneck-launches-smhc-offering-pure-play-access-to-chinas-semiconductor-build-out/?utm_source=rss&utm_medium=rss&utm_campaign=vaneck-launches-smhc-offering-pure-play-access-to-chinas-semiconductor-build-out)
-**Published:** Mon, 29 Jun 2026 19:58:19 +0000
-
-<p>VanEck today launched the VanEck China Semiconductor ETF (Nasdaq: SMHC), a strategy designed to give investors pure-play exposure to China's domestic semiconductor industry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/vaneck-launches-smhc-offering-pure-play-access-to-chinas-semiconductor-build-out/">VanEck Launches SMHC, Offering Pure-Play Access to China&#8217;s Semiconductor Build-Out</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Successful benchmarking, radiation validation, and in-flight demonstrations validate EdgeCortix's AI platform for next-generation defense and aerospace deployments.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/edgecortix-demonstrates-edge-ai-platform-readiness-with-u-s-air-force/">EdgeCortix Demonstrates Edge AI Platform Readiness with U.S. Air Force</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [SEMI Projects 300mm Memory Equipment Investment to Surpass $50 Billion in 2026](https://www.semiconductor-digest.com/semi-projects-300mm-memory-equipment-investment-to-surpass-50-billion-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=semi-projects-300mm-memory-equipment-investment-to-surpass-50-billion-in-2026)
-**Published:** Mon, 29 Jun 2026 19:44:13 +0000
+## [Omdia: AR Display Growth Drives Near-Eye Display Market to $675M in 2026](https://www.semiconductor-digest.com/omdia-ar-display-growth-drives-near-eye-display-market-to-675m-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-ar-display-growth-drives-near-eye-display-market-to-675m-in-2026)
+**Published:** Tue, 30 Jun 2026 18:04:40 +0000
 
-<p>Worldwide 300mm fab equipment investment in the memory sector is projected to surpass $50 billion for the first time in 2026, rising 29% to $52 billion before increasing another 11% to $57 billion in 2027, SEMI reported today in its latest 300mm Fab Outlook.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-projects-300mm-memory-equipment-investment-to-surpass-50-billion-in-2026/">SEMI Projects 300mm Memory Equipment Investment to Surpass $50 Billion in 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Tema ETFs and SemiAnalysis Launch Exclusive Semiconductor ETF Partnership](https://www.semiconductor-digest.com/tema-etfs-and-semianalysis-launch-exclusive-semiconductor-etf-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=tema-etfs-and-semianalysis-launch-exclusive-semiconductor-etf-partnership)
-**Published:** Mon, 29 Jun 2026 19:30:57 +0000
-
-<p>Pairs industry-leading semiconductor and AI infrastructure expertise with rapidly expanding ETF platform.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tema-etfs-and-semianalysis-launch-exclusive-semiconductor-etf-partnership/">Tema ETFs and SemiAnalysis Launch Exclusive Semiconductor ETF Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>After a sharp contraction in 2025, near-eye display market revenue is forecast to reach $675 million in 2026, up 12% year-over-year (YoY), according to Omdia’s latest VR, AR, XR Near Eye Displays – 2026 Analysis.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-ar-display-growth-drives-near-eye-display-market-to-675m-in-2026/">Omdia: AR Display Growth Drives Near-Eye Display Market to $675M in 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Wooptix Installs First Phemet Metrology System at CEA-Leti](https://www.semiconductor-digest.com/wooptix-installs-first-phemet-metrology-system-at-cea-leti/?utm_source=rss&utm_medium=rss&utm_campaign=wooptix-installs-first-phemet-metrology-system-at-cea-leti)
-**Published:** Mon, 29 Jun 2026 19:17:25 +0000
+## [Silicon Catalyst Announces Brain-CA as Newest Company in Semiconductor Accelerator](https://www.semiconductor-digest.com/silicon-catalyst-announces-brain-ca-as-newest-company-in-semiconductor-accelerator/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-catalyst-announces-brain-ca-as-newest-company-in-semiconductor-accelerator)
+**Published:** Tue, 30 Jun 2026 17:49:28 +0000
 
-<p>Represents Wooptix’s first production deployment and establishes long-term collaboration with one of the world’s leading semiconductor R&#038;D ecosystems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/wooptix-installs-first-phemet-metrology-system-at-cea-leti/">Wooptix Installs First Phemet Metrology System at CEA-Leti</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Brain-CA Technologies, a deep tech startup, has recently been admitted into Silicon Catalyst's highly acclaimed program for the semiconductor industry. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/silicon-catalyst-announces-brain-ca-as-newest-company-in-semiconductor-accelerator/">Silicon Catalyst Announces Brain-CA as Newest Company in Semiconductor Accelerator</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [HANMI Semiconductor Launches ‘2.5D TC Bonder 40’ for AI System Semiconductors](https://www.semiconductor-digest.com/hanmi-semiconductor-launches-2-5d-tc-bonder-40-for-ai-system-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-launches-2-5d-tc-bonder-40-for-ai-system-semiconductors)
+**Published:** Tue, 30 Jun 2026 17:46:04 +0000
+
+<p>HANMI Semiconductor today announced the launch of “2.5D TC Bonder 40,” which supports 2.5D packaging for AI system semiconductors and will be supplied to global foundries and OSAT companies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hanmi-semiconductor-launches-2-5d-tc-bonder-40-for-ai-system-semiconductors/">HANMI Semiconductor Launches &#8216;2.5D TC Bonder 40&#8217; for AI System Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Keysight and WIN Semiconductors Collaborate to Cut Design Risk for High Frequency RF Components](https://www.semiconductor-digest.com/keysight-and-win-semiconductors-collaborate-to-cut-design-risk-for-high-frequency-rf-components/?utm_source=rss&utm_medium=rss&utm_campaign=keysight-and-win-semiconductors-collaborate-to-cut-design-risk-for-high-frequency-rf-components)
+**Published:** Tue, 30 Jun 2026 17:41:44 +0000
+
+<p>Keysight Technologies, Inc. and WIN Semiconductors Corp. today announced a joint MMIC design workflow that enables GaN MMIC design houses to achieve first pass tapeout success.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/keysight-and-win-semiconductors-collaborate-to-cut-design-risk-for-high-frequency-rf-components/">Keysight and WIN Semiconductors Collaborate to Cut Design Risk for High Frequency RF Components</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
