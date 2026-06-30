@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-06-30 05:22 UTC_
+_Last updated: 2026-06-30 12:21 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Chae Lee Appointed CEO of Magnachip](https://www.eetasia.com/chae-lee-appointed-ceo-of-magnachip/)
+**Published:** Tue, 30 Jun 2026 10:49:50 +0000
+
+<p>Magnachip has appointed semiconductor industry veteran Chae Lee as chief executive officer, effective July 1, 2026.</p>
+<p>The post <a href="https://www.eetasia.com/chae-lee-appointed-ceo-of-magnachip/">Chae Lee Appointed CEO of Magnachip</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [onsemi Acquiring Synaptics to Expand Edge AI and Physical AI Portfolio](https://www.eetasia.com/onsemi-acquiring-synaptics-to-expand-edge-ai-and-physical-ai-portfolio/)
+**Published:** Tue, 30 Jun 2026 09:40:29 +0000
+
+<p>The acquisition adds edge AI compute and connectivity capabilities, strengthening onsemi's position in intelligent systems markets.</p>
+<p>The post <a href="https://www.eetasia.com/onsemi-acquiring-synaptics-to-expand-edge-ai-and-physical-ai-portfolio/">onsemi Acquiring Synaptics to Expand Edge AI and Physical AI Portfolio</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -27,22 +43,6 @@ _Last updated: 2026-06-30 05:22 UTC_
 
 <p>SK keyfoundry's Bi-SCR-based On-Chip EMC protection technology enhanced the electromagnetic compatibility of automotive semiconductors.</p>
 <p>The post <a href="https://www.eetasia.com/sk-keyfoundry-enhances-automotive-chip-reliability-with-bi-scr-based-on-chip-emc-protection-tech/">SK keyfoundry Enhances Automotive Chip Reliability with Bi-SCR-based On-Chip EMC Protection Tech</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [DEEPX AI HAT Aimed at Driving Edge Physical AI on Raspberry Pi](https://www.eetasia.com/deepx-ai-hat-aimed-at-driving-edge-physical-ai-on-raspberry-pi/)
-**Published:** Mon, 29 Jun 2026 03:21:47 +0000
-
-<p>DEEPX's ultra-low-power NPU technology is powering the Sixfab AI HAT+ for Raspberry Pi 5.</p>
-<p>The post <a href="https://www.eetasia.com/deepx-ai-hat-aimed-at-driving-edge-physical-ai-on-raspberry-pi/">DEEPX AI HAT Aimed at Driving Edge Physical AI on Raspberry Pi</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [MacDermid Alpha Highlights Innovation Amid Increasing Focus on Materials Performance](https://www.eetasia.com/macdermid-alpha-highlights-innovation-amid-increasing-focus-on-materials-performance/)
-**Published:** Mon, 29 Jun 2026 02:48:59 +0000
-
-<p>Materials innovation is becoming central to semiconductor manufacturing as AI, EVs, and advanced packaging drive performance demands.</p>
-<p>The post <a href="https://www.eetasia.com/macdermid-alpha-highlights-innovation-amid-increasing-focus-on-materials-performance/">MacDermid Alpha Highlights Innovation Amid Increasing Focus on Materials Performance</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
