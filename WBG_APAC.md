@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-06-30 20:11 UTC_
+_Last updated: 2026-07-01 04:07 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Applied Materials Expands Singapore Operations with New Manufacturing and R&D Campus](https://www.eetasia.com/applied-materials-expands-singapore-operations-with-new-manufacturing-and-rd-campus/)
+**Published:** Wed, 01 Jul 2026 03:30:51 +0000
+
+<p>Applied's new Singapore facility boosts semiconductor equipment production capacity to support growing global AI infrastructure demand.</p>
+<p>The post <a href="https://www.eetasia.com/applied-materials-expands-singapore-operations-with-new-manufacturing-and-rd-campus/">Applied Materials Expands Singapore Operations with New Manufacturing and R&amp;D Campus</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [MIDA Backs GreatAsic-Xenith Partnership to Advance Malaysia’s IC Design Capabilities](https://www.eetasia.com/mida-backs-greatasic-xenith-partnership-to-advance-malaysias-ic-design-capabilities/)
+**Published:** Wed, 01 Jul 2026 02:41:05 +0000
+
+<p>The collaboration demonstrates growing confidence in Malaysian engineering talent and the ability of local technology companies to participate in higher-value segments of the global semiconductor industry.</p>
+<p>The post <a href="https://www.eetasia.com/mida-backs-greatasic-xenith-partnership-to-advance-malaysias-ic-design-capabilities/">MIDA Backs GreatAsic-Xenith Partnership to Advance Malaysia&#8217;s IC Design Capabilities</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -27,22 +43,6 @@ _Last updated: 2026-06-30 20:11 UTC_
 
 <p>Lattice Semiconductor's Lattice sensAI solution stack was named AI Edge Solution of the Year by the 2026 AI Breakthrough Awards.</p>
 <p>The post <a href="https://www.eetasia.com/lattice-receives-2026-ai-breakthrough-award/">Lattice Receives 2026 AI Breakthrough Award</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [IBM Launches Sub-1nm Chip Technology](https://www.eetasia.com/ibm-launches-sub-1nm-chip-technology/)
-**Published:** Mon, 29 Jun 2026 04:00:02 +0000
-
-<p>IBM has unveiled a major semiconductor breakthrough with the introduction of a revolutionary transistor architecture at the 0.7nm node.</p>
-<p>The post <a href="https://www.eetasia.com/ibm-launches-sub-1nm-chip-technology/">IBM Launches Sub-1nm Chip Technology</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SK keyfoundry Enhances Automotive Chip Reliability with Bi-SCR-based On-Chip EMC Protection Tech](https://www.eetasia.com/sk-keyfoundry-enhances-automotive-chip-reliability-with-bi-scr-based-on-chip-emc-protection-tech/)
-**Published:** Mon, 29 Jun 2026 03:48:58 +0000
-
-<p>SK keyfoundry's Bi-SCR-based On-Chip EMC protection technology enhanced the electromagnetic compatibility of automotive semiconductors.</p>
-<p>The post <a href="https://www.eetasia.com/sk-keyfoundry-enhances-automotive-chip-reliability-with-bi-scr-based-on-chip-emc-protection-tech/">SK keyfoundry Enhances Automotive Chip Reliability with Bi-SCR-based On-Chip EMC Protection Tech</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
