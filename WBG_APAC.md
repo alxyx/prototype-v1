@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-01 18:10 UTC_
+_Last updated: 2026-07-02 03:50 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [NTU Singapore Launches Industry-aligned IC Design Program](https://www.eetasia.com/ntu-singapore-launches-industry-aligned-ic-design-program/)
+**Published:** Thu, 02 Jul 2026 01:37:48 +0000
+
+<p>NTU Singapore has launched a new industry-backed IC design program to help meet growing semiconductor talent demand.</p>
+<p>The post <a href="https://www.eetasia.com/ntu-singapore-launches-industry-aligned-ic-design-program/">NTU Singapore Launches Industry-aligned IC Design Program</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Keysight and WIN Collaborate on MMIC Design Workflow](https://www.eetasia.com/keysight-and-win-collaborate-on-mmic-design-workflow/)
+**Published:** Thu, 02 Jul 2026 01:14:00 +0000
+
+<p>New GaN MMIC design workflow developed by Keysight and WIN reduces fabrication risk for 5G, satellite and defense applications.</p>
+<p>The post <a href="https://www.eetasia.com/keysight-and-win-collaborate-on-mmic-design-workflow/">Keysight and WIN Collaborate on MMIC Design Workflow</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -38,11 +54,27 @@ _Last updated: 2026-07-01 18:10 UTC_
 
 ---
 
-## [Lattice Receives 2026 AI Breakthrough Award](https://www.eetasia.com/lattice-receives-2026-ai-breakthrough-award/)
-**Published:** Mon, 29 Jun 2026 23:29:13 +0000
+## [Allegro DVT Plays a Pivotal Role in Groundbreaking CHASSIS Automotive Base Die Development](https://www.semiconductor-digest.com/allegro-dvt-plays-a-pivotal-role-in-groundbreaking-chassis-automotive-base-die-development/?utm_source=rss&utm_medium=rss&utm_campaign=allegro-dvt-plays-a-pivotal-role-in-groundbreaking-chassis-automotive-base-die-development)
+**Published:** Wed, 01 Jul 2026 21:06:53 +0000
 
-<p>Lattice Semiconductor's Lattice sensAI solution stack was named AI Edge Solution of the Year by the 2026 AI Breakthrough Awards.</p>
-<p>The post <a href="https://www.eetasia.com/lattice-receives-2026-ai-breakthrough-award/">Lattice Receives 2026 AI Breakthrough Award</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Allegro DVT announced its contribution to the European CHASSIS program's implementation of the Automotive Base Die chiplet.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/allegro-dvt-plays-a-pivotal-role-in-groundbreaking-chassis-automotive-base-die-development/">Allegro DVT Plays a Pivotal Role in Groundbreaking CHASSIS Automotive Base Die Development</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Sirin Software Joins Alif Semiconductor Partner Ecosystem as Authorized Design House](https://www.semiconductor-digest.com/sirin-software-joins-alif-semiconductor-partner-ecosystem-as-authorized-design-house/?utm_source=rss&utm_medium=rss&utm_campaign=sirin-software-joins-alif-semiconductor-partner-ecosystem-as-authorized-design-house)
+**Published:** Wed, 01 Jul 2026 20:54:32 +0000
+
+<p>Sirin Software, an embedded software and IoT engineering services provider, today announced it has officially joined the Alif Semiconductor partner ecosystem as an authorized Design House.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sirin-software-joins-alif-semiconductor-partner-ecosystem-as-authorized-design-house/">Sirin Software Joins Alif Semiconductor Partner Ecosystem as Authorized Design House</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [As the World Races to Make More Chips, the Next Bottleneck May Be Femtosecond Lasers](https://www.semiconductor-digest.com/as-the-world-races-to-make-more-chips-the-next-bottleneck-may-be-femtosecond-lasers/?utm_source=rss&utm_medium=rss&utm_campaign=as-the-world-races-to-make-more-chips-the-next-bottleneck-may-be-femtosecond-lasers)
+**Published:** Wed, 01 Jul 2026 20:50:15 +0000
+
+<p>Manufacturing the latest generation of chips requires high precision; even sub-microscopic thermal damage makes a component unusable. According to experts at LITILIT, chips are increasingly manufactured using femtosecond lasers that fire extremely short light pulses to enable highly accurate processing with minimal thermal impact.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/as-the-world-races-to-make-more-chips-the-next-bottleneck-may-be-femtosecond-lasers/">As the World Races to Make More Chips, the Next Bottleneck May Be Femtosecond Lasers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -51,38 +83,6 @@ _Last updated: 2026-07-01 18:10 UTC_
 
 <p>Successful benchmarking, radiation validation, and in-flight demonstrations validate EdgeCortix's AI platform for next-generation defense and aerospace deployments.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/edgecortix-demonstrates-edge-ai-platform-readiness-with-u-s-air-force/">EdgeCortix Demonstrates Edge AI Platform Readiness with U.S. Air Force</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: AR Display Growth Drives Near-Eye Display Market to $675M in 2026](https://www.semiconductor-digest.com/omdia-ar-display-growth-drives-near-eye-display-market-to-675m-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-ar-display-growth-drives-near-eye-display-market-to-675m-in-2026)
-**Published:** Tue, 30 Jun 2026 18:04:40 +0000
-
-<p>After a sharp contraction in 2025, near-eye display market revenue is forecast to reach $675 million in 2026, up 12% year-over-year (YoY), according to Omdia’s latest VR, AR, XR Near Eye Displays – 2026 Analysis.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-ar-display-growth-drives-near-eye-display-market-to-675m-in-2026/">Omdia: AR Display Growth Drives Near-Eye Display Market to $675M in 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Silicon Catalyst Announces Brain-CA as Newest Company in Semiconductor Accelerator](https://www.semiconductor-digest.com/silicon-catalyst-announces-brain-ca-as-newest-company-in-semiconductor-accelerator/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-catalyst-announces-brain-ca-as-newest-company-in-semiconductor-accelerator)
-**Published:** Tue, 30 Jun 2026 17:49:28 +0000
-
-<p>Brain-CA Technologies, a deep tech startup, has recently been admitted into Silicon Catalyst's highly acclaimed program for the semiconductor industry. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/silicon-catalyst-announces-brain-ca-as-newest-company-in-semiconductor-accelerator/">Silicon Catalyst Announces Brain-CA as Newest Company in Semiconductor Accelerator</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [HANMI Semiconductor Launches ‘2.5D TC Bonder 40’ for AI System Semiconductors](https://www.semiconductor-digest.com/hanmi-semiconductor-launches-2-5d-tc-bonder-40-for-ai-system-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-launches-2-5d-tc-bonder-40-for-ai-system-semiconductors)
-**Published:** Tue, 30 Jun 2026 17:46:04 +0000
-
-<p>HANMI Semiconductor today announced the launch of “2.5D TC Bonder 40,” which supports 2.5D packaging for AI system semiconductors and will be supplied to global foundries and OSAT companies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hanmi-semiconductor-launches-2-5d-tc-bonder-40-for-ai-system-semiconductors/">HANMI Semiconductor Launches &#8216;2.5D TC Bonder 40&#8217; for AI System Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Keysight and WIN Semiconductors Collaborate to Cut Design Risk for High Frequency RF Components](https://www.semiconductor-digest.com/keysight-and-win-semiconductors-collaborate-to-cut-design-risk-for-high-frequency-rf-components/?utm_source=rss&utm_medium=rss&utm_campaign=keysight-and-win-semiconductors-collaborate-to-cut-design-risk-for-high-frequency-rf-components)
-**Published:** Tue, 30 Jun 2026 17:41:44 +0000
-
-<p>Keysight Technologies, Inc. and WIN Semiconductors Corp. today announced a joint MMIC design workflow that enables GaN MMIC design houses to achieve first pass tapeout success.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/keysight-and-win-semiconductors-collaborate-to-cut-design-risk-for-high-frequency-rf-components/">Keysight and WIN Semiconductors Collaborate to Cut Design Risk for High Frequency RF Components</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
