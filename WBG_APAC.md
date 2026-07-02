@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-02 03:50 UTC_
+_Last updated: 2026-07-02 13:11 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -46,14 +46,6 @@ _Last updated: 2026-07-02 03:50 UTC_
 
 ---
 
-## [onsemi Acquiring Synaptics to Expand Edge AI and Physical AI Portfolio](https://www.eetasia.com/onsemi-acquiring-synaptics-to-expand-edge-ai-and-physical-ai-portfolio/)
-**Published:** Tue, 30 Jun 2026 09:40:29 +0000
-
-<p>The acquisition adds edge AI compute and connectivity capabilities, strengthening onsemi's position in intelligent systems markets.</p>
-<p>The post <a href="https://www.eetasia.com/onsemi-acquiring-synaptics-to-expand-edge-ai-and-physical-ai-portfolio/">onsemi Acquiring Synaptics to Expand Edge AI and Physical AI Portfolio</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
 ## [Allegro DVT Plays a Pivotal Role in Groundbreaking CHASSIS Automotive Base Die Development](https://www.semiconductor-digest.com/allegro-dvt-plays-a-pivotal-role-in-groundbreaking-chassis-automotive-base-die-development/?utm_source=rss&utm_medium=rss&utm_campaign=allegro-dvt-plays-a-pivotal-role-in-groundbreaking-chassis-automotive-base-die-development)
 **Published:** Wed, 01 Jul 2026 21:06:53 +0000
 
@@ -83,6 +75,14 @@ _Last updated: 2026-07-02 03:50 UTC_
 
 <p>Successful benchmarking, radiation validation, and in-flight demonstrations validate EdgeCortix's AI platform for next-generation defense and aerospace deployments.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/edgecortix-demonstrates-edge-ai-platform-readiness-with-u-s-air-force/">EdgeCortix Demonstrates Edge AI Platform Readiness with U.S. Air Force</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Omdia: AR Display Growth Drives Near-Eye Display Market to $675M in 2026](https://www.semiconductor-digest.com/omdia-ar-display-growth-drives-near-eye-display-market-to-675m-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-ar-display-growth-drives-near-eye-display-market-to-675m-in-2026)
+**Published:** Tue, 30 Jun 2026 18:04:40 +0000
+
+<p>After a sharp contraction in 2025, near-eye display market revenue is forecast to reach $675 million in 2026, up 12% year-over-year (YoY), according to Omdia’s latest VR, AR, XR Near Eye Displays – 2026 Analysis.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-ar-display-growth-drives-near-eye-display-market-to-675m-in-2026/">Omdia: AR Display Growth Drives Near-Eye Display Market to $675M in 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
