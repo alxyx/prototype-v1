@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-02 23:19 UTC_
+_Last updated: 2026-07-03 06:52 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -35,14 +35,6 @@ _Last updated: 2026-07-02 23:19 UTC_
 
 <p>The collaboration demonstrates growing confidence in Malaysian engineering talent and the ability of local technology companies to participate in higher-value segments of the global semiconductor industry.</p>
 <p>The post <a href="https://www.eetasia.com/mida-backs-greatasic-xenith-partnership-to-advance-malaysias-ic-design-capabilities/">MIDA Backs GreatAsic-Xenith Partnership to Advance Malaysia&#8217;s IC Design Capabilities</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Chae Lee Appointed CEO of Magnachip](https://www.eetasia.com/chae-lee-appointed-ceo-of-magnachip/)
-**Published:** Tue, 30 Jun 2026 10:49:50 +0000
-
-<p>Magnachip has appointed semiconductor industry veteran Chae Lee as chief executive officer, effective July 1, 2026.</p>
-<p>The post <a href="https://www.eetasia.com/chae-lee-appointed-ceo-of-magnachip/">Chae Lee Appointed CEO of Magnachip</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-07-02 23:19 UTC_
 
 <p>Allegro DVT announced its contribution to the European CHASSIS program's implementation of the Automotive Base Die chiplet.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/allegro-dvt-plays-a-pivotal-role-in-groundbreaking-chassis-automotive-base-die-development/">Allegro DVT Plays a Pivotal Role in Groundbreaking CHASSIS Automotive Base Die Development</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Sirin Software Joins Alif Semiconductor Partner Ecosystem as Authorized Design House](https://www.semiconductor-digest.com/sirin-software-joins-alif-semiconductor-partner-ecosystem-as-authorized-design-house/?utm_source=rss&utm_medium=rss&utm_campaign=sirin-software-joins-alif-semiconductor-partner-ecosystem-as-authorized-design-house)
+**Published:** Wed, 01 Jul 2026 20:54:32 +0000
+
+<p>Sirin Software, an embedded software and IoT engineering services provider, today announced it has officially joined the Alif Semiconductor partner ecosystem as an authorized Design House.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sirin-software-joins-alif-semiconductor-partner-ecosystem-as-authorized-design-house/">Sirin Software Joins Alif Semiconductor Partner Ecosystem as Authorized Design House</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
