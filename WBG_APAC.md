@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-06 20:09 UTC_
+_Last updated: 2026-07-06 23:20 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,38 @@ _Last updated: 2026-07-06 20:09 UTC_
 
 <p>NTU Singapore has launched a new industry-backed IC design program to help meet growing semiconductor talent demand.</p>
 <p>The post <a href="https://www.eetasia.com/ntu-singapore-launches-industry-aligned-ic-design-program/">NTU Singapore Launches Industry-aligned IC Design Program</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Global Semiconductor Sales Increase 9.2% Month-to-Month in May](https://www.semiconductor-digest.com/global-semiconductor-sales-increase-9-2-month-to-month-in-may/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-sales-increase-9-2-month-to-month-in-may)
+**Published:** Mon, 06 Jul 2026 21:22:28 +0000
+
+<p>An increase of 9.2% compared to the April 2026 total of $110.5 billion and 104.1% more than the May 2025 total of $59.1 billion.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-sales-increase-9-2-month-to-month-in-may/">Global Semiconductor Sales Increase 9.2% Month-to-Month in May</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Micron and Ford Sign Strategic Agreement to Strengthen Long-Term Memory Supply and Industry Resilience](https://www.semiconductor-digest.com/micron-and-ford-sign-strategic-agreement-to-strengthen-long-term-memory-supply-and-industry-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=micron-and-ford-sign-strategic-agreement-to-strengthen-long-term-memory-supply-and-industry-resilience)
+**Published:** Mon, 06 Jul 2026 21:19:51 +0000
+
+<p>Supply continuity supports Ford with high-performance memory and storage solutions for consumers around the world.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-and-ford-sign-strategic-agreement-to-strengthen-long-term-memory-supply-and-industry-resilience/">Micron and Ford Sign Strategic Agreement to Strengthen Long-Term Memory Supply and Industry Resilience</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [How Reliable Is My Computer Chip?](https://www.semiconductor-digest.com/how-reliable-is-my-computer-chip/?utm_source=rss&utm_medium=rss&utm_campaign=how-reliable-is-my-computer-chip)
+**Published:** Mon, 06 Jul 2026 21:16:46 +0000
+
+<p>Electronic components are becoming ever smaller, and quality control is becoming increasingly difficult. TU Wien shows that established methods fall short — and what should be done instead.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/how-reliable-is-my-computer-chip/">How Reliable Is My Computer Chip?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Role in Building National Semiconductor Workforce Grows](https://www.semiconductor-digest.com/role-in-building-national-semiconductor-workforce-grows/?utm_source=rss&utm_medium=rss&utm_campaign=role-in-building-national-semiconductor-workforce-grows)
+**Published:** Mon, 06 Jul 2026 21:12:25 +0000
+
+<p>UT Dallas to lead key initiatives within the new National Network for Microelectronics Education South Regional Node.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/role-in-building-national-semiconductor-workforce-grows/">Role in Building National Semiconductor Workforce Grows</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -51,38 +83,6 @@ _Last updated: 2026-07-06 20:09 UTC_
 
 <p>Investment of 5 billion euros strengthens manufacturing base for highly modern power semiconductors, creating 1,000 jobs in the "Smart Power Fab."</p>
 <p>The post <a href="https://www.semiconductor-digest.com/infineon-opens-the-worlds-largest-fab-for-power-semiconductors-and-analog-mixed-signal-technologies-in-dresden/">Infineon Opens the World&#8217;s Largest Fab for Power Semiconductors and Analog/Mixed-Signal Technologies in Dresden</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Allegro DVT Plays a Pivotal Role in Groundbreaking CHASSIS Automotive Base Die Development](https://www.semiconductor-digest.com/allegro-dvt-plays-a-pivotal-role-in-groundbreaking-chassis-automotive-base-die-development/?utm_source=rss&utm_medium=rss&utm_campaign=allegro-dvt-plays-a-pivotal-role-in-groundbreaking-chassis-automotive-base-die-development)
-**Published:** Wed, 01 Jul 2026 21:06:53 +0000
-
-<p>Allegro DVT announced its contribution to the European CHASSIS program's implementation of the Automotive Base Die chiplet.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/allegro-dvt-plays-a-pivotal-role-in-groundbreaking-chassis-automotive-base-die-development/">Allegro DVT Plays a Pivotal Role in Groundbreaking CHASSIS Automotive Base Die Development</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Sirin Software Joins Alif Semiconductor Partner Ecosystem as Authorized Design House](https://www.semiconductor-digest.com/sirin-software-joins-alif-semiconductor-partner-ecosystem-as-authorized-design-house/?utm_source=rss&utm_medium=rss&utm_campaign=sirin-software-joins-alif-semiconductor-partner-ecosystem-as-authorized-design-house)
-**Published:** Wed, 01 Jul 2026 20:54:32 +0000
-
-<p>Sirin Software, an embedded software and IoT engineering services provider, today announced it has officially joined the Alif Semiconductor partner ecosystem as an authorized Design House.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sirin-software-joins-alif-semiconductor-partner-ecosystem-as-authorized-design-house/">Sirin Software Joins Alif Semiconductor Partner Ecosystem as Authorized Design House</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [As the World Races to Make More Chips, the Next Bottleneck May Be Femtosecond Lasers](https://www.semiconductor-digest.com/as-the-world-races-to-make-more-chips-the-next-bottleneck-may-be-femtosecond-lasers/?utm_source=rss&utm_medium=rss&utm_campaign=as-the-world-races-to-make-more-chips-the-next-bottleneck-may-be-femtosecond-lasers)
-**Published:** Wed, 01 Jul 2026 20:50:15 +0000
-
-<p>Manufacturing the latest generation of chips requires high precision; even sub-microscopic thermal damage makes a component unusable. According to experts at LITILIT, chips are increasingly manufactured using femtosecond lasers that fire extremely short light pulses to enable highly accurate processing with minimal thermal impact.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/as-the-world-races-to-make-more-chips-the-next-bottleneck-may-be-femtosecond-lasers/">As the World Races to Make More Chips, the Next Bottleneck May Be Femtosecond Lasers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [EdgeCortix Demonstrates Edge AI Platform Readiness with U.S. Air Force](https://www.semiconductor-digest.com/edgecortix-demonstrates-edge-ai-platform-readiness-with-u-s-air-force/?utm_source=rss&utm_medium=rss&utm_campaign=edgecortix-demonstrates-edge-ai-platform-readiness-with-u-s-air-force)
-**Published:** Tue, 30 Jun 2026 18:17:33 +0000
-
-<p>Successful benchmarking, radiation validation, and in-flight demonstrations validate EdgeCortix's AI platform for next-generation defense and aerospace deployments.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/edgecortix-demonstrates-edge-ai-platform-readiness-with-u-s-air-force/">EdgeCortix Demonstrates Edge AI Platform Readiness with U.S. Air Force</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
