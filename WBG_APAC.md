@@ -1,8 +1,32 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-07-06 23:20 UTC_
+_Last updated: 2026-07-07 13:34 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Alif Semiconductor Adds Sirin Software to Partner Ecosystem](https://www.eetasia.com/alif-semiconductor-adds-sirin-software-to-partner-ecosystem/)
+**Published:** Tue, 07 Jul 2026 03:08:44 +0000
+
+<p>Sirin Software has officially joined the Alif Semiconductor partner ecosystem as an authorized design house.</p>
+<p>The post <a href="https://www.eetasia.com/alif-semiconductor-adds-sirin-software-to-partner-ecosystem/">Alif Semiconductor Adds Sirin Software to Partner Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [GigaDevice Expands Non-volatile Memory Portfolio](https://www.eetasia.com/gigadevice-expands-non-volatile-memory-portfolio/)
+**Published:** Tue, 07 Jul 2026 03:03:28 +0000
+
+<p>GigaDevice Semiconductor has expanded its non-volatile memory portfolio with the launch of its new GD24CL series I²C EEPROM.</p>
+<p>The post <a href="https://www.eetasia.com/gigadevice-expands-non-volatile-memory-portfolio/">GigaDevice Expands Non-volatile Memory Portfolio</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Global Foundry 2.0 Revenue Jumps 23% YoY in 1Q 2026](https://www.eetasia.com/global-foundry-2-0-revenue-jumps-23-yoy-in-1q-2026/)
+**Published:** Tue, 07 Jul 2026 02:13:19 +0000
+
+<p>The global foundry 2.0 market revenue climbed by 23% YoY in 1Q 2026 amid strong demand for AI GPUs and AI ASICs.</p>
+<p>The post <a href="https://www.eetasia.com/global-foundry-2-0-revenue-jumps-23-yoy-in-1q-2026/">Global Foundry 2.0 Revenue Jumps 23% YoY in 1Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,14 +35,6 @@ _Last updated: 2026-07-06 23:20 UTC_
 
 <p>Infineon has opened its largest semiconductor manufacturing facility, expanding production for AI, automotive, industrial, and renewable energy markets.</p>
 <p>The post <a href="https://www.eetasia.com/infineon-opens-worlds-largest-smart-power-semiconductor-fab-in-dresden/">Infineon Opens World&#8217;s Largest Smart Power Semiconductor Fab in Dresden</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [NTU Singapore Launches Industry-aligned IC Design Program](https://www.eetasia.com/ntu-singapore-launches-industry-aligned-ic-design-program/)
-**Published:** Thu, 02 Jul 2026 01:37:48 +0000
-
-<p>NTU Singapore has launched a new industry-backed IC design program to help meet growing semiconductor talent demand.</p>
-<p>The post <a href="https://www.eetasia.com/ntu-singapore-launches-industry-aligned-ic-design-program/">NTU Singapore Launches Industry-aligned IC Design Program</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-07-06 23:20 UTC_
 
 <p>Nova today announced the selection of its Nova WMC platform by a leading global foundry customer for multiple layers' measurement in the most advanced packaging processes.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/nova-wmc-expanding-adoption-across-the-most-advanced-packaging-processes/">Nova WMC Expanding Adoption Across the Most Advanced Packaging Processes</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Hanbat National University Researchers Develop a New Predictive Model for Designing 2D Perovskites](https://www.semiconductor-digest.com/hanbat-national-university-researchers-develop-a-new-predictive-model-for-designing-2d-perovskites/?utm_source=rss&utm_medium=rss&utm_campaign=hanbat-national-university-researchers-develop-a-new-predictive-model-for-designing-2d-perovskites)
-**Published:** Thu, 02 Jul 2026 18:12:46 +0000
-
-<p>By separating dielectric-screening effects from structural distortion, the study offers practical design rules for tuning excitons in 2D perovskites.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hanbat-national-university-researchers-develop-a-new-predictive-model-for-designing-2d-perovskites/">Hanbat National University Researchers Develop a New Predictive Model for Designing 2D Perovskites</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Infineon Opens the World’s Largest Fab for Power Semiconductors and Analog/Mixed-Signal Technologies in Dresden](https://www.semiconductor-digest.com/infineon-opens-the-worlds-largest-fab-for-power-semiconductors-and-analog-mixed-signal-technologies-in-dresden/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-opens-the-worlds-largest-fab-for-power-semiconductors-and-analog-mixed-signal-technologies-in-dresden)
-**Published:** Thu, 02 Jul 2026 17:59:04 +0000
-
-<p>Investment of 5 billion euros strengthens manufacturing base for highly modern power semiconductors, creating 1,000 jobs in the "Smart Power Fab."</p>
-<p>The post <a href="https://www.semiconductor-digest.com/infineon-opens-the-worlds-largest-fab-for-power-semiconductors-and-analog-mixed-signal-technologies-in-dresden/">Infineon Opens the World&#8217;s Largest Fab for Power Semiconductors and Analog/Mixed-Signal Technologies in Dresden</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
