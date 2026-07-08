@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-07-08 02:53 UTC_
+_Last updated: 2026-07-08 16:52 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Analog Devices Completes Acquisition of Empower Semiconductor](https://www.eetasia.com/analog-devices-completes-acquisition-of-empower-semiconductor/)
+**Published:** Wed, 08 Jul 2026 09:09:51 +0000
+
+<p>ADI has further strengthened its position as a leading strategic, system-level grid-to-core power partner across the entire AI ecosystem.</p>
+<p>The post <a href="https://www.eetasia.com/analog-devices-completes-acquisition-of-empower-semiconductor/">Analog Devices Completes Acquisition of Empower Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -35,14 +43,6 @@ _Last updated: 2026-07-08 02:53 UTC_
 
 <p>The global foundry 2.0 market revenue climbed by 23% YoY in 1Q 2026 amid strong demand for AI GPUs and AI ASICs.</p>
 <p>The post <a href="https://www.eetasia.com/global-foundry-2-0-revenue-jumps-23-yoy-in-1q-2026/">Global Foundry 2.0 Revenue Jumps 23% YoY in 1Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Infineon Opens World’s Largest Smart Power Semiconductor Fab in Dresden](https://www.eetasia.com/infineon-opens-worlds-largest-smart-power-semiconductor-fab-in-dresden/)
-**Published:** Mon, 06 Jul 2026 01:49:21 +0000
-
-<p>Infineon has opened its largest semiconductor manufacturing facility, expanding production for AI, automotive, industrial, and renewable energy markets.</p>
-<p>The post <a href="https://www.eetasia.com/infineon-opens-worlds-largest-smart-power-semiconductor-fab-in-dresden/">Infineon Opens World&#8217;s Largest Smart Power Semiconductor Fab in Dresden</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
