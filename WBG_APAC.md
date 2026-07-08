@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-07-08 16:52 UTC_
+_Last updated: 2026-07-08 22:19 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -46,43 +46,43 @@ _Last updated: 2026-07-08 16:52 UTC_
 
 ---
 
-## [Analog Devices Completes Acquisition of Empower Semiconductor](https://www.semiconductor-digest.com/analog-devices-completes-acquisition-of-empower-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=analog-devices-completes-acquisition-of-empower-semiconductor)
-**Published:** Tue, 07 Jul 2026 19:31:27 +0000
+## [TetraMem and SK hynix Showcase Successful Technology Collaboration Advancing Memory-Centric AI Computing](https://www.semiconductor-digest.com/tetramem-and-sk-hynix-showcase-successful-technology-collaboration-advancing-memory-centric-ai-computing/?utm_source=rss&utm_medium=rss&utm_campaign=tetramem-and-sk-hynix-showcase-successful-technology-collaboration-advancing-memory-centric-ai-computing)
+**Published:** Wed, 08 Jul 2026 18:05:27 +0000
 
-<p>Analog Devices, Inc. today announced the completion of its acquisition of Empower Semiconductor.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/analog-devices-completes-acquisition-of-empower-semiconductor/">Analog Devices Completes Acquisition of Empower Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat](https://www.semiconductor-digest.com/cg-semi-commences-commercial-production-at-its-g1-osat-facility-in-sanand-gujarat/?utm_source=rss&utm_medium=rss&utm_campaign=cg-semi-commences-commercial-production-at-its-g1-osat-facility-in-sanand-gujarat)
-**Published:** Tue, 07 Jul 2026 19:29:03 +0000
-
-<p>A key milestone in India’s semiconductor manufacturing journey.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cg-semi-commences-commercial-production-at-its-g1-osat-facility-in-sanand-gujarat/">CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Joint achievement highlights how Analog In-Memory Computing can address the growing energy and thermal challenges of AI while laying the foundation for deeper collaboration on next-generation memory and computing architectures.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tetramem-and-sk-hynix-showcase-successful-technology-collaboration-advancing-memory-centric-ai-computing/">TetraMem and SK hynix Showcase Successful Technology Collaboration Advancing Memory-Centric AI Computing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [ACCM Introduces Celeritas SMC: A Production-Ready, Silicon-Matched Core for Advanced Packaging](https://www.semiconductor-digest.com/accm-introduces-celeritas-smc-a-production-ready-silicon-matched-core-for-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=accm-introduces-celeritas-smc-a-production-ready-silicon-matched-core-for-advanced-packaging)
-**Published:** Tue, 07 Jul 2026 19:13:10 +0000
+## [Rigaku Opens “Rigaku Solutions Center Osaka” to Strengthen Global Semiconductor Metrology Service Capabilities](https://www.semiconductor-digest.com/rigaku-opens-rigaku-solutions-center-osaka-to-strengthen-global-semiconductor-metrology-service-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=rigaku-opens-rigaku-solutions-center-osaka-to-strengthen-global-semiconductor-metrology-service-capabilities)
+**Published:** Wed, 08 Jul 2026 17:41:20 +0000
 
-<p>Shipping now from ACCM's Wisconsin facility, Celeritas SMC enables low-warpage, high-reliability chiplet and embedded-bridge packages using established substrate processes, without TGVs, brittle glass handling, or glass-specific capital equipment.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/accm-introduces-celeritas-smc-a-production-ready-silicon-matched-core-for-advanced-packaging/">ACCM Introduces Celeritas SMC: A Production-Ready, Silicon-Matched Core for Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Alpha and Omega Semiconductor Unveils AmpStack Packaging](https://www.semiconductor-digest.com/alpha-and-omega-semiconductor-unveils-ampstack-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=alpha-and-omega-semiconductor-unveils-ampstack-packaging)
-**Published:** Tue, 07 Jul 2026 19:01:09 +0000
-
-<p>Innovative vertically stacked packaging DFN6x5 technology in a half-bridge configuration.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/alpha-and-omega-semiconductor-unveils-ampstack-packaging/">Alpha and Omega Semiconductor Unveils AmpStack Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>The new facility centralizes and expands practical training for field service engineers supporting semiconductor metrology systems, strengthening Rigaku's global service capabilities.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rigaku-opens-rigaku-solutions-center-osaka-to-strengthen-global-semiconductor-metrology-service-capabilities/">Rigaku Opens &#8220;Rigaku Solutions Center Osaka&#8221; to Strengthen Global Semiconductor Metrology Service Capabilities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Development of High-Performance, Air- and Thermally-Stable Tin Perovskite Transistors Through Volatile Surface Coordination](https://www.semiconductor-digest.com/development-of-high-performance-air-and-thermally-stable-tin-perovskite-transistors-through-volatile-surface-coordination/?utm_source=rss&utm_medium=rss&utm_campaign=development-of-high-performance-air-and-thermally-stable-tin-perovskite-transistors-through-volatile-surface-coordination)
-**Published:** Tue, 07 Jul 2026 18:49:36 +0000
+## [Zuken Joins TSMC’s Open Innovation Platform EDA Alliance](https://www.semiconductor-digest.com/zuken-joins-tsmcs-open-innovation-platform-eda-alliance/?utm_source=rss&utm_medium=rss&utm_campaign=zuken-joins-tsmcs-open-innovation-platform-eda-alliance)
+**Published:** Wed, 08 Jul 2026 17:38:26 +0000
 
-<p>A research team led by Professor Yong-Young Noh at POSTECH (Pohang University of Science and Technology) has solved this long-standing problem and published a next-generation semiconductor with enhanced performance and stability in Nature.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/development-of-high-performance-air-and-thermally-stable-tin-perovskite-transistors-through-volatile-surface-coordination/">Development of High-Performance, Air- and Thermally-Stable Tin Perovskite Transistors Through Volatile Surface Coordination</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Zuken Inc. today announced that it has joined the EDA Alliance in TSMC’s Open Innovation Platform (OIP).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/zuken-joins-tsmcs-open-innovation-platform-eda-alliance/">Zuken Joins TSMC’s Open Innovation Platform EDA Alliance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Arteris Announces Collaboration with IC-Link by imec to Accelerate Next-Gen AI and HPC Silicon](https://www.semiconductor-digest.com/arteris-announces-collaboration-with-ic-link-by-imec-to-accelerate-next-gen-ai-and-hpc-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=arteris-announces-collaboration-with-ic-link-by-imec-to-accelerate-next-gen-ai-and-hpc-silicon)
+**Published:** Wed, 08 Jul 2026 17:29:24 +0000
+
+<p>Arteris provides high-performance and energy-efficient, safe and secure silicon-proven network-on-chip (NoC) IP technology for AI ASIC with chiplet reuse and reduced time to market. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/arteris-announces-collaboration-with-ic-link-by-imec-to-accelerate-next-gen-ai-and-hpc-silicon/">Arteris Announces Collaboration with IC-Link by imec to Accelerate Next-Gen AI and HPC Silicon</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEALSQ and GlobalFoundries Partner to Accelerate Post-Quantum Cryptography and Quantum Computing Technologies](https://www.semiconductor-digest.com/sealsq-and-globalfoundries-partner-to-accelerate-post-quantum-cryptography-and-quantum-computing-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=sealsq-and-globalfoundries-partner-to-accelerate-post-quantum-cryptography-and-quantum-computing-technologies)
+**Published:** Wed, 08 Jul 2026 17:26:05 +0000
+
+<p>SEALSQ Corp and GlobalFoundries today announced a strategic Memorandum of Understanding (MoU) to co-develop across secure semiconductor platforms, Post-Quantum Cryptography (PQC) and emerging semiconductor-based quantum computing technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sealsq-and-globalfoundries-partner-to-accelerate-post-quantum-cryptography-and-quantum-computing-technologies/">SEALSQ and GlobalFoundries Partner to Accelerate Post-Quantum Cryptography and Quantum Computing Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
