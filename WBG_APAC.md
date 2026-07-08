@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-07-07 13:34 UTC_
+_Last updated: 2026-07-08 02:53 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [ChipApex Strengthens Component Sourcing Services to Address Chip Supply Challenges](https://www.eetasia.com/chipapex-strengthens-component-sourcing-services-to-address-chip-supply-challenges/)
+**Published:** Tue, 07 Jul 2026 23:35:17 +0000
+
+<p>ChipApex expands its procurement services to help manufacturers by accelerating access to critical semiconductor components.</p>
+<p>The post <a href="https://www.eetasia.com/chipapex-strengthens-component-sourcing-services-to-address-chip-supply-challenges/">ChipApex Strengthens Component Sourcing Services to Address Chip Supply Challenges</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -38,51 +46,43 @@ _Last updated: 2026-07-07 13:34 UTC_
 
 ---
 
-## [Global Semiconductor Sales Increase 9.2% Month-to-Month in May](https://www.semiconductor-digest.com/global-semiconductor-sales-increase-9-2-month-to-month-in-may/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-sales-increase-9-2-month-to-month-in-may)
-**Published:** Mon, 06 Jul 2026 21:22:28 +0000
+## [Analog Devices Completes Acquisition of Empower Semiconductor](https://www.semiconductor-digest.com/analog-devices-completes-acquisition-of-empower-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=analog-devices-completes-acquisition-of-empower-semiconductor)
+**Published:** Tue, 07 Jul 2026 19:31:27 +0000
 
-<p>An increase of 9.2% compared to the April 2026 total of $110.5 billion and 104.1% more than the May 2025 total of $59.1 billion.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-sales-increase-9-2-month-to-month-in-may/">Global Semiconductor Sales Increase 9.2% Month-to-Month in May</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Micron and Ford Sign Strategic Agreement to Strengthen Long-Term Memory Supply and Industry Resilience](https://www.semiconductor-digest.com/micron-and-ford-sign-strategic-agreement-to-strengthen-long-term-memory-supply-and-industry-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=micron-and-ford-sign-strategic-agreement-to-strengthen-long-term-memory-supply-and-industry-resilience)
-**Published:** Mon, 06 Jul 2026 21:19:51 +0000
-
-<p>Supply continuity supports Ford with high-performance memory and storage solutions for consumers around the world.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-and-ford-sign-strategic-agreement-to-strengthen-long-term-memory-supply-and-industry-resilience/">Micron and Ford Sign Strategic Agreement to Strengthen Long-Term Memory Supply and Industry Resilience</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Analog Devices, Inc. today announced the completion of its acquisition of Empower Semiconductor.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/analog-devices-completes-acquisition-of-empower-semiconductor/">Analog Devices Completes Acquisition of Empower Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [How Reliable Is My Computer Chip?](https://www.semiconductor-digest.com/how-reliable-is-my-computer-chip/?utm_source=rss&utm_medium=rss&utm_campaign=how-reliable-is-my-computer-chip)
-**Published:** Mon, 06 Jul 2026 21:16:46 +0000
+## [CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat](https://www.semiconductor-digest.com/cg-semi-commences-commercial-production-at-its-g1-osat-facility-in-sanand-gujarat/?utm_source=rss&utm_medium=rss&utm_campaign=cg-semi-commences-commercial-production-at-its-g1-osat-facility-in-sanand-gujarat)
+**Published:** Tue, 07 Jul 2026 19:29:03 +0000
 
-<p>Electronic components are becoming ever smaller, and quality control is becoming increasingly difficult. TU Wien shows that established methods fall short — and what should be done instead.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/how-reliable-is-my-computer-chip/">How Reliable Is My Computer Chip?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Role in Building National Semiconductor Workforce Grows](https://www.semiconductor-digest.com/role-in-building-national-semiconductor-workforce-grows/?utm_source=rss&utm_medium=rss&utm_campaign=role-in-building-national-semiconductor-workforce-grows)
-**Published:** Mon, 06 Jul 2026 21:12:25 +0000
-
-<p>UT Dallas to lead key initiatives within the new National Network for Microelectronics Education South Regional Node.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/role-in-building-national-semiconductor-workforce-grows/">Role in Building National Semiconductor Workforce Grows</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>A key milestone in India’s semiconductor manufacturing journey.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cg-semi-commences-commercial-production-at-its-g1-osat-facility-in-sanand-gujarat/">CG Semi Commences Commercial Production at Its G1 OSAT Facility in Sanand, Gujarat</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Micron and General Motors Sign Strategic Agreement to Secure Supply and Accelerate Innovation](https://www.semiconductor-digest.com/micron-and-general-motors-sign-strategic-agreement-to-secure-supply-and-accelerate-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=micron-and-general-motors-sign-strategic-agreement-to-secure-supply-and-accelerate-innovation)
-**Published:** Thu, 02 Jul 2026 18:30:09 +0000
+## [ACCM Introduces Celeritas SMC: A Production-Ready, Silicon-Matched Core for Advanced Packaging](https://www.semiconductor-digest.com/accm-introduces-celeritas-smc-a-production-ready-silicon-matched-core-for-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=accm-introduces-celeritas-smc-a-production-ready-silicon-matched-core-for-advanced-packaging)
+**Published:** Tue, 07 Jul 2026 19:13:10 +0000
 
-<p>Supply commitment supports next-generation GM vehicle platforms with reliable, high-performance memory and storage solutions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-and-general-motors-sign-strategic-agreement-to-secure-supply-and-accelerate-innovation/">Micron and General Motors Sign Strategic Agreement to Secure Supply and Accelerate Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Shipping now from ACCM's Wisconsin facility, Celeritas SMC enables low-warpage, high-reliability chiplet and embedded-bridge packages using established substrate processes, without TGVs, brittle glass handling, or glass-specific capital equipment.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/accm-introduces-celeritas-smc-a-production-ready-silicon-matched-core-for-advanced-packaging/">ACCM Introduces Celeritas SMC: A Production-Ready, Silicon-Matched Core for Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Nova WMC Expanding Adoption Across the Most Advanced Packaging Processes](https://www.semiconductor-digest.com/nova-wmc-expanding-adoption-across-the-most-advanced-packaging-processes/?utm_source=rss&utm_medium=rss&utm_campaign=nova-wmc-expanding-adoption-across-the-most-advanced-packaging-processes)
-**Published:** Thu, 02 Jul 2026 18:14:36 +0000
+## [Alpha and Omega Semiconductor Unveils AmpStack Packaging](https://www.semiconductor-digest.com/alpha-and-omega-semiconductor-unveils-ampstack-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=alpha-and-omega-semiconductor-unveils-ampstack-packaging)
+**Published:** Tue, 07 Jul 2026 19:01:09 +0000
 
-<p>Nova today announced the selection of its Nova WMC platform by a leading global foundry customer for multiple layers' measurement in the most advanced packaging processes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nova-wmc-expanding-adoption-across-the-most-advanced-packaging-processes/">Nova WMC Expanding Adoption Across the Most Advanced Packaging Processes</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Innovative vertically stacked packaging DFN6x5 technology in a half-bridge configuration.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/alpha-and-omega-semiconductor-unveils-ampstack-packaging/">Alpha and Omega Semiconductor Unveils AmpStack Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Development of High-Performance, Air- and Thermally-Stable Tin Perovskite Transistors Through Volatile Surface Coordination](https://www.semiconductor-digest.com/development-of-high-performance-air-and-thermally-stable-tin-perovskite-transistors-through-volatile-surface-coordination/?utm_source=rss&utm_medium=rss&utm_campaign=development-of-high-performance-air-and-thermally-stable-tin-perovskite-transistors-through-volatile-surface-coordination)
+**Published:** Tue, 07 Jul 2026 18:49:36 +0000
+
+<p>A research team led by Professor Yong-Young Noh at POSTECH (Pohang University of Science and Technology) has solved this long-standing problem and published a next-generation semiconductor with enhanced performance and stability in Nature.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/development-of-high-performance-air-and-thermally-stable-tin-perovskite-transistors-through-volatile-surface-coordination/">Development of High-Performance, Air- and Thermally-Stable Tin Perovskite Transistors Through Volatile Surface Coordination</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
