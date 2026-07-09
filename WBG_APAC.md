@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-09 18:08 UTC_
+_Last updated: 2026-07-09 19:59 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -38,6 +38,22 @@ _Last updated: 2026-07-09 18:08 UTC_
 
 ---
 
+## [Micron Announces Up to $3 Billion Strategic Investment](https://www.semiconductor-digest.com/micron-announces-up-to-3-billion-strategic-investment/?utm_source=rss&utm_medium=rss&utm_campaign=micron-announces-up-to-3-billion-strategic-investment)
+**Published:** Thu, 09 Jul 2026 18:06:36 +0000
+
+<p>Investment supports GlobalWafers’ U.S. wafer manufacturing expansion and other strategic investments for long-term supply assurance.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-announces-up-to-3-billion-strategic-investment/">Micron Announces Up to $3 Billion Strategic Investment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Micron Accelerates U.S. Investments, Pours First Concrete at New York Fab](https://www.semiconductor-digest.com/micron-accelerates-u-s-investments-pours-first-concrete-at-new-york-fab/?utm_source=rss&utm_medium=rss&utm_campaign=micron-accelerates-u-s-investments-pours-first-concrete-at-new-york-fab)
+**Published:** Thu, 09 Jul 2026 18:05:22 +0000
+
+<p>Micron raises its planned U.S. investment to more than $250 billion through 2035 and celebrates a construction milestone at what will be the largest semiconductor manufacturing site in U.S. history.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-accelerates-u-s-investments-pours-first-concrete-at-new-york-fab/">Micron Accelerates U.S. Investments, Pours First Concrete at New York Fab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [KAIST Automates the Search for “Dream Semiconductor” 2D Semiconductors](https://www.semiconductor-digest.com/kaist-automates-the-search-for-dream-semiconductor-2d-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-automates-the-search-for-dream-semiconductor-2d-semiconductors)
 **Published:** Thu, 09 Jul 2026 17:52:13 +0000
 
@@ -67,22 +83,6 @@ _Last updated: 2026-07-09 18:08 UTC_
 
 <p>Zuken Inc. today announced that it has joined the EDA Alliance in TSMC’s Open Innovation Platform (OIP).</p>
 <p>The post <a href="https://www.semiconductor-digest.com/zuken-joins-tsmcs-open-innovation-platform-eda-alliance/">Zuken Joins TSMC’s Open Innovation Platform EDA Alliance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Arteris Announces Collaboration with IC-Link by imec to Accelerate Next-Gen AI and HPC Silicon](https://www.semiconductor-digest.com/arteris-announces-collaboration-with-ic-link-by-imec-to-accelerate-next-gen-ai-and-hpc-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=arteris-announces-collaboration-with-ic-link-by-imec-to-accelerate-next-gen-ai-and-hpc-silicon)
-**Published:** Wed, 08 Jul 2026 17:29:24 +0000
-
-<p>Arteris provides high-performance and energy-efficient, safe and secure silicon-proven network-on-chip (NoC) IP technology for AI ASIC with chiplet reuse and reduced time to market. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/arteris-announces-collaboration-with-ic-link-by-imec-to-accelerate-next-gen-ai-and-hpc-silicon/">Arteris Announces Collaboration with IC-Link by imec to Accelerate Next-Gen AI and HPC Silicon</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEALSQ and GlobalFoundries Partner to Accelerate Post-Quantum Cryptography and Quantum Computing Technologies](https://www.semiconductor-digest.com/sealsq-and-globalfoundries-partner-to-accelerate-post-quantum-cryptography-and-quantum-computing-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=sealsq-and-globalfoundries-partner-to-accelerate-post-quantum-cryptography-and-quantum-computing-technologies)
-**Published:** Wed, 08 Jul 2026 17:26:05 +0000
-
-<p>SEALSQ Corp and GlobalFoundries today announced a strategic Memorandum of Understanding (MoU) to co-develop across secure semiconductor platforms, Post-Quantum Cryptography (PQC) and emerging semiconductor-based quantum computing technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sealsq-and-globalfoundries-partner-to-accelerate-post-quantum-cryptography-and-quantum-computing-technologies/">SEALSQ and GlobalFoundries Partner to Accelerate Post-Quantum Cryptography and Quantum Computing Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
