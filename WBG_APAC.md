@@ -1,6 +1,6 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/2)
 
-_Last updated: 2026-07-09 19:59 UTC_
+_Last updated: 2026-07-09 21:36 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -38,51 +38,51 @@ _Last updated: 2026-07-09 19:59 UTC_
 
 ---
 
-## [Micron Announces Up to $3 Billion Strategic Investment](https://www.semiconductor-digest.com/micron-announces-up-to-3-billion-strategic-investment/?utm_source=rss&utm_medium=rss&utm_campaign=micron-announces-up-to-3-billion-strategic-investment)
-**Published:** Thu, 09 Jul 2026 18:06:36 +0000
+## [Toshiba Unveils U-MOS11-H 80V MOSFET](https://www.powerelectronicsnews.com/toshiba-unveils-u-mos11-h-80v-mosfet/)
+**Published:** Thu, 09 Jul 2026 13:00:00 +0000
 
-<p>Investment supports GlobalWafers’ U.S. wafer manufacturing expansion and other strategic investments for long-term supply assurance.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-announces-up-to-3-billion-strategic-investment/">Micron Announces Up to $3 Billion Strategic Investment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Micron Accelerates U.S. Investments, Pours First Concrete at New York Fab](https://www.semiconductor-digest.com/micron-accelerates-u-s-investments-pours-first-concrete-at-new-york-fab/?utm_source=rss&utm_medium=rss&utm_campaign=micron-accelerates-u-s-investments-pours-first-concrete-at-new-york-fab)
-**Published:** Thu, 09 Jul 2026 18:05:22 +0000
-
-<p>Micron raises its planned U.S. investment to more than $250 billion through 2035 and celebrates a construction milestone at what will be the largest semiconductor manufacturing site in U.S. history.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-accelerates-u-s-investments-pours-first-concrete-at-new-york-fab/">Micron Accelerates U.S. Investments, Pours First Concrete at New York Fab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Toshiba Unveils U-MOS11-H 80-V MOSFET." class="webfeedsFeaturedVisual wp-post-image" height="360" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/mosfet-20260630-1_1_en.png?fit=640%2C360" style="display: block; margin-bottom: 5px; clear: both;" width="640" /><p>The U-MOS11-H MOSFET features low on-resistance, improved switching performance, and enhanced thermal characteristics.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/toshiba-unveils-u-mos11-h-80v-mosfet/">Toshiba Unveils U-MOS11-H 80V MOSFET</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [KAIST Automates the Search for “Dream Semiconductor” 2D Semiconductors](https://www.semiconductor-digest.com/kaist-automates-the-search-for-dream-semiconductor-2d-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-automates-the-search-for-dream-semiconductor-2d-semiconductors)
-**Published:** Thu, 09 Jul 2026 17:52:13 +0000
+## [TAIYO YUDEN Launches HVX-K and HTX-K Hybrid Capacitors](https://www.powerelectronicsnews.com/taiyo-yuden-launches-hvx-k-and-htx-k-hybrid-capacitors/)
+**Published:** Thu, 09 Jul 2026 13:00:00 +0000
 
-<p>A joint research team from KAIST, UNIST, Hanbat National University, Hanyang University, and Washington University in St. Louis has developed technology for automatically screening two-dimensional semiconductors only a few atomic layers thick and fabric.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kaist-automates-the-search-for-dream-semiconductor-2d-semiconductors/">KAIST Automates the Search for &#8220;Dream Semiconductor&#8221; 2D Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TetraMem and SK hynix Showcase Successful Technology Collaboration Advancing Memory-Centric AI Computing](https://www.semiconductor-digest.com/tetramem-and-sk-hynix-showcase-successful-technology-collaboration-advancing-memory-centric-ai-computing/?utm_source=rss&utm_medium=rss&utm_campaign=tetramem-and-sk-hynix-showcase-successful-technology-collaboration-advancing-memory-centric-ai-computing)
-**Published:** Wed, 08 Jul 2026 18:05:27 +0000
-
-<p>Joint achievement highlights how Analog In-Memory Computing can address the growing energy and thermal challenges of AI while laying the foundation for deeper collaboration on next-generation memory and computing architectures.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tetramem-and-sk-hynix-showcase-successful-technology-collaboration-advancing-memory-centric-ai-computing/">TetraMem and SK hynix Showcase Successful Technology Collaboration Advancing Memory-Centric AI Computing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="TAIYO YUDEN Launches HVX-K and HTX-K Hybrid Capacitors." class="webfeedsFeaturedVisual wp-post-image" height="800" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/TAIYO_YUDEN__TAIYO_YUDEN_Hybrid_Capacitor_HVX__K_and_HTX__K_series.png?fit=1200%2C800" style="display: block; margin-bottom: 5px; clear: both;" width="1200" /><p>The new AEC-Q200-qualified hybrid capacitors deliver higher capacitance, 80V operation, and high ripple current capability.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/taiyo-yuden-launches-hvx-k-and-htx-k-hybrid-capacitors/">TAIYO YUDEN Launches HVX-K and HTX-K Hybrid Capacitors</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Rigaku Opens “Rigaku Solutions Center Osaka” to Strengthen Global Semiconductor Metrology Service Capabilities](https://www.semiconductor-digest.com/rigaku-opens-rigaku-solutions-center-osaka-to-strengthen-global-semiconductor-metrology-service-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=rigaku-opens-rigaku-solutions-center-osaka-to-strengthen-global-semiconductor-metrology-service-capabilities)
-**Published:** Wed, 08 Jul 2026 17:41:20 +0000
+## [Power Corner: THDP0400 and TICS Wideband Shunts, Explained](https://www.powerelectronicsnews.com/power-corner-thdp0400-and-tics-wideband-shunts-explained/)
+**Published:** Thu, 09 Jul 2026 11:00:00 +0000
 
-<p>The new facility centralizes and expands practical training for field service engineers supporting semiconductor metrology systems, strengthening Rigaku's global service capabilities.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rigaku-opens-rigaku-solutions-center-osaka-to-strengthen-global-semiconductor-metrology-service-capabilities/">Rigaku Opens &#8220;Rigaku Solutions Center Osaka&#8221; to Strengthen Global Semiconductor Metrology Service Capabilities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/Tektronix-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Tektronix's Seamus Brokaw explains the THDP0400 differential probe and IsoVu current shunt probes for wide-bandgap power measurement.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-thdp0400-and-tics-wideband-shunts-explained/">Power Corner: THDP0400 and TICS Wideband Shunts, Explained</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Zuken Joins TSMC’s Open Innovation Platform EDA Alliance](https://www.semiconductor-digest.com/zuken-joins-tsmcs-open-innovation-platform-eda-alliance/?utm_source=rss&utm_medium=rss&utm_campaign=zuken-joins-tsmcs-open-innovation-platform-eda-alliance)
-**Published:** Wed, 08 Jul 2026 17:38:26 +0000
+## [New Allegro A81415 PMIC Simplifies Brake-by-Wire Systems](https://www.powerelectronicsnews.com/new-allegro-a81415-pmic-simplifies-brake-by-wire-systems/)
+**Published:** Wed, 08 Jul 2026 13:00:00 +0000
 
-<p>Zuken Inc. today announced that it has joined the EDA Alliance in TSMC’s Open Innovation Platform (OIP).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/zuken-joins-tsmcs-open-innovation-platform-eda-alliance/">Zuken Joins TSMC’s Open Innovation Platform EDA Alliance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="New Allegro A81415 PMIC Simplifies Brake-by-Wire Systems." class="webfeedsFeaturedVisual wp-post-image" height="320" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/a81415-press-release-image.png?fit=427%2C320" style="display: block; margin-bottom: 5px; clear: both;" width="427" /><p>The new ASIL-D PMIC integrates power management and wheel-speed sensing to reduce component count and simplify brake-by-wire design.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/new-allegro-a81415-pmic-simplifies-brake-by-wire-systems/">New Allegro A81415 PMIC Simplifies Brake-by-Wire Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Vishay Launches 40 V TrenchFET Gen IV MOSFETs](https://www.powerelectronicsnews.com/vishay-launches-40-v-trenchfet-gen-iv-mosfets/)
+**Published:** Wed, 08 Jul 2026 13:00:00 +0000
+
+<img alt="Vishay Launches 40 V TrenchFET Gen IV MOSFETs." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/55368874889_105ff61c7a_o.jpg?fit=1800%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1800" /><p>Gate-threshold optimization and low Qgd/Qgs ratios improve switching reliability in BLDC motors, power tools and automation systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/vishay-launches-40-v-trenchfet-gen-iv-mosfets/">Vishay Launches 40 V TrenchFET Gen IV MOSFETs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Building a Zeta Converter Using Integrated Buck Converter ICs](https://www.powerelectronicsnews.com/building-a-zeta-converter-using-integrated-buck-converter-ics/)
+**Published:** Wed, 08 Jul 2026 11:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/AdobeStock_605945032.jpeg?fit=5472%2C3000" style="display: block; margin-bottom: 5px; clear: both;" width="5472" /><p>It is possible to address buck-boost conversion challenges using the Zeta topology and existing integrated buck ICs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/building-a-zeta-converter-using-integrated-buck-converter-ics/">Building a Zeta Converter Using Integrated Buck Converter ICs</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
