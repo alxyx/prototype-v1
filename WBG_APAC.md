@@ -1,8 +1,32 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-09 00:23 UTC_
+_Last updated: 2026-07-09 15:33 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [MIPS Discusses RISC-V Shift](https://www.eetasia.com/mips-discusses-risc-v-shift/)
+**Published:** Thu, 09 Jul 2026 03:20:42 +0000
+
+<p>MIPS bets RISC-V and ARC AI will power physical AI in cars and factory robots. Find out more in this interview.</p>
+<p>The post <a href="https://www.eetasia.com/mips-discusses-risc-v-shift/">MIPS Discusses RISC-V Shift</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [US ITC Upholds Import Ban on Innoscience GaN Products in Infineon Patent Case](https://www.eetasia.com/us-itc-upholds-import-ban-on-innoscience-gan-products-in-infineon-patent-case/)
+**Published:** Thu, 09 Jul 2026 03:01:12 +0000
+
+<p>US trade ruling against Innoscience becomes final, confirming GaN patent infringement and imposing U.S. import and sales bans.</p>
+<p>The post <a href="https://www.eetasia.com/us-itc-upholds-import-ban-on-innoscience-gan-products-in-infineon-patent-case/">US ITC Upholds Import Ban on Innoscience GaN Products in Infineon Patent Case</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Wolfspeed Suing Navitas Over Alleged WBG Semiconductor Patent Infringement](https://www.eetasia.com/wolfspeed-suing-navitas-over-alleged-wbg-semiconductor-patent-infringement/)
+**Published:** Thu, 09 Jul 2026 02:37:48 +0000
+
+<p>Wolfspeed has filed a U.S. patent infringement lawsuit alleging Navitas products violate multiple wide bandgap semiconductor patents.</p>
+<p>The post <a href="https://www.eetasia.com/wolfspeed-suing-navitas-over-alleged-wbg-semiconductor-patent-infringement/">Wolfspeed Suing Navitas Over Alleged WBG Semiconductor Patent Infringement</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,38 +35,6 @@ _Last updated: 2026-07-09 00:23 UTC_
 
 <p>ADI has further strengthened its position as a leading strategic, system-level grid-to-core power partner across the entire AI ecosystem.</p>
 <p>The post <a href="https://www.eetasia.com/analog-devices-completes-acquisition-of-empower-semiconductor/">Analog Devices Completes Acquisition of Empower Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [ChipApex Strengthens Component Sourcing Services to Address Chip Supply Challenges](https://www.eetasia.com/chipapex-strengthens-component-sourcing-services-to-address-chip-supply-challenges/)
-**Published:** Tue, 07 Jul 2026 23:35:17 +0000
-
-<p>ChipApex expands its procurement services to help manufacturers by accelerating access to critical semiconductor components.</p>
-<p>The post <a href="https://www.eetasia.com/chipapex-strengthens-component-sourcing-services-to-address-chip-supply-challenges/">ChipApex Strengthens Component Sourcing Services to Address Chip Supply Challenges</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Alif Semiconductor Adds Sirin Software to Partner Ecosystem](https://www.eetasia.com/alif-semiconductor-adds-sirin-software-to-partner-ecosystem/)
-**Published:** Tue, 07 Jul 2026 03:08:44 +0000
-
-<p>Sirin Software has officially joined the Alif Semiconductor partner ecosystem as an authorized design house.</p>
-<p>The post <a href="https://www.eetasia.com/alif-semiconductor-adds-sirin-software-to-partner-ecosystem/">Alif Semiconductor Adds Sirin Software to Partner Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [GigaDevice Expands Non-volatile Memory Portfolio](https://www.eetasia.com/gigadevice-expands-non-volatile-memory-portfolio/)
-**Published:** Tue, 07 Jul 2026 03:03:28 +0000
-
-<p>GigaDevice Semiconductor has expanded its non-volatile memory portfolio with the launch of its new GD24CL series I²C EEPROM.</p>
-<p>The post <a href="https://www.eetasia.com/gigadevice-expands-non-volatile-memory-portfolio/">GigaDevice Expands Non-volatile Memory Portfolio</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Global Foundry 2.0 Revenue Jumps 23% YoY in 1Q 2026](https://www.eetasia.com/global-foundry-2-0-revenue-jumps-23-yoy-in-1q-2026/)
-**Published:** Tue, 07 Jul 2026 02:13:19 +0000
-
-<p>The global foundry 2.0 market revenue climbed by 23% YoY in 1Q 2026 amid strong demand for AI GPUs and AI ASICs.</p>
-<p>The post <a href="https://www.eetasia.com/global-foundry-2-0-revenue-jumps-23-yoy-in-1q-2026/">Global Foundry 2.0 Revenue Jumps 23% YoY in 1Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-07-09 00:23 UTC_
 
 <p>SEALSQ Corp and GlobalFoundries today announced a strategic Memorandum of Understanding (MoU) to co-develop across secure semiconductor platforms, Post-Quantum Cryptography (PQC) and emerging semiconductor-based quantum computing technologies.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/sealsq-and-globalfoundries-partner-to-accelerate-post-quantum-cryptography-and-quantum-computing-technologies/">SEALSQ and GlobalFoundries Partner to Accelerate Post-Quantum Cryptography and Quantum Computing Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Analog Devices Completes Acquisition of Empower Semiconductor](https://www.semiconductor-digest.com/analog-devices-completes-acquisition-of-empower-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=analog-devices-completes-acquisition-of-empower-semiconductor)
+**Published:** Tue, 07 Jul 2026 19:31:27 +0000
+
+<p>Analog Devices, Inc. today announced the completion of its acquisition of Empower Semiconductor.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/analog-devices-completes-acquisition-of-empower-semiconductor/">Analog Devices Completes Acquisition of Empower Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
