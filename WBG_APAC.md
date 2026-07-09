@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-09 15:33 UTC_
+_Last updated: 2026-07-09 18:08 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -35,6 +35,14 @@ _Last updated: 2026-07-09 15:33 UTC_
 
 <p>ADI has further strengthened its position as a leading strategic, system-level grid-to-core power partner across the entire AI ecosystem.</p>
 <p>The post <a href="https://www.eetasia.com/analog-devices-completes-acquisition-of-empower-semiconductor/">Analog Devices Completes Acquisition of Empower Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [KAIST Automates the Search for “Dream Semiconductor” 2D Semiconductors](https://www.semiconductor-digest.com/kaist-automates-the-search-for-dream-semiconductor-2d-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-automates-the-search-for-dream-semiconductor-2d-semiconductors)
+**Published:** Thu, 09 Jul 2026 17:52:13 +0000
+
+<p>A joint research team from KAIST, UNIST, Hanbat National University, Hanyang University, and Washington University in St. Louis has developed technology for automatically screening two-dimensional semiconductors only a few atomic layers thick and fabric.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kaist-automates-the-search-for-dream-semiconductor-2d-semiconductors/">KAIST Automates the Search for &#8220;Dream Semiconductor&#8221; 2D Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-07-09 15:33 UTC_
 
 <p>SEALSQ Corp and GlobalFoundries today announced a strategic Memorandum of Understanding (MoU) to co-develop across secure semiconductor platforms, Post-Quantum Cryptography (PQC) and emerging semiconductor-based quantum computing technologies.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/sealsq-and-globalfoundries-partner-to-accelerate-post-quantum-cryptography-and-quantum-computing-technologies/">SEALSQ and GlobalFoundries Partner to Accelerate Post-Quantum Cryptography and Quantum Computing Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Analog Devices Completes Acquisition of Empower Semiconductor](https://www.semiconductor-digest.com/analog-devices-completes-acquisition-of-empower-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=analog-devices-completes-acquisition-of-empower-semiconductor)
-**Published:** Tue, 07 Jul 2026 19:31:27 +0000
-
-<p>Analog Devices, Inc. today announced the completion of its acquisition of Empower Semiconductor.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/analog-devices-completes-acquisition-of-empower-semiconductor/">Analog Devices Completes Acquisition of Empower Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
