@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-10 13:24 UTC_
+_Last updated: 2026-07-10 16:37 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,30 @@ _Last updated: 2026-07-10 13:24 UTC_
 
 <p>ADI has further strengthened its position as a leading strategic, system-level grid-to-core power partner across the entire AI ecosystem.</p>
 <p>The post <a href="https://www.eetasia.com/analog-devices-completes-acquisition-of-empower-semiconductor/">Analog Devices Completes Acquisition of Empower Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [ZEISS Opens Semiconductor Innovation Center in Korea](https://www.semiconductor-digest.com/zeiss-opens-semiconductor-innovation-center-in-korea/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-opens-semiconductor-innovation-center-in-korea)
+**Published:** Fri, 10 Jul 2026 16:17:05 +0000
+
+<p>ZEISS Semiconductor Manufacturing Technology (SMT) has opened a new ZEISS Innovation Center in Yongin, Korea.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/zeiss-opens-semiconductor-innovation-center-in-korea/">ZEISS Opens Semiconductor Innovation Center in Korea</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TXST Researchers Help Solve a Persistent Problem in Next-Generation Semiconductors](https://www.semiconductor-digest.com/txst-researchers-help-solve-a-persistent-problem-in-next-generation-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=txst-researchers-help-solve-a-persistent-problem-in-next-generation-semiconductors)
+**Published:** Fri, 10 Jul 2026 16:14:51 +0000
+
+<p>Researchers at Texas State University have pioneered a novel manufacturing technology that could lower the cost and improve the performance of radio frequency (RF) semiconductors used in wireless cellular networks and radar systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/txst-researchers-help-solve-a-persistent-problem-in-next-generation-semiconductors/">TXST Researchers Help Solve a Persistent Problem in Next-Generation Semiconductors </a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Hanyang University Researchers Achieve Controllable Doping in Organic Semiconductors](https://www.semiconductor-digest.com/hanyang-university-researchers-achieve-controllable-doping-in-organic-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=hanyang-university-researchers-achieve-controllable-doping-in-organic-semiconductors)
+**Published:** Fri, 10 Jul 2026 16:09:22 +0000
+
+<p>An innovative method leveraging solvent polarity to regulate doping could unlock new applications in wearable electronics and self-powered sensors.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hanyang-university-researchers-achieve-controllable-doping-in-organic-semiconductors/">Hanyang University Researchers Achieve Controllable Doping in Organic Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-07-10 13:24 UTC_
 
 <p>The new facility centralizes and expands practical training for field service engineers supporting semiconductor metrology systems, strengthening Rigaku's global service capabilities.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/rigaku-opens-rigaku-solutions-center-osaka-to-strengthen-global-semiconductor-metrology-service-capabilities/">Rigaku Opens &#8220;Rigaku Solutions Center Osaka&#8221; to Strengthen Global Semiconductor Metrology Service Capabilities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Zuken Joins TSMC’s Open Innovation Platform EDA Alliance](https://www.semiconductor-digest.com/zuken-joins-tsmcs-open-innovation-platform-eda-alliance/?utm_source=rss&utm_medium=rss&utm_campaign=zuken-joins-tsmcs-open-innovation-platform-eda-alliance)
-**Published:** Wed, 08 Jul 2026 17:38:26 +0000
-
-<p>Zuken Inc. today announced that it has joined the EDA Alliance in TSMC’s Open Innovation Platform (OIP).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/zuken-joins-tsmcs-open-innovation-platform-eda-alliance/">Zuken Joins TSMC’s Open Innovation Platform EDA Alliance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Arteris Announces Collaboration with IC-Link by imec to Accelerate Next-Gen AI and HPC Silicon](https://www.semiconductor-digest.com/arteris-announces-collaboration-with-ic-link-by-imec-to-accelerate-next-gen-ai-and-hpc-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=arteris-announces-collaboration-with-ic-link-by-imec-to-accelerate-next-gen-ai-and-hpc-silicon)
-**Published:** Wed, 08 Jul 2026 17:29:24 +0000
-
-<p>Arteris provides high-performance and energy-efficient, safe and secure silicon-proven network-on-chip (NoC) IP technology for AI ASIC with chiplet reuse and reduced time to market. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/arteris-announces-collaboration-with-ic-link-by-imec-to-accelerate-next-gen-ai-and-hpc-silicon/">Arteris Announces Collaboration with IC-Link by imec to Accelerate Next-Gen AI and HPC Silicon</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEALSQ and GlobalFoundries Partner to Accelerate Post-Quantum Cryptography and Quantum Computing Technologies](https://www.semiconductor-digest.com/sealsq-and-globalfoundries-partner-to-accelerate-post-quantum-cryptography-and-quantum-computing-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=sealsq-and-globalfoundries-partner-to-accelerate-post-quantum-cryptography-and-quantum-computing-technologies)
-**Published:** Wed, 08 Jul 2026 17:26:05 +0000
-
-<p>SEALSQ Corp and GlobalFoundries today announced a strategic Memorandum of Understanding (MoU) to co-develop across secure semiconductor platforms, Post-Quantum Cryptography (PQC) and emerging semiconductor-based quantum computing technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sealsq-and-globalfoundries-partner-to-accelerate-post-quantum-cryptography-and-quantum-computing-technologies/">SEALSQ and GlobalFoundries Partner to Accelerate Post-Quantum Cryptography and Quantum Computing Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
