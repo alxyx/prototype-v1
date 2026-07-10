@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-10 16:37 UTC_
+_Last updated: 2026-07-10 20:37 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,14 @@ _Last updated: 2026-07-10 16:37 UTC_
 
 <p>ADI has further strengthened its position as a leading strategic, system-level grid-to-core power partner across the entire AI ecosystem.</p>
 <p>The post <a href="https://www.eetasia.com/analog-devices-completes-acquisition-of-empower-semiconductor/">Analog Devices Completes Acquisition of Empower Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [ROHM Launches 600V Super Junction MOSFETs in Surface-Mount Package with High Thermal Performance](https://www.semiconductor-digest.com/rohm-launches-600v-super-junction-mosfets-in-surface-mount-package-with-high-thermal-performance/?utm_source=rss&utm_medium=rss&utm_campaign=rohm-launches-600v-super-junction-mosfets-in-surface-mount-package-with-high-thermal-performance)
+**Published:** Fri, 10 Jul 2026 16:42:16 +0000
+
+<p>ROHM Semiconductor today announced it has developed a new lineup of 600V Super Junction MOSFETs, the R60xxXNx and R60xxWNx series.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rohm-launches-600v-super-junction-mosfets-in-surface-mount-package-with-high-thermal-performance/">ROHM Launches 600V Super Junction MOSFETs in Surface-Mount Package with High Thermal Performance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-07-10 16:37 UTC_
 
 <p>Joint achievement highlights how Analog In-Memory Computing can address the growing energy and thermal challenges of AI while laying the foundation for deeper collaboration on next-generation memory and computing architectures.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/tetramem-and-sk-hynix-showcase-successful-technology-collaboration-advancing-memory-centric-ai-computing/">TetraMem and SK hynix Showcase Successful Technology Collaboration Advancing Memory-Centric AI Computing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rigaku Opens “Rigaku Solutions Center Osaka” to Strengthen Global Semiconductor Metrology Service Capabilities](https://www.semiconductor-digest.com/rigaku-opens-rigaku-solutions-center-osaka-to-strengthen-global-semiconductor-metrology-service-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=rigaku-opens-rigaku-solutions-center-osaka-to-strengthen-global-semiconductor-metrology-service-capabilities)
-**Published:** Wed, 08 Jul 2026 17:41:20 +0000
-
-<p>The new facility centralizes and expands practical training for field service engineers supporting semiconductor metrology systems, strengthening Rigaku's global service capabilities.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rigaku-opens-rigaku-solutions-center-osaka-to-strengthen-global-semiconductor-metrology-service-capabilities/">Rigaku Opens &#8220;Rigaku Solutions Center Osaka&#8221; to Strengthen Global Semiconductor Metrology Service Capabilities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
