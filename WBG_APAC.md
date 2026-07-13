@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-13 00:07 UTC_
+_Last updated: 2026-07-13 03:03 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Rigaku Strengthens Global Semiconductor Metrology Service Support with New Osaka Training Center](https://www.eetasia.com/rigaku-strengthens-global-semiconductor-metrology-service-support-with-new-osaka-training-center/)
+**Published:** Mon, 13 Jul 2026 02:41:59 +0000
+
+<p>Rigaku launched a dedicated Osaka training center to strengthen global field service capabilities for semiconductor metrology systems.</p>
+<p>The post <a href="https://www.eetasia.com/rigaku-strengthens-global-semiconductor-metrology-service-support-with-new-osaka-training-center/">Rigaku Strengthens Global Semiconductor Metrology Service Support with New Osaka Training Center</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [RISC-V Gains Ground as Preferred Computing Architecture for Space Missions](https://www.eetasia.com/risc-v-gains-ground-as-preferred-computing-architecture-for-space-missions/)
+**Published:** Mon, 13 Jul 2026 02:16:53 +0000
+
+<p>Space agencies and semiconductor developers are adopting RISC-V to modernize space computing while preserving legacy software compatibility.</p>
+<p>The post <a href="https://www.eetasia.com/risc-v-gains-ground-as-preferred-computing-architecture-for-space-missions/">RISC-V Gains Ground as Preferred Computing Architecture for Space Missions</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,14 +27,6 @@ _Last updated: 2026-07-13 00:07 UTC_
 
 <p>MIPS bets RISC-V and ARC AI will power physical AI in cars and factory robots. Find out more in this interview.</p>
 <p>The post <a href="https://www.eetasia.com/mips-discusses-risc-v-shift/">MIPS Discusses RISC-V Shift</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Analog Devices Completes Acquisition of Empower Semiconductor](https://www.eetasia.com/analog-devices-completes-acquisition-of-empower-semiconductor/)
-**Published:** Wed, 08 Jul 2026 09:09:51 +0000
-
-<p>ADI has further strengthened its position as a leading strategic, system-level grid-to-core power partner across the entire AI ecosystem.</p>
-<p>The post <a href="https://www.eetasia.com/analog-devices-completes-acquisition-of-empower-semiconductor/">Analog Devices Completes Acquisition of Empower Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-07-13 00:07 UTC_
 
 <p>A joint research team from KAIST, UNIST, Hanbat National University, Hanyang University, and Washington University in St. Louis has developed technology for automatically screening two-dimensional semiconductors only a few atomic layers thick and fabric.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/kaist-automates-the-search-for-dream-semiconductor-2d-semiconductors/">KAIST Automates the Search for &#8220;Dream Semiconductor&#8221; 2D Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TetraMem and SK hynix Showcase Successful Technology Collaboration Advancing Memory-Centric AI Computing](https://www.semiconductor-digest.com/tetramem-and-sk-hynix-showcase-successful-technology-collaboration-advancing-memory-centric-ai-computing/?utm_source=rss&utm_medium=rss&utm_campaign=tetramem-and-sk-hynix-showcase-successful-technology-collaboration-advancing-memory-centric-ai-computing)
-**Published:** Wed, 08 Jul 2026 18:05:27 +0000
-
-<p>Joint achievement highlights how Analog In-Memory Computing can address the growing energy and thermal challenges of AI while laying the foundation for deeper collaboration on next-generation memory and computing architectures.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tetramem-and-sk-hynix-showcase-successful-technology-collaboration-advancing-memory-centric-ai-computing/">TetraMem and SK hynix Showcase Successful Technology Collaboration Advancing Memory-Centric AI Computing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
