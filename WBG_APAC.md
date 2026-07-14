@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-13 23:15 UTC_
+_Last updated: 2026-07-14 00:14 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,14 +19,6 @@ _Last updated: 2026-07-13 23:15 UTC_
 
 <p>Space agencies and semiconductor developers are adopting RISC-V to modernize space computing while preserving legacy software compatibility.</p>
 <p>The post <a href="https://www.eetasia.com/risc-v-gains-ground-as-preferred-computing-architecture-for-space-missions/">RISC-V Gains Ground as Preferred Computing Architecture for Space Missions</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [MIPS Discusses RISC-V Shift](https://www.eetasia.com/mips-discusses-risc-v-shift/)
-**Published:** Thu, 09 Jul 2026 03:20:42 +0000
-
-<p>MIPS bets RISC-V and ARC AI will power physical AI in cars and factory robots. Find out more in this interview.</p>
-<p>The post <a href="https://www.eetasia.com/mips-discusses-risc-v-shift/">MIPS Discusses RISC-V Shift</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-07-13 23:15 UTC_
 
 <p>ZEISS Semiconductor Manufacturing Technology (SMT) has opened a new ZEISS Innovation Center in Yongin, Korea.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/zeiss-opens-semiconductor-innovation-center-in-korea/">ZEISS Opens Semiconductor Innovation Center in Korea</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TXST Researchers Help Solve a Persistent Problem in Next-Generation Semiconductors](https://www.semiconductor-digest.com/txst-researchers-help-solve-a-persistent-problem-in-next-generation-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=txst-researchers-help-solve-a-persistent-problem-in-next-generation-semiconductors)
+**Published:** Fri, 10 Jul 2026 16:14:51 +0000
+
+<p>Researchers at Texas State University have pioneered a novel manufacturing technology that could lower the cost and improve the performance of radio frequency (RF) semiconductors used in wireless cellular networks and radar systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/txst-researchers-help-solve-a-persistent-problem-in-next-generation-semiconductors/">TXST Researchers Help Solve a Persistent Problem in Next-Generation Semiconductors </a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
