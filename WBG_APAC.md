@@ -1,24 +1,64 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-14 20:24 UTC_
+_Last updated: 2026-07-15 05:48 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
 ---
 
-## [Rigaku Strengthens Global Semiconductor Metrology Service Support with New Osaka Training Center](https://www.eetasia.com/rigaku-strengthens-global-semiconductor-metrology-service-support-with-new-osaka-training-center/)
-**Published:** Mon, 13 Jul 2026 02:41:59 +0000
+## [DEEPX Expands Physical AI Platform Through Global Developer Ecosystem Collaborations](https://www.eetasia.com/deepx-expands-physical-ai-platform-through-global-developer-ecosystem-collaborations/)
+**Published:** Wed, 15 Jul 2026 02:42:23 +0000
 
-<p>Rigaku launched a dedicated Osaka training center to strengthen global field service capabilities for semiconductor metrology systems.</p>
-<p>The post <a href="https://www.eetasia.com/rigaku-strengthens-global-semiconductor-metrology-service-support-with-new-osaka-training-center/">Rigaku Strengthens Global Semiconductor Metrology Service Support with New Osaka Training Center</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>DEEPX is broadening its Physical AI platform through developer ecosystem collaborations spanning AI models, frameworks and hardware.</p>
+<p>The post <a href="https://www.eetasia.com/deepx-expands-physical-ai-platform-through-global-developer-ecosystem-collaborations/">DEEPX Expands Physical AI Platform Through Global Developer Ecosystem Collaborations</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
-## [RISC-V Gains Ground as Preferred Computing Architecture for Space Missions](https://www.eetasia.com/risc-v-gains-ground-as-preferred-computing-architecture-for-space-missions/)
-**Published:** Mon, 13 Jul 2026 02:16:53 +0000
+## [Asahi Kasei Enhances Taiwan Facility Capabilities to Meet Growing Demand for Advanced Packaging](https://www.eetasia.com/asahi-kasei-enhances-taiwan-facility-capabilities-to-meet-growing-demand-for-advanced-packaging/)
+**Published:** Wed, 15 Jul 2026 02:03:50 +0000
 
-<p>Space agencies and semiconductor developers are adopting RISC-V to modernize space computing while preserving legacy software compatibility.</p>
-<p>The post <a href="https://www.eetasia.com/risc-v-gains-ground-as-preferred-computing-architecture-for-space-missions/">RISC-V Gains Ground as Preferred Computing Architecture for Space Missions</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Asahi Kasei expands SUNFORT dry film photoresist capacity in Taiwan to support growing advanced semiconductor packaging demand.</p>
+<p>The post <a href="https://www.eetasia.com/asahi-kasei-enhances-taiwan-facility-capabilities-to-meet-growing-demand-for-advanced-packaging/">Asahi Kasei Enhances Taiwan Facility Capabilities to Meet Growing Demand for Advanced Packaging</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Alif Semiconductor Bets on Edge AI Leadership with Next-gen AI MCUs](https://www.eetasia.com/alif-semiconductor-bets-on-edge-ai-leadership-with-next-gen-ai-mcus/)
+**Published:** Wed, 15 Jul 2026 01:49:21 +0000
+
+<p>At COMPUTEX 2026, Alif Semiconductor highlighted how AI-enabled MCUs are bringing generative AI to battery-powered edge devices.</p>
+<p>The post <a href="https://www.eetasia.com/alif-semiconductor-bets-on-edge-ai-leadership-with-next-gen-ai-mcus/">Alif Semiconductor Bets on Edge AI Leadership with Next-gen AI MCUs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Scientists Unveil Technique to Build Ultra-Thin Material Stacks that Promise Quantum Breakthrough](https://www.semiconductor-digest.com/scientists-unveil-technique-to-build-ultra-thin-material-stacks-that-promise-quantum-breakthrough/?utm_source=rss&utm_medium=rss&utm_campaign=scientists-unveil-technique-to-build-ultra-thin-material-stacks-that-promise-quantum-breakthrough)
+**Published:** Tue, 14 Jul 2026 20:35:43 +0000
+
+<p>Scientists have unveiled a new fabrication technique for the ultra-clean manufacturing of 2D heterostructures – materials just a few atoms thick – which could be used in quantum technology and electronics.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/scientists-unveil-technique-to-build-ultra-thin-material-stacks-that-promise-quantum-breakthrough/">Scientists Unveil Technique to Build Ultra-Thin Material Stacks that Promise Quantum Breakthrough</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Presidio Investors Announces Sale of ElevATE Semiconductor to Diodes Incorporated](https://www.semiconductor-digest.com/presidio-investors-announces-sale-of-elevate-semiconductor-to-diodes-incorporated/?utm_source=rss&utm_medium=rss&utm_campaign=presidio-investors-announces-sale-of-elevate-semiconductor-to-diodes-incorporated)
+**Published:** Tue, 14 Jul 2026 20:28:24 +0000
+
+<p>Sale to Nasdaq-listed strategic acquirer marks successful realization of Presidio’s first continuation fund.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/presidio-investors-announces-sale-of-elevate-semiconductor-to-diodes-incorporated/">Presidio Investors Announces Sale of ElevATE Semiconductor to Diodes Incorporated</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Arteris Expands Partnership with Arm to Accelerate Semiconductor Cybersecurity](https://www.semiconductor-digest.com/arteris-expands-partnership-with-arm-to-accelerate-semiconductor-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=arteris-expands-partnership-with-arm-to-accelerate-semiconductor-cybersecurity)
+**Published:** Tue, 14 Jul 2026 20:24:01 +0000
+
+<p>Arteris hardware security assurance products are being extended across the Arm CPU IP portfolio, building on five years of collaboration.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/arteris-expands-partnership-with-arm-to-accelerate-semiconductor-cybersecurity/">Arteris Expands Partnership with Arm to Accelerate Semiconductor Cybersecurity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Global Semiconductor Equipment Sales Forecast to Reach a Record $229 Billion in 2028, SEMI Reports](https://www.semiconductor-digest.com/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-in-2028-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-in-2028-semi-reports)
+**Published:** Tue, 14 Jul 2026 20:22:29 +0000
+
+<p>Global sales of total semiconductor manufacturing equipment by original equipment manufacturers (OEMs) are forecast to reach a record high of $165.9 billion in 2026, increasing 23.2% year-on-year, SEMI announced today.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-in-2028-semi-reports/">Global Semiconductor Equipment Sales Forecast to Reach a Record $229 Billion in 2028, SEMI Reports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -43,46 +83,6 @@ _Last updated: 2026-07-14 20:24 UTC_
 
 <p>Electronic System Design (ESD) industry revenue increased 12.7% to $5,747.8 million in the first quarter of 2026 from the $5,098.3 million registered in the firstquarter of 2025, the ESD Alliance, a SEMI Technology Coalition, announced today in its latest Electronic Design Market Data (EDMD) report.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/esd-alliance-reports-electronic-system-design-industry-posts-5-7-billion-in-revenue-in-q1-2026/">ESD Alliance Reports Electronic System Design Industry Posts $5.7 Billion in Revenue in Q1 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Imec and Diraq Demonstrate First Coherent Operation of Eight Silicon MOS Spin Qubits Fabricated in a 300mm CMOS-Compatible Foundry Process](https://www.semiconductor-digest.com/imec-and-diraq-demonstrate-first-coherent-operation-of-eight-silicon-mos-spin-qubits-fabricated-in-a-300mm-cmos-compatible-foundry-process/?utm_source=rss&utm_medium=rss&utm_campaign=imec-and-diraq-demonstrate-first-coherent-operation-of-eight-silicon-mos-spin-qubits-fabricated-in-a-300mm-cmos-compatible-foundry-process)
-**Published:** Mon, 13 Jul 2026 18:01:28 +0000
-
-<p>Result shows that industrial semiconductor manufacturing can support the scaling of silicon quantum processors beyond the two-qubit regime.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/imec-and-diraq-demonstrate-first-coherent-operation-of-eight-silicon-mos-spin-qubits-fabricated-in-a-300mm-cmos-compatible-foundry-process/">Imec and Diraq Demonstrate First Coherent Operation of Eight Silicon MOS Spin Qubits Fabricated in a 300mm CMOS-Compatible Foundry Process</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Bosch Announces $225M Direct Funding Agreement with the U.S. Department of Commerce](https://www.semiconductor-digest.com/bosch-announces-225m-direct-funding-agreement-with-the-u-s-department-of-commerce/?utm_source=rss&utm_medium=rss&utm_campaign=bosch-announces-225m-direct-funding-agreement-with-the-u-s-department-of-commerce)
-**Published:** Mon, 13 Jul 2026 17:58:25 +0000
-
-<p>Bosch intends to start U.S. based commercial manufacturing in 2026 – just three years after acquiring the Roseville site.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/bosch-announces-225m-direct-funding-agreement-with-the-u-s-department-of-commerce/">Bosch Announces $225M Direct Funding Agreement with the U.S. Department of Commerce</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ROHM Launches 600V Super Junction MOSFETs in Surface-Mount Package with High Thermal Performance](https://www.semiconductor-digest.com/rohm-launches-600v-super-junction-mosfets-in-surface-mount-package-with-high-thermal-performance/?utm_source=rss&utm_medium=rss&utm_campaign=rohm-launches-600v-super-junction-mosfets-in-surface-mount-package-with-high-thermal-performance)
-**Published:** Fri, 10 Jul 2026 16:42:16 +0000
-
-<p>ROHM Semiconductor today announced it has developed a new lineup of 600V Super Junction MOSFETs, the R60xxXNx and R60xxWNx series.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rohm-launches-600v-super-junction-mosfets-in-surface-mount-package-with-high-thermal-performance/">ROHM Launches 600V Super Junction MOSFETs in Surface-Mount Package with High Thermal Performance</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ZEISS Opens Semiconductor Innovation Center in Korea](https://www.semiconductor-digest.com/zeiss-opens-semiconductor-innovation-center-in-korea/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-opens-semiconductor-innovation-center-in-korea)
-**Published:** Fri, 10 Jul 2026 16:17:05 +0000
-
-<p>ZEISS Semiconductor Manufacturing Technology (SMT) has opened a new ZEISS Innovation Center in Yongin, Korea.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/zeiss-opens-semiconductor-innovation-center-in-korea/">ZEISS Opens Semiconductor Innovation Center in Korea</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TXST Researchers Help Solve a Persistent Problem in Next-Generation Semiconductors](https://www.semiconductor-digest.com/txst-researchers-help-solve-a-persistent-problem-in-next-generation-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=txst-researchers-help-solve-a-persistent-problem-in-next-generation-semiconductors)
-**Published:** Fri, 10 Jul 2026 16:14:51 +0000
-
-<p>Researchers at Texas State University have pioneered a novel manufacturing technology that could lower the cost and improve the performance of radio frequency (RF) semiconductors used in wireless cellular networks and radar systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/txst-researchers-help-solve-a-persistent-problem-in-next-generation-semiconductors/">TXST Researchers Help Solve a Persistent Problem in Next-Generation Semiconductors </a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
