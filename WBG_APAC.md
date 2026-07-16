@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-07-16 17:28 UTC_
+_Last updated: 2026-07-16 19:23 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -27,6 +27,14 @@ _Last updated: 2026-07-16 17:28 UTC_
 
 <p>At COMPUTEX 2026, Alif Semiconductor highlighted how AI-enabled MCUs are bringing generative AI to battery-powered edge devices.</p>
 <p>The post <a href="https://www.eetasia.com/alif-semiconductor-bets-on-edge-ai-leadership-with-next-gen-ai-mcus/">Alif Semiconductor Bets on Edge AI Leadership with Next-gen AI MCUs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Former IBM Quantum, IonQ Executive Joins Haiqu to Drive Commercialization of Agentic Operating System for Quantum R&D](https://www.semiconductor-digest.com/former-ibm-quantum-ionq-executive-joins-haiqu-to-drive-commercialization-of-agentic-operating-system-for-quantum-rd/?utm_source=rss&utm_medium=rss&utm_campaign=former-ibm-quantum-ionq-executive-joins-haiqu-to-drive-commercialization-of-agentic-operating-system-for-quantum-rd)
+**Published:** Thu, 16 Jul 2026 19:05:51 +0000
+
+<p>Denise Ruffner brings more than a decade of experience building commercialization strategies for quantum industry leaders.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/former-ibm-quantum-ionq-executive-joins-haiqu-to-drive-commercialization-of-agentic-operating-system-for-quantum-rd/">Former IBM Quantum, IonQ Executive Joins Haiqu to Drive Commercialization of Agentic Operating System for Quantum R&#038;D</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-07-16 17:28 UTC_
 
 <p>Sale to Nasdaq-listed strategic acquirer marks successful realization of Presidio’s first continuation fund.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/presidio-investors-announces-sale-of-elevate-semiconductor-to-diodes-incorporated/">Presidio Investors Announces Sale of ElevATE Semiconductor to Diodes Incorporated</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Arteris Expands Partnership with Arm to Accelerate Semiconductor Cybersecurity](https://www.semiconductor-digest.com/arteris-expands-partnership-with-arm-to-accelerate-semiconductor-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=arteris-expands-partnership-with-arm-to-accelerate-semiconductor-cybersecurity)
-**Published:** Tue, 14 Jul 2026 20:24:01 +0000
-
-<p>Arteris hardware security assurance products are being extended across the Arm CPU IP portfolio, building on five years of collaboration.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/arteris-expands-partnership-with-arm-to-accelerate-semiconductor-cybersecurity/">Arteris Expands Partnership with Arm to Accelerate Semiconductor Cybersecurity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
