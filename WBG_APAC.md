@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-07-15 16:34 UTC_
+_Last updated: 2026-07-16 05:53 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -30,6 +30,38 @@ _Last updated: 2026-07-15 16:34 UTC_
 
 ---
 
+## [The Invisible Wearable: New Skin Sensors Revolutionizing Health Monitoring](https://www.semiconductor-digest.com/the-invisible-wearable-new-skin-sensors-revolutionizing-health-monitoring/?utm_source=rss&utm_medium=rss&utm_campaign=the-invisible-wearable-new-skin-sensors-revolutionizing-health-monitoring)
+**Published:** Wed, 15 Jul 2026 21:06:06 +0000
+
+<p>Researchers from the Institute of Industrial Science, The University of Tokyo and collaborating institutions reported the development of thin, stretchable on-skin electrodes that are effectively invisible when worn on the face.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-invisible-wearable-new-skin-sensors-revolutionizing-health-monitoring/">The Invisible Wearable: New Skin Sensors Revolutionizing Health Monitoring</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Saras Micro Devices Expands Senior Leadership Team](https://www.semiconductor-digest.com/saras-micro-devices-expands-senior-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=saras-micro-devices-expands-senior-leadership-team)
+**Published:** Wed, 15 Jul 2026 20:37:29 +0000
+
+<p>Saras Micro Devices, an emerging leader in cutting-edge power performance solutions leveraging integrated packaging design, today announced the expansion of its senior leadership team with the appointment of Shaun Bowers as senior vice president of product management and Georgette Woodyard as senior vice president of sales and business development.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/saras-micro-devices-expands-senior-leadership-team/">Saras Micro Devices Expands Senior Leadership Team</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ChipAgents Helps Whalechip Cut Semiconductor Root Cause Analysis from Days to Minutes](https://www.semiconductor-digest.com/chipagents-helps-whalechip-cut-semiconductor-root-cause-analysis-from-days-to-minutes/?utm_source=rss&utm_medium=rss&utm_campaign=chipagents-helps-whalechip-cut-semiconductor-root-cause-analysis-from-days-to-minutes)
+**Published:** Wed, 15 Jul 2026 20:32:26 +0000
+
+<p>AI-powered platform identified four critical SoC bugs and helped prevent up to two weeks of potential development delays.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/chipagents-helps-whalechip-cut-semiconductor-root-cause-analysis-from-days-to-minutes/">ChipAgents Helps Whalechip Cut Semiconductor Root Cause Analysis from Days to Minutes</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Large-area OLED Shipments to Increase 18.8% YoY in 2026 Despite Economic Uncertainty and Component Price Hike](https://www.semiconductor-digest.com/large-area-oled-shipments-to-increase-18-8-yoy-in-2026-despite-economic-uncertainty-and-component-price-hike/?utm_source=rss&utm_medium=rss&utm_campaign=large-area-oled-shipments-to-increase-18-8-yoy-in-2026-despite-economic-uncertainty-and-component-price-hike)
+**Published:** Wed, 15 Jul 2026 19:54:29 +0000
+
+<p>Large-area OLED shipments are forecast to increase by 18.8% year-over-year (YoY), reaching 38.8 million in 2026, according to Omdia’s Large-area display market tracker.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/large-area-oled-shipments-to-increase-18-8-yoy-in-2026-despite-economic-uncertainty-and-component-price-hike/">Large-area OLED Shipments to Increase 18.8% YoY in 2026 Despite Economic Uncertainty and Component Price Hike</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Scientists Unveil Technique to Build Ultra-Thin Material Stacks that Promise Quantum Breakthrough](https://www.semiconductor-digest.com/scientists-unveil-technique-to-build-ultra-thin-material-stacks-that-promise-quantum-breakthrough/?utm_source=rss&utm_medium=rss&utm_campaign=scientists-unveil-technique-to-build-ultra-thin-material-stacks-that-promise-quantum-breakthrough)
 **Published:** Tue, 14 Jul 2026 20:35:43 +0000
 
@@ -51,38 +83,6 @@ _Last updated: 2026-07-15 16:34 UTC_
 
 <p>Arteris hardware security assurance products are being extended across the Arm CPU IP portfolio, building on five years of collaboration.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/arteris-expands-partnership-with-arm-to-accelerate-semiconductor-cybersecurity/">Arteris Expands Partnership with Arm to Accelerate Semiconductor Cybersecurity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Global Semiconductor Equipment Sales Forecast to Reach a Record $229 Billion in 2028, SEMI Reports](https://www.semiconductor-digest.com/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-in-2028-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-in-2028-semi-reports)
-**Published:** Tue, 14 Jul 2026 20:22:29 +0000
-
-<p>Global sales of total semiconductor manufacturing equipment by original equipment manufacturers (OEMs) are forecast to reach a record high of $165.9 billion in 2026, increasing 23.2% year-on-year, SEMI announced today.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-in-2028-semi-reports/">Global Semiconductor Equipment Sales Forecast to Reach a Record $229 Billion in 2028, SEMI Reports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SwRI, SMU Collaborate to Advance Solid-State Batteries](https://www.semiconductor-digest.com/swri-smu-collaborate-to-advance-solid-state-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=swri-smu-collaborate-to-advance-solid-state-batteries)
-**Published:** Mon, 13 Jul 2026 18:39:03 +0000
-
-<p>Researchers will address a critical bottleneck in next-generation technology.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/swri-smu-collaborate-to-advance-solid-state-batteries/">SwRI, SMU Collaborate to Advance Solid-State Batteries</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Tomocube Launches HT-T1 Desktop for 3D Glass Substrate Defect Analysis in Advanced Packaging](https://www.semiconductor-digest.com/tomocube-launches-ht-t1-desktop-for-3d-glass-substrate-defect-analysis-in-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=tomocube-launches-ht-t1-desktop-for-3d-glass-substrate-defect-analysis-in-advanced-packaging)
-**Published:** Mon, 13 Jul 2026 18:31:40 +0000
-
-<p>Tomocube, a 3D non-destructive inspection and metrology company, today announced the launch of HT-T1 Desktop (HT-T1D), a desktop holotomography system for high-resolution 3D defect analysis of glass substrates used in next-generation semiconductor packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tomocube-launches-ht-t1-desktop-for-3d-glass-substrate-defect-analysis-in-advanced-packaging/">Tomocube Launches HT-T1 Desktop for 3D Glass Substrate Defect Analysis in Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ESD Alliance Reports Electronic System Design Industry Posts $5.7 Billion in Revenue in Q1 2026](https://www.semiconductor-digest.com/esd-alliance-reports-electronic-system-design-industry-posts-5-7-billion-in-revenue-in-q1-2026/?utm_source=rss&utm_medium=rss&utm_campaign=esd-alliance-reports-electronic-system-design-industry-posts-5-7-billion-in-revenue-in-q1-2026)
-**Published:** Mon, 13 Jul 2026 18:21:16 +0000
-
-<p>Electronic System Design (ESD) industry revenue increased 12.7% to $5,747.8 million in the first quarter of 2026 from the $5,098.3 million registered in the firstquarter of 2025, the ESD Alliance, a SEMI Technology Coalition, announced today in its latest Electronic Design Market Data (EDMD) report.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/esd-alliance-reports-electronic-system-design-industry-posts-5-7-billion-in-revenue-in-q1-2026/">ESD Alliance Reports Electronic System Design Industry Posts $5.7 Billion in Revenue in Q1 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
