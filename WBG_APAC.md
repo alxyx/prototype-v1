@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-07-16 19:23 UTC_
+_Last updated: 2026-07-16 22:19 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -27,6 +27,30 @@ _Last updated: 2026-07-16 19:23 UTC_
 
 <p>At COMPUTEX 2026, Alif Semiconductor highlighted how AI-enabled MCUs are bringing generative AI to battery-powered edge devices.</p>
 <p>The post <a href="https://www.eetasia.com/alif-semiconductor-bets-on-edge-ai-leadership-with-next-gen-ai-mcus/">Alif Semiconductor Bets on Edge AI Leadership with Next-gen AI MCUs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Full-Chip EUV Curvilinear Mask Optimization](https://www.semiconductor-digest.com/full-chip-euv-curvilinear-mask-optimization/?utm_source=rss&utm_medium=rss&utm_campaign=full-chip-euv-curvilinear-mask-optimization)
+**Published:** Thu, 16 Jul 2026 19:56:28 +0000
+
+<p>Lithography stands as one of the core processes in advanced integrated circuit (IC) manufacturing, where exposure precision directly determines the critical dimensions (CDs) and performance of chips.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/full-chip-euv-curvilinear-mask-optimization/">Full-Chip EUV Curvilinear Mask Optimization</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Leading Global AI Hyperscaler Selects ATLANT 3D’s NANOFABRICATOR Platform for Setting AI-Driven Materials Discovery Lab](https://www.semiconductor-digest.com/leading-global-ai-hyperscaler-selects-atlant-3ds-nanofabricator-platform-for-setting-ai-driven-materials-discovery-lab/?utm_source=rss&utm_medium=rss&utm_campaign=leading-global-ai-hyperscaler-selects-atlant-3ds-nanofabricator-platform-for-setting-ai-driven-materials-discovery-lab)
+**Published:** Thu, 16 Jul 2026 19:28:11 +0000
+
+<p>ATLANT 3D today announced that it has secured an order from a global AI hyperscaler for its NANOFABRICATOR LITE platform.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/leading-global-ai-hyperscaler-selects-atlant-3ds-nanofabricator-platform-for-setting-ai-driven-materials-discovery-lab/">Leading Global AI Hyperscaler Selects ATLANT 3D&#8217;s NANOFABRICATOR Platform for Setting AI-Driven Materials Discovery Lab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [LG Chem Enters Semiconductor Stripper Market with Mass Supply to Amkor](https://www.semiconductor-digest.com/lg-chem-enters-semiconductor-stripper-market-with-mass-supply-to-amkor/?utm_source=rss&utm_medium=rss&utm_campaign=lg-chem-enters-semiconductor-stripper-market-with-mass-supply-to-amkor)
+**Published:** Thu, 16 Jul 2026 19:21:32 +0000
+
+<p>LG Chem announced on July 16 that it has begun mass production and supply of semiconductor strippers to Amkor Technology, marking the company’s first entry into the semiconductor stripper market and accelerating its strategy to expand its semiconductor materials business.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lg-chem-enters-semiconductor-stripper-market-with-mass-supply-to-amkor/">LG Chem Enters Semiconductor Stripper Market with Mass Supply to Amkor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-07-16 19:23 UTC_
 
 <p>AI-powered platform identified four critical SoC bugs and helped prevent up to two weeks of potential development delays.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/chipagents-helps-whalechip-cut-semiconductor-root-cause-analysis-from-days-to-minutes/">ChipAgents Helps Whalechip Cut Semiconductor Root Cause Analysis from Days to Minutes</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Large-area OLED Shipments to Increase 18.8% YoY in 2026 Despite Economic Uncertainty and Component Price Hike](https://www.semiconductor-digest.com/large-area-oled-shipments-to-increase-18-8-yoy-in-2026-despite-economic-uncertainty-and-component-price-hike/?utm_source=rss&utm_medium=rss&utm_campaign=large-area-oled-shipments-to-increase-18-8-yoy-in-2026-despite-economic-uncertainty-and-component-price-hike)
-**Published:** Wed, 15 Jul 2026 19:54:29 +0000
-
-<p>Large-area OLED shipments are forecast to increase by 18.8% year-over-year (YoY), reaching 38.8 million in 2026, according to Omdia’s Large-area display market tracker.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/large-area-oled-shipments-to-increase-18-8-yoy-in-2026-despite-economic-uncertainty-and-component-price-hike/">Large-area OLED Shipments to Increase 18.8% YoY in 2026 Despite Economic Uncertainty and Component Price Hike</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Scientists Unveil Technique to Build Ultra-Thin Material Stacks that Promise Quantum Breakthrough](https://www.semiconductor-digest.com/scientists-unveil-technique-to-build-ultra-thin-material-stacks-that-promise-quantum-breakthrough/?utm_source=rss&utm_medium=rss&utm_campaign=scientists-unveil-technique-to-build-ultra-thin-material-stacks-that-promise-quantum-breakthrough)
-**Published:** Tue, 14 Jul 2026 20:35:43 +0000
-
-<p>Scientists have unveiled a new fabrication technique for the ultra-clean manufacturing of 2D heterostructures – materials just a few atoms thick – which could be used in quantum technology and electronics.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/scientists-unveil-technique-to-build-ultra-thin-material-stacks-that-promise-quantum-breakthrough/">Scientists Unveil Technique to Build Ultra-Thin Material Stacks that Promise Quantum Breakthrough</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Presidio Investors Announces Sale of ElevATE Semiconductor to Diodes Incorporated](https://www.semiconductor-digest.com/presidio-investors-announces-sale-of-elevate-semiconductor-to-diodes-incorporated/?utm_source=rss&utm_medium=rss&utm_campaign=presidio-investors-announces-sale-of-elevate-semiconductor-to-diodes-incorporated)
-**Published:** Tue, 14 Jul 2026 20:28:24 +0000
-
-<p>Sale to Nasdaq-listed strategic acquirer marks successful realization of Presidio’s first continuation fund.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/presidio-investors-announces-sale-of-elevate-semiconductor-to-diodes-incorporated/">Presidio Investors Announces Sale of ElevATE Semiconductor to Diodes Incorporated</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
