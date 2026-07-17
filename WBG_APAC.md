@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-17 15:27 UTC_
+_Last updated: 2026-07-17 22:06 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -30,6 +30,46 @@ _Last updated: 2026-07-17 15:27 UTC_
 
 ---
 
+## [SNU Researchers Develop AI-Driven Inverse Design to Extend Quantum-Dot LED Lifetime 40-Fold](https://www.semiconductor-digest.com/snu-researchers-develop-ai-driven-inverse-design-to-extend-quantum-dot-led-lifetime-40-fold/?utm_source=rss&utm_medium=rss&utm_campaign=snu-researchers-develop-ai-driven-inverse-design-to-extend-quantum-dot-led-lifetime-40-fold)
+**Published:** Fri, 17 Jul 2026 18:45:17 +0000
+
+<p>Developing AI-based inverse process design technology / inverse design of optimal solvent properties for quantum-dot processing enhances next-generation display performance.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/snu-researchers-develop-ai-driven-inverse-design-to-extend-quantum-dot-led-lifetime-40-fold/">SNU Researchers Develop AI-Driven Inverse Design to Extend Quantum-Dot LED Lifetime 40-Fold</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [PI Tackles High-Resolution Focusing Demands in Metrology and Microscopy](https://www.semiconductor-digest.com/pi-tackles-high-resolution-focusing-demands-in-metrology-and-microscopy/?utm_source=rss&utm_medium=rss&utm_campaign=pi-tackles-high-resolution-focusing-demands-in-metrology-and-microscopy)
+**Published:** Fri, 17 Jul 2026 15:43:41 +0000
+
+<p>Objective Focusing Stages based on high-speed mechanisms and advanced controllers bring precision where tolerances leave no room for error.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/pi-tackles-high-resolution-focusing-demands-in-metrology-and-microscopy/">PI Tackles High-Resolution Focusing Demands in Metrology and Microscopy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TYLsemi Raises $43 Million to Launch First Full-Stack Chiplet Platform for Custom AI Silicon](https://www.semiconductor-digest.com/tylsemi-raises-43-million-to-launch-first-full-stack-chiplet-platform-for-custom-ai-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=tylsemi-raises-43-million-to-launch-first-full-stack-chiplet-platform-for-custom-ai-silicon)
+**Published:** Fri, 17 Jul 2026 15:41:21 +0000
+
+<p>Today, TYLsemi emerged from stealth and announced the closing of an oversubscribed $43 million early-stage funding round to accelerate the development of AI infrastructure.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tylsemi-raises-43-million-to-launch-first-full-stack-chiplet-platform-for-custom-ai-silicon/">TYLsemi Raises $43 Million to Launch First Full-Stack Chiplet Platform for Custom AI Silicon</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Chris Long Named President of Micross North America](https://www.semiconductor-digest.com/chris-long-named-president-of-micross-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=chris-long-named-president-of-micross-north-america)
+**Published:** Fri, 17 Jul 2026 15:40:07 +0000
+
+<p>Reporting to CEO Jim Cannon, Chris will oversee all North America operations.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/chris-long-named-president-of-micross-north-america/">Chris Long Named President of Micross North America</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Rapidus and Cadence Partner on Agentic AI for Advanced SoC Design](https://www.semiconductor-digest.com/rapidus-and-cadence-partner-on-agentic-ai-for-advanced-soc-design/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-and-cadence-partner-on-agentic-ai-for-advanced-soc-design)
+**Published:** Fri, 17 Jul 2026 15:37:15 +0000
+
+<p>Collaboration combines Rapidus’ AI-Agentic Design Solution with Cadence InnoStack AI Super Agent to target up to a 2X acceleration of design turnaround times.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rapidus-and-cadence-partner-on-agentic-ai-for-advanced-soc-design/">Rapidus and Cadence Partner on Agentic AI for Advanced SoC Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Full-Chip EUV Curvilinear Mask Optimization](https://www.semiconductor-digest.com/full-chip-euv-curvilinear-mask-optimization/?utm_source=rss&utm_medium=rss&utm_campaign=full-chip-euv-curvilinear-mask-optimization)
 **Published:** Thu, 16 Jul 2026 19:56:28 +0000
 
@@ -43,46 +83,6 @@ _Last updated: 2026-07-17 15:27 UTC_
 
 <p>ATLANT 3D today announced that it has secured an order from a global AI hyperscaler for its NANOFABRICATOR LITE platform.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/leading-global-ai-hyperscaler-selects-atlant-3ds-nanofabricator-platform-for-setting-ai-driven-materials-discovery-lab/">Leading Global AI Hyperscaler Selects ATLANT 3D&#8217;s NANOFABRICATOR Platform for Setting AI-Driven Materials Discovery Lab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [LG Chem Enters Semiconductor Stripper Market with Mass Supply to Amkor](https://www.semiconductor-digest.com/lg-chem-enters-semiconductor-stripper-market-with-mass-supply-to-amkor/?utm_source=rss&utm_medium=rss&utm_campaign=lg-chem-enters-semiconductor-stripper-market-with-mass-supply-to-amkor)
-**Published:** Thu, 16 Jul 2026 19:21:32 +0000
-
-<p>LG Chem announced on July 16 that it has begun mass production and supply of semiconductor strippers to Amkor Technology, marking the company’s first entry into the semiconductor stripper market and accelerating its strategy to expand its semiconductor materials business.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lg-chem-enters-semiconductor-stripper-market-with-mass-supply-to-amkor/">LG Chem Enters Semiconductor Stripper Market with Mass Supply to Amkor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Former IBM Quantum, IonQ Executive Joins Haiqu to Drive Commercialization of Agentic Operating System for Quantum R&D](https://www.semiconductor-digest.com/former-ibm-quantum-ionq-executive-joins-haiqu-to-drive-commercialization-of-agentic-operating-system-for-quantum-rd/?utm_source=rss&utm_medium=rss&utm_campaign=former-ibm-quantum-ionq-executive-joins-haiqu-to-drive-commercialization-of-agentic-operating-system-for-quantum-rd)
-**Published:** Thu, 16 Jul 2026 19:05:51 +0000
-
-<p>Denise Ruffner brings more than a decade of experience building commercialization strategies for quantum industry leaders.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/former-ibm-quantum-ionq-executive-joins-haiqu-to-drive-commercialization-of-agentic-operating-system-for-quantum-rd/">Former IBM Quantum, IonQ Executive Joins Haiqu to Drive Commercialization of Agentic Operating System for Quantum R&#038;D</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The Invisible Wearable: New Skin Sensors Revolutionizing Health Monitoring](https://www.semiconductor-digest.com/the-invisible-wearable-new-skin-sensors-revolutionizing-health-monitoring/?utm_source=rss&utm_medium=rss&utm_campaign=the-invisible-wearable-new-skin-sensors-revolutionizing-health-monitoring)
-**Published:** Wed, 15 Jul 2026 21:06:06 +0000
-
-<p>Researchers from the Institute of Industrial Science, The University of Tokyo and collaborating institutions reported the development of thin, stretchable on-skin electrodes that are effectively invisible when worn on the face.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-invisible-wearable-new-skin-sensors-revolutionizing-health-monitoring/">The Invisible Wearable: New Skin Sensors Revolutionizing Health Monitoring</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Saras Micro Devices Expands Senior Leadership Team](https://www.semiconductor-digest.com/saras-micro-devices-expands-senior-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=saras-micro-devices-expands-senior-leadership-team)
-**Published:** Wed, 15 Jul 2026 20:37:29 +0000
-
-<p>Saras Micro Devices, an emerging leader in cutting-edge power performance solutions leveraging integrated packaging design, today announced the expansion of its senior leadership team with the appointment of Shaun Bowers as senior vice president of product management and Georgette Woodyard as senior vice president of sales and business development.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/saras-micro-devices-expands-senior-leadership-team/">Saras Micro Devices Expands Senior Leadership Team</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ChipAgents Helps Whalechip Cut Semiconductor Root Cause Analysis from Days to Minutes](https://www.semiconductor-digest.com/chipagents-helps-whalechip-cut-semiconductor-root-cause-analysis-from-days-to-minutes/?utm_source=rss&utm_medium=rss&utm_campaign=chipagents-helps-whalechip-cut-semiconductor-root-cause-analysis-from-days-to-minutes)
-**Published:** Wed, 15 Jul 2026 20:32:26 +0000
-
-<p>AI-powered platform identified four critical SoC bugs and helped prevent up to two weeks of potential development delays.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/chipagents-helps-whalechip-cut-semiconductor-root-cause-analysis-from-days-to-minutes/">ChipAgents Helps Whalechip Cut Semiconductor Root Cause Analysis from Days to Minutes</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
