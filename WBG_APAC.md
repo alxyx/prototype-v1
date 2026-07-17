@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-17 03:44 UTC_
+_Last updated: 2026-07-17 09:21 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [esmo Expands Global Operations as It Marks 25 Years in Service](https://www.eetasia.com/esmo-expands-global-operations-as-it-marks-25-years-in-service/)
+**Published:** Fri, 17 Jul 2026 09:00:14 +0000
+
+<p>esmo strengthens its engineering and manufacturing capabilities with new facilities in Germany, China, and Taiwan to support semiconductor testing.</p>
+<p>The post <a href="https://www.eetasia.com/esmo-expands-global-operations-as-it-marks-25-years-in-service/">esmo Expands Global Operations as It Marks 25 Years in Service</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Hanyang University Develops Solvent-based Method for Controlled Organic Semiconductor Doping](https://www.eetasia.com/hanyang-university-develops-solvent-based-method-for-controlled-organic-semiconductor-doping/)
+**Published:** Fri, 17 Jul 2026 06:01:42 +0000
+
+<p>Researchers demonstrate solvent-controlled doping strategy that improves stability and performance of organic semiconductors for flexible electronic devices.</p>
+<p>The post <a href="https://www.eetasia.com/hanyang-university-develops-solvent-based-method-for-controlled-organic-semiconductor-doping/">Hanyang University Develops Solvent-based Method for Controlled Organic Semiconductor Doping</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,22 +27,6 @@ _Last updated: 2026-07-17 03:44 UTC_
 
 <p>DEEPX is broadening its Physical AI platform through developer ecosystem collaborations spanning AI models, frameworks and hardware.</p>
 <p>The post <a href="https://www.eetasia.com/deepx-expands-physical-ai-platform-through-global-developer-ecosystem-collaborations/">DEEPX Expands Physical AI Platform Through Global Developer Ecosystem Collaborations</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Asahi Kasei Enhances Taiwan Facility Capabilities to Meet Growing Demand for Advanced Packaging](https://www.eetasia.com/asahi-kasei-enhances-taiwan-facility-capabilities-to-meet-growing-demand-for-advanced-packaging/)
-**Published:** Wed, 15 Jul 2026 02:03:50 +0000
-
-<p>Asahi Kasei expands SUNFORT dry film photoresist capacity in Taiwan to support growing advanced semiconductor packaging demand.</p>
-<p>The post <a href="https://www.eetasia.com/asahi-kasei-enhances-taiwan-facility-capabilities-to-meet-growing-demand-for-advanced-packaging/">Asahi Kasei Enhances Taiwan Facility Capabilities to Meet Growing Demand for Advanced Packaging</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Alif Semiconductor Bets on Edge AI Leadership with Next-gen AI MCUs](https://www.eetasia.com/alif-semiconductor-bets-on-edge-ai-leadership-with-next-gen-ai-mcus/)
-**Published:** Wed, 15 Jul 2026 01:49:21 +0000
-
-<p>At COMPUTEX 2026, Alif Semiconductor highlighted how AI-enabled MCUs are bringing generative AI to battery-powered edge devices.</p>
-<p>The post <a href="https://www.eetasia.com/alif-semiconductor-bets-on-edge-ai-leadership-with-next-gen-ai-mcus/">Alif Semiconductor Bets on Edge AI Leadership with Next-gen AI MCUs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
