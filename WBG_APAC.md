@@ -1,6 +1,6 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/2)
 
-_Last updated: 2026-07-19 10:40 UTC_
+_Last updated: 2026-07-19 16:11 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -30,59 +30,59 @@ _Last updated: 2026-07-19 10:40 UTC_
 
 ---
 
-## [SNU Researchers Develop AI-Driven Inverse Design to Extend Quantum-Dot LED Lifetime 40-Fold](https://www.semiconductor-digest.com/snu-researchers-develop-ai-driven-inverse-design-to-extend-quantum-dot-led-lifetime-40-fold/?utm_source=rss&utm_medium=rss&utm_campaign=snu-researchers-develop-ai-driven-inverse-design-to-extend-quantum-dot-led-lifetime-40-fold)
-**Published:** Fri, 17 Jul 2026 18:45:17 +0000
+## [Understanding MPPT Algorithms, Hybrid-LCC Systems with IGCTs, SiC Bidirectional Switches: Electronics Week Insights](https://www.powerelectronicsnews.com/understanding-mppt-algorithms-hybrid-lcc-systems-with-igcts-sic-bidirectional-switches-electronics-week-insights/)
+**Published:** Fri, 17 Jul 2026 17:04:42 +0000
 
-<p>Developing AI-based inverse process design technology / inverse design of optimal solvent properties for quantum-dot processing enhances next-generation display performance.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/snu-researchers-develop-ai-driven-inverse-design-to-extend-quantum-dot-led-lifetime-40-fold/">SNU Researchers Develop AI-Driven Inverse Design to Extend Quantum-Dot LED Lifetime 40-Fold</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [PI Tackles High-Resolution Focusing Demands in Metrology and Microscopy](https://www.semiconductor-digest.com/pi-tackles-high-resolution-focusing-demands-in-metrology-and-microscopy/?utm_source=rss&utm_medium=rss&utm_campaign=pi-tackles-high-resolution-focusing-demands-in-metrology-and-microscopy)
-**Published:** Fri, 17 Jul 2026 15:43:41 +0000
-
-<p>Objective Focusing Stages based on high-speed mechanisms and advanced controllers bring precision where tolerances leave no room for error.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/pi-tackles-high-resolution-focusing-demands-in-metrology-and-microscopy/">PI Tackles High-Resolution Focusing Demands in Metrology and Microscopy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Understanding MPPT Algorithms, Hybrid-LCC Systems with IGCTs, and SiC Bidirectional Switches!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/understanding-mppt-algorithms-hybrid-lcc-systems-with-igcts-sic-bidirectional-switches-electronics-week-insights/">Understanding MPPT Algorithms, Hybrid-LCC Systems with IGCTs, SiC Bidirectional Switches: Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [TYLsemi Raises $43 Million to Launch First Full-Stack Chiplet Platform for Custom AI Silicon](https://www.semiconductor-digest.com/tylsemi-raises-43-million-to-launch-first-full-stack-chiplet-platform-for-custom-ai-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=tylsemi-raises-43-million-to-launch-first-full-stack-chiplet-platform-for-custom-ai-silicon)
-**Published:** Fri, 17 Jul 2026 15:41:21 +0000
+## [Understanding MPPT for Increased Efficiency in PV Inverters](https://www.powerelectronicsnews.com/understanding-mppt-for-increased-efficiency-in-pv-inverters/)
+**Published:** Fri, 17 Jul 2026 11:00:00 +0000
 
-<p>Today, TYLsemi emerged from stealth and announced the closing of an oversubscribed $43 million early-stage funding round to accelerate the development of AI infrastructure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tylsemi-raises-43-million-to-launch-first-full-stack-chiplet-platform-for-custom-ai-silicon/">TYLsemi Raises $43 Million to Launch First Full-Stack Chiplet Platform for Custom AI Silicon</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Chris Long Named President of Micross North America](https://www.semiconductor-digest.com/chris-long-named-president-of-micross-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=chris-long-named-president-of-micross-north-america)
-**Published:** Fri, 17 Jul 2026 15:40:07 +0000
-
-<p>Reporting to CEO Jim Cannon, Chris will oversee all North America operations.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/chris-long-named-president-of-micross-north-america/">Chris Long Named President of Micross North America</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3214" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/AdobeStock_1344969798.jpeg?fit=5578%2C3214" style="display: block; margin-bottom: 5px; clear: both;" width="5578" /><p>MPPT algorithms optimize PV inverter efficiency through sensing, computation, and driving stages across three inverter architectures.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/understanding-mppt-for-increased-efficiency-in-pv-inverters/">Understanding MPPT for Increased Efficiency in PV Inverters</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Rapidus and Cadence Partner on Agentic AI for Advanced SoC Design](https://www.semiconductor-digest.com/rapidus-and-cadence-partner-on-agentic-ai-for-advanced-soc-design/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-and-cadence-partner-on-agentic-ai-for-advanced-soc-design)
-**Published:** Fri, 17 Jul 2026 15:37:15 +0000
+## [WeEn Strengthens Solid-State Transformer Portfolio](https://www.powerelectronicsnews.com/ween-strengthens-solid-state-transformer-portfolio/)
+**Published:** Thu, 16 Jul 2026 13:00:00 +0000
 
-<p>Collaboration combines Rapidus’ AI-Agentic Design Solution with Cadence InnoStack AI Super Agent to target up to a 2X acceleration of design turnaround times.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rapidus-and-cadence-partner-on-agentic-ai-for-advanced-soc-design/">Rapidus and Cadence Partner on Agentic AI for Advanced SoC Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Full-Chip EUV Curvilinear Mask Optimization](https://www.semiconductor-digest.com/full-chip-euv-curvilinear-mask-optimization/?utm_source=rss&utm_medium=rss&utm_campaign=full-chip-euv-curvilinear-mask-optimization)
-**Published:** Thu, 16 Jul 2026 19:56:28 +0000
-
-<p>Lithography stands as one of the core processes in advanced integrated circuit (IC) manufacturing, where exposure precision directly determines the critical dimensions (CDs) and performance of chips.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/full-chip-euv-curvilinear-mask-optimization/">Full-Chip EUV Curvilinear Mask Optimization</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="WeEn Strengthens Solid-State Transformer Portfolio." class="webfeedsFeaturedVisual wp-post-image" height="1858" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/eba25e1c445f5dc2a99102a17e1acc36.jpg?fit=3300%2C1858" style="display: block; margin-bottom: 5px; clear: both;" width="3300" /><p>The new SiC power modules support high-efficiency SSTs, AI data centers, EV fast chargers and renewable energy systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ween-strengthens-solid-state-transformer-portfolio/">WeEn Strengthens Solid-State Transformer Portfolio</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Leading Global AI Hyperscaler Selects ATLANT 3D’s NANOFABRICATOR Platform for Setting AI-Driven Materials Discovery Lab](https://www.semiconductor-digest.com/leading-global-ai-hyperscaler-selects-atlant-3ds-nanofabricator-platform-for-setting-ai-driven-materials-discovery-lab/?utm_source=rss&utm_medium=rss&utm_campaign=leading-global-ai-hyperscaler-selects-atlant-3ds-nanofabricator-platform-for-setting-ai-driven-materials-discovery-lab)
-**Published:** Thu, 16 Jul 2026 19:28:11 +0000
+## [Power Corner: Vicor’s Maury Wood on Vertical Power Delivery for AI Data Centers](https://www.powerelectronicsnews.com/power-corner-vicors-maury-wood-on-vertical-power-delivery-for-ai-data-centers/)
+**Published:** Thu, 16 Jul 2026 11:00:00 +0000
 
-<p>ATLANT 3D today announced that it has secured an order from a global AI hyperscaler for its NANOFABRICATOR LITE platform.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/leading-global-ai-hyperscaler-selects-atlant-3ds-nanofabricator-platform-for-setting-ai-driven-materials-discovery-lab/">Leading Global AI Hyperscaler Selects ATLANT 3D&#8217;s NANOFABRICATOR Platform for Setting AI-Driven Materials Discovery Lab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/Vicor-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>As AI processors consume half of rack power, current multiplication offers one approach to reducing conduction losses.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-vicors-maury-wood-on-vertical-power-delivery-for-ai-data-centers/">Power Corner: Vicor&#8217;s Maury Wood on Vertical Power Delivery for AI Data Centers </a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Infineon Launches Rad-Hard GaN Driver for Space Power Systems](https://www.powerelectronicsnews.com/infineon-launches-rad-hard-gan-driver-for-space-power-systems/)
+**Published:** Wed, 15 Jul 2026 18:39:05 +0000
+
+<img alt="Infineon Launches Rad-Hard GaN Driver for Space Power Systems." class="webfeedsFeaturedVisual wp-post-image" height="775" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/lowres-RIC70115_LCC-16-x_Combi.tif_.png?fit=1500%2C775" style="display: block; margin-bottom: 5px; clear: both;" width="1500" /><p>The radiation-hardened GaN gate driver supports efficient and reliable satellite power conversion in harsh space environments.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/infineon-launches-rad-hard-gan-driver-for-space-power-systems/">Infineon Launches Rad-Hard GaN Driver for Space Power Systems</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Bosch Expands U.S. SiC Manufacturing with Roseville Investment](https://www.powerelectronicsnews.com/bosch-expands-u-s-sic-manufacturing-with-roseville-investment/)
+**Published:** Wed, 15 Jul 2026 13:00:00 +0000
+
+<img alt="Bosch Expands U.S. SiC Manufacturing with Roseville Investment." class="webfeedsFeaturedVisual wp-post-image" height="1800" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/Bosch-Digital-Roseville-Site.jpg?fit=2700%2C1800" style="display: block; margin-bottom: 5px; clear: both;" width="2700" /><p>The Roseville facility begins SiC sample production as Bosch prepares for U.S. commercial manufacturing in 2026.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/bosch-expands-u-s-sic-manufacturing-with-roseville-investment/">Bosch Expands U.S. SiC Manufacturing with Roseville Investment</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [How to Design a Dual-Mode LDO for Battery-Powered Devices | ADPL40505AEVKIT#](https://www.powerelectronicsnews.com/how-to-design-a-dual-mode-ldo-for-battery-powered-devices-adpl40505aevkit/)
+**Published:** Wed, 15 Jul 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1080" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/YouTube-Thumbnail.png?fit=1920%2C1080" style="display: block; margin-bottom: 5px; clear: both;" width="1920" /><p>Dr. Rakesh demonstrates dual-mode LDO design using real hardware, covering mode transitions, PSRR, protection, thermal management.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/how-to-design-a-dual-mode-ldo-for-battery-powered-devices-adpl40505aevkit/">How to Design a Dual-Mode LDO for Battery-Powered Devices | ADPL40505AEVKIT#</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
