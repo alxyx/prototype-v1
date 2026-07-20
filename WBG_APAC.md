@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-20 03:43 UTC_
+_Last updated: 2026-07-20 10:23 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [SEIPI, Government Step Up Efforts to Clear NAIA Cargo Backlog Affecting Electronics Production](https://www.eetasia.com/seipi-government-step-up-efforts-to-clear-naia-cargo-backlog-affecting-electronics-production/)
+**Published:** Mon, 20 Jul 2026 09:01:07 +0000
+
+<p>SEIPI coordinates with government agencies to accelerate critical cargo releases as NAIA congestion disrupts semiconductor manufacturing operations.</p>
+<p>The post <a href="https://www.eetasia.com/seipi-government-step-up-efforts-to-clear-naia-cargo-backlog-affecting-electronics-production/">SEIPI, Government Step Up Efforts to Clear NAIA Cargo Backlog Affecting Electronics Production</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-07-20 03:43 UTC_
 
 <p>Collaboration combines Rapidus’ AI-Agentic Design Solution with Cadence InnoStack AI Super Agent to target up to a 2X acceleration of design turnaround times.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/rapidus-and-cadence-partner-on-agentic-ai-for-advanced-soc-design/">Rapidus and Cadence Partner on Agentic AI for Advanced SoC Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Full-Chip EUV Curvilinear Mask Optimization](https://www.semiconductor-digest.com/full-chip-euv-curvilinear-mask-optimization/?utm_source=rss&utm_medium=rss&utm_campaign=full-chip-euv-curvilinear-mask-optimization)
-**Published:** Thu, 16 Jul 2026 19:56:28 +0000
-
-<p>Lithography stands as one of the core processes in advanced integrated circuit (IC) manufacturing, where exposure precision directly determines the critical dimensions (CDs) and performance of chips.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/full-chip-euv-curvilinear-mask-optimization/">Full-Chip EUV Curvilinear Mask Optimization</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
