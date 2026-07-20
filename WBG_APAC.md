@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-20 13:19 UTC_
+_Last updated: 2026-07-20 20:33 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -46,43 +46,43 @@ _Last updated: 2026-07-20 13:19 UTC_
 
 ---
 
+## [Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion](https://www.semiconductor-digest.com/novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion/?utm_source=rss&utm_medium=rss&utm_campaign=novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion)
+**Published:** Mon, 20 Jul 2026 18:02:46 +0000
+
+<p>Embedding atomically thin materials within bulk crystals enables both a high thermoelectric power factor and exceptionally low thermal conductivity.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion/">Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SNU Researchers Develops AI Agent Technology to Automate Semiconductor Design Verification](https://www.semiconductor-digest.com/snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification/?utm_source=rss&utm_medium=rss&utm_campaign=snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification)
+**Published:** Mon, 20 Jul 2026 17:55:45 +0000
+
+<p>Enabling commercialization of automated semiconductor EDA technologies and improving collaborative productivity.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification/">SNU Researchers Develops AI Agent Technology to Automate Semiconductor Design Verification</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics](https://www.semiconductor-digest.com/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics/?utm_source=rss&utm_medium=rss&utm_campaign=ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics)
+**Published:** Mon, 20 Jul 2026 17:36:08 +0000
+
+<p>Micro-transfer printing can enable heterogenous integration of diverse material systems in silicon photonics.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics/">IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens to Acquire Precision Innovations](https://www.semiconductor-digest.com/siemens-to-acquire-precision-innovations/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-to-acquire-precision-innovations)
+**Published:** Mon, 20 Jul 2026 17:06:37 +0000
+
+<p>Siemens today announced that it has signed an agreement to acquire Precision Innovations Inc., a privately held electronic design automation software company.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-to-acquire-precision-innovations/">Siemens to Acquire Precision Innovations</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [SNU Researchers Develop AI-Driven Inverse Design to Extend Quantum-Dot LED Lifetime 40-Fold](https://www.semiconductor-digest.com/snu-researchers-develop-ai-driven-inverse-design-to-extend-quantum-dot-led-lifetime-40-fold/?utm_source=rss&utm_medium=rss&utm_campaign=snu-researchers-develop-ai-driven-inverse-design-to-extend-quantum-dot-led-lifetime-40-fold)
 **Published:** Fri, 17 Jul 2026 18:45:17 +0000
 
 <p>Developing AI-based inverse process design technology / inverse design of optimal solvent properties for quantum-dot processing enhances next-generation display performance.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/snu-researchers-develop-ai-driven-inverse-design-to-extend-quantum-dot-led-lifetime-40-fold/">SNU Researchers Develop AI-Driven Inverse Design to Extend Quantum-Dot LED Lifetime 40-Fold</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [PI Tackles High-Resolution Focusing Demands in Metrology and Microscopy](https://www.semiconductor-digest.com/pi-tackles-high-resolution-focusing-demands-in-metrology-and-microscopy/?utm_source=rss&utm_medium=rss&utm_campaign=pi-tackles-high-resolution-focusing-demands-in-metrology-and-microscopy)
-**Published:** Fri, 17 Jul 2026 15:43:41 +0000
-
-<p>Objective Focusing Stages based on high-speed mechanisms and advanced controllers bring precision where tolerances leave no room for error.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/pi-tackles-high-resolution-focusing-demands-in-metrology-and-microscopy/">PI Tackles High-Resolution Focusing Demands in Metrology and Microscopy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TYLsemi Raises $43 Million to Launch First Full-Stack Chiplet Platform for Custom AI Silicon](https://www.semiconductor-digest.com/tylsemi-raises-43-million-to-launch-first-full-stack-chiplet-platform-for-custom-ai-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=tylsemi-raises-43-million-to-launch-first-full-stack-chiplet-platform-for-custom-ai-silicon)
-**Published:** Fri, 17 Jul 2026 15:41:21 +0000
-
-<p>Today, TYLsemi emerged from stealth and announced the closing of an oversubscribed $43 million early-stage funding round to accelerate the development of AI infrastructure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tylsemi-raises-43-million-to-launch-first-full-stack-chiplet-platform-for-custom-ai-silicon/">TYLsemi Raises $43 Million to Launch First Full-Stack Chiplet Platform for Custom AI Silicon</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Chris Long Named President of Micross North America](https://www.semiconductor-digest.com/chris-long-named-president-of-micross-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=chris-long-named-president-of-micross-north-america)
-**Published:** Fri, 17 Jul 2026 15:40:07 +0000
-
-<p>Reporting to CEO Jim Cannon, Chris will oversee all North America operations.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/chris-long-named-president-of-micross-north-america/">Chris Long Named President of Micross North America</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rapidus and Cadence Partner on Agentic AI for Advanced SoC Design](https://www.semiconductor-digest.com/rapidus-and-cadence-partner-on-agentic-ai-for-advanced-soc-design/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-and-cadence-partner-on-agentic-ai-for-advanced-soc-design)
-**Published:** Fri, 17 Jul 2026 15:37:15 +0000
-
-<p>Collaboration combines Rapidus’ AI-Agentic Design Solution with Cadence InnoStack AI Super Agent to target up to a 2X acceleration of design turnaround times.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rapidus-and-cadence-partner-on-agentic-ai-for-advanced-soc-design/">Rapidus and Cadence Partner on Agentic AI for Advanced SoC Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
