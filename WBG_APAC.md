@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-19 23:06 UTC_
+_Last updated: 2026-07-20 03:43 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Melaka Strengthens Semiconductor Strategy Through Government-Industry Dialogue](https://www.eetasia.com/melaka-strengthens-semiconductor-strategy-through-government-industry-dialogue/)
+**Published:** Mon, 20 Jul 2026 01:59:52 +0000
+
+<p>Stakeholders align on investment, talent, and ecosystem development to advance Melaka's semiconductor and advanced manufacturing ambitions.</p>
+<p>The post <a href="https://www.eetasia.com/melaka-strengthens-semiconductor-strategy-through-government-industry-dialogue/">Melaka Strengthens Semiconductor Strategy Through Government-Industry Dialogue</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Thermal Imaging as Infrastructure for Physical AI](https://www.eetasia.com/thermal-imaging-as-infrastructure-for-physical-ai/)
+**Published:** Mon, 20 Jul 2026 01:25:00 +0000
+
+<p>Physical AI requires machines to understand real-world physical states, making thermal sensing a critical addition to edge intelligence.</p>
+<p>The post <a href="https://www.eetasia.com/thermal-imaging-as-infrastructure-for-physical-ai/">Thermal Imaging as Infrastructure for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -19,14 +35,6 @@ _Last updated: 2026-07-19 23:06 UTC_
 
 <p>Researchers demonstrate solvent-controlled doping strategy that improves stability and performance of organic semiconductors for flexible electronic devices.</p>
 <p>The post <a href="https://www.eetasia.com/hanyang-university-develops-solvent-based-method-for-controlled-organic-semiconductor-doping/">Hanyang University Develops Solvent-based Method for Controlled Organic Semiconductor Doping</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [DEEPX Expands Physical AI Platform Through Global Developer Ecosystem Collaborations](https://www.eetasia.com/deepx-expands-physical-ai-platform-through-global-developer-ecosystem-collaborations/)
-**Published:** Wed, 15 Jul 2026 02:42:23 +0000
-
-<p>DEEPX is broadening its Physical AI platform through developer ecosystem collaborations spanning AI models, frameworks and hardware.</p>
-<p>The post <a href="https://www.eetasia.com/deepx-expands-physical-ai-platform-through-global-developer-ecosystem-collaborations/">DEEPX Expands Physical AI Platform Through Global Developer Ecosystem Collaborations</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-07-19 23:06 UTC_
 
 <p>Lithography stands as one of the core processes in advanced integrated circuit (IC) manufacturing, where exposure precision directly determines the critical dimensions (CDs) and performance of chips.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/full-chip-euv-curvilinear-mask-optimization/">Full-Chip EUV Curvilinear Mask Optimization</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Leading Global AI Hyperscaler Selects ATLANT 3D’s NANOFABRICATOR Platform for Setting AI-Driven Materials Discovery Lab](https://www.semiconductor-digest.com/leading-global-ai-hyperscaler-selects-atlant-3ds-nanofabricator-platform-for-setting-ai-driven-materials-discovery-lab/?utm_source=rss&utm_medium=rss&utm_campaign=leading-global-ai-hyperscaler-selects-atlant-3ds-nanofabricator-platform-for-setting-ai-driven-materials-discovery-lab)
-**Published:** Thu, 16 Jul 2026 19:28:11 +0000
-
-<p>ATLANT 3D today announced that it has secured an order from a global AI hyperscaler for its NANOFABRICATOR LITE platform.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/leading-global-ai-hyperscaler-selects-atlant-3ds-nanofabricator-platform-for-setting-ai-driven-materials-discovery-lab/">Leading Global AI Hyperscaler Selects ATLANT 3D&#8217;s NANOFABRICATOR Platform for Setting AI-Driven Materials Discovery Lab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
