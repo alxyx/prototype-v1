@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-07-21 14:01 UTC_
+_Last updated: 2026-07-21 15:56 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -62,6 +62,14 @@ _Last updated: 2026-07-21 14:01 UTC_
 
 ---
 
+## [Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan](https://www.semiconductor-digest.com/air-products-to-expand-integrated-gas-supply-network-for-semiconductor-manufacturer-in-taiwan/?utm_source=rss&utm_medium=rss&utm_campaign=air-products-to-expand-integrated-gas-supply-network-for-semiconductor-manufacturer-in-taiwan)
+**Published:** Tue, 21 Jul 2026 13:52:30 +0000
+
+<p>The project will supply multiple new semiconductor fabs and back-end packaging facilities, supporting growing demand driven by artificial intelligence and high-performance computing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/air-products-to-expand-integrated-gas-supply-network-for-semiconductor-manufacturer-in-taiwan/">Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Gradiant Supports Landmark Semiconductor Manufacturing Expansion in Dresden](https://www.semiconductor-digest.com/gradiant-supports-landmark-semiconductor-manufacturing-expansion-in-dresden/?utm_source=rss&utm_medium=rss&utm_campaign=gradiant-supports-landmark-semiconductor-manufacturing-expansion-in-dresden)
 **Published:** Tue, 21 Jul 2026 13:47:24 +0000
 
@@ -75,14 +83,6 @@ _Last updated: 2026-07-21 14:01 UTC_
 
 <p>The investment supports the increasing demand for optical connectivity solutions for hyperscale AI infrastructure and cloud data centers.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production/">Innolume Selects Veeco Gen2000 MBE System to Expand Quantum Dot Laser Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [xMEMS Launches the World’s Smallest Active Micro Fan to Break the Thermal Wall in Smart Glasses](https://www.semiconductor-digest.com/xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses/?utm_source=rss&utm_medium=rss&utm_campaign=xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses)
-**Published:** Tue, 21 Jul 2026 13:37:50 +0000
-
-<p>XMC-1200, the industry’s solid-state µCooling chip enables targeted cooling for AR/XR light engines, processors, and other components in smart glasses.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses/">xMEMS Launches the World’s Smallest Active Micro Fan to Break the Thermal Wall in Smart Glasses</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
