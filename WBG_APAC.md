@@ -1,8 +1,32 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-20 23:21 UTC_
+_Last updated: 2026-07-21 02:53 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [LG Chem Enters Semiconductor Stripper Market with First Mass-production Supply to Amkor](https://www.eetasia.com/lg-chem-enters-semiconductor-stripper-market-with-first-mass-production-supply-to-amkor/)
+**Published:** Tue, 21 Jul 2026 02:37:20 +0000
+
+<p>LG Chem begins supplying semiconductor strippers to Amkor, expanding its advanced packaging materials portfolio amid rising AI demand.</p>
+<p>The post <a href="https://www.eetasia.com/lg-chem-enters-semiconductor-stripper-market-with-first-mass-production-supply-to-amkor/">LG Chem Enters Semiconductor Stripper Market with First Mass-production Supply to Amkor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [JEDEC’s SPHBM4 Standard Brings HBM4-class Performance to Organic Substrate-based AI Systems](https://www.eetasia.com/jedecs-sphbm4-standard-brings-hbm4-class-performance-to-organic-substrate-based-ai-systems/)
+**Published:** Tue, 21 Jul 2026 02:34:31 +0000
+
+<p>JEDEC introduces SPHBM4, enabling HBM4-class bandwidth on organic substrates for more scalable and cost-effective AI memory architectures.</p>
+<p>The post <a href="https://www.eetasia.com/jedecs-sphbm4-standard-brings-hbm4-class-performance-to-organic-substrate-based-ai-systems/">JEDEC&#8217;s SPHBM4 Standard Brings HBM4-class Performance to Organic Substrate-based AI Systems</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Precision Under Pressure: Ensuring Quality in a Globalized and Miniaturized Semiconductor Industry](https://www.eetasia.com/precision-under-pressure-ensuring-quality-in-a-globalized-and-miniaturized-semiconductor-industry/)
+**Published:** Tue, 21 Jul 2026 02:14:01 +0000
+
+<p>Here is why distributed semiconductor manufacturing and miniaturization demand next-generation sensors solutions.</p>
+<p>The post <a href="https://www.eetasia.com/precision-under-pressure-ensuring-quality-in-a-globalized-and-miniaturized-semiconductor-industry/">Precision Under Pressure: Ensuring Quality in a Globalized and Miniaturized Semiconductor Industry</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-07-20 23:21 UTC_
 
 <p>Enabling commercialization of automated semiconductor EDA technologies and improving collaborative productivity.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification/">SNU Researchers Develops AI Agent Technology to Automate Semiconductor Design Verification</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics](https://www.semiconductor-digest.com/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics/?utm_source=rss&utm_medium=rss&utm_campaign=ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics)
-**Published:** Mon, 20 Jul 2026 17:36:08 +0000
-
-<p>Micro-transfer printing can enable heterogenous integration of diverse material systems in silicon photonics.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics/">IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Siemens to Acquire Precision Innovations](https://www.semiconductor-digest.com/siemens-to-acquire-precision-innovations/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-to-acquire-precision-innovations)
-**Published:** Mon, 20 Jul 2026 17:06:37 +0000
-
-<p>Siemens today announced that it has signed an agreement to acquire Precision Innovations Inc., a privately held electronic design automation software company.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-to-acquire-precision-innovations/">Siemens to Acquire Precision Innovations</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SNU Researchers Develop AI-Driven Inverse Design to Extend Quantum-Dot LED Lifetime 40-Fold](https://www.semiconductor-digest.com/snu-researchers-develop-ai-driven-inverse-design-to-extend-quantum-dot-led-lifetime-40-fold/?utm_source=rss&utm_medium=rss&utm_campaign=snu-researchers-develop-ai-driven-inverse-design-to-extend-quantum-dot-led-lifetime-40-fold)
-**Published:** Fri, 17 Jul 2026 18:45:17 +0000
-
-<p>Developing AI-based inverse process design technology / inverse design of optimal solvent properties for quantum-dot processing enhances next-generation display performance.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/snu-researchers-develop-ai-driven-inverse-design-to-extend-quantum-dot-led-lifetime-40-fold/">SNU Researchers Develop AI-Driven Inverse Design to Extend Quantum-Dot LED Lifetime 40-Fold</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
