@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-07-21 08:40 UTC_
+_Last updated: 2026-07-21 14:01 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -62,27 +62,27 @@ _Last updated: 2026-07-21 08:40 UTC_
 
 ---
 
-## [Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion](https://www.semiconductor-digest.com/novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion/?utm_source=rss&utm_medium=rss&utm_campaign=novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion)
-**Published:** Mon, 20 Jul 2026 18:02:46 +0000
+## [Gradiant Supports Landmark Semiconductor Manufacturing Expansion in Dresden](https://www.semiconductor-digest.com/gradiant-supports-landmark-semiconductor-manufacturing-expansion-in-dresden/?utm_source=rss&utm_medium=rss&utm_campaign=gradiant-supports-landmark-semiconductor-manufacturing-expansion-in-dresden)
+**Published:** Tue, 21 Jul 2026 13:47:24 +0000
 
-<p>Embedding atomically thin materials within bulk crystals enables both a high thermoelectric power factor and exceptionally low thermal conductivity.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion/">Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SNU Researchers Develops AI Agent Technology to Automate Semiconductor Design Verification](https://www.semiconductor-digest.com/snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification/?utm_source=rss&utm_medium=rss&utm_campaign=snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification)
-**Published:** Mon, 20 Jul 2026 17:55:45 +0000
-
-<p>Enabling commercialization of automated semiconductor EDA technologies and improving collaborative productivity.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification/">SNU Researchers Develops AI Agent Technology to Automate Semiconductor Design Verification</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Project completed three months ahead of schedule, supporting one of Europe’s most significant semiconductor manufacturing expansions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/gradiant-supports-landmark-semiconductor-manufacturing-expansion-in-dresden/">Gradiant Supports Landmark Semiconductor Manufacturing Expansion in Dresden</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics](https://www.semiconductor-digest.com/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics/?utm_source=rss&utm_medium=rss&utm_campaign=ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics)
-**Published:** Mon, 20 Jul 2026 17:36:08 +0000
+## [Innolume Selects Veeco Gen2000 MBE System to Expand Quantum Dot Laser Production](https://www.semiconductor-digest.com/innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production/?utm_source=rss&utm_medium=rss&utm_campaign=innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production)
+**Published:** Tue, 21 Jul 2026 13:40:07 +0000
 
-<p>Micro-transfer printing can enable heterogenous integration of diverse material systems in silicon photonics.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics/">IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>The investment supports the increasing demand for optical connectivity solutions for hyperscale AI infrastructure and cloud data centers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production/">Innolume Selects Veeco Gen2000 MBE System to Expand Quantum Dot Laser Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [xMEMS Launches the World’s Smallest Active Micro Fan to Break the Thermal Wall in Smart Glasses](https://www.semiconductor-digest.com/xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses/?utm_source=rss&utm_medium=rss&utm_campaign=xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses)
+**Published:** Tue, 21 Jul 2026 13:37:50 +0000
+
+<p>XMC-1200, the industry’s solid-state µCooling chip enables targeted cooling for AR/XR light engines, processors, and other components in smart glasses.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses/">xMEMS Launches the World’s Smallest Active Micro Fan to Break the Thermal Wall in Smart Glasses</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
