@@ -1,6 +1,6 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-07-21 02:53 UTC_
+_Last updated: 2026-07-21 06:12 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -62,14 +62,6 @@ _Last updated: 2026-07-21 02:53 UTC_
 
 ---
 
-## [Hanyang University Develops Solvent-based Method for Controlled Organic Semiconductor Doping](https://www.eetasia.com/hanyang-university-develops-solvent-based-method-for-controlled-organic-semiconductor-doping/)
-**Published:** Fri, 17 Jul 2026 06:01:42 +0000
-
-<p>Researchers demonstrate solvent-controlled doping strategy that improves stability and performance of organic semiconductors for flexible electronic devices.</p>
-<p>The post <a href="https://www.eetasia.com/hanyang-university-develops-solvent-based-method-for-controlled-organic-semiconductor-doping/">Hanyang University Develops Solvent-based Method for Controlled Organic Semiconductor Doping</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
 ## [Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion](https://www.semiconductor-digest.com/novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion/?utm_source=rss&utm_medium=rss&utm_campaign=novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion)
 **Published:** Mon, 20 Jul 2026 18:02:46 +0000
 
@@ -83,6 +75,14 @@ _Last updated: 2026-07-21 02:53 UTC_
 
 <p>Enabling commercialization of automated semiconductor EDA technologies and improving collaborative productivity.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification/">SNU Researchers Develops AI Agent Technology to Automate Semiconductor Design Verification</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics](https://www.semiconductor-digest.com/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics/?utm_source=rss&utm_medium=rss&utm_campaign=ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics)
+**Published:** Mon, 20 Jul 2026 17:36:08 +0000
+
+<p>Micro-transfer printing can enable heterogenous integration of diverse material systems in silicon photonics.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ieee-study-highlights-how-micro-transfer-printing-can-lead-to-advanced-silicon-photonics/">IEEE Study Highlights How Micro-Transfer Printing Can Lead to Advanced Silicon Photonics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
