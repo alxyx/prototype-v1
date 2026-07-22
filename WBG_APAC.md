@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-22 15:55 UTC_
+_Last updated: 2026-07-22 17:33 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -38,6 +38,22 @@ _Last updated: 2026-07-22 15:55 UTC_
 
 ---
 
+## [Ambiq and ChipAgents Collaborate to Advance Agentic AI for Semiconductor Engineering](https://www.semiconductor-digest.com/ambiq-and-chipagents-collaborate-to-advance-agentic-ai-for-semiconductor-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=ambiq-and-chipagents-collaborate-to-advance-agentic-ai-for-semiconductor-engineering)
+**Published:** Wed, 22 Jul 2026 17:08:46 +0000
+
+<p>Edge AI semiconductor leader expands use of ChipAgents' agentic AI platform to accelerate ultra-low power chip design and verification.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ambiq-and-chipagents-collaborate-to-advance-agentic-ai-for-semiconductor-engineering/">Ambiq and ChipAgents Collaborate to Advance Agentic AI for Semiconductor Engineering</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [CuspAI and A*STAR Announce Five-Year Partnership](https://www.semiconductor-digest.com/cuspai-and-astar-announce-five-year-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=cuspai-and-astar-announce-five-year-partnership)
+**Published:** Wed, 22 Jul 2026 17:05:30 +0000
+
+<p>The collaboration aims to accelerate the discovery and experimental validation of new materials across semiconductors, carbon capture, and advanced electronics. The first discovery project is now under way.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cuspai-and-astar-announce-five-year-partnership/">CuspAI and A*STAR Announce Five-Year Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan](https://www.semiconductor-digest.com/air-products-to-expand-integrated-gas-supply-network-for-semiconductor-manufacturer-in-taiwan/?utm_source=rss&utm_medium=rss&utm_campaign=air-products-to-expand-integrated-gas-supply-network-for-semiconductor-manufacturer-in-taiwan)
 **Published:** Tue, 21 Jul 2026 13:52:30 +0000
 
@@ -67,22 +83,6 @@ _Last updated: 2026-07-22 15:55 UTC_
 
 <p>XMC-1200, the industry’s solid-state µCooling chip enables targeted cooling for AR/XR light engines, processors, and other components in smart glasses.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses/">xMEMS Launches the World’s Smallest Active Micro Fan to Break the Thermal Wall in Smart Glasses</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion](https://www.semiconductor-digest.com/novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion/?utm_source=rss&utm_medium=rss&utm_campaign=novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion)
-**Published:** Mon, 20 Jul 2026 18:02:46 +0000
-
-<p>Embedding atomically thin materials within bulk crystals enables both a high thermoelectric power factor and exceptionally low thermal conductivity.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion/">Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SNU Researchers Develops AI Agent Technology to Automate Semiconductor Design Verification](https://www.semiconductor-digest.com/snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification/?utm_source=rss&utm_medium=rss&utm_campaign=snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification)
-**Published:** Mon, 20 Jul 2026 17:55:45 +0000
-
-<p>Enabling commercialization of automated semiconductor EDA technologies and improving collaborative productivity.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification/">SNU Researchers Develops AI Agent Technology to Automate Semiconductor Design Verification</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
