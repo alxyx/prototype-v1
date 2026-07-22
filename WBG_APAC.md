@@ -1,6 +1,6 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-22 00:13 UTC_
+_Last updated: 2026-07-22 06:04 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -38,30 +38,6 @@ _Last updated: 2026-07-22 00:13 UTC_
 
 ---
 
-## [Melaka Strengthens Semiconductor Strategy Through Government-Industry Dialogue](https://www.eetasia.com/melaka-strengthens-semiconductor-strategy-through-government-industry-dialogue/)
-**Published:** Mon, 20 Jul 2026 01:59:52 +0000
-
-<p>Stakeholders align on investment, talent, and ecosystem development to advance Melaka's semiconductor and advanced manufacturing ambitions.</p>
-<p>The post <a href="https://www.eetasia.com/melaka-strengthens-semiconductor-strategy-through-government-industry-dialogue/">Melaka Strengthens Semiconductor Strategy Through Government-Industry Dialogue</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Thermal Imaging as Infrastructure for Physical AI](https://www.eetasia.com/thermal-imaging-as-infrastructure-for-physical-ai/)
-**Published:** Mon, 20 Jul 2026 01:25:00 +0000
-
-<p>Physical AI requires machines to understand real-world physical states, making thermal sensing a critical addition to edge intelligence.</p>
-<p>The post <a href="https://www.eetasia.com/thermal-imaging-as-infrastructure-for-physical-ai/">Thermal Imaging as Infrastructure for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [esmo Expands Global Operations as It Marks 25 Years in Service](https://www.eetasia.com/esmo-expands-global-operations-as-it-marks-25-years-in-service/)
-**Published:** Fri, 17 Jul 2026 09:00:14 +0000
-
-<p>esmo strengthens its engineering and manufacturing capabilities with new facilities in Germany, China, and Taiwan to support semiconductor testing.</p>
-<p>The post <a href="https://www.eetasia.com/esmo-expands-global-operations-as-it-marks-25-years-in-service/">esmo Expands Global Operations as It Marks 25 Years in Service</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
 ## [Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan](https://www.semiconductor-digest.com/air-products-to-expand-integrated-gas-supply-network-for-semiconductor-manufacturer-in-taiwan/?utm_source=rss&utm_medium=rss&utm_campaign=air-products-to-expand-integrated-gas-supply-network-for-semiconductor-manufacturer-in-taiwan)
 **Published:** Tue, 21 Jul 2026 13:52:30 +0000
 
@@ -83,6 +59,30 @@ _Last updated: 2026-07-22 00:13 UTC_
 
 <p>The investment supports the increasing demand for optical connectivity solutions for hyperscale AI infrastructure and cloud data centers.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production/">Innolume Selects Veeco Gen2000 MBE System to Expand Quantum Dot Laser Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [xMEMS Launches the World’s Smallest Active Micro Fan to Break the Thermal Wall in Smart Glasses](https://www.semiconductor-digest.com/xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses/?utm_source=rss&utm_medium=rss&utm_campaign=xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses)
+**Published:** Tue, 21 Jul 2026 13:37:50 +0000
+
+<p>XMC-1200, the industry’s solid-state µCooling chip enables targeted cooling for AR/XR light engines, processors, and other components in smart glasses.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses/">xMEMS Launches the World’s Smallest Active Micro Fan to Break the Thermal Wall in Smart Glasses</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion](https://www.semiconductor-digest.com/novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion/?utm_source=rss&utm_medium=rss&utm_campaign=novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion)
+**Published:** Mon, 20 Jul 2026 18:02:46 +0000
+
+<p>Embedding atomically thin materials within bulk crystals enables both a high thermoelectric power factor and exceptionally low thermal conductivity.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/novel-layered-crystal-for-high-efficiency-thermoelectric-energy-conversion/">Novel Layered Crystal for High-Efficiency Thermoelectric Energy Conversion</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SNU Researchers Develops AI Agent Technology to Automate Semiconductor Design Verification](https://www.semiconductor-digest.com/snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification/?utm_source=rss&utm_medium=rss&utm_campaign=snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification)
+**Published:** Mon, 20 Jul 2026 17:55:45 +0000
+
+<p>Enabling commercialization of automated semiconductor EDA technologies and improving collaborative productivity.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/snu-researchers-develops-ai-agent-technology-to-automate-semiconductor-design-verification/">SNU Researchers Develops AI Agent Technology to Automate Semiconductor Design Verification</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
