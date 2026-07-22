@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-22 17:33 UTC_
+_Last updated: 2026-07-22 21:20 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -38,6 +38,22 @@ _Last updated: 2026-07-22 17:33 UTC_
 
 ---
 
+## [AI and Quantum Chemistry Identify Efficient Blue OLED Materials](https://www.semiconductor-digest.com/ai-and-quantum-chemistry-identify-efficient-blue-oled-materials/?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-quantum-chemistry-identify-efficient-blue-oled-materials)
+**Published:** Wed, 22 Jul 2026 17:52:41 +0000
+
+<p>Researchers designed an end-to-end workflow from molecular design to blue OLED device fabrication and evaluation.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ai-and-quantum-chemistry-identify-efficient-blue-oled-materials/">AI and Quantum Chemistry Identify Efficient Blue OLED Materials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [BrainChip Partners with Celus to Bring Its Neuromorphic Edge AI Processor to the CELUS Design Platform](https://www.semiconductor-digest.com/brainchip-partners-with-celus-to-bring-its-neuromorphic-edge-ai-processor-to-the-celus-design-platform/?utm_source=rss&utm_medium=rss&utm_campaign=brainchip-partners-with-celus-to-bring-its-neuromorphic-edge-ai-processor-to-the-celus-design-platform)
+**Published:** Wed, 22 Jul 2026 17:48:32 +0000
+
+<p>Strategic collaboration will soon give engineers direct access to BrainChip’s AKD1500 architecture through CELUS’s AI-guided design tools for device design.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/brainchip-partners-with-celus-to-bring-its-neuromorphic-edge-ai-processor-to-the-celus-design-platform/">BrainChip Partners with Celus to Bring Its Neuromorphic Edge AI Processor to the CELUS Design Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Ambiq and ChipAgents Collaborate to Advance Agentic AI for Semiconductor Engineering](https://www.semiconductor-digest.com/ambiq-and-chipagents-collaborate-to-advance-agentic-ai-for-semiconductor-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=ambiq-and-chipagents-collaborate-to-advance-agentic-ai-for-semiconductor-engineering)
 **Published:** Wed, 22 Jul 2026 17:08:46 +0000
 
@@ -67,22 +83,6 @@ _Last updated: 2026-07-22 17:33 UTC_
 
 <p>Project completed three months ahead of schedule, supporting one of Europe’s most significant semiconductor manufacturing expansions.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/gradiant-supports-landmark-semiconductor-manufacturing-expansion-in-dresden/">Gradiant Supports Landmark Semiconductor Manufacturing Expansion in Dresden</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Innolume Selects Veeco Gen2000 MBE System to Expand Quantum Dot Laser Production](https://www.semiconductor-digest.com/innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production/?utm_source=rss&utm_medium=rss&utm_campaign=innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production)
-**Published:** Tue, 21 Jul 2026 13:40:07 +0000
-
-<p>The investment supports the increasing demand for optical connectivity solutions for hyperscale AI infrastructure and cloud data centers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production/">Innolume Selects Veeco Gen2000 MBE System to Expand Quantum Dot Laser Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [xMEMS Launches the World’s Smallest Active Micro Fan to Break the Thermal Wall in Smart Glasses](https://www.semiconductor-digest.com/xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses/?utm_source=rss&utm_medium=rss&utm_campaign=xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses)
-**Published:** Tue, 21 Jul 2026 13:37:50 +0000
-
-<p>XMC-1200, the industry’s solid-state µCooling chip enables targeted cooling for AR/XR light engines, processors, and other components in smart glasses.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses/">xMEMS Launches the World’s Smallest Active Micro Fan to Break the Thermal Wall in Smart Glasses</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
