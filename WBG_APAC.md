@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-23 02:56 UTC_
+_Last updated: 2026-07-23 11:22 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,22 +19,6 @@ _Last updated: 2026-07-23 02:56 UTC_
 
 <p>PSECE 2026 will spotlight ASEAN collaboration, resilient supply chains, innovation and workforce development during the Philippines' Chairship.</p>
 <p>The post <a href="https://www.eetasia.com/philippines-asean-chairship-elevates-psece-2026-with-stronger-regional-semiconductor-collaboration/">Philippines&#8217; ASEAN Chairship Elevates PSECE 2026 with Stronger Regional Semiconductor Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [LG Chem Enters Semiconductor Stripper Market with First Mass-production Supply to Amkor](https://www.eetasia.com/lg-chem-enters-semiconductor-stripper-market-with-first-mass-production-supply-to-amkor/)
-**Published:** Tue, 21 Jul 2026 02:37:20 +0000
-
-<p>LG Chem begins supplying semiconductor strippers to Amkor, expanding its advanced packaging materials portfolio amid rising AI demand.</p>
-<p>The post <a href="https://www.eetasia.com/lg-chem-enters-semiconductor-stripper-market-with-first-mass-production-supply-to-amkor/">LG Chem Enters Semiconductor Stripper Market with First Mass-production Supply to Amkor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [JEDEC’s SPHBM4 Standard Brings HBM4-class Performance to Organic Substrate-based AI Systems](https://www.eetasia.com/jedecs-sphbm4-standard-brings-hbm4-class-performance-to-organic-substrate-based-ai-systems/)
-**Published:** Tue, 21 Jul 2026 02:34:31 +0000
-
-<p>JEDEC introduces SPHBM4, enabling HBM4-class bandwidth on organic substrates for more scalable and cost-effective AI memory architectures.</p>
-<p>The post <a href="https://www.eetasia.com/jedecs-sphbm4-standard-brings-hbm4-class-performance-to-organic-substrate-based-ai-systems/">JEDEC&#8217;s SPHBM4 Standard Brings HBM4-class Performance to Organic Substrate-based AI Systems</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +67,22 @@ _Last updated: 2026-07-23 02:56 UTC_
 
 <p>Project completed three months ahead of schedule, supporting one of Europe’s most significant semiconductor manufacturing expansions.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/gradiant-supports-landmark-semiconductor-manufacturing-expansion-in-dresden/">Gradiant Supports Landmark Semiconductor Manufacturing Expansion in Dresden</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Innolume Selects Veeco Gen2000 MBE System to Expand Quantum Dot Laser Production](https://www.semiconductor-digest.com/innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production/?utm_source=rss&utm_medium=rss&utm_campaign=innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production)
+**Published:** Tue, 21 Jul 2026 13:40:07 +0000
+
+<p>The investment supports the increasing demand for optical connectivity solutions for hyperscale AI infrastructure and cloud data centers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production/">Innolume Selects Veeco Gen2000 MBE System to Expand Quantum Dot Laser Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [xMEMS Launches the World’s Smallest Active Micro Fan to Break the Thermal Wall in Smart Glasses](https://www.semiconductor-digest.com/xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses/?utm_source=rss&utm_medium=rss&utm_campaign=xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses)
+**Published:** Tue, 21 Jul 2026 13:37:50 +0000
+
+<p>XMC-1200, the industry’s solid-state µCooling chip enables targeted cooling for AR/XR light engines, processors, and other components in smart glasses.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses/">xMEMS Launches the World’s Smallest Active Micro Fan to Break the Thermal Wall in Smart Glasses</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
