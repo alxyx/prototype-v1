@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-22 23:16 UTC_
+_Last updated: 2026-07-23 02:56 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [GaN Moves to Center of AI Data Center Power Architectures](https://www.eetasia.com/gan-moves-to-center-of-ai-data-center-power-architectures/)
+**Published:** Thu, 23 Jul 2026 02:36:46 +0000
+
+<p>Rising AI power demands are pushing data center designers toward GaN-based power conversion for higher efficiency and density.</p>
+<p>The post <a href="https://www.eetasia.com/gan-moves-to-center-of-ai-data-center-power-architectures/">GaN Moves to Center of AI Data Center Power Architectures</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Philippines’ ASEAN Chairship Elevates PSECE 2026 with Stronger Regional Semiconductor Collaboration](https://www.eetasia.com/philippines-asean-chairship-elevates-psece-2026-with-stronger-regional-semiconductor-collaboration/)
+**Published:** Thu, 23 Jul 2026 02:28:29 +0000
+
+<p>PSECE 2026 will spotlight ASEAN collaboration, resilient supply chains, innovation and workforce development during the Philippines' Chairship.</p>
+<p>The post <a href="https://www.eetasia.com/philippines-asean-chairship-elevates-psece-2026-with-stronger-regional-semiconductor-collaboration/">Philippines&#8217; ASEAN Chairship Elevates PSECE 2026 with Stronger Regional Semiconductor Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -19,22 +35,6 @@ _Last updated: 2026-07-22 23:16 UTC_
 
 <p>JEDEC introduces SPHBM4, enabling HBM4-class bandwidth on organic substrates for more scalable and cost-effective AI memory architectures.</p>
 <p>The post <a href="https://www.eetasia.com/jedecs-sphbm4-standard-brings-hbm4-class-performance-to-organic-substrate-based-ai-systems/">JEDEC&#8217;s SPHBM4 Standard Brings HBM4-class Performance to Organic Substrate-based AI Systems</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Precision Under Pressure: Ensuring Quality in a Globalized and Miniaturized Semiconductor Industry](https://www.eetasia.com/precision-under-pressure-ensuring-quality-in-a-globalized-and-miniaturized-semiconductor-industry/)
-**Published:** Tue, 21 Jul 2026 02:14:01 +0000
-
-<p>Here is why distributed semiconductor manufacturing and miniaturization demand next-generation sensors solutions.</p>
-<p>The post <a href="https://www.eetasia.com/precision-under-pressure-ensuring-quality-in-a-globalized-and-miniaturized-semiconductor-industry/">Precision Under Pressure: Ensuring Quality in a Globalized and Miniaturized Semiconductor Industry</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SEIPI, Government Step Up Efforts to Clear NAIA Cargo Backlog Affecting Electronics Production](https://www.eetasia.com/seipi-government-step-up-efforts-to-clear-naia-cargo-backlog-affecting-electronics-production/)
-**Published:** Mon, 20 Jul 2026 09:01:07 +0000
-
-<p>SEIPI coordinates with government agencies to accelerate critical cargo releases as NAIA congestion disrupts semiconductor manufacturing operations.</p>
-<p>The post <a href="https://www.eetasia.com/seipi-government-step-up-efforts-to-clear-naia-cargo-backlog-affecting-electronics-production/">SEIPI, Government Step Up Efforts to Clear NAIA Cargo Backlog Affecting Electronics Production</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
