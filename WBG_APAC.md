@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-23 17:49 UTC_
+_Last updated: 2026-07-23 19:29 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,38 @@ _Last updated: 2026-07-23 17:49 UTC_
 
 <p>PSECE 2026 will spotlight ASEAN collaboration, resilient supply chains, innovation and workforce development during the Philippines' Chairship.</p>
 <p>The post <a href="https://www.eetasia.com/philippines-asean-chairship-elevates-psece-2026-with-stronger-regional-semiconductor-collaboration/">Philippines&#8217; ASEAN Chairship Elevates PSECE 2026 with Stronger Regional Semiconductor Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Primis AI Becomes ChipNexus and Launches NEX for Agentic Chip-Design Automation](https://www.semiconductor-digest.com/primis-ai-becomes-chipnexus-and-launches-nex-for-agentic-chip-design-automation/?utm_source=rss&utm_medium=rss&utm_campaign=primis-ai-becomes-chipnexus-and-launches-nex-for-agentic-chip-design-automation)
+**Published:** Thu, 23 Jul 2026 19:12:04 +0000
+
+<p>New identity reflects the company’s expansion from AI-assisted code generation to multi-step semiconductor engineering workflows; seed round supports enterprise growth.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/primis-ai-becomes-chipnexus-and-launches-nex-for-agentic-chip-design-automation/">Primis AI Becomes ChipNexus and Launches NEX for Agentic Chip-Design Automation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The Next Evolution of AI Infrastructure: Inside the Architecture Powering the AI Factory Era](https://www.semiconductor-digest.com/the-next-evolution-of-ai-infrastructure-inside-the-architecture-powering-the-ai-factory-era/?utm_source=rss&utm_medium=rss&utm_campaign=the-next-evolution-of-ai-infrastructure-inside-the-architecture-powering-the-ai-factory-era)
+**Published:** Thu, 23 Jul 2026 19:08:59 +0000
+
+<p>As AI infrastructure evolves, Lenovo is helping shape the next generation of AI factories through its collaboration on the AMD Helios™ rack-scale solution, designed for hyperscalers and NeoCloud providers building AI at scale.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-next-evolution-of-ai-infrastructure-inside-the-architecture-powering-the-ai-factory-era/">The Next Evolution of AI Infrastructure: Inside the Architecture Powering the AI Factory Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [FAMES Pilot Line & SiNANO Institute to Present FAMES’ Latest  Technical Results at ESSERC 2026 in Palma de Mallorca, Spain](https://www.semiconductor-digest.com/fames-pilot-line-sinano-institute-to-present-fames-latest-technical-results-at-esserc-2026-in-palma-de-mallorca-spain/?utm_source=rss&utm_medium=rss&utm_campaign=fames-pilot-line-sinano-institute-to-present-fames-latest-technical-results-at-esserc-2026-in-palma-de-mallorca-spain)
+**Published:** Thu, 23 Jul 2026 18:56:14 +0000
+
+<p>Sept. 7, 2026 workshop will feature comprehensive technical update, spanning advanced FD-SOI nodes, embedded memories, RF filters, 3D integration and power management ICs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/fames-pilot-line-sinano-institute-to-present-fames-latest-technical-results-at-esserc-2026-in-palma-de-mallorca-spain/">FAMES Pilot Line &#038; SiNANO Institute to Present FAMES&#8217; Latest  Technical Results at ESSERC 2026 in Palma de Mallorca, Spain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens to Acquire Defacto Technologies](https://www.semiconductor-digest.com/siemens-to-acquire-defacto-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-to-acquire-defacto-technologies)
+**Published:** Thu, 23 Jul 2026 18:35:34 +0000
+
+<p>Acquisition extends Siemens' electronic design automation (EDA) portfolio across the system‑on‑a‑chip (SoC) design lifecycle.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-to-acquire-defacto-technologies/">Siemens to Acquire Defacto Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -51,38 +83,6 @@ _Last updated: 2026-07-23 17:49 UTC_
 
 <p>The collaboration aims to accelerate the discovery and experimental validation of new materials across semiconductors, carbon capture, and advanced electronics. The first discovery project is now under way.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/cuspai-and-astar-announce-five-year-partnership/">CuspAI and A*STAR Announce Five-Year Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan](https://www.semiconductor-digest.com/air-products-to-expand-integrated-gas-supply-network-for-semiconductor-manufacturer-in-taiwan/?utm_source=rss&utm_medium=rss&utm_campaign=air-products-to-expand-integrated-gas-supply-network-for-semiconductor-manufacturer-in-taiwan)
-**Published:** Tue, 21 Jul 2026 13:52:30 +0000
-
-<p>The project will supply multiple new semiconductor fabs and back-end packaging facilities, supporting growing demand driven by artificial intelligence and high-performance computing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/air-products-to-expand-integrated-gas-supply-network-for-semiconductor-manufacturer-in-taiwan/">Air Products to Expand Integrated Gas Supply Network for Semiconductor Manufacturer in Taiwan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Gradiant Supports Landmark Semiconductor Manufacturing Expansion in Dresden](https://www.semiconductor-digest.com/gradiant-supports-landmark-semiconductor-manufacturing-expansion-in-dresden/?utm_source=rss&utm_medium=rss&utm_campaign=gradiant-supports-landmark-semiconductor-manufacturing-expansion-in-dresden)
-**Published:** Tue, 21 Jul 2026 13:47:24 +0000
-
-<p>Project completed three months ahead of schedule, supporting one of Europe’s most significant semiconductor manufacturing expansions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/gradiant-supports-landmark-semiconductor-manufacturing-expansion-in-dresden/">Gradiant Supports Landmark Semiconductor Manufacturing Expansion in Dresden</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Innolume Selects Veeco Gen2000 MBE System to Expand Quantum Dot Laser Production](https://www.semiconductor-digest.com/innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production/?utm_source=rss&utm_medium=rss&utm_campaign=innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production)
-**Published:** Tue, 21 Jul 2026 13:40:07 +0000
-
-<p>The investment supports the increasing demand for optical connectivity solutions for hyperscale AI infrastructure and cloud data centers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/innolume-selects-veeco-gen2000-mbe-system-to-expand-quantum-dot-laser-production/">Innolume Selects Veeco Gen2000 MBE System to Expand Quantum Dot Laser Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [xMEMS Launches the World’s Smallest Active Micro Fan to Break the Thermal Wall in Smart Glasses](https://www.semiconductor-digest.com/xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses/?utm_source=rss&utm_medium=rss&utm_campaign=xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses)
-**Published:** Tue, 21 Jul 2026 13:37:50 +0000
-
-<p>XMC-1200, the industry’s solid-state µCooling chip enables targeted cooling for AR/XR light engines, processors, and other components in smart glasses.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/xmems-launches-the-worlds-smallest-active-micro-fan-to-break-the-thermal-wall-in-smart-glasses/">xMEMS Launches the World’s Smallest Active Micro Fan to Break the Thermal Wall in Smart Glasses</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
