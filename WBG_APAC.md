@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-24 18:32 UTC_
+_Last updated: 2026-07-24 20:32 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,46 @@ _Last updated: 2026-07-24 18:32 UTC_
 
 <p>PSECE 2026 will spotlight ASEAN collaboration, resilient supply chains, innovation and workforce development during the Philippines' Chairship.</p>
 <p>The post <a href="https://www.eetasia.com/philippines-asean-chairship-elevates-psece-2026-with-stronger-regional-semiconductor-collaboration/">Philippines&#8217; ASEAN Chairship Elevates PSECE 2026 with Stronger Regional Semiconductor Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Primis AI Becomes ChipNexus and Launches NEX for Agentic Chip-Design Automation](https://www.semiconductor-digest.com/primis-ai-becomes-chipnexus-and-launches-nex-for-agentic-chip-design-automation-2/?utm_source=rss&utm_medium=rss&utm_campaign=primis-ai-becomes-chipnexus-and-launches-nex-for-agentic-chip-design-automation-2)
+**Published:** Fri, 24 Jul 2026 19:40:55 +0000
+
+<p>New identity reflects the company’s expansion from AI-assisted code generation to multi-step semiconductor engineering workflows; seed round supports enterprise growth.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/primis-ai-becomes-chipnexus-and-launches-nex-for-agentic-chip-design-automation-2/">Primis AI Becomes ChipNexus and Launches NEX for Agentic Chip-Design Automation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Qnity Appoints Kate Dei Cas President of Semiconductor Technologies Segment](https://www.semiconductor-digest.com/qnity-appoints-kate-dei-cas-president-of-semiconductor-technologies-segment/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-appoints-kate-dei-cas-president-of-semiconductor-technologies-segment)
+**Published:** Fri, 24 Jul 2026 19:38:39 +0000
+
+<p>Qnity Electronics, Inc., a technology solutions leader across the semiconductor value chain, today announced that it has appointed Katherine (Kate) Dei Cas as President of its Semiconductor Technologies business segment, effective August 3.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/qnity-appoints-kate-dei-cas-president-of-semiconductor-technologies-segment/">Qnity Appoints Kate Dei Cas President of Semiconductor Technologies Segment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ZEISS SMT Expands Capacity For the Future of the Semiconductor Industry](https://www.semiconductor-digest.com/zeiss-smt-expands-capacity-for-the-future-of-the-semiconductor-industry/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-smt-expands-capacity-for-the-future-of-the-semiconductor-industry)
+**Published:** Fri, 24 Jul 2026 19:33:56 +0000
+
+<p>To reliably support customers worldwide in the future, ZEISS Semiconductor Manufacturing Technology (SMT) is strategically expanding its capacity.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/zeiss-smt-expands-capacity-for-the-future-of-the-semiconductor-industry/">ZEISS SMT Expands Capacity For the Future of the Semiconductor Industry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Mind the (Band)gap! The Evolving Power Electronics Materials Landscape](https://www.semiconductor-digest.com/mind-the-bandgap-the-evolving-power-electronics-materials-landscape/?utm_source=rss&utm_medium=rss&utm_campaign=mind-the-bandgap-the-evolving-power-electronics-materials-landscape)
+**Published:** Fri, 24 Jul 2026 19:29:48 +0000
+
+<p>IDTechEx expects the power electronics market to grow to US$65.2 billion by 2036, representing a CAGR of 10% over the forecasting period.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/mind-the-bandgap-the-evolving-power-electronics-materials-landscape/">Mind the (Band)gap! The Evolving Power Electronics Materials Landscape</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [V-GaN Tech Hub Opens New Test and Characterization Facility to Accelerate Microelectronics from Lab to Fab](https://www.semiconductor-digest.com/v-gan-tech-hub-opens-new-test-and-characterization-facility-to-accelerate-microelectronics-from-lab-to-fab/?utm_source=rss&utm_medium=rss&utm_campaign=v-gan-tech-hub-opens-new-test-and-characterization-facility-to-accelerate-microelectronics-from-lab-to-fab)
+**Published:** Fri, 24 Jul 2026 19:25:30 +0000
+
+<p>The Vermont Gallium Nitride (V-GaN) Tech Hub has officially opened a new Test and Characterization Facility (TCL), a major addition to the nation’s growing microelectronics innovation ecosystem and a critical resource for accelerating the transition of advanced semiconductor technologies from development to commercial deployment.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/v-gan-tech-hub-opens-new-test-and-characterization-facility-to-accelerate-microelectronics-from-lab-to-fab/">V-GaN Tech Hub Opens New Test and Characterization Facility to Accelerate Microelectronics from Lab to Fab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -43,46 +83,6 @@ _Last updated: 2026-07-24 18:32 UTC_
 
 <p>New identity reflects the company’s expansion from AI-assisted code generation to multi-step semiconductor engineering workflows; seed round supports enterprise growth.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/primis-ai-becomes-chipnexus-and-launches-nex-for-agentic-chip-design-automation/">Primis AI Becomes ChipNexus and Launches NEX for Agentic Chip-Design Automation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The Next Evolution of AI Infrastructure: Inside the Architecture Powering the AI Factory Era](https://www.semiconductor-digest.com/the-next-evolution-of-ai-infrastructure-inside-the-architecture-powering-the-ai-factory-era/?utm_source=rss&utm_medium=rss&utm_campaign=the-next-evolution-of-ai-infrastructure-inside-the-architecture-powering-the-ai-factory-era)
-**Published:** Thu, 23 Jul 2026 19:08:59 +0000
-
-<p>As AI infrastructure evolves, Lenovo is helping shape the next generation of AI factories through its collaboration on the AMD Helios™ rack-scale solution, designed for hyperscalers and NeoCloud providers building AI at scale.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-next-evolution-of-ai-infrastructure-inside-the-architecture-powering-the-ai-factory-era/">The Next Evolution of AI Infrastructure: Inside the Architecture Powering the AI Factory Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [FAMES Pilot Line & SiNANO Institute to Present FAMES’ Latest  Technical Results at ESSERC 2026 in Palma de Mallorca, Spain](https://www.semiconductor-digest.com/fames-pilot-line-sinano-institute-to-present-fames-latest-technical-results-at-esserc-2026-in-palma-de-mallorca-spain/?utm_source=rss&utm_medium=rss&utm_campaign=fames-pilot-line-sinano-institute-to-present-fames-latest-technical-results-at-esserc-2026-in-palma-de-mallorca-spain)
-**Published:** Thu, 23 Jul 2026 18:56:14 +0000
-
-<p>Sept. 7, 2026 workshop will feature comprehensive technical update, spanning advanced FD-SOI nodes, embedded memories, RF filters, 3D integration and power management ICs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/fames-pilot-line-sinano-institute-to-present-fames-latest-technical-results-at-esserc-2026-in-palma-de-mallorca-spain/">FAMES Pilot Line &#038; SiNANO Institute to Present FAMES&#8217; Latest  Technical Results at ESSERC 2026 in Palma de Mallorca, Spain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Siemens to Acquire Defacto Technologies](https://www.semiconductor-digest.com/siemens-to-acquire-defacto-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-to-acquire-defacto-technologies)
-**Published:** Thu, 23 Jul 2026 18:35:34 +0000
-
-<p>Acquisition extends Siemens' electronic design automation (EDA) portfolio across the system‑on‑a‑chip (SoC) design lifecycle.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-to-acquire-defacto-technologies/">Siemens to Acquire Defacto Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AI and Quantum Chemistry Identify Efficient Blue OLED Materials](https://www.semiconductor-digest.com/ai-and-quantum-chemistry-identify-efficient-blue-oled-materials/?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-quantum-chemistry-identify-efficient-blue-oled-materials)
-**Published:** Wed, 22 Jul 2026 17:52:41 +0000
-
-<p>Researchers designed an end-to-end workflow from molecular design to blue OLED device fabrication and evaluation.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ai-and-quantum-chemistry-identify-efficient-blue-oled-materials/">AI and Quantum Chemistry Identify Efficient Blue OLED Materials</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [BrainChip Partners with Celus to Bring Its Neuromorphic Edge AI Processor to the CELUS Design Platform](https://www.semiconductor-digest.com/brainchip-partners-with-celus-to-bring-its-neuromorphic-edge-ai-processor-to-the-celus-design-platform/?utm_source=rss&utm_medium=rss&utm_campaign=brainchip-partners-with-celus-to-bring-its-neuromorphic-edge-ai-processor-to-the-celus-design-platform)
-**Published:** Wed, 22 Jul 2026 17:48:32 +0000
-
-<p>Strategic collaboration will soon give engineers direct access to BrainChip’s AKD1500 architecture through CELUS’s AI-guided design tools for device design.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/brainchip-partners-with-celus-to-bring-its-neuromorphic-edge-ai-processor-to-the-celus-design-platform/">BrainChip Partners with Celus to Bring Its Neuromorphic Edge AI Processor to the CELUS Design Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
