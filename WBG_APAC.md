@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-23 19:29 UTC_
+_Last updated: 2026-07-24 07:48 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,22 @@ _Last updated: 2026-07-23 19:29 UTC_
 
 <p>PSECE 2026 will spotlight ASEAN collaboration, resilient supply chains, innovation and workforce development during the Philippines' Chairship.</p>
 <p>The post <a href="https://www.eetasia.com/philippines-asean-chairship-elevates-psece-2026-with-stronger-regional-semiconductor-collaboration/">Philippines&#8217; ASEAN Chairship Elevates PSECE 2026 with Stronger Regional Semiconductor Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [IBM to Acquire HRL Laboratories](https://www.semiconductor-digest.com/ibm-to-acquire-hrl-laboratories/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-to-acquire-hrl-laboratories)
+**Published:** Thu, 23 Jul 2026 19:21:16 +0000
+
+<p>IBM today announced it has signed a definitive agreement to acquire HRL Laboratories, LLC, a flagship research and development institution.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ibm-to-acquire-hrl-laboratories/">IBM to Acquire HRL Laboratories</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Elio Raises $21M to Build Sensing for the AI Era](https://www.semiconductor-digest.com/elio-raises-21m-to-build-sensing-for-the-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=elio-raises-21m-to-build-sensing-for-the-ai-era)
+**Published:** Thu, 23 Jul 2026 19:17:23 +0000
+
+<p>Elio, a company building sensors designed for artificial intelligence rather than the human eye, today announced a $21 million funding round.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/elio-raises-21m-to-build-sensing-for-the-ai-era/">Elio Raises $21M to Build Sensing for the AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-07-23 19:29 UTC_
 
 <p>Strategic collaboration will soon give engineers direct access to BrainChip’s AKD1500 architecture through CELUS’s AI-guided design tools for device design.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/brainchip-partners-with-celus-to-bring-its-neuromorphic-edge-ai-processor-to-the-celus-design-platform/">BrainChip Partners with Celus to Bring Its Neuromorphic Edge AI Processor to the CELUS Design Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Ambiq and ChipAgents Collaborate to Advance Agentic AI for Semiconductor Engineering](https://www.semiconductor-digest.com/ambiq-and-chipagents-collaborate-to-advance-agentic-ai-for-semiconductor-engineering/?utm_source=rss&utm_medium=rss&utm_campaign=ambiq-and-chipagents-collaborate-to-advance-agentic-ai-for-semiconductor-engineering)
-**Published:** Wed, 22 Jul 2026 17:08:46 +0000
-
-<p>Edge AI semiconductor leader expands use of ChipAgents' agentic AI platform to accelerate ultra-low power chip design and verification.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ambiq-and-chipagents-collaborate-to-advance-agentic-ai-for-semiconductor-engineering/">Ambiq and ChipAgents Collaborate to Advance Agentic AI for Semiconductor Engineering</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [CuspAI and A*STAR Announce Five-Year Partnership](https://www.semiconductor-digest.com/cuspai-and-astar-announce-five-year-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=cuspai-and-astar-announce-five-year-partnership)
-**Published:** Wed, 22 Jul 2026 17:05:30 +0000
-
-<p>The collaboration aims to accelerate the discovery and experimental validation of new materials across semiconductors, carbon capture, and advanced electronics. The first discovery project is now under way.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cuspai-and-astar-announce-five-year-partnership/">CuspAI and A*STAR Announce Five-Year Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
