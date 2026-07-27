@@ -1,24 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-26 23:18 UTC_
+_Last updated: 2026-07-27 10:56 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
 ---
 
-## [GaN Moves to Center of AI Data Center Power Architectures](https://www.eetasia.com/gan-moves-to-center-of-ai-data-center-power-architectures/)
-**Published:** Thu, 23 Jul 2026 02:36:46 +0000
+## [Global PC Shipments Down for First Time Since 1Q 2025 Amid Memory Crunch](https://www.eetasia.com/global-pc-shipments-down-for-first-time-since-1q-2025-amid-memory-crunch/)
+**Published:** Mon, 27 Jul 2026 02:56:52 +0000
 
-<p>Rising AI power demands are pushing data center designers toward GaN-based power conversion for higher efficiency and density.</p>
-<p>The post <a href="https://www.eetasia.com/gan-moves-to-center-of-ai-data-center-power-architectures/">GaN Moves to Center of AI Data Center Power Architectures</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The global PC industry broke its shipment growth trend that began in 1Q 2025 amid rising component costs, particularly for memory.</p>
+<p>The post <a href="https://www.eetasia.com/global-pc-shipments-down-for-first-time-since-1q-2025-amid-memory-crunch/">Global PC Shipments Down for First Time Since 1Q 2025 Amid Memory Crunch</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
-## [Philippines’ ASEAN Chairship Elevates PSECE 2026 with Stronger Regional Semiconductor Collaboration](https://www.eetasia.com/philippines-asean-chairship-elevates-psece-2026-with-stronger-regional-semiconductor-collaboration/)
-**Published:** Thu, 23 Jul 2026 02:28:29 +0000
+## [AI Infrastructure Shifts Data Centers into Chip Industry’s Next Strategic Battleground](https://www.eetasia.com/ai-infrastructure-shifts-data-centers-into-chip-industrys-next-strategic-battleground/)
+**Published:** Mon, 27 Jul 2026 02:18:35 +0000
 
-<p>PSECE 2026 will spotlight ASEAN collaboration, resilient supply chains, innovation and workforce development during the Philippines' Chairship.</p>
-<p>The post <a href="https://www.eetasia.com/philippines-asean-chairship-elevates-psece-2026-with-stronger-regional-semiconductor-collaboration/">Philippines&#8217; ASEAN Chairship Elevates PSECE 2026 with Stronger Regional Semiconductor Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>AI is transforming data centers into infrastructure platforms where power, cooling, and semiconductors determine scalability.</p>
+<p>The post <a href="https://www.eetasia.com/ai-infrastructure-shifts-data-centers-into-chip-industrys-next-strategic-battleground/">AI Infrastructure Shifts Data Centers into Chip Industry&#8217;s Next Strategic Battleground</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
