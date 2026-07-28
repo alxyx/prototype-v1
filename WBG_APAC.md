@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-27 20:35 UTC_
+_Last updated: 2026-07-28 04:22 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Synopsys, Intel Foundry Expand AI-powered EDA Collaboration for Intel 14A](https://www.eetasia.com/synopsys-intel-foundry-expand-ai-powered-eda-collaboration-for-intel-14a/)
+**Published:** Tue, 28 Jul 2026 02:44:59 +0000
+
+<p>Synopsys and Intel Foundry advance Intel 14A readiness with AI-driven design tools, multiphysics analysis, and expanded IP.</p>
+<p>The post <a href="https://www.eetasia.com/synopsys-intel-foundry-expand-ai-powered-eda-collaboration-for-intel-14a/">Synopsys, Intel Foundry Expand AI-powered EDA Collaboration for Intel 14A</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Power Electronics Market Entering New Growth Phase](https://www.eetasia.com/power-electronics-market-entering-new-growth-phase/)
+**Published:** Tue, 28 Jul 2026 02:06:13 +0000
+
+<p>Electric vehicles and AI data centers are reshaping demand for silicon carbide (SiC) and gallium nitride (GaN) power technologies globally.</p>
+<p>The post <a href="https://www.eetasia.com/power-electronics-market-entering-new-growth-phase/">Power Electronics Market Entering New Growth Phase</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-07-27 20:35 UTC_
 
 <p>Hong Kong’s merchandise exports rose by 53.4% year on year to HK$641.1 billion in June 2026, according to data released today by the Census and Statistics Department.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ai-driven-demand-sustains-robust-growth-of-hong-kongs-june-exports/">AI-driven Demand Sustains Robust Growth of Hong Kong&#8217;s June Exports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Keysight Certifies Electromagnetic Design Software for Intel Foundry’s Latest Processes](https://www.semiconductor-digest.com/keysight-certifies-electromagnetic-design-software-for-intel-foundrys-latest-processes/?utm_source=rss&utm_medium=rss&utm_campaign=keysight-certifies-electromagnetic-design-software-for-intel-foundrys-latest-processes)
-**Published:** Mon, 27 Jul 2026 16:01:26 +0000
-
-<p>Design teams get a proven path to first-pass silicon success on Intel 14A and Intel 18A-P.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/keysight-certifies-electromagnetic-design-software-for-intel-foundrys-latest-processes/">Keysight Certifies Electromagnetic Design Software for Intel Foundry’s Latest Processes</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Primis AI Becomes ChipNexus and Launches NEX for Agentic Chip-Design Automation](https://www.semiconductor-digest.com/primis-ai-becomes-chipnexus-and-launches-nex-for-agentic-chip-design-automation-2/?utm_source=rss&utm_medium=rss&utm_campaign=primis-ai-becomes-chipnexus-and-launches-nex-for-agentic-chip-design-automation-2)
-**Published:** Fri, 24 Jul 2026 19:40:55 +0000
-
-<p>New identity reflects the company’s expansion from AI-assisted code generation to multi-step semiconductor engineering workflows; seed round supports enterprise growth.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/primis-ai-becomes-chipnexus-and-launches-nex-for-agentic-chip-design-automation-2/">Primis AI Becomes ChipNexus and Launches NEX for Agentic Chip-Design Automation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
