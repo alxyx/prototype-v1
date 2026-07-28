@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-28 21:21 UTC_
+_Last updated: 2026-07-28 23:13 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -35,6 +35,14 @@ _Last updated: 2026-07-28 21:21 UTC_
 
 <p>AI is transforming data centers into infrastructure platforms where power, cooling, and semiconductors determine scalability.</p>
 <p>The post <a href="https://www.eetasia.com/ai-infrastructure-shifts-data-centers-into-chip-industrys-next-strategic-battleground/">AI Infrastructure Shifts Data Centers into Chip Industry&#8217;s Next Strategic Battleground</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Beyond Human Intuition: Algorithms Create Foundry-Ready Photonic Circuits](https://www.semiconductor-digest.com/beyond-human-intuition-algorithms-create-foundry-ready-photonic-circuits/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-human-intuition-algorithms-create-foundry-ready-photonic-circuits)
+**Published:** Tue, 28 Jul 2026 21:09:15 +0000
+
+<p>Photonic microchips can process data at extremely high speeds and are embedded in a wide variety of today’s technologies. Researchers at the Max Planck Institute for the Science of Light (MPL) and Harvard University have now succeeded in developing three functional components for such chips that are up to 500 times smaller than conventional designs. The researchers used inverse design, a computer algorithm, to achieve this. The results were recently published in Nature Communications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/beyond-human-intuition-algorithms-create-foundry-ready-photonic-circuits/">Beyond Human Intuition: Algorithms Create Foundry-Ready Photonic Circuits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-07-28 21:21 UTC_
 
 <p>A new concept from Warwick researchers could help solve one of the biggest challenges to building large-scale quantum computers: enabling communication between quantum bits (qubits) over long distances across a single chip.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/new-quantum-material-and-chip-architecture-tackle-a-key-barrier-to-scaling-quantum-computers-towards-1m-qubits/">New Quantum Material and Chip Architecture Tackle a Key Barrier to Scaling Quantum Computers Towards 1M Qubits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Synopsys and Intel Foundry Fast-Track Customer Readiness from Silicon to Systems on Intel 14A](https://www.semiconductor-digest.com/synopsys-and-intel-foundry-fast-track-customer-readiness-from-silicon-to-systems-on-intel-14a/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-and-intel-foundry-fast-track-customer-readiness-from-silicon-to-systems-on-intel-14a)
-**Published:** Mon, 27 Jul 2026 16:30:52 +0000
-
-<p>As AI and high-performance computing designs move beyond monolithic scaling, success requires connecting process technology with AI-powered EDA flows, multi-die design, integrated multiphysics analysis, and broad IP portfolio to accelerate system-level realization.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/synopsys-and-intel-foundry-fast-track-customer-readiness-from-silicon-to-systems-on-intel-14a/">Synopsys and Intel Foundry Fast-Track Customer Readiness from Silicon to Systems on Intel 14A</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
