@@ -1,8 +1,24 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-07-28 23:13 UTC_
+_Last updated: 2026-07-29 07:55 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Electronics & Semiconductor Assembly Robotics Market to Hit $17B by 2036](https://www.eetasia.com/electronics-semiconductor-assembly-robotics-market-to-hit-17b-by-2036/)
+**Published:** Wed, 29 Jul 2026 02:20:04 +0000
+
+<p>Growing semiconductor investments and smart factory adoption are accelerating demand for precision assembly robotics across global electronics manufacturing.</p>
+<p>The post <a href="https://www.eetasia.com/electronics-semiconductor-assembly-robotics-market-to-hit-17b-by-2036/">Electronics &amp; Semiconductor Assembly Robotics Market to Hit $17B by 2036</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Beyond Silicon: GaN and the Future of Heat-Resilient Power Electronics in Singapore](https://www.eetasia.com/beyond-silicon-gan-and-the-future-of-heat-resilient-power-electronics-in-singapore/)
+**Published:** Wed, 29 Jul 2026 01:59:22 +0000
+
+<p>As power densities rise, GaN technologies are reshaping thermal management and enabling more efficient, reliable power electronics systems.</p>
+<p>The post <a href="https://www.eetasia.com/beyond-silicon-gan-and-the-future-of-heat-resilient-power-electronics-in-singapore/">Beyond Silicon: GaN and the Future of Heat-Resilient Power Electronics in Singapore</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -27,14 +43,6 @@ _Last updated: 2026-07-28 23:13 UTC_
 
 <p>The global PC industry broke its shipment growth trend that began in 1Q 2025 amid rising component costs, particularly for memory.</p>
 <p>The post <a href="https://www.eetasia.com/global-pc-shipments-down-for-first-time-since-1q-2025-amid-memory-crunch/">Global PC Shipments Down for First Time Since 1Q 2025 Amid Memory Crunch</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [AI Infrastructure Shifts Data Centers into Chip Industry’s Next Strategic Battleground](https://www.eetasia.com/ai-infrastructure-shifts-data-centers-into-chip-industrys-next-strategic-battleground/)
-**Published:** Mon, 27 Jul 2026 02:18:35 +0000
-
-<p>AI is transforming data centers into infrastructure platforms where power, cooling, and semiconductors determine scalability.</p>
-<p>The post <a href="https://www.eetasia.com/ai-infrastructure-shifts-data-centers-into-chip-industrys-next-strategic-battleground/">AI Infrastructure Shifts Data Centers into Chip Industry&#8217;s Next Strategic Battleground</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-07-28 23:13 UTC_
 
 <p>The U.S. National Science Foundation's Directorate for STEM Education today announced the inaugural awards under the CyberAICorps Scholarship for Service (CyberAI SFS) program, representing a major expansion of NSF's longstanding Scholarship for Service initiative.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/nsf-announces-first-awards-to-advance-ai-and-cybersecurity-education-and-workforce-development-through-cyberaicorps-scholarship-for-service-program/">NSF Announces First Awards to Advance AI and Cybersecurity Education and Workforce Development through CyberAICorps Scholarship for Service Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New Quantum Material and Chip Architecture Tackle a Key Barrier to Scaling Quantum Computers Towards 1M Qubits](https://www.semiconductor-digest.com/new-quantum-material-and-chip-architecture-tackle-a-key-barrier-to-scaling-quantum-computers-towards-1m-qubits/?utm_source=rss&utm_medium=rss&utm_campaign=new-quantum-material-and-chip-architecture-tackle-a-key-barrier-to-scaling-quantum-computers-towards-1m-qubits)
-**Published:** Mon, 27 Jul 2026 16:43:53 +0000
-
-<p>A new concept from Warwick researchers could help solve one of the biggest challenges to building large-scale quantum computers: enabling communication between quantum bits (qubits) over long distances across a single chip.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-quantum-material-and-chip-architecture-tackle-a-key-barrier-to-scaling-quantum-computers-towards-1m-qubits/">New Quantum Material and Chip Architecture Tackle a Key Barrier to Scaling Quantum Computers Towards 1M Qubits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
