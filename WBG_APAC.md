@@ -1,6 +1,6 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-07-29 13:12 UTC_
+_Last updated: 2026-07-29 15:27 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -27,6 +27,30 @@ _Last updated: 2026-07-29 13:12 UTC_
 
 <p>Synopsys and Intel Foundry advance Intel 14A readiness with AI-driven design tools, multiphysics analysis, and expanded IP.</p>
 <p>The post <a href="https://www.eetasia.com/synopsys-intel-foundry-expand-ai-powered-eda-collaboration-for-intel-14a/">Synopsys, Intel Foundry Expand AI-powered EDA Collaboration for Intel 14A</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMI Reports Worldwide Silicon Wafer Shipments Increase 7.4% Year-on-Year in Q2 2026](https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-7-4-year-on-year-in-q2-2026/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-worldwide-silicon-wafer-shipments-increase-7-4-year-on-year-in-q2-2026)
+**Published:** Wed, 29 Jul 2026 14:58:43 +0000
+
+<p>Growth in global silicon wafer shipments driven by AI demand as industrial and automotive markets show signs of recovery.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-7-4-year-on-year-in-q2-2026/">SEMI Reports Worldwide Silicon Wafer Shipments Increase 7.4% Year-on-Year in Q2 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ChipAgents Expands Series A Funding to $134 Million as Demand Grows for Agentic AI in Semiconductor Design](https://www.semiconductor-digest.com/chipagents-expands-series-a-funding-to-134-million-as-demand-grows-for-agentic-ai-in-semiconductor-design/?utm_source=rss&utm_medium=rss&utm_campaign=chipagents-expands-series-a-funding-to-134-million-as-demand-grows-for-agentic-ai-in-semiconductor-design)
+**Published:** Wed, 29 Jul 2026 14:55:41 +0000
+
+<p>Additional $60 million Series A follows 6x increase in ARR and rapid deployment to more than 120 semiconductor companies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/chipagents-expands-series-a-funding-to-134-million-as-demand-grows-for-agentic-ai-in-semiconductor-design/">ChipAgents Expands Series A Funding to $134 Million as Demand Grows for Agentic AI in Semiconductor Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [GlobalFoundries Signs Letter of Intent with the U.S. Department of Commerce for a $300M Award to Accelerate U.S. Silicon Photonics Leadership](https://www.semiconductor-digest.com/globalfoundries-signs-letter-of-intent-with-the-u-s-department-of-commerce-for-a-300m-award-to-accelerate-u-s-silicon-photonics-leadership/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-signs-letter-of-intent-with-the-u-s-department-of-commerce-for-a-300m-award-to-accelerate-u-s-silicon-photonics-leadership)
+**Published:** Wed, 29 Jul 2026 14:53:21 +0000
+
+<p>LOI for CHIPS R&#038;D award advances the optical technologies powering AI and high-performance computing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-signs-letter-of-intent-with-the-u-s-department-of-commerce-for-a-300m-award-to-accelerate-u-s-silicon-photonics-leadership/">GlobalFoundries Signs Letter of Intent with the U.S. Department of Commerce for a $300M Award to Accelerate U.S. Silicon Photonics Leadership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-07-29 13:12 UTC_
 
 <p>The ETH Zürich spin-out is building trapped-ion processors on a novel two-dimensional architecture. The new funding will grow the team and expand its research efforts as the company works to increase the number of qubits it can put on a single chip.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/zuriq-raises-25-5m-to-scale-new-groundbreaking-2d-quantum-architecture/">ZuriQ Raises $25.5M to Scale New Groundbreaking 2D Quantum Architecture</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NSF Announces First Awards to Advance AI and Cybersecurity Education and Workforce Development through CyberAICorps Scholarship for Service Program](https://www.semiconductor-digest.com/nsf-announces-first-awards-to-advance-ai-and-cybersecurity-education-and-workforce-development-through-cyberaicorps-scholarship-for-service-program/?utm_source=rss&utm_medium=rss&utm_campaign=nsf-announces-first-awards-to-advance-ai-and-cybersecurity-education-and-workforce-development-through-cyberaicorps-scholarship-for-service-program)
-**Published:** Tue, 28 Jul 2026 20:18:43 +0000
-
-<p>The U.S. National Science Foundation's Directorate for STEM Education today announced the inaugural awards under the CyberAICorps Scholarship for Service (CyberAI SFS) program, representing a major expansion of NSF's longstanding Scholarship for Service initiative.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nsf-announces-first-awards-to-advance-ai-and-cybersecurity-education-and-workforce-development-through-cyberaicorps-scholarship-for-service-program/">NSF Announces First Awards to Advance AI and Cybersecurity Education and Workforce Development through CyberAICorps Scholarship for Service Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New Quantum Material and Chip Architecture Tackle a Key Barrier to Scaling Quantum Computers Towards 1M Qubits](https://www.semiconductor-digest.com/new-quantum-material-and-chip-architecture-tackle-a-key-barrier-to-scaling-quantum-computers-towards-1m-qubits/?utm_source=rss&utm_medium=rss&utm_campaign=new-quantum-material-and-chip-architecture-tackle-a-key-barrier-to-scaling-quantum-computers-towards-1m-qubits)
-**Published:** Mon, 27 Jul 2026 16:43:53 +0000
-
-<p>A new concept from Warwick researchers could help solve one of the biggest challenges to building large-scale quantum computers: enabling communication between quantum bits (qubits) over long distances across a single chip.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-quantum-material-and-chip-architecture-tackle-a-key-barrier-to-scaling-quantum-computers-towards-1m-qubits/">New Quantum Material and Chip Architecture Tackle a Key Barrier to Scaling Quantum Computers Towards 1M Qubits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Synopsys and Intel Foundry Fast-Track Customer Readiness from Silicon to Systems on Intel 14A](https://www.semiconductor-digest.com/synopsys-and-intel-foundry-fast-track-customer-readiness-from-silicon-to-systems-on-intel-14a/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-and-intel-foundry-fast-track-customer-readiness-from-silicon-to-systems-on-intel-14a)
-**Published:** Mon, 27 Jul 2026 16:30:52 +0000
-
-<p>As AI and high-performance computing designs move beyond monolithic scaling, success requires connecting process technology with AI-powered EDA flows, multi-die design, integrated multiphysics analysis, and broad IP portfolio to accelerate system-level realization.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/synopsys-and-intel-foundry-fast-track-customer-readiness-from-silicon-to-systems-on-intel-14a/">Synopsys and Intel Foundry Fast-Track Customer Readiness from Silicon to Systems on Intel 14A</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
