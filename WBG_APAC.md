@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-29 19:28 UTC_
+_Last updated: 2026-07-29 21:15 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
