@@ -1,32 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-29 21:15 UTC_
+_Last updated: 2026-07-30 12:04 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
 ---
 
-## [Electronics & Semiconductor Assembly Robotics Market to Hit $17B by 2036](https://www.eetasia.com/electronics-semiconductor-assembly-robotics-market-to-hit-17b-by-2036/)
-**Published:** Wed, 29 Jul 2026 02:20:04 +0000
+## [LG Innotek, TDK Partner on Physical AI Sensing Solutions for Robots](https://www.eetasia.com/lg-innotek-tdk-partner-on-physical-ai-sensing-solutions-for-robots/)
+**Published:** Thu, 30 Jul 2026 02:24:24 +0000
 
-<p>Growing semiconductor investments and smart factory adoption are accelerating demand for precision assembly robotics across global electronics manufacturing.</p>
-<p>The post <a href="https://www.eetasia.com/electronics-semiconductor-assembly-robotics-market-to-hit-17b-by-2036/">Electronics &amp; Semiconductor Assembly Robotics Market to Hit $17B by 2036</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Beyond Silicon: GaN and the Future of Heat-Resilient Power Electronics in Singapore](https://www.eetasia.com/beyond-silicon-gan-and-the-future-of-heat-resilient-power-electronics-in-singapore/)
-**Published:** Wed, 29 Jul 2026 01:59:22 +0000
-
-<p>As power densities rise, GaN technologies are reshaping thermal management and enabling more efficient, reliable power electronics systems.</p>
-<p>The post <a href="https://www.eetasia.com/beyond-silicon-gan-and-the-future-of-heat-resilient-power-electronics-in-singapore/">Beyond Silicon: GaN and the Future of Heat-Resilient Power Electronics in Singapore</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Synopsys, Intel Foundry Expand AI-powered EDA Collaboration for Intel 14A](https://www.eetasia.com/synopsys-intel-foundry-expand-ai-powered-eda-collaboration-for-intel-14a/)
-**Published:** Tue, 28 Jul 2026 02:44:59 +0000
-
-<p>Synopsys and Intel Foundry advance Intel 14A readiness with AI-driven design tools, multiphysics analysis, and expanded IP.</p>
-<p>The post <a href="https://www.eetasia.com/synopsys-intel-foundry-expand-ai-powered-eda-collaboration-for-intel-14a/">Synopsys, Intel Foundry Expand AI-powered EDA Collaboration for Intel 14A</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>LG Innotek and TDK combine sensing technologies to develop advanced vision and tactile modules for next-generation physical AI robots.</p>
+<p>The post <a href="https://www.eetasia.com/lg-innotek-tdk-partner-on-physical-ai-sensing-solutions-for-robots/">LG Innotek, TDK Partner on Physical AI Sensing Solutions for Robots</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +67,22 @@ _Last updated: 2026-07-29 21:15 UTC_
 
 <p>Photonic microchips can process data at extremely high speeds and are embedded in a wide variety of today’s technologies. Researchers at the Max Planck Institute for the Science of Light (MPL) and Harvard University have now succeeded in developing three functional components for such chips that are up to 500 times smaller than conventional designs. The researchers used inverse design, a computer algorithm, to achieve this. The results were recently published in Nature Communications.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/beyond-human-intuition-algorithms-create-foundry-ready-photonic-circuits/">Beyond Human Intuition: Algorithms Create Foundry-Ready Photonic Circuits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Micross to Acquire AEMtec](https://www.semiconductor-digest.com/micross-to-acquire-aemtec/?utm_source=rss&utm_medium=rss&utm_campaign=micross-to-acquire-aemtec)
+**Published:** Tue, 28 Jul 2026 20:26:19 +0000
+
+<p>AEMtec is a provider of complex micro- and optoelectronic modules, advanced packaging, test and assembly services for high-reliability applications, headquartered in Berlin, Germany and a portfolio company of Capiton.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micross-to-acquire-aemtec/">Micross to Acquire AEMtec</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Korean AI Startup AiBiz Cuts Semiconductor Defects with GPU-Free AI](https://www.semiconductor-digest.com/korean-ai-startup-aibiz-cuts-semiconductor-defects-with-gpu-free-ai/?utm_source=rss&utm_medium=rss&utm_campaign=korean-ai-startup-aibiz-cuts-semiconductor-defects-with-gpu-free-ai)
+**Published:** Tue, 28 Jul 2026 20:22:50 +0000
+
+<p>AiBiz's DutchBoy platform detects wafer defects in real time on CPUs alone — projecting a 3–5% yield improvement and up to $100 million in annual savings at the world's largest chipmakers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/korean-ai-startup-aibiz-cuts-semiconductor-defects-with-gpu-free-ai/">Korean AI Startup AiBiz Cuts Semiconductor Defects with GPU-Free AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
