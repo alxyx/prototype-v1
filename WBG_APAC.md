@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-07-31 14:40 UTC_
+_Last updated: 2026-07-31 18:34 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,6 +11,54 @@ _Last updated: 2026-07-31 14:40 UTC_
 
 <p>LG Innotek and TDK combine sensing technologies to develop advanced vision and tactile modules for next-generation physical AI robots.</p>
 <p>The post <a href="https://www.eetasia.com/lg-innotek-tdk-partner-on-physical-ai-sensing-solutions-for-robots/">LG Innotek, TDK Partner on Physical AI Sensing Solutions for Robots</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Muse Semiconductor and True Circuits Launch PLL IP Access Program for Universities at Low Cost](https://www.semiconductor-digest.com/muse-semiconductor-and-true-circuits-launch-pll-ip-access-program-for-universities-at-low-cost/?utm_source=rss&utm_medium=rss&utm_campaign=muse-semiconductor-and-true-circuits-launch-pll-ip-access-program-for-universities-at-low-cost)
+**Published:** Fri, 31 Jul 2026 16:51:47 +0000
+
+<p>The goal of the program is for students and faculty to conduct more impactful research by using silicon-proven commercial IP so they can focus their attention on innovating the next generation of semiconductor technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/muse-semiconductor-and-true-circuits-launch-pll-ip-access-program-for-universities-at-low-cost/">Muse Semiconductor and True Circuits Launch PLL IP Access Program for Universities at Low Cost</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [MetaOptics and Elsoft Partner to Scale Next-Generation Semiconductor Optics Manufacturing Equipment](https://www.semiconductor-digest.com/metaoptics-and-elsoft-partner-to-scale-next-generation-semiconductor-optics-manufacturing-equipment/?utm_source=rss&utm_medium=rss&utm_campaign=metaoptics-and-elsoft-partner-to-scale-next-generation-semiconductor-optics-manufacturing-equipment)
+**Published:** Fri, 31 Jul 2026 16:44:45 +0000
+
+<p>MetaOptics Ltd and Elsoft Research Berhad today jointly announced a strategic partnership to co-develop and mass produce the next generation of 12-inch large format precision, high speed metalens laser writers and leading-edge automatic testers that could sort metalens across widely applied wavelengths from visible light 425 ~ 630nm, in-frared 740 ~ 940nm and 1245 ~ 1310nm.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/metaoptics-and-elsoft-partner-to-scale-next-generation-semiconductor-optics-manufacturing-equipment/">MetaOptics and Elsoft Partner to Scale Next-Generation Semiconductor Optics Manufacturing Equipment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [IBM and The University of Chicago Demonstrate Quantum Advantage](https://www.semiconductor-digest.com/ibm-and-the-university-of-chicago-demonstrate-quantum-advantage/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-and-the-university-of-chicago-demonstrate-quantum-advantage)
+**Published:** Fri, 31 Jul 2026 16:40:51 +0000
+
+<p>Scientists used a new error correction method to encode 70 logical qubits and crack a classically intractable problem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ibm-and-the-university-of-chicago-demonstrate-quantum-advantage/">IBM and The University of Chicago Demonstrate Quantum Advantage</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Valens Semiconductor Appoints Dean Martin to Lead the Automotive Business Unit](https://www.semiconductor-digest.com/valens-semiconductor-appoints-dean-martin-to-lead-the-automotive-business-unit/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-appoints-dean-martin-to-lead-the-automotive-business-unit)
+**Published:** Fri, 31 Jul 2026 16:37:48 +0000
+
+<p>Valens Semiconductor, a provider of high-performance connectivity chipsets, today announced the appointment of Dean Martin as SVP, Head of the Automotive Business Unit, effective September 1, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-appoints-dean-martin-to-lead-the-automotive-business-unit/">Valens Semiconductor Appoints Dean Martin to Lead the Automotive Business Unit</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Renesas to Phase Out Production at Takasaki Factory](https://www.semiconductor-digest.com/renesas-to-phase-out-production-at-takasaki-factory/?utm_source=rss&utm_medium=rss&utm_campaign=renesas-to-phase-out-production-at-takasaki-factory)
+**Published:** Fri, 31 Jul 2026 16:30:38 +0000
+
+<p>Renesas also decided to maintain and strengthen its research and development (R&#038;D) functions currently located at the site, with the current location and nearby areas being considered as the primary candidate sites.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/renesas-to-phase-out-production-at-takasaki-factory/">Renesas to Phase Out Production at Takasaki Factory</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Linde to Invest $1 Billion to Support Major U.S. Semiconductor Facility Expansion](https://www.semiconductor-digest.com/linde-to-invest-1-billion-to-support-major-u-s-semiconductor-facility-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=linde-to-invest-1-billion-to-support-major-u-s-semiconductor-facility-expansion)
+**Published:** Fri, 31 Jul 2026 16:28:19 +0000
+
+<p>Linde today announced that it has been awarded a new long-term agreement to supply ultra-high-purity industrial gases to one of the world’s largest semiconductor manufacturers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/linde-to-invest-1-billion-to-support-major-u-s-semiconductor-facility-expansion/">Linde to Invest $1 Billion to Support Major U.S. Semiconductor Facility Expansion</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -35,54 +83,6 @@ _Last updated: 2026-07-31 14:40 UTC_
 
 <p>Marvell Technology, Inc. today announced plans to invest $250 million in India over the next three years to expand its capabilities across technology, talent and infrastructure.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/marvell-to-invest-250-million-in-india/">Marvell to Invest $250 Million in India</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: AI Demand Drives 94.1% Surge in Semiconductor Forecast for 2026](https://www.semiconductor-digest.com/omdia-ai-demand-drives-94-1-surge-in-semiconductor-forecast-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-ai-demand-drives-94-1-surge-in-semiconductor-forecast-for-2026)
-**Published:** Thu, 30 Jul 2026 15:41:08 +0000
-
-<p>Omdia has raised its 2026 semiconductor revenue forecast to 94.1% year-over-year (YoY), driven by exceptional growth in DRAM and NAND as AI demand continues to outpace global supply.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-ai-demand-drives-94-1-surge-in-semiconductor-forecast-for-2026/">Omdia: AI Demand Drives 94.1% Surge in Semiconductor Forecast for 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Announces New Spring Schedule for SEMICON West Beginning March 30–April 1, 2027](https://www.semiconductor-digest.com/semi-announces-new-spring-schedule-for-semicon-west-beginning-march-30-april-1-2027/?utm_source=rss&utm_medium=rss&utm_campaign=semi-announces-new-spring-schedule-for-semicon-west-beginning-march-30-april-1-2027)
-**Published:** Thu, 30 Jul 2026 15:33:36 +0000
-
-<p>SEMI, the global industry association serving the semiconductor and electronics design and manufacturing supply chain, today announced a significant evolution for SEMICON West, establishing a new annual spring schedule beginning March 30–April 1, 2027, at the Phoenix Convention Center in Phoenix, Arizona.  </p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-announces-new-spring-schedule-for-semicon-west-beginning-march-30-april-1-2027/">SEMI Announces New Spring Schedule for SEMICON West Beginning March 30–April 1, 2027</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Breaking Down Barriers: A Roadmap to Perfect Contacts in 2D Electronics](https://www.semiconductor-digest.com/breaking-down-barriers-a-roadmap-to-perfect-contacts-in-2d-electronics/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-down-barriers-a-roadmap-to-perfect-contacts-in-2d-electronics)
-**Published:** Wed, 29 Jul 2026 15:32:34 +0000
-
-<p>As two-dimensional (2D) materials emerge as leading candidates for next-generation electronics, a critical challenge remains: the quality of electrical contact with metal electrodes. A new review published in Nano Research systematically explores the dual nature of the Schottky barrier at 2D material–metal interfaces, offering a comprehensive roadmap for engineering both Ohmic and Schottky contacts to unlock the full potential of 2D devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/breaking-down-barriers-a-roadmap-to-perfect-contacts-in-2d-electronics/">Breaking Down Barriers: A Roadmap to Perfect Contacts in 2D Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [UMC Announces Fab Expansion in Singapore and Construction of New Fab in Tainan](https://www.semiconductor-digest.com/umc-announces-fab-expansion-in-singapore-and-construction-of-new-fab-in-tainan/?utm_source=rss&utm_medium=rss&utm_campaign=umc-announces-fab-expansion-in-singapore-and-construction-of-new-fab-in-tainan)
-**Published:** Wed, 29 Jul 2026 15:23:59 +0000
-
-<p>The expansion will be executed in phases, leveraging a disciplined, ROI-driven strategy to balance rapid scalability with prudent capital allocation.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/umc-announces-fab-expansion-in-singapore-and-construction-of-new-fab-in-tainan/">UMC Announces Fab Expansion in Singapore and Construction of New Fab in Tainan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Qnity Strengthens Long-Term Innovation and Advanced Packaging Roadmap](https://www.semiconductor-digest.com/qnity-strengthens-long-term-innovation-and-advanced-packaging-roadmap/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-strengthens-long-term-innovation-and-advanced-packaging-roadmap)
-**Published:** Wed, 29 Jul 2026 15:20:18 +0000
-
-<p>Qnity Electronics, Inc. today announced it is accelerating investments in next-generation technologies through access to a broad portfolio of research programs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/qnity-strengthens-long-term-innovation-and-advanced-packaging-roadmap/">Qnity Strengthens Long-Term Innovation and Advanced Packaging Roadmap</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Reports Worldwide Silicon Wafer Shipments Increase 7.4% Year-on-Year in Q2 2026](https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-7-4-year-on-year-in-q2-2026/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-worldwide-silicon-wafer-shipments-increase-7-4-year-on-year-in-q2-2026)
-**Published:** Wed, 29 Jul 2026 14:58:43 +0000
-
-<p>Growth in global silicon wafer shipments driven by AI demand as industrial and automotive markets show signs of recovery.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-7-4-year-on-year-in-q2-2026/">SEMI Reports Worldwide Silicon Wafer Shipments Increase 7.4% Year-on-Year in Q2 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
