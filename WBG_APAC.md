@@ -1,6 +1,6 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/2)
 
-_Last updated: 2026-07-30 19:38 UTC_
+_Last updated: 2026-07-31 03:01 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -14,75 +14,75 @@ _Last updated: 2026-07-30 19:38 UTC_
 
 ---
 
-## [What’s in the July/August Issue?](https://www.semiconductor-digest.com/whats-in-the-july-august-issue-2/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-july-august-issue-2)
-**Published:** Thu, 30 Jul 2026 19:24:28 +0000
+## [ST Expands STGAP3S Isolated Gate Driver Family](https://www.powerelectronicsnews.com/st-expands-stgap3s-isolated-gate-driver-family/)
+**Published:** Thu, 30 Jul 2026 14:35:40 +0000
 
-<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the July/August issue. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-july-august-issue-2/">What&#8217;s in the July/August Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Trelleborg Expands Malta Facility](https://www.semiconductor-digest.com/trelleborg-expands-malta-facility/?utm_source=rss&utm_medium=rss&utm_campaign=trelleborg-expands-malta-facility)
-**Published:** Thu, 30 Jul 2026 15:50:37 +0000
-
-<p>Trelleborg Sealing Solutions marks a key milestone in our semiconductor strategy to be a global partner for growth with the opening of an enhanced and expanded European production center in Malta.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/trelleborg-expands-malta-facility/">Trelleborg Expands Malta Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="ST Expands STGAP3S Isolated Gate Driver Family." class="webfeedsFeaturedVisual wp-post-image" height="1350" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/N4786D-Jul-29-2026-STGAP3S-gate-drivers_PR-IMAGE.png?fit=2400%2C1350" style="display: block; margin-bottom: 5px; clear: both;" width="2400" /><p>The new 3A isolated gate drivers integrate active Miller clamp to simplify high-voltage power designs using SiC MOSFETs and IGBTs.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/st-expands-stgap3s-isolated-gate-driver-family/">ST Expands STGAP3S Isolated Gate Driver Family</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [Marvell to Invest $250 Million in India](https://www.semiconductor-digest.com/marvell-to-invest-250-million-in-india/?utm_source=rss&utm_medium=rss&utm_campaign=marvell-to-invest-250-million-in-india)
-**Published:** Thu, 30 Jul 2026 15:44:46 +0000
+## [Advanced Energy Launches 1,100 W Half-Brick PFC Module](https://www.powerelectronicsnews.com/advanced-energy-launches-1100-w-half-brick-pfc-module/)
+**Published:** Thu, 30 Jul 2026 13:00:00 +0000
 
-<p>Marvell Technology, Inc. today announced plans to invest $250 million in India over the next three years to expand its capabilities across technology, talent and infrastructure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/marvell-to-invest-250-million-in-india/">Marvell to Invest $250 Million in India</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: AI Demand Drives 94.1% Surge in Semiconductor Forecast for 2026](https://www.semiconductor-digest.com/omdia-ai-demand-drives-94-1-surge-in-semiconductor-forecast-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-ai-demand-drives-94-1-surge-in-semiconductor-forecast-for-2026)
-**Published:** Thu, 30 Jul 2026 15:41:08 +0000
-
-<p>Omdia has raised its 2026 semiconductor revenue forecast to 94.1% year-over-year (YoY), driven by exceptional growth in DRAM and NAND as AI demand continues to outpace global supply.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-ai-demand-drives-94-1-surge-in-semiconductor-forecast-for-2026/">Omdia: AI Demand Drives 94.1% Surge in Semiconductor Forecast for 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="Advanced Energy Launches 1100 W Half-Brick PFC Module." class="webfeedsFeaturedVisual wp-post-image" height="3000" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/AE_PR.jpg?fit=3000%2C3000" style="display: block; margin-bottom: 5px; clear: both;" width="3000" /><p>The new AIH03ZPFC PFC module combines high efficiency, digital control and compact half-brick packaging for demanding power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/advanced-energy-launches-1100-w-half-brick-pfc-module/">Advanced Energy Launches 1,100 W Half-Brick PFC Module</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [SEMI Announces New Spring Schedule for SEMICON West Beginning March 30–April 1, 2027](https://www.semiconductor-digest.com/semi-announces-new-spring-schedule-for-semicon-west-beginning-march-30-april-1-2027/?utm_source=rss&utm_medium=rss&utm_campaign=semi-announces-new-spring-schedule-for-semicon-west-beginning-march-30-april-1-2027)
-**Published:** Thu, 30 Jul 2026 15:33:36 +0000
+## [Power Corner: Inside SemiQ’s Wafer-Level Qualification Process for SiC Power Modules](https://www.powerelectronicsnews.com/power-corner-inside-semiqs-wafer-level-qualification-process-for-sic-power-modules/)
+**Published:** Thu, 30 Jul 2026 11:00:00 +0000
 
-<p>SEMI, the global industry association serving the semiconductor and electronics design and manufacturing supply chain, today announced a significant evolution for SEMICON West, establishing a new annual spring schedule beginning March 30–April 1, 2027, at the Phoenix Convention Center in Phoenix, Arizona.  </p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-announces-new-spring-schedule-for-semicon-west-beginning-march-30-april-1-2027/">SEMI Announces New Spring Schedule for SEMICON West Beginning March 30–April 1, 2027</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Breaking Down Barriers: A Roadmap to Perfect Contacts in 2D Electronics](https://www.semiconductor-digest.com/breaking-down-barriers-a-roadmap-to-perfect-contacts-in-2d-electronics/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-down-barriers-a-roadmap-to-perfect-contacts-in-2d-electronics)
-**Published:** Wed, 29 Jul 2026 15:32:34 +0000
-
-<p>As two-dimensional (2D) materials emerge as leading candidates for next-generation electronics, a critical challenge remains: the quality of electrical contact with metal electrodes. A new review published in Nano Research systematically explores the dual nature of the Schottky barrier at 2D material–metal interfaces, offering a comprehensive roadmap for engineering both Ohmic and Schottky contacts to unlock the full potential of 2D devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/breaking-down-barriers-a-roadmap-to-perfect-contacts-in-2d-electronics/">Breaking Down Barriers: A Roadmap to Perfect Contacts in 2D Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="720" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/SemiQ-thumbnail.png?fit=1280%2C720" style="display: block; margin-bottom: 5px; clear: both;" width="1280" /><p>Description In this episode of Power Corner, Timothy Han, President of SemiQ, digs into the engineering behind the company&#8217;s QSiC Dual3 silicon carbide power module...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-corner-inside-semiqs-wafer-level-qualification-process-for-sic-power-modules/">Power Corner: Inside SemiQ&#8217;s Wafer-Level Qualification Process for SiC Power Modules</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [UMC Announces Fab Expansion in Singapore and Construction of New Fab in Tainan](https://www.semiconductor-digest.com/umc-announces-fab-expansion-in-singapore-and-construction-of-new-fab-in-tainan/?utm_source=rss&utm_medium=rss&utm_campaign=umc-announces-fab-expansion-in-singapore-and-construction-of-new-fab-in-tainan)
-**Published:** Wed, 29 Jul 2026 15:23:59 +0000
+## [TDK Launches High-Current EP21 SMD Common-Mode Chokes](https://www.powerelectronicsnews.com/tdk-launches-high-current-ep21-smd-common-mode-chokes/)
+**Published:** Wed, 29 Jul 2026 13:00:00 +0000
 
-<p>The expansion will be executed in phases, leveraging a disciplined, ROI-driven strategy to balance rapid scalability with prudent capital allocation.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/umc-announces-fab-expansion-in-singapore-and-construction-of-new-fab-in-tainan/">UMC Announces Fab Expansion in Singapore and Construction of New Fab in Tainan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Qnity Strengthens Long-Term Innovation and Advanced Packaging Roadmap](https://www.semiconductor-digest.com/qnity-strengthens-long-term-innovation-and-advanced-packaging-roadmap/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-strengthens-long-term-innovation-and-advanced-packaging-roadmap)
-**Published:** Wed, 29 Jul 2026 15:20:18 +0000
-
-<p>Qnity Electronics, Inc. today announced it is accelerating investments in next-generation technologies through access to a broad portfolio of research programs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/qnity-strengthens-long-term-innovation-and-advanced-packaging-roadmap/">Qnity Strengthens Long-Term Innovation and Advanced Packaging Roadmap</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="TDK Launches High-Current EP21 SMD Common-Mode Chokes." class="webfeedsFeaturedVisual wp-post-image" height="1200" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/260723_TDK_Press-Picture_B_Background_T003_EP21_EN_final.jpg?fit=1600%2C1200" style="display: block; margin-bottom: 5px; clear: both;" width="1600" /><p>The new flat-wire SMD chokes combine high current capability, low DC resistance and compact packaging for low-voltage EMC filtering.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/tdk-launches-high-current-ep21-smd-common-mode-chokes/">TDK Launches High-Current EP21 SMD Common-Mode Chokes</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
-## [SEMI Reports Worldwide Silicon Wafer Shipments Increase 7.4% Year-on-Year in Q2 2026](https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-7-4-year-on-year-in-q2-2026/?utm_source=rss&utm_medium=rss&utm_campaign=semi-reports-worldwide-silicon-wafer-shipments-increase-7-4-year-on-year-in-q2-2026)
-**Published:** Wed, 29 Jul 2026 14:58:43 +0000
+## [ALD/ALE in GaN Device Manufacturing](https://www.powerelectronicsnews.com/ald-ale-in-gan-device-manufacturing/)
+**Published:** Wed, 29 Jul 2026 11:00:00 +0000
 
-<p>Growth in global silicon wafer shipments driven by AI demand as industrial and automotive markets show signs of recovery.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-7-4-year-on-year-in-q2-2026/">SEMI Reports Worldwide Silicon Wafer Shipments Increase 7.4% Year-on-Year in Q2 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="4014" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/AdobeStock_660575817_afec86.jpeg?fit=6014%2C4014" style="display: block; margin-bottom: 5px; clear: both;" width="6014" /><p>ALD/ALE atomic-scale deposition and etching techniques improve GaN HEMT device manufacturing, reliability, and gate dielectric quality.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/ald-ale-in-gan-device-manufacturing/">ALD/ALE in GaN Device Manufacturing</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Toshiba Introduces AEC-Q101-Qualified 40 V MOSFET](https://www.powerelectronicsnews.com/toshiba-introduces-aec-q101-qualified-40-v-mosfet/)
+**Published:** Tue, 28 Jul 2026 13:00:00 +0000
+
+<img alt="Toshiba Introduces AEC-Q101-Qualified 40 V MOSFET." class="webfeedsFeaturedVisual wp-post-image" height="900" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/7694_LR.jpg?fit=1260%2C900" style="display: block; margin-bottom: 5px; clear: both;" width="1260" /><p>The AEC-Q101 40 V MOSFET combines low on-resistance with enhanced thermal performance for compact automotive power systems.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/toshiba-introduces-aec-q101-qualified-40-v-mosfet/">Toshiba Introduces AEC-Q101-Qualified 40 V MOSFET</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Power Electronics Course with QSPICE (Episode 15): Supercapacitors in Power Electronics: The Automotive Starter](https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-15-supercapacitors-in-power-electronics-the-automotive-starter/)
+**Published:** Tue, 28 Jul 2026 11:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1024" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/figure-00-power-course.jpg?fit=1536%2C1024" style="display: block; margin-bottom: 5px; clear: both;" width="1536" /><p>In the past, cars could be started manually by turning the engine with a crank, requiring considerable effort. Today, the most common method is to...</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/power-electronics-course-with-qspice-episode-15-supercapacitors-in-power-electronics-the-automotive-starter/">Power Electronics Course with QSPICE (Episode 15): Supercapacitors in Power Electronics: The Automotive Starter</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Advanced thermal management and packaging techniques for SiC](https://www.powerelectronicsnews.com/advanced-thermal-management-and-packaging-techniques-for-sic/)
+**Published:** Mon, 27 Jul 2026 14:41:24 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="3600" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2026/07/AdobeStock_575964572.jpeg?fit=6400%2C3600" style="display: block; margin-bottom: 5px; clear: both;" width="6400" /><p>Advanced SiC packaging techniques covering die-attach, interconnects, substrates, encapsulation, and cooling for thermal management.</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/advanced-thermal-management-and-packaging-techniques-for-sic/">Advanced thermal management and packaging techniques for SiC</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
+
+---
+
+## [Integrating EIS into BMS, Vertical GaN/NiO SJ Schottky Diode, BEOL-Integrated Magnetics: Electronics Week Insights](https://www.powerelectronicsnews.com/integrating-eis-into-bms-vertical-gan-nio-sj-schottky-diode-beol-integrated-magnetics-electronics-week-insights/)
+**Published:** Mon, 27 Jul 2026 13:00:00 +0000
+
+<img alt="" class="webfeedsFeaturedVisual wp-post-image" height="1669" src="https://www.powerelectronicsnews.com/wp-content/uploads/sites/3/2022/07/shutterstock_404891800-weekly.jpg?fit=2500%2C1669" style="display: block; margin-bottom: 5px; clear: both;" width="2500" /><p>Here’s a RoundUp of this week’s must-read articles – we’ll delve into the latest developments on Integrating EIS into BMS, Vertical GaN/NiO SJ Schottky Diode, and BEOL-Integrated Magnetics!</p>
+<p>The post <a href="https://www.powerelectronicsnews.com/integrating-eis-into-bms-vertical-gan-nio-sj-schottky-diode-beol-integrated-magnetics-electronics-week-insights/">Integrating EIS into BMS, Vertical GaN/NiO SJ Schottky Diode, BEOL-Integrated Magnetics: Electronics Week Insights</a> appeared first on <a href="https://www.powerelectronicsnews.com">Power Electronics News</a>.</p>
 
 ---
 
