@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-04 13:15 UTC_
+_Last updated: 2026-08-04 18:39 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -27,6 +27,14 @@ _Last updated: 2026-08-04 13:15 UTC_
 
 <p>FIC Global is strengthening its ASEAN operations through cross-border partnerships to better serve AI and semiconductor markets.</p>
 <p>The post <a href="https://www.eetasia.com/fic-global-expands-asean-footprint-with-johor-singapore-manufacturing-and-innovation-strategy/">FIC Global Expands ASEAN Footprint with Johor–Singapore Manufacturing and Innovation Strategy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Probing the Limits: How Material Innovation Is Meeting the Demands of Fine-Pitch Semiconductor Test](https://www.semiconductor-digest.com/probing-the-limits-how-material-innovation-is-meeting-the-demands-of-fine-pitch-semiconductor-test/?utm_source=rss&utm_medium=rss&utm_campaign=probing-the-limits-how-material-innovation-is-meeting-the-demands-of-fine-pitch-semiconductor-test)
+**Published:** Tue, 04 Aug 2026 14:30:00 +0000
+
+<p>New alloys and process innovations are breaking the hardness-conductivity-ductility tradeoff in probe pin materials for fine-pitch semiconductor test.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/probing-the-limits-how-material-innovation-is-meeting-the-demands-of-fine-pitch-semiconductor-test/">Probing the Limits: How Material Innovation Is Meeting the Demands of Fine-Pitch Semiconductor Test</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-08-04 13:15 UTC_
 
 <p>As automakers converge on centralized vehicle compute architectures, Valens Semiconductor's Daniel Shwartzberg argues the industry is overlooking the physical layer connecting sensors to those new central processors.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/the-2026-connectivity-gap-why-sensor-to-compute-links-are-the-real-adas-bottleneck/">The 2026 Connectivity Gap: Why Sensor-to-Compute Links Are the Real ADAS Bottleneck</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Muse Semiconductor and True Circuits Launch PLL IP Access Program for Universities at Low Cost](https://www.semiconductor-digest.com/muse-semiconductor-and-true-circuits-launch-pll-ip-access-program-for-universities-at-low-cost/?utm_source=rss&utm_medium=rss&utm_campaign=muse-semiconductor-and-true-circuits-launch-pll-ip-access-program-for-universities-at-low-cost)
-**Published:** Fri, 31 Jul 2026 16:51:47 +0000
-
-<p>The goal of the program is for students and faculty to conduct more impactful research by using silicon-proven commercial IP so they can focus their attention on innovating the next generation of semiconductor technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/muse-semiconductor-and-true-circuits-launch-pll-ip-access-program-for-universities-at-low-cost/">Muse Semiconductor and True Circuits Launch PLL IP Access Program for Universities at Low Cost</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
