@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-04 18:39 UTC_
+_Last updated: 2026-08-04 20:37 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -27,6 +27,30 @@ _Last updated: 2026-08-04 18:39 UTC_
 
 <p>FIC Global is strengthening its ASEAN operations through cross-border partnerships to better serve AI and semiconductor markets.</p>
 <p>The post <a href="https://www.eetasia.com/fic-global-expands-asean-footprint-with-johor-singapore-manufacturing-and-innovation-strategy/">FIC Global Expands ASEAN Footprint with Johor–Singapore Manufacturing and Innovation Strategy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Everspin Technologies and MaxLinear Collaborate to Advance Memory Efficiency in AI Servers](https://www.semiconductor-digest.com/everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers/?utm_source=rss&utm_medium=rss&utm_campaign=everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers)
+**Published:** Tue, 04 Aug 2026 20:18:53 +0000
+
+<p>Work will focus on persistent MRAM for metadata management, log data, write buffering and cache functions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers/">Everspin Technologies and MaxLinear Collaborate to Advance Memory Efficiency in AI Servers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [New NSF State and Regional AI Infrastructure Hubs Will Power AI-Enabled Scientific Research Across the Country](https://www.semiconductor-digest.com/new-nsf-state-and-regional-ai-infrastructure-hubs-will-power-ai-enabled-scientific-research-across-the-country/?utm_source=rss&utm_medium=rss&utm_campaign=new-nsf-state-and-regional-ai-infrastructure-hubs-will-power-ai-enabled-scientific-research-across-the-country)
+**Published:** Tue, 04 Aug 2026 20:17:21 +0000
+
+<p>New initiative will accelerate AI-enabled scientific discovery by expanding access to compute for researchers, students and educators through regional partnerships among state and local governments, academic institutions, industry and philanthropy, and will build a highly skilled technical workforce to leverage AI and computing for science.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-nsf-state-and-regional-ai-infrastructure-hubs-will-power-ai-enabled-scientific-research-across-the-country/">New NSF State and Regional AI Infrastructure Hubs Will Power AI-Enabled Scientific Research Across the Country</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [New 3D Flash Memory Technology from Kioxia and Sandisk Achieves Industry’s Highest Bit Density for QLC NAND](https://www.semiconductor-digest.com/new-3d-flash-memory-technology-from-kioxia-and-sandisk-achieves-industrys-highest-bit-density-for-qlc-nand/?utm_source=rss&utm_medium=rss&utm_campaign=new-3d-flash-memory-technology-from-kioxia-and-sandisk-achieves-industrys-highest-bit-density-for-qlc-nand)
+**Published:** Tue, 04 Aug 2026 20:11:17 +0000
+
+<p>10th-generation QLC 3D flash memory represents a major leap forward for AI storage architectures, cloud platforms, and data‑intensive innovations.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-3d-flash-memory-technology-from-kioxia-and-sandisk-achieves-industrys-highest-bit-density-for-qlc-nand/">New 3D Flash Memory Technology from Kioxia and Sandisk Achieves Industry’s Highest Bit Density for QLC NAND</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-08-04 18:39 UTC_
 
 <p>This reconfigurable device combines logic, memory, and a visible color readout without requiring complex circuitry.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/pusan-national-university-reports-an-adaptive-organic-transistor-for-wearable-electronics/">Pusan National University Reports an Adaptive Organic Transistor for Wearable Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Brewer Science Acquires Heraeus Epurio’s Semiconductor Chemicals Business](https://www.semiconductor-digest.com/brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business/?utm_source=rss&utm_medium=rss&utm_campaign=brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business)
-**Published:** Mon, 03 Aug 2026 19:18:45 +0000
-
-<p>Vertical integration into ultrapure chemical manufacturing extends Brewer Science's Zero Defects standards for the purity, consistency, and reliability its customers depend on at the industry's most advanced nodes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business/">Brewer Science Acquires Heraeus Epurio&#8217;s Semiconductor Chemicals Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AI-Driven Failure Analysis for the Next Era of Semiconductors](https://www.semiconductor-digest.com/ai-driven-failure-analysis-for-the-next-era-of-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-failure-analysis-for-the-next-era-of-semiconductors)
-**Published:** Mon, 03 Aug 2026 14:23:21 +0000
-
-<p>As device complexity accelerates — driven in part by AI itself — semiconductor failure analysis (FA) is under pressure to scale with it.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ai-driven-failure-analysis-for-the-next-era-of-semiconductors/">AI-Driven Failure Analysis for the Next Era of Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The 2026 Connectivity Gap: Why Sensor-to-Compute Links Are the Real ADAS Bottleneck](https://www.semiconductor-digest.com/the-2026-connectivity-gap-why-sensor-to-compute-links-are-the-real-adas-bottleneck/?utm_source=rss&utm_medium=rss&utm_campaign=the-2026-connectivity-gap-why-sensor-to-compute-links-are-the-real-adas-bottleneck)
-**Published:** Mon, 03 Aug 2026 13:31:53 +0000
-
-<p>As automakers converge on centralized vehicle compute architectures, Valens Semiconductor's Daniel Shwartzberg argues the industry is overlooking the physical layer connecting sensors to those new central processors.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-2026-connectivity-gap-why-sensor-to-compute-links-are-the-real-adas-bottleneck/">The 2026 Connectivity Gap: Why Sensor-to-Compute Links Are the Real ADAS Bottleneck</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
