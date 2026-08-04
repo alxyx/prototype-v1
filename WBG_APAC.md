@@ -1,16 +1,64 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-03 00:13 UTC_
+_Last updated: 2026-08-04 07:52 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
 ---
 
-## [LG Innotek, TDK Partner on Physical AI Sensing Solutions for Robots](https://www.eetasia.com/lg-innotek-tdk-partner-on-physical-ai-sensing-solutions-for-robots/)
-**Published:** Thu, 30 Jul 2026 02:24:24 +0000
+## [Adaptive Organic Transistor Enables Multifunctional Wearable Electronics](https://www.eetasia.com/adaptive-organic-transistor-enables-multifunctional-wearable-electronics/)
+**Published:** Tue, 04 Aug 2026 02:06:19 +0000
 
-<p>LG Innotek and TDK combine sensing technologies to develop advanced vision and tactile modules for next-generation physical AI robots.</p>
-<p>The post <a href="https://www.eetasia.com/lg-innotek-tdk-partner-on-physical-ai-sensing-solutions-for-robots/">LG Innotek, TDK Partner on Physical AI Sensing Solutions for Robots</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Pusan National University developed a stretchable organic transistor that combines sensing, computing, and memory for wearables.</p>
+<p>The post <a href="https://www.eetasia.com/adaptive-organic-transistor-enables-multifunctional-wearable-electronics/">Adaptive Organic Transistor Enables Multifunctional Wearable Electronics</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [GaN Substrate Market to Reach $1.25B by 2032, Fueled by AI, EV and 5G Demand](https://www.eetasia.com/gan-substrate-market-to-reach-1-25b-by-2032-fueled-by-ai-ev-and-5g-demand/)
+**Published:** Mon, 03 Aug 2026 02:42:47 +0000
+
+<p>Growing adoption of AI, electric vehicles and 5G is accelerating global demand for GaN substrate technologies.</p>
+<p>The post <a href="https://www.eetasia.com/gan-substrate-market-to-reach-1-25b-by-2032-fueled-by-ai-ev-and-5g-demand/">GaN Substrate Market to Reach $1.25B by 2032, Fueled by AI, EV and 5G Demand</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [FIC Global Expands ASEAN Footprint with Johor–Singapore Manufacturing and Innovation Strategy](https://www.eetasia.com/fic-global-expands-asean-footprint-with-johor-singapore-manufacturing-and-innovation-strategy/)
+**Published:** Mon, 03 Aug 2026 02:19:20 +0000
+
+<p>FIC Global is strengthening its ASEAN operations through cross-border partnerships to better serve AI and semiconductor markets.</p>
+<p>The post <a href="https://www.eetasia.com/fic-global-expands-asean-footprint-with-johor-singapore-manufacturing-and-innovation-strategy/">FIC Global Expands ASEAN Footprint with Johor–Singapore Manufacturing and Innovation Strategy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Pusan National University Reports an Adaptive Organic Transistor for Wearable Electronics](https://www.semiconductor-digest.com/pusan-national-university-reports-an-adaptive-organic-transistor-for-wearable-electronics/?utm_source=rss&utm_medium=rss&utm_campaign=pusan-national-university-reports-an-adaptive-organic-transistor-for-wearable-electronics)
+**Published:** Mon, 03 Aug 2026 19:27:23 +0000
+
+<p>This reconfigurable device combines logic, memory, and a visible color readout without requiring complex circuitry.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/pusan-national-university-reports-an-adaptive-organic-transistor-for-wearable-electronics/">Pusan National University Reports an Adaptive Organic Transistor for Wearable Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Brewer Science Acquires Heraeus Epurio’s Semiconductor Chemicals Business](https://www.semiconductor-digest.com/brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business/?utm_source=rss&utm_medium=rss&utm_campaign=brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business)
+**Published:** Mon, 03 Aug 2026 19:18:45 +0000
+
+<p>Vertical integration into ultrapure chemical manufacturing extends Brewer Science's Zero Defects standards for the purity, consistency, and reliability its customers depend on at the industry's most advanced nodes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business/">Brewer Science Acquires Heraeus Epurio&#8217;s Semiconductor Chemicals Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AI-Driven Failure Analysis for the Next Era of Semiconductors](https://www.semiconductor-digest.com/ai-driven-failure-analysis-for-the-next-era-of-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=ai-driven-failure-analysis-for-the-next-era-of-semiconductors)
+**Published:** Mon, 03 Aug 2026 14:23:21 +0000
+
+<p>As device complexity accelerates — driven in part by AI itself — semiconductor failure analysis (FA) is under pressure to scale with it.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ai-driven-failure-analysis-for-the-next-era-of-semiconductors/">AI-Driven Failure Analysis for the Next Era of Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The 2026 Connectivity Gap: Why Sensor-to-Compute Links Are the Real ADAS Bottleneck](https://www.semiconductor-digest.com/the-2026-connectivity-gap-why-sensor-to-compute-links-are-the-real-adas-bottleneck/?utm_source=rss&utm_medium=rss&utm_campaign=the-2026-connectivity-gap-why-sensor-to-compute-links-are-the-real-adas-bottleneck)
+**Published:** Mon, 03 Aug 2026 13:31:53 +0000
+
+<p>As automakers converge on centralized vehicle compute architectures, Valens Semiconductor's Daniel Shwartzberg argues the industry is overlooking the physical layer connecting sensors to those new central processors.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-2026-connectivity-gap-why-sensor-to-compute-links-are-the-real-adas-bottleneck/">The 2026 Connectivity Gap: Why Sensor-to-Compute Links Are the Real ADAS Bottleneck</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -35,54 +83,6 @@ _Last updated: 2026-08-03 00:13 UTC_
 
 <p>Scientists used a new error correction method to encode 70 logical qubits and crack a classically intractable problem.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ibm-and-the-university-of-chicago-demonstrate-quantum-advantage/">IBM and The University of Chicago Demonstrate Quantum Advantage</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Valens Semiconductor Appoints Dean Martin to Lead the Automotive Business Unit](https://www.semiconductor-digest.com/valens-semiconductor-appoints-dean-martin-to-lead-the-automotive-business-unit/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-appoints-dean-martin-to-lead-the-automotive-business-unit)
-**Published:** Fri, 31 Jul 2026 16:37:48 +0000
-
-<p>Valens Semiconductor, a provider of high-performance connectivity chipsets, today announced the appointment of Dean Martin as SVP, Head of the Automotive Business Unit, effective September 1, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-appoints-dean-martin-to-lead-the-automotive-business-unit/">Valens Semiconductor Appoints Dean Martin to Lead the Automotive Business Unit</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Renesas to Phase Out Production at Takasaki Factory](https://www.semiconductor-digest.com/renesas-to-phase-out-production-at-takasaki-factory/?utm_source=rss&utm_medium=rss&utm_campaign=renesas-to-phase-out-production-at-takasaki-factory)
-**Published:** Fri, 31 Jul 2026 16:30:38 +0000
-
-<p>Renesas also decided to maintain and strengthen its research and development (R&#038;D) functions currently located at the site, with the current location and nearby areas being considered as the primary candidate sites.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/renesas-to-phase-out-production-at-takasaki-factory/">Renesas to Phase Out Production at Takasaki Factory</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Linde to Invest $1 Billion to Support Major U.S. Semiconductor Facility Expansion](https://www.semiconductor-digest.com/linde-to-invest-1-billion-to-support-major-u-s-semiconductor-facility-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=linde-to-invest-1-billion-to-support-major-u-s-semiconductor-facility-expansion)
-**Published:** Fri, 31 Jul 2026 16:28:19 +0000
-
-<p>Linde today announced that it has been awarded a new long-term agreement to supply ultra-high-purity industrial gases to one of the world’s largest semiconductor manufacturers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/linde-to-invest-1-billion-to-support-major-u-s-semiconductor-facility-expansion/">Linde to Invest $1 Billion to Support Major U.S. Semiconductor Facility Expansion</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [What’s in the July/August Issue?](https://www.semiconductor-digest.com/whats-in-the-july-august-issue-2/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-july-august-issue-2)
-**Published:** Thu, 30 Jul 2026 19:24:28 +0000
-
-<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the July/August issue. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-july-august-issue-2/">What&#8217;s in the July/August Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Trelleborg Expands Malta Facility](https://www.semiconductor-digest.com/trelleborg-expands-malta-facility/?utm_source=rss&utm_medium=rss&utm_campaign=trelleborg-expands-malta-facility)
-**Published:** Thu, 30 Jul 2026 15:50:37 +0000
-
-<p>Trelleborg Sealing Solutions marks a key milestone in our semiconductor strategy to be a global partner for growth with the opening of an enhanced and expanded European production center in Malta.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/trelleborg-expands-malta-facility/">Trelleborg Expands Malta Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Marvell to Invest $250 Million in India](https://www.semiconductor-digest.com/marvell-to-invest-250-million-in-india/?utm_source=rss&utm_medium=rss&utm_campaign=marvell-to-invest-250-million-in-india)
-**Published:** Thu, 30 Jul 2026 15:44:46 +0000
-
-<p>Marvell Technology, Inc. today announced plans to invest $250 million in India over the next three years to expand its capabilities across technology, talent and infrastructure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/marvell-to-invest-250-million-in-india/">Marvell to Invest $250 Million in India</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
