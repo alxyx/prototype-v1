@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-04 10:52 UTC_
+_Last updated: 2026-08-04 13:15 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -27,6 +27,22 @@ _Last updated: 2026-08-04 10:52 UTC_
 
 <p>FIC Global is strengthening its ASEAN operations through cross-border partnerships to better serve AI and semiconductor markets.</p>
 <p>The post <a href="https://www.eetasia.com/fic-global-expands-asean-footprint-with-johor-singapore-manufacturing-and-innovation-strategy/">FIC Global Expands ASEAN Footprint with Johor–Singapore Manufacturing and Innovation Strategy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [How Ion Implantation Process Drift Impacts Yield and Throughput in Semiconductor Fabs](https://www.semiconductor-digest.com/how-ion-implantation-process-drift-impacts-yield-and-throughput-in-semiconductor-fabs/?utm_source=rss&utm_medium=rss&utm_campaign=how-ion-implantation-process-drift-impacts-yield-and-throughput-in-semiconductor-fabs)
+**Published:** Tue, 04 Aug 2026 12:56:14 +0000
+
+<p>Ion implantation is one of the most tightly controlled steps in chip manufacturing, and SkyWater's Viswa Kalaga focuses on a failure mode that's easy to miss: process drift. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/how-ion-implantation-process-drift-impacts-yield-and-throughput-in-semiconductor-fabs/">How Ion Implantation Process Drift Impacts Yield and Throughput in Semiconductor Fabs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [From Data Deluge to Advanced Packaging: Why the Semiconductor Growth Story Is Only Just Beginning](https://www.semiconductor-digest.com/from-data-deluge-to-advanced-packaging-why-the-semiconductor-growth-story-is-only-just-beginning/?utm_source=rss&utm_medium=rss&utm_campaign=from-data-deluge-to-advanced-packaging-why-the-semiconductor-growth-story-is-only-just-beginning)
+**Published:** Tue, 04 Aug 2026 12:50:06 +0000
+
+<p>the next decade of semiconductor growth won't be defined solely by design innovation, but by what the industry can actually manufacture — repeatably, reliably, and at scale. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/from-data-deluge-to-advanced-packaging-why-the-semiconductor-growth-story-is-only-just-beginning/">From Data Deluge to Advanced Packaging: Why the Semiconductor Growth Story Is Only Just Beginning</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-08-04 10:52 UTC_
 
 <p>The goal of the program is for students and faculty to conduct more impactful research by using silicon-proven commercial IP so they can focus their attention on innovating the next generation of semiconductor technologies.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/muse-semiconductor-and-true-circuits-launch-pll-ip-access-program-for-universities-at-low-cost/">Muse Semiconductor and True Circuits Launch PLL IP Access Program for Universities at Low Cost</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [MetaOptics and Elsoft Partner to Scale Next-Generation Semiconductor Optics Manufacturing Equipment](https://www.semiconductor-digest.com/metaoptics-and-elsoft-partner-to-scale-next-generation-semiconductor-optics-manufacturing-equipment/?utm_source=rss&utm_medium=rss&utm_campaign=metaoptics-and-elsoft-partner-to-scale-next-generation-semiconductor-optics-manufacturing-equipment)
-**Published:** Fri, 31 Jul 2026 16:44:45 +0000
-
-<p>MetaOptics Ltd and Elsoft Research Berhad today jointly announced a strategic partnership to co-develop and mass produce the next generation of 12-inch large format precision, high speed metalens laser writers and leading-edge automatic testers that could sort metalens across widely applied wavelengths from visible light 425 ~ 630nm, in-frared 740 ~ 940nm and 1245 ~ 1310nm.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/metaoptics-and-elsoft-partner-to-scale-next-generation-semiconductor-optics-manufacturing-equipment/">MetaOptics and Elsoft Partner to Scale Next-Generation Semiconductor Optics Manufacturing Equipment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IBM and The University of Chicago Demonstrate Quantum Advantage](https://www.semiconductor-digest.com/ibm-and-the-university-of-chicago-demonstrate-quantum-advantage/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-and-the-university-of-chicago-demonstrate-quantum-advantage)
-**Published:** Fri, 31 Jul 2026 16:40:51 +0000
-
-<p>Scientists used a new error correction method to encode 70 logical qubits and crack a classically intractable problem.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ibm-and-the-university-of-chicago-demonstrate-quantum-advantage/">IBM and The University of Chicago Demonstrate Quantum Advantage</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
