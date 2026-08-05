@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-04 22:24 UTC_
+_Last updated: 2026-08-05 07:50 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,14 +19,6 @@ _Last updated: 2026-08-04 22:24 UTC_
 
 <p>Growing adoption of AI, electric vehicles and 5G is accelerating global demand for GaN substrate technologies.</p>
 <p>The post <a href="https://www.eetasia.com/gan-substrate-market-to-reach-1-25b-by-2032-fueled-by-ai-ev-and-5g-demand/">GaN Substrate Market to Reach $1.25B by 2032, Fueled by AI, EV and 5G Demand</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [FIC Global Expands ASEAN Footprint with Johor–Singapore Manufacturing and Innovation Strategy](https://www.eetasia.com/fic-global-expands-asean-footprint-with-johor-singapore-manufacturing-and-innovation-strategy/)
-**Published:** Mon, 03 Aug 2026 02:19:20 +0000
-
-<p>FIC Global is strengthening its ASEAN operations through cross-border partnerships to better serve AI and semiconductor markets.</p>
-<p>The post <a href="https://www.eetasia.com/fic-global-expands-asean-footprint-with-johor-singapore-manufacturing-and-innovation-strategy/">FIC Global Expands ASEAN Footprint with Johor–Singapore Manufacturing and Innovation Strategy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-08-04 22:24 UTC_
 
 <p>This reconfigurable device combines logic, memory, and a visible color readout without requiring complex circuitry.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/pusan-national-university-reports-an-adaptive-organic-transistor-for-wearable-electronics/">Pusan National University Reports an Adaptive Organic Transistor for Wearable Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Brewer Science Acquires Heraeus Epurio’s Semiconductor Chemicals Business](https://www.semiconductor-digest.com/brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business/?utm_source=rss&utm_medium=rss&utm_campaign=brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business)
+**Published:** Mon, 03 Aug 2026 19:18:45 +0000
+
+<p>Vertical integration into ultrapure chemical manufacturing extends Brewer Science's Zero Defects standards for the purity, consistency, and reliability its customers depend on at the industry's most advanced nodes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business/">Brewer Science Acquires Heraeus Epurio&#8217;s Semiconductor Chemicals Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
