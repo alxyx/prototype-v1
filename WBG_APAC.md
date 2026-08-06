@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-06 13:08 UTC_
+_Last updated: 2026-08-06 15:34 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Conference Report: Hybrid Bonding Advances at ECTC Meeting](https://www.semiconductor-digest.com/conference-report-hybrid-bonding-advances-at-ectc-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=conference-report-hybrid-bonding-advances-at-ectc-meeting)
+**Published:** Thu, 06 Aug 2026 13:21:31 +0000
+
+<p>Dave Lammers surveys how Applied Materials, EV Group, imec, ITRI, Leti, and Tokyo Electron are pushing hybrid bonding past its current limits. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/conference-report-hybrid-bonding-advances-at-ectc-meeting/">Conference Report: Hybrid Bonding Advances at ECTC Meeting</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Thermal Management Strategies for Next-Generation AI Chiplets and Photonic Integrated Circuits](https://www.semiconductor-digest.com/thermal-management-strategies-for-next-generation-ai-chiplets-and-photonic-integrated-circuits/?utm_source=rss&utm_medium=rss&utm_campaign=thermal-management-strategies-for-next-generation-ai-chiplets-and-photonic-integrated-circuits)
+**Published:** Thu, 06 Aug 2026 13:15:21 +0000
+
+<p>AI accelerator packages that dissipated 300-400W in 2020 routinely exceed 700W today, with roadmaps pointing past 1,000W — while the photonic ICs increasingly co-packaged alongside them need temperature stability measured in tenths of a degree.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/thermal-management-strategies-for-next-generation-ai-chiplets-and-photonic-integrated-circuits/">Thermal Management Strategies for Next-Generation AI Chiplets and Photonic Integrated Circuits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-08-06 13:08 UTC_
 
 <p>the next decade of semiconductor growth won't be defined solely by design innovation, but by what the industry can actually manufacture — repeatably, reliably, and at scale. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/from-data-deluge-to-advanced-packaging-why-the-semiconductor-growth-story-is-only-just-beginning/">From Data Deluge to Advanced Packaging: Why the Semiconductor Growth Story Is Only Just Beginning</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Pusan National University Reports an Adaptive Organic Transistor for Wearable Electronics](https://www.semiconductor-digest.com/pusan-national-university-reports-an-adaptive-organic-transistor-for-wearable-electronics/?utm_source=rss&utm_medium=rss&utm_campaign=pusan-national-university-reports-an-adaptive-organic-transistor-for-wearable-electronics)
-**Published:** Mon, 03 Aug 2026 19:27:23 +0000
-
-<p>This reconfigurable device combines logic, memory, and a visible color readout without requiring complex circuitry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/pusan-national-university-reports-an-adaptive-organic-transistor-for-wearable-electronics/">Pusan National University Reports an Adaptive Organic Transistor for Wearable Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Brewer Science Acquires Heraeus Epurio’s Semiconductor Chemicals Business](https://www.semiconductor-digest.com/brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business/?utm_source=rss&utm_medium=rss&utm_campaign=brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business)
-**Published:** Mon, 03 Aug 2026 19:18:45 +0000
-
-<p>Vertical integration into ultrapure chemical manufacturing extends Brewer Science's Zero Defects standards for the purity, consistency, and reliability its customers depend on at the industry's most advanced nodes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business/">Brewer Science Acquires Heraeus Epurio&#8217;s Semiconductor Chemicals Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
