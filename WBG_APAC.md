@@ -1,24 +1,8 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-05 23:11 UTC_
+_Last updated: 2026-08-06 13:08 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
-
----
-
-## [Adaptive Organic Transistor Enables Multifunctional Wearable Electronics](https://www.eetasia.com/adaptive-organic-transistor-enables-multifunctional-wearable-electronics/)
-**Published:** Tue, 04 Aug 2026 02:06:19 +0000
-
-<p>Pusan National University developed a stretchable organic transistor that combines sensing, computing, and memory for wearables.</p>
-<p>The post <a href="https://www.eetasia.com/adaptive-organic-transistor-enables-multifunctional-wearable-electronics/">Adaptive Organic Transistor Enables Multifunctional Wearable Electronics</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [GaN Substrate Market to Reach $1.25B by 2032, Fueled by AI, EV and 5G Demand](https://www.eetasia.com/gan-substrate-market-to-reach-1-25b-by-2032-fueled-by-ai-ev-and-5g-demand/)
-**Published:** Mon, 03 Aug 2026 02:42:47 +0000
-
-<p>Growing adoption of AI, electric vehicles and 5G is accelerating global demand for GaN substrate technologies.</p>
-<p>The post <a href="https://www.eetasia.com/gan-substrate-market-to-reach-1-25b-by-2032-fueled-by-ai-ev-and-5g-demand/">GaN Substrate Market to Reach $1.25B by 2032, Fueled by AI, EV and 5G Demand</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +67,22 @@ _Last updated: 2026-08-05 23:11 UTC_
 
 <p>the next decade of semiconductor growth won't be defined solely by design innovation, but by what the industry can actually manufacture — repeatably, reliably, and at scale. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/from-data-deluge-to-advanced-packaging-why-the-semiconductor-growth-story-is-only-just-beginning/">From Data Deluge to Advanced Packaging: Why the Semiconductor Growth Story Is Only Just Beginning</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Pusan National University Reports an Adaptive Organic Transistor for Wearable Electronics](https://www.semiconductor-digest.com/pusan-national-university-reports-an-adaptive-organic-transistor-for-wearable-electronics/?utm_source=rss&utm_medium=rss&utm_campaign=pusan-national-university-reports-an-adaptive-organic-transistor-for-wearable-electronics)
+**Published:** Mon, 03 Aug 2026 19:27:23 +0000
+
+<p>This reconfigurable device combines logic, memory, and a visible color readout without requiring complex circuitry.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/pusan-national-university-reports-an-adaptive-organic-transistor-for-wearable-electronics/">Pusan National University Reports an Adaptive Organic Transistor for Wearable Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Brewer Science Acquires Heraeus Epurio’s Semiconductor Chemicals Business](https://www.semiconductor-digest.com/brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business/?utm_source=rss&utm_medium=rss&utm_campaign=brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business)
+**Published:** Mon, 03 Aug 2026 19:18:45 +0000
+
+<p>Vertical integration into ultrapure chemical manufacturing extends Brewer Science's Zero Defects standards for the purity, consistency, and reliability its customers depend on at the industry's most advanced nodes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/brewer-science-acquires-heraeus-epurios-semiconductor-chemicals-business/">Brewer Science Acquires Heraeus Epurio&#8217;s Semiconductor Chemicals Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
