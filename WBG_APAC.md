@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-07 06:22 UTC_
+_Last updated: 2026-08-07 13:14 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,6 +11,14 @@ _Last updated: 2026-08-07 06:22 UTC_
 
 <p>Global semiconductor sales reached $403.3 billion in 2Q 2026, up by 35.1% quarter-on-quarter, according to SIA.</p>
 <p>The post <a href="https://www.eetasia.com/global-chip-sales-up-35-in-2q-2026/">Global Chip Sales Up 35% in 2Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [TFLN: A Material Platform Reaches an Inflection Point](https://www.semiconductor-digest.com/tfln-a-material-platform-reaches-an-inflection-point/?utm_source=rss&utm_medium=rss&utm_campaign=tfln-a-material-platform-reaches-an-inflection-point)
+**Published:** Fri, 07 Aug 2026 12:52:34 +0000
+
+<p>Thin-film lithium niobate (TFLN) has spent years confined to defense applications and lab demonstrations; G&#038;H's Stratos Kehayas argues it's now graduating into mainstream commercial photonics, driven by a straightforward electrical advantage. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/tfln-a-material-platform-reaches-an-inflection-point/">TFLN: A Material Platform Reaches an Inflection Point</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-08-07 06:22 UTC_
 
 <p>Work will focus on persistent MRAM for metadata management, log data, write buffering and cache functions.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers/">Everspin Technologies and MaxLinear Collaborate to Advance Memory Efficiency in AI Servers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New NSF State and Regional AI Infrastructure Hubs Will Power AI-Enabled Scientific Research Across the Country](https://www.semiconductor-digest.com/new-nsf-state-and-regional-ai-infrastructure-hubs-will-power-ai-enabled-scientific-research-across-the-country/?utm_source=rss&utm_medium=rss&utm_campaign=new-nsf-state-and-regional-ai-infrastructure-hubs-will-power-ai-enabled-scientific-research-across-the-country)
-**Published:** Tue, 04 Aug 2026 20:17:21 +0000
-
-<p>New initiative will accelerate AI-enabled scientific discovery by expanding access to compute for researchers, students and educators through regional partnerships among state and local governments, academic institutions, industry and philanthropy, and will build a highly skilled technical workforce to leverage AI and computing for science.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-nsf-state-and-regional-ai-infrastructure-hubs-will-power-ai-enabled-scientific-research-across-the-country/">New NSF State and Regional AI Infrastructure Hubs Will Power AI-Enabled Scientific Research Across the Country</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
