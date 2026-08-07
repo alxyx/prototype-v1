@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-07 03:08 UTC_
+_Last updated: 2026-08-07 05:07 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Global Chip Sales Up 35% in 2Q 2026](https://www.eetasia.com/global-chip-sales-up-35-in-2q-2026/)
+**Published:** Fri, 07 Aug 2026 04:10:07 +0000
+
+<p>Global semiconductor sales reached $403.3 billion in 2Q 2026, up by 35.1% quarter-on-quarter, according to SIA.</p>
+<p>The post <a href="https://www.eetasia.com/global-chip-sales-up-35-in-2q-2026/">Global Chip Sales Up 35% in 2Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-08-07 03:08 UTC_
 
 <p>New initiative will accelerate AI-enabled scientific discovery by expanding access to compute for researchers, students and educators through regional partnerships among state and local governments, academic institutions, industry and philanthropy, and will build a highly skilled technical workforce to leverage AI and computing for science.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/new-nsf-state-and-regional-ai-infrastructure-hubs-will-power-ai-enabled-scientific-research-across-the-country/">New NSF State and Regional AI Infrastructure Hubs Will Power AI-Enabled Scientific Research Across the Country</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New 3D Flash Memory Technology from Kioxia and Sandisk Achieves Industry’s Highest Bit Density for QLC NAND](https://www.semiconductor-digest.com/new-3d-flash-memory-technology-from-kioxia-and-sandisk-achieves-industrys-highest-bit-density-for-qlc-nand/?utm_source=rss&utm_medium=rss&utm_campaign=new-3d-flash-memory-technology-from-kioxia-and-sandisk-achieves-industrys-highest-bit-density-for-qlc-nand)
-**Published:** Tue, 04 Aug 2026 20:11:17 +0000
-
-<p>10th-generation QLC 3D flash memory represents a major leap forward for AI storage architectures, cloud platforms, and data‑intensive innovations.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-3d-flash-memory-technology-from-kioxia-and-sandisk-achieves-industrys-highest-bit-density-for-qlc-nand/">New 3D Flash Memory Technology from Kioxia and Sandisk Achieves Industry’s Highest Bit Density for QLC NAND</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
