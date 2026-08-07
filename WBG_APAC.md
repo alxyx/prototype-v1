@@ -1,8 +1,32 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-06 15:34 UTC_
+_Last updated: 2026-08-07 00:11 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Everspin Technologies and MaxLinear Collaborate to Advance Memory Efficiency in AI Servers](https://www.semiconductor-digest.com/everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers-2/?utm_source=rss&utm_medium=rss&utm_campaign=everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers-2)
+**Published:** Thu, 06 Aug 2026 21:13:39 +0000
+
+<p>Work will focus on persistent MRAM for metadata management, log data, write buffering and cache functions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers-2/">Everspin Technologies and MaxLinear Collaborate to Advance Memory Efficiency in AI Servers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AlixLabs Expands Footprint at RISE ProNano in Lund by 400 Square Meters](https://www.semiconductor-digest.com/alixlabs-expands-footprint-at-rise-pronano-in-lund-by-400-square-meters/?utm_source=rss&utm_medium=rss&utm_campaign=alixlabs-expands-footprint-at-rise-pronano-in-lund-by-400-square-meters)
+**Published:** Thu, 06 Aug 2026 21:11:30 +0000
+
+<p>AlixLabs AB, a Swedish semiconductor technology company pioneering Atomic Pitch Splitting, APS, today announced that it is expanding its cleanroom space at the Lund-based RISE ProNano lab by 400 square meters.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/alixlabs-expands-footprint-at-rise-pronano-in-lund-by-400-square-meters/">AlixLabs Expands Footprint at RISE ProNano in Lund by 400 Square Meters</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Applauds Statement from Senators Crapo and Wyden Supporting U.S. Tax Credit for Semiconductor Manufacturing](https://www.semiconductor-digest.com/semi-applauds-statement-from-senators-crapo-and-wyden-supporting-u-s-tax-credit-for-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=semi-applauds-statement-from-senators-crapo-and-wyden-supporting-u-s-tax-credit-for-semiconductor-manufacturing)
+**Published:** Thu, 06 Aug 2026 21:05:39 +0000
+
+<p>Following Senate Finance Committee Chairman Mike Crapo (R-ID) and Ranking Member Ron Wyden (D-OR) reaffirming support for the Section 48D Advanced Manufacturing Investment Credit (AMIC), SEMI today released a statement from its President and CEO Ajit Manocha commending the action on behalf of the semiconductor supply chain.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-applauds-statement-from-senators-crapo-and-wyden-supporting-u-s-tax-credit-for-semiconductor-manufacturing/">SEMI Applauds Statement from Senators Crapo and Wyden Supporting U.S. Tax Credit for Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-08-06 15:34 UTC_
 
 <p>10th-generation QLC 3D flash memory represents a major leap forward for AI storage architectures, cloud platforms, and data‑intensive innovations.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/new-3d-flash-memory-technology-from-kioxia-and-sandisk-achieves-industrys-highest-bit-density-for-qlc-nand/">New 3D Flash Memory Technology from Kioxia and Sandisk Achieves Industry’s Highest Bit Density for QLC NAND</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Probing the Limits: How Material Innovation Is Meeting the Demands of Fine-Pitch Semiconductor Test](https://www.semiconductor-digest.com/probing-the-limits-how-material-innovation-is-meeting-the-demands-of-fine-pitch-semiconductor-test/?utm_source=rss&utm_medium=rss&utm_campaign=probing-the-limits-how-material-innovation-is-meeting-the-demands-of-fine-pitch-semiconductor-test)
-**Published:** Tue, 04 Aug 2026 14:30:00 +0000
-
-<p>New alloys and process innovations are breaking the hardness-conductivity-ductility tradeoff in probe pin materials for fine-pitch semiconductor test.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/probing-the-limits-how-material-innovation-is-meeting-the-demands-of-fine-pitch-semiconductor-test/">Probing the Limits: How Material Innovation Is Meeting the Demands of Fine-Pitch Semiconductor Test</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [How Ion Implantation Process Drift Impacts Yield and Throughput in Semiconductor Fabs](https://www.semiconductor-digest.com/how-ion-implantation-process-drift-impacts-yield-and-throughput-in-semiconductor-fabs/?utm_source=rss&utm_medium=rss&utm_campaign=how-ion-implantation-process-drift-impacts-yield-and-throughput-in-semiconductor-fabs)
-**Published:** Tue, 04 Aug 2026 12:56:14 +0000
-
-<p>Ion implantation is one of the most tightly controlled steps in chip manufacturing, and SkyWater's Viswa Kalaga focuses on a failure mode that's easy to miss: process drift. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/how-ion-implantation-process-drift-impacts-yield-and-throughput-in-semiconductor-fabs/">How Ion Implantation Process Drift Impacts Yield and Throughput in Semiconductor Fabs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [From Data Deluge to Advanced Packaging: Why the Semiconductor Growth Story Is Only Just Beginning](https://www.semiconductor-digest.com/from-data-deluge-to-advanced-packaging-why-the-semiconductor-growth-story-is-only-just-beginning/?utm_source=rss&utm_medium=rss&utm_campaign=from-data-deluge-to-advanced-packaging-why-the-semiconductor-growth-story-is-only-just-beginning)
-**Published:** Tue, 04 Aug 2026 12:50:06 +0000
-
-<p>the next decade of semiconductor growth won't be defined solely by design innovation, but by what the industry can actually manufacture — repeatably, reliably, and at scale. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/from-data-deluge-to-advanced-packaging-why-the-semiconductor-growth-story-is-only-just-beginning/">From Data Deluge to Advanced Packaging: Why the Semiconductor Growth Story Is Only Just Beginning</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
