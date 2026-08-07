@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-07 17:07 UTC_
+_Last updated: 2026-08-07 20:06 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,6 +11,30 @@ _Last updated: 2026-08-07 17:07 UTC_
 
 <p>Global semiconductor sales reached $403.3 billion in 2Q 2026, up by 35.1% quarter-on-quarter, according to SIA.</p>
 <p>The post <a href="https://www.eetasia.com/global-chip-sales-up-35-in-2q-2026/">Global Chip Sales Up 35% in 2Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [New ‘Shape-Shifting’ Architecture Brings Versatility to Photonic Quantum Computing](https://www.semiconductor-digest.com/new-shape-shifting-architecture-brings-versatility-to-photonic-quantum-computing/?utm_source=rss&utm_medium=rss&utm_campaign=new-shape-shifting-architecture-brings-versatility-to-photonic-quantum-computing)
+**Published:** Fri, 07 Aug 2026 19:33:28 +0000
+
+<p>Researchers have developed a flexible optical computing system capable of tackling problems beyond the reach of previous designs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-shape-shifting-architecture-brings-versatility-to-photonic-quantum-computing/">New ‘Shape-Shifting’ Architecture Brings Versatility to Photonic Quantum Computing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Emergence Appoints Ian Eslick as Chief Executive Officer](https://www.semiconductor-digest.com/emergence-appoints-ian-eslick-as-chief-executive-officer/?utm_source=rss&utm_medium=rss&utm_campaign=emergence-appoints-ian-eslick-as-chief-executive-officer)
+**Published:** Fri, 07 Aug 2026 19:29:24 +0000
+
+<p>Ian Eslick will lead Emergence's commercial growth, while Co-Founder Dr. Satya Nitta assumes the role of Executive Chairman to advance the company's long-term research vision and next-generation safe autonomous AI strategy.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/emergence-appoints-ian-eslick-as-chief-executive-officer/">Emergence Appoints Ian Eslick as Chief Executive Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Intel Announces Leadership Appointment](https://www.semiconductor-digest.com/intel-announces-leadership-appointment/?utm_source=rss&utm_medium=rss&utm_campaign=intel-announces-leadership-appointment)
+**Published:** Fri, 07 Aug 2026 19:24:58 +0000
+
+<p>Intel Corporation today announced the appointment of Dean Jarnac as executive vice president and chief sales officer.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/intel-announces-leadership-appointment/">Intel Announces Leadership Appointment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-08-07 17:07 UTC_
 
 <p>AI accelerator packages that dissipated 300-400W in 2020 routinely exceed 700W today, with roadmaps pointing past 1,000W — while the photonic ICs increasingly co-packaged alongside them need temperature stability measured in tenths of a degree.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/thermal-management-strategies-for-next-generation-ai-chiplets-and-photonic-integrated-circuits/">Thermal Management Strategies for Next-Generation AI Chiplets and Photonic Integrated Circuits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Breakthrough in Quantum Dot Surface Defect Repair: Enabling Ultra-High Efficiency and Long-Life QLEDs](https://www.semiconductor-digest.com/breakthrough-in-quantum-dot-surface-defect-repair-enabling-ultra-high-efficiency-and-long-life-qleds/?utm_source=rss&utm_medium=rss&utm_campaign=breakthrough-in-quantum-dot-surface-defect-repair-enabling-ultra-high-efficiency-and-long-life-qleds)
-**Published:** Wed, 05 Aug 2026 19:16:28 +0000
-
-<p>Steric hindrance of long-chain ligands leads to abundant unpassivated dangling bonds on quantum dots (QDs), which significantly impair the efficiency and operational stability of QD light-emitting diodes (QLEDs), especially in ultra-small pixel devices. Professors Fushan Li and Hailong Hu at Fuzhou University have pioneered a "ligand reconstruction" strategy using zirconium acetylacetonate (Zr(acac)4) to precisely repair the surface defects of QDs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/breakthrough-in-quantum-dot-surface-defect-repair-enabling-ultra-high-efficiency-and-long-life-qleds/">Breakthrough in Quantum Dot Surface Defect Repair: Enabling Ultra-High Efficiency and Long-Life QLEDs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Partnership for Economic Innovation Adds Catherine Côté to its Board of Directors](https://www.semiconductor-digest.com/partnership-for-economic-innovation-adds-catherine-cote-to-its-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=partnership-for-economic-innovation-adds-catherine-cote-to-its-board-of-directors)
-**Published:** Wed, 05 Aug 2026 18:36:33 +0000
-
-<p>onsemi VP brings federal and global policy expertise to strengthen Arizona's semiconductor and technology sectors.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/partnership-for-economic-innovation-adds-catherine-cote-to-its-board-of-directors/">Partnership for Economic Innovation Adds Catherine Côté to its Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Everspin Technologies and MaxLinear Collaborate to Advance Memory Efficiency in AI Servers](https://www.semiconductor-digest.com/everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers/?utm_source=rss&utm_medium=rss&utm_campaign=everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers)
-**Published:** Tue, 04 Aug 2026 20:18:53 +0000
-
-<p>Work will focus on persistent MRAM for metadata management, log data, write buffering and cache functions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers/">Everspin Technologies and MaxLinear Collaborate to Advance Memory Efficiency in AI Servers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
