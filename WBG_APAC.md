@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-10 20:08 UTC_
+_Last updated: 2026-08-10 21:53 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,22 @@ _Last updated: 2026-08-10 20:08 UTC_
 
 <p>Global semiconductor sales reached $403.3 billion in 2Q 2026, up by 35.1% quarter-on-quarter, according to SIA.</p>
 <p>The post <a href="https://www.eetasia.com/global-chip-sales-up-35-in-2q-2026/">Global Chip Sales Up 35% in 2Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [ACM Research Expands Ultra C Tahoe into a Wet Processing Platform](https://www.semiconductor-digest.com/acm-research-expands-ultra-c-tahoe-into-a-wet-processing-platform/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-expands-ultra-c-tahoe-into-a-wet-processing-platform)
+**Published:** Mon, 10 Aug 2026 20:31:29 +0000
+
+<p>Adds advanced wet etch and monitor wafer reclaim applications for logic and memory manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/acm-research-expands-ultra-c-tahoe-into-a-wet-processing-platform/">ACM Research Expands Ultra C Tahoe into a Wet Processing Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Discovered Materials Closes $9M Seed Round to Accelerate the Adoption of New Materials for Semiconductor Chips](https://www.semiconductor-digest.com/discovered-materials-closes-9m-seed-round-to-accelerate-the-adoption-of-new-materials-for-semiconductor-chips/?utm_source=rss&utm_medium=rss&utm_campaign=discovered-materials-closes-9m-seed-round-to-accelerate-the-adoption-of-new-materials-for-semiconductor-chips)
+**Published:** Mon, 10 Aug 2026 20:27:27 +0000
+
+<p>Funding round led by Lightspeed will scale the company's AI agents, compressing years of materials R&#038;D and shrinking the lab-to-fab timeline.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/discovered-materials-closes-9m-seed-round-to-accelerate-the-adoption-of-new-materials-for-semiconductor-chips/">Discovered Materials Closes $9M Seed Round to Accelerate the Adoption of New Materials for Semiconductor Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-08-10 20:08 UTC_
 
 <p>Thin-film lithium niobate (TFLN) has spent years confined to defense applications and lab demonstrations; G&#038;H's Stratos Kehayas argues it's now graduating into mainstream commercial photonics, driven by a straightforward electrical advantage. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/tfln-a-material-platform-reaches-an-inflection-point/">TFLN: A Material Platform Reaches an Inflection Point</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Everspin Technologies and MaxLinear Collaborate to Advance Memory Efficiency in AI Servers](https://www.semiconductor-digest.com/everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers-2/?utm_source=rss&utm_medium=rss&utm_campaign=everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers-2)
-**Published:** Thu, 06 Aug 2026 21:13:39 +0000
-
-<p>Work will focus on persistent MRAM for metadata management, log data, write buffering and cache functions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers-2/">Everspin Technologies and MaxLinear Collaborate to Advance Memory Efficiency in AI Servers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AlixLabs Expands Footprint at RISE ProNano in Lund by 400 Square Meters](https://www.semiconductor-digest.com/alixlabs-expands-footprint-at-rise-pronano-in-lund-by-400-square-meters/?utm_source=rss&utm_medium=rss&utm_campaign=alixlabs-expands-footprint-at-rise-pronano-in-lund-by-400-square-meters)
-**Published:** Thu, 06 Aug 2026 21:11:30 +0000
-
-<p>AlixLabs AB, a Swedish semiconductor technology company pioneering Atomic Pitch Splitting, APS, today announced that it is expanding its cleanroom space at the Lund-based RISE ProNano lab by 400 square meters.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/alixlabs-expands-footprint-at-rise-pronano-in-lund-by-400-square-meters/">AlixLabs Expands Footprint at RISE ProNano in Lund by 400 Square Meters</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
