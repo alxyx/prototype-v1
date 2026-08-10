@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-10 15:10 UTC_
+_Last updated: 2026-08-10 16:19 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [AAI 2026: AMD Introduces Open, Turnkey Integrated Platform for Physical AI](https://www.eetasia.com/embeddednews-aai-2026-amd-introduces-open-turnkey-integrated-platform-for-physical-ai/)
+**Published:** Mon, 10 Aug 2026 15:16:28 +0000
+
+<p>AMD Kria AI solutions extend robotics capabilities from body to brain and combine the Kria AI SOM, robotics developer platform and open software ecosystem to accelerate physical AI.</p>
+<p>The post <a href="https://www.eetasia.com/embeddednews-aai-2026-amd-introduces-open-turnkey-integrated-platform-for-physical-ai/">AAI 2026: AMD Introduces Open, Turnkey Integrated Platform for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-08-10 15:10 UTC_
 
 <p>AlixLabs AB, a Swedish semiconductor technology company pioneering Atomic Pitch Splitting, APS, today announced that it is expanding its cleanroom space at the Lund-based RISE ProNano lab by 400 square meters.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/alixlabs-expands-footprint-at-rise-pronano-in-lund-by-400-square-meters/">AlixLabs Expands Footprint at RISE ProNano in Lund by 400 Square Meters</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Applauds Statement from Senators Crapo and Wyden Supporting U.S. Tax Credit for Semiconductor Manufacturing](https://www.semiconductor-digest.com/semi-applauds-statement-from-senators-crapo-and-wyden-supporting-u-s-tax-credit-for-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=semi-applauds-statement-from-senators-crapo-and-wyden-supporting-u-s-tax-credit-for-semiconductor-manufacturing)
-**Published:** Thu, 06 Aug 2026 21:05:39 +0000
-
-<p>Following Senate Finance Committee Chairman Mike Crapo (R-ID) and Ranking Member Ron Wyden (D-OR) reaffirming support for the Section 48D Advanced Manufacturing Investment Credit (AMIC), SEMI today released a statement from its President and CEO Ajit Manocha commending the action on behalf of the semiconductor supply chain.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-applauds-statement-from-senators-crapo-and-wyden-supporting-u-s-tax-credit-for-semiconductor-manufacturing/">SEMI Applauds Statement from Senators Crapo and Wyden Supporting U.S. Tax Credit for Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
