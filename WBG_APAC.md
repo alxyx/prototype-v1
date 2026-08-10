@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-10 11:22 UTC_
+_Last updated: 2026-08-10 15:10 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,6 +11,22 @@ _Last updated: 2026-08-10 11:22 UTC_
 
 <p>Global semiconductor sales reached $403.3 billion in 2Q 2026, up by 35.1% quarter-on-quarter, according to SIA.</p>
 <p>The post <a href="https://www.eetasia.com/global-chip-sales-up-35-in-2q-2026/">Global Chip Sales Up 35% in 2Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [How AI Is Reshaping Semiconductor Design and the Emerging Questions Around Human Inventorship](https://www.semiconductor-digest.com/how-ai-is-reshaping-semiconductor-design-and-the-emerging-questions-around-human-inventorship/?utm_source=rss&utm_medium=rss&utm_campaign=how-ai-is-reshaping-semiconductor-design-and-the-emerging-questions-around-human-inventorship)
+**Published:** Mon, 10 Aug 2026 14:35:14 +0000
+
+<p>IP attorney Stephen Kudla argues that's changing fast: new "agentic" AI systems can now interpret a design specification, generate RTL, build verification environments, and iterate through fixes with minimal human involvement between steps.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/how-ai-is-reshaping-semiconductor-design-and-the-emerging-questions-around-human-inventorship/">How AI Is Reshaping Semiconductor Design and the Emerging Questions Around Human Inventorship</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Conference Report: System Level Thinking Needed in AI Era](https://www.semiconductor-digest.com/conference-report-system-level-thinking-needed-in-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=conference-report-system-level-thinking-needed-in-ai-era)
+**Published:** Mon, 10 Aug 2026 14:30:17 +0000
+
+<p>Progress on Perf/Watt and Perf/TCO now depends on co-optimizing compute, memory, and interconnect as a system, not as separate scaling problems</p>
+<p>The post <a href="https://www.semiconductor-digest.com/conference-report-system-level-thinking-needed-in-ai-era/">Conference Report: System Level Thinking Needed in AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-08-10 11:22 UTC_
 
 <p>Following Senate Finance Committee Chairman Mike Crapo (R-ID) and Ranking Member Ron Wyden (D-OR) reaffirming support for the Section 48D Advanced Manufacturing Investment Credit (AMIC), SEMI today released a statement from its President and CEO Ajit Manocha commending the action on behalf of the semiconductor supply chain.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semi-applauds-statement-from-senators-crapo-and-wyden-supporting-u-s-tax-credit-for-semiconductor-manufacturing/">SEMI Applauds Statement from Senators Crapo and Wyden Supporting U.S. Tax Credit for Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Conference Report: Hybrid Bonding Advances at ECTC Meeting](https://www.semiconductor-digest.com/conference-report-hybrid-bonding-advances-at-ectc-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=conference-report-hybrid-bonding-advances-at-ectc-meeting)
-**Published:** Thu, 06 Aug 2026 13:21:31 +0000
-
-<p>Dave Lammers surveys how Applied Materials, EV Group, imec, ITRI, Leti, and Tokyo Electron are pushing hybrid bonding past its current limits. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/conference-report-hybrid-bonding-advances-at-ectc-meeting/">Conference Report: Hybrid Bonding Advances at ECTC Meeting</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Thermal Management Strategies for Next-Generation AI Chiplets and Photonic Integrated Circuits](https://www.semiconductor-digest.com/thermal-management-strategies-for-next-generation-ai-chiplets-and-photonic-integrated-circuits/?utm_source=rss&utm_medium=rss&utm_campaign=thermal-management-strategies-for-next-generation-ai-chiplets-and-photonic-integrated-circuits)
-**Published:** Thu, 06 Aug 2026 13:15:21 +0000
-
-<p>AI accelerator packages that dissipated 300-400W in 2020 routinely exceed 700W today, with roadmaps pointing past 1,000W — while the photonic ICs increasingly co-packaged alongside them need temperature stability measured in tenths of a degree.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/thermal-management-strategies-for-next-generation-ai-chiplets-and-photonic-integrated-circuits/">Thermal Management Strategies for Next-Generation AI Chiplets and Photonic Integrated Circuits</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
