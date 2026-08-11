@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-11 21:58 UTC_
+_Last updated: 2026-08-11 23:54 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,6 +11,22 @@ _Last updated: 2026-08-11 21:58 UTC_
 
 <p>AMD Ryzen AI Embedded X100 Series packs up to 16 Zen 5 cores, discrete-class iGPU and NPU with unified memory — engineered for physical AI, real-time robotics control, and industrial-grade embedded deployments.</p>
 <p>The post <a href="https://www.eetasia.com/embeddednews-aai-2026-amd-delivers-leadership-heterogeneous-compute-for-physical-ai/">AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Compal Opens Daxi AI Server Manufacturing Center](https://www.semiconductor-digest.com/compal-opens-daxi-ai-server-manufacturing-center/?utm_source=rss&utm_medium=rss&utm_campaign=compal-opens-daxi-ai-server-manufacturing-center)
+**Published:** Tue, 11 Aug 2026 21:56:18 +0000
+
+<p>Compal Electronics today held the opening ceremony for its Daxi AI Server Manufacturing Center, officially launching next-generation AI server manufacturing capacity.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/compal-opens-daxi-ai-server-manufacturing-center/">Compal Opens Daxi AI Server Manufacturing Center</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [OpenLight and Tower Semiconductor Expand PH18DA Photonics Ecosystem to Accelerate Photonic IC Development](https://www.semiconductor-digest.com/openlight-and-tower-semiconductor-expand-ph18da-photonics-ecosystem-to-accelerate-photonic-ic-development/?utm_source=rss&utm_medium=rss&utm_campaign=openlight-and-tower-semiconductor-expand-ph18da-photonics-ecosystem-to-accelerate-photonic-ic-development)
+**Published:** Tue, 11 Aug 2026 21:53:47 +0000
+
+<p>The PH18DA ecosystem brings together OpenLight’s photonics IP, Tower’s process and manufacturing expertise, and Cadence’s leading EDA tools.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/openlight-and-tower-semiconductor-expand-ph18da-photonics-ecosystem-to-accelerate-photonic-ic-development/">OpenLight and Tower Semiconductor Expand PH18DA Photonics Ecosystem to Accelerate Photonic IC Development</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-08-11 21:58 UTC_
 
 <p>Researchers have developed a flexible optical computing system capable of tackling problems beyond the reach of previous designs.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/new-shape-shifting-architecture-brings-versatility-to-photonic-quantum-computing/">New ‘Shape-Shifting’ Architecture Brings Versatility to Photonic Quantum Computing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Emergence Appoints Ian Eslick as Chief Executive Officer](https://www.semiconductor-digest.com/emergence-appoints-ian-eslick-as-chief-executive-officer/?utm_source=rss&utm_medium=rss&utm_campaign=emergence-appoints-ian-eslick-as-chief-executive-officer)
-**Published:** Fri, 07 Aug 2026 19:29:24 +0000
-
-<p>Ian Eslick will lead Emergence's commercial growth, while Co-Founder Dr. Satya Nitta assumes the role of Executive Chairman to advance the company's long-term research vision and next-generation safe autonomous AI strategy.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/emergence-appoints-ian-eslick-as-chief-executive-officer/">Emergence Appoints Ian Eslick as Chief Executive Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Intel Announces Leadership Appointment](https://www.semiconductor-digest.com/intel-announces-leadership-appointment/?utm_source=rss&utm_medium=rss&utm_campaign=intel-announces-leadership-appointment)
-**Published:** Fri, 07 Aug 2026 19:24:58 +0000
-
-<p>Intel Corporation today announced the appointment of Dean Jarnac as executive vice president and chief sales officer.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/intel-announces-leadership-appointment/">Intel Announces Leadership Appointment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
