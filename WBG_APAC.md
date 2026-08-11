@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-11 15:09 UTC_
+_Last updated: 2026-08-11 18:09 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,14 +11,6 @@ _Last updated: 2026-08-11 15:09 UTC_
 
 <p>AMD Ryzen AI Embedded X100 Series packs up to 16 Zen 5 cores, discrete-class iGPU and NPU with unified memory — engineered for physical AI, real-time robotics control, and industrial-grade embedded deployments.</p>
 <p>The post <a href="https://www.eetasia.com/embeddednews-aai-2026-amd-delivers-leadership-heterogeneous-compute-for-physical-ai/">AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Physical AI is a Systems Architecture Challenge](https://www.eetasia.com/physical-ai-is-a-systems-architecture-challenge/)
-**Published:** Tue, 11 Aug 2026 02:26:38 +0000
-
-<p>Physical AI wins by fusing sensors, edge compute, and feedback loops. Learn why systems, not TOPS, matter.</p>
-<p>The post <a href="https://www.eetasia.com/physical-ai-is-a-systems-architecture-challenge/">Physical AI is a Systems Architecture Challenge</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-08-11 15:09 UTC_
 
 <p>Ian Eslick will lead Emergence's commercial growth, while Co-Founder Dr. Satya Nitta assumes the role of Executive Chairman to advance the company's long-term research vision and next-generation safe autonomous AI strategy.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/emergence-appoints-ian-eslick-as-chief-executive-officer/">Emergence Appoints Ian Eslick as Chief Executive Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Intel Announces Leadership Appointment](https://www.semiconductor-digest.com/intel-announces-leadership-appointment/?utm_source=rss&utm_medium=rss&utm_campaign=intel-announces-leadership-appointment)
+**Published:** Fri, 07 Aug 2026 19:24:58 +0000
+
+<p>Intel Corporation today announced the appointment of Dean Jarnac as executive vice president and chief sales officer.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/intel-announces-leadership-appointment/">Intel Announces Leadership Appointment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
