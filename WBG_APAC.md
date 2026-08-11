@@ -1,8 +1,16 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-08-11 01:55 UTC_
+_Last updated: 2026-08-11 03:57 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Physical AI is a Systems Architecture Challenge](https://www.eetasia.com/physical-ai-is-a-systems-architecture-challenge/)
+**Published:** Tue, 11 Aug 2026 02:26:38 +0000
+
+<p>Physical AI wins by fusing sensors, edge compute, and feedback loops. Learn why systems, not TOPS, matter.</p>
+<p>The post <a href="https://www.eetasia.com/physical-ai-is-a-systems-architecture-challenge/">Physical AI is a Systems Architecture Challenge</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-08-11 01:55 UTC_
 
 <p>Intel Corporation today announced the appointment of Dean Jarnac as executive vice president and chief sales officer.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/intel-announces-leadership-appointment/">Intel Announces Leadership Appointment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TFLN: A Material Platform Reaches an Inflection Point](https://www.semiconductor-digest.com/tfln-a-material-platform-reaches-an-inflection-point/?utm_source=rss&utm_medium=rss&utm_campaign=tfln-a-material-platform-reaches-an-inflection-point)
-**Published:** Fri, 07 Aug 2026 12:52:34 +0000
-
-<p>Thin-film lithium niobate (TFLN) has spent years confined to defense applications and lab demonstrations; G&#038;H's Stratos Kehayas argues it's now graduating into mainstream commercial photonics, driven by a straightforward electrical advantage. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/tfln-a-material-platform-reaches-an-inflection-point/">TFLN: A Material Platform Reaches an Inflection Point</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
