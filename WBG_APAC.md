@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-11 07:19 UTC_
+_Last updated: 2026-08-11 09:09 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,14 +19,6 @@ _Last updated: 2026-08-11 07:19 UTC_
 
 <p>AMD Kria AI solutions extend robotics capabilities from body to brain and combine the Kria AI SOM, robotics developer platform and open software ecosystem to accelerate physical AI.</p>
 <p>The post <a href="https://www.eetasia.com/embeddednews-aai-2026-amd-introduces-open-turnkey-integrated-platform-for-physical-ai/">AAI 2026: AMD Introduces Open, Turnkey Integrated Platform for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Global Chip Sales Up 35% in 2Q 2026](https://www.eetasia.com/global-chip-sales-up-35-in-2q-2026/)
-**Published:** Fri, 07 Aug 2026 04:10:07 +0000
-
-<p>Global semiconductor sales reached $403.3 billion in 2Q 2026, up by 35.1% quarter-on-quarter, according to SIA.</p>
-<p>The post <a href="https://www.eetasia.com/global-chip-sales-up-35-in-2q-2026/">Global Chip Sales Up 35% in 2Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-08-11 07:19 UTC_
 
 <p>Intel Corporation today announced the appointment of Dean Jarnac as executive vice president and chief sales officer.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/intel-announces-leadership-appointment/">Intel Announces Leadership Appointment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TFLN: A Material Platform Reaches an Inflection Point](https://www.semiconductor-digest.com/tfln-a-material-platform-reaches-an-inflection-point/?utm_source=rss&utm_medium=rss&utm_campaign=tfln-a-material-platform-reaches-an-inflection-point)
+**Published:** Fri, 07 Aug 2026 12:52:34 +0000
+
+<p>Thin-film lithium niobate (TFLN) has spent years confined to defense applications and lab demonstrations; G&#038;H's Stratos Kehayas argues it's now graduating into mainstream commercial photonics, driven by a straightforward electrical advantage. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/tfln-a-material-platform-reaches-an-inflection-point/">TFLN: A Material Platform Reaches an Inflection Point</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
