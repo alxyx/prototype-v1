@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-11 12:11 UTC_
+_Last updated: 2026-08-11 15:09 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI](https://www.eetasia.com/embeddednews-aai-2026-amd-delivers-leadership-heterogeneous-compute-for-physical-ai/)
+**Published:** Tue, 11 Aug 2026 14:17:12 +0000
+
+<p>AMD Ryzen AI Embedded X100 Series packs up to 16 Zen 5 cores, discrete-class iGPU and NPU with unified memory — engineered for physical AI, real-time robotics control, and industrial-grade embedded deployments.</p>
+<p>The post <a href="https://www.eetasia.com/embeddednews-aai-2026-amd-delivers-leadership-heterogeneous-compute-for-physical-ai/">AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -14,11 +22,19 @@ _Last updated: 2026-08-11 12:11 UTC_
 
 ---
 
-## [AAI 2026: AMD Introduces Open, Turnkey Integrated Platform for Physical AI](https://www.eetasia.com/embeddednews-aai-2026-amd-introduces-open-turnkey-integrated-platform-for-physical-ai/)
-**Published:** Mon, 10 Aug 2026 15:16:28 +0000
+## [Why Edge AI Demands Companion Silicon](https://www.semiconductor-digest.com/why-edge-ai-demands-companion-silicon/?utm_source=rss&utm_medium=rss&utm_campaign=why-edge-ai-demands-companion-silicon)
+**Published:** Tue, 11 Aug 2026 13:08:17 +0000
 
-<p>AMD Kria AI solutions extend robotics capabilities from body to brain and combine the Kria AI SOM, robotics developer platform and open software ecosystem to accelerate physical AI.</p>
-<p>The post <a href="https://www.eetasia.com/embeddednews-aai-2026-amd-introduces-open-turnkey-integrated-platform-for-physical-ai/">AAI 2026: AMD Introduces Open, Turnkey Integrated Platform for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Lattice's Hussein Osman frames the next phase of edge AI as a reliability-at-scale problem rather than a raw-performance one.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/why-edge-ai-demands-companion-silicon/">Why Edge AI Demands Companion Silicon</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The Interoperability Illusion: The True Test for Smart Utilities and Cities](https://www.semiconductor-digest.com/the-interoperability-illusion-the-true-test-for-smart-utilities-and-cities/?utm_source=rss&utm_medium=rss&utm_campaign=the-interoperability-illusion-the-true-test-for-smart-utilities-and-cities)
+**Published:** Tue, 11 Aug 2026 13:00:02 +0000
+
+<p>Wi-SUN Alliance's Phil Beecher makes a pointed distinction: standards compliance and real-world interoperability are not the same thing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-interoperability-illusion-the-true-test-for-smart-utilities-and-cities/">The Interoperability Illusion: The True Test for Smart Utilities and Cities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-08-11 12:11 UTC_
 
 <p>Ian Eslick will lead Emergence's commercial growth, while Co-Founder Dr. Satya Nitta assumes the role of Executive Chairman to advance the company's long-term research vision and next-generation safe autonomous AI strategy.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/emergence-appoints-ian-eslick-as-chief-executive-officer/">Emergence Appoints Ian Eslick as Chief Executive Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Intel Announces Leadership Appointment](https://www.semiconductor-digest.com/intel-announces-leadership-appointment/?utm_source=rss&utm_medium=rss&utm_campaign=intel-announces-leadership-appointment)
-**Published:** Fri, 07 Aug 2026 19:24:58 +0000
-
-<p>Intel Corporation today announced the appointment of Dean Jarnac as executive vice president and chief sales officer.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/intel-announces-leadership-appointment/">Intel Announces Leadership Appointment</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TFLN: A Material Platform Reaches an Inflection Point](https://www.semiconductor-digest.com/tfln-a-material-platform-reaches-an-inflection-point/?utm_source=rss&utm_medium=rss&utm_campaign=tfln-a-material-platform-reaches-an-inflection-point)
-**Published:** Fri, 07 Aug 2026 12:52:34 +0000
-
-<p>Thin-film lithium niobate (TFLN) has spent years confined to defense applications and lab demonstrations; G&#038;H's Stratos Kehayas argues it's now graduating into mainstream commercial photonics, driven by a straightforward electrical advantage. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/tfln-a-material-platform-reaches-an-inflection-point/">TFLN: A Material Platform Reaches an Inflection Point</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
