@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-12 13:20 UTC_
+_Last updated: 2026-08-12 17:17 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,22 @@ _Last updated: 2026-08-12 13:20 UTC_
 
 <p>Advancing AI 2026 Developer Sessions united over 2,000 developers around AMD’s open AI ecosystem, featuring ROCm.ai, ROCm Certified Associate training, 44 hours of hands-on labs, and workshops on agentic AI, multimodal agents, and physical AI robotics—empowering developers to build, optimize, and deploy next-gen AI workloads.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-advancing-ai-2026-developer-sessions-where-ai-builders-gather-to-engineer-tomorrows-ai/">Advancing AI 2026 Developer Sessions: Where AI Builders Gather to Engineer Tomorrow’s AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Never Trust, Always Verify: How Zero-Trust Architecture Is Reshaping Semiconductor Manufacturing](https://www.semiconductor-digest.com/never-trust-always-verify-how-zero-trust-architecture-is-reshaping-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=never-trust-always-verify-how-zero-trust-architecture-is-reshaping-semiconductor-manufacturing)
+**Published:** Wed, 12 Aug 2026 13:41:42 +0000
+
+<p>The old model of fab security — a hardened perimeter separating trusted insiders from untrusted outsiders — has collapsed</p>
+<p>The post <a href="https://www.semiconductor-digest.com/never-trust-always-verify-how-zero-trust-architecture-is-reshaping-semiconductor-manufacturing/">Never Trust, Always Verify: How Zero-Trust Architecture Is Reshaping Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Semiconductor Construction: Practical Strategies for More Sustainable Fabs](https://www.semiconductor-digest.com/semiconductor-construction-practical-strategies-for-more-sustainable-fabs/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-construction-practical-strategies-for-more-sustainable-fabs)
+**Published:** Wed, 12 Aug 2026 13:37:17 +0000
+
+<p>Skanska's Steve Clem and Myrrh Caplan lay out why decarbonizing fab construction is harder than swapping materials.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-construction-practical-strategies-for-more-sustainable-fabs/">Semiconductor Construction: Practical Strategies for More Sustainable Fabs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-08-12 13:20 UTC_
 
 <p>Funding round led by Lightspeed will scale the company's AI agents, compressing years of materials R&#038;D and shrinking the lab-to-fab timeline.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/discovered-materials-closes-9m-seed-round-to-accelerate-the-adoption-of-new-materials-for-semiconductor-chips/">Discovered Materials Closes $9M Seed Round to Accelerate the Adoption of New Materials for Semiconductor Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [How AI Is Reshaping Semiconductor Design and the Emerging Questions Around Human Inventorship](https://www.semiconductor-digest.com/how-ai-is-reshaping-semiconductor-design-and-the-emerging-questions-around-human-inventorship/?utm_source=rss&utm_medium=rss&utm_campaign=how-ai-is-reshaping-semiconductor-design-and-the-emerging-questions-around-human-inventorship)
-**Published:** Mon, 10 Aug 2026 14:35:14 +0000
-
-<p>IP attorney Stephen Kudla argues that's changing fast: new "agentic" AI systems can now interpret a design specification, generate RTL, build verification environments, and iterate through fixes with minimal human involvement between steps.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/how-ai-is-reshaping-semiconductor-design-and-the-emerging-questions-around-human-inventorship/">How AI Is Reshaping Semiconductor Design and the Emerging Questions Around Human Inventorship</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Conference Report: System Level Thinking Needed in AI Era](https://www.semiconductor-digest.com/conference-report-system-level-thinking-needed-in-ai-era/?utm_source=rss&utm_medium=rss&utm_campaign=conference-report-system-level-thinking-needed-in-ai-era)
-**Published:** Mon, 10 Aug 2026 14:30:17 +0000
-
-<p>Progress on Perf/Watt and Perf/TCO now depends on co-optimizing compute, memory, and interconnect as a system, not as separate scaling problems</p>
-<p>The post <a href="https://www.semiconductor-digest.com/conference-report-system-level-thinking-needed-in-ai-era/">Conference Report: System Level Thinking Needed in AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
