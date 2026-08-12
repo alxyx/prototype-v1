@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-12 06:26 UTC_
+_Last updated: 2026-08-12 08:29 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Advancing AI 2026 Developer Sessions: Where AI Builders Gather to Engineer Tomorrow’s AI](https://www.eetasia.com/embeddedblog-advancing-ai-2026-developer-sessions-where-ai-builders-gather-to-engineer-tomorrows-ai/)
+**Published:** Wed, 12 Aug 2026 08:07:59 +0000
+
+<p>Advancing AI 2026 Developer Sessions united over 2,000 developers around AMD’s open AI ecosystem, featuring ROCm.ai, ROCm Certified Associate training, 44 hours of hands-on labs, and workshops on agentic AI, multimodal agents, and physical AI robotics—empowering developers to build, optimize, and deploy next-gen AI workloads.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-advancing-ai-2026-developer-sessions-where-ai-builders-gather-to-engineer-tomorrows-ai/">Advancing AI 2026 Developer Sessions: Where AI Builders Gather to Engineer Tomorrow’s AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-08-12 06:26 UTC_
 
 <p>Progress on Perf/Watt and Perf/TCO now depends on co-optimizing compute, memory, and interconnect as a system, not as separate scaling problems</p>
 <p>The post <a href="https://www.semiconductor-digest.com/conference-report-system-level-thinking-needed-in-ai-era/">Conference Report: System Level Thinking Needed in AI Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New ‘Shape-Shifting’ Architecture Brings Versatility to Photonic Quantum Computing](https://www.semiconductor-digest.com/new-shape-shifting-architecture-brings-versatility-to-photonic-quantum-computing/?utm_source=rss&utm_medium=rss&utm_campaign=new-shape-shifting-architecture-brings-versatility-to-photonic-quantum-computing)
-**Published:** Fri, 07 Aug 2026 19:33:28 +0000
-
-<p>Researchers have developed a flexible optical computing system capable of tackling problems beyond the reach of previous designs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-shape-shifting-architecture-brings-versatility-to-photonic-quantum-computing/">New ‘Shape-Shifting’ Architecture Brings Versatility to Photonic Quantum Computing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
