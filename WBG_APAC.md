@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-12 08:29 UTC_
+_Last updated: 2026-08-12 11:58 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [7 Takeaways from AMD Advancing AI 2026 to Guide Your 2027 Infrastructure Plan](https://www.eetasia.com/embeddedblog-7-takeaways-from-amd-advancing-ai-2026-to-guide-your-2027-infrastructure-plan/)
+**Published:** Wed, 12 Aug 2026 08:28:54 +0000
+
+<p>AMD Advancing AI 2026 showed agentic AI changes infrastructure math—plan CPU (EPYC 9006) before GPU, buy by scenario (MI455X/MI430X/MI350P), procure by rack (Helios, 72 GPUs, +30% tokens/$), lean on ROCm.ai, govern with AT&#38;T/Cisco patterns, and add Physical AI (Kria) to the 2027 roadmap.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-7-takeaways-from-amd-advancing-ai-2026-to-guide-your-2027-infrastructure-plan/">7 Takeaways from AMD Advancing AI 2026 to Guide Your 2027 Infrastructure Plan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,14 +19,6 @@ _Last updated: 2026-08-12 08:29 UTC_
 
 <p>Advancing AI 2026 Developer Sessions united over 2,000 developers around AMD’s open AI ecosystem, featuring ROCm.ai, ROCm Certified Associate training, 44 hours of hands-on labs, and workshops on agentic AI, multimodal agents, and physical AI robotics—empowering developers to build, optimize, and deploy next-gen AI workloads.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-advancing-ai-2026-developer-sessions-where-ai-builders-gather-to-engineer-tomorrows-ai/">Advancing AI 2026 Developer Sessions: Where AI Builders Gather to Engineer Tomorrow’s AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI](https://www.eetasia.com/embeddednews-aai-2026-amd-delivers-leadership-heterogeneous-compute-for-physical-ai/)
-**Published:** Tue, 11 Aug 2026 14:17:12 +0000
-
-<p>AMD Ryzen AI Embedded X100 Series packs up to 16 Zen 5 cores, discrete-class iGPU and NPU with unified memory — engineered for physical AI, real-time robotics control, and industrial-grade embedded deployments.</p>
-<p>The post <a href="https://www.eetasia.com/embeddednews-aai-2026-amd-delivers-leadership-heterogeneous-compute-for-physical-ai/">AAI 2026: AMD Delivers Leadership Heterogeneous Compute for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
