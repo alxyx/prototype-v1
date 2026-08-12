@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-12 17:17 UTC_
+_Last updated: 2026-08-12 21:57 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,30 @@ _Last updated: 2026-08-12 17:17 UTC_
 
 <p>Advancing AI 2026 Developer Sessions united over 2,000 developers around AMD’s open AI ecosystem, featuring ROCm.ai, ROCm Certified Associate training, 44 hours of hands-on labs, and workshops on agentic AI, multimodal agents, and physical AI robotics—empowering developers to build, optimize, and deploy next-gen AI workloads.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-advancing-ai-2026-developer-sessions-where-ai-builders-gather-to-engineer-tomorrows-ai/">Advancing AI 2026 Developer Sessions: Where AI Builders Gather to Engineer Tomorrow’s AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [BBCube: A Novel Chip-on-Wafer Technology for Next-Generation AI Chip Integration](https://www.semiconductor-digest.com/bbcube-a-novel-chip-on-wafer-technology-for-next-generation-ai-chip-integration/?utm_source=rss&utm_medium=rss&utm_campaign=bbcube-a-novel-chip-on-wafer-technology-for-next-generation-ai-chip-integration)
+**Published:** Wed, 12 Aug 2026 21:28:40 +0000
+
+<p>Three core technologies involving advanced packaging, chip interconnects, and thermal design enable high-performance semiconductor systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/bbcube-a-novel-chip-on-wafer-technology-for-next-generation-ai-chip-integration/">BBCube: A Novel Chip-on-Wafer Technology for Next-Generation AI Chip Integration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Rice’s Huang Elected Fellow of SPIE for Contributions to Optics and Photonics](https://www.semiconductor-digest.com/rices-huang-elected-fellow-of-spie-for-contributions-to-optics-and-photonics/?utm_source=rss&utm_medium=rss&utm_campaign=rices-huang-elected-fellow-of-spie-for-contributions-to-optics-and-photonics)
+**Published:** Wed, 12 Aug 2026 21:24:22 +0000
+
+<p>Shengxi Huang, associate professor in Rice University’s Department of Electrical and Computer Engineering, was elected this month as a fellow of SPIE, the international society for optics and photonics, in recognition of her contributions to the field and service to its scientific community.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rices-huang-elected-fellow-of-spie-for-contributions-to-optics-and-photonics/">Rice’s Huang Elected Fellow of SPIE for Contributions to Optics and Photonics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Lam Research and NY Creates Team Up to Enable Training of University Students for the Semiconductor Workforce](https://www.semiconductor-digest.com/lam-research-and-ny-creates-team-up-to-enable-training-of-university-students-for-the-semiconductor-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-and-ny-creates-team-up-to-enable-training-of-university-students-for-the-semiconductor-workforce)
+**Published:** Wed, 12 Aug 2026 21:04:31 +0000
+
+<p>The program will use Lam's SEMulator3D virtual fabrication software, part of the Semiverse Solutions portfolio, to deliver hands-on learning across NY Creates' network of partner colleges and universities in the Northeast.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lam-research-and-ny-creates-team-up-to-enable-training-of-university-students-for-the-semiconductor-workforce/">Lam Research and NY Creates Team Up to Enable Training of University Students for the Semiconductor Workforce</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-08-12 17:17 UTC_
 
 <p>Lattice's Hussein Osman frames the next phase of edge AI as a reliability-at-scale problem rather than a raw-performance one.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/why-edge-ai-demands-companion-silicon/">Why Edge AI Demands Companion Silicon</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The Interoperability Illusion: The True Test for Smart Utilities and Cities](https://www.semiconductor-digest.com/the-interoperability-illusion-the-true-test-for-smart-utilities-and-cities/?utm_source=rss&utm_medium=rss&utm_campaign=the-interoperability-illusion-the-true-test-for-smart-utilities-and-cities)
-**Published:** Tue, 11 Aug 2026 13:00:02 +0000
-
-<p>Wi-SUN Alliance's Phil Beecher makes a pointed distinction: standards compliance and real-world interoperability are not the same thing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-interoperability-illusion-the-true-test-for-smart-utilities-and-cities/">The Interoperability Illusion: The True Test for Smart Utilities and Cities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ACM Research Expands Ultra C Tahoe into a Wet Processing Platform](https://www.semiconductor-digest.com/acm-research-expands-ultra-c-tahoe-into-a-wet-processing-platform/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-expands-ultra-c-tahoe-into-a-wet-processing-platform)
-**Published:** Mon, 10 Aug 2026 20:31:29 +0000
-
-<p>Adds advanced wet etch and monitor wafer reclaim applications for logic and memory manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/acm-research-expands-ultra-c-tahoe-into-a-wet-processing-platform/">ACM Research Expands Ultra C Tahoe into a Wet Processing Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Discovered Materials Closes $9M Seed Round to Accelerate the Adoption of New Materials for Semiconductor Chips](https://www.semiconductor-digest.com/discovered-materials-closes-9m-seed-round-to-accelerate-the-adoption-of-new-materials-for-semiconductor-chips/?utm_source=rss&utm_medium=rss&utm_campaign=discovered-materials-closes-9m-seed-round-to-accelerate-the-adoption-of-new-materials-for-semiconductor-chips)
-**Published:** Mon, 10 Aug 2026 20:27:27 +0000
-
-<p>Funding round led by Lightspeed will scale the company's AI agents, compressing years of materials R&#038;D and shrinking the lab-to-fab timeline.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/discovered-materials-closes-9m-seed-round-to-accelerate-the-adoption-of-new-materials-for-semiconductor-chips/">Discovered Materials Closes $9M Seed Round to Accelerate the Adoption of New Materials for Semiconductor Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
