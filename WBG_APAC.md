@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-13 20:55 UTC_
+_Last updated: 2026-08-13 21:56 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,30 @@ _Last updated: 2026-08-13 20:55 UTC_
 
 <p>Advancing AI 2026 Developer Sessions united over 2,000 developers around AMD’s open AI ecosystem, featuring ROCm.ai, ROCm Certified Associate training, 44 hours of hands-on labs, and workshops on agentic AI, multimodal agents, and physical AI robotics—empowering developers to build, optimize, and deploy next-gen AI workloads.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-advancing-ai-2026-developer-sessions-where-ai-builders-gather-to-engineer-tomorrows-ai/">Advancing AI 2026 Developer Sessions: Where AI Builders Gather to Engineer Tomorrow’s AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Omdia: Incremental Expansions to Reach Record 40% of FPD Equipment Market in 2027](https://www.semiconductor-digest.com/omdia-incremental-expansions-to-reach-record-40-of-fpd-equipment-market-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-incremental-expansions-to-reach-record-40-of-fpd-equipment-market-in-2027)
+**Published:** Thu, 13 Aug 2026 21:05:48 +0000
+
+<p>Incremental equipment investments at existing flat panel display (FPD) factories are set to account for nearly 40% of the total FPD equipment market in 2027, a record high, according to the latest research from Omdia.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-incremental-expansions-to-reach-record-40-of-fpd-equipment-market-in-2027/">Omdia: Incremental Expansions to Reach Record 40% of FPD Equipment Market in 2027</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Lam Research Announces Plans to Invest More than $3B to Expand Global Lab Network](https://www.semiconductor-digest.com/lam-research-announces-plans-to-invest-more-than-3b-to-expand-global-lab-network/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-announces-plans-to-invest-more-than-3b-to-expand-global-lab-network)
+**Published:** Thu, 13 Aug 2026 21:01:50 +0000
+
+<p>Lam Research Corp. today announced that it intends to invest more than $3 billion over the next five years to expand its global research and development (R&#038;D) lab network.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lam-research-announces-plans-to-invest-more-than-3b-to-expand-global-lab-network/">Lam Research Announces Plans to Invest More than $3B to Expand Global Lab Network</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [UC Berkeley to Join Applied Materials’ EPIC Center to Speed Chip Innovation](https://www.semiconductor-digest.com/uc-berkeley-to-join-applied-materials-epic-center-to-speed-chip-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=uc-berkeley-to-join-applied-materials-epic-center-to-speed-chip-innovation)
+**Published:** Thu, 13 Aug 2026 20:50:43 +0000
+
+<p>Applied Materials, Inc. today announced that the University of California, Berkeley will join the company’s EPIC Center in Silicon Valley as a research collaborator.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/uc-berkeley-to-join-applied-materials-epic-center-to-speed-chip-innovation/">UC Berkeley to Join Applied Materials&#8217; EPIC Center to Speed Chip Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-08-13 20:55 UTC_
 
 <p>Three core technologies involving advanced packaging, chip interconnects, and thermal design enable high-performance semiconductor systems.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/bbcube-a-novel-chip-on-wafer-technology-for-next-generation-ai-chip-integration/">BBCube: A Novel Chip-on-Wafer Technology for Next-Generation AI Chip Integration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rice’s Huang Elected Fellow of SPIE for Contributions to Optics and Photonics](https://www.semiconductor-digest.com/rices-huang-elected-fellow-of-spie-for-contributions-to-optics-and-photonics/?utm_source=rss&utm_medium=rss&utm_campaign=rices-huang-elected-fellow-of-spie-for-contributions-to-optics-and-photonics)
-**Published:** Wed, 12 Aug 2026 21:24:22 +0000
-
-<p>Shengxi Huang, associate professor in Rice University’s Department of Electrical and Computer Engineering, was elected this month as a fellow of SPIE, the international society for optics and photonics, in recognition of her contributions to the field and service to its scientific community.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rices-huang-elected-fellow-of-spie-for-contributions-to-optics-and-photonics/">Rice’s Huang Elected Fellow of SPIE for Contributions to Optics and Photonics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lam Research and NY Creates Team Up to Enable Training of University Students for the Semiconductor Workforce](https://www.semiconductor-digest.com/lam-research-and-ny-creates-team-up-to-enable-training-of-university-students-for-the-semiconductor-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-and-ny-creates-team-up-to-enable-training-of-university-students-for-the-semiconductor-workforce)
-**Published:** Wed, 12 Aug 2026 21:04:31 +0000
-
-<p>The program will use Lam's SEMulator3D virtual fabrication software, part of the Semiverse Solutions portfolio, to deliver hands-on learning across NY Creates' network of partner colleges and universities in the Northeast.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lam-research-and-ny-creates-team-up-to-enable-training-of-university-students-for-the-semiconductor-workforce/">Lam Research and NY Creates Team Up to Enable Training of University Students for the Semiconductor Workforce</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Never Trust, Always Verify: How Zero-Trust Architecture Is Reshaping Semiconductor Manufacturing](https://www.semiconductor-digest.com/never-trust-always-verify-how-zero-trust-architecture-is-reshaping-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=never-trust-always-verify-how-zero-trust-architecture-is-reshaping-semiconductor-manufacturing)
-**Published:** Wed, 12 Aug 2026 13:41:42 +0000
-
-<p>The old model of fab security — a hardened perimeter separating trusted insiders from untrusted outsiders — has collapsed</p>
-<p>The post <a href="https://www.semiconductor-digest.com/never-trust-always-verify-how-zero-trust-architecture-is-reshaping-semiconductor-manufacturing/">Never Trust, Always Verify: How Zero-Trust Architecture Is Reshaping Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
