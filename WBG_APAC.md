@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-14 18:05 UTC_
+_Last updated: 2026-08-14 21:37 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,22 @@ _Last updated: 2026-08-14 18:05 UTC_
 
 <p>Advancing AI 2026 Developer Sessions united over 2,000 developers around AMD’s open AI ecosystem, featuring ROCm.ai, ROCm Certified Associate training, 44 hours of hands-on labs, and workshops on agentic AI, multimodal agents, and physical AI robotics—empowering developers to build, optimize, and deploy next-gen AI workloads.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-advancing-ai-2026-developer-sessions-where-ai-builders-gather-to-engineer-tomorrows-ai/">Advancing AI 2026 Developer Sessions: Where AI Builders Gather to Engineer Tomorrow’s AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [TIER IV Joins JST’s Next-Generation Edge AI Semiconductor R&D Program](https://www.semiconductor-digest.com/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program/?utm_source=rss&utm_medium=rss&utm_campaign=tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program)
+**Published:** Fri, 14 Aug 2026 19:19:26 +0000
+
+<p>TIER IV has joined the Next-Generation Edge AI Semiconductor Research and Development Program led by the Japan Science and Technology Agency (JST) to advance research and development of a software-defined system-on-chip (SoC) for Level 4 autonomous driving.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program/">TIER IV Joins JST&#8217;s Next-Generation Edge AI Semiconductor R&#038;D Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Minnesota Iron Ore Could Be Key to Sustainable and Lower-Cost Semiconductor](https://www.semiconductor-digest.com/minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor)
+**Published:** Fri, 14 Aug 2026 19:14:05 +0000
+
+<p>New discovery has implications for the future of electronics, solar panels, batteries and more.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor/">Minnesota Iron Ore Could Be Key to Sustainable and Lower-Cost Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-08-14 18:05 UTC_
 
 <p>Semiconductor executive brings more than 30 years of experience and a buyer-side perspective on data center and AI infrastructure.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/everspin-technologies-appoints-vikas-choudhary-to-board-of-directors/">Everspin Technologies Appoints Vikas Choudhary to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Seoul Semiconductor Secures Permanent Injunction in India Following Rulings in Europe and the United States](https://www.semiconductor-digest.com/seoul-semiconductor-secures-permanent-injunction-in-india-following-rulings-in-europe-and-the-united-states/?utm_source=rss&utm_medium=rss&utm_campaign=seoul-semiconductor-secures-permanent-injunction-in-india-following-rulings-in-europe-and-the-united-states)
-**Published:** Thu, 13 Aug 2026 19:53:21 +0000
-
-<p>Seoul Semiconductor Co., Ltd. and its affiliate Seoul Viosys Co., Ltd., global opto-semiconductor technology companies, have obtained a permanent injunction enjoining infringement of Seoul’s opto-semiconductor patents in India, following similar injunction rulings in Europe and the United States.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/seoul-semiconductor-secures-permanent-injunction-in-india-following-rulings-in-europe-and-the-united-states/">Seoul Semiconductor Secures Permanent Injunction in India Following Rulings in Europe and the United States</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [BBCube: A Novel Chip-on-Wafer Technology for Next-Generation AI Chip Integration](https://www.semiconductor-digest.com/bbcube-a-novel-chip-on-wafer-technology-for-next-generation-ai-chip-integration/?utm_source=rss&utm_medium=rss&utm_campaign=bbcube-a-novel-chip-on-wafer-technology-for-next-generation-ai-chip-integration)
-**Published:** Wed, 12 Aug 2026 21:28:40 +0000
-
-<p>Three core technologies involving advanced packaging, chip interconnects, and thermal design enable high-performance semiconductor systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/bbcube-a-novel-chip-on-wafer-technology-for-next-generation-ai-chip-integration/">BBCube: A Novel Chip-on-Wafer Technology for Next-Generation AI Chip Integration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
