@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-17 19:40 UTC_
+_Last updated: 2026-08-17 22:38 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,30 @@ _Last updated: 2026-08-17 19:40 UTC_
 
 <p>Advancing AI 2026 Developer Sessions united over 2,000 developers around AMD’s open AI ecosystem, featuring ROCm.ai, ROCm Certified Associate training, 44 hours of hands-on labs, and workshops on agentic AI, multimodal agents, and physical AI robotics—empowering developers to build, optimize, and deploy next-gen AI workloads.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-advancing-ai-2026-developer-sessions-where-ai-builders-gather-to-engineer-tomorrows-ai/">Advancing AI 2026 Developer Sessions: Where AI Builders Gather to Engineer Tomorrow’s AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO](https://www.semiconductor-digest.com/kulicke-and-soffa-industries-inc-appoints-dr-raj-talluri-as-president-and-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=kulicke-and-soffa-industries-inc-appoints-dr-raj-talluri-as-president-and-ceo)
+**Published:** Mon, 17 Aug 2026 21:08:17 +0000
+
+<p>Kulicke and Soffa Industries, Inc. today announced that it has named Dr. Raj Talluri as President and Chief Executive Officer effective September 1, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kulicke-and-soffa-industries-inc-appoints-dr-raj-talluri-as-president-and-ceo/">Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Wearable Sensors and AI Could Monitor Blood Pressure in ICU](https://www.semiconductor-digest.com/wearable-sensors-and-ai-could-monitor-blood-pressure-in-icu/?utm_source=rss&utm_medium=rss&utm_campaign=wearable-sensors-and-ai-could-monitor-blood-pressure-in-icu)
+**Published:** Mon, 17 Aug 2026 20:41:59 +0000
+
+<p>Wearable sensors coupled with AI can generate blood pressure readings nearly as well as the invasive and risky arterial lines relied on in intensive care units and operating rooms, new work by Johns Hopkins University researchers demonstrates.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/wearable-sensors-and-ai-could-monitor-blood-pressure-in-icu/">Wearable Sensors and AI Could Monitor Blood Pressure in ICU</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [UMass Amherst Engineers Make Edge AI More Efficient by Redesigning Both Algorithm and Hardware](https://www.semiconductor-digest.com/umass-amherst-engineers-make-edge-ai-more-efficient-by-redesigning-both-algorithm-and-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=umass-amherst-engineers-make-edge-ai-more-efficient-by-redesigning-both-algorithm-and-hardware)
+**Published:** Mon, 17 Aug 2026 20:20:54 +0000
+
+<p>System leverages hyperdimensional computing algorithms and analog in-memory computing hardware to achieve quick, accurate processing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/umass-amherst-engineers-make-edge-ai-more-efficient-by-redesigning-both-algorithm-and-hardware/">UMass Amherst Engineers Make Edge AI More Efficient by Redesigning Both Algorithm and Hardware</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-08-17 19:40 UTC_
 
 <p>Applied Materials, Inc. today announced that the University of California, Berkeley will join the company’s EPIC Center in Silicon Valley as a research collaborator.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/uc-berkeley-to-join-applied-materials-epic-center-to-speed-chip-innovation/">UC Berkeley to Join Applied Materials&#8217; EPIC Center to Speed Chip Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia](https://www.semiconductor-digest.com/nxp-semiconductors-breaks-ground-on-assembly-and-test-site-expansion-in-malaysia/?utm_source=rss&utm_medium=rss&utm_campaign=nxp-semiconductors-breaks-ground-on-assembly-and-test-site-expansion-in-malaysia)
-**Published:** Thu, 13 Aug 2026 20:32:22 +0000
-
-<p>NXP Semiconductors N.V. (NASDAQ: NXPI) today celebrated the groundbreaking of its new assembly and test (A&#038;T) factory in Petaling Jaya, Malaysia, an expansion of the company’s existing A&#038;T site.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nxp-semiconductors-breaks-ground-on-assembly-and-test-site-expansion-in-malaysia/">NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI](https://www.semiconductor-digest.com/micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai/?utm_source=rss&utm_medium=rss&utm_campaign=micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai)
-**Published:** Thu, 13 Aug 2026 20:29:09 +0000
-
-<p>Micron Technology, Inc. today launched the Micron Ventures Paradigm Fund, a $250 million investment vehicle built to partner with the companies shaping the future of AI.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai/">Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Everspin Technologies Appoints Vikas Choudhary to Board of Directors](https://www.semiconductor-digest.com/everspin-technologies-appoints-vikas-choudhary-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=everspin-technologies-appoints-vikas-choudhary-to-board-of-directors)
-**Published:** Thu, 13 Aug 2026 19:58:12 +0000
-
-<p>Semiconductor executive brings more than 30 years of experience and a buyer-side perspective on data center and AI infrastructure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/everspin-technologies-appoints-vikas-choudhary-to-board-of-directors/">Everspin Technologies Appoints Vikas Choudhary to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
