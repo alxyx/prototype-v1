@@ -1,24 +1,8 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-18 01:24 UTC_
+_Last updated: 2026-08-18 06:54 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
-
----
-
-## [7 Takeaways from AMD Advancing AI 2026 to Guide Your 2027 Infrastructure Plan](https://www.eetasia.com/embeddedblog-7-takeaways-from-amd-advancing-ai-2026-to-guide-your-2027-infrastructure-plan/)
-**Published:** Wed, 12 Aug 2026 08:28:54 +0000
-
-<p>AMD Advancing AI 2026 showed agentic AI changes infrastructure math—plan CPU (EPYC 9006) before GPU, buy by scenario (MI455X/MI430X/MI350P), procure by rack (Helios, 72 GPUs, +30% tokens/$), lean on ROCm.ai, govern with AT&#38;T/Cisco patterns, and add Physical AI (Kria) to the 2027 roadmap.</p>
-<p>The post <a href="https://www.eetasia.com/embeddedblog-7-takeaways-from-amd-advancing-ai-2026-to-guide-your-2027-infrastructure-plan/">7 Takeaways from AMD Advancing AI 2026 to Guide Your 2027 Infrastructure Plan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Advancing AI 2026 Developer Sessions: Where AI Builders Gather to Engineer Tomorrow’s AI](https://www.eetasia.com/embeddedblog-advancing-ai-2026-developer-sessions-where-ai-builders-gather-to-engineer-tomorrows-ai/)
-**Published:** Wed, 12 Aug 2026 08:07:59 +0000
-
-<p>Advancing AI 2026 Developer Sessions united over 2,000 developers around AMD’s open AI ecosystem, featuring ROCm.ai, ROCm Certified Associate training, 44 hours of hands-on labs, and workshops on agentic AI, multimodal agents, and physical AI robotics—empowering developers to build, optimize, and deploy next-gen AI workloads.</p>
-<p>The post <a href="https://www.eetasia.com/embeddedblog-advancing-ai-2026-developer-sessions-where-ai-builders-gather-to-engineer-tomorrows-ai/">Advancing AI 2026 Developer Sessions: Where AI Builders Gather to Engineer Tomorrow’s AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +67,22 @@ _Last updated: 2026-08-18 01:24 UTC_
 
 <p>Applied Materials, Inc. today announced that the University of California, Berkeley will join the company’s EPIC Center in Silicon Valley as a research collaborator.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/uc-berkeley-to-join-applied-materials-epic-center-to-speed-chip-innovation/">UC Berkeley to Join Applied Materials&#8217; EPIC Center to Speed Chip Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia](https://www.semiconductor-digest.com/nxp-semiconductors-breaks-ground-on-assembly-and-test-site-expansion-in-malaysia/?utm_source=rss&utm_medium=rss&utm_campaign=nxp-semiconductors-breaks-ground-on-assembly-and-test-site-expansion-in-malaysia)
+**Published:** Thu, 13 Aug 2026 20:32:22 +0000
+
+<p>NXP Semiconductors N.V. (NASDAQ: NXPI) today celebrated the groundbreaking of its new assembly and test (A&#038;T) factory in Petaling Jaya, Malaysia, an expansion of the company’s existing A&#038;T site.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nxp-semiconductors-breaks-ground-on-assembly-and-test-site-expansion-in-malaysia/">NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI](https://www.semiconductor-digest.com/micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai/?utm_source=rss&utm_medium=rss&utm_campaign=micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai)
+**Published:** Thu, 13 Aug 2026 20:29:09 +0000
+
+<p>Micron Technology, Inc. today launched the Micron Ventures Paradigm Fund, a $250 million investment vehicle built to partner with the companies shaping the future of AI.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai/">Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
