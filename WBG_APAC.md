@@ -1,8 +1,40 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-18 20:37 UTC_
+_Last updated: 2026-08-18 21:36 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [The Ultimate Glow Up: NUS CDE Researchers Push Flexible Display Brightness to New Records](https://www.semiconductor-digest.com/the-ultimate-glow-up-nus-cde-researchers-push-flexible-display-brightness-to-new-records/?utm_source=rss&utm_medium=rss&utm_campaign=the-ultimate-glow-up-nus-cde-researchers-push-flexible-display-brightness-to-new-records)
+**Published:** Tue, 18 Aug 2026 21:19:24 +0000
+
+<p>From a skin patch that changes colour to flag abnormal blood sugar, to a diver’s sleeve display that stays readable underwater, the need for bright, flexible screens is growing, but no existing technology delivers the combination of simplicity, low power and robustness these applications need.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-ultimate-glow-up-nus-cde-researchers-push-flexible-display-brightness-to-new-records/">The Ultimate Glow Up: NUS CDE Researchers Push Flexible Display Brightness to New Records</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SUNY Poly Joins $19.9M National Science Foundation Initiative to Accelerate AI-Driven Materials Discovery](https://www.semiconductor-digest.com/suny-poly-joins-19-9m-national-science-foundation-initiative-to-accelerate-ai-driven-materials-discovery/?utm_source=rss&utm_medium=rss&utm_campaign=suny-poly-joins-19-9m-national-science-foundation-initiative-to-accelerate-ai-driven-materials-discovery)
+**Published:** Tue, 18 Aug 2026 21:16:22 +0000
+
+<p>SUNY Polytechnic Institute (SUNY Poly) is playing a key role in a new national research initiative led by Rice University, which has received a $19.9 million award from the National Science Foundation (NSF).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/suny-poly-joins-19-9m-national-science-foundation-initiative-to-accelerate-ai-driven-materials-discovery/">SUNY Poly Joins $19.9M National Science Foundation Initiative to Accelerate AI-Driven Materials Discovery</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Michael Robbins Named President and CEO of Semiconductor Industry Association](https://www.semiconductor-digest.com/michael-robbins-named-president-and-ceo-of-semiconductor-industry-association/?utm_source=rss&utm_medium=rss&utm_campaign=michael-robbins-named-president-and-ceo-of-semiconductor-industry-association)
+**Published:** Tue, 18 Aug 2026 21:11:06 +0000
+
+<p>Robbins, who currently serves as president and CEO of the Association for Uncrewed Vehicle Systems International (AUVSI), will succeed John Neuffer as head of SIA.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/michael-robbins-named-president-and-ceo-of-semiconductor-industry-association/">Michael Robbins Named President and CEO of Semiconductor Industry Association</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [HANMI Semiconductor To Invest in Its Largest-Ever 8th Production Facility](https://www.semiconductor-digest.com/hanmi-semiconductor-to-invest-in-its-largest-ever-8th-production-facility/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-to-invest-in-its-largest-ever-8th-production-facility)
+**Published:** Tue, 18 Aug 2026 21:06:06 +0000
+
+<p>HANMI Semiconductor today announced that it will acquire a factory from Mercury Co., Ltd., located in the Juan National Industrial Complex in Incheon.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hanmi-semiconductor-to-invest-in-its-largest-ever-8th-production-facility/">HANMI Semiconductor To Invest in Its Largest-Ever 8th Production Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -51,38 +83,6 @@ _Last updated: 2026-08-18 20:37 UTC_
 
 <p>Incremental equipment investments at existing flat panel display (FPD) factories are set to account for nearly 40% of the total FPD equipment market in 2027, a record high, according to the latest research from Omdia.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/omdia-incremental-expansions-to-reach-record-40-of-fpd-equipment-market-in-2027/">Omdia: Incremental Expansions to Reach Record 40% of FPD Equipment Market in 2027</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lam Research Announces Plans to Invest More than $3B to Expand Global Lab Network](https://www.semiconductor-digest.com/lam-research-announces-plans-to-invest-more-than-3b-to-expand-global-lab-network/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-announces-plans-to-invest-more-than-3b-to-expand-global-lab-network)
-**Published:** Thu, 13 Aug 2026 21:01:50 +0000
-
-<p>Lam Research Corp. today announced that it intends to invest more than $3 billion over the next five years to expand its global research and development (R&#038;D) lab network.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lam-research-announces-plans-to-invest-more-than-3b-to-expand-global-lab-network/">Lam Research Announces Plans to Invest More than $3B to Expand Global Lab Network</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [UC Berkeley to Join Applied Materials’ EPIC Center to Speed Chip Innovation](https://www.semiconductor-digest.com/uc-berkeley-to-join-applied-materials-epic-center-to-speed-chip-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=uc-berkeley-to-join-applied-materials-epic-center-to-speed-chip-innovation)
-**Published:** Thu, 13 Aug 2026 20:50:43 +0000
-
-<p>Applied Materials, Inc. today announced that the University of California, Berkeley will join the company’s EPIC Center in Silicon Valley as a research collaborator.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/uc-berkeley-to-join-applied-materials-epic-center-to-speed-chip-innovation/">UC Berkeley to Join Applied Materials&#8217; EPIC Center to Speed Chip Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia](https://www.semiconductor-digest.com/nxp-semiconductors-breaks-ground-on-assembly-and-test-site-expansion-in-malaysia/?utm_source=rss&utm_medium=rss&utm_campaign=nxp-semiconductors-breaks-ground-on-assembly-and-test-site-expansion-in-malaysia)
-**Published:** Thu, 13 Aug 2026 20:32:22 +0000
-
-<p>NXP Semiconductors N.V. (NASDAQ: NXPI) today celebrated the groundbreaking of its new assembly and test (A&#038;T) factory in Petaling Jaya, Malaysia, an expansion of the company’s existing A&#038;T site.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nxp-semiconductors-breaks-ground-on-assembly-and-test-site-expansion-in-malaysia/">NXP Semiconductors Breaks Ground on Assembly and Test Site Expansion in Malaysia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI](https://www.semiconductor-digest.com/micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai/?utm_source=rss&utm_medium=rss&utm_campaign=micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai)
-**Published:** Thu, 13 Aug 2026 20:29:09 +0000
-
-<p>Micron Technology, Inc. today launched the Micron Ventures Paradigm Fund, a $250 million investment vehicle built to partner with the companies shaping the future of AI.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai/">Micron Ventures Launches $250 Million Fund to Invest in the Next Generation of AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
