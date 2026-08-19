@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-19 15:43 UTC_
+_Last updated: 2026-08-19 18:47 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,38 @@ _Last updated: 2026-08-19 15:43 UTC_
 
 <p>&#160; The overlooked charge-control interface Technical discussions of EV on-board chargers usually focus on the high-power conversion stage: SiC versus GaN, bidirectional topologies, power density, and high-voltage battery architectures. Those topics deserve attention, but they are not the only source of development risk. Engineers responsible for qualifying an on-board charger (OBC) also spend substantial effort [&#8230;]</p>
 <p>The post <a href="https://www.eetasia.com/the-charging-inlet-has-become-a-system-rethinking-ev-charge-control-electronics/">The Charging Inlet Has Become a System: Rethinking EV Charge-Control Electronics</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Hon’ble PM Shri. Narendra Modi to Inaugurate SEMICON India 2026 on 17th September](https://www.semiconductor-digest.com/honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september/?utm_source=rss&utm_medium=rss&utm_campaign=honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september)
+**Published:** Wed, 19 Aug 2026 18:05:00 +0000
+
+<p>SEMI and the India Semiconductor Mission (ISM) today announced that Hon'ble Prime Minister Shri Narendra Modi will inaugurate SEMICON India 2026 on 17 September 2026 at Yashobhoomi (India International Convention and Expo Centre), New Delhi.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september/">Hon’ble PM Shri. Narendra Modi to Inaugurate SEMICON India 2026 on 17th September</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Menlo Microsystems Appoints Richard Simoncic as Chief Executive Officer](https://www.semiconductor-digest.com/menlo-microsystems-appoints-richard-simoncic-as-chief-executive-officer/?utm_source=rss&utm_medium=rss&utm_campaign=menlo-microsystems-appoints-richard-simoncic-as-chief-executive-officer)
+**Published:** Wed, 19 Aug 2026 17:57:55 +0000
+
+<p>Former Microchip COO brings 35 years of semiconductor scaling experience as Menlo Micro expands commercial adoption across AI infrastructure and high-growth markets.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/menlo-microsystems-appoints-richard-simoncic-as-chief-executive-officer/">Menlo Microsystems Appoints Richard Simoncic as Chief Executive Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [proteanTecs Unveils Advanced Packaging Solutions](https://www.semiconductor-digest.com/proteantecs-unveils-advanced-packaging-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=proteantecs-unveils-advanced-packaging-solutions)
+**Published:** Wed, 19 Aug 2026 17:39:51 +0000
+
+<p>Integrates per-chiplet visibility from pre-assembly screening through SiP production and in-mission operation, helping customers reduce costly packaging failures and optimize multi-die system power/performance.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/proteantecs-unveils-advanced-packaging-solutions/">proteanTecs Unveils Advanced Packaging Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TekSiC Reaches Key Milestones](https://www.semiconductor-digest.com/teksic-reaches-key-milestones-toward-europes-first-domestic-commercially-available-semi-insulating-sic-wafer-supply-for-space-defence-and-rf-applications/?utm_source=rss&utm_medium=rss&utm_campaign=teksic-reaches-key-milestones-toward-europes-first-domestic-commercially-available-semi-insulating-sic-wafer-supply-for-space-defence-and-rf-applications)
+**Published:** Wed, 19 Aug 2026 17:23:05 +0000
+
+<p>TekSiC AB today announced significant progress in the development of semi-insulating silicon carbide (SI-SiC) a material Europe currently lacks the domestic capability to manufacture commercially, and one that underpins some of the most demanding RF and power electronics used in space, defence, and next-generation communications. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/teksic-reaches-key-milestones-toward-europes-first-domestic-commercially-available-semi-insulating-sic-wafer-supply-for-space-defence-and-rf-applications/">TekSiC Reaches Key Milestones</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -51,38 +83,6 @@ _Last updated: 2026-08-19 15:43 UTC_
 
 <p>HANMI Semiconductor today announced that it will acquire a factory from Mercury Co., Ltd., located in the Juan National Industrial Complex in Incheon.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/hanmi-semiconductor-to-invest-in-its-largest-ever-8th-production-facility/">HANMI Semiconductor To Invest in Its Largest-Ever 8th Production Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO](https://www.semiconductor-digest.com/kulicke-and-soffa-industries-inc-appoints-dr-raj-talluri-as-president-and-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=kulicke-and-soffa-industries-inc-appoints-dr-raj-talluri-as-president-and-ceo)
-**Published:** Mon, 17 Aug 2026 21:08:17 +0000
-
-<p>Kulicke and Soffa Industries, Inc. today announced that it has named Dr. Raj Talluri as President and Chief Executive Officer effective September 1, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kulicke-and-soffa-industries-inc-appoints-dr-raj-talluri-as-president-and-ceo/">Kulicke and Soffa Industries, Inc. Appoints Dr. Raj Talluri as President and CEO</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Wearable Sensors and AI Could Monitor Blood Pressure in ICU](https://www.semiconductor-digest.com/wearable-sensors-and-ai-could-monitor-blood-pressure-in-icu/?utm_source=rss&utm_medium=rss&utm_campaign=wearable-sensors-and-ai-could-monitor-blood-pressure-in-icu)
-**Published:** Mon, 17 Aug 2026 20:41:59 +0000
-
-<p>Wearable sensors coupled with AI can generate blood pressure readings nearly as well as the invasive and risky arterial lines relied on in intensive care units and operating rooms, new work by Johns Hopkins University researchers demonstrates.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/wearable-sensors-and-ai-could-monitor-blood-pressure-in-icu/">Wearable Sensors and AI Could Monitor Blood Pressure in ICU</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [UMass Amherst Engineers Make Edge AI More Efficient by Redesigning Both Algorithm and Hardware](https://www.semiconductor-digest.com/umass-amherst-engineers-make-edge-ai-more-efficient-by-redesigning-both-algorithm-and-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=umass-amherst-engineers-make-edge-ai-more-efficient-by-redesigning-both-algorithm-and-hardware)
-**Published:** Mon, 17 Aug 2026 20:20:54 +0000
-
-<p>System leverages hyperdimensional computing algorithms and analog in-memory computing hardware to achieve quick, accurate processing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/umass-amherst-engineers-make-edge-ai-more-efficient-by-redesigning-both-algorithm-and-hardware/">UMass Amherst Engineers Make Edge AI More Efficient by Redesigning Both Algorithm and Hardware</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TIER IV Joins JST’s Next-Generation Edge AI Semiconductor R&D Program](https://www.semiconductor-digest.com/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program/?utm_source=rss&utm_medium=rss&utm_campaign=tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program)
-**Published:** Fri, 14 Aug 2026 19:19:26 +0000
-
-<p>TIER IV has joined the Next-Generation Edge AI Semiconductor Research and Development Program led by the Japan Science and Technology Agency (JST) to advance research and development of a software-defined system-on-chip (SoC) for Level 4 autonomous driving.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program/">TIER IV Joins JST&#8217;s Next-Generation Edge AI Semiconductor R&#038;D Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
