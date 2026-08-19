@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-19 10:41 UTC_
+_Last updated: 2026-08-19 11:37 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [SEMICON Taiwan 2026 Expands Global Platform for Semiconductor Startups](https://www.eetasia.com/semicon-taiwan-2026-expands-global-platform-for-semiconductor-startups/)
+**Published:** Wed, 19 Aug 2026 10:31:19 +0000
+
+<p>SEMICON Taiwan 2026 features expanded programs to strengthen collaboration and innovation in the global semiconductor value chain.</p>
+<p>The post <a href="https://www.eetasia.com/semicon-taiwan-2026-expands-global-platform-for-semiconductor-startups/">SEMICON Taiwan 2026 Expands Global Platform for Semiconductor Startups</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-08-19 10:41 UTC_
 
 <p>TIER IV has joined the Next-Generation Edge AI Semiconductor Research and Development Program led by the Japan Science and Technology Agency (JST) to advance research and development of a software-defined system-on-chip (SoC) for Level 4 autonomous driving.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program/">TIER IV Joins JST&#8217;s Next-Generation Edge AI Semiconductor R&#038;D Program</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Minnesota Iron Ore Could Be Key to Sustainable and Lower-Cost Semiconductor](https://www.semiconductor-digest.com/minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor)
-**Published:** Fri, 14 Aug 2026 19:14:05 +0000
-
-<p>New discovery has implications for the future of electronics, solar panels, batteries and more.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor/">Minnesota Iron Ore Could Be Key to Sustainable and Lower-Cost Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
