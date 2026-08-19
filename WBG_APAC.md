@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-18 22:36 UTC_
+_Last updated: 2026-08-19 03:09 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [The Charging Inlet Has Become a System: Rethinking EV Charge-Control Electronics](https://www.eetasia.com/the-charging-inlet-has-become-a-system-rethinking-ev-charge-control-electronics/)
+**Published:** Tue, 18 Aug 2026 23:55:26 +0000
+
+<p>&#160; The overlooked charge-control interface Technical discussions of EV on-board chargers usually focus on the high-power conversion stage: SiC versus GaN, bidirectional topologies, power density, and high-voltage battery architectures. Those topics deserve attention, but they are not the only source of development risk. Engineers responsible for qualifying an on-board charger (OBC) also spend substantial effort [&#8230;]</p>
+<p>The post <a href="https://www.eetasia.com/the-charging-inlet-has-become-a-system-rethinking-ev-charge-control-electronics/">The Charging Inlet Has Become a System: Rethinking EV Charge-Control Electronics</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-08-18 22:36 UTC_
 
 <p>New discovery has implications for the future of electronics, solar panels, batteries and more.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor/">Minnesota Iron Ore Could Be Key to Sustainable and Lower-Cost Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: Incremental Expansions to Reach Record 40% of FPD Equipment Market in 2027](https://www.semiconductor-digest.com/omdia-incremental-expansions-to-reach-record-40-of-fpd-equipment-market-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-incremental-expansions-to-reach-record-40-of-fpd-equipment-market-in-2027)
-**Published:** Thu, 13 Aug 2026 21:05:48 +0000
-
-<p>Incremental equipment investments at existing flat panel display (FPD) factories are set to account for nearly 40% of the total FPD equipment market in 2027, a record high, according to the latest research from Omdia.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-incremental-expansions-to-reach-record-40-of-fpd-equipment-market-in-2027/">Omdia: Incremental Expansions to Reach Record 40% of FPD Equipment Market in 2027</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
