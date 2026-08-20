@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-20 01:26 UTC_
+_Last updated: 2026-08-20 03:12 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Protecting Semiconductor Yield Through High-Purity Fastener Selection](https://www.eetasia.com/protecting-semiconductor-yield-through-high-purity-fastener-selection/)
+**Published:** Thu, 20 Aug 2026 02:12:45 +0000
+
+<p>High-purity fastener materials and vented designs can help semiconductor manufacturers manage corrosion, thermal stress, contamination and vacuum-related risks across demanding fabrication environments</p>
+<p>The post <a href="https://www.eetasia.com/protecting-semiconductor-yield-through-high-purity-fastener-selection/">Protecting Semiconductor Yield Through High-Purity Fastener Selection</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-08-20 01:26 UTC_
 
 <p>Robbins, who currently serves as president and CEO of the Association for Uncrewed Vehicle Systems International (AUVSI), will succeed John Neuffer as head of SIA.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/michael-robbins-named-president-and-ceo-of-semiconductor-industry-association/">Michael Robbins Named President and CEO of Semiconductor Industry Association</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [HANMI Semiconductor To Invest in Its Largest-Ever 8th Production Facility](https://www.semiconductor-digest.com/hanmi-semiconductor-to-invest-in-its-largest-ever-8th-production-facility/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-to-invest-in-its-largest-ever-8th-production-facility)
-**Published:** Tue, 18 Aug 2026 21:06:06 +0000
-
-<p>HANMI Semiconductor today announced that it will acquire a factory from Mercury Co., Ltd., located in the Juan National Industrial Complex in Incheon.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hanmi-semiconductor-to-invest-in-its-largest-ever-8th-production-facility/">HANMI Semiconductor To Invest in Its Largest-Ever 8th Production Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
