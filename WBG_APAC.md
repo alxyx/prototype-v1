@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-20 19:46 UTC_
+_Last updated: 2026-08-20 21:40 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -38,6 +38,22 @@ _Last updated: 2026-08-20 19:46 UTC_
 
 ---
 
+## [AMD Appoints Tim Ryan to Board of Directors](https://www.semiconductor-digest.com/amd-appoints-tim-ryan-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=amd-appoints-tim-ryan-to-board-of-directors)
+**Published:** Thu, 20 Aug 2026 20:44:38 +0000
+
+<p>AMD today announced the appointment of Tim Ryan to its board of directors, effective Aug. 19, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/amd-appoints-tim-ryan-to-board-of-directors/">AMD Appoints Tim Ryan to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Micron Unveils Micron Research Labs, a U.S.-Based Long-Horizon Innovation Hub](https://www.semiconductor-digest.com/micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub/?utm_source=rss&utm_medium=rss&utm_campaign=micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub)
+**Published:** Thu, 20 Aug 2026 20:12:50 +0000
+
+<p>Backed by a $10 billion planned investment over the next decade, Micron Research Labs will unite academia, government, startups and industry to advance the memory and compute breakthroughs that will define the AI era.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub/">Micron Unveils Micron Research Labs, a U.S.-Based Long-Horizon Innovation Hub</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [High-Efficiency and Stable Deep-Blue Iridium Phosphorescent OLEDs with Enhanced Charge Transfer Dynamics](https://www.semiconductor-digest.com/high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics/?utm_source=rss&utm_medium=rss&utm_campaign=high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics)
 **Published:** Thu, 20 Aug 2026 19:26:15 +0000
 
@@ -67,22 +83,6 @@ _Last updated: 2026-08-20 19:46 UTC_
 
 <p>SEMI and the India Semiconductor Mission (ISM) today announced that Hon'ble Prime Minister Shri Narendra Modi will inaugurate SEMICON India 2026 on 17 September 2026 at Yashobhoomi (India International Convention and Expo Centre), New Delhi.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september/">Hon’ble PM Shri. Narendra Modi to Inaugurate SEMICON India 2026 on 17th September</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Menlo Microsystems Appoints Richard Simoncic as Chief Executive Officer](https://www.semiconductor-digest.com/menlo-microsystems-appoints-richard-simoncic-as-chief-executive-officer/?utm_source=rss&utm_medium=rss&utm_campaign=menlo-microsystems-appoints-richard-simoncic-as-chief-executive-officer)
-**Published:** Wed, 19 Aug 2026 17:57:55 +0000
-
-<p>Former Microchip COO brings 35 years of semiconductor scaling experience as Menlo Micro expands commercial adoption across AI infrastructure and high-growth markets.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/menlo-microsystems-appoints-richard-simoncic-as-chief-executive-officer/">Menlo Microsystems Appoints Richard Simoncic as Chief Executive Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [proteanTecs Unveils Advanced Packaging Solutions](https://www.semiconductor-digest.com/proteantecs-unveils-advanced-packaging-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=proteantecs-unveils-advanced-packaging-solutions)
-**Published:** Wed, 19 Aug 2026 17:39:51 +0000
-
-<p>Integrates per-chiplet visibility from pre-assembly screening through SiP production and in-mission operation, helping customers reduce costly packaging failures and optimize multi-die system power/performance.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/proteantecs-unveils-advanced-packaging-solutions/">proteanTecs Unveils Advanced Packaging Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
