@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-20 10:42 UTC_
+_Last updated: 2026-08-20 14:02 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [From Manual Checks to Predictive Control: The Rise of In-Situ Sensing in Semiconductor Fabs](https://www.eetasia.com/from-manual-checks-to-predictive-control-the-rise-of-in-situ-sensing-in-semiconductor-fabs/)
+**Published:** Thu, 20 Aug 2026 10:43:27 +0000
+
+<p>Here is how intelligent in-situ sensing is helping semiconductor manufacturers improve tool performance, reduce downtime, and enable more predictive manufacturing.</p>
+<p>The post <a href="https://www.eetasia.com/from-manual-checks-to-predictive-control-the-rise-of-in-situ-sensing-in-semiconductor-fabs/">From Manual Checks to Predictive Control: The Rise of In-Situ Sensing in Semiconductor Fabs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-08-20 10:42 UTC_
 
 <p>SUNY Polytechnic Institute (SUNY Poly) is playing a key role in a new national research initiative led by Rice University, which has received a $19.9 million award from the National Science Foundation (NSF).</p>
 <p>The post <a href="https://www.semiconductor-digest.com/suny-poly-joins-19-9m-national-science-foundation-initiative-to-accelerate-ai-driven-materials-discovery/">SUNY Poly Joins $19.9M National Science Foundation Initiative to Accelerate AI-Driven Materials Discovery</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Michael Robbins Named President and CEO of Semiconductor Industry Association](https://www.semiconductor-digest.com/michael-robbins-named-president-and-ceo-of-semiconductor-industry-association/?utm_source=rss&utm_medium=rss&utm_campaign=michael-robbins-named-president-and-ceo-of-semiconductor-industry-association)
-**Published:** Tue, 18 Aug 2026 21:11:06 +0000
-
-<p>Robbins, who currently serves as president and CEO of the Association for Uncrewed Vehicle Systems International (AUVSI), will succeed John Neuffer as head of SIA.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/michael-robbins-named-president-and-ceo-of-semiconductor-industry-association/">Michael Robbins Named President and CEO of Semiconductor Industry Association</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
