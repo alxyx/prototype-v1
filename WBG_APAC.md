@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-20 18:50 UTC_
+_Last updated: 2026-08-20 19:46 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -38,6 +38,30 @@ _Last updated: 2026-08-20 18:50 UTC_
 
 ---
 
+## [High-Efficiency and Stable Deep-Blue Iridium Phosphorescent OLEDs with Enhanced Charge Transfer Dynamics](https://www.semiconductor-digest.com/high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics/?utm_source=rss&utm_medium=rss&utm_campaign=high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics)
+**Published:** Thu, 20 Aug 2026 19:26:15 +0000
+
+<p>Deep-blue phosphorescent organic light-emitting diodes (Ph-OLEDs) are essential for advanced full-color displays, yet developing efficient and stable deep-blue emitters remains a formidable challenge.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics/">High-Efficiency and Stable Deep-Blue Iridium Phosphorescent OLEDs with Enhanced Charge Transfer Dynamics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Silicon Catalyst Expands US Leadership Team](https://www.semiconductor-digest.com/silicon-catalyst-expands-us-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-catalyst-expands-us-leadership-team)
+**Published:** Thu, 20 Aug 2026 19:05:19 +0000
+
+<p>Silicon Catalyst today announced several leadership updates as it expands its global portfolio and deepens the expertise available to founders and strategic partners across the semiconductor ecosystem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/silicon-catalyst-expands-us-leadership-team/">Silicon Catalyst Expands US Leadership Team</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Qnity Accelerates Advanced Node Materials Innovation with Next-Generation KLA Inspection Capabilities](https://www.semiconductor-digest.com/qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities)
+**Published:** Thu, 20 Aug 2026 18:54:39 +0000
+
+<p>Investment sharpens process control from materials development through manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities/">Qnity Accelerates Advanced Node Materials Innovation with Next-Generation KLA Inspection Capabilities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Hon’ble PM Shri. Narendra Modi to Inaugurate SEMICON India 2026 on 17th September](https://www.semiconductor-digest.com/honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september/?utm_source=rss&utm_medium=rss&utm_campaign=honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september)
 **Published:** Wed, 19 Aug 2026 18:05:00 +0000
 
@@ -59,30 +83,6 @@ _Last updated: 2026-08-20 18:50 UTC_
 
 <p>Integrates per-chiplet visibility from pre-assembly screening through SiP production and in-mission operation, helping customers reduce costly packaging failures and optimize multi-die system power/performance.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/proteantecs-unveils-advanced-packaging-solutions/">proteanTecs Unveils Advanced Packaging Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TekSiC Reaches Key Milestones](https://www.semiconductor-digest.com/teksic-reaches-key-milestones-toward-europes-first-domestic-commercially-available-semi-insulating-sic-wafer-supply-for-space-defence-and-rf-applications/?utm_source=rss&utm_medium=rss&utm_campaign=teksic-reaches-key-milestones-toward-europes-first-domestic-commercially-available-semi-insulating-sic-wafer-supply-for-space-defence-and-rf-applications)
-**Published:** Wed, 19 Aug 2026 17:23:05 +0000
-
-<p>TekSiC AB today announced significant progress in the development of semi-insulating silicon carbide (SI-SiC) a material Europe currently lacks the domestic capability to manufacture commercially, and one that underpins some of the most demanding RF and power electronics used in space, defence, and next-generation communications. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/teksic-reaches-key-milestones-toward-europes-first-domestic-commercially-available-semi-insulating-sic-wafer-supply-for-space-defence-and-rf-applications/">TekSiC Reaches Key Milestones</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The Ultimate Glow Up: NUS CDE Researchers Push Flexible Display Brightness to New Records](https://www.semiconductor-digest.com/the-ultimate-glow-up-nus-cde-researchers-push-flexible-display-brightness-to-new-records/?utm_source=rss&utm_medium=rss&utm_campaign=the-ultimate-glow-up-nus-cde-researchers-push-flexible-display-brightness-to-new-records)
-**Published:** Tue, 18 Aug 2026 21:19:24 +0000
-
-<p>From a skin patch that changes colour to flag abnormal blood sugar, to a diver’s sleeve display that stays readable underwater, the need for bright, flexible screens is growing, but no existing technology delivers the combination of simplicity, low power and robustness these applications need.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-ultimate-glow-up-nus-cde-researchers-push-flexible-display-brightness-to-new-records/">The Ultimate Glow Up: NUS CDE Researchers Push Flexible Display Brightness to New Records</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SUNY Poly Joins $19.9M National Science Foundation Initiative to Accelerate AI-Driven Materials Discovery](https://www.semiconductor-digest.com/suny-poly-joins-19-9m-national-science-foundation-initiative-to-accelerate-ai-driven-materials-discovery/?utm_source=rss&utm_medium=rss&utm_campaign=suny-poly-joins-19-9m-national-science-foundation-initiative-to-accelerate-ai-driven-materials-discovery)
-**Published:** Tue, 18 Aug 2026 21:16:22 +0000
-
-<p>SUNY Polytechnic Institute (SUNY Poly) is playing a key role in a new national research initiative led by Rice University, which has received a $19.9 million award from the National Science Foundation (NSF).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/suny-poly-joins-19-9m-national-science-foundation-initiative-to-accelerate-ai-driven-materials-discovery/">SUNY Poly Joins $19.9M National Science Foundation Initiative to Accelerate AI-Driven Materials Discovery</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
