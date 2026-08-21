@@ -1,8 +1,16 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-08-21 06:58 UTC_
+_Last updated: 2026-08-21 11:38 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Rising AI Power Density Drives New Cooling Demands as T-Global Expands in Vietnam](https://www.eetasia.com/rising-ai-power-density-drives-new-cooling-demands-as-t-global-expands-in-vietnam/)
+**Published:** Fri, 21 Aug 2026 08:42:49 +0000
+
+<p>T-Global Technology highlights composite materials and direct liquid cooling as thermal demands increase across AI and high-power electronics.</p>
+<p>The post <a href="https://www.eetasia.com/rising-ai-power-density-drives-new-cooling-demands-as-t-global-expands-in-vietnam/">Rising AI Power Density Drives New Cooling Demands as T-Global Expands in Vietnam</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-08-21 06:58 UTC_
 
 <p>Investment sharpens process control from materials development through manufacturing.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities/">Qnity Accelerates Advanced Node Materials Innovation with Next-Generation KLA Inspection Capabilities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Hon’ble PM Shri. Narendra Modi to Inaugurate SEMICON India 2026 on 17th September](https://www.semiconductor-digest.com/honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september/?utm_source=rss&utm_medium=rss&utm_campaign=honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september)
-**Published:** Wed, 19 Aug 2026 18:05:00 +0000
-
-<p>SEMI and the India Semiconductor Mission (ISM) today announced that Hon'ble Prime Minister Shri Narendra Modi will inaugurate SEMICON India 2026 on 17 September 2026 at Yashobhoomi (India International Convention and Expo Centre), New Delhi.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/honble-pm-shri-narendra-modi-to-inaugurate-semicon-india-2026-on-17th-september/">Hon’ble PM Shri. Narendra Modi to Inaugurate SEMICON India 2026 on 17th September</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
