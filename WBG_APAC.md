@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-21 03:14 UTC_
+_Last updated: 2026-08-21 04:50 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [MacDermid Alpha Targets Greater Attach Consistency for High-Power Electronics](https://www.eetasia.com/macdermid-alpha-targets-greater-attach-consistency-for-high-power-electronics/)
+**Published:** Fri, 21 Aug 2026 03:08:05 +0000
+
+<p>MacDermid Alpha will showcase solder and sintering technologies designed to improve attach consistency across high-volume power electronics manufacturing.</p>
+<p>The post <a href="https://www.eetasia.com/macdermid-alpha-targets-greater-attach-consistency-for-high-power-electronics/">MacDermid Alpha Targets Greater Attach Consistency for High-Power Electronics</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -27,14 +35,6 @@ _Last updated: 2026-08-21 03:14 UTC_
 
 <p>SEMICON Taiwan 2026 features expanded programs to strengthen collaboration and innovation in the global semiconductor value chain.</p>
 <p>The post <a href="https://www.eetasia.com/semicon-taiwan-2026-expands-global-platform-for-semiconductor-startups/">SEMICON Taiwan 2026 Expands Global Platform for Semiconductor Startups</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [The Charging Inlet Has Become a System: Rethinking EV Charge-Control Electronics](https://www.eetasia.com/the-charging-inlet-has-become-a-system-rethinking-ev-charge-control-electronics/)
-**Published:** Tue, 18 Aug 2026 23:55:26 +0000
-
-<p>&#160; The overlooked charge-control interface Technical discussions of EV on-board chargers usually focus on the high-power conversion stage: SiC versus GaN, bidirectional topologies, power density, and high-voltage battery architectures. Those topics deserve attention, but they are not the only source of development risk. Engineers responsible for qualifying an on-board charger (OBC) also spend substantial effort [&#8230;]</p>
-<p>The post <a href="https://www.eetasia.com/the-charging-inlet-has-become-a-system-rethinking-ev-charge-control-electronics/">The Charging Inlet Has Become a System: Rethinking EV Charge-Control Electronics</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
