@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-08-21 21:37 UTC_
+_Last updated: 2026-08-21 22:37 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -46,6 +46,22 @@ _Last updated: 2026-08-21 21:37 UTC_
 
 ---
 
+## [AAEON to Demonstrate High-Performance Computing for Next-Gen Semiconductor Manufacturing at SEMICON Taiwan](https://www.semiconductor-digest.com/aaeon-to-demonstrate-high-performance-computing-for-next-gen-semiconductor-manufacturing-at-semicon-taiwan/?utm_source=rss&utm_medium=rss&utm_campaign=aaeon-to-demonstrate-high-performance-computing-for-next-gen-semiconductor-manufacturing-at-semicon-taiwan)
+**Published:** Fri, 21 Aug 2026 21:30:07 +0000
+
+<p>AAEON, a provider of edge AI solutions, will present new platforms from across the AAEON portfolio alongside an AI vision wafer inspection demonstration at SEMICON Taiwan 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/aaeon-to-demonstrate-high-performance-computing-for-next-gen-semiconductor-manufacturing-at-semicon-taiwan/">AAEON to Demonstrate High-Performance Computing for Next-Gen Semiconductor Manufacturing at SEMICON Taiwan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Nordson Test & Inspection Opens Center of Excellence](https://www.semiconductor-digest.com/nordson-test-inspection-opens-center-of-excellence/?utm_source=rss&utm_medium=rss&utm_campaign=nordson-test-inspection-opens-center-of-excellence)
+**Published:** Fri, 21 Aug 2026 21:26:18 +0000
+
+<p>New multi-purpose facility showcases company’s industry-leading semiconductor and SMT inspection and metrology offerings and serves as a specialized demonstration, training and testing center.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nordson-test-inspection-opens-center-of-excellence/">Nordson Test &#038; Inspection Opens Center of Excellence</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Qnity Appoints Semiconductor Finance Veteran Ken Rizvi Chief Financial Officer](https://www.semiconductor-digest.com/qnity-appoints-semiconductor-finance-veteran-ken-rizvi-chief-financial-officer/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-appoints-semiconductor-finance-veteran-ken-rizvi-chief-financial-officer)
 **Published:** Fri, 21 Aug 2026 21:16:10 +0000
 
@@ -67,22 +83,6 @@ _Last updated: 2026-08-21 21:37 UTC_
 
 <p>AMD today announced the appointment of Tim Ryan to its board of directors, effective Aug. 19, 2026.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/amd-appoints-tim-ryan-to-board-of-directors/">AMD Appoints Tim Ryan to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Micron Unveils Micron Research Labs, a U.S.-Based Long-Horizon Innovation Hub](https://www.semiconductor-digest.com/micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub/?utm_source=rss&utm_medium=rss&utm_campaign=micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub)
-**Published:** Thu, 20 Aug 2026 20:12:50 +0000
-
-<p>Backed by a $10 billion planned investment over the next decade, Micron Research Labs will unite academia, government, startups and industry to advance the memory and compute breakthroughs that will define the AI era.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub/">Micron Unveils Micron Research Labs, a U.S.-Based Long-Horizon Innovation Hub</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [High-Efficiency and Stable Deep-Blue Iridium Phosphorescent OLEDs with Enhanced Charge Transfer Dynamics](https://www.semiconductor-digest.com/high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics/?utm_source=rss&utm_medium=rss&utm_campaign=high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics)
-**Published:** Thu, 20 Aug 2026 19:26:15 +0000
-
-<p>Deep-blue phosphorescent organic light-emitting diodes (Ph-OLEDs) are essential for advanced full-color displays, yet developing efficient and stable deep-blue emitters remains a formidable challenge.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics/">High-Efficiency and Stable Deep-Blue Iridium Phosphorescent OLEDs with Enhanced Charge Transfer Dynamics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
