@@ -1,6 +1,6 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-08-21 19:39 UTC_
+_Last updated: 2026-08-21 21:37 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -46,6 +46,22 @@ _Last updated: 2026-08-21 19:39 UTC_
 
 ---
 
+## [Qnity Appoints Semiconductor Finance Veteran Ken Rizvi Chief Financial Officer](https://www.semiconductor-digest.com/qnity-appoints-semiconductor-finance-veteran-ken-rizvi-chief-financial-officer/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-appoints-semiconductor-finance-veteran-ken-rizvi-chief-financial-officer)
+**Published:** Fri, 21 Aug 2026 21:16:10 +0000
+
+<p>Qnity Electronics, Inc. today announced that it has appointed Ken Rizvi, a seasoned semiconductor finance executive, as Senior Vice President and Chief Financial Officer, effective October 1.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/qnity-appoints-semiconductor-finance-veteran-ken-rizvi-chief-financial-officer/">Qnity Appoints Semiconductor Finance Veteran Ken Rizvi Chief Financial Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Fujifilm Completes New Production Facility for Advanced Semiconductor Materials in Oita, Japan](https://www.semiconductor-digest.com/fujifilm-completes-new-production-facility-for-advanced-semiconductor-materials-in-oita-japan/?utm_source=rss&utm_medium=rss&utm_campaign=fujifilm-completes-new-production-facility-for-advanced-semiconductor-materials-in-oita-japan)
+**Published:** Fri, 21 Aug 2026 21:13:34 +0000
+
+<p>Significantly expanding production capacity for post-CMP cleaners*1 to meet growing demand for AI semiconductors.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/fujifilm-completes-new-production-facility-for-advanced-semiconductor-materials-in-oita-japan/">Fujifilm Completes New Production Facility for Advanced Semiconductor Materials in Oita, Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [AMD Appoints Tim Ryan to Board of Directors](https://www.semiconductor-digest.com/amd-appoints-tim-ryan-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=amd-appoints-tim-ryan-to-board-of-directors)
 **Published:** Thu, 20 Aug 2026 20:44:38 +0000
 
@@ -67,22 +83,6 @@ _Last updated: 2026-08-21 19:39 UTC_
 
 <p>Deep-blue phosphorescent organic light-emitting diodes (Ph-OLEDs) are essential for advanced full-color displays, yet developing efficient and stable deep-blue emitters remains a formidable challenge.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics/">High-Efficiency and Stable Deep-Blue Iridium Phosphorescent OLEDs with Enhanced Charge Transfer Dynamics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Silicon Catalyst Expands US Leadership Team](https://www.semiconductor-digest.com/silicon-catalyst-expands-us-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-catalyst-expands-us-leadership-team)
-**Published:** Thu, 20 Aug 2026 19:05:19 +0000
-
-<p>Silicon Catalyst today announced several leadership updates as it expands its global portfolio and deepens the expertise available to founders and strategic partners across the semiconductor ecosystem.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/silicon-catalyst-expands-us-leadership-team/">Silicon Catalyst Expands US Leadership Team</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Qnity Accelerates Advanced Node Materials Innovation with Next-Generation KLA Inspection Capabilities](https://www.semiconductor-digest.com/qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities)
-**Published:** Thu, 20 Aug 2026 18:54:39 +0000
-
-<p>Investment sharpens process control from materials development through manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/qnity-accelerates-advanced-node-materials-innovation-with-next-generation-kla-inspection-capabilities/">Qnity Accelerates Advanced Node Materials Innovation with Next-Generation KLA Inspection Capabilities</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
