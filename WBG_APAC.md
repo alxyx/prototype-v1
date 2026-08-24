@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-08-24 19:42 UTC_
+_Last updated: 2026-08-24 21:41 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -38,51 +38,51 @@ _Last updated: 2026-08-24 19:42 UTC_
 
 ---
 
+## [Primemas at FMS 2026: CXL Full-Stack Products and Micron Collaboration on the Abaco Project](https://www.semiconductor-digest.com/primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project/?utm_source=rss&utm_medium=rss&utm_campaign=primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project)
+**Published:** Mon, 24 Aug 2026 21:15:54 +0000
+
+<p>Primemas Inc. showcased its latest CXL memory innovations at the Future of Memory and Storage (FMS) 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project/">Primemas at FMS 2026: CXL Full-Stack Products and Micron Collaboration on the Abaco Project</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan](https://www.semiconductor-digest.com/scientech-corporation-and-trymax-partner-to-distribute-resist-ashing-and-uv-products-in-taiwan-2/?utm_source=rss&utm_medium=rss&utm_campaign=scientech-corporation-and-trymax-partner-to-distribute-resist-ashing-and-uv-products-in-taiwan-2)
+**Published:** Mon, 24 Aug 2026 21:09:42 +0000
+
+<p>The agreement gives Scientech Corporation the right to distribute all of Trymax’s NEO ashing, etching products and their latest UV curing and charge erase products.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/scientech-corporation-and-trymax-partner-to-distribute-resist-ashing-and-uv-products-in-taiwan-2/">Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Quintessent Raises $40 Million Series A and Begins Sampling First Product for AI Optical Interconnects](https://www.semiconductor-digest.com/quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects/?utm_source=rss&utm_medium=rss&utm_campaign=quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects)
+**Published:** Mon, 24 Aug 2026 21:06:46 +0000
+
+<p>Quintessent today announced it has raised $40 million in an oversubscribed Series A investment round.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects/">Quintessent Raises $40 Million Series A and Begins Sampling First Product for AI Optical Interconnects</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Micron Opens Boise Training Center to Build Semiconductor Workforce](https://www.semiconductor-digest.com/micron-opens-boise-training-center-to-build-semiconductor-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=micron-opens-boise-training-center-to-build-semiconductor-workforce)
+**Published:** Mon, 24 Aug 2026 21:00:05 +0000
+
+<p>New 60,000-square-foot training center, delivering hands-on technical training and semiconductor career pathways.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-opens-boise-training-center-to-build-semiconductor-workforce/">Micron Opens Boise Training Center to Build Semiconductor Workforce</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Infineon Acquires C2i Semiconductors](https://www.semiconductor-digest.com/infineon-acquires-c2i-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-acquires-c2i-semiconductors)
+**Published:** Mon, 24 Aug 2026 20:56:37 +0000
+
+<p>Infineon Technologies AG today announced the acquisition of C2i Semiconductors, a Bangalore-based technology company specializing in software-defined multiphase controllers and smart power stages for AI data center applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/infineon-acquires-c2i-semiconductors/">Infineon Acquires C2i Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [AAEON to Demonstrate High-Performance Computing for Next-Gen Semiconductor Manufacturing at SEMICON Taiwan](https://www.semiconductor-digest.com/aaeon-to-demonstrate-high-performance-computing-for-next-gen-semiconductor-manufacturing-at-semicon-taiwan/?utm_source=rss&utm_medium=rss&utm_campaign=aaeon-to-demonstrate-high-performance-computing-for-next-gen-semiconductor-manufacturing-at-semicon-taiwan)
 **Published:** Fri, 21 Aug 2026 21:30:07 +0000
 
 <p>AAEON, a provider of edge AI solutions, will present new platforms from across the AAEON portfolio alongside an AI vision wafer inspection demonstration at SEMICON Taiwan 2026.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/aaeon-to-demonstrate-high-performance-computing-for-next-gen-semiconductor-manufacturing-at-semicon-taiwan/">AAEON to Demonstrate High-Performance Computing for Next-Gen Semiconductor Manufacturing at SEMICON Taiwan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nordson Test & Inspection Opens Center of Excellence](https://www.semiconductor-digest.com/nordson-test-inspection-opens-center-of-excellence/?utm_source=rss&utm_medium=rss&utm_campaign=nordson-test-inspection-opens-center-of-excellence)
-**Published:** Fri, 21 Aug 2026 21:26:18 +0000
-
-<p>New multi-purpose facility showcases company’s industry-leading semiconductor and SMT inspection and metrology offerings and serves as a specialized demonstration, training and testing center.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nordson-test-inspection-opens-center-of-excellence/">Nordson Test &#038; Inspection Opens Center of Excellence</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Qnity Appoints Semiconductor Finance Veteran Ken Rizvi Chief Financial Officer](https://www.semiconductor-digest.com/qnity-appoints-semiconductor-finance-veteran-ken-rizvi-chief-financial-officer/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-appoints-semiconductor-finance-veteran-ken-rizvi-chief-financial-officer)
-**Published:** Fri, 21 Aug 2026 21:16:10 +0000
-
-<p>Qnity Electronics, Inc. today announced that it has appointed Ken Rizvi, a seasoned semiconductor finance executive, as Senior Vice President and Chief Financial Officer, effective October 1.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/qnity-appoints-semiconductor-finance-veteran-ken-rizvi-chief-financial-officer/">Qnity Appoints Semiconductor Finance Veteran Ken Rizvi Chief Financial Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Fujifilm Completes New Production Facility for Advanced Semiconductor Materials in Oita, Japan](https://www.semiconductor-digest.com/fujifilm-completes-new-production-facility-for-advanced-semiconductor-materials-in-oita-japan/?utm_source=rss&utm_medium=rss&utm_campaign=fujifilm-completes-new-production-facility-for-advanced-semiconductor-materials-in-oita-japan)
-**Published:** Fri, 21 Aug 2026 21:13:34 +0000
-
-<p>Significantly expanding production capacity for post-CMP cleaners*1 to meet growing demand for AI semiconductors.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/fujifilm-completes-new-production-facility-for-advanced-semiconductor-materials-in-oita-japan/">Fujifilm Completes New Production Facility for Advanced Semiconductor Materials in Oita, Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AMD Appoints Tim Ryan to Board of Directors](https://www.semiconductor-digest.com/amd-appoints-tim-ryan-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=amd-appoints-tim-ryan-to-board-of-directors)
-**Published:** Thu, 20 Aug 2026 20:44:38 +0000
-
-<p>AMD today announced the appointment of Tim Ryan to its board of directors, effective Aug. 19, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/amd-appoints-tim-ryan-to-board-of-directors/">AMD Appoints Tim Ryan to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Micron Unveils Micron Research Labs, a U.S.-Based Long-Horizon Innovation Hub](https://www.semiconductor-digest.com/micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub/?utm_source=rss&utm_medium=rss&utm_campaign=micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub)
-**Published:** Thu, 20 Aug 2026 20:12:50 +0000
-
-<p>Backed by a $10 billion planned investment over the next decade, Micron Research Labs will unite academia, government, startups and industry to advance the memory and compute breakthroughs that will define the AI era.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub/">Micron Unveils Micron Research Labs, a U.S.-Based Long-Horizon Innovation Hub</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
