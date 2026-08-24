@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-24 01:28 UTC_
+_Last updated: 2026-08-24 04:56 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -35,14 +35,6 @@ _Last updated: 2026-08-24 01:28 UTC_
 
 <p>High-purity fastener materials and vented designs can help semiconductor manufacturers manage corrosion, thermal stress, contamination and vacuum-related risks across demanding fabrication environments</p>
 <p>The post <a href="https://www.eetasia.com/protecting-semiconductor-yield-through-high-purity-fastener-selection/">Protecting Semiconductor Yield Through High-Purity Fastener Selection</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SEMICON Taiwan 2026 Expands Global Platform for Semiconductor Startups](https://www.eetasia.com/semicon-taiwan-2026-expands-global-platform-for-semiconductor-startups/)
-**Published:** Wed, 19 Aug 2026 10:31:19 +0000
-
-<p>SEMICON Taiwan 2026 features expanded programs to strengthen collaboration and innovation in the global semiconductor value chain.</p>
-<p>The post <a href="https://www.eetasia.com/semicon-taiwan-2026-expands-global-platform-for-semiconductor-startups/">SEMICON Taiwan 2026 Expands Global Platform for Semiconductor Startups</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-08-24 01:28 UTC_
 
 <p>AMD today announced the appointment of Tim Ryan to its board of directors, effective Aug. 19, 2026.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/amd-appoints-tim-ryan-to-board-of-directors/">AMD Appoints Tim Ryan to Board of Directors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Micron Unveils Micron Research Labs, a U.S.-Based Long-Horizon Innovation Hub](https://www.semiconductor-digest.com/micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub/?utm_source=rss&utm_medium=rss&utm_campaign=micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub)
+**Published:** Thu, 20 Aug 2026 20:12:50 +0000
+
+<p>Backed by a $10 billion planned investment over the next decade, Micron Research Labs will unite academia, government, startups and industry to advance the memory and compute breakthroughs that will define the AI era.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub/">Micron Unveils Micron Research Labs, a U.S.-Based Long-Horizon Innovation Hub</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
