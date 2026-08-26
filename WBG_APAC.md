@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-26 16:36 UTC_
+_Last updated: 2026-08-26 22:59 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,38 @@ _Last updated: 2026-08-26 16:36 UTC_
 
 <p>Lattice Semiconductor will showcase low-power FPGA technologies for industrial IoT and sensor bridging at FPGAWorld Conference 2026.</p>
 <p>The post <a href="https://www.eetasia.com/lattice-to-highlight-low-power-fpga-solutions-at-fpgaworld-2026/">Lattice to Highlight Low-Power FPGA Solutions at FPGAWorld 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [LG Chem to Showcase Advanced Packaging Material Solutions for AI Semiconductors at SEMICON Taiwan 2026](https://www.semiconductor-digest.com/lg-chem-to-showcase-advanced-packaging-material-solutions-for-ai-semiconductors-at-semicon-taiwan-2026/?utm_source=rss&utm_medium=rss&utm_campaign=lg-chem-to-showcase-advanced-packaging-material-solutions-for-ai-semiconductors-at-semicon-taiwan-2026)
+**Published:** Wed, 26 Aug 2026 18:46:10 +0000
+
+<p>LG Chem will participate in SEMICON Taiwan 2026, Asia’s largest semiconductor exhibition, to showcase advanced packaging and power semiconductor material solutions for AI semiconductors and expand collaboration with semiconductor customers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lg-chem-to-showcase-advanced-packaging-material-solutions-for-ai-semiconductors-at-semicon-taiwan-2026/">LG Chem to Showcase Advanced Packaging Material Solutions for AI Semiconductors at SEMICON Taiwan 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Keysight Accelerates AttoTude IC Design Cycles by More Than 50%](https://www.semiconductor-digest.com/keysight-accelerates-attotude-ic-design-cycles-by-more-than-50/?utm_source=rss&utm_medium=rss&utm_campaign=keysight-accelerates-attotude-ic-design-cycles-by-more-than-50)
+**Published:** Wed, 26 Aug 2026 18:40:29 +0000
+
+<p>Keysight Technologies, Inc. today announced that AttoTude Inc. has expanded its use of Keysight EDA software to manage its full IC design workflow.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/keysight-accelerates-attotude-ic-design-cycles-by-more-than-50/">Keysight Accelerates AttoTude IC Design Cycles by More Than 50%</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NextSilicon Appoints Rupal Hollenbeck President and Chief Business Officer](https://www.semiconductor-digest.com/nextsilicon-appoints-rupal-hollenbeck-president-and-chief-business-officer/?utm_source=rss&utm_medium=rss&utm_campaign=nextsilicon-appoints-rupal-hollenbeck-president-and-chief-business-officer)
+**Published:** Wed, 26 Aug 2026 18:36:54 +0000
+
+<p>Former Check Point Software president, Oracle and Cerebras CMO, and 23-year Intel veteran joins NextSilicon to scale global sales, marketing, partnerships and customer adoption.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nextsilicon-appoints-rupal-hollenbeck-president-and-chief-business-officer/">NextSilicon Appoints Rupal Hollenbeck President and Chief Business Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Agentrys Raises $24.5 Million to Build Agentic Design Automation for Chipmakers](https://www.semiconductor-digest.com/agentrys-raises-24-5-million-to-build-agentic-design-automation-for-chipmakers/?utm_source=rss&utm_medium=rss&utm_campaign=agentrys-raises-24-5-million-to-build-agentic-design-automation-for-chipmakers)
+**Published:** Wed, 26 Aug 2026 18:33:03 +0000
+
+<p>Platform from Mark Ren, who pioneered AI for chip design at NVIDIA, enables engineering teams to build and own a self-improving agentic workforce for chip design.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/agentrys-raises-24-5-million-to-build-agentic-design-automation-for-chipmakers/">Agentrys Raises $24.5 Million to Build Agentic Design Automation for Chipmakers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -51,38 +83,6 @@ _Last updated: 2026-08-26 16:36 UTC_
 
 <p>AMD will offer the first Versal adaptive SoCs supporting Universal Chiplet Interconnect Express connectivity, enabling direct communication with co-packaged chiplets built for specialized workloads.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/amd-to-bring-ucie-connectivity-to-select-amd-versal-adaptive-socs/">AMD to Bring UCIe Connectivity to Select AMD Versal Adaptive SoCs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Primemas at FMS 2026: CXL Full-Stack Products and Micron Collaboration on the Abaco Project](https://www.semiconductor-digest.com/primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project/?utm_source=rss&utm_medium=rss&utm_campaign=primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project)
-**Published:** Mon, 24 Aug 2026 21:15:54 +0000
-
-<p>Primemas Inc. showcased its latest CXL memory innovations at the Future of Memory and Storage (FMS) 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/primemas-at-fms-2026-cxl-full-stack-products-and-micron-collaboration-on-the-abaco-project/">Primemas at FMS 2026: CXL Full-Stack Products and Micron Collaboration on the Abaco Project</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan](https://www.semiconductor-digest.com/scientech-corporation-and-trymax-partner-to-distribute-resist-ashing-and-uv-products-in-taiwan-2/?utm_source=rss&utm_medium=rss&utm_campaign=scientech-corporation-and-trymax-partner-to-distribute-resist-ashing-and-uv-products-in-taiwan-2)
-**Published:** Mon, 24 Aug 2026 21:09:42 +0000
-
-<p>The agreement gives Scientech Corporation the right to distribute all of Trymax’s NEO ashing, etching products and their latest UV curing and charge erase products.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/scientech-corporation-and-trymax-partner-to-distribute-resist-ashing-and-uv-products-in-taiwan-2/">Scientech Corporation and Trymax Partner to Distribute Resist Ashing and UV Products in Taiwan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Quintessent Raises $40 Million Series A and Begins Sampling First Product for AI Optical Interconnects](https://www.semiconductor-digest.com/quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects/?utm_source=rss&utm_medium=rss&utm_campaign=quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects)
-**Published:** Mon, 24 Aug 2026 21:06:46 +0000
-
-<p>Quintessent today announced it has raised $40 million in an oversubscribed Series A investment round.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/quintessent-raises-40-million-series-a-and-begins-sampling-first-product-for-ai-optical-interconnects/">Quintessent Raises $40 Million Series A and Begins Sampling First Product for AI Optical Interconnects</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Micron Opens Boise Training Center to Build Semiconductor Workforce](https://www.semiconductor-digest.com/micron-opens-boise-training-center-to-build-semiconductor-workforce/?utm_source=rss&utm_medium=rss&utm_campaign=micron-opens-boise-training-center-to-build-semiconductor-workforce)
-**Published:** Mon, 24 Aug 2026 21:00:05 +0000
-
-<p>New 60,000-square-foot training center, delivering hands-on technical training and semiconductor career pathways.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-opens-boise-training-center-to-build-semiconductor-workforce/">Micron Opens Boise Training Center to Build Semiconductor Workforce</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
