@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-26 07:59 UTC_
+_Last updated: 2026-08-26 13:03 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [AMD Packs More Memory Capacity, Performance in a Smaller Design with Versal Premium Gen 2 Memory on Package](https://www.eetasia.com/embeddedblog-amd-packs-more-memory-capacity-performance-in-a-smaller-design-with-versal-premium-gen-2-memory-on-package/)
+**Published:** Wed, 26 Aug 2026 12:01:19 +0000
+
+<p>AMD Versal Premium Gen 2 MoP packs up to 32GB LPDDR5X in-package for 288GB/s bandwidth and 60% smaller footprint, with CXL 3.1/PCIe 6.0, -40–110°C operation, 15-yr lifecycle, and pre-validated memory to accelerate VPX defense, test &#38; measurement, and physical AI edge designs.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-amd-packs-more-memory-capacity-performance-in-a-smaller-design-with-versal-premium-gen-2-memory-on-package/">AMD Packs More Memory Capacity, Performance in a Smaller Design with Versal Premium Gen 2 Memory on Package</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,14 +19,6 @@ _Last updated: 2026-08-26 07:59 UTC_
 
 <p>Lattice Semiconductor will showcase low-power FPGA technologies for industrial IoT and sensor bridging at FPGAWorld Conference 2026.</p>
 <p>The post <a href="https://www.eetasia.com/lattice-to-highlight-low-power-fpga-solutions-at-fpgaworld-2026/">Lattice to Highlight Low-Power FPGA Solutions at FPGAWorld 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [STMicroelectronics and NUS Launch HELIX Lab to Advance Low-Power Edge AI](https://www.eetasia.com/stmicroelectronics-and-nus-launch-helix-lab-to-advance-low-power-edge-ai/)
-**Published:** Tue, 25 Aug 2026 02:21:21 +0000
-
-<p>Four-year research initiative will combine AI, memory, chip design, and semiconductor technologies to develop efficient edge AI systems.</p>
-<p>The post <a href="https://www.eetasia.com/stmicroelectronics-and-nus-launch-helix-lab-to-advance-low-power-edge-ai/">STMicroelectronics and NUS Launch HELIX Lab to Advance Low-Power Edge AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
