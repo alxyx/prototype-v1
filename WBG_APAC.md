@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-26 03:17 UTC_
+_Last updated: 2026-08-26 05:47 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Lattice to Highlight Low-Power FPGA Solutions at FPGAWorld 2026](https://www.eetasia.com/lattice-to-highlight-low-power-fpga-solutions-at-fpgaworld-2026/)
+**Published:** Wed, 26 Aug 2026 03:06:48 +0000
+
+<p>Lattice Semiconductor will showcase low-power FPGA technologies for industrial IoT and sensor bridging at FPGAWorld Conference 2026.</p>
+<p>The post <a href="https://www.eetasia.com/lattice-to-highlight-low-power-fpga-solutions-at-fpgaworld-2026/">Lattice to Highlight Low-Power FPGA Solutions at FPGAWorld 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,14 +19,6 @@ _Last updated: 2026-08-26 03:17 UTC_
 
 <p>Four-year research initiative will combine AI, memory, chip design, and semiconductor technologies to develop efficient edge AI systems.</p>
 <p>The post <a href="https://www.eetasia.com/stmicroelectronics-and-nus-launch-helix-lab-to-advance-low-power-edge-ai/">STMicroelectronics and NUS Launch HELIX Lab to Advance Low-Power Edge AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Rising AI Power Density Drives New Cooling Demands as T-Global Expands in Vietnam](https://www.eetasia.com/rising-ai-power-density-drives-new-cooling-demands-as-t-global-expands-in-vietnam/)
-**Published:** Fri, 21 Aug 2026 08:42:49 +0000
-
-<p>T-Global Technology highlights composite materials and direct liquid cooling as thermal demands increase across AI and high-power electronics.</p>
-<p>The post <a href="https://www.eetasia.com/rising-ai-power-density-drives-new-cooling-demands-as-t-global-expands-in-vietnam/">Rising AI Power Density Drives New Cooling Demands as T-Global Expands in Vietnam</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
