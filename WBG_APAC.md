@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-26 22:59 UTC_
+_Last updated: 2026-08-27 04:32 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [IPMX Demystified: What We’ve Learned and How to Deploy](https://www.eetasia.com/embeddedblog-ipmx-demystified-what-weve-learned-and-how-to-deploy/)
+**Published:** Thu, 27 Aug 2026 03:47:01 +0000
+
+<p>IPMX is now a deployable certified AV-over-IP standard (AIMS/VSF/AMWA, 48 products at ISE 2026). This guide covers the certification model, ST 2110/NMOS-IS-11/JPEG XS/HDCP/PEP scope, and how Adeas-Nextera FPGA IP cores on AMD Zynq 7000 (virtual ASIC), Zynq UltraScale+, Kria SOM and Versal let Pro AV/Broadcast OEMs reach IPMX Certified status without building RTL from scratch.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-ipmx-demystified-what-weve-learned-and-how-to-deploy/">IPMX Demystified: What We’ve Learned and How to Deploy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Uniform x86 Cores for Real-Time AI: Reducing the Hybrid-Core Tax in Physical AI Systems](https://www.eetasia.com/embeddedblog-uniform-x86-cores-for-real-time-ai-reducing-the-hybrid-core-tax-in-physical-ai-systems/)
+**Published:** Thu, 27 Aug 2026 01:55:47 +0000
+
+<p>Why hybrid x86 cores miss robotics deadlines: timing drift from P/E core mixing, unequal AVX width, and CPU-GPU copies. AMD Ryzen AI Embedded X100 answers with 16 uniform Zen 5 cores, full AVX-512, unified CPU/GPU/NPU memory, 2.1x CoreMark vs Core Ultra S3, and 10-yr industrial lifecycle—purpose-built for consistent real-time physical AI loops.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-uniform-x86-cores-for-real-time-ai-reducing-the-hybrid-core-tax-in-physical-ai-systems/">Uniform x86 Cores for Real-Time AI: Reducing the Hybrid-Core Tax in Physical AI Systems</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,14 +27,6 @@ _Last updated: 2026-08-26 22:59 UTC_
 
 <p>AMD Versal Premium Gen 2 MoP packs up to 32GB LPDDR5X in-package for 288GB/s bandwidth and 60% smaller footprint, with CXL 3.1/PCIe 6.0, -40–110°C operation, 15-yr lifecycle, and pre-validated memory to accelerate VPX defense, test &#38; measurement, and physical AI edge designs.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-amd-packs-more-memory-capacity-performance-in-a-smaller-design-with-versal-premium-gen-2-memory-on-package/">AMD Packs More Memory Capacity, Performance in a Smaller Design with Versal Premium Gen 2 Memory on Package</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Lattice to Highlight Low-Power FPGA Solutions at FPGAWorld 2026](https://www.eetasia.com/lattice-to-highlight-low-power-fpga-solutions-at-fpgaworld-2026/)
-**Published:** Wed, 26 Aug 2026 03:06:48 +0000
-
-<p>Lattice Semiconductor will showcase low-power FPGA technologies for industrial IoT and sensor bridging at FPGAWorld Conference 2026.</p>
-<p>The post <a href="https://www.eetasia.com/lattice-to-highlight-low-power-fpga-solutions-at-fpgaworld-2026/">Lattice to Highlight Low-Power FPGA Solutions at FPGAWorld 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-08-26 22:59 UTC_
 
 <p>Funds will accelerate AI design automation platform and customer projects.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/celera-semiconductor-announces-the-closing-of-a-30m-series-b-financing-round/">Celera Semiconductor Announces the Closing of a $30M Series B Financing Round</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AMD to Bring UCIe Connectivity to Select AMD Versal Adaptive SoCs](https://www.semiconductor-digest.com/amd-to-bring-ucie-connectivity-to-select-amd-versal-adaptive-socs/?utm_source=rss&utm_medium=rss&utm_campaign=amd-to-bring-ucie-connectivity-to-select-amd-versal-adaptive-socs)
-**Published:** Tue, 25 Aug 2026 20:20:02 +0000
-
-<p>AMD will offer the first Versal adaptive SoCs supporting Universal Chiplet Interconnect Express connectivity, enabling direct communication with co-packaged chiplets built for specialized workloads.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/amd-to-bring-ucie-connectivity-to-select-amd-versal-adaptive-socs/">AMD to Bring UCIe Connectivity to Select AMD Versal Adaptive SoCs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
