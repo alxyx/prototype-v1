@@ -1,8 +1,24 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-28 01:29 UTC_
+_Last updated: 2026-08-28 14:03 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Baya Systems Expands Japan Presence to Target AI and Chiplet Design](https://www.eetasia.com/baya-systems-expands-japan-presence-to-target-ai-and-chiplet-design/)
+**Published:** Fri, 28 Aug 2026 08:27:49 +0000
+
+<p>Baya Systems is strengthening its Japan presence as semiconductor companies adopt chiplets and scalable architectures for AI and HPC.</p>
+<p>The post <a href="https://www.eetasia.com/baya-systems-expands-japan-presence-to-target-ai-and-chiplet-design/">Baya Systems Expands Japan Presence to Target AI and Chiplet Design</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [VIPS-TC Students Move OpenPOWER CPU Design from RTL to Fabricated Silicon](https://www.eetasia.com/vips-tc-students-move-openpower-cpu-design-from-rtl-to-fabricated-silicon/)
+**Published:** Fri, 28 Aug 2026 07:49:23 +0000
+
+<p>VIPS-TC students achieve fabricated silicon milestone, demonstrating India's growing capabilities in academic semiconductor design and hardware innovation.</p>
+<p>The post <a href="https://www.eetasia.com/vips-tc-students-move-openpower-cpu-design-from-rtl-to-fabricated-silicon/">VIPS-TC Students Move OpenPOWER CPU Design from RTL to Fabricated Silicon</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,22 +27,6 @@ _Last updated: 2026-08-28 01:29 UTC_
 
 <p>IPMX is now a deployable certified AV-over-IP standard (AIMS/VSF/AMWA, 48 products at ISE 2026). This guide covers the certification model, ST 2110/NMOS-IS-11/JPEG XS/HDCP/PEP scope, and how Adeas-Nextera FPGA IP cores on AMD Zynq 7000 (virtual ASIC), Zynq UltraScale+, Kria SOM and Versal let Pro AV/Broadcast OEMs reach IPMX Certified status without building RTL from scratch.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-ipmx-demystified-what-weve-learned-and-how-to-deploy/">IPMX Demystified: What We’ve Learned and How to Deploy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Uniform x86 Cores for Real-Time AI: Reducing the Hybrid-Core Tax in Physical AI Systems](https://www.eetasia.com/embeddedblog-uniform-x86-cores-for-real-time-ai-reducing-the-hybrid-core-tax-in-physical-ai-systems/)
-**Published:** Thu, 27 Aug 2026 01:55:47 +0000
-
-<p>Why hybrid x86 cores miss robotics deadlines: timing drift from P/E core mixing, unequal AVX width, and CPU-GPU copies. AMD Ryzen AI Embedded X100 answers with 16 uniform Zen 5 cores, full AVX-512, unified CPU/GPU/NPU memory, 2.1x CoreMark vs Core Ultra S3, and 10-yr industrial lifecycle—purpose-built for consistent real-time physical AI loops.</p>
-<p>The post <a href="https://www.eetasia.com/embeddedblog-uniform-x86-cores-for-real-time-ai-reducing-the-hybrid-core-tax-in-physical-ai-systems/">Uniform x86 Cores for Real-Time AI: Reducing the Hybrid-Core Tax in Physical AI Systems</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [AMD Packs More Memory Capacity, Performance in a Smaller Design with Versal Premium Gen 2 Memory on Package](https://www.eetasia.com/embeddedblog-amd-packs-more-memory-capacity-performance-in-a-smaller-design-with-versal-premium-gen-2-memory-on-package/)
-**Published:** Wed, 26 Aug 2026 12:01:19 +0000
-
-<p>AMD Versal Premium Gen 2 MoP packs up to 32GB LPDDR5X in-package for 288GB/s bandwidth and 60% smaller footprint, with CXL 3.1/PCIe 6.0, -40–110°C operation, 15-yr lifecycle, and pre-validated memory to accelerate VPX defense, test &#38; measurement, and physical AI edge designs.</p>
-<p>The post <a href="https://www.eetasia.com/embeddedblog-amd-packs-more-memory-capacity-performance-in-a-smaller-design-with-versal-premium-gen-2-memory-on-package/">AMD Packs More Memory Capacity, Performance in a Smaller Design with Versal Premium Gen 2 Memory on Package</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
