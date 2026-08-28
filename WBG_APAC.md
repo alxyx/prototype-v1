@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-28 14:03 UTC_
+_Last updated: 2026-08-28 23:38 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -30,59 +30,59 @@ _Last updated: 2026-08-28 14:03 UTC_
 
 ---
 
+## [Researchers Develop Stepwise Evaporation Method to Reduce Contact Resistance in Transistors](https://www.semiconductor-digest.com/researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors)
+**Published:** Fri, 28 Aug 2026 17:32:06 +0000
+
+<p>As transistor dimensions continue to shrink, though, structural disorder in metals and at metal-semiconductor interfaces increasingly impedes carrier injection and transport. Metals therefore need a level of structural order comparable to that of single-crystal semiconductors in order to push device performance toward its physical limits.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors/">Researchers Develop Stepwise Evaporation Method to Reduce Contact Resistance in Transistors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [New Transistor Brings High Voltage to Microchip Scale](https://www.semiconductor-digest.com/new-transistor-brings-high-voltage-to-microchip-scale/?utm_source=rss&utm_medium=rss&utm_campaign=new-transistor-brings-high-voltage-to-microchip-scale)
+**Published:** Fri, 28 Aug 2026 17:29:48 +0000
+
+<p>By harnessing the properties of gallium nitride, EPFL engineers have built a tiny transistor that can handle very high voltage with minimal energy loss, a key requirement for AI data centers, electric vehicles, and solar power systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-transistor-brings-high-voltage-to-microchip-scale/">New Transistor Brings High Voltage to Microchip Scale</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Diodes Completes Acquisition of ElevATE Semiconductor](https://www.semiconductor-digest.com/diodes-completes-acquisition-of-elevate-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=diodes-completes-acquisition-of-elevate-semiconductor)
+**Published:** Fri, 28 Aug 2026 17:26:43 +0000
+
+<p>Diodes Incorporated today announced the successful completion of its acquisition of ElevATE Semiconductor, Inc., a provider of high-performance integrated circuits for the Automated Test Equipment (ATE) market, in an all-cash transaction for $250 million.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/diodes-completes-acquisition-of-elevate-semiconductor/">Diodes Completes Acquisition of ElevATE Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Micron Celebrates First Manassas Apprenticeship Graduates](https://www.semiconductor-digest.com/micron-celebrates-first-manassas-apprenticeship-graduates/?utm_source=rss&utm_medium=rss&utm_campaign=micron-celebrates-first-manassas-apprenticeship-graduates)
+**Published:** Fri, 28 Aug 2026 17:21:32 +0000
+
+<p>First graduating class and fifth signing cohort highlight momentum behind Micron's workforce development partnerships in Virginia.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-celebrates-first-manassas-apprenticeship-graduates/">Micron Celebrates First Manassas Apprenticeship Graduates</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [BTU Formic Acid Reflow Technology Advances Fluxless Soldering for Next-Generation Semiconductor Packaging](https://www.semiconductor-digest.com/btu-formic-acid-reflow-technology-advances-fluxless-soldering-for-next-generation-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=btu-formic-acid-reflow-technology-advances-fluxless-soldering-for-next-generation-semiconductor-packaging)
+**Published:** Fri, 28 Aug 2026 17:15:14 +0000
+
+<p>BTU International, a supplier of advanced thermal processing equipment for the electronics manufacturing and semiconductor industries, announced the availability of an advanced Formic Acid Reflow capability across multiple reflow oven platforms.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/btu-formic-acid-reflow-technology-advances-fluxless-soldering-for-next-generation-semiconductor-packaging/">BTU Formic Acid Reflow Technology Advances Fluxless Soldering for Next-Generation Semiconductor Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Lam Research Breaks Ground on New Oregon Lab](https://www.semiconductor-digest.com/lam-research-breaks-ground-on-new-oregon-lab/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-breaks-ground-on-new-oregon-lab)
+**Published:** Fri, 28 Aug 2026 17:10:02 +0000
+
+<p>Silicon Forest facility to support collaborative innovation with chip makers; first milestone in more than $3B planned expansion of global lab network.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lam-research-breaks-ground-on-new-oregon-lab/">Lam Research Breaks Ground on New Oregon Lab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Northrop Grumman Advances Microchip Tech with Diamond Cooling Innovation](https://www.semiconductor-digest.com/northrop-grumman-advances-microchip-tech-with-diamond-cooling-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=northrop-grumman-advances-microchip-tech-with-diamond-cooling-innovation)
 **Published:** Thu, 27 Aug 2026 19:12:39 +0000
 
 <p>Northrop Grumman is pioneering a new wave of microelectronics with a $7 million contract to create diamond-cooled chips that deliver higher power, faster speeds and dramatically enhanced performance for military radar and communications.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/northrop-grumman-advances-microchip-tech-with-diamond-cooling-innovation/">Northrop Grumman Advances Microchip Tech with Diamond Cooling Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Renesas Establishes Physical AI & Robotics Lab in Beijing to Accelerate Next-Generation Robotics Innovation](https://www.semiconductor-digest.com/renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation)
-**Published:** Thu, 27 Aug 2026 19:09:16 +0000
-
-<p>Renesas Electronics Corporation, a supplier of advanced semiconductor solutions, today announced the official opening of its Physical AI &#038; Robotics Lab in Beijing, China.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation/">Renesas Establishes Physical AI &#038; Robotics Lab in Beijing to Accelerate Next-Generation Robotics Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMICON West 2026 to Spotlight $1 Trillion Semiconductor Milestone and Technologies Powering the Industry’s Next Era](https://www.semiconductor-digest.com/semicon-west-2026-to-spotlight-1-trillion-semiconductor-milestone-and-technologies-powering-the-industrys-next-era/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-west-2026-to-spotlight-1-trillion-semiconductor-milestone-and-technologies-powering-the-industrys-next-era)
-**Published:** Thu, 27 Aug 2026 19:07:38 +0000
-
-<p>SEMI, the industry association advancing the global semiconductor and electronics design and manufacturing supply chain, today announced keynotes and program highlights for this year’s SEMICON West .</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semicon-west-2026-to-spotlight-1-trillion-semiconductor-milestone-and-technologies-powering-the-industrys-next-era/">SEMICON West 2026 to Spotlight $1 Trillion Semiconductor Milestone and Technologies Powering the Industry’s Next Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research](https://www.semiconductor-digest.com/thermo-fisher-scientific-introduces-the-thermo-scientific-empad-g2-electron-detector-to-advance-materials-research/?utm_source=rss&utm_medium=rss&utm_campaign=thermo-fisher-scientific-introduces-the-thermo-scientific-empad-g2-electron-detector-to-advance-materials-research)
-**Published:** Thu, 27 Aug 2026 19:02:26 +0000
-
-<p>Thermo Fisher Scientific Inc. today introduced the Thermo Scientific EMPAD G2 detector, a new detector designed to help researchers see and understand materials in unprecedented detail. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/thermo-fisher-scientific-introduces-the-thermo-scientific-empad-g2-electron-detector-to-advance-materials-research/">Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Kioxia and Sandisk to Invest Over $31 Billion in Japan](https://www.semiconductor-digest.com/kioxia-and-sandisk-to-invest-over-31-billion-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=kioxia-and-sandisk-to-invest-over-31-billion-in-japan)
-**Published:** Thu, 27 Aug 2026 18:57:36 +0000
-
-<p>Continued investments through 2032 will further strengthen the companies' long-standing joint venture and drive meaningful, multi-year flash memory-supply.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kioxia-and-sandisk-to-invest-over-31-billion-in-japan/">Kioxia and Sandisk to Invest Over $31 Billion in Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana](https://www.semiconductor-digest.com/sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana/?utm_source=rss&utm_medium=rss&utm_campaign=sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana)
-**Published:** Thu, 27 Aug 2026 18:55:32 +0000
-
-<p>Investing over $4 billion in Indiana fab and first 'Made in USA' next-generation HBM mass production in U.S. to begin in H2 2029.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana/">SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [LG Chem to Showcase Advanced Packaging Material Solutions for AI Semiconductors at SEMICON Taiwan 2026](https://www.semiconductor-digest.com/lg-chem-to-showcase-advanced-packaging-material-solutions-for-ai-semiconductors-at-semicon-taiwan-2026/?utm_source=rss&utm_medium=rss&utm_campaign=lg-chem-to-showcase-advanced-packaging-material-solutions-for-ai-semiconductors-at-semicon-taiwan-2026)
-**Published:** Wed, 26 Aug 2026 18:46:10 +0000
-
-<p>LG Chem will participate in SEMICON Taiwan 2026, Asia’s largest semiconductor exhibition, to showcase advanced packaging and power semiconductor material solutions for AI semiconductors and expand collaboration with semiconductor customers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lg-chem-to-showcase-advanced-packaging-material-solutions-for-ai-semiconductors-at-semicon-taiwan-2026/">LG Chem to Showcase Advanced Packaging Material Solutions for AI Semiconductors at SEMICON Taiwan 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
