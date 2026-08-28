@@ -1,6 +1,6 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-08-27 04:32 UTC_
+_Last updated: 2026-08-28 01:29 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -30,59 +30,59 @@ _Last updated: 2026-08-27 04:32 UTC_
 
 ---
 
+## [Northrop Grumman Advances Microchip Tech with Diamond Cooling Innovation](https://www.semiconductor-digest.com/northrop-grumman-advances-microchip-tech-with-diamond-cooling-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=northrop-grumman-advances-microchip-tech-with-diamond-cooling-innovation)
+**Published:** Thu, 27 Aug 2026 19:12:39 +0000
+
+<p>Northrop Grumman is pioneering a new wave of microelectronics with a $7 million contract to create diamond-cooled chips that deliver higher power, faster speeds and dramatically enhanced performance for military radar and communications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/northrop-grumman-advances-microchip-tech-with-diamond-cooling-innovation/">Northrop Grumman Advances Microchip Tech with Diamond Cooling Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Renesas Establishes Physical AI & Robotics Lab in Beijing to Accelerate Next-Generation Robotics Innovation](https://www.semiconductor-digest.com/renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation)
+**Published:** Thu, 27 Aug 2026 19:09:16 +0000
+
+<p>Renesas Electronics Corporation, a supplier of advanced semiconductor solutions, today announced the official opening of its Physical AI &#038; Robotics Lab in Beijing, China.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation/">Renesas Establishes Physical AI &#038; Robotics Lab in Beijing to Accelerate Next-Generation Robotics Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMICON West 2026 to Spotlight $1 Trillion Semiconductor Milestone and Technologies Powering the Industry’s Next Era](https://www.semiconductor-digest.com/semicon-west-2026-to-spotlight-1-trillion-semiconductor-milestone-and-technologies-powering-the-industrys-next-era/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-west-2026-to-spotlight-1-trillion-semiconductor-milestone-and-technologies-powering-the-industrys-next-era)
+**Published:** Thu, 27 Aug 2026 19:07:38 +0000
+
+<p>SEMI, the industry association advancing the global semiconductor and electronics design and manufacturing supply chain, today announced keynotes and program highlights for this year’s SEMICON West .</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semicon-west-2026-to-spotlight-1-trillion-semiconductor-milestone-and-technologies-powering-the-industrys-next-era/">SEMICON West 2026 to Spotlight $1 Trillion Semiconductor Milestone and Technologies Powering the Industry’s Next Era</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research](https://www.semiconductor-digest.com/thermo-fisher-scientific-introduces-the-thermo-scientific-empad-g2-electron-detector-to-advance-materials-research/?utm_source=rss&utm_medium=rss&utm_campaign=thermo-fisher-scientific-introduces-the-thermo-scientific-empad-g2-electron-detector-to-advance-materials-research)
+**Published:** Thu, 27 Aug 2026 19:02:26 +0000
+
+<p>Thermo Fisher Scientific Inc. today introduced the Thermo Scientific EMPAD G2 detector, a new detector designed to help researchers see and understand materials in unprecedented detail. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/thermo-fisher-scientific-introduces-the-thermo-scientific-empad-g2-electron-detector-to-advance-materials-research/">Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Kioxia and Sandisk to Invest Over $31 Billion in Japan](https://www.semiconductor-digest.com/kioxia-and-sandisk-to-invest-over-31-billion-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=kioxia-and-sandisk-to-invest-over-31-billion-in-japan)
+**Published:** Thu, 27 Aug 2026 18:57:36 +0000
+
+<p>Continued investments through 2032 will further strengthen the companies' long-standing joint venture and drive meaningful, multi-year flash memory-supply.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kioxia-and-sandisk-to-invest-over-31-billion-in-japan/">Kioxia and Sandisk to Invest Over $31 Billion in Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana](https://www.semiconductor-digest.com/sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana/?utm_source=rss&utm_medium=rss&utm_campaign=sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana)
+**Published:** Thu, 27 Aug 2026 18:55:32 +0000
+
+<p>Investing over $4 billion in Indiana fab and first 'Made in USA' next-generation HBM mass production in U.S. to begin in H2 2029.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana/">SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [LG Chem to Showcase Advanced Packaging Material Solutions for AI Semiconductors at SEMICON Taiwan 2026](https://www.semiconductor-digest.com/lg-chem-to-showcase-advanced-packaging-material-solutions-for-ai-semiconductors-at-semicon-taiwan-2026/?utm_source=rss&utm_medium=rss&utm_campaign=lg-chem-to-showcase-advanced-packaging-material-solutions-for-ai-semiconductors-at-semicon-taiwan-2026)
 **Published:** Wed, 26 Aug 2026 18:46:10 +0000
 
 <p>LG Chem will participate in SEMICON Taiwan 2026, Asia’s largest semiconductor exhibition, to showcase advanced packaging and power semiconductor material solutions for AI semiconductors and expand collaboration with semiconductor customers.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/lg-chem-to-showcase-advanced-packaging-material-solutions-for-ai-semiconductors-at-semicon-taiwan-2026/">LG Chem to Showcase Advanced Packaging Material Solutions for AI Semiconductors at SEMICON Taiwan 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Keysight Accelerates AttoTude IC Design Cycles by More Than 50%](https://www.semiconductor-digest.com/keysight-accelerates-attotude-ic-design-cycles-by-more-than-50/?utm_source=rss&utm_medium=rss&utm_campaign=keysight-accelerates-attotude-ic-design-cycles-by-more-than-50)
-**Published:** Wed, 26 Aug 2026 18:40:29 +0000
-
-<p>Keysight Technologies, Inc. today announced that AttoTude Inc. has expanded its use of Keysight EDA software to manage its full IC design workflow.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/keysight-accelerates-attotude-ic-design-cycles-by-more-than-50/">Keysight Accelerates AttoTude IC Design Cycles by More Than 50%</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NextSilicon Appoints Rupal Hollenbeck President and Chief Business Officer](https://www.semiconductor-digest.com/nextsilicon-appoints-rupal-hollenbeck-president-and-chief-business-officer/?utm_source=rss&utm_medium=rss&utm_campaign=nextsilicon-appoints-rupal-hollenbeck-president-and-chief-business-officer)
-**Published:** Wed, 26 Aug 2026 18:36:54 +0000
-
-<p>Former Check Point Software president, Oracle and Cerebras CMO, and 23-year Intel veteran joins NextSilicon to scale global sales, marketing, partnerships and customer adoption.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nextsilicon-appoints-rupal-hollenbeck-president-and-chief-business-officer/">NextSilicon Appoints Rupal Hollenbeck President and Chief Business Officer</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Agentrys Raises $24.5 Million to Build Agentic Design Automation for Chipmakers](https://www.semiconductor-digest.com/agentrys-raises-24-5-million-to-build-agentic-design-automation-for-chipmakers/?utm_source=rss&utm_medium=rss&utm_campaign=agentrys-raises-24-5-million-to-build-agentic-design-automation-for-chipmakers)
-**Published:** Wed, 26 Aug 2026 18:33:03 +0000
-
-<p>Platform from Mark Ren, who pioneered AI for chip design at NVIDIA, enables engineering teams to build and own a self-improving agentic workforce for chip design.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/agentrys-raises-24-5-million-to-build-agentic-design-automation-for-chipmakers/">Agentrys Raises $24.5 Million to Build Agentic Design Automation for Chipmakers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Gartner Forecasts Worldwide Semiconductor Revenue to Reach $1.6 Trillion in 2026](https://www.semiconductor-digest.com/gartner-forecasts-worldwide-semiconductor-revenue-to-reach-1-6-trillion-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=gartner-forecasts-worldwide-semiconductor-revenue-to-reach-1-6-trillion-in-2026)
-**Published:** Tue, 25 Aug 2026 20:24:45 +0000
-
-<p>Global semiconductor revenue is expected to reach $1.6 trillion in 2026, increasing 92% from 2025 revenue of $809 billion, according to Gartner, Inc., a business and technology insights company.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/gartner-forecasts-worldwide-semiconductor-revenue-to-reach-1-6-trillion-in-2026/">Gartner Forecasts Worldwide Semiconductor Revenue to Reach $1.6 Trillion in 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Qnity Expands AI-Driven Advanced Packaging Capabilities with End-to-End Process Solutions](https://www.semiconductor-digest.com/qnity-expands-ai-driven-advanced-packaging-capabilities-with-end-to-end-process-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-expands-ai-driven-advanced-packaging-capabilities-with-end-to-end-process-solutions)
-**Published:** Tue, 25 Aug 2026 20:23:16 +0000
-
-<p>Integrated portfolio spans metallization, bumping, dielectric and fine-line patterning for 2.5D, 3D and panel-level architectures.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/qnity-expands-ai-driven-advanced-packaging-capabilities-with-end-to-end-process-solutions/">Qnity Expands AI-Driven Advanced Packaging Capabilities with End-to-End Process Solutions</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Celera Semiconductor Announces the Closing of a $30M Series B Financing Round](https://www.semiconductor-digest.com/celera-semiconductor-announces-the-closing-of-a-30m-series-b-financing-round/?utm_source=rss&utm_medium=rss&utm_campaign=celera-semiconductor-announces-the-closing-of-a-30m-series-b-financing-round)
-**Published:** Tue, 25 Aug 2026 20:21:46 +0000
-
-<p>Funds will accelerate AI design automation platform and customer projects.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/celera-semiconductor-announces-the-closing-of-a-30m-series-b-financing-round/">Celera Semiconductor Announces the Closing of a $30M Series B Financing Round</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
