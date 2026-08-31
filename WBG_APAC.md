@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-30 23:26 UTC_
+_Last updated: 2026-08-31 10:58 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [MIPS Expands RISC-V Role to Advance Open Architectures for Physical AI](https://www.eetasia.com/mips-expands-risc-v-role-to-advance-open-architectures-for-physical-ai/)
+**Published:** Sun, 30 Aug 2026 23:39:20 +0000
+
+<p>MIPS joins RISC-V International as a Premier Member, targeting open, workload-optimized computing for physical AI applications.</p>
+<p>The post <a href="https://www.eetasia.com/mips-expands-risc-v-role-to-advance-open-architectures-for-physical-ai/">MIPS Expands RISC-V Role to Advance Open Architectures for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,22 +19,6 @@ _Last updated: 2026-08-30 23:26 UTC_
 
 <p>Baya Systems is strengthening its Japan presence as semiconductor companies adopt chiplets and scalable architectures for AI and HPC.</p>
 <p>The post <a href="https://www.eetasia.com/baya-systems-expands-japan-presence-to-target-ai-and-chiplet-design/">Baya Systems Expands Japan Presence to Target AI and Chiplet Design</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [VIPS-TC Students Move OpenPOWER CPU Design from RTL to Fabricated Silicon](https://www.eetasia.com/vips-tc-students-move-openpower-cpu-design-from-rtl-to-fabricated-silicon/)
-**Published:** Fri, 28 Aug 2026 07:49:23 +0000
-
-<p>VIPS-TC students achieve fabricated silicon milestone, demonstrating India's growing capabilities in academic semiconductor design and hardware innovation.</p>
-<p>The post <a href="https://www.eetasia.com/vips-tc-students-move-openpower-cpu-design-from-rtl-to-fabricated-silicon/">VIPS-TC Students Move OpenPOWER CPU Design from RTL to Fabricated Silicon</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [IPMX Demystified: What We’ve Learned and How to Deploy](https://www.eetasia.com/embeddedblog-ipmx-demystified-what-weve-learned-and-how-to-deploy/)
-**Published:** Thu, 27 Aug 2026 03:47:01 +0000
-
-<p>IPMX is now a deployable certified AV-over-IP standard (AIMS/VSF/AMWA, 48 products at ISE 2026). This guide covers the certification model, ST 2110/NMOS-IS-11/JPEG XS/HDCP/PEP scope, and how Adeas-Nextera FPGA IP cores on AMD Zynq 7000 (virtual ASIC), Zynq UltraScale+, Kria SOM and Versal let Pro AV/Broadcast OEMs reach IPMX Certified status without building RTL from scratch.</p>
-<p>The post <a href="https://www.eetasia.com/embeddedblog-ipmx-demystified-what-weve-learned-and-how-to-deploy/">IPMX Demystified: What We’ve Learned and How to Deploy</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-08-30 23:26 UTC_
 
 <p>Northrop Grumman is pioneering a new wave of microelectronics with a $7 million contract to create diamond-cooled chips that deliver higher power, faster speeds and dramatically enhanced performance for military radar and communications.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/northrop-grumman-advances-microchip-tech-with-diamond-cooling-innovation/">Northrop Grumman Advances Microchip Tech with Diamond Cooling Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Renesas Establishes Physical AI & Robotics Lab in Beijing to Accelerate Next-Generation Robotics Innovation](https://www.semiconductor-digest.com/renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation)
+**Published:** Thu, 27 Aug 2026 19:09:16 +0000
+
+<p>Renesas Electronics Corporation, a supplier of advanced semiconductor solutions, today announced the official opening of its Physical AI &#038; Robotics Lab in Beijing, China.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation/">Renesas Establishes Physical AI &#038; Robotics Lab in Beijing to Accelerate Next-Generation Robotics Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
