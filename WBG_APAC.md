@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-08-31 10:58 UTC_
+_Last updated: 2026-09-01 07:35 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -14,11 +14,51 @@ _Last updated: 2026-08-31 10:58 UTC_
 
 ---
 
-## [Baya Systems Expands Japan Presence to Target AI and Chiplet Design](https://www.eetasia.com/baya-systems-expands-japan-presence-to-target-ai-and-chiplet-design/)
-**Published:** Fri, 28 Aug 2026 08:27:49 +0000
+## [Wafer-Scale P-Type 2D Semiconductor Clears a Key Hurdle for Next-Generation Chips](https://www.semiconductor-digest.com/wafer-scale-p-type-2d-semiconductor-clears-a-key-hurdle-for-next-generation-chips/?utm_source=rss&utm_medium=rss&utm_campaign=wafer-scale-p-type-2d-semiconductor-clears-a-key-hurdle-for-next-generation-chips)
+**Published:** Mon, 31 Aug 2026 20:36:04 +0000
 
-<p>Baya Systems is strengthening its Japan presence as semiconductor companies adopt chiplets and scalable architectures for AI and HPC.</p>
-<p>The post <a href="https://www.eetasia.com/baya-systems-expands-japan-presence-to-target-ai-and-chiplet-design/">Baya Systems Expands Japan Presence to Target AI and Chiplet Design</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>A wafer-scale 2D semiconductor combines high hole mobility, strong stability and transistor performance, advancing next-generation CMOS electronics.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/wafer-scale-p-type-2d-semiconductor-clears-a-key-hurdle-for-next-generation-chips/">Wafer-Scale P-Type 2D Semiconductor Clears a Key Hurdle for Next-Generation Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [PolyU Develops Quantum-Tunnelling Field-Effect Transistor](https://www.semiconductor-digest.com/polyu-develops-quantum-tunnelling-field-effect-transistor/?utm_source=rss&utm_medium=rss&utm_campaign=polyu-develops-quantum-tunnelling-field-effect-transistor)
+**Published:** Mon, 31 Aug 2026 20:33:45 +0000
+
+<p>The next generation of microelectronics relies on radical improvements in transistor switching performance to advance computing power.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/polyu-develops-quantum-tunnelling-field-effect-transistor/">PolyU Develops Quantum-Tunnelling Field-Effect Transistor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Trymax Secures Multi-Million-Dollar Supply Agreement with AOI to Support InP Laser Manufacturing](https://www.semiconductor-digest.com/trymax-secures-multi-million-dollar-supply-agreement-with-aoi-to-support-inp-laser-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=trymax-secures-multi-million-dollar-supply-agreement-with-aoi-to-support-inp-laser-manufacturing)
+**Published:** Mon, 31 Aug 2026 20:27:24 +0000
+
+<p>Trymax Semiconductor Equipment today announced that it has been awarded a substantial, multi-year, multi-million-dollar purchase order by Applied Optoelectronics, Inc.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/trymax-secures-multi-million-dollar-supply-agreement-with-aoi-to-support-inp-laser-manufacturing/">Trymax Secures Multi-Million-Dollar Supply Agreement with AOI to Support InP Laser Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AUO Showcases Micro LED Optical Communication and Glass Core Substrates Technologies at SEMICON Taiwan 2026](https://www.semiconductor-digest.com/auo-showcases-micro-led-optical-communication-and-glass-core-substrates-technologies-at-semicon-taiwan-2026/?utm_source=rss&utm_medium=rss&utm_campaign=auo-showcases-micro-led-optical-communication-and-glass-core-substrates-technologies-at-semicon-taiwan-2026)
+**Published:** Mon, 31 Aug 2026 20:19:56 +0000
+
+<p>As AI applications continue to proliferate, demand for high-performance computing and high-speed data transmission is accelerating, making AI infrastructure capacity a critical enabler of industry growth.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/auo-showcases-micro-led-optical-communication-and-glass-core-substrates-technologies-at-semicon-taiwan-2026/">AUO Showcases Micro LED Optical Communication and Glass Core Substrates Technologies at SEMICON Taiwan 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Rigaku to Showcase Advanced X-ray Metrology and Inspection Solutions at SEMICON Taiwan 2026](https://www.semiconductor-digest.com/rigaku-to-showcase-advanced-x-ray-metrology-and-inspection-solutions-at-semicon-taiwan-2026/?utm_source=rss&utm_medium=rss&utm_campaign=rigaku-to-showcase-advanced-x-ray-metrology-and-inspection-solutions-at-semicon-taiwan-2026)
+**Published:** Mon, 31 Aug 2026 20:14:49 +0000
+
+<p>The Rigaku Group will exhibit at “SEMICON Taiwan 2026,” taking place September 2 to 4, 2026, at TaiNEX 1 and 2 in Taipei.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rigaku-to-showcase-advanced-x-ray-metrology-and-inspection-solutions-at-semicon-taiwan-2026/">Rigaku to Showcase Advanced X-ray Metrology and Inspection Solutions at SEMICON Taiwan 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Qnity Introduces Stackplane CMP Slurry Platform for Advanced Packaging](https://www.semiconductor-digest.com/qnity-introduces-stackplane-cmp-slurry-platform-for-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-introduces-stackplane-cmp-slurry-platform-for-advanced-packaging)
+**Published:** Mon, 31 Aug 2026 20:09:50 +0000
+
+<p>Supporting the transition to ‘shrink–and–stack' as part of Qnity's end-to-end advanced packaging portfolio.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/qnity-introduces-stackplane-cmp-slurry-platform-for-advanced-packaging/">Qnity Introduces Stackplane CMP Slurry Platform for Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -43,46 +83,6 @@ _Last updated: 2026-08-31 10:58 UTC_
 
 <p>Diodes Incorporated today announced the successful completion of its acquisition of ElevATE Semiconductor, Inc., a provider of high-performance integrated circuits for the Automated Test Equipment (ATE) market, in an all-cash transaction for $250 million.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/diodes-completes-acquisition-of-elevate-semiconductor/">Diodes Completes Acquisition of ElevATE Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Micron Celebrates First Manassas Apprenticeship Graduates](https://www.semiconductor-digest.com/micron-celebrates-first-manassas-apprenticeship-graduates/?utm_source=rss&utm_medium=rss&utm_campaign=micron-celebrates-first-manassas-apprenticeship-graduates)
-**Published:** Fri, 28 Aug 2026 17:21:32 +0000
-
-<p>First graduating class and fifth signing cohort highlight momentum behind Micron's workforce development partnerships in Virginia.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-celebrates-first-manassas-apprenticeship-graduates/">Micron Celebrates First Manassas Apprenticeship Graduates</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [BTU Formic Acid Reflow Technology Advances Fluxless Soldering for Next-Generation Semiconductor Packaging](https://www.semiconductor-digest.com/btu-formic-acid-reflow-technology-advances-fluxless-soldering-for-next-generation-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=btu-formic-acid-reflow-technology-advances-fluxless-soldering-for-next-generation-semiconductor-packaging)
-**Published:** Fri, 28 Aug 2026 17:15:14 +0000
-
-<p>BTU International, a supplier of advanced thermal processing equipment for the electronics manufacturing and semiconductor industries, announced the availability of an advanced Formic Acid Reflow capability across multiple reflow oven platforms.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/btu-formic-acid-reflow-technology-advances-fluxless-soldering-for-next-generation-semiconductor-packaging/">BTU Formic Acid Reflow Technology Advances Fluxless Soldering for Next-Generation Semiconductor Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lam Research Breaks Ground on New Oregon Lab](https://www.semiconductor-digest.com/lam-research-breaks-ground-on-new-oregon-lab/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-breaks-ground-on-new-oregon-lab)
-**Published:** Fri, 28 Aug 2026 17:10:02 +0000
-
-<p>Silicon Forest facility to support collaborative innovation with chip makers; first milestone in more than $3B planned expansion of global lab network.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lam-research-breaks-ground-on-new-oregon-lab/">Lam Research Breaks Ground on New Oregon Lab</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Northrop Grumman Advances Microchip Tech with Diamond Cooling Innovation](https://www.semiconductor-digest.com/northrop-grumman-advances-microchip-tech-with-diamond-cooling-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=northrop-grumman-advances-microchip-tech-with-diamond-cooling-innovation)
-**Published:** Thu, 27 Aug 2026 19:12:39 +0000
-
-<p>Northrop Grumman is pioneering a new wave of microelectronics with a $7 million contract to create diamond-cooled chips that deliver higher power, faster speeds and dramatically enhanced performance for military radar and communications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/northrop-grumman-advances-microchip-tech-with-diamond-cooling-innovation/">Northrop Grumman Advances Microchip Tech with Diamond Cooling Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Renesas Establishes Physical AI & Robotics Lab in Beijing to Accelerate Next-Generation Robotics Innovation](https://www.semiconductor-digest.com/renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation)
-**Published:** Thu, 27 Aug 2026 19:09:16 +0000
-
-<p>Renesas Electronics Corporation, a supplier of advanced semiconductor solutions, today announced the official opening of its Physical AI &#038; Robotics Lab in Beijing, China.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation/">Renesas Establishes Physical AI &#038; Robotics Lab in Beijing to Accelerate Next-Generation Robotics Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
