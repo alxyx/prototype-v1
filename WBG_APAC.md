@@ -1,8 +1,16 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-09-02 08:40 UTC_
+_Last updated: 2026-09-02 17:51 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [How AI Infrastructure Spans Multiple Semiconductor Process Nodes](https://www.eetasia.com/embeddedblog-how-ai-infrastructure-spans-multiple-semiconductor-process-nodes/)
+**Published:** Wed, 02 Sep 2026 14:47:22 +0000
+
+<p>AI infrastructure increasingly depends on multiple fabs and semiconductor technologies converging through advanced packaging, power, memory, and connectivity.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-how-ai-infrastructure-spans-multiple-semiconductor-process-nodes/">How AI Infrastructure Spans Multiple Semiconductor Process Nodes</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-09-02 08:40 UTC_
 
 <p>The next generation of microelectronics relies on radical improvements in transistor switching performance to advance computing power.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/polyu-develops-quantum-tunnelling-field-effect-transistor/">PolyU Develops Quantum-Tunnelling Field-Effect Transistor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Trymax Secures Multi-Million-Dollar Supply Agreement with AOI to Support InP Laser Manufacturing](https://www.semiconductor-digest.com/trymax-secures-multi-million-dollar-supply-agreement-with-aoi-to-support-inp-laser-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=trymax-secures-multi-million-dollar-supply-agreement-with-aoi-to-support-inp-laser-manufacturing)
-**Published:** Mon, 31 Aug 2026 20:27:24 +0000
-
-<p>Trymax Semiconductor Equipment today announced that it has been awarded a substantial, multi-year, multi-million-dollar purchase order by Applied Optoelectronics, Inc.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/trymax-secures-multi-million-dollar-supply-agreement-with-aoi-to-support-inp-laser-manufacturing/">Trymax Secures Multi-Million-Dollar Supply Agreement with AOI to Support InP Laser Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
