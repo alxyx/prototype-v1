@@ -1,16 +1,64 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-01 13:21 UTC_
+_Last updated: 2026-09-02 03:23 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
 ---
 
-## [MIPS Expands RISC-V Role to Advance Open Architectures for Physical AI](https://www.eetasia.com/mips-expands-risc-v-role-to-advance-open-architectures-for-physical-ai/)
-**Published:** Sun, 30 Aug 2026 23:39:20 +0000
+## [Diodes Expands ATE Portfolio with ElevATE Semiconductor Acquisition](https://www.eetasia.com/diodes-expands-ate-portfolio-with-elevate-semiconductor-acquisition/)
+**Published:** Tue, 01 Sep 2026 23:21:30 +0000
 
-<p>MIPS joins RISC-V International as a Premier Member, targeting open, workload-optimized computing for physical AI applications.</p>
-<p>The post <a href="https://www.eetasia.com/mips-expands-risc-v-role-to-advance-open-architectures-for-physical-ai/">MIPS Expands RISC-V Role to Advance Open Architectures for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Acquisition adds low-power analog and mixed-signal capabilities as semiconductor complexity drives higher automated test demand.</p>
+<p>The post <a href="https://www.eetasia.com/diodes-expands-ate-portfolio-with-elevate-semiconductor-acquisition/">Diodes Expands ATE Portfolio with ElevATE Semiconductor Acquisition</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Rigaku, Tohoku University Target Next-Generation X-Ray Metrology for Semiconductors](https://www.eetasia.com/rigaku-tohoku-university-target-next-generation-x-ray-metrology-for-semiconductors/)
+**Published:** Tue, 01 Sep 2026 23:18:32 +0000
+
+<p>New research institute will combine soft X-ray capabilities, information science and industrial expertise to advance semiconductor metrology.</p>
+<p>The post <a href="https://www.eetasia.com/rigaku-tohoku-university-target-next-generation-x-ray-metrology-for-semiconductors/">Rigaku, Tohoku University Target Next-Generation X-Ray Metrology for Semiconductors</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Global Semiconductor Revenue to Reach $1.6T in 2026](https://www.eetasia.com/global-semiconductor-revenue-to-reach-1-6t-in-2026/)
+**Published:** Tue, 01 Sep 2026 23:17:27 +0000
+
+<p>Global semiconductor revenue is expected to reach $1.6 trillion in 2026 and $1.9 trillion in 2027, according to Gartner.</p>
+<p>The post <a href="https://www.eetasia.com/global-semiconductor-revenue-to-reach-1-6t-in-2026/">Global Semiconductor Revenue to Reach $1.6T in 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [EV Group Addresses Critical Manufacturing Challenges for Next-Generation Co-Packaged Optics](https://www.semiconductor-digest.com/ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics)
+**Published:** Tue, 01 Sep 2026 18:53:00 +0000
+
+<p>Drawing on decades of expertise in advanced packaging, heterogeneous integration and photonics manufacturing, EVG supports multiple stages of the CPO manufacturing value chain.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics/">EV Group Addresses Critical Manufacturing Challenges for Next-Generation Co-Packaged Optics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Kulicke & Soffa Advances AI Infrastructure Through Co-Packaged Optics (CPO) and Advanced Packaging Leadership](https://www.semiconductor-digest.com/kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership/?utm_source=rss&utm_medium=rss&utm_campaign=kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership)
+**Published:** Tue, 01 Sep 2026 18:48:25 +0000
+
+<p>Kulicke and Soffa Industries, Inc. continues to strengthen its position as a critical enabler of next-generation artificial intelligence (AI) infrastructure through its advanced packaging portfolio.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership/">Kulicke &#038; Soffa Advances AI Infrastructure Through Co-Packaged Optics (CPO) and Advanced Packaging Leadership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Teradyne Launches Advanced UltraFLEXplus Instruments Engineered for AI and Data Center Computing Devices](https://www.semiconductor-digest.com/teradyne-launches-advanced-ultraflexplus-instruments-engineered-for-ai-and-data-center-computing-devices/?utm_source=rss&utm_medium=rss&utm_campaign=teradyne-launches-advanced-ultraflexplus-instruments-engineered-for-ai-and-data-center-computing-devices)
+**Published:** Tue, 01 Sep 2026 18:45:02 +0000
+
+<p>Teradyne, Inc., a provider of automated test equipment and advanced robotics, announced the launch of three new instruments for its UltraFLEXplus platform, designed to meet the increasingly complex demands of AI and data center semiconductor testing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/teradyne-launches-advanced-ultraflexplus-instruments-engineered-for-ai-and-data-center-computing-devices/">Teradyne Launches Advanced UltraFLEXplus Instruments Engineered for AI and Data Center Computing Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Navitas Delivers Latest Gen 5 GaNFast Manufactured in the U.S. Through GlobalFoundries Partnership](https://www.semiconductor-digest.com/navitas-delivers-latest-gen-5-ganfast-manufactured-in-the-u-s-through-globalfoundries-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=navitas-delivers-latest-gen-5-ganfast-manufactured-in-the-u-s-through-globalfoundries-partnership)
+**Published:** Tue, 01 Sep 2026 18:42:12 +0000
+
+<p>In November 2025, Navitas and GF announced a long-term strategic partnership to accelerate U.S. GaN innovation and domestic manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/navitas-delivers-latest-gen-5-ganfast-manufactured-in-the-u-s-through-globalfoundries-partnership/">Navitas Delivers Latest Gen 5 GaNFast Manufactured in the U.S. Through GlobalFoundries Partnership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -35,54 +83,6 @@ _Last updated: 2026-09-01 13:21 UTC_
 
 <p>Trymax Semiconductor Equipment today announced that it has been awarded a substantial, multi-year, multi-million-dollar purchase order by Applied Optoelectronics, Inc.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/trymax-secures-multi-million-dollar-supply-agreement-with-aoi-to-support-inp-laser-manufacturing/">Trymax Secures Multi-Million-Dollar Supply Agreement with AOI to Support InP Laser Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AUO Showcases Micro LED Optical Communication and Glass Core Substrates Technologies at SEMICON Taiwan 2026](https://www.semiconductor-digest.com/auo-showcases-micro-led-optical-communication-and-glass-core-substrates-technologies-at-semicon-taiwan-2026/?utm_source=rss&utm_medium=rss&utm_campaign=auo-showcases-micro-led-optical-communication-and-glass-core-substrates-technologies-at-semicon-taiwan-2026)
-**Published:** Mon, 31 Aug 2026 20:19:56 +0000
-
-<p>As AI applications continue to proliferate, demand for high-performance computing and high-speed data transmission is accelerating, making AI infrastructure capacity a critical enabler of industry growth.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/auo-showcases-micro-led-optical-communication-and-glass-core-substrates-technologies-at-semicon-taiwan-2026/">AUO Showcases Micro LED Optical Communication and Glass Core Substrates Technologies at SEMICON Taiwan 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rigaku to Showcase Advanced X-ray Metrology and Inspection Solutions at SEMICON Taiwan 2026](https://www.semiconductor-digest.com/rigaku-to-showcase-advanced-x-ray-metrology-and-inspection-solutions-at-semicon-taiwan-2026/?utm_source=rss&utm_medium=rss&utm_campaign=rigaku-to-showcase-advanced-x-ray-metrology-and-inspection-solutions-at-semicon-taiwan-2026)
-**Published:** Mon, 31 Aug 2026 20:14:49 +0000
-
-<p>The Rigaku Group will exhibit at “SEMICON Taiwan 2026,” taking place September 2 to 4, 2026, at TaiNEX 1 and 2 in Taipei.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rigaku-to-showcase-advanced-x-ray-metrology-and-inspection-solutions-at-semicon-taiwan-2026/">Rigaku to Showcase Advanced X-ray Metrology and Inspection Solutions at SEMICON Taiwan 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Qnity Introduces Stackplane CMP Slurry Platform for Advanced Packaging](https://www.semiconductor-digest.com/qnity-introduces-stackplane-cmp-slurry-platform-for-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-introduces-stackplane-cmp-slurry-platform-for-advanced-packaging)
-**Published:** Mon, 31 Aug 2026 20:09:50 +0000
-
-<p>Supporting the transition to ‘shrink–and–stack' as part of Qnity's end-to-end advanced packaging portfolio.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/qnity-introduces-stackplane-cmp-slurry-platform-for-advanced-packaging/">Qnity Introduces Stackplane CMP Slurry Platform for Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Researchers Develop Stepwise Evaporation Method to Reduce Contact Resistance in Transistors](https://www.semiconductor-digest.com/researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors)
-**Published:** Fri, 28 Aug 2026 17:32:06 +0000
-
-<p>As transistor dimensions continue to shrink, though, structural disorder in metals and at metal-semiconductor interfaces increasingly impedes carrier injection and transport. Metals therefore need a level of structural order comparable to that of single-crystal semiconductors in order to push device performance toward its physical limits.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors/">Researchers Develop Stepwise Evaporation Method to Reduce Contact Resistance in Transistors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New Transistor Brings High Voltage to Microchip Scale](https://www.semiconductor-digest.com/new-transistor-brings-high-voltage-to-microchip-scale/?utm_source=rss&utm_medium=rss&utm_campaign=new-transistor-brings-high-voltage-to-microchip-scale)
-**Published:** Fri, 28 Aug 2026 17:29:48 +0000
-
-<p>By harnessing the properties of gallium nitride, EPFL engineers have built a tiny transistor that can handle very high voltage with minimal energy loss, a key requirement for AI data centers, electric vehicles, and solar power systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-transistor-brings-high-voltage-to-microchip-scale/">New Transistor Brings High Voltage to Microchip Scale</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Diodes Completes Acquisition of ElevATE Semiconductor](https://www.semiconductor-digest.com/diodes-completes-acquisition-of-elevate-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=diodes-completes-acquisition-of-elevate-semiconductor)
-**Published:** Fri, 28 Aug 2026 17:26:43 +0000
-
-<p>Diodes Incorporated today announced the successful completion of its acquisition of ElevATE Semiconductor, Inc., a provider of high-performance integrated circuits for the Automated Test Equipment (ATE) market, in an all-cash transaction for $250 million.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/diodes-completes-acquisition-of-elevate-semiconductor/">Diodes Completes Acquisition of ElevATE Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
