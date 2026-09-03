@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-03 12:10 UTC_
+_Last updated: 2026-09-03 16:24 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -27,6 +27,14 @@ _Last updated: 2026-09-03 12:10 UTC_
 
 <p>India's semiconductor build-out is creating demand not only for manufacturing capacity, but also for materials expertise, engineering capabilities and technology partnerships across the value chain.</p>
 <p>The post <a href="https://www.eetasia.com/beyond-fabs-building-indias-semiconductor-ecosystem/">Beyond Fabs: Building India&#8217;s Semiconductor Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [What’s in the September Issue?](https://www.semiconductor-digest.com/whats-in-the-september-issue-2/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-september-issue-2)
+**Published:** Thu, 03 Sep 2026 14:28:07 +0000
+
+<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the September issue and pick up an issue in print at SEMICON West!</p>
+<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-september-issue-2/">What&#8217;s in the September Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-09-03 12:10 UTC_
 
 <p>Drawing on decades of expertise in advanced packaging, heterogeneous integration and photonics manufacturing, EVG supports multiple stages of the CPO manufacturing value chain.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics/">EV Group Addresses Critical Manufacturing Challenges for Next-Generation Co-Packaged Optics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Kulicke & Soffa Advances AI Infrastructure Through Co-Packaged Optics (CPO) and Advanced Packaging Leadership](https://www.semiconductor-digest.com/kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership/?utm_source=rss&utm_medium=rss&utm_campaign=kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership)
-**Published:** Tue, 01 Sep 2026 18:48:25 +0000
-
-<p>Kulicke and Soffa Industries, Inc. continues to strengthen its position as a critical enabler of next-generation artificial intelligence (AI) infrastructure through its advanced packaging portfolio.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership/">Kulicke &#038; Soffa Advances AI Infrastructure Through Co-Packaged Optics (CPO) and Advanced Packaging Leadership</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
