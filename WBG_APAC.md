@@ -1,8 +1,32 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-03 01:18 UTC_
+_Last updated: 2026-09-03 07:08 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [SEMI, Silicon Catalyst Ink Partnership to Accelerate Global Semiconductor Innovation](https://www.eetasia.com/semi-silicon-catalyst-ink-partnership-to-accelerate-global-semiconductor-innovation/)
+**Published:** Thu, 03 Sep 2026 02:16:21 +0000
+
+<p>SEMI and Silicon Catalyst partner to connect semiconductor startups with investors, manufacturers, and technology leaders worldwide.</p>
+<p>The post <a href="https://www.eetasia.com/semi-silicon-catalyst-ink-partnership-to-accelerate-global-semiconductor-innovation/">SEMI, Silicon Catalyst Ink Partnership to Accelerate Global Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [DEEPX Bets on Open Ecosystems to Take Edge AI from Silicon to Physical Infrastructure](https://www.eetasia.com/embeddedblog-deepx-bets-on-open-ecosystems-to-take-edge-ai-from-silicon-to-physical-infrastructure/)
+**Published:** Thu, 03 Sep 2026 01:55:55 +0000
+
+<p>DEEPX sees open software, portable models and ultra-low-power inference as critical to scaling physical AI beyond centralized data centers.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-deepx-bets-on-open-ecosystems-to-take-edge-ai-from-silicon-to-physical-infrastructure/">DEEPX Bets on Open Ecosystems to Take Edge AI from Silicon to Physical Infrastructure</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Beyond Fabs: Building India’s Semiconductor Ecosystem](https://www.eetasia.com/beyond-fabs-building-indias-semiconductor-ecosystem/)
+**Published:** Thu, 03 Sep 2026 01:00:15 +0000
+
+<p>India's semiconductor build-out is creating demand not only for manufacturing capacity, but also for materials expertise, engineering capabilities and technology partnerships across the value chain.</p>
+<p>The post <a href="https://www.eetasia.com/beyond-fabs-building-indias-semiconductor-ecosystem/">Beyond Fabs: Building India&#8217;s Semiconductor Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,30 +35,6 @@ _Last updated: 2026-09-03 01:18 UTC_
 
 <p>AI infrastructure increasingly depends on multiple fabs and semiconductor technologies converging through advanced packaging, power, memory, and connectivity.</p>
 <p>The post <a href="https://www.eetasia.com/embeddedblog-how-ai-infrastructure-spans-multiple-semiconductor-process-nodes/">How AI Infrastructure Spans Multiple Semiconductor Process Nodes</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Diodes Expands ATE Portfolio with ElevATE Semiconductor Acquisition](https://www.eetasia.com/diodes-expands-ate-portfolio-with-elevate-semiconductor-acquisition/)
-**Published:** Tue, 01 Sep 2026 23:21:30 +0000
-
-<p>Acquisition adds low-power analog and mixed-signal capabilities as semiconductor complexity drives higher automated test demand.</p>
-<p>The post <a href="https://www.eetasia.com/diodes-expands-ate-portfolio-with-elevate-semiconductor-acquisition/">Diodes Expands ATE Portfolio with ElevATE Semiconductor Acquisition</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Rigaku, Tohoku University Target Next-Generation X-Ray Metrology for Semiconductors](https://www.eetasia.com/rigaku-tohoku-university-target-next-generation-x-ray-metrology-for-semiconductors/)
-**Published:** Tue, 01 Sep 2026 23:18:32 +0000
-
-<p>New research institute will combine soft X-ray capabilities, information science and industrial expertise to advance semiconductor metrology.</p>
-<p>The post <a href="https://www.eetasia.com/rigaku-tohoku-university-target-next-generation-x-ray-metrology-for-semiconductors/">Rigaku, Tohoku University Target Next-Generation X-Ray Metrology for Semiconductors</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Global Semiconductor Revenue to Reach $1.6T in 2026](https://www.eetasia.com/global-semiconductor-revenue-to-reach-1-6t-in-2026/)
-**Published:** Tue, 01 Sep 2026 23:17:27 +0000
-
-<p>Global semiconductor revenue is expected to reach $1.6 trillion in 2026 and $1.9 trillion in 2027, according to Gartner.</p>
-<p>The post <a href="https://www.eetasia.com/global-semiconductor-revenue-to-reach-1-6t-in-2026/">Global Semiconductor Revenue to Reach $1.6T in 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
