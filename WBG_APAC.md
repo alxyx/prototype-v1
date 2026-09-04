@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-04 01:02 UTC_
+_Last updated: 2026-09-04 11:00 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Baya Systems Taps Singapore-based AdoreSys to Expand APAC Reach](https://www.eetasia.com/baya-systems-taps-singapore-based-adoresys-to-expand-apac-reach/)
+**Published:** Fri, 04 Sep 2026 03:37:01 +0000
+
+<p>Baya Systems and AdoreSys combine fabric IP, architecture exploration, and ASIC expertise to address complex data-movement challenges.</p>
+<p>The post <a href="https://www.eetasia.com/baya-systems-taps-singapore-based-adoresys-to-expand-apac-reach/">Baya Systems Taps Singapore-based AdoreSys to Expand APAC Reach</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,22 +19,6 @@ _Last updated: 2026-09-04 01:02 UTC_
 
 <p>SEMI and Silicon Catalyst partner to connect semiconductor startups with investors, manufacturers, and technology leaders worldwide.</p>
 <p>The post <a href="https://www.eetasia.com/semi-silicon-catalyst-ink-partnership-to-accelerate-global-semiconductor-innovation/">SEMI, Silicon Catalyst Ink Partnership to Accelerate Global Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [DEEPX Bets on Open Ecosystems to Take Edge AI from Silicon to Physical Infrastructure](https://www.eetasia.com/embeddedblog-deepx-bets-on-open-ecosystems-to-take-edge-ai-from-silicon-to-physical-infrastructure/)
-**Published:** Thu, 03 Sep 2026 01:55:55 +0000
-
-<p>DEEPX sees open software, portable models and ultra-low-power inference as critical to scaling physical AI beyond centralized data centers.</p>
-<p>The post <a href="https://www.eetasia.com/embeddedblog-deepx-bets-on-open-ecosystems-to-take-edge-ai-from-silicon-to-physical-infrastructure/">DEEPX Bets on Open Ecosystems to Take Edge AI from Silicon to Physical Infrastructure</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Beyond Fabs: Building India’s Semiconductor Ecosystem](https://www.eetasia.com/beyond-fabs-building-indias-semiconductor-ecosystem/)
-**Published:** Thu, 03 Sep 2026 01:00:15 +0000
-
-<p>India's semiconductor build-out is creating demand not only for manufacturing capacity, but also for materials expertise, engineering capabilities and technology partnerships across the value chain.</p>
-<p>The post <a href="https://www.eetasia.com/beyond-fabs-building-indias-semiconductor-ecosystem/">Beyond Fabs: Building India&#8217;s Semiconductor Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-09-04 01:02 UTC_
 
 <p>Collaboration targets to enable the densest standard CMOS on-chip memory solution for the FDX platform widely used for advanced AI chips, by delivering 40% area shrink and up to 60% power reduction compared to commodity SRAM.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-raaam-memory-technologies-announce-the-joint-development/">GlobalFoundries and RAAAM Memory Technologies Announce Joint Development</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [QuantumDiamonds Reaches Key Milestone on the Path to Inline Electrical Inspection with Contact-Free Current Imaging](https://www.semiconductor-digest.com/quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging/?utm_source=rss&utm_medium=rss&utm_campaign=quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging)
+**Published:** Wed, 02 Sep 2026 21:23:36 +0000
+
+<p>A novel microwave-induction technique drives current into a semiconductor structure without touching it, opening a path to inline quality control based on electrical data in production fabs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging/">QuantumDiamonds Reaches Key Milestone on the Path to Inline Electrical Inspection with Contact-Free Current Imaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
