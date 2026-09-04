@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-04 15:02 UTC_
+_Last updated: 2026-09-04 21:30 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,46 @@ _Last updated: 2026-09-04 15:02 UTC_
 
 <p>SEMI and Silicon Catalyst partner to connect semiconductor startups with investors, manufacturers, and technology leaders worldwide.</p>
 <p>The post <a href="https://www.eetasia.com/semi-silicon-catalyst-ink-partnership-to-accelerate-global-semiconductor-innovation/">SEMI, Silicon Catalyst Ink Partnership to Accelerate Global Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [KAIST Tames a Semiconductor Greenhouse Gas 6,000 Times More Potent than CO₂ with the ‘Power of Disorder’](https://www.semiconductor-digest.com/kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%e2%82%82-with-the-power-of-disorder/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%25e2%2582%2582-with-the-power-of-disorder)
+**Published:** Fri, 04 Sep 2026 20:22:36 +0000
+
+<p>KAIST and Samsung Electronics have developed a new, long-lasting catalyst based on ‘entropy stabilization,’ a principle in which mixing multiple metal atoms together actually stabilizes the catalyst’s structure.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%e2%82%82-with-the-power-of-disorder/">KAIST Tames a Semiconductor Greenhouse Gas 6,000 Times More Potent than CO₂ with the ‘Power of Disorder’</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [New Device Design Could Miniaturize Photonics, Quantum Technologies](https://www.semiconductor-digest.com/new-device-design-could-miniaturize-photonics-quantum-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=new-device-design-could-miniaturize-photonics-quantum-technologies)
+**Published:** Fri, 04 Sep 2026 20:01:32 +0000
+
+<p>Researchers co-design engineered semiconductors and metasurfaces to build powerful optical device.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-device-design-could-miniaturize-photonics-quantum-technologies/">New Device Design Could Miniaturize Photonics, Quantum Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan](https://www.semiconductor-digest.com/solvay-expands-electronic-grade-hydrogen-peroxide-capacity-in-taiwan/?utm_source=rss&utm_medium=rss&utm_campaign=solvay-expands-electronic-grade-hydrogen-peroxide-capacity-in-taiwan)
+**Published:** Fri, 04 Sep 2026 19:52:55 +0000
+
+<p>The investment supports growing semiconductor demand and strengthens local supply by year-end.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/solvay-expands-electronic-grade-hydrogen-peroxide-capacity-in-taiwan/">Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Global Semiconductor Equipment Billings Increased 23% Year-Over-Year in Q2 2026, SEMI Reports](https://www.semiconductor-digest.com/global-semiconductor-equipment-billings-increased-23-year-over-year-in-q2-2026-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-equipment-billings-increased-23-year-over-year-in-q2-2026-semi-reports)
+**Published:** Fri, 04 Sep 2026 19:49:09 +0000
+
+<p>Second quarter 2026 billings registered an 11% quarter-over-quarter growth.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-equipment-billings-increased-23-year-over-year-in-q2-2026-semi-reports/">Global Semiconductor Equipment Billings Increased 23% Year-Over-Year in Q2 2026, SEMI Reports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NanoBridge Semiconductor Adopts Siemens’ Precision FPGA Synthesis for Low-Power and Harsh-Environment Semiconductor Innovation](https://www.semiconductor-digest.com/nanobridge-semiconductor-adopts-siemens-precision-fpga-synthesis-for-low-power-and-harsh-environment-semiconductor-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=nanobridge-semiconductor-adopts-siemens-precision-fpga-synthesis-for-low-power-and-harsh-environment-semiconductor-innovation)
+**Published:** Fri, 04 Sep 2026 19:43:24 +0000
+
+<p>Siemens today announced that NanoBridge Semiconductor, Inc. (NBS), a Japanese semiconductor company developing low-power and harsh-environment semiconductor technologies, has adopted Siemens’ Precision FPGA Synthesis for its field-programmable gate array (FPGA) development initiatives.  </p>
+<p>The post <a href="https://www.semiconductor-digest.com/nanobridge-semiconductor-adopts-siemens-precision-fpga-synthesis-for-low-power-and-harsh-environment-semiconductor-innovation/">NanoBridge Semiconductor Adopts Siemens’ Precision FPGA Synthesis for Low-Power and Harsh-Environment Semiconductor Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -43,46 +83,6 @@ _Last updated: 2026-09-04 15:02 UTC_
 
 <p>China-based panel makers are forecast to account for 65.2% of global automotive display shipments in the second half of 2026, up from 59.0% in the first half, according to new research from Omdia.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26/">Omdia: China-Based Panel Makers to Capture 65% of Automotive Display Shipments in 2H26</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Gigaphoton to Present on EUV Lightsource Advances for Actinic Mask Inspection at SPIE Photomask Technology + EUV Lithography Conference](https://www.semiconductor-digest.com/gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference/?utm_source=rss&utm_medium=rss&utm_campaign=gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference)
-**Published:** Thu, 03 Sep 2026 21:24:24 +0000
-
-<p>Gigaphoton Inc., a manufacturer of lightsources for leading-edge semiconductor fabrication processes, will present results demonstrating continued advances in its tin laser-produced plasma (Sn-LPP) extreme ultraviolet (EUV) lightsource technology for actinic photomask inspection.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference/">Gigaphoton to Present on EUV Lightsource Advances for Actinic Mask Inspection at SPIE Photomask Technology + EUV Lithography Conference</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [What’s in the September Issue?](https://www.semiconductor-digest.com/whats-in-the-september-issue-2/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-september-issue-2)
-**Published:** Thu, 03 Sep 2026 14:28:07 +0000
-
-<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the September issue and pick up an issue in print at SEMICON West!</p>
-<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-september-issue-2/">What&#8217;s in the September Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries Announces Customer Availability of UX Platform Technologies](https://www.semiconductor-digest.com/globalfoundries-announces-customer-availability-of-ux-platform-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-announces-customer-availability-of-ux-platform-technologies)
-**Published:** Wed, 02 Sep 2026 21:37:19 +0000
-
-<p>Newest feature-rich CMOS platform family combines ultra-low power connectivity, sensing and mixed-signal innovation with cost-efficient manufacturing for next-generation edge devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-announces-customer-availability-of-ux-platform-technologies/">GlobalFoundries Announces Customer Availability of UX Platform Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries and RAAAM Memory Technologies Announce Joint Development](https://www.semiconductor-digest.com/globalfoundries-and-raaam-memory-technologies-announce-the-joint-development/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-raaam-memory-technologies-announce-the-joint-development)
-**Published:** Wed, 02 Sep 2026 21:31:52 +0000
-
-<p>Collaboration targets to enable the densest standard CMOS on-chip memory solution for the FDX platform widely used for advanced AI chips, by delivering 40% area shrink and up to 60% power reduction compared to commodity SRAM.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-raaam-memory-technologies-announce-the-joint-development/">GlobalFoundries and RAAAM Memory Technologies Announce Joint Development</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [QuantumDiamonds Reaches Key Milestone on the Path to Inline Electrical Inspection with Contact-Free Current Imaging](https://www.semiconductor-digest.com/quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging/?utm_source=rss&utm_medium=rss&utm_campaign=quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging)
-**Published:** Wed, 02 Sep 2026 21:23:36 +0000
-
-<p>A novel microwave-induction technique drives current into a semiconductor structure without touching it, opening a path to inline quality control based on electrical data in production fabs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging/">QuantumDiamonds Reaches Key Milestone on the Path to Inline Electrical Inspection with Contact-Free Current Imaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
