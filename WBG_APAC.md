@@ -1,8 +1,24 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-09-06 23:44 UTC_
+_Last updated: 2026-09-07 15:13 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Manz Asia and SUSS Partner to Advance Inkjet Technology for Semiconductor Packaging](https://www.eetasia.com/manz-asia-and-suss-partner-to-advance-inkjet-technology-for-semiconductor-packaging/)
+**Published:** Mon, 07 Sep 2026 01:24:25 +0000
+
+<p>Strategic collaboration combines inkjet and semiconductor process expertise to accelerate scalable advanced packaging manufacturing solutions.</p>
+<p>The post <a href="https://www.eetasia.com/manz-asia-and-suss-partner-to-advance-inkjet-technology-for-semiconductor-packaging/">Manz Asia and SUSS Partner to Advance Inkjet Technology for Semiconductor Packaging</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMI: Global IC Equipment Billings Up 23% YoY in 2Q 2026](https://www.eetasia.com/semi-global-ic-equipment-billings-up-23-yoy-in-2q-2026/)
+**Published:** Mon, 07 Sep 2026 01:13:48 +0000
+
+<p>Global semiconductor equipment billings increased by 23% year-over-year to $40.53 billion in the second quarter of 2026.</p>
+<p>The post <a href="https://www.eetasia.com/semi-global-ic-equipment-billings-up-23-yoy-in-2q-2026/">SEMI: Global IC Equipment Billings Up 23% YoY in 2Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,14 +27,6 @@ _Last updated: 2026-09-06 23:44 UTC_
 
 <p>Baya Systems and AdoreSys combine fabric IP, architecture exploration, and ASIC expertise to address complex data-movement challenges.</p>
 <p>The post <a href="https://www.eetasia.com/baya-systems-taps-singapore-based-adoresys-to-expand-apac-reach/">Baya Systems Taps Singapore-based AdoreSys to Expand APAC Reach</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SEMI, Silicon Catalyst Ink Partnership to Accelerate Global Semiconductor Innovation](https://www.eetasia.com/semi-silicon-catalyst-ink-partnership-to-accelerate-global-semiconductor-innovation/)
-**Published:** Thu, 03 Sep 2026 02:16:21 +0000
-
-<p>SEMI and Silicon Catalyst partner to connect semiconductor startups with investors, manufacturers, and technology leaders worldwide.</p>
-<p>The post <a href="https://www.eetasia.com/semi-silicon-catalyst-ink-partnership-to-accelerate-global-semiconductor-innovation/">SEMI, Silicon Catalyst Ink Partnership to Accelerate Global Semiconductor Innovation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-09-06 23:44 UTC_
 
 <p>Glasgow expansion will increase InP manufacturing capacity to more than 100 million CW DFB lasers annually, supporting anticipated AI infrastructure customer ramps.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters/">Sivers Semiconductors Invests $30 Million to Expand European Photonics Manufacturing for AI Datacenters</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: China-Based Panel Makers to Capture 65% of Automotive Display Shipments in 2H26](https://www.semiconductor-digest.com/omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26)
-**Published:** Thu, 03 Sep 2026 21:39:54 +0000
-
-<p>China-based panel makers are forecast to account for 65.2% of global automotive display shipments in the second half of 2026, up from 59.0% in the first half, according to new research from Omdia.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26/">Omdia: China-Based Panel Makers to Capture 65% of Automotive Display Shipments in 2H26</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
