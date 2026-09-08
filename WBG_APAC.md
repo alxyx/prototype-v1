@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-08 10:55 UTC_
+_Last updated: 2026-09-08 18:35 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -27,6 +27,14 @@ _Last updated: 2026-09-08 10:55 UTC_
 
 <p>Global semiconductor equipment billings increased by 23% year-over-year to $40.53 billion in the second quarter of 2026.</p>
 <p>The post <a href="https://www.eetasia.com/semi-global-ic-equipment-billings-up-23-yoy-in-2q-2026/">SEMI: Global IC Equipment Billings Up 23% YoY in 2Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Magnifying the Engineer: Where AI Fits in Semiconductor Analytics](https://www.semiconductor-digest.com/magnifying-the-engineer-where-ai-fits-in-semiconductor-analytics/?utm_source=rss&utm_medium=rss&utm_campaign=magnifying-the-engineer-where-ai-fits-in-semiconductor-analytics)
+**Published:** Tue, 08 Sep 2026 16:36:21 +0000
+
+<p>In this Q&#038;A, Brad Hopper, VP of Vertical Markets at Spotfire, explains how fabs, foundries, and equipment makers are turning to analytics and AI to squeeze more yield, quality, and throughput out of existing capacity rather than waiting for new capacity to come online.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/magnifying-the-engineer-where-ai-fits-in-semiconductor-analytics/">Magnifying the Engineer: Where AI Fits in Semiconductor Analytics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-09-08 10:55 UTC_
 
 <p>Semiconductor advanced packaging equipment manufacturer, Manz Asia, today announced a strategic collaboration with SUSS, a manufacturer of equipment and process solutions for the semiconductor industry, to jointly advance next-generation inkjet solutions for semiconductor manufacturing and advanced packaging applications.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/manz-asia-and-suss-announce-strategic-collaboration-in-semiconductor-inkjet-technology/">Manz Asia and SUSS Announce Strategic Collaboration in Semiconductor Inkjet Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Sivers Semiconductors Invests $30 Million to Expand European Photonics Manufacturing for AI Datacenters](https://www.semiconductor-digest.com/sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters)
-**Published:** Thu, 03 Sep 2026 21:47:34 +0000
-
-<p>Glasgow expansion will increase InP manufacturing capacity to more than 100 million CW DFB lasers annually, supporting anticipated AI infrastructure customer ramps.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters/">Sivers Semiconductors Invests $30 Million to Expand European Photonics Manufacturing for AI Datacenters</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
