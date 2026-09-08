@@ -1,8 +1,16 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-08 01:09 UTC_
+_Last updated: 2026-09-08 05:55 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [proteanTecs, MegaChips Target Deeper Silicon Visibility for Next-gen ASICs](https://www.eetasia.com/proteantecs-megachips-target-deeper-silicon-visibility-for-next-gen-asics/)
+**Published:** Tue, 08 Sep 2026 02:48:39 +0000
+
+<p>The collaboration combines embedded monitoring and analytics with MegaChips' design expertise to improve ASIC performance, reliability and yield.</p>
+<p>The post <a href="https://www.eetasia.com/proteantecs-megachips-target-deeper-silicon-visibility-for-next-gen-asics/">proteanTecs, MegaChips Target Deeper Silicon Visibility for Next-gen ASICs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -19,14 +27,6 @@ _Last updated: 2026-09-08 01:09 UTC_
 
 <p>Global semiconductor equipment billings increased by 23% year-over-year to $40.53 billion in the second quarter of 2026.</p>
 <p>The post <a href="https://www.eetasia.com/semi-global-ic-equipment-billings-up-23-yoy-in-2q-2026/">SEMI: Global IC Equipment Billings Up 23% YoY in 2Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Baya Systems Taps Singapore-based AdoreSys to Expand APAC Reach](https://www.eetasia.com/baya-systems-taps-singapore-based-adoresys-to-expand-apac-reach/)
-**Published:** Fri, 04 Sep 2026 03:37:01 +0000
-
-<p>Baya Systems and AdoreSys combine fabric IP, architecture exploration, and ASIC expertise to address complex data-movement challenges.</p>
-<p>The post <a href="https://www.eetasia.com/baya-systems-taps-singapore-based-adoresys-to-expand-apac-reach/">Baya Systems Taps Singapore-based AdoreSys to Expand APAC Reach</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
