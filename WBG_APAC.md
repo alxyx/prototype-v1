@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-09 08:55 UTC_
+_Last updated: 2026-09-09 13:40 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,22 @@ _Last updated: 2026-09-09 08:55 UTC_
 
 <p>The collaboration combines embedded monitoring and analytics with MegaChips' design expertise to improve ASIC performance, reliability and yield.</p>
 <p>The post <a href="https://www.eetasia.com/proteantecs-megachips-target-deeper-silicon-visibility-for-next-gen-asics/">proteanTecs, MegaChips Target Deeper Silicon Visibility for Next-gen ASICs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Closing the Gap: How Intelligent Sensing Is Reshaping Wafer Process Control](https://www.semiconductor-digest.com/closing-the-gap-how-intelligent-sensing-is-reshaping-wafer-process-control/?utm_source=rss&utm_medium=rss&utm_campaign=closing-the-gap-how-intelligent-sensing-is-reshaping-wafer-process-control)
+**Published:** Wed, 09 Sep 2026 13:14:29 +0000
+
+<p>Vidya Vijay of Nordson Test &#038; Inspection looks at how reliance on manual inspection and operator judgment has become one of the more understated bottlenecks in modern fabs.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/closing-the-gap-how-intelligent-sensing-is-reshaping-wafer-process-control/">Closing the Gap: How Intelligent Sensing Is Reshaping Wafer Process Control</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Finding the Fault That Leaves No Trace: Non-Destructive Localization of Opens in Advanced Packaging](https://www.semiconductor-digest.com/finding-the-fault-that-leaves-no-trace-non-destructive-localization-of-opens-in-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=finding-the-fault-that-leaves-no-trace-non-destructive-localization-of-opens-in-advanced-packaging)
+**Published:** Wed, 09 Sep 2026 13:08:14 +0000
+
+<p>An open circuit is one of the hardest failures to find in an advanced package: no current flows, so there's no heat, no photon emission, and often no visible structural defect for X-ray CT or thermography to catch. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/finding-the-fault-that-leaves-no-trace-non-destructive-localization-of-opens-in-advanced-packaging/">Finding the Fault That Leaves No Trace: Non-Destructive Localization of Opens in Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-09-09 08:55 UTC_
 
 <p>KAIST and Samsung Electronics have developed a new, long-lasting catalyst based on ‘entropy stabilization,’ a principle in which mixing multiple metal atoms together actually stabilizes the catalyst’s structure.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%e2%82%82-with-the-power-of-disorder/">KAIST Tames a Semiconductor Greenhouse Gas 6,000 Times More Potent than CO₂ with the ‘Power of Disorder’</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [New Device Design Could Miniaturize Photonics, Quantum Technologies](https://www.semiconductor-digest.com/new-device-design-could-miniaturize-photonics-quantum-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=new-device-design-could-miniaturize-photonics-quantum-technologies)
-**Published:** Fri, 04 Sep 2026 20:01:32 +0000
-
-<p>Researchers co-design engineered semiconductors and metasurfaces to build powerful optical device.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/new-device-design-could-miniaturize-photonics-quantum-technologies/">New Device Design Could Miniaturize Photonics, Quantum Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan](https://www.semiconductor-digest.com/solvay-expands-electronic-grade-hydrogen-peroxide-capacity-in-taiwan/?utm_source=rss&utm_medium=rss&utm_campaign=solvay-expands-electronic-grade-hydrogen-peroxide-capacity-in-taiwan)
-**Published:** Fri, 04 Sep 2026 19:52:55 +0000
-
-<p>The investment supports growing semiconductor demand and strengthens local supply by year-end.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/solvay-expands-electronic-grade-hydrogen-peroxide-capacity-in-taiwan/">Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
