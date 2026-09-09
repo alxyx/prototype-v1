@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-08 21:51 UTC_
+_Last updated: 2026-09-09 00:10 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [SEEQC Taps Taiwan’s Semiconductor Ecosystem to Expand Quantum Computing Supply Chain](https://www.eetasia.com/seeqc-taps-taiwans-semiconductor-ecosystem-to-expand-quantum-computing-supply-chain/)
+**Published:** Tue, 08 Sep 2026 23:06:57 +0000
+
+<p>SEEQC and Taiwan's quantum technology office will explore development, manufacturing and commercialization partnerships across the quantum ecosystem.</p>
+<p>The post <a href="https://www.eetasia.com/seeqc-taps-taiwans-semiconductor-ecosystem-to-expand-quantum-computing-supply-chain/">SEEQC Taps Taiwan&#8217;s Semiconductor Ecosystem to Expand Quantum Computing Supply Chain</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -14,19 +22,35 @@ _Last updated: 2026-09-08 21:51 UTC_
 
 ---
 
-## [Manz Asia and SUSS Partner to Advance Inkjet Technology for Semiconductor Packaging](https://www.eetasia.com/manz-asia-and-suss-partner-to-advance-inkjet-technology-for-semiconductor-packaging/)
-**Published:** Mon, 07 Sep 2026 01:24:25 +0000
+## [SEMIFIVE Commences Mass Production of HyperAccel’s LLM AI Inference Accelerator ‘Bertha’ on Samsung 4nm](https://www.semiconductor-digest.com/semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm)
+**Published:** Tue, 08 Sep 2026 21:56:34 +0000
 
-<p>Strategic collaboration combines inkjet and semiconductor process expertise to accelerate scalable advanced packaging manufacturing solutions.</p>
-<p>The post <a href="https://www.eetasia.com/manz-asia-and-suss-partner-to-advance-inkjet-technology-for-semiconductor-packaging/">Manz Asia and SUSS Partner to Advance Inkjet Technology for Semiconductor Packaging</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>SEMIFIVE, a global provider of custom AI semiconductor (ASIC) solutions, announced today that it has begun mass production of a data center AI inference accelerator for HyperAccel.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm/">SEMIFIVE Commences Mass Production of HyperAccel&#8217;s LLM AI Inference Accelerator &#8216;Bertha&#8217; on Samsung 4nm</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [SEMI: Global IC Equipment Billings Up 23% YoY in 2Q 2026](https://www.eetasia.com/semi-global-ic-equipment-billings-up-23-yoy-in-2q-2026/)
-**Published:** Mon, 07 Sep 2026 01:13:48 +0000
+## [GlobalFoundries and U.S. Department of Commerce Finalize $375M R&D Award](https://www.semiconductor-digest.com/globalfoundries-and-u-s-department-of-commerce-finalize-375m-rd-award/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-u-s-department-of-commerce-finalize-375m-rd-award)
+**Published:** Tue, 08 Sep 2026 21:47:18 +0000
 
-<p>Global semiconductor equipment billings increased by 23% year-over-year to $40.53 billion in the second quarter of 2026.</p>
-<p>The post <a href="https://www.eetasia.com/semi-global-ic-equipment-billings-up-23-yoy-in-2q-2026/">SEMI: Global IC Equipment Billings Up 23% YoY in 2Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Award accelerates build-out of GF's Quantum Technology Solutions business and strengthens America's quantum semiconductor ecosystem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-u-s-department-of-commerce-finalize-375m-rd-award/">GlobalFoundries and U.S. Department of Commerce Finalize $375M R&#038;D Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV](https://www.semiconductor-digest.com/asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv/?utm_source=rss&utm_medium=rss&utm_campaign=asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv)
+**Published:** Tue, 08 Sep 2026 21:45:15 +0000
+
+<p>Taiwan Semiconductor Manufacturing Company and ASML Holding N.V. announced a collaborative initiative to lead the semiconductor industry’s transition to a larger-format Extreme Ultraviolet (EUV) lithography photomask.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv/">ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [NUS CDE Researchers Develop Atom-Thin Carbon Insulator for Next-Generation Microchips](https://www.semiconductor-digest.com/nus-cde-researchers-develop-atom-thin-carbon-insulator-for-next-generation-microchips/?utm_source=rss&utm_medium=rss&utm_campaign=nus-cde-researchers-develop-atom-thin-carbon-insulator-for-next-generation-microchips)
+**Published:** Tue, 08 Sep 2026 21:43:20 +0000
+
+<p>A new atom-thin carbon film developed at NUS CDE could help overcome one of the biggest barriers to faster and more energy-efficient microchips.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nus-cde-researchers-develop-atom-thin-carbon-insulator-for-next-generation-microchips/">NUS CDE Researchers Develop Atom-Thin Carbon Insulator for Next-Generation Microchips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-09-08 21:51 UTC_
 
 <p>The investment supports growing semiconductor demand and strengthens local supply by year-end.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/solvay-expands-electronic-grade-hydrogen-peroxide-capacity-in-taiwan/">Solvay Expands Electronic Grade Hydrogen Peroxide Capacity in Taiwan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Global Semiconductor Equipment Billings Increased 23% Year-Over-Year in Q2 2026, SEMI Reports](https://www.semiconductor-digest.com/global-semiconductor-equipment-billings-increased-23-year-over-year-in-q2-2026-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-equipment-billings-increased-23-year-over-year-in-q2-2026-semi-reports)
-**Published:** Fri, 04 Sep 2026 19:49:09 +0000
-
-<p>Second quarter 2026 billings registered an 11% quarter-over-quarter growth.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-equipment-billings-increased-23-year-over-year-in-q2-2026-semi-reports/">Global Semiconductor Equipment Billings Increased 23% Year-Over-Year in Q2 2026, SEMI Reports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NanoBridge Semiconductor Adopts Siemens’ Precision FPGA Synthesis for Low-Power and Harsh-Environment Semiconductor Innovation](https://www.semiconductor-digest.com/nanobridge-semiconductor-adopts-siemens-precision-fpga-synthesis-for-low-power-and-harsh-environment-semiconductor-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=nanobridge-semiconductor-adopts-siemens-precision-fpga-synthesis-for-low-power-and-harsh-environment-semiconductor-innovation)
-**Published:** Fri, 04 Sep 2026 19:43:24 +0000
-
-<p>Siemens today announced that NanoBridge Semiconductor, Inc. (NBS), a Japanese semiconductor company developing low-power and harsh-environment semiconductor technologies, has adopted Siemens’ Precision FPGA Synthesis for its field-programmable gate array (FPGA) development initiatives.  </p>
-<p>The post <a href="https://www.semiconductor-digest.com/nanobridge-semiconductor-adopts-siemens-precision-fpga-synthesis-for-low-power-and-harsh-environment-semiconductor-innovation/">NanoBridge Semiconductor Adopts Siemens’ Precision FPGA Synthesis for Low-Power and Harsh-Environment Semiconductor Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Manz Asia and SUSS Announce Strategic Collaboration in Semiconductor Inkjet Technology](https://www.semiconductor-digest.com/manz-asia-and-suss-announce-strategic-collaboration-in-semiconductor-inkjet-technology/?utm_source=rss&utm_medium=rss&utm_campaign=manz-asia-and-suss-announce-strategic-collaboration-in-semiconductor-inkjet-technology)
-**Published:** Thu, 03 Sep 2026 21:53:06 +0000
-
-<p>Semiconductor advanced packaging equipment manufacturer, Manz Asia, today announced a strategic collaboration with SUSS, a manufacturer of equipment and process solutions for the semiconductor industry, to jointly advance next-generation inkjet solutions for semiconductor manufacturing and advanced packaging applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/manz-asia-and-suss-announce-strategic-collaboration-in-semiconductor-inkjet-technology/">Manz Asia and SUSS Announce Strategic Collaboration in Semiconductor Inkjet Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
