@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-09 13:40 UTC_
+_Last updated: 2026-09-10 10:57 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [SK keyfoundry, Elmos Expand Partnership with 130nm Wafer Supply Deal](https://www.eetasia.com/sk-keyfoundry-elmos-expand-partnership-with-130nm-wafer-supply-deal/)
+**Published:** Thu, 10 Sep 2026 03:05:46 +0000
+
+<p>Long-term agreement extends automotive semiconductor collaboration through 2037 and supports new products based on 130nm technology.</p>
+<p>The post <a href="https://www.eetasia.com/sk-keyfoundry-elmos-expand-partnership-with-130nm-wafer-supply-deal/">SK keyfoundry, Elmos Expand Partnership with 130nm Wafer Supply Deal</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Analog Devices Strengthening Edge AI Capabilities by Acquiring Alif Semiconductor](https://www.eetasia.com/analog-devices-strengthening-edge-ai-capabilities-by-acquiring-alif-semiconductor/)
+**Published:** Thu, 10 Sep 2026 02:26:00 +0000
+
+<p>Deal combines ADI's sensing expertise with Alif's AI-native processors for real-time physical intelligence systems.</p>
+<p>The post <a href="https://www.eetasia.com/analog-devices-strengthening-edge-ai-capabilities-by-acquiring-alif-semiconductor/">Analog Devices Strengthening Edge AI Capabilities by Acquiring Alif Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -19,6 +35,30 @@ _Last updated: 2026-09-09 13:40 UTC_
 
 <p>The collaboration combines embedded monitoring and analytics with MegaChips' design expertise to improve ASIC performance, reliability and yield.</p>
 <p>The post <a href="https://www.eetasia.com/proteantecs-megachips-target-deeper-silicon-visibility-for-next-gen-asics/">proteanTecs, MegaChips Target Deeper Silicon Visibility for Next-gen ASICs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Quantinuum Finalizes $100 Million CHIPS R&D Award with U.S. Department of Commerce](https://www.semiconductor-digest.com/quantinuum-finalizes-100-million-chips-rd-award-with-u-s-department-of-commerce/?utm_source=rss&utm_medium=rss&utm_campaign=quantinuum-finalizes-100-million-chips-rd-award-with-u-s-department-of-commerce)
+**Published:** Wed, 09 Sep 2026 20:46:31 +0000
+
+<p>Company partnering with GlobalFoundries to fabricate next-gen ion traps and control electronics, and Monarch Quantum to develop and manufacture reliable lasers and optical components.  </p>
+<p>The post <a href="https://www.semiconductor-digest.com/quantinuum-finalizes-100-million-chips-rd-award-with-u-s-department-of-commerce/">Quantinuum Finalizes $100 Million CHIPS R&#038;D Award with U.S. Department of Commerce</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMI Calls on the Chips Act 2.0 to Strengthen Semiconductor Competitiveness and Resilience](https://www.semiconductor-digest.com/semi-calls-on-the-chips-act-2-0-to-strengthen-semiconductor-competitiveness-and-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=semi-calls-on-the-chips-act-2-0-to-strengthen-semiconductor-competitiveness-and-resilience)
+**Published:** Wed, 09 Sep 2026 20:44:11 +0000
+
+<p>SEMI outlines nine policy recommendations in its latest Position Paper on the Chips Act 2.0, aimed at helping ensure Europe remains a vital contributor to the global semiconductor ecosystem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-calls-on-the-chips-act-2-0-to-strengthen-semiconductor-competitiveness-and-resilience/">SEMI Calls on the Chips Act 2.0 to Strengthen Semiconductor Competitiveness and Resilience</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ASML Begins Construction of New Eindhoven Campus](https://www.semiconductor-digest.com/asml-begins-construction-of-new-eindhoven-campus/?utm_source=rss&utm_medium=rss&utm_campaign=asml-begins-construction-of-new-eindhoven-campus)
+**Published:** Wed, 09 Sep 2026 20:42:16 +0000
+
+<p>ASML Holding N.V. today marked the start of construction of its second major industrial campus in the Brainport region, the Netherlands.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/asml-begins-construction-of-new-eindhoven-campus/">ASML Begins Construction of New Eindhoven Campus</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -43,46 +83,6 @@ _Last updated: 2026-09-09 13:40 UTC_
 
 <p>SEMIFIVE, a global provider of custom AI semiconductor (ASIC) solutions, announced today that it has begun mass production of a data center AI inference accelerator for HyperAccel.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semifive-commences-mass-production-of-hyperaccels-llm-ai-inference-accelerator-bertha-on-samsung-4nm/">SEMIFIVE Commences Mass Production of HyperAccel&#8217;s LLM AI Inference Accelerator &#8216;Bertha&#8217; on Samsung 4nm</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries and U.S. Department of Commerce Finalize $375M R&D Award](https://www.semiconductor-digest.com/globalfoundries-and-u-s-department-of-commerce-finalize-375m-rd-award/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-u-s-department-of-commerce-finalize-375m-rd-award)
-**Published:** Tue, 08 Sep 2026 21:47:18 +0000
-
-<p>Award accelerates build-out of GF's Quantum Technology Solutions business and strengthens America's quantum semiconductor ecosystem.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-u-s-department-of-commerce-finalize-375m-rd-award/">GlobalFoundries and U.S. Department of Commerce Finalize $375M R&#038;D Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV](https://www.semiconductor-digest.com/asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv/?utm_source=rss&utm_medium=rss&utm_campaign=asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv)
-**Published:** Tue, 08 Sep 2026 21:45:15 +0000
-
-<p>Taiwan Semiconductor Manufacturing Company and ASML Holding N.V. announced a collaborative initiative to lead the semiconductor industry’s transition to a larger-format Extreme Ultraviolet (EUV) lithography photomask.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/asml-and-tsmc-announce-initiative-to-pioneer-industry-transition-to-large-format-photomasks-for-high-na-euv/">ASML and TSMC Announce Initiative to Pioneer Industry Transition to Large-Format Photomasks for High NA EUV</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NUS CDE Researchers Develop Atom-Thin Carbon Insulator for Next-Generation Microchips](https://www.semiconductor-digest.com/nus-cde-researchers-develop-atom-thin-carbon-insulator-for-next-generation-microchips/?utm_source=rss&utm_medium=rss&utm_campaign=nus-cde-researchers-develop-atom-thin-carbon-insulator-for-next-generation-microchips)
-**Published:** Tue, 08 Sep 2026 21:43:20 +0000
-
-<p>A new atom-thin carbon film developed at NUS CDE could help overcome one of the biggest barriers to faster and more energy-efficient microchips.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nus-cde-researchers-develop-atom-thin-carbon-insulator-for-next-generation-microchips/">NUS CDE Researchers Develop Atom-Thin Carbon Insulator for Next-Generation Microchips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Magnifying the Engineer: Where AI Fits in Semiconductor Analytics](https://www.semiconductor-digest.com/magnifying-the-engineer-where-ai-fits-in-semiconductor-analytics/?utm_source=rss&utm_medium=rss&utm_campaign=magnifying-the-engineer-where-ai-fits-in-semiconductor-analytics)
-**Published:** Tue, 08 Sep 2026 16:36:21 +0000
-
-<p>In this Q&#038;A, Brad Hopper, VP of Vertical Markets at Spotfire, explains how fabs, foundries, and equipment makers are turning to analytics and AI to squeeze more yield, quality, and throughput out of existing capacity rather than waiting for new capacity to come online.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/magnifying-the-engineer-where-ai-fits-in-semiconductor-analytics/">Magnifying the Engineer: Where AI Fits in Semiconductor Analytics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [KAIST Tames a Semiconductor Greenhouse Gas 6,000 Times More Potent than CO₂ with the ‘Power of Disorder’](https://www.semiconductor-digest.com/kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%e2%82%82-with-the-power-of-disorder/?utm_source=rss&utm_medium=rss&utm_campaign=kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%25e2%2582%2582-with-the-power-of-disorder)
-**Published:** Fri, 04 Sep 2026 20:22:36 +0000
-
-<p>KAIST and Samsung Electronics have developed a new, long-lasting catalyst based on ‘entropy stabilization,’ a principle in which mixing multiple metal atoms together actually stabilizes the catalyst’s structure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/kaist-tames-a-semiconductor-greenhouse-gas-6000-times-more-potent-than-co%e2%82%82-with-the-power-of-disorder/">KAIST Tames a Semiconductor Greenhouse Gas 6,000 Times More Potent than CO₂ with the ‘Power of Disorder’</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
