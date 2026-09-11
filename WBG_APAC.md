@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-10 23:59 UTC_
+_Last updated: 2026-09-11 17:46 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [MICROIP Lands $20M Smart Residential Edge AI Project in Taiwan](https://www.eetasia.com/microip-lands-20m-smart-residential-edge-ai-project-in-taiwan/)
+**Published:** Fri, 11 Sep 2026 08:16:37 +0000
+
+<p>Three-year system integration project marks MICROIP's expansion from ASIC design into vertical Edge AI deployments.</p>
+<p>The post <a href="https://www.eetasia.com/microip-lands-20m-smart-residential-edge-ai-project-in-taiwan/">MICROIP Lands $20M Smart Residential Edge AI Project in Taiwan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -27,14 +35,6 @@ _Last updated: 2026-09-10 23:59 UTC_
 
 <p>SEEQC and Taiwan's quantum technology office will explore development, manufacturing and commercialization partnerships across the quantum ecosystem.</p>
 <p>The post <a href="https://www.eetasia.com/seeqc-taps-taiwans-semiconductor-ecosystem-to-expand-quantum-computing-supply-chain/">SEEQC Taps Taiwan&#8217;s Semiconductor Ecosystem to Expand Quantum Computing Supply Chain</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [proteanTecs, MegaChips Target Deeper Silicon Visibility for Next-gen ASICs](https://www.eetasia.com/proteantecs-megachips-target-deeper-silicon-visibility-for-next-gen-asics/)
-**Published:** Tue, 08 Sep 2026 02:48:39 +0000
-
-<p>The collaboration combines embedded monitoring and analytics with MegaChips' design expertise to improve ASIC performance, reliability and yield.</p>
-<p>The post <a href="https://www.eetasia.com/proteantecs-megachips-target-deeper-silicon-visibility-for-next-gen-asics/">proteanTecs, MegaChips Target Deeper Silicon Visibility for Next-gen ASICs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
