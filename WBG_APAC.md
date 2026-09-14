@@ -1,8 +1,32 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-13 23:08 UTC_
+_Last updated: 2026-09-14 01:00 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Alif Semiconductor Launches Low-cost StartKits for Edge AI MCUs](https://www.eetasia.com/alif-semiconductor-launches-low-cost-startkits-for-edge-ai-mcus/)
+**Published:** Sun, 13 Sep 2026 23:33:00 +0000
+
+<p>New evaluation boards provide accessible hardware for developing low-power, on-device AI and machine-learning applications.</p>
+<p>The post <a href="https://www.eetasia.com/alif-semiconductor-launches-low-cost-startkits-for-edge-ai-mcus/">Alif Semiconductor Launches Low-cost StartKits for Edge AI MCUs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [DB HiTek Qualifies 1,200V SiC MOSFET Process on 8in Wafers](https://www.eetasia.com/db-hitek-qualifies-1200v-sic-mosfet-process-on-8in-wafers/)
+**Published:** Sun, 13 Sep 2026 23:12:34 +0000
+
+<p>DB HiTek targets 2027 volume production as it advances 8-inch SiC process technology.</p>
+<p>The post <a href="https://www.eetasia.com/db-hitek-qualifies-1200v-sic-mosfet-process-on-8in-wafers/">DB HiTek Qualifies 1,200V SiC MOSFET Process on 8in Wafers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [AI Drives New Semiconductor Patent Race Across Computing, Memory and Custom Silicon](https://www.eetasia.com/ai-drives-new-semiconductor-patent-race-across-computing-memory-and-custom-silicon/)
+**Published:** Sun, 13 Sep 2026 23:04:50 +0000
+
+<p>AI workloads are accelerating semiconductor patent activity, reshaping competition across architectures, memory, GPUs and inference technologies.</p>
+<p>The post <a href="https://www.eetasia.com/ai-drives-new-semiconductor-patent-race-across-computing-memory-and-custom-silicon/">AI Drives New Semiconductor Patent Race Across Computing, Memory and Custom Silicon</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -19,22 +43,6 @@ _Last updated: 2026-09-13 23:08 UTC_
 
 <p>Long-term agreement extends automotive semiconductor collaboration through 2037 and supports new products based on 130nm technology.</p>
 <p>The post <a href="https://www.eetasia.com/sk-keyfoundry-elmos-expand-partnership-with-130nm-wafer-supply-deal/">SK keyfoundry, Elmos Expand Partnership with 130nm Wafer Supply Deal</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Analog Devices Strengthening Edge AI Capabilities by Acquiring Alif Semiconductor](https://www.eetasia.com/analog-devices-strengthening-edge-ai-capabilities-by-acquiring-alif-semiconductor/)
-**Published:** Thu, 10 Sep 2026 02:26:00 +0000
-
-<p>Deal combines ADI's sensing expertise with Alif's AI-native processors for real-time physical intelligence systems.</p>
-<p>The post <a href="https://www.eetasia.com/analog-devices-strengthening-edge-ai-capabilities-by-acquiring-alif-semiconductor/">Analog Devices Strengthening Edge AI Capabilities by Acquiring Alif Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SEEQC Taps Taiwan’s Semiconductor Ecosystem to Expand Quantum Computing Supply Chain](https://www.eetasia.com/seeqc-taps-taiwans-semiconductor-ecosystem-to-expand-quantum-computing-supply-chain/)
-**Published:** Tue, 08 Sep 2026 23:06:57 +0000
-
-<p>SEEQC and Taiwan's quantum technology office will explore development, manufacturing and commercialization partnerships across the quantum ecosystem.</p>
-<p>The post <a href="https://www.eetasia.com/seeqc-taps-taiwans-semiconductor-ecosystem-to-expand-quantum-computing-supply-chain/">SEEQC Taps Taiwan&#8217;s Semiconductor Ecosystem to Expand Quantum Computing Supply Chain</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-09-13 23:08 UTC_
 
 <p>Kyocera Corporation and the Research Institute of Electrical Communication (RIEC), Tohoku University have developed a new technology for integrating optical isolators onto silicon photonics chips using "laser annealing," a localized, laser-based heat-treatment method.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/kyocera-and-tohoku-university-develop-technology-to-integrate-optical-isolators-directly-onto-silicon-photonics-chips/">Kyocera and Tohoku University Develop Technology to Integrate Optical Isolators Directly onto Silicon Photonics Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Positron AI Raises $875 Million at a $5 Billion Valuation to Bring Its Next-Generation Inference Silicon to Market](https://www.semiconductor-digest.com/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market)
-**Published:** Fri, 11 Sep 2026 18:06:26 +0000
-
-<p>Positron AI, the AI inference hardware company built to make serving AI models dramatically cheaper and more energy efficient, today announced an $875 million Series C financing at a $5 billion post-money valuation.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market/">Positron AI Raises $875 Million at a $5 Billion Valuation to Bring Its Next-Generation Inference Silicon to Market</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
