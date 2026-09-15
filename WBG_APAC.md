@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-09-14 21:47 UTC_
+_Last updated: 2026-09-15 00:33 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -46,6 +46,30 @@ _Last updated: 2026-09-14 21:47 UTC_
 
 ---
 
+## [Omdia: Global Semiconductor Revenue Surges 31% to Record $425B in 2Q26](https://www.semiconductor-digest.com/omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26)
+**Published:** Mon, 14 Sep 2026 21:46:25 +0000
+
+<p>Global semiconductor revenue surpassed $425bn in 2Q26 reaching another all-time high as the market grew a record 31.4% quarter-over-quarter (QoQ), according to new research from Omdia.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26/">Omdia: Global Semiconductor Revenue Surges 31% to Record $425B in 2Q26</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [MIRTEC to Showcase Cutting-Edge 3D Semiconductor Inspection System at SEMICON West 2026](https://www.semiconductor-digest.com/mirtec-to-showcase-cutting-edge-3d-semiconductor-inspection-system-at-semicon-west-2026/?utm_source=rss&utm_medium=rss&utm_campaign=mirtec-to-showcase-cutting-edge-3d-semiconductor-inspection-system-at-semicon-west-2026)
+**Published:** Mon, 14 Sep 2026 21:40:02 +0000
+
+<p>The MV-9SiP Hybrid 3D Inspection System combines 2D vision, 12-projection Digital Blue Light Moiré, and Blue Laser Scanning in a single semiconductor inspection platform.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/mirtec-to-showcase-cutting-edge-3d-semiconductor-inspection-system-at-semicon-west-2026/">MIRTEC to Showcase Cutting-Edge 3D Semiconductor Inspection System at SEMICON West 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The NY Creates and Micron Technology Joint Apprenticeship Program Welcomes First Cohort](https://www.semiconductor-digest.com/the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort/?utm_source=rss&utm_medium=rss&utm_campaign=the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort)
+**Published:** Mon, 14 Sep 2026 21:35:50 +0000
+
+<p>NY Creates and Micron Technology, Inc. held a signing ceremony where 10 apprentices joined the first cohort of their joint workforce development program. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort/">The NY Creates and Micron Technology Joint Apprenticeship Program Welcomes First Cohort</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Hardware Assisted Verification Is Key to AI Chip Design](https://www.semiconductor-digest.com/hardware-assisted-verification-is-key-to-ai-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=hardware-assisted-verification-is-key-to-ai-chip-design)
 **Published:** Mon, 14 Sep 2026 17:54:22 +0000
 
@@ -59,30 +83,6 @@ _Last updated: 2026-09-14 21:47 UTC_
 
 <p>As System-on-Chip architectures grow more complex, wafer sort and package testing with Automatic Test Equipment can no longer catch every device that will eventually fail in the field.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/when-firmware-panics-expose-semiconductor-defects/">When Firmware Panics Expose Semiconductor Defects</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ALD System Design is the Key to Proper Precursor Gas Delivery](https://www.semiconductor-digest.com/ald-system-design-is-the-key-to-proper-precursor-gas-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=ald-system-design-is-the-key-to-proper-precursor-gas-delivery)
-**Published:** Mon, 14 Sep 2026 15:20:13 +0000
-
-<p>Atomic layer deposition depends on delivering precursor gas to the reaction chamber with sub-millisecond precision.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ald-system-design-is-the-key-to-proper-precursor-gas-delivery/">ALD System Design is the Key to Proper Precursor Gas Delivery</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Precision Under Pressure: Ensuring Quality in a Globalized and Miniaturized Semiconductor Industry](https://www.semiconductor-digest.com/precision-under-pressure-ensuring-quality-in-a-globalized-and-miniaturized-semiconductor-industry/?utm_source=rss&utm_medium=rss&utm_campaign=precision-under-pressure-ensuring-quality-in-a-globalized-and-miniaturized-semiconductor-industry)
-**Published:** Mon, 14 Sep 2026 15:12:50 +0000
-
-<p>Traditional measurement approaches like strain gauges and LVDT displacement sensors are reaching their limits for detecting the minuscule forces and rapid dynamics involved.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/precision-under-pressure-ensuring-quality-in-a-globalized-and-miniaturized-semiconductor-industry/">Precision Under Pressure: Ensuring Quality in a Globalized and Miniaturized Semiconductor Industry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Xanadu, ASML to Advance Lithography for Photonic Quantum Hardware](https://www.semiconductor-digest.com/xanadu-asml-to-advance-lithography-for-photonic-quantum-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=xanadu-asml-to-advance-lithography-for-photonic-quantum-hardware)
-**Published:** Fri, 11 Sep 2026 19:02:26 +0000
-
-<p>Through this collaboration, Canadian photonic quantum computing company Xanadu and ASML will explore lithography-enabled process approaches for improved patterning control and lower-loss photonic structures.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/xanadu-asml-to-advance-lithography-for-photonic-quantum-hardware/">Xanadu, ASML to Advance Lithography for Photonic Quantum Hardware</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
