@@ -1,8 +1,24 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-15 00:33 UTC_
+_Last updated: 2026-09-15 06:07 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Navitas Extending GaN and SiC Strategy with Claros Acquisition](https://www.eetasia.com/navitas-extending-gan-and-sic-strategy-with-claros-acquisition/)
+**Published:** Tue, 15 Sep 2026 03:05:32 +0000
+
+<p>Navitas plans to acquire Claros for $232.8 million, targeting the final power-delivery stage from 800V infrastructure to AI processors.</p>
+<p>The post <a href="https://www.eetasia.com/navitas-extending-gan-and-sic-strategy-with-claros-acquisition/">Navitas Extending GaN and SiC Strategy with Claros Acquisition</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Global Chip Revenue Surges 31% to Record $425B in 2Q 2026](https://www.eetasia.com/global-chip-revenue-surges-31-to-record-425b-in-2q-2026/)
+**Published:** Tue, 15 Sep 2026 02:46:24 +0000
+
+<p>Global semiconductor revenue surpassed $425 billion in 2Q 2026, reaching another all-time high as the market grew by a record 31.4% QoQ.</p>
+<p>The post <a href="https://www.eetasia.com/global-chip-revenue-surges-31-to-record-425b-in-2q-2026/">Global Chip Revenue Surges 31% to Record $425B in 2Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -27,22 +43,6 @@ _Last updated: 2026-09-15 00:33 UTC_
 
 <p>AI workloads are accelerating semiconductor patent activity, reshaping competition across architectures, memory, GPUs and inference technologies.</p>
 <p>The post <a href="https://www.eetasia.com/ai-drives-new-semiconductor-patent-race-across-computing-memory-and-custom-silicon/">AI Drives New Semiconductor Patent Race Across Computing, Memory and Custom Silicon</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [MICROIP Lands $20M Smart Residential Edge AI Project in Taiwan](https://www.eetasia.com/microip-lands-20m-smart-residential-edge-ai-project-in-taiwan/)
-**Published:** Fri, 11 Sep 2026 08:16:37 +0000
-
-<p>Three-year system integration project marks MICROIP's expansion from ASIC design into vertical Edge AI deployments.</p>
-<p>The post <a href="https://www.eetasia.com/microip-lands-20m-smart-residential-edge-ai-project-in-taiwan/">MICROIP Lands $20M Smart Residential Edge AI Project in Taiwan</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SK keyfoundry, Elmos Expand Partnership with 130nm Wafer Supply Deal](https://www.eetasia.com/sk-keyfoundry-elmos-expand-partnership-with-130nm-wafer-supply-deal/)
-**Published:** Thu, 10 Sep 2026 03:05:46 +0000
-
-<p>Long-term agreement extends automotive semiconductor collaboration through 2037 and supports new products based on 130nm technology.</p>
-<p>The post <a href="https://www.eetasia.com/sk-keyfoundry-elmos-expand-partnership-with-130nm-wafer-supply-deal/">SK keyfoundry, Elmos Expand Partnership with 130nm Wafer Supply Deal</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
