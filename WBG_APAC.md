@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-15 11:28 UTC_
+_Last updated: 2026-09-15 23:42 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -38,6 +38,38 @@ _Last updated: 2026-09-15 11:28 UTC_
 
 ---
 
+## [Gradiant Wins New Water Contracts for Major US Semiconductor Fabs in New York, Virginia, Idaho, and Utah](https://www.semiconductor-digest.com/gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah/?utm_source=rss&utm_medium=rss&utm_campaign=gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah)
+**Published:** Tue, 15 Sep 2026 22:20:07 +0000
+
+<p>$300 million in new ultrapure water, wastewater, and zero liquid discharge contracts mark continued commercial momentum in the chips layer of the AI economy.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah/">Gradiant Wins New Water Contracts for Major US Semiconductor Fabs in New York, Virginia, Idaho, and Utah</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Aeluma Executes Strategic Agreement with Sumitomo Chemical Advanced Technologies](https://www.semiconductor-digest.com/aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies)
+**Published:** Tue, 15 Sep 2026 22:17:19 +0000
+
+<p>Aeluma, Inc. announced today it has executed an agreement with Sumitomo Chemical Advanced Technologies (SCAT) to accelerate development and production of photonics wafers for the AI datacom market.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies/">Aeluma Executes Strategic Agreement with Sumitomo Chemical Advanced Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TeRAM Emerges from Stealth with $37M to Develop 3D SRAM for AI Systems](https://www.semiconductor-digest.com/teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems/?utm_source=rss&utm_medium=rss&utm_campaign=teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems)
+**Published:** Tue, 15 Sep 2026 22:13:17 +0000
+
+<p>Custom 3D SRAM will redefine memory packaging to maximize capacity and bandwidth.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems/">TeRAM Emerges from Stealth with $37M to Develop 3D SRAM for AI Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [MediaTek Launches Dimensity 9600 Pro on TSMC 2nm Process](https://www.semiconductor-digest.com/mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process/?utm_source=rss&utm_medium=rss&utm_campaign=mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process)
+**Published:** Tue, 15 Sep 2026 22:04:41 +0000
+
+<p>This flagship SoC achieved a significant technological milestone, adopting the new 2nm process node.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process/">MediaTek Launches Dimensity 9600 Pro on TSMC 2nm Process</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Omdia: Global Semiconductor Revenue Surges 31% to Record $425B in 2Q26](https://www.semiconductor-digest.com/omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26)
 **Published:** Mon, 14 Sep 2026 21:46:25 +0000
 
@@ -51,38 +83,6 @@ _Last updated: 2026-09-15 11:28 UTC_
 
 <p>The MV-9SiP Hybrid 3D Inspection System combines 2D vision, 12-projection Digital Blue Light Moiré, and Blue Laser Scanning in a single semiconductor inspection platform.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/mirtec-to-showcase-cutting-edge-3d-semiconductor-inspection-system-at-semicon-west-2026/">MIRTEC to Showcase Cutting-Edge 3D Semiconductor Inspection System at SEMICON West 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The NY Creates and Micron Technology Joint Apprenticeship Program Welcomes First Cohort](https://www.semiconductor-digest.com/the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort/?utm_source=rss&utm_medium=rss&utm_campaign=the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort)
-**Published:** Mon, 14 Sep 2026 21:35:50 +0000
-
-<p>NY Creates and Micron Technology, Inc. held a signing ceremony where 10 apprentices joined the first cohort of their joint workforce development program. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort/">The NY Creates and Micron Technology Joint Apprenticeship Program Welcomes First Cohort</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Hardware Assisted Verification Is Key to AI Chip Design](https://www.semiconductor-digest.com/hardware-assisted-verification-is-key-to-ai-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=hardware-assisted-verification-is-key-to-ai-chip-design)
-**Published:** Mon, 14 Sep 2026 17:54:22 +0000
-
-<p>Juergen Jaeger of Siemens EDA explains why hardware-assisted verification has since become a must-have.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hardware-assisted-verification-is-key-to-ai-chip-design/">Hardware Assisted Verification Is Key to AI Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [When Firmware Panics Expose Semiconductor Defects](https://www.semiconductor-digest.com/when-firmware-panics-expose-semiconductor-defects/?utm_source=rss&utm_medium=rss&utm_campaign=when-firmware-panics-expose-semiconductor-defects)
-**Published:** Mon, 14 Sep 2026 16:08:12 +0000
-
-<p>As System-on-Chip architectures grow more complex, wafer sort and package testing with Automatic Test Equipment can no longer catch every device that will eventually fail in the field.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/when-firmware-panics-expose-semiconductor-defects/">When Firmware Panics Expose Semiconductor Defects</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ALD System Design is the Key to Proper Precursor Gas Delivery](https://www.semiconductor-digest.com/ald-system-design-is-the-key-to-proper-precursor-gas-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=ald-system-design-is-the-key-to-proper-precursor-gas-delivery)
-**Published:** Mon, 14 Sep 2026 15:20:13 +0000
-
-<p>Atomic layer deposition depends on delivering precursor gas to the reaction chamber with sub-millisecond precision.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ald-system-design-is-the-key-to-proper-precursor-gas-delivery/">ALD System Design is the Key to Proper Precursor Gas Delivery</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
