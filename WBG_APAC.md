@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-15 06:07 UTC_
+_Last updated: 2026-09-15 11:28 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [MacDermid Alpha Targets Silver Alternatives for Semiconductor Die Attach in India](https://www.eetasia.com/macdermid-alpha-targets-silver-alternatives-for-semiconductor-die-attach-in-india/)
+**Published:** Tue, 15 Sep 2026 08:42:58 +0000
+
+<p>MacDermid Alpha's PFAS-free copper-filled die attach paste targets cost stability, reliability and manufacturing requirements.</p>
+<p>The post <a href="https://www.eetasia.com/macdermid-alpha-targets-silver-alternatives-for-semiconductor-die-attach-in-india/">MacDermid Alpha Targets Silver Alternatives for Semiconductor Die Attach in India</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -27,22 +35,6 @@ _Last updated: 2026-09-15 06:07 UTC_
 
 <p>New evaluation boards provide accessible hardware for developing low-power, on-device AI and machine-learning applications.</p>
 <p>The post <a href="https://www.eetasia.com/alif-semiconductor-launches-low-cost-startkits-for-edge-ai-mcus/">Alif Semiconductor Launches Low-cost StartKits for Edge AI MCUs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [DB HiTek Qualifies 1,200V SiC MOSFET Process on 8in Wafers](https://www.eetasia.com/db-hitek-qualifies-1200v-sic-mosfet-process-on-8in-wafers/)
-**Published:** Sun, 13 Sep 2026 23:12:34 +0000
-
-<p>DB HiTek targets 2027 volume production as it advances 8-inch SiC process technology.</p>
-<p>The post <a href="https://www.eetasia.com/db-hitek-qualifies-1200v-sic-mosfet-process-on-8in-wafers/">DB HiTek Qualifies 1,200V SiC MOSFET Process on 8in Wafers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [AI Drives New Semiconductor Patent Race Across Computing, Memory and Custom Silicon](https://www.eetasia.com/ai-drives-new-semiconductor-patent-race-across-computing-memory-and-custom-silicon/)
-**Published:** Sun, 13 Sep 2026 23:04:50 +0000
-
-<p>AI workloads are accelerating semiconductor patent activity, reshaping competition across architectures, memory, GPUs and inference technologies.</p>
-<p>The post <a href="https://www.eetasia.com/ai-drives-new-semiconductor-patent-race-across-computing-memory-and-custom-silicon/">AI Drives New Semiconductor Patent Race Across Computing, Memory and Custom Silicon</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-09-15 06:07 UTC_
 
 <p>As System-on-Chip architectures grow more complex, wafer sort and package testing with Automatic Test Equipment can no longer catch every device that will eventually fail in the field.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/when-firmware-panics-expose-semiconductor-defects/">When Firmware Panics Expose Semiconductor Defects</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ALD System Design is the Key to Proper Precursor Gas Delivery](https://www.semiconductor-digest.com/ald-system-design-is-the-key-to-proper-precursor-gas-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=ald-system-design-is-the-key-to-proper-precursor-gas-delivery)
+**Published:** Mon, 14 Sep 2026 15:20:13 +0000
+
+<p>Atomic layer deposition depends on delivering precursor gas to the reaction chamber with sub-millisecond precision.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ald-system-design-is-the-key-to-proper-precursor-gas-delivery/">ALD System Design is the Key to Proper Precursor Gas Delivery</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
