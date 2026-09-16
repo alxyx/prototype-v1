@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-15 23:42 UTC_
+_Last updated: 2026-09-16 09:24 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [JETRO, Purdue University Expand Japan-U.S. Advanced Technology Collaboration](https://www.eetasia.com/jetro-purdue-university-expand-japan-u-s-advanced-technology-collaboration/)
+**Published:** Wed, 16 Sep 2026 03:29:47 +0000
+
+<p>JETRO and Purdue University have signed an MOU to expand collaboration across semiconductors, quantum technologies, AI, advanced manufacturing and life sciences.</p>
+<p>The post <a href="https://www.eetasia.com/jetro-purdue-university-expand-japan-u-s-advanced-technology-collaboration/">JETRO, Purdue University Expand Japan-U.S. Advanced Technology Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -27,14 +35,6 @@ _Last updated: 2026-09-15 23:42 UTC_
 
 <p>Global semiconductor revenue surpassed $425 billion in 2Q 2026, reaching another all-time high as the market grew by a record 31.4% QoQ.</p>
 <p>The post <a href="https://www.eetasia.com/global-chip-revenue-surges-31-to-record-425b-in-2q-2026/">Global Chip Revenue Surges 31% to Record $425B in 2Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Alif Semiconductor Launches Low-cost StartKits for Edge AI MCUs](https://www.eetasia.com/alif-semiconductor-launches-low-cost-startkits-for-edge-ai-mcus/)
-**Published:** Sun, 13 Sep 2026 23:33:00 +0000
-
-<p>New evaluation boards provide accessible hardware for developing low-power, on-device AI and machine-learning applications.</p>
-<p>The post <a href="https://www.eetasia.com/alif-semiconductor-launches-low-cost-startkits-for-edge-ai-mcus/">Alif Semiconductor Launches Low-cost StartKits for Edge AI MCUs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
