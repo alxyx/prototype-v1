@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-16 09:24 UTC_
+_Last updated: 2026-09-16 14:50 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -38,6 +38,22 @@ _Last updated: 2026-09-16 09:24 UTC_
 
 ---
 
+## [Why Semiconductor Materials Innovation Requires Fab-Aware AI](https://www.semiconductor-digest.com/why-semiconductor-materials-innovation-requires-fab-aware-ai/?utm_source=rss&utm_medium=rss&utm_campaign=why-semiconductor-materials-innovation-requires-fab-aware-ai)
+**Published:** Wed, 16 Sep 2026 14:20:05 +0000
+
+<p>Most of the industry's AI conversation focuses on chip design, supply chains, and data center demand, but Shalini Sharma of SandboxAQ argues the more foundational bottleneck sits upstream, in materials innovation itself.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/why-semiconductor-materials-innovation-requires-fab-aware-ai/">Why Semiconductor Materials Innovation Requires Fab-Aware AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse](https://www.semiconductor-digest.com/advanced-membrane-filtration-supports-reclaimed-wastewater-reuse/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-membrane-filtration-supports-reclaimed-wastewater-reuse)
+**Published:** Wed, 16 Sep 2026 14:17:05 +0000
+
+<p>High-tech manufacturing's reliance on large volumes of water for cleaning, rinsing, and cooling has put water reuse policy and technology under new scrutiny</p>
+<p>The post <a href="https://www.semiconductor-digest.com/advanced-membrane-filtration-supports-reclaimed-wastewater-reuse/">Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Gradiant Wins New Water Contracts for Major US Semiconductor Fabs in New York, Virginia, Idaho, and Utah](https://www.semiconductor-digest.com/gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah/?utm_source=rss&utm_medium=rss&utm_campaign=gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah)
 **Published:** Tue, 15 Sep 2026 22:20:07 +0000
 
@@ -67,22 +83,6 @@ _Last updated: 2026-09-16 09:24 UTC_
 
 <p>This flagship SoC achieved a significant technological milestone, adopting the new 2nm process node.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process/">MediaTek Launches Dimensity 9600 Pro on TSMC 2nm Process</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: Global Semiconductor Revenue Surges 31% to Record $425B in 2Q26](https://www.semiconductor-digest.com/omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26)
-**Published:** Mon, 14 Sep 2026 21:46:25 +0000
-
-<p>Global semiconductor revenue surpassed $425bn in 2Q26 reaching another all-time high as the market grew a record 31.4% quarter-over-quarter (QoQ), according to new research from Omdia.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26/">Omdia: Global Semiconductor Revenue Surges 31% to Record $425B in 2Q26</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [MIRTEC to Showcase Cutting-Edge 3D Semiconductor Inspection System at SEMICON West 2026](https://www.semiconductor-digest.com/mirtec-to-showcase-cutting-edge-3d-semiconductor-inspection-system-at-semicon-west-2026/?utm_source=rss&utm_medium=rss&utm_campaign=mirtec-to-showcase-cutting-edge-3d-semiconductor-inspection-system-at-semicon-west-2026)
-**Published:** Mon, 14 Sep 2026 21:40:02 +0000
-
-<p>The MV-9SiP Hybrid 3D Inspection System combines 2D vision, 12-projection Digital Blue Light Moiré, and Blue Laser Scanning in a single semiconductor inspection platform.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/mirtec-to-showcase-cutting-edge-3d-semiconductor-inspection-system-at-semicon-west-2026/">MIRTEC to Showcase Cutting-Edge 3D Semiconductor Inspection System at SEMICON West 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
