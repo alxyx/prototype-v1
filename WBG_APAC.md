@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-17 06:01 UTC_
+_Last updated: 2026-09-17 16:39 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,6 +11,22 @@ _Last updated: 2026-09-17 06:01 UTC_
 
 <p>JETRO and Purdue University have signed an MOU to expand collaboration across semiconductors, quantum technologies, AI, advanced manufacturing and life sciences.</p>
 <p>The post <a href="https://www.eetasia.com/jetro-purdue-university-expand-japan-u-s-advanced-technology-collaboration/">JETRO, Purdue University Expand Japan-U.S. Advanced Technology Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Ireland’s Emergence as a Full-Stack Semiconductor Powerhouse](https://www.semiconductor-digest.com/irelands-emergence-as-a-full-stack-semiconductor-powerhouse/?utm_source=rss&utm_medium=rss&utm_campaign=irelands-emergence-as-a-full-stack-semiconductor-powerhouse)
+**Published:** Thu, 17 Sep 2026 12:33:00 +0000
+
+<p>Ireland has spent fifty years quietly building one of the most complete semiconductor ecosystems in the world, and Seamus Carroll of IDA Ireland argues that a national strategy running out to 2040 is now bringing that ecosystem into sharper focus.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/irelands-emergence-as-a-full-stack-semiconductor-powerhouse/">Ireland&#8217;s Emergence as a Full-Stack Semiconductor Powerhouse</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The Fab Race Is On](https://www.semiconductor-digest.com/the-fab-race-is-on/?utm_source=rss&utm_medium=rss&utm_campaign=the-fab-race-is-on)
+**Published:** Thu, 17 Sep 2026 12:28:00 +0000
+
+<p>Hyperscale AI data centers are scaling faster than the chip supply that feeds them, and Timothy McDonough of Sherwin-Williams frames the resulting pressure on fab construction schedules as a race against complexity, not just a race against the calendar.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-fab-race-is-on/">The Fab Race Is On</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-09-17 06:01 UTC_
 
 <p>$300 million in new ultrapure water, wastewater, and zero liquid discharge contracts mark continued commercial momentum in the chips layer of the AI economy.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah/">Gradiant Wins New Water Contracts for Major US Semiconductor Fabs in New York, Virginia, Idaho, and Utah</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Aeluma Executes Strategic Agreement with Sumitomo Chemical Advanced Technologies](https://www.semiconductor-digest.com/aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies)
-**Published:** Tue, 15 Sep 2026 22:17:19 +0000
-
-<p>Aeluma, Inc. announced today it has executed an agreement with Sumitomo Chemical Advanced Technologies (SCAT) to accelerate development and production of photonics wafers for the AI datacom market.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies/">Aeluma Executes Strategic Agreement with Sumitomo Chemical Advanced Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TeRAM Emerges from Stealth with $37M to Develop 3D SRAM for AI Systems](https://www.semiconductor-digest.com/teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems/?utm_source=rss&utm_medium=rss&utm_campaign=teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems)
-**Published:** Tue, 15 Sep 2026 22:13:17 +0000
-
-<p>Custom 3D SRAM will redefine memory packaging to maximize capacity and bandwidth.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems/">TeRAM Emerges from Stealth with $37M to Develop 3D SRAM for AI Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
