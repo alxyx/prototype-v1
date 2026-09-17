@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-16 18:54 UTC_
+_Last updated: 2026-09-17 06:01 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -14,27 +14,35 @@ _Last updated: 2026-09-16 18:54 UTC_
 
 ---
 
-## [MacDermid Alpha Targets Silver Alternatives for Semiconductor Die Attach in India](https://www.eetasia.com/macdermid-alpha-targets-silver-alternatives-for-semiconductor-die-attach-in-india/)
-**Published:** Tue, 15 Sep 2026 08:42:58 +0000
+## [Micron Appoints Deirdre Hanford to Lead Micron Research Labs](https://www.semiconductor-digest.com/micron-appoints-deirdre-hanford-to-lead-micron-research-labs/?utm_source=rss&utm_medium=rss&utm_campaign=micron-appoints-deirdre-hanford-to-lead-micron-research-labs)
+**Published:** Wed, 16 Sep 2026 19:23:18 +0000
 
-<p>MacDermid Alpha's PFAS-free copper-filled die attach paste targets cost stability, reliability and manufacturing requirements.</p>
-<p>The post <a href="https://www.eetasia.com/macdermid-alpha-targets-silver-alternatives-for-semiconductor-die-attach-in-india/">MacDermid Alpha Targets Silver Alternatives for Semiconductor Die Attach in India</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Navitas Extending GaN and SiC Strategy with Claros Acquisition](https://www.eetasia.com/navitas-extending-gan-and-sic-strategy-with-claros-acquisition/)
-**Published:** Tue, 15 Sep 2026 03:05:32 +0000
-
-<p>Navitas plans to acquire Claros for $232.8 million, targeting the final power-delivery stage from 800V infrastructure to AI processors.</p>
-<p>The post <a href="https://www.eetasia.com/navitas-extending-gan-and-sic-strategy-with-claros-acquisition/">Navitas Extending GaN and SiC Strategy with Claros Acquisition</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Micron Technology, Inc. (Nasdaq: MU) today announced the appointment of Deirdre Hanford as corporate vice president and president of Micron Research Labs, the company’s flagship long-horizon research institution.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-appoints-deirdre-hanford-to-lead-micron-research-labs/">Micron Appoints Deirdre Hanford to Lead Micron Research Labs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Global Chip Revenue Surges 31% to Record $425B in 2Q 2026](https://www.eetasia.com/global-chip-revenue-surges-31-to-record-425b-in-2q-2026/)
-**Published:** Tue, 15 Sep 2026 02:46:24 +0000
+## [ClassOne Technology Secures Multi-System Follow-on Orders from Top Photonics Manufacturers for High-Volume 6-inch InP Gold Plating](https://www.semiconductor-digest.com/classone-technology-secures-multi-system-follow-on-orders-from-top-photonics-manufacturers-for-high-volume-6-inch-inp-gold-plating/?utm_source=rss&utm_medium=rss&utm_campaign=classone-technology-secures-multi-system-follow-on-orders-from-top-photonics-manufacturers-for-high-volume-6-inch-inp-gold-plating)
+**Published:** Wed, 16 Sep 2026 19:21:11 +0000
 
-<p>Global semiconductor revenue surpassed $425 billion in 2Q 2026, reaching another all-time high as the market grew by a record 31.4% QoQ.</p>
-<p>The post <a href="https://www.eetasia.com/global-chip-revenue-surges-31-to-record-425b-in-2q-2026/">Global Chip Revenue Surges 31% to Record $425B in 2Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Multiple Solstice S8 orders key to production ramp for InP photonics manufacturing, supporting next-generation optical interconnects for AI data centers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/classone-technology-secures-multi-system-follow-on-orders-from-top-photonics-manufacturers-for-high-volume-6-inch-inp-gold-plating/">ClassOne Technology Secures Multi-System Follow-on Orders from Top Photonics Manufacturers for High-Volume 6-inch InP Gold Plating</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Arteris Accelerates Industry Transition to Multi-Die Chiplet-Based Architecture](https://www.semiconductor-digest.com/arteris-accelerates-industry-transition-to-multi-die-chiplet-based-architecture/?utm_source=rss&utm_medium=rss&utm_campaign=arteris-accelerates-industry-transition-to-multi-die-chiplet-based-architecture)
+**Published:** Wed, 16 Sep 2026 19:18:37 +0000
+
+<p>Expanded solution includes new FlexGen Multi-Die product to address the challenge of efficient data movement for an industry that is shifting to multi-die architectures, while preserving quality of service and architectural flexibility across chip boundaries. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/arteris-accelerates-industry-transition-to-multi-die-chiplet-based-architecture/">Arteris Accelerates Industry Transition to Multi-Die Chiplet-Based Architecture</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Micron Advances Memory Innovation With the World’s First Ultra-Dense Module for Next-Generation Servers](https://www.semiconductor-digest.com/micron-advances-memory-innovation-with-the-worlds-first-ultra-dense-module-for-next-generation-servers/?utm_source=rss&utm_medium=rss&utm_campaign=micron-advances-memory-innovation-with-the-worlds-first-ultra-dense-module-for-next-generation-servers)
+**Published:** Wed, 16 Sep 2026 19:13:53 +0000
+
+<p>Micron Technology, Inc. today announced a major milestone in memory innovation with the successful demonstration of the world's first 512GB DDR5 module on multiple server platforms.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-advances-memory-innovation-with-the-worlds-first-ultra-dense-module-for-next-generation-servers/">Micron Advances Memory Innovation With the World&#8217;s First Ultra-Dense Module for Next-Generation Servers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-09-16 18:54 UTC_
 
 <p>Custom 3D SRAM will redefine memory packaging to maximize capacity and bandwidth.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems/">TeRAM Emerges from Stealth with $37M to Develop 3D SRAM for AI Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [MediaTek Launches Dimensity 9600 Pro on TSMC 2nm Process](https://www.semiconductor-digest.com/mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process/?utm_source=rss&utm_medium=rss&utm_campaign=mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process)
-**Published:** Tue, 15 Sep 2026 22:04:41 +0000
-
-<p>This flagship SoC achieved a significant technological milestone, adopting the new 2nm process node.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/mediatek-launches-dimensity-9600-pro-on-tsmc-2nm-process/">MediaTek Launches Dimensity 9600 Pro on TSMC 2nm Process</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
