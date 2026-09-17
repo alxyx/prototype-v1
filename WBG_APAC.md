@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-17 16:39 UTC_
+_Last updated: 2026-09-17 23:36 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,6 +11,22 @@ _Last updated: 2026-09-17 16:39 UTC_
 
 <p>JETRO and Purdue University have signed an MOU to expand collaboration across semiconductors, quantum technologies, AI, advanced manufacturing and life sciences.</p>
 <p>The post <a href="https://www.eetasia.com/jetro-purdue-university-expand-japan-u-s-advanced-technology-collaboration/">JETRO, Purdue University Expand Japan-U.S. Advanced Technology Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Nordson Test & Inspection to Unveil Revolutionary SonoFlex Acoustic Inspection System at SEMICON West 2026](https://www.semiconductor-digest.com/nordson-test-inspection-to-unveil-revolutionary-sonoflex-acoustic-inspection-system-at-semicon-west-2026/?utm_source=rss&utm_medium=rss&utm_campaign=nordson-test-inspection-to-unveil-revolutionary-sonoflex-acoustic-inspection-system-at-semicon-west-2026)
+**Published:** Thu, 17 Sep 2026 21:49:44 +0000
+
+<p>Nordson Test &#038; Inspection will showcase its comprehensive portfolio of industry-leading optical, X-ray, acoustic inspection, and metrology technologies powered by the Nordson Intelligence Ecosystem at SEMICON West 2026, October 13–15, in Booth 5844 at the Moscone Center in San Francisco, California.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nordson-test-inspection-to-unveil-revolutionary-sonoflex-acoustic-inspection-system-at-semicon-west-2026/">Nordson Test &#038; Inspection to Unveil Revolutionary SonoFlex Acoustic Inspection System at SEMICON West 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper](https://www.semiconductor-digest.com/parliamentary-reception-marks-launch-of-defence-and-national-security-semiconductor-paper/?utm_source=rss&utm_medium=rss&utm_campaign=parliamentary-reception-marks-launch-of-defence-and-national-security-semiconductor-paper)
+**Published:** Thu, 17 Sep 2026 21:33:42 +0000
+
+<p>The All-Party Parliamentary Group for Semiconductors was pleased to launch its new paper, Defence and National Security: Delivering a Sovereign Semiconductor Capability, in Parliament on Tuesday 15 September 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/parliamentary-reception-marks-launch-of-defence-and-national-security-semiconductor-paper/">Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-09-17 16:39 UTC_
 
 <p>Most of the industry's AI conversation focuses on chip design, supply chains, and data center demand, but Shalini Sharma of SandboxAQ argues the more foundational bottleneck sits upstream, in materials innovation itself.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/why-semiconductor-materials-innovation-requires-fab-aware-ai/">Why Semiconductor Materials Innovation Requires Fab-Aware AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse](https://www.semiconductor-digest.com/advanced-membrane-filtration-supports-reclaimed-wastewater-reuse/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-membrane-filtration-supports-reclaimed-wastewater-reuse)
-**Published:** Wed, 16 Sep 2026 14:17:05 +0000
-
-<p>High-tech manufacturing's reliance on large volumes of water for cleaning, rinsing, and cooling has put water reuse policy and technology under new scrutiny</p>
-<p>The post <a href="https://www.semiconductor-digest.com/advanced-membrane-filtration-supports-reclaimed-wastewater-reuse/">Advanced Membrane Filtration Supports Reclaimed Wastewater Reuse</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Gradiant Wins New Water Contracts for Major US Semiconductor Fabs in New York, Virginia, Idaho, and Utah](https://www.semiconductor-digest.com/gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah/?utm_source=rss&utm_medium=rss&utm_campaign=gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah)
-**Published:** Tue, 15 Sep 2026 22:20:07 +0000
-
-<p>$300 million in new ultrapure water, wastewater, and zero liquid discharge contracts mark continued commercial momentum in the chips layer of the AI economy.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah/">Gradiant Wins New Water Contracts for Major US Semiconductor Fabs in New York, Virginia, Idaho, and Utah</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
