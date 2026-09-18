@@ -1,16 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-17 23:36 UTC_
+_Last updated: 2026-09-18 13:38 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
 ---
 
-## [JETRO, Purdue University Expand Japan-U.S. Advanced Technology Collaboration](https://www.eetasia.com/jetro-purdue-university-expand-japan-u-s-advanced-technology-collaboration/)
-**Published:** Wed, 16 Sep 2026 03:29:47 +0000
+## [Designing Automotive Systems That Hold Up Under Pressure](https://www.semiconductor-digest.com/designing-automotive-systems-that-hold-up-under-pressure/?utm_source=rss&utm_medium=rss&utm_campaign=designing-automotive-systems-that-hold-up-under-pressure)
+**Published:** Fri, 18 Sep 2026 11:40:00 +0000
 
-<p>JETRO and Purdue University have signed an MOU to expand collaboration across semiconductors, quantum technologies, AI, advanced manufacturing and life sciences.</p>
-<p>The post <a href="https://www.eetasia.com/jetro-purdue-university-expand-japan-u-s-advanced-technology-collaboration/">JETRO, Purdue University Expand Japan-U.S. Advanced Technology Collaboration</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Shawn Luke of DigiKey, drawing on a conversation with Molex's Kirk Ulery, walks through how components validated for automotive reliability standards end up solving problems in commercial and industrial equipment that must survive similarly harsh environments.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/designing-automotive-systems-that-hold-up-under-pressure/">Designing Automotive Systems That Hold Up Under Pressure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
