@@ -1,8 +1,32 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-18 17:47 UTC_
+_Last updated: 2026-09-18 20:41 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [GlobalFoundries and Marvell Expand Collaboration for Next-Generation Optical Connectivity](https://www.semiconductor-digest.com/globalfoundries-and-marvell-expand-collaboration-for-next-generation-optical-connectivity/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-marvell-expand-collaboration-for-next-generation-optical-connectivity)
+**Published:** Fri, 18 Sep 2026 17:53:43 +0000
+
+<p>Multi-year strategic agreement increases capacity for high-performance SiGe technology to support growing AI infrastructure demand.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-marvell-expand-collaboration-for-next-generation-optical-connectivity/">GlobalFoundries and Marvell Expand Collaboration for Next-Generation Optical Connectivity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Dnotitia Brings Dedicated Vector Silicon to Server Scale at AI Infra Summit 2026](https://www.semiconductor-digest.com/dnotitia-brings-dedicated-vector-silicon-to-server-scale-at-ai-infra-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=dnotitia-brings-dedicated-vector-silicon-to-server-scale-at-ai-infra-summit-2026)
+**Published:** Fri, 18 Sep 2026 17:51:20 +0000
+
+<p>Dnotitia Inc. (Dnotitia), an AI data infrastructure and semiconductor company, today announced that the first ASIC samples of its Vector Data Processing Unit (VDPU) have returned from fabrication, with chip-level characterization now underway.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/dnotitia-brings-dedicated-vector-silicon-to-server-scale-at-ai-infra-summit-2026/">Dnotitia Brings Dedicated Vector Silicon to Server Scale at AI Infra Summit 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SiC Lateral High Voltage Bi-Directional Field Effect Transistor](https://www.semiconductor-digest.com/sic-lateral-high-voltage-bi-directional-field-effect-transistor/?utm_source=rss&utm_medium=rss&utm_campaign=sic-lateral-high-voltage-bi-directional-field-effect-transistor)
+**Published:** Fri, 18 Sep 2026 17:32:56 +0000
+
+<p>This technology is a compact silicon carbide transistor that can conduct and block high voltages in both directions, improving efficiency and integration in power electronics for applications like inverters and converters.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sic-lateral-high-voltage-bi-directional-field-effect-transistor/">SiC Lateral High Voltage Bi-Directional Field Effect Transistor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-09-18 17:47 UTC_
 
 <p>Multiple Solstice S8 orders key to production ramp for InP photonics manufacturing, supporting next-generation optical interconnects for AI data centers.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/classone-technology-secures-multi-system-follow-on-orders-from-top-photonics-manufacturers-for-high-volume-6-inch-inp-gold-plating/">ClassOne Technology Secures Multi-System Follow-on Orders from Top Photonics Manufacturers for High-Volume 6-inch InP Gold Plating</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Arteris Accelerates Industry Transition to Multi-Die Chiplet-Based Architecture](https://www.semiconductor-digest.com/arteris-accelerates-industry-transition-to-multi-die-chiplet-based-architecture/?utm_source=rss&utm_medium=rss&utm_campaign=arteris-accelerates-industry-transition-to-multi-die-chiplet-based-architecture)
-**Published:** Wed, 16 Sep 2026 19:18:37 +0000
-
-<p>Expanded solution includes new FlexGen Multi-Die product to address the challenge of efficient data movement for an industry that is shifting to multi-die architectures, while preserving quality of service and architectural flexibility across chip boundaries. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/arteris-accelerates-industry-transition-to-multi-die-chiplet-based-architecture/">Arteris Accelerates Industry Transition to Multi-Die Chiplet-Based Architecture</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Micron Advances Memory Innovation With the World’s First Ultra-Dense Module for Next-Generation Servers](https://www.semiconductor-digest.com/micron-advances-memory-innovation-with-the-worlds-first-ultra-dense-module-for-next-generation-servers/?utm_source=rss&utm_medium=rss&utm_campaign=micron-advances-memory-innovation-with-the-worlds-first-ultra-dense-module-for-next-generation-servers)
-**Published:** Wed, 16 Sep 2026 19:13:53 +0000
-
-<p>Micron Technology, Inc. today announced a major milestone in memory innovation with the successful demonstration of the world's first 512GB DDR5 module on multiple server platforms.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-advances-memory-innovation-with-the-worlds-first-ultra-dense-module-for-next-generation-servers/">Micron Advances Memory Innovation With the World&#8217;s First Ultra-Dense Module for Next-Generation Servers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Why Semiconductor Materials Innovation Requires Fab-Aware AI](https://www.semiconductor-digest.com/why-semiconductor-materials-innovation-requires-fab-aware-ai/?utm_source=rss&utm_medium=rss&utm_campaign=why-semiconductor-materials-innovation-requires-fab-aware-ai)
-**Published:** Wed, 16 Sep 2026 14:20:05 +0000
-
-<p>Most of the industry's AI conversation focuses on chip design, supply chains, and data center demand, but Shalini Sharma of SandboxAQ argues the more foundational bottleneck sits upstream, in materials innovation itself.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/why-semiconductor-materials-innovation-requires-fab-aware-ai/">Why Semiconductor Materials Innovation Requires Fab-Aware AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
