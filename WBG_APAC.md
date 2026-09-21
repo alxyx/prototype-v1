@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-21 03:48 UTC_
+_Last updated: 2026-09-21 09:52 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [UVJC to Debut NovaJet Dry Thin-Film Deposition System at WESEMiBAY](https://www.eetasia.com/uvjc-to-debut-novajet-dry-thin-film-deposition-system-at-wesemibay/)
+**Published:** Mon, 21 Sep 2026 05:00:01 +0000
+
+<p>UVJC will showcase NovaJet, a maskless dry deposition system, as semiconductor manufacturing moves toward more flexible processing.</p>
+<p>The post <a href="https://www.eetasia.com/uvjc-to-debut-novajet-dry-thin-film-deposition-system-at-wesemibay/">UVJC to Debut NovaJet Dry Thin-Film Deposition System at WESEMiBAY</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-09-21 03:48 UTC_
 
 <p>Micron Technology, Inc. (Nasdaq: MU) today announced the appointment of Deirdre Hanford as corporate vice president and president of Micron Research Labs, the company’s flagship long-horizon research institution.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/micron-appoints-deirdre-hanford-to-lead-micron-research-labs/">Micron Appoints Deirdre Hanford to Lead Micron Research Labs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ClassOne Technology Secures Multi-System Follow-on Orders from Top Photonics Manufacturers for High-Volume 6-inch InP Gold Plating](https://www.semiconductor-digest.com/classone-technology-secures-multi-system-follow-on-orders-from-top-photonics-manufacturers-for-high-volume-6-inch-inp-gold-plating/?utm_source=rss&utm_medium=rss&utm_campaign=classone-technology-secures-multi-system-follow-on-orders-from-top-photonics-manufacturers-for-high-volume-6-inch-inp-gold-plating)
-**Published:** Wed, 16 Sep 2026 19:21:11 +0000
-
-<p>Multiple Solstice S8 orders key to production ramp for InP photonics manufacturing, supporting next-generation optical interconnects for AI data centers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/classone-technology-secures-multi-system-follow-on-orders-from-top-photonics-manufacturers-for-high-volume-6-inch-inp-gold-plating/">ClassOne Technology Secures Multi-System Follow-on Orders from Top Photonics Manufacturers for High-Volume 6-inch InP Gold Plating</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
