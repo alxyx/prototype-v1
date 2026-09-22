@@ -1,16 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-21 21:01 UTC_
+_Last updated: 2026-09-22 09:17 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
 ---
 
-## [UVJC to Debut NovaJet Dry Thin-Film Deposition System at WESEMiBAY](https://www.eetasia.com/uvjc-to-debut-novajet-dry-thin-film-deposition-system-at-wesemibay/)
-**Published:** Mon, 21 Sep 2026 05:00:01 +0000
+## [SEIPI Highlights Semiconductor Industry Role in Luzon Economic Corridor](https://www.eetasia.com/seipi-highlights-semiconductor-industry-role-in-luzon-economic-corridor/)
+**Published:** Tue, 22 Sep 2026 03:46:16 +0000
 
-<p>UVJC will showcase NovaJet, a maskless dry deposition system, as semiconductor manufacturing moves toward more flexible processing.</p>
-<p>The post <a href="https://www.eetasia.com/uvjc-to-debut-novajet-dry-thin-film-deposition-system-at-wesemibay/">UVJC to Debut NovaJet Dry Thin-Film Deposition System at WESEMiBAY</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>SEIPI says improved infrastructure, energy reliability, and connectivity can support higher-value semiconductor manufacturing across Luzon's economic corridor.</p>
+<p>The post <a href="https://www.eetasia.com/seipi-highlights-semiconductor-industry-role-in-luzon-economic-corridor/">SEIPI Highlights Semiconductor Industry Role in Luzon Economic Corridor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [TacnIQ.ai Secures $1.5M to Advance Tactile AI for Physical Machines](https://www.eetasia.com/tacniq-ai-secures-1-5m-to-advance-tactile-ai-for-physical-machines/)
+**Published:** Tue, 22 Sep 2026 03:37:35 +0000
+
+<p>TacnIQ.ai has raised $1.5 million from In Group Holdings to develop tactile AI models and expand commercial deployments across physical industries.</p>
+<p>The post <a href="https://www.eetasia.com/tacniq-ai-secures-1-5m-to-advance-tactile-ai-for-physical-machines/">TacnIQ.ai Secures $1.5M to Advance Tactile AI for Physical Machines</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-09-21 21:01 UTC_
 
 <p>Shawn Luke of DigiKey, drawing on a conversation with Molex's Kirk Ulery, walks through how components validated for automotive reliability standards end up solving problems in commercial and industrial equipment that must survive similarly harsh environments.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/designing-automotive-systems-that-hold-up-under-pressure/">Designing Automotive Systems That Hold Up Under Pressure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nordson Test & Inspection to Unveil Revolutionary SonoFlex Acoustic Inspection System at SEMICON West 2026](https://www.semiconductor-digest.com/nordson-test-inspection-to-unveil-revolutionary-sonoflex-acoustic-inspection-system-at-semicon-west-2026/?utm_source=rss&utm_medium=rss&utm_campaign=nordson-test-inspection-to-unveil-revolutionary-sonoflex-acoustic-inspection-system-at-semicon-west-2026)
-**Published:** Thu, 17 Sep 2026 21:49:44 +0000
-
-<p>Nordson Test &#038; Inspection will showcase its comprehensive portfolio of industry-leading optical, X-ray, acoustic inspection, and metrology technologies powered by the Nordson Intelligence Ecosystem at SEMICON West 2026, October 13–15, in Booth 5844 at the Moscone Center in San Francisco, California.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nordson-test-inspection-to-unveil-revolutionary-sonoflex-acoustic-inspection-system-at-semicon-west-2026/">Nordson Test &#038; Inspection to Unveil Revolutionary SonoFlex Acoustic Inspection System at SEMICON West 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
