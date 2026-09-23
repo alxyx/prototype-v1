@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-23 00:15 UTC_
+_Last updated: 2026-09-23 15:32 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Besxar Tests Space Vacuum for In-Space GaN Wafer Manufacturing](https://www.eetasia.com/besxar-tests-space-vacuum-for-in-space-gan-wafer-manufacturing/)
+**Published:** Wed, 23 Sep 2026 02:41:22 +0000
+
+<p>Besxar's first space mission tests vacuum-enabled wafer processing, laying groundwork for autonomous compound semiconductor manufacturing.</p>
+<p>The post <a href="https://www.eetasia.com/besxar-tests-space-vacuum-for-in-space-gan-wafer-manufacturing/">Besxar Tests Space Vacuum for In-Space GaN Wafer Manufacturing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-09-23 00:15 UTC_
 
 <p>Magnachip Semiconductor Corporation, a designer and manufacturer of analog and mixed-signal power semiconductor platform solutions, today announced that Navitas Semiconductor Corporation has agreed to make a $5 million strategic equity investment in Magnachip.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/magnachip-announces-strategic-investment-by-navitas-semiconductor/">Magnachip Announces Strategic Investment by Navitas Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Marvell to Showcase Industry-First 2nm Optical Technology Demos for AI Data Center Infrastructure](https://www.semiconductor-digest.com/marvell-to-showcase-industry-first-2nm-optical-technology-demos-for-ai-data-center-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=marvell-to-showcase-industry-first-2nm-optical-technology-demos-for-ai-data-center-infrastructure)
-**Published:** Mon, 21 Sep 2026 16:47:27 +0000
-
-<p>Marvell Technology, Inc. today announced industry-first 2nm optical interconnect demonstrations that advance the next generation of AI data center connectivity.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/marvell-to-showcase-industry-first-2nm-optical-technology-demos-for-ai-data-center-infrastructure/">Marvell to Showcase Industry-First 2nm Optical Technology Demos for AI Data Center Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
