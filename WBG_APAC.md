@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-22 22:02 UTC_
+_Last updated: 2026-09-23 00:15 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,38 @@ _Last updated: 2026-09-22 22:02 UTC_
 
 <p>TacnIQ.ai has raised $1.5 million from In Group Holdings to develop tactile AI models and expand commercial deployments across physical industries.</p>
 <p>The post <a href="https://www.eetasia.com/tacniq-ai-secures-1-5m-to-advance-tactile-ai-for-physical-machines/">TacnIQ.ai Secures $1.5M to Advance Tactile AI for Physical Machines</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Nexstrom Raises $12M Seed Round to Commercialize the First 12-Inch Single-Crystal 2D Semiconductor Platform](https://www.semiconductor-digest.com/nexstrom-raises-12m-seed-round-to-commercialize-the-first-12-inch-single-crystal-2d-semiconductor-platform/?utm_source=rss&utm_medium=rss&utm_campaign=nexstrom-raises-12m-seed-round-to-commercialize-the-first-12-inch-single-crystal-2d-semiconductor-platform)
+**Published:** Tue, 22 Sep 2026 22:10:13 +0000
+
+<p>Nexstrom, the semiconductor company building the first wafer-scale platform for 2D semiconductor materials, today announced it has raised a $12 million seed round led by Xora Innovation, with participation from Foothill Ventures and SEEDS.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nexstrom-raises-12m-seed-round-to-commercialize-the-first-12-inch-single-crystal-2d-semiconductor-platform/">Nexstrom Raises $12M Seed Round to Commercialize the First 12-Inch Single-Crystal 2D Semiconductor Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ASM Launches Breakthrough Flowable Carbon Technology for the Next Era of Semiconductor Scaling](https://www.semiconductor-digest.com/asm-launches-breakthrough-flowable-carbon-technology-for-the-next-era-of-semiconductor-scaling/?utm_source=rss&utm_medium=rss&utm_campaign=asm-launches-breakthrough-flowable-carbon-technology-for-the-next-era-of-semiconductor-scaling)
+**Published:** Tue, 22 Sep 2026 22:07:28 +0000
+
+<p>ASM, a materials discovery company and global leader in semiconductor wafer processing equipment, building on its leadership in atomic layer deposition and epitaxy, launches its XP8 Vertos Flowable Carbon, the market's first plasma-enhanced chemical vapor deposition (PECVD) flowable carbon film.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/asm-launches-breakthrough-flowable-carbon-technology-for-the-next-era-of-semiconductor-scaling/">ASM Launches Breakthrough Flowable Carbon Technology for the Next Era of Semiconductor Scaling</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Cadence Expands ChipStack AI Super Agent with a New Agent for RTL Generation and Early PPA Optimization](https://www.semiconductor-digest.com/cadence-expands-chipstack-ai-super-agent-with-a-new-agent-for-rtl-generation-and-early-ppa-optimization/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-expands-chipstack-ai-super-agent-with-a-new-agent-for-rtl-generation-and-early-ppa-optimization)
+**Published:** Tue, 22 Sep 2026 22:05:38 +0000
+
+<p>New AI agent leverages core EDA technologies to both create RTL from specifications and upgrade RTL with signoff‑grade quality and performance, validated in early trials with Honda.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cadence-expands-chipstack-ai-super-agent-with-a-new-agent-for-rtl-generation-and-early-ppa-optimization/">Cadence Expands ChipStack AI Super Agent with a New Agent for RTL Generation and Early PPA Optimization</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Apple Executive Chair Tim Cook to Receive Semiconductor Industry’s Top Honor](https://www.semiconductor-digest.com/apple-executive-chair-tim-cook-to-receive-semiconductor-industrys-top-honor/?utm_source=rss&utm_medium=rss&utm_campaign=apple-executive-chair-tim-cook-to-receive-semiconductor-industrys-top-honor)
+**Published:** Tue, 22 Sep 2026 22:02:41 +0000
+
+<p>Cook to accept 2026 Robert N. Noyce Award at SIA Awards Dinner on Nov. 19.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/apple-executive-chair-tim-cook-to-receive-semiconductor-industrys-top-honor/">Apple Executive Chair Tim Cook to Receive Semiconductor Industry’s Top Honor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -51,38 +83,6 @@ _Last updated: 2026-09-22 22:02 UTC_
 
 <p>Marvell Technology, Inc. today announced industry-first 2nm optical interconnect demonstrations that advance the next generation of AI data center connectivity.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/marvell-to-showcase-industry-first-2nm-optical-technology-demos-for-ai-data-center-infrastructure/">Marvell to Showcase Industry-First 2nm Optical Technology Demos for AI Data Center Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries and Marvell Expand Collaboration for Next-Generation Optical Connectivity](https://www.semiconductor-digest.com/globalfoundries-and-marvell-expand-collaboration-for-next-generation-optical-connectivity/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-marvell-expand-collaboration-for-next-generation-optical-connectivity)
-**Published:** Fri, 18 Sep 2026 17:53:43 +0000
-
-<p>Multi-year strategic agreement increases capacity for high-performance SiGe technology to support growing AI infrastructure demand.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-and-marvell-expand-collaboration-for-next-generation-optical-connectivity/">GlobalFoundries and Marvell Expand Collaboration for Next-Generation Optical Connectivity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Dnotitia Brings Dedicated Vector Silicon to Server Scale at AI Infra Summit 2026](https://www.semiconductor-digest.com/dnotitia-brings-dedicated-vector-silicon-to-server-scale-at-ai-infra-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=dnotitia-brings-dedicated-vector-silicon-to-server-scale-at-ai-infra-summit-2026)
-**Published:** Fri, 18 Sep 2026 17:51:20 +0000
-
-<p>Dnotitia Inc. (Dnotitia), an AI data infrastructure and semiconductor company, today announced that the first ASIC samples of its Vector Data Processing Unit (VDPU) have returned from fabrication, with chip-level characterization now underway.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/dnotitia-brings-dedicated-vector-silicon-to-server-scale-at-ai-infra-summit-2026/">Dnotitia Brings Dedicated Vector Silicon to Server Scale at AI Infra Summit 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SiC Lateral High Voltage Bi-Directional Field Effect Transistor](https://www.semiconductor-digest.com/sic-lateral-high-voltage-bi-directional-field-effect-transistor/?utm_source=rss&utm_medium=rss&utm_campaign=sic-lateral-high-voltage-bi-directional-field-effect-transistor)
-**Published:** Fri, 18 Sep 2026 17:32:56 +0000
-
-<p>This technology is a compact silicon carbide transistor that can conduct and block high voltages in both directions, improving efficiency and integration in power electronics for applications like inverters and converters.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sic-lateral-high-voltage-bi-directional-field-effect-transistor/">SiC Lateral High Voltage Bi-Directional Field Effect Transistor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Designing Automotive Systems That Hold Up Under Pressure](https://www.semiconductor-digest.com/designing-automotive-systems-that-hold-up-under-pressure/?utm_source=rss&utm_medium=rss&utm_campaign=designing-automotive-systems-that-hold-up-under-pressure)
-**Published:** Fri, 18 Sep 2026 11:40:00 +0000
-
-<p>Shawn Luke of DigiKey, drawing on a conversation with Molex's Kirk Ulery, walks through how components validated for automotive reliability standards end up solving problems in commercial and industrial equipment that must survive similarly harsh environments.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/designing-automotive-systems-that-hold-up-under-pressure/">Designing Automotive Systems That Hold Up Under Pressure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
