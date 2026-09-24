@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-23 15:32 UTC_
+_Last updated: 2026-09-24 01:23 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Nexstrom Raises $12M to Scale 12in Single-crystal 2D Semiconductor Platform](https://www.eetasia.com/nexstrom-raises-12m-to-scale-12in-single-crystal-2d-semiconductor-platform/)
+**Published:** Wed, 23 Sep 2026 23:45:59 +0000
+
+<p>Singapore-based Nexstrom will use new funding to scale wafer-level 2D material growth for advanced semiconductor manufacturing.</p>
+<p>The post <a href="https://www.eetasia.com/nexstrom-raises-12m-to-scale-12in-single-crystal-2d-semiconductor-platform/">Nexstrom Raises $12M to Scale 12in Single-crystal 2D Semiconductor Platform</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [PATEO, Arm Partner on Physical AI for Intelligent Vehicles](https://www.eetasia.com/pateo-arm-partner-on-physical-ai-for-intelligent-vehicles/)
+**Published:** Wed, 23 Sep 2026 23:05:05 +0000
+
+<p>PATEO and Arm will explore automotive physical AI workloads spanning perception, interaction, and intelligent vehicle control.</p>
+<p>The post <a href="https://www.eetasia.com/pateo-arm-partner-on-physical-ai-for-intelligent-vehicles/">PATEO, Arm Partner on Physical AI for Intelligent Vehicles</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -22,11 +38,35 @@ _Last updated: 2026-09-23 15:32 UTC_
 
 ---
 
-## [TacnIQ.ai Secures $1.5M to Advance Tactile AI for Physical Machines](https://www.eetasia.com/tacniq-ai-secures-1-5m-to-advance-tactile-ai-for-physical-machines/)
-**Published:** Tue, 22 Sep 2026 03:37:35 +0000
+## [Valens Semiconductor to Collaborate with onsemi](https://www.semiconductor-digest.com/valens-semiconductor-to-collaborate-with-onsemi/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-to-collaborate-with-onsemi)
+**Published:** Wed, 23 Sep 2026 19:23:46 +0000
 
-<p>TacnIQ.ai has raised $1.5 million from In Group Holdings to develop tactile AI models and expand commercial deployments across physical industries.</p>
-<p>The post <a href="https://www.eetasia.com/tacniq-ai-secures-1-5m-to-advance-tactile-ai-for-physical-machines/">TacnIQ.ai Secures $1.5M to Advance Tactile AI for Physical Machines</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Valens Semiconductor, a provider of high-performance connectivity chipsets, today announced a collaboration with onsemi on a cost-optimized integrated sensor for high-volume 3-megapixel automotive camera applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-to-collaborate-with-onsemi/">Valens Semiconductor to Collaborate with onsemi</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Hammond Power Solutions Increases North American Manufacturing Capacity](https://www.semiconductor-digest.com/hammond-power-solutions-increases-north-american-manufacturing-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=hammond-power-solutions-increases-north-american-manufacturing-capacity)
+**Published:** Wed, 23 Sep 2026 19:22:35 +0000
+
+<p>New facility expected to expand capacity by approximately CAD $250 million annually, with potential for approximately CAD $400 million upon full site build-out.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hammond-power-solutions-increases-north-american-manufacturing-capacity/">Hammond Power Solutions Increases North American Manufacturing Capacity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [IC-Link by imec Expands Collaboration With TSMC](https://www.semiconductor-digest.com/ic-link-by-imec-expands-collaboration-with-tsmc/?utm_source=rss&utm_medium=rss&utm_campaign=ic-link-by-imec-expands-collaboration-with-tsmc)
+**Published:** Wed, 23 Sep 2026 19:19:48 +0000
+
+<p>IC-Link by imec, imec’s design and manufacturing service provider for ASICs and silicon photonics, and TSMC today announced an expansion of their collaboration aimed at simplifying customer access to advanced-node semiconductor design capabilities.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ic-link-by-imec-expands-collaboration-with-tsmc/">IC-Link by imec Expands Collaboration With TSMC</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Cognex Launches New Wafer Reader to Help Semiconductor Manufacturers Scale Production](https://www.semiconductor-digest.com/cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production/?utm_source=rss&utm_medium=rss&utm_campaign=cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production)
+**Published:** Wed, 23 Sep 2026 19:17:34 +0000
+
+<p>Cognex Corporation today announced the launch of the In-Sight 1750 Series, a next-generation wafer and panel identification system designed to help semiconductor manufacturers reduce disruptions, improve traceability, and maintain throughput.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production/">Cognex Launches New Wafer Reader to Help Semiconductor Manufacturers Scale Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -43,46 +83,6 @@ _Last updated: 2026-09-23 15:32 UTC_
 
 <p>ASM, a materials discovery company and global leader in semiconductor wafer processing equipment, building on its leadership in atomic layer deposition and epitaxy, launches its XP8 Vertos Flowable Carbon, the market's first plasma-enhanced chemical vapor deposition (PECVD) flowable carbon film.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/asm-launches-breakthrough-flowable-carbon-technology-for-the-next-era-of-semiconductor-scaling/">ASM Launches Breakthrough Flowable Carbon Technology for the Next Era of Semiconductor Scaling</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Cadence Expands ChipStack AI Super Agent with a New Agent for RTL Generation and Early PPA Optimization](https://www.semiconductor-digest.com/cadence-expands-chipstack-ai-super-agent-with-a-new-agent-for-rtl-generation-and-early-ppa-optimization/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-expands-chipstack-ai-super-agent-with-a-new-agent-for-rtl-generation-and-early-ppa-optimization)
-**Published:** Tue, 22 Sep 2026 22:05:38 +0000
-
-<p>New AI agent leverages core EDA technologies to both create RTL from specifications and upgrade RTL with signoff‑grade quality and performance, validated in early trials with Honda.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cadence-expands-chipstack-ai-super-agent-with-a-new-agent-for-rtl-generation-and-early-ppa-optimization/">Cadence Expands ChipStack AI Super Agent with a New Agent for RTL Generation and Early PPA Optimization</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Apple Executive Chair Tim Cook to Receive Semiconductor Industry’s Top Honor](https://www.semiconductor-digest.com/apple-executive-chair-tim-cook-to-receive-semiconductor-industrys-top-honor/?utm_source=rss&utm_medium=rss&utm_campaign=apple-executive-chair-tim-cook-to-receive-semiconductor-industrys-top-honor)
-**Published:** Tue, 22 Sep 2026 22:02:41 +0000
-
-<p>Cook to accept 2026 Robert N. Noyce Award at SIA Awards Dinner on Nov. 19.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/apple-executive-chair-tim-cook-to-receive-semiconductor-industrys-top-honor/">Apple Executive Chair Tim Cook to Receive Semiconductor Industry’s Top Honor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Taming Heat at the Nanoscale to Satiate Energy-Hungry Artificial Intelligence](https://www.semiconductor-digest.com/taming-heat-at-the-nanoscale-to-satiate-energy-hungry-artificial-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=taming-heat-at-the-nanoscale-to-satiate-energy-hungry-artificial-intelligence)
-**Published:** Mon, 21 Sep 2026 17:15:55 +0000
-
-<p>Prof. Tae Geun Kim at Korea University and his co-workers have dismantled a long-standing technological barrier by learning how to sculpt heat within a nanometer-thin sandwich of materials.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/taming-heat-at-the-nanoscale-to-satiate-energy-hungry-artificial-intelligence/">Taming Heat at the Nanoscale to Satiate Energy-Hungry Artificial Intelligence</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Teradyne Introduces Iris 100: Production-Proven Test System for MicroLED Devices](https://www.semiconductor-digest.com/teradyne-introduces-iris-100-production-proven-test-system-for-microled-devices/?utm_source=rss&utm_medium=rss&utm_campaign=teradyne-introduces-iris-100-production-proven-test-system-for-microled-devices)
-**Published:** Mon, 21 Sep 2026 17:05:32 +0000
-
-<p>Teradyne, Inc., a provider of automated test equipment and advanced robotics, today announced Iris 100, a production-ready optical test platform for microLED devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/teradyne-introduces-iris-100-production-proven-test-system-for-microled-devices/">Teradyne Introduces Iris 100: Production-Proven Test System for MicroLED Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Magnachip Announces Strategic Investment by Navitas Semiconductor](https://www.semiconductor-digest.com/magnachip-announces-strategic-investment-by-navitas-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=magnachip-announces-strategic-investment-by-navitas-semiconductor)
-**Published:** Mon, 21 Sep 2026 16:54:49 +0000
-
-<p>Magnachip Semiconductor Corporation, a designer and manufacturer of analog and mixed-signal power semiconductor platform solutions, today announced that Navitas Semiconductor Corporation has agreed to make a $5 million strategic equity investment in Magnachip.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/magnachip-announces-strategic-investment-by-navitas-semiconductor/">Magnachip Announces Strategic Investment by Navitas Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
