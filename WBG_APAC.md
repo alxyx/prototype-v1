@@ -1,6 +1,6 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-24 13:29 UTC_
+_Last updated: 2026-09-24 22:13 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -38,51 +38,51 @@ _Last updated: 2026-09-24 13:29 UTC_
 
 ---
 
+## [Broadband Distributed Amplifier for Data Centers, Measurement Systems and Sensors](https://www.semiconductor-digest.com/broadband-distributed-amplifier-for-data-centers-measurement-systems-and-sensors/?utm_source=rss&utm_medium=rss&utm_campaign=broadband-distributed-amplifier-for-data-centers-measurement-systems-and-sensors)
+**Published:** Thu, 24 Sep 2026 21:26:33 +0000
+
+<p>Researchers at the Fraunhofer Institute for Applied Solid State Physics IAF have developed a monolithic microwave integrated circuit (MMIC) with outstanding performance for modern data centers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/broadband-distributed-amplifier-for-data-centers-measurement-systems-and-sensors/">Broadband Distributed Amplifier for Data Centers, Measurement Systems and Sensors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ACCM Expands US Manufacturing Capacity Across Four Advanced Materials Segments for AI Infrastructure](https://www.semiconductor-digest.com/accm-expands-us-manufacturing-capacity-across-four-advanced-materials-segments-for-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=accm-expands-us-manufacturing-capacity-across-four-advanced-materials-segments-for-ai-infrastructure)
+**Published:** Thu, 24 Sep 2026 21:23:49 +0000
+
+<p>ACCM's Wisconsin facility will bring online laminate capacity of 20 million square feet per year in January 2027, with build-up and prepreg capacity of 87 million square feet per year online in November 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/accm-expands-us-manufacturing-capacity-across-four-advanced-materials-segments-for-ai-infrastructure/">ACCM Expands US Manufacturing Capacity Across Four Advanced Materials Segments for AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [EdgeCortix Unveils RAIDEN, a Scalable, Energy-Efficient AI Chiplet Platform Purpose-Built for Physical AI](https://www.semiconductor-digest.com/edgecortix-unveils-raiden-a-scalable-energy-efficient-ai-chiplet-platform-purpose-built-for-physical-ai/?utm_source=rss&utm_medium=rss&utm_campaign=edgecortix-unveils-raiden-a-scalable-energy-efficient-ai-chiplet-platform-purpose-built-for-physical-ai)
+**Published:** Thu, 24 Sep 2026 21:21:10 +0000
+
+<p>One energy-efficient architecture scales from a single die to the four-die RAIDEN-X4 flagship, combining configurable power with up to 3.36 PFLOPS of FP4 AI Compute, 256 GB of memory, 1.54 TB/s die-to-die bandwidth, and up to 6.4 Tb/s chip-to-chip scale-out - with customer design wins already secured.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/edgecortix-unveils-raiden-a-scalable-energy-efficient-ai-chiplet-platform-purpose-built-for-physical-ai/">EdgeCortix Unveils RAIDEN, a Scalable, Energy-Efficient AI Chiplet Platform Purpose-Built for Physical AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design](https://www.semiconductor-digest.com/synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design)
+**Published:** Thu, 24 Sep 2026 21:03:52 +0000
+
+<p>Synopsys has announced new innovations with TSMC that accelerate the development of next-generation AI, high-performance computing (HPC), and advanced semiconductor systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/">Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Cadence Expands TSMC Partnership for AI and HPC Chip Design](https://www.semiconductor-digest.com/cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design)
+**Published:** Thu, 24 Sep 2026 20:54:20 +0000
+
+<p>Expanded partnership spans TSMC A14 certification, silicon-proven IP on TSMC N3P/N2P, wafer-scale 3D-IC for hundreds of chiplets, and agentic AI flows.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design/">Cadence Expands TSMC Partnership for AI and HPC Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Valens Semiconductor to Collaborate with onsemi](https://www.semiconductor-digest.com/valens-semiconductor-to-collaborate-with-onsemi/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-to-collaborate-with-onsemi)
 **Published:** Wed, 23 Sep 2026 19:23:46 +0000
 
 <p>Valens Semiconductor, a provider of high-performance connectivity chipsets, today announced a collaboration with onsemi on a cost-optimized integrated sensor for high-volume 3-megapixel automotive camera applications.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-to-collaborate-with-onsemi/">Valens Semiconductor to Collaborate with onsemi</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Hammond Power Solutions Increases North American Manufacturing Capacity](https://www.semiconductor-digest.com/hammond-power-solutions-increases-north-american-manufacturing-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=hammond-power-solutions-increases-north-american-manufacturing-capacity)
-**Published:** Wed, 23 Sep 2026 19:22:35 +0000
-
-<p>New facility expected to expand capacity by approximately CAD $250 million annually, with potential for approximately CAD $400 million upon full site build-out.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hammond-power-solutions-increases-north-american-manufacturing-capacity/">Hammond Power Solutions Increases North American Manufacturing Capacity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [IC-Link by imec Expands Collaboration With TSMC](https://www.semiconductor-digest.com/ic-link-by-imec-expands-collaboration-with-tsmc/?utm_source=rss&utm_medium=rss&utm_campaign=ic-link-by-imec-expands-collaboration-with-tsmc)
-**Published:** Wed, 23 Sep 2026 19:19:48 +0000
-
-<p>IC-Link by imec, imec’s design and manufacturing service provider for ASICs and silicon photonics, and TSMC today announced an expansion of their collaboration aimed at simplifying customer access to advanced-node semiconductor design capabilities.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ic-link-by-imec-expands-collaboration-with-tsmc/">IC-Link by imec Expands Collaboration With TSMC</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Cognex Launches New Wafer Reader to Help Semiconductor Manufacturers Scale Production](https://www.semiconductor-digest.com/cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production/?utm_source=rss&utm_medium=rss&utm_campaign=cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production)
-**Published:** Wed, 23 Sep 2026 19:17:34 +0000
-
-<p>Cognex Corporation today announced the launch of the In-Sight 1750 Series, a next-generation wafer and panel identification system designed to help semiconductor manufacturers reduce disruptions, improve traceability, and maintain throughput.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cognex-launches-new-wafer-reader-to-help-semiconductor-manufacturers-scale-production/">Cognex Launches New Wafer Reader to Help Semiconductor Manufacturers Scale Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nexstrom Raises $12M Seed Round to Commercialize the First 12-Inch Single-Crystal 2D Semiconductor Platform](https://www.semiconductor-digest.com/nexstrom-raises-12m-seed-round-to-commercialize-the-first-12-inch-single-crystal-2d-semiconductor-platform/?utm_source=rss&utm_medium=rss&utm_campaign=nexstrom-raises-12m-seed-round-to-commercialize-the-first-12-inch-single-crystal-2d-semiconductor-platform)
-**Published:** Tue, 22 Sep 2026 22:10:13 +0000
-
-<p>Nexstrom, the semiconductor company building the first wafer-scale platform for 2D semiconductor materials, today announced it has raised a $12 million seed round led by Xora Innovation, with participation from Foothill Ventures and SEEDS.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nexstrom-raises-12m-seed-round-to-commercialize-the-first-12-inch-single-crystal-2d-semiconductor-platform/">Nexstrom Raises $12M Seed Round to Commercialize the First 12-Inch Single-Crystal 2D Semiconductor Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ASM Launches Breakthrough Flowable Carbon Technology for the Next Era of Semiconductor Scaling](https://www.semiconductor-digest.com/asm-launches-breakthrough-flowable-carbon-technology-for-the-next-era-of-semiconductor-scaling/?utm_source=rss&utm_medium=rss&utm_campaign=asm-launches-breakthrough-flowable-carbon-technology-for-the-next-era-of-semiconductor-scaling)
-**Published:** Tue, 22 Sep 2026 22:07:28 +0000
-
-<p>ASM, a materials discovery company and global leader in semiconductor wafer processing equipment, building on its leadership in atomic layer deposition and epitaxy, launches its XP8 Vertos Flowable Carbon, the market's first plasma-enhanced chemical vapor deposition (PECVD) flowable carbon film.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/asm-launches-breakthrough-flowable-carbon-technology-for-the-next-era-of-semiconductor-scaling/">ASM Launches Breakthrough Flowable Carbon Technology for the Next Era of Semiconductor Scaling</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
