@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-25 00:42 UTC_
+_Last updated: 2026-09-25 20:30 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [SSIA, BOM Partner to Expand Singapore-Netherlands Semiconductor Links](https://www.eetasia.com/ssia-bom-partner-to-expand-singapore-netherlands-semiconductor-links/)
+**Published:** Fri, 25 Sep 2026 10:19:32 +0000
+
+<p>SSIA and BOM will connect semiconductor companies to strengthen supply chains and expand technology partnerships.</p>
+<p>The post <a href="https://www.eetasia.com/ssia-bom-partner-to-expand-singapore-netherlands-semiconductor-links/">SSIA, BOM Partner to Expand Singapore-Netherlands Semiconductor Links</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -30,11 +38,27 @@ _Last updated: 2026-09-25 00:42 UTC_
 
 ---
 
-## [Besxar Tests Space Vacuum for In-Space GaN Wafer Manufacturing](https://www.eetasia.com/besxar-tests-space-vacuum-for-in-space-gan-wafer-manufacturing/)
-**Published:** Wed, 23 Sep 2026 02:41:22 +0000
+## [TRUMPF Enables Integrated Chip Cooling for the Next Generation of AI Chips](https://www.semiconductor-digest.com/trumpf-enables-integrated-chip-cooling-for-the-next-generation-of-ai-chips/?utm_source=rss&utm_medium=rss&utm_campaign=trumpf-enables-integrated-chip-cooling-for-the-next-generation-of-ai-chips)
+**Published:** Fri, 25 Sep 2026 20:12:32 +0000
 
-<p>Besxar's first space mission tests vacuum-enabled wafer processing, laying groundwork for autonomous compound semiconductor manufacturing.</p>
-<p>The post <a href="https://www.eetasia.com/besxar-tests-space-vacuum-for-in-space-gan-wafer-manufacturing/">Besxar Tests Space Vacuum for In-Space GaN Wafer Manufacturing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>The next generation of high-performance AI chips requires new cooling solutions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/trumpf-enables-integrated-chip-cooling-for-the-next-generation-of-ai-chips/">TRUMPF Enables Integrated Chip Cooling for the Next Generation of AI Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Shanghai Chengwei Semiconductor Equipment Launches High Precision Laboratory Central Gas Supply System](https://www.semiconductor-digest.com/shanghai-chengwei-semiconductor-equipment-launches-high-precision-laboratory-central-gas-supply-system/?utm_source=rss&utm_medium=rss&utm_campaign=shanghai-chengwei-semiconductor-equipment-launches-high-precision-laboratory-central-gas-supply-system)
+**Published:** Fri, 25 Sep 2026 20:02:33 +0000
+
+<p>Shanghai Chengwei Semiconductor Equipment Co., Ltd. has officially announced the launch of its latest laboratory central gas supply system.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/shanghai-chengwei-semiconductor-equipment-launches-high-precision-laboratory-central-gas-supply-system/">Shanghai Chengwei Semiconductor Equipment Launches High Precision Laboratory Central Gas Supply System</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Singapore Announces SG Semiconductor](https://www.semiconductor-digest.com/singapore-announces-sg-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-announces-sg-semiconductor)
+**Published:** Fri, 25 Sep 2026 19:35:05 +0000
+
+<p>Singapore unveils SG Semiconductor, a national identity for its semiconductor sector, to raise global visibility and connect companies with its ecosystem and talent.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/singapore-announces-sg-semiconductor/">Singapore Announces SG Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-09-25 00:42 UTC_
 
 <p>One energy-efficient architecture scales from a single die to the four-die RAIDEN-X4 flagship, combining configurable power with up to 3.36 PFLOPS of FP4 AI Compute, 256 GB of memory, 1.54 TB/s die-to-die bandwidth, and up to 6.4 Tb/s chip-to-chip scale-out - with customer design wins already secured.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/edgecortix-unveils-raiden-a-scalable-energy-efficient-ai-chiplet-platform-purpose-built-for-physical-ai/">EdgeCortix Unveils RAIDEN, a Scalable, Energy-Efficient AI Chiplet Platform Purpose-Built for Physical AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design](https://www.semiconductor-digest.com/synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design)
-**Published:** Thu, 24 Sep 2026 21:03:52 +0000
-
-<p>Synopsys has announced new innovations with TSMC that accelerate the development of next-generation AI, high-performance computing (HPC), and advanced semiconductor systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/">Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Cadence Expands TSMC Partnership for AI and HPC Chip Design](https://www.semiconductor-digest.com/cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design)
-**Published:** Thu, 24 Sep 2026 20:54:20 +0000
-
-<p>Expanded partnership spans TSMC A14 certification, silicon-proven IP on TSMC N3P/N2P, wafer-scale 3D-IC for hundreds of chiplets, and agentic AI flows.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cadence-expands-tsmc-partnership-for-ai-and-hpc-chip-design/">Cadence Expands TSMC Partnership for AI and HPC Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Valens Semiconductor to Collaborate with onsemi](https://www.semiconductor-digest.com/valens-semiconductor-to-collaborate-with-onsemi/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-to-collaborate-with-onsemi)
-**Published:** Wed, 23 Sep 2026 19:23:46 +0000
-
-<p>Valens Semiconductor, a provider of high-performance connectivity chipsets, today announced a collaboration with onsemi on a cost-optimized integrated sensor for high-volume 3-megapixel automotive camera applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-to-collaborate-with-onsemi/">Valens Semiconductor to Collaborate with onsemi</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
