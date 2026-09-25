@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-24 22:13 UTC_
+_Last updated: 2026-09-25 00:42 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Singapore Expands Semiconductor Talent Pipeline from Primary Schools to Regional Universities](https://www.eetasia.com/singapore-expands-semiconductor-talent-pipeline-from-primary-schools-to-regional-universities/)
+**Published:** Thu, 24 Sep 2026 23:39:28 +0000
+
+<p>Singapore semiconductor sector expands early education, industry exposure and regional exchanges to develop future technical talent across Asia.</p>
+<p>The post <a href="https://www.eetasia.com/singapore-expands-semiconductor-talent-pipeline-from-primary-schools-to-regional-universities/">Singapore Expands Semiconductor Talent Pipeline from Primary Schools to Regional Universities</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -27,14 +35,6 @@ _Last updated: 2026-09-24 22:13 UTC_
 
 <p>Besxar's first space mission tests vacuum-enabled wafer processing, laying groundwork for autonomous compound semiconductor manufacturing.</p>
 <p>The post <a href="https://www.eetasia.com/besxar-tests-space-vacuum-for-in-space-gan-wafer-manufacturing/">Besxar Tests Space Vacuum for In-Space GaN Wafer Manufacturing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SEIPI Highlights Semiconductor Industry Role in Luzon Economic Corridor](https://www.eetasia.com/seipi-highlights-semiconductor-industry-role-in-luzon-economic-corridor/)
-**Published:** Tue, 22 Sep 2026 03:46:16 +0000
-
-<p>SEIPI says improved infrastructure, energy reliability, and connectivity can support higher-value semiconductor manufacturing across Luzon's economic corridor.</p>
-<p>The post <a href="https://www.eetasia.com/seipi-highlights-semiconductor-industry-role-in-luzon-economic-corridor/">SEIPI Highlights Semiconductor Industry Role in Luzon Economic Corridor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
