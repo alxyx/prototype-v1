@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-09-25 20:30 UTC_
+_Last updated: 2026-09-26 00:05 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -35,6 +35,14 @@ _Last updated: 2026-09-25 20:30 UTC_
 
 <p>PATEO and Arm will explore automotive physical AI workloads spanning perception, interaction, and intelligent vehicle control.</p>
 <p>The post <a href="https://www.eetasia.com/pateo-arm-partner-on-physical-ai-for-intelligent-vehicles/">PATEO, Arm Partner on Physical AI for Intelligent Vehicles</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [HANMI Semiconductor Ships First ‘FC Bonder 75’ for AI System Semiconductors](https://www.semiconductor-digest.com/hanmi-semiconductor-ships-first-fc-bonder-75-for-ai-system-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-ships-first-fc-bonder-75-for-ai-system-semiconductors)
+**Published:** Fri, 25 Sep 2026 20:17:13 +0000
+
+<p>HANMI Semiconductor today announced that it has shipped the first “FC Bonder 75” to a customer. Designed for 2.5D AI semiconductor packaging, the new system marks the company’s expansion beyond High Bandwidth Memory (HBM) into system semiconductor packaging.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hanmi-semiconductor-ships-first-fc-bonder-75-for-ai-system-semiconductors/">HANMI Semiconductor Ships First &#8216;FC Bonder 75&#8217; for AI System Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-09-25 20:30 UTC_
 
 <p>ACCM's Wisconsin facility will bring online laminate capacity of 20 million square feet per year in January 2027, with build-up and prepreg capacity of 87 million square feet per year online in November 2026.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/accm-expands-us-manufacturing-capacity-across-four-advanced-materials-segments-for-ai-infrastructure/">ACCM Expands US Manufacturing Capacity Across Four Advanced Materials Segments for AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [EdgeCortix Unveils RAIDEN, a Scalable, Energy-Efficient AI Chiplet Platform Purpose-Built for Physical AI](https://www.semiconductor-digest.com/edgecortix-unveils-raiden-a-scalable-energy-efficient-ai-chiplet-platform-purpose-built-for-physical-ai/?utm_source=rss&utm_medium=rss&utm_campaign=edgecortix-unveils-raiden-a-scalable-energy-efficient-ai-chiplet-platform-purpose-built-for-physical-ai)
-**Published:** Thu, 24 Sep 2026 21:21:10 +0000
-
-<p>One energy-efficient architecture scales from a single die to the four-die RAIDEN-X4 flagship, combining configurable power with up to 3.36 PFLOPS of FP4 AI Compute, 256 GB of memory, 1.54 TB/s die-to-die bandwidth, and up to 6.4 Tb/s chip-to-chip scale-out - with customer design wins already secured.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/edgecortix-unveils-raiden-a-scalable-energy-efficient-ai-chiplet-platform-purpose-built-for-physical-ai/">EdgeCortix Unveils RAIDEN, a Scalable, Energy-Efficient AI Chiplet Platform Purpose-Built for Physical AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
