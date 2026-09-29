@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-09-28 18:42 UTC_
+_Last updated: 2026-09-29 04:45 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Wolfspeed Expands 200mm SiC Substrate Portfolio with Premium Material](https://www.eetasia.com/wolfspeed-expands-200mm-sic-substrate-portfolio-with-premium-material/)
+**Published:** Tue, 29 Sep 2026 01:48:02 +0000
+
+<p>Wolfspeed expands its 200mm SiC portfolio with premium substrates targeting lower defects, higher yields and consistency.</p>
+<p>The post <a href="https://www.eetasia.com/wolfspeed-expands-200mm-sic-substrate-portfolio-with-premium-material/">Wolfspeed Expands 200mm SiC Substrate Portfolio with Premium Material</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Singapore Launches SG Semiconductor to Strengthen Chip Ecosystem](https://www.eetasia.com/singapore-launches-sg-semiconductor-to-strengthen-chip-ecosystem/)
+**Published:** Mon, 28 Sep 2026 23:38:35 +0000
+
+<p>SG Semiconductor links R&#38;D and manufacturing in Singapore's chip ecosystem.</p>
+<p>The post <a href="https://www.eetasia.com/singapore-launches-sg-semiconductor-to-strengthen-chip-ecosystem/">Singapore Launches SG Semiconductor to Strengthen Chip Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -30,11 +46,35 @@ _Last updated: 2026-09-28 18:42 UTC_
 
 ---
 
-## [PATEO, Arm Partner on Physical AI for Intelligent Vehicles](https://www.eetasia.com/pateo-arm-partner-on-physical-ai-for-intelligent-vehicles/)
-**Published:** Wed, 23 Sep 2026 23:05:05 +0000
+## [Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform](https://www.semiconductor-digest.com/synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform)
+**Published:** Mon, 28 Sep 2026 21:58:09 +0000
 
-<p>PATEO and Arm will explore automotive physical AI workloads spanning perception, interaction, and intelligent vehicle control.</p>
-<p>The post <a href="https://www.eetasia.com/pateo-arm-partner-on-physical-ai-for-intelligent-vehicles/">PATEO, Arm Partner on Physical AI for Intelligent Vehicles</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Synopsys, Inc. today announced Synopsys AgentEngineer solutions, the industry's broadest portfolio of domain-specific long-horizon agents that can reason, plan, and execute complete engineering workflows from silicon to systems across verification, system validation, implementation, analog, manufacturing, and simulation and analysis domains.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform/">Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Fraunhofer RISC-V Secure Element Accelerates Secure Chip Development After Successful Silicon Validation](https://www.semiconductor-digest.com/fraunhofer-risc-v-secure-element-accelerates-secure-chip-development-after-successful-silicon-validation/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-risc-v-secure-element-accelerates-secure-chip-development-after-successful-silicon-validation)
+**Published:** Mon, 28 Sep 2026 21:51:03 +0000
+
+<p>The Fraunhofer RISC-V Secure Element is now available as a licensable security platform for custom systems-on-chip (SoCs), application-specific integrated circuits (ASICs), and chiplets.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/fraunhofer-risc-v-secure-element-accelerates-secure-chip-development-after-successful-silicon-validation/">Fraunhofer RISC-V Secure Element Accelerates Secure Chip Development After Successful Silicon Validation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [VSMC Celebrates the Grand Opening of Its First 300mm Fab in Singapore](https://www.semiconductor-digest.com/vsmc-celebrates-the-grand-opening-of-its-first-300mm-fab-in-singapore/?utm_source=rss&utm_medium=rss&utm_campaign=vsmc-celebrates-the-grand-opening-of-its-first-300mm-fab-in-singapore)
+**Published:** Mon, 28 Sep 2026 21:48:35 +0000
+
+<p>Strengthens global semiconductor supply chain resilience; monthly capacity expected to reach 44,000 12-inch wafers by 2029.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/vsmc-celebrates-the-grand-opening-of-its-first-300mm-fab-in-singapore/">VSMC Celebrates the Grand Opening of Its First 300mm Fab in Singapore</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [U.S. Government Selects Navitas to Develop Next-Generation 10 kV SiC Power Semiconductors](https://www.semiconductor-digest.com/u-s-government-selects-navitas-to-develop-next-generation-10-kv-sic-power-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-government-selects-navitas-to-develop-next-generation-10-kv-sic-power-semiconductors)
+**Published:** Mon, 28 Sep 2026 21:43:36 +0000
+
+<p>Award recognizes Navitas' leadership in ultra-high-voltage (UHV) SiC technology and resilient U.S.-anchored manufacturing supply chain.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/u-s-government-selects-navitas-to-develop-next-generation-10-kv-sic-power-semiconductors/">U.S. Government Selects Navitas to Develop Next-Generation 10 kV SiC Power Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -43,46 +83,6 @@ _Last updated: 2026-09-28 18:42 UTC_
 
 <p>HANMI Semiconductor today announced that it has shipped the first “FC Bonder 75” to a customer. Designed for 2.5D AI semiconductor packaging, the new system marks the company’s expansion beyond High Bandwidth Memory (HBM) into system semiconductor packaging.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/hanmi-semiconductor-ships-first-fc-bonder-75-for-ai-system-semiconductors/">HANMI Semiconductor Ships First &#8216;FC Bonder 75&#8217; for AI System Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TRUMPF Enables Integrated Chip Cooling for the Next Generation of AI Chips](https://www.semiconductor-digest.com/trumpf-enables-integrated-chip-cooling-for-the-next-generation-of-ai-chips/?utm_source=rss&utm_medium=rss&utm_campaign=trumpf-enables-integrated-chip-cooling-for-the-next-generation-of-ai-chips)
-**Published:** Fri, 25 Sep 2026 20:12:32 +0000
-
-<p>The next generation of high-performance AI chips requires new cooling solutions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/trumpf-enables-integrated-chip-cooling-for-the-next-generation-of-ai-chips/">TRUMPF Enables Integrated Chip Cooling for the Next Generation of AI Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Shanghai Chengwei Semiconductor Equipment Launches High Precision Laboratory Central Gas Supply System](https://www.semiconductor-digest.com/shanghai-chengwei-semiconductor-equipment-launches-high-precision-laboratory-central-gas-supply-system/?utm_source=rss&utm_medium=rss&utm_campaign=shanghai-chengwei-semiconductor-equipment-launches-high-precision-laboratory-central-gas-supply-system)
-**Published:** Fri, 25 Sep 2026 20:02:33 +0000
-
-<p>Shanghai Chengwei Semiconductor Equipment Co., Ltd. has officially announced the launch of its latest laboratory central gas supply system.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/shanghai-chengwei-semiconductor-equipment-launches-high-precision-laboratory-central-gas-supply-system/">Shanghai Chengwei Semiconductor Equipment Launches High Precision Laboratory Central Gas Supply System</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Singapore Announces SG Semiconductor](https://www.semiconductor-digest.com/singapore-announces-sg-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-announces-sg-semiconductor)
-**Published:** Fri, 25 Sep 2026 19:35:05 +0000
-
-<p>Singapore unveils SG Semiconductor, a national identity for its semiconductor sector, to raise global visibility and connect companies with its ecosystem and talent.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/singapore-announces-sg-semiconductor/">Singapore Announces SG Semiconductor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Broadband Distributed Amplifier for Data Centers, Measurement Systems and Sensors](https://www.semiconductor-digest.com/broadband-distributed-amplifier-for-data-centers-measurement-systems-and-sensors/?utm_source=rss&utm_medium=rss&utm_campaign=broadband-distributed-amplifier-for-data-centers-measurement-systems-and-sensors)
-**Published:** Thu, 24 Sep 2026 21:26:33 +0000
-
-<p>Researchers at the Fraunhofer Institute for Applied Solid State Physics IAF have developed a monolithic microwave integrated circuit (MMIC) with outstanding performance for modern data centers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/broadband-distributed-amplifier-for-data-centers-measurement-systems-and-sensors/">Broadband Distributed Amplifier for Data Centers, Measurement Systems and Sensors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ACCM Expands US Manufacturing Capacity Across Four Advanced Materials Segments for AI Infrastructure](https://www.semiconductor-digest.com/accm-expands-us-manufacturing-capacity-across-four-advanced-materials-segments-for-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=accm-expands-us-manufacturing-capacity-across-four-advanced-materials-segments-for-ai-infrastructure)
-**Published:** Thu, 24 Sep 2026 21:23:49 +0000
-
-<p>ACCM's Wisconsin facility will bring online laminate capacity of 20 million square feet per year in January 2027, with build-up and prepreg capacity of 87 million square feet per year online in November 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/accm-expands-us-manufacturing-capacity-across-four-advanced-materials-segments-for-ai-infrastructure/">ACCM Expands US Manufacturing Capacity Across Four Advanced Materials Segments for AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
