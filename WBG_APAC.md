@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-09-29 22:09 UTC_
+_Last updated: 2026-09-30 01:21 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [PATEO, Arm Expand Collaboration on Physical AI for Vehicles](https://www.eetasia.com/pateo-arm-expand-collaboration-on-physical-ai-for-vehicles/)
+**Published:** Tue, 29 Sep 2026 23:34:11 +0000
+
+<p>PATEO and Arm will explore automotive physical AI applications spanning perception, interaction, computing and intelligent vehicle workloads.</p>
+<p>The post <a href="https://www.eetasia.com/pateo-arm-expand-collaboration-on-physical-ai-for-vehicles/">PATEO, Arm Expand Collaboration on Physical AI for Vehicles</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -27,22 +35,6 @@ _Last updated: 2026-09-29 22:09 UTC_
 
 <p>SSIA and BOM will connect semiconductor companies to strengthen supply chains and expand technology partnerships.</p>
 <p>The post <a href="https://www.eetasia.com/ssia-bom-partner-to-expand-singapore-netherlands-semiconductor-links/">SSIA, BOM Partner to Expand Singapore-Netherlands Semiconductor Links</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Singapore Expands Semiconductor Talent Pipeline from Primary Schools to Regional Universities](https://www.eetasia.com/singapore-expands-semiconductor-talent-pipeline-from-primary-schools-to-regional-universities/)
-**Published:** Thu, 24 Sep 2026 23:39:28 +0000
-
-<p>Singapore semiconductor sector expands early education, industry exposure and regional exchanges to develop future technical talent across Asia.</p>
-<p>The post <a href="https://www.eetasia.com/singapore-expands-semiconductor-talent-pipeline-from-primary-schools-to-regional-universities/">Singapore Expands Semiconductor Talent Pipeline from Primary Schools to Regional Universities</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Nexstrom Raises $12M to Scale 12in Single-crystal 2D Semiconductor Platform](https://www.eetasia.com/nexstrom-raises-12m-to-scale-12in-single-crystal-2d-semiconductor-platform/)
-**Published:** Wed, 23 Sep 2026 23:45:59 +0000
-
-<p>Singapore-based Nexstrom will use new funding to scale wafer-level 2D material growth for advanced semiconductor manufacturing.</p>
-<p>The post <a href="https://www.eetasia.com/nexstrom-raises-12m-to-scale-12in-single-crystal-2d-semiconductor-platform/">Nexstrom Raises $12M to Scale 12in Single-crystal 2D Semiconductor Platform</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-09-29 22:09 UTC_
 
 <p>MoU will connect APECS pilot line innovation with the guidelines, standards, training and digital tools needed for industry adoption.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/global-electronics-association-and-fraunhofer-group-for-microelectronics-sign-mou-to-support-advanced-packaging-industrial-adoption/">Global Electronics Association and Fraunhofer Group for Microelectronics Sign MoU to Support Advanced Packaging Industrial Adoption</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform](https://www.semiconductor-digest.com/synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform)
+**Published:** Mon, 28 Sep 2026 21:58:09 +0000
+
+<p>Synopsys, Inc. today announced Synopsys AgentEngineer solutions, the industry's broadest portfolio of domain-specific long-horizon agents that can reason, plan, and execute complete engineering workflows from silicon to systems across verification, system validation, implementation, analog, manufacturing, and simulation and analysis domains.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform/">Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
