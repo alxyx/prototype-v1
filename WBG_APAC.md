@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-09-30 01:21 UTC_
+_Last updated: 2026-09-30 08:30 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification](https://www.eetasia.com/architect-labs-targets-two-week-chip-design-cycle-with-ai-driven-verification/)
+**Published:** Wed, 30 Sep 2026 02:38:20 +0000
+
+<p>Startup combines AI-based design and verification with internal tools to accelerate complex ASIC development from concept to silicon.</p>
+<p>The post <a href="https://www.eetasia.com/architect-labs-targets-two-week-chip-design-cycle-with-ai-driven-verification/">Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -19,22 +27,6 @@ _Last updated: 2026-09-30 01:21 UTC_
 
 <p>Wolfspeed expands its 200mm SiC portfolio with premium substrates targeting lower defects, higher yields and consistency.</p>
 <p>The post <a href="https://www.eetasia.com/wolfspeed-expands-200mm-sic-substrate-portfolio-with-premium-material/">Wolfspeed Expands 200mm SiC Substrate Portfolio with Premium Material</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Singapore Launches SG Semiconductor to Strengthen Chip Ecosystem](https://www.eetasia.com/singapore-launches-sg-semiconductor-to-strengthen-chip-ecosystem/)
-**Published:** Mon, 28 Sep 2026 23:38:35 +0000
-
-<p>SG Semiconductor links R&#38;D and manufacturing in Singapore's chip ecosystem.</p>
-<p>The post <a href="https://www.eetasia.com/singapore-launches-sg-semiconductor-to-strengthen-chip-ecosystem/">Singapore Launches SG Semiconductor to Strengthen Chip Ecosystem</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SSIA, BOM Partner to Expand Singapore-Netherlands Semiconductor Links](https://www.eetasia.com/ssia-bom-partner-to-expand-singapore-netherlands-semiconductor-links/)
-**Published:** Fri, 25 Sep 2026 10:19:32 +0000
-
-<p>SSIA and BOM will connect semiconductor companies to strengthen supply chains and expand technology partnerships.</p>
-<p>The post <a href="https://www.eetasia.com/ssia-bom-partner-to-expand-singapore-netherlands-semiconductor-links/">SSIA, BOM Partner to Expand Singapore-Netherlands Semiconductor Links</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-09-30 01:21 UTC_
 
 <p>Synopsys, Inc. today announced Synopsys AgentEngineer solutions, the industry's broadest portfolio of domain-specific long-horizon agents that can reason, plan, and execute complete engineering workflows from silicon to systems across verification, system validation, implementation, analog, manufacturing, and simulation and analysis domains.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform/">Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Fraunhofer RISC-V Secure Element Accelerates Secure Chip Development After Successful Silicon Validation](https://www.semiconductor-digest.com/fraunhofer-risc-v-secure-element-accelerates-secure-chip-development-after-successful-silicon-validation/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-risc-v-secure-element-accelerates-secure-chip-development-after-successful-silicon-validation)
+**Published:** Mon, 28 Sep 2026 21:51:03 +0000
+
+<p>The Fraunhofer RISC-V Secure Element is now available as a licensable security platform for custom systems-on-chip (SoCs), application-specific integrated circuits (ASICs), and chiplets.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/fraunhofer-risc-v-secure-element-accelerates-secure-chip-development-after-successful-silicon-validation/">Fraunhofer RISC-V Secure Element Accelerates Secure Chip Development After Successful Silicon Validation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
