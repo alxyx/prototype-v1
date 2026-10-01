@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-09-30 15:54 UTC_
+_Last updated: 2026-10-01 00:36 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -30,6 +30,46 @@ _Last updated: 2026-09-30 15:54 UTC_
 
 ---
 
+## [OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://www.semiconductor-digest.com/openai-and-synopsys-announce-gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=openai-and-synopsys-announce-gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design)
+**Published:** Wed, 30 Sep 2026 20:04:46 +0000
+
+<p>Synopsys and OpenAI today announced a strategic partnership that brings together OpenAI's advanced AI capabilities with Synopsys' industry-leading EDA tools and agentic AI capabilities to revolutionize the design of semiconductors.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/openai-and-synopsys-announce-gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design/">OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Advancing Quantum Computing with Zinc Oxide Quantum Dots](https://www.semiconductor-digest.com/advancing-quantum-computing-with-zinc-oxide-quantum-dots/?utm_source=rss&utm_medium=rss&utm_campaign=advancing-quantum-computing-with-zinc-oxide-quantum-dots)
+**Published:** Wed, 30 Sep 2026 19:59:54 +0000
+
+<p>A collaborative group of researchers have demonstrated key measurement technologies for developing spin qubits in zinc oxide quantum dots.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/advancing-quantum-computing-with-zinc-oxide-quantum-dots/">Advancing Quantum Computing with Zinc Oxide Quantum Dots</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [LG Innotek Accelerates Corporate Transformation Driven by Semiconductor Substrates and Physical AI](https://www.semiconductor-digest.com/lg-innotek-accelerates-corporate-transformation-driven-by-semiconductor-substrates-and-physical-ai/?utm_source=rss&utm_medium=rss&utm_campaign=lg-innotek-accelerates-corporate-transformation-driven-by-semiconductor-substrates-and-physical-ai)
+**Published:** Wed, 30 Sep 2026 19:52:32 +0000
+
+<p>LG Innotek is demonstrating tangible results from the transformation of its business portfolio, delivering a remarkable performance rebound in the first half of the year—traditionally an off-peak season for the company.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lg-innotek-accelerates-corporate-transformation-driven-by-semiconductor-substrates-and-physical-ai/">LG Innotek Accelerates Corporate Transformation Driven by Semiconductor Substrates and Physical AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Air Liquide Invests Over 170 Million Euros to Support a Semiconductor Leader Expanding Manufacturing Capabilities in Japan](https://www.semiconductor-digest.com/air-liquide-invests-over-170-million-euros-to-support-a-semiconductor-leader-expanding-manufacturing-capabilities-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=air-liquide-invests-over-170-million-euros-to-support-a-semiconductor-leader-expanding-manufacturing-capabilities-in-japan)
+**Published:** Wed, 30 Sep 2026 19:40:15 +0000
+
+<p>Air Liquide announces a new investment of more than 170 million euros to supply ultra-high purity gases to a leading semiconductor manufacturer in Japan.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/air-liquide-invests-over-170-million-euros-to-support-a-semiconductor-leader-expanding-manufacturing-capabilities-in-japan/">Air Liquide Invests Over 170 Million Euros to Support a Semiconductor Leader Expanding Manufacturing Capabilities in Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Gigaphoton Develops Gas Recycling System for ArF Excimer Lasers](https://www.semiconductor-digest.com/gigaphoton-develops-gas-recycling-system-for-arf-excimer-lasers/?utm_source=rss&utm_medium=rss&utm_campaign=gigaphoton-develops-gas-recycling-system-for-arf-excimer-lasers)
+**Published:** Wed, 30 Sep 2026 18:35:43 +0000
+
+<p>Achieves a 50% neon gas recycling rate and contributes to a stable supply through gas reduction technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/gigaphoton-develops-gas-recycling-system-for-arf-excimer-lasers/">Gigaphoton Develops Gas Recycling System for ArF Excimer Lasers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Lam’s New Logistics Hub Built for Velocity, Resilience, and AI-Era Growth](https://www.semiconductor-digest.com/lams-new-logistics-hub-built-for-velocity-resilience-and-ai-era-growth/?utm_source=rss&utm_medium=rss&utm_campaign=lams-new-logistics-hub-built-for-velocity-resilience-and-ai-era-growth)
 **Published:** Tue, 29 Sep 2026 17:11:02 +0000
 
@@ -43,46 +83,6 @@ _Last updated: 2026-09-30 15:54 UTC_
 
 <p>New research from Omdia’s latest Public Displays Market Tracker reveals that global public display and signage TV shipments surpassed 1.73 million units in 2Q26, up from 1.61 million units in the previous quarter.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/omdia-ifp-touch-displays-lead-growth-as-global-public-display-market-surpasses-1-73m-in-2q26/">Omdia: IFP/Touch Displays Lead Growth as Global Public Display Market Surpasses $1.73M in 2Q26</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Gigaphoton Begins Evaluation of L300KZ Excimer Laser for Pulsed Laser Deposition  ﻿for Advanced Materials Applications](https://www.semiconductor-digest.com/gigaphoton-begins-evaluation-of-l300kz-excimer-laser-for-pulsed-laser-deposition-for-advanced-materials-applications/?utm_source=rss&utm_medium=rss&utm_campaign=gigaphoton-begins-evaluation-of-l300kz-excimer-laser-for-pulsed-laser-deposition-for-advanced-materials-applications)
-**Published:** Tue, 29 Sep 2026 16:42:23 +0000
-
-<p>Laser evaluation accelerates establishment of mass-production technology for high-temperature superconducting wire, a key technology supporting the realization of fusion energy, ﻿under Japan’s Moonshot Research and Development Program.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/gigaphoton-begins-evaluation-of-l300kz-excimer-laser-for-pulsed-laser-deposition-for-advanced-materials-applications/">Gigaphoton Begins Evaluation of L300KZ Excimer Laser for Pulsed Laser Deposition  ﻿for Advanced Materials Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Research Institute to Drive Semiconductor Innovation](https://www.semiconductor-digest.com/research-institute-to-drive-semiconductor-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=research-institute-to-drive-semiconductor-innovation)
-**Published:** Tue, 29 Sep 2026 16:31:19 +0000
-
-<p>The Arkansas Research Institute for Electronics Systems (ARIES) will develop, produce and deploy next-generation power electronics and semiconductors.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/research-institute-to-drive-semiconductor-innovation/">Research Institute to Drive Semiconductor Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Global Electronics Association and Fraunhofer Group for Microelectronics Sign MoU to Support Advanced Packaging Industrial Adoption](https://www.semiconductor-digest.com/global-electronics-association-and-fraunhofer-group-for-microelectronics-sign-mou-to-support-advanced-packaging-industrial-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=global-electronics-association-and-fraunhofer-group-for-microelectronics-sign-mou-to-support-advanced-packaging-industrial-adoption)
-**Published:** Tue, 29 Sep 2026 16:17:19 +0000
-
-<p>MoU will connect APECS pilot line innovation with the guidelines, standards, training and digital tools needed for industry adoption.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-electronics-association-and-fraunhofer-group-for-microelectronics-sign-mou-to-support-advanced-packaging-industrial-adoption/">Global Electronics Association and Fraunhofer Group for Microelectronics Sign MoU to Support Advanced Packaging Industrial Adoption</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform](https://www.semiconductor-digest.com/synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform)
-**Published:** Mon, 28 Sep 2026 21:58:09 +0000
-
-<p>Synopsys, Inc. today announced Synopsys AgentEngineer solutions, the industry's broadest portfolio of domain-specific long-horizon agents that can reason, plan, and execute complete engineering workflows from silicon to systems across verification, system validation, implementation, analog, manufacturing, and simulation and analysis domains.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/synopsys-powers-autonomous-engineering-with-a-broad-portfolio-of-long-horizon-agents-and-autopilot-platform/">Synopsys Powers Autonomous Engineering with a Broad Portfolio of Long-Horizon Agents and Autopilot Platform</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Fraunhofer RISC-V Secure Element Accelerates Secure Chip Development After Successful Silicon Validation](https://www.semiconductor-digest.com/fraunhofer-risc-v-secure-element-accelerates-secure-chip-development-after-successful-silicon-validation/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-risc-v-secure-element-accelerates-secure-chip-development-after-successful-silicon-validation)
-**Published:** Mon, 28 Sep 2026 21:51:03 +0000
-
-<p>The Fraunhofer RISC-V Secure Element is now available as a licensable security platform for custom systems-on-chip (SoCs), application-specific integrated circuits (ASICs), and chiplets.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/fraunhofer-risc-v-secure-element-accelerates-secure-chip-development-after-successful-silicon-validation/">Fraunhofer RISC-V Secure Element Accelerates Secure Chip Development After Successful Silicon Validation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
