@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-01 07:10 UTC_
+_Last updated: 2026-10-01 20:22 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -30,6 +30,38 @@ _Last updated: 2026-10-01 07:10 UTC_
 
 ---
 
+## [SignatureIP Unveils IP Library for Chiplet-based AI, HPC and Data Center Systems at AI Infra Summit 2026](https://www.semiconductor-digest.com/signatureip-unveils-ip-library-for-chiplet-based-ai-hpc-and-data-center-systems-at-ai-infra-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=signatureip-unveils-ip-library-for-chiplet-based-ai-hpc-and-data-center-systems-at-ai-infra-summit-2026)
+**Published:** Thu, 01 Oct 2026 18:13:41 +0000
+
+<p>SignatureIP today announced the general availability of a comprehensive library of Interconnect, Interface and System-on-Chip (SoC) Subsystem IP purpose-built for chiplet-based systems targeting artificial intelligence, high-performance computing (HPC) and data center applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/signatureip-unveils-ip-library-for-chiplet-based-ai-hpc-and-data-center-systems-at-ai-infra-summit-2026/">SignatureIP Unveils IP Library for Chiplet-based AI, HPC and Data Center Systems at AI Infra Summit 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SEMIFIVE, Mobilint Partner on LPDDR6/UCIe Robotics AI Chip](https://www.semiconductor-digest.com/semifive-mobilint-partner-on-lpddr6-ucie-robotics-ai-chip/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-mobilint-partner-on-lpddr6-ucie-robotics-ai-chip)
+**Published:** Thu, 01 Oct 2026 18:04:45 +0000
+
+<p>SEMIFIVE, a global provider of custom AI semiconductor (ASIC) solutions, announced today that it has signed a turnkey development contract with Mobilint, a South Korean AI semiconductor company, to develop an AI chip for robotics applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semifive-mobilint-partner-on-lpddr6-ucie-robotics-ai-chip/">SEMIFIVE, Mobilint Partner on LPDDR6/UCIe Robotics AI Chip</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Infineon Opens Scalable Semiconductor Backend Manufacturing Hub in Thailand](https://www.semiconductor-digest.com/infineon-opens-scalable-semiconductor-backend-manufacturing-hub-in-thailand/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-opens-scalable-semiconductor-backend-manufacturing-hub-in-thailand)
+**Published:** Thu, 01 Oct 2026 18:00:06 +0000
+
+<p>Infineon Technologies AG officially inaugurated its new backend manufacturing site in Bangkok, Samut Prakan, together with Anutin Charnvirakul, Prime Minister of Thailand and Alexander Gorski, Chief Operations Officer of Infineon Technologies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/infineon-opens-scalable-semiconductor-backend-manufacturing-hub-in-thailand/">Infineon Opens Scalable Semiconductor Backend Manufacturing Hub in Thailand</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Applied Materials, Besi Expand Advanced Packaging Partnership for AI Scaling](https://www.semiconductor-digest.com/applied-materials-besi-expand-advanced-packaging-partnership-for-ai-scaling/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-besi-expand-advanced-packaging-partnership-for-ai-scaling)
+**Published:** Thu, 01 Oct 2026 17:57:40 +0000
+
+<p>Besi joins Applied's EPIC Center as an Innovation Partner, extending a collaboration that began in 2020 with the companies' joint Hybrid Bonding Center of Excellence in Singapore.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-besi-expand-advanced-packaging-partnership-for-ai-scaling/">Applied Materials, Besi Expand Advanced Packaging Partnership for AI Scaling</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://www.semiconductor-digest.com/openai-and-synopsys-announce-gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=openai-and-synopsys-announce-gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design)
 **Published:** Wed, 30 Sep 2026 20:04:46 +0000
 
@@ -51,38 +83,6 @@ _Last updated: 2026-10-01 07:10 UTC_
 
 <p>LG Innotek is demonstrating tangible results from the transformation of its business portfolio, delivering a remarkable performance rebound in the first half of the year—traditionally an off-peak season for the company.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/lg-innotek-accelerates-corporate-transformation-driven-by-semiconductor-substrates-and-physical-ai/">LG Innotek Accelerates Corporate Transformation Driven by Semiconductor Substrates and Physical AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Air Liquide Invests Over 170 Million Euros to Support a Semiconductor Leader Expanding Manufacturing Capabilities in Japan](https://www.semiconductor-digest.com/air-liquide-invests-over-170-million-euros-to-support-a-semiconductor-leader-expanding-manufacturing-capabilities-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=air-liquide-invests-over-170-million-euros-to-support-a-semiconductor-leader-expanding-manufacturing-capabilities-in-japan)
-**Published:** Wed, 30 Sep 2026 19:40:15 +0000
-
-<p>Air Liquide announces a new investment of more than 170 million euros to supply ultra-high purity gases to a leading semiconductor manufacturer in Japan.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/air-liquide-invests-over-170-million-euros-to-support-a-semiconductor-leader-expanding-manufacturing-capabilities-in-japan/">Air Liquide Invests Over 170 Million Euros to Support a Semiconductor Leader Expanding Manufacturing Capabilities in Japan</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Gigaphoton Develops Gas Recycling System for ArF Excimer Lasers](https://www.semiconductor-digest.com/gigaphoton-develops-gas-recycling-system-for-arf-excimer-lasers/?utm_source=rss&utm_medium=rss&utm_campaign=gigaphoton-develops-gas-recycling-system-for-arf-excimer-lasers)
-**Published:** Wed, 30 Sep 2026 18:35:43 +0000
-
-<p>Achieves a 50% neon gas recycling rate and contributes to a stable supply through gas reduction technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/gigaphoton-develops-gas-recycling-system-for-arf-excimer-lasers/">Gigaphoton Develops Gas Recycling System for ArF Excimer Lasers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lam’s New Logistics Hub Built for Velocity, Resilience, and AI-Era Growth](https://www.semiconductor-digest.com/lams-new-logistics-hub-built-for-velocity-resilience-and-ai-era-growth/?utm_source=rss&utm_medium=rss&utm_campaign=lams-new-logistics-hub-built-for-velocity-resilience-and-ai-era-growth)
-**Published:** Tue, 29 Sep 2026 17:11:02 +0000
-
-<p>Lam Research has opened its largest U.S. warehouse, a 470,000-square-foot logistics hub designed to strengthen the semiconductor supply chain and support demand for AI-enabled technologies.  </p>
-<p>The post <a href="https://www.semiconductor-digest.com/lams-new-logistics-hub-built-for-velocity-resilience-and-ai-era-growth/">Lam’s New Logistics Hub Built for Velocity, Resilience, and AI-Era Growth</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Omdia: IFP/Touch Displays Lead Growth as Global Public Display Market Surpasses $1.73M in 2Q26](https://www.semiconductor-digest.com/omdia-ifp-touch-displays-lead-growth-as-global-public-display-market-surpasses-1-73m-in-2q26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-ifp-touch-displays-lead-growth-as-global-public-display-market-surpasses-1-73m-in-2q26)
-**Published:** Tue, 29 Sep 2026 16:48:45 +0000
-
-<p>New research from Omdia’s latest Public Displays Market Tracker reveals that global public display and signage TV shipments surpassed 1.73 million units in 2Q26, up from 1.61 million units in the previous quarter.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/omdia-ifp-touch-displays-lead-growth-as-global-public-display-market-surpasses-1-73m-in-2q26/">Omdia: IFP/Touch Displays Lead Growth as Global Public Display Market Surpasses $1.73M in 2Q26</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
