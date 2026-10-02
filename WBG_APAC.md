@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-01 20:22 UTC_
+_Last updated: 2026-10-02 07:02 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Omdia Sees Four Forces Reshaping Technology Markets in 2027](https://www.eetasia.com/omdia-sees-four-forces-reshaping-technology-markets-in-2027/)
+**Published:** Thu, 01 Oct 2026 23:56:05 +0000
+
+<p>Omdia expects AI monetization, supply-chain volatility, digital sovereignty and physical AI to influence technology investment in 2027.</p>
+<p>The post <a href="https://www.eetasia.com/omdia-sees-four-forces-reshaping-technology-markets-in-2027/">Omdia Sees Four Forces Reshaping Technology Markets in 2027</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Renesas Targets 800V AI Data Centers with Dual-side-cooled 650V GaN](https://www.eetasia.com/renesas-targets-800v-ai-data-centers-with-dual-side-cooled-650v-gan/)
+**Published:** Thu, 01 Oct 2026 23:50:39 +0000
+
+<p>Renesas' 650V GaN device uses an 8x8mm dual-side-cooled package to increase power density in high-voltage data-center converters.</p>
+<p>The post <a href="https://www.eetasia.com/renesas-targets-800v-ai-data-centers-with-dual-side-cooled-650v-gan/">Renesas Targets 800V AI Data Centers with Dual-side-cooled 650V GaN</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,22 +27,6 @@ _Last updated: 2026-10-01 20:22 UTC_
 
 <p>Startup combines AI-based design and verification with internal tools to accelerate complex ASIC development from concept to silicon.</p>
 <p>The post <a href="https://www.eetasia.com/architect-labs-targets-two-week-chip-design-cycle-with-ai-driven-verification/">Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [PATEO, Arm Expand Collaboration on Physical AI for Vehicles](https://www.eetasia.com/pateo-arm-expand-collaboration-on-physical-ai-for-vehicles/)
-**Published:** Tue, 29 Sep 2026 23:34:11 +0000
-
-<p>PATEO and Arm will explore automotive physical AI applications spanning perception, interaction, computing and intelligent vehicle workloads.</p>
-<p>The post <a href="https://www.eetasia.com/pateo-arm-expand-collaboration-on-physical-ai-for-vehicles/">PATEO, Arm Expand Collaboration on Physical AI for Vehicles</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Wolfspeed Expands 200mm SiC Substrate Portfolio with Premium Material](https://www.eetasia.com/wolfspeed-expands-200mm-sic-substrate-portfolio-with-premium-material/)
-**Published:** Tue, 29 Sep 2026 01:48:02 +0000
-
-<p>Wolfspeed expands its 200mm SiC portfolio with premium substrates targeting lower defects, higher yields and consistency.</p>
-<p>The post <a href="https://www.eetasia.com/wolfspeed-expands-200mm-sic-substrate-portfolio-with-premium-material/">Wolfspeed Expands 200mm SiC Substrate Portfolio with Premium Material</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
