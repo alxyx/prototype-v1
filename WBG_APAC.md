@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-02 13:51 UTC_
+_Last updated: 2026-10-02 19:13 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -27,6 +27,14 @@ _Last updated: 2026-10-02 13:51 UTC_
 
 <p>Startup combines AI-based design and verification with internal tools to accelerate complex ASIC development from concept to silicon.</p>
 <p>The post <a href="https://www.eetasia.com/architect-labs-targets-two-week-chip-design-cycle-with-ai-driven-verification/">Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [What’s in the October Issue?](https://www.semiconductor-digest.com/whats-in-the-october-issue-6/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-october-issue-6)
+**Published:** Fri, 02 Oct 2026 15:26:28 +0000
+
+<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the October issue. If you are attending SEMICON West, pick up the October issue in print. You can find it at booth #3402 or in the publication bins. We hope to see you there!</p>
+<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-october-issue-6/">What&#8217;s in the October Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-10-02 13:51 UTC_
 
 <p>A collaborative group of researchers have demonstrated key measurement technologies for developing spin qubits in zinc oxide quantum dots.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/advancing-quantum-computing-with-zinc-oxide-quantum-dots/">Advancing Quantum Computing with Zinc Oxide Quantum Dots</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [LG Innotek Accelerates Corporate Transformation Driven by Semiconductor Substrates and Physical AI](https://www.semiconductor-digest.com/lg-innotek-accelerates-corporate-transformation-driven-by-semiconductor-substrates-and-physical-ai/?utm_source=rss&utm_medium=rss&utm_campaign=lg-innotek-accelerates-corporate-transformation-driven-by-semiconductor-substrates-and-physical-ai)
-**Published:** Wed, 30 Sep 2026 19:52:32 +0000
-
-<p>LG Innotek is demonstrating tangible results from the transformation of its business portfolio, delivering a remarkable performance rebound in the first half of the year—traditionally an off-peak season for the company.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lg-innotek-accelerates-corporate-transformation-driven-by-semiconductor-substrates-and-physical-ai/">LG Innotek Accelerates Corporate Transformation Driven by Semiconductor Substrates and Physical AI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
