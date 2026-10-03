@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-02 19:13 UTC_
+_Last updated: 2026-10-03 13:29 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -30,6 +30,38 @@ _Last updated: 2026-10-02 19:13 UTC_
 
 ---
 
+## [Semiconductor Quantum-Dot Resonator Improves Single-Photon Quality for Quantum Systems](https://www.semiconductor-digest.com/semiconductor-quantum-dot-resonator-improves-single-photon-quality-for-quantum-systems/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-quantum-dot-resonator-improves-single-photon-quality-for-quantum-systems)
+**Published:** Fri, 02 Oct 2026 21:50:04 +0000
+
+<p>Working in close collaboration, researchers from Paderborn University, the University of Basel and Ruhr University Bochum have made a significant breakthrough in the field of quantum communication.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-quantum-dot-resonator-improves-single-photon-quality-for-quantum-systems/">Semiconductor Quantum-Dot Resonator Improves Single-Photon Quality for Quantum Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Crystal Design Controls Spin-Polarized Photocurrent in 2D Hybrid Perovskites](https://www.semiconductor-digest.com/crystal-design-controls-spin-polarized-photocurrent-in-2d-hybrid-perovskites/?utm_source=rss&utm_medium=rss&utm_campaign=crystal-design-controls-spin-polarized-photocurrent-in-2d-hybrid-perovskites)
+**Published:** Fri, 02 Oct 2026 20:59:56 +0000
+
+<p>Researchers demonstrate that internal crystal structure is key in regulating generated light-induced current.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/crystal-design-controls-spin-polarized-photocurrent-in-2d-hybrid-perovskites/">Crystal Design Controls Spin-Polarized Photocurrent in 2D Hybrid Perovskites</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Northrop Grumman Rebrands Wideband GaN Technology as FORTITUDE, Targets RF System Integration](https://www.semiconductor-digest.com/northrop-grumman-rebrands-wideband-gan-technology-as-fortitude-targets-rf-system-integration/?utm_source=rss&utm_medium=rss&utm_campaign=northrop-grumman-rebrands-wideband-gan-technology-as-fortitude-targets-rf-system-integration)
+**Published:** Fri, 02 Oct 2026 20:47:36 +0000
+
+<p>A universal boost for today’s systems that delivers the speed tomorrow’s networks demand.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/northrop-grumman-rebrands-wideband-gan-technology-as-fortitude-targets-rf-system-integration/">Northrop Grumman Rebrands Wideband GaN Technology as FORTITUDE, Targets RF System Integration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [EMD Electronics Opens New R&D Facility in Wisconsin](https://www.semiconductor-digest.com/emd-electronics-opens-new-rd-facility-in-wisconsin/?utm_source=rss&utm_medium=rss&utm_campaign=emd-electronics-opens-new-rd-facility-in-wisconsin)
+**Published:** Fri, 02 Oct 2026 20:37:13 +0000
+
+<p>EMD Electronics opened new 38,000-square-foot research and development facility in Sheboygan Falls, WI.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/emd-electronics-opens-new-rd-facility-in-wisconsin/">EMD Electronics Opens New R&#038;D Facility in Wisconsin</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [What’s in the October Issue?](https://www.semiconductor-digest.com/whats-in-the-october-issue-6/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-october-issue-6)
 **Published:** Fri, 02 Oct 2026 15:26:28 +0000
 
@@ -51,38 +83,6 @@ _Last updated: 2026-10-02 19:13 UTC_
 
 <p>SEMIFIVE, a global provider of custom AI semiconductor (ASIC) solutions, announced today that it has signed a turnkey development contract with Mobilint, a South Korean AI semiconductor company, to develop an AI chip for robotics applications.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semifive-mobilint-partner-on-lpddr6-ucie-robotics-ai-chip/">SEMIFIVE, Mobilint Partner on LPDDR6/UCIe Robotics AI Chip</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Infineon Opens Scalable Semiconductor Backend Manufacturing Hub in Thailand](https://www.semiconductor-digest.com/infineon-opens-scalable-semiconductor-backend-manufacturing-hub-in-thailand/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-opens-scalable-semiconductor-backend-manufacturing-hub-in-thailand)
-**Published:** Thu, 01 Oct 2026 18:00:06 +0000
-
-<p>Infineon Technologies AG officially inaugurated its new backend manufacturing site in Bangkok, Samut Prakan, together with Anutin Charnvirakul, Prime Minister of Thailand and Alexander Gorski, Chief Operations Officer of Infineon Technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/infineon-opens-scalable-semiconductor-backend-manufacturing-hub-in-thailand/">Infineon Opens Scalable Semiconductor Backend Manufacturing Hub in Thailand</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Applied Materials, Besi Expand Advanced Packaging Partnership for AI Scaling](https://www.semiconductor-digest.com/applied-materials-besi-expand-advanced-packaging-partnership-for-ai-scaling/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-besi-expand-advanced-packaging-partnership-for-ai-scaling)
-**Published:** Thu, 01 Oct 2026 17:57:40 +0000
-
-<p>Besi joins Applied's EPIC Center as an Innovation Partner, extending a collaboration that began in 2020 with the companies' joint Hybrid Bonding Center of Excellence in Singapore.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-besi-expand-advanced-packaging-partnership-for-ai-scaling/">Applied Materials, Besi Expand Advanced Packaging Partnership for AI Scaling</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://www.semiconductor-digest.com/openai-and-synopsys-announce-gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=openai-and-synopsys-announce-gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design)
-**Published:** Wed, 30 Sep 2026 20:04:46 +0000
-
-<p>Synopsys and OpenAI today announced a strategic partnership that brings together OpenAI's advanced AI capabilities with Synopsys' industry-leading EDA tools and agentic AI capabilities to revolutionize the design of semiconductors.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/openai-and-synopsys-announce-gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design/">OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Advancing Quantum Computing with Zinc Oxide Quantum Dots](https://www.semiconductor-digest.com/advancing-quantum-computing-with-zinc-oxide-quantum-dots/?utm_source=rss&utm_medium=rss&utm_campaign=advancing-quantum-computing-with-zinc-oxide-quantum-dots)
-**Published:** Wed, 30 Sep 2026 19:59:54 +0000
-
-<p>A collaborative group of researchers have demonstrated key measurement technologies for developing spin qubits in zinc oxide quantum dots.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/advancing-quantum-computing-with-zinc-oxide-quantum-dots/">Advancing Quantum Computing with Zinc Oxide Quantum Dots</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
