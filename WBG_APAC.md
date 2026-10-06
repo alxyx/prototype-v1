@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-05 01:51 UTC_
+_Last updated: 2026-10-06 00:15 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [E&R Engineering Expands Packaging Materials Production in Malaysia](https://www.eetasia.com/er-engineering-expands-packaging-materials-production-in-malaysia/)
+**Published:** Mon, 05 Oct 2026 23:20:05 +0000
+
+<p>E&#38;R Engineering will begin mass production at a new Melaka plant next year to support semiconductor and OSAT customers across Southeast Asia.</p>
+<p>The post <a href="https://www.eetasia.com/er-engineering-expands-packaging-materials-production-in-malaysia/">E&amp;R Engineering Expands Packaging Materials Production in Malaysia</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Infineon, Eaton Target 800VDC AI Data Centers with SiC Solid-state Transformers](https://www.eetasia.com/infineon-eaton-target-800vdc-ai-data-centers-with-sic-solid-state-transformers/)
+**Published:** Mon, 05 Oct 2026 23:18:05 +0000
+
+<p>Infineon and Eaton are applying SiC devices to medium-voltage solid-state transformers for 800VDC data center architectures.</p>
+<p>The post <a href="https://www.eetasia.com/infineon-eaton-target-800vdc-ai-data-centers-with-sic-solid-state-transformers/">Infineon, Eaton Target 800VDC AI Data Centers with SiC Solid-state Transformers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -14,19 +30,43 @@ _Last updated: 2026-10-05 01:51 UTC_
 
 ---
 
-## [Renesas Targets 800V AI Data Centers with Dual-side-cooled 650V GaN](https://www.eetasia.com/renesas-targets-800v-ai-data-centers-with-dual-side-cooled-650v-gan/)
-**Published:** Thu, 01 Oct 2026 23:50:39 +0000
+## [ZEISS Group Appoints Axel Christian as President of ZEISS North America](https://www.semiconductor-digest.com/zeiss-group-appoints-axel-christian-as-president-of-zeiss-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-group-appoints-axel-christian-as-president-of-zeiss-north-america)
+**Published:** Mon, 05 Oct 2026 19:25:01 +0000
 
-<p>Renesas' 650V GaN device uses an 8x8mm dual-side-cooled package to increase power density in high-voltage data-center converters.</p>
-<p>The post <a href="https://www.eetasia.com/renesas-targets-800v-ai-data-centers-with-dual-side-cooled-650v-gan/">Renesas Targets 800V AI Data Centers with Dual-side-cooled 650V GaN</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>New role reflects the enduring and growing strategic significance of the region for ZEISS’ long-term roadmap.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/zeiss-group-appoints-axel-christian-as-president-of-zeiss-north-america/">ZEISS Group Appoints Axel Christian as President of ZEISS North America</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification](https://www.eetasia.com/architect-labs-targets-two-week-chip-design-cycle-with-ai-driven-verification/)
-**Published:** Wed, 30 Sep 2026 02:38:20 +0000
+## [Infineon Completes Acquisition of C2i Semiconductors](https://www.semiconductor-digest.com/infineon-completes-acquisition-of-c2i-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-completes-acquisition-of-c2i-semiconductors)
+**Published:** Mon, 05 Oct 2026 19:22:44 +0000
 
-<p>Startup combines AI-based design and verification with internal tools to accelerate complex ASIC development from concept to silicon.</p>
-<p>The post <a href="https://www.eetasia.com/architect-labs-targets-two-week-chip-design-cycle-with-ai-driven-verification/">Architect Labs Targets Two-week Chip Design Cycle with AI-Driven Verification</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Transaction expands Infineon’s innovation footprint in India and further strengthens its global R&#038;D capabilities.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/infineon-completes-acquisition-of-c2i-semiconductors/">Infineon Completes Acquisition of C2i Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Magnachip Expands Gen6 Super-Junction MOSFET Line with 15 Devices](https://www.semiconductor-digest.com/magnachip-expands-gen6-super-junction-mosfet-line-with-15-devices/?utm_source=rss&utm_medium=rss&utm_campaign=magnachip-expands-gen6-super-junction-mosfet-line-with-15-devices)
+**Published:** Mon, 05 Oct 2026 19:18:51 +0000
+
+<p>Magnachip Semiconductor Corporation today announced the expansion of its power semiconductor portfolio with 15 new sixth-generation (Gen6) E6 super-junction (SJ) MOSFETs for consumer and computing power applications.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/magnachip-expands-gen6-super-junction-mosfet-line-with-15-devices/">Magnachip Expands Gen6 Super-Junction MOSFET Line with 15 Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [JEOL Launches Low-Angle Ion-Milling SEM for Advanced-Chip Failure Analysis](https://www.semiconductor-digest.com/jeol-launches-low-angle-ion-milling-sem-for-advanced-chip-failure-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=jeol-launches-low-angle-ion-milling-sem-for-advanced-chip-failure-analysis)
+**Published:** Mon, 05 Oct 2026 19:16:24 +0000
+
+<p>JEOL Ltd. (President &#038; CEO Izumi Oi) announces the development of its new low‑angle ion‑milling scanning electron microscope, HAXIS, and will commence sales on October 5, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/jeol-launches-low-angle-ion-milling-sem-for-advanced-chip-failure-analysis/">JEOL Launches Low-Angle Ion-Milling SEM for Advanced-Chip Failure Analysis</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Rapidus Builds Design Ecosystem Around Planned 2nm Foundry](https://www.semiconductor-digest.com/rapidus-builds-design-ecosystem-around-planned-2nm-foundry/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-builds-design-ecosystem-around-planned-2nm-foundry)
+**Published:** Mon, 05 Oct 2026 19:13:54 +0000
+
+<p>As part of its first phase, Rapidus is announcing the formation of Design Solution Associates to help customers support early-stage design for Rapidus' advanced 2nm semiconductor foundry.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rapidus-builds-design-ecosystem-around-planned-2nm-foundry/">Rapidus Builds Design Ecosystem Around Planned 2nm Foundry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -43,46 +83,6 @@ _Last updated: 2026-10-05 01:51 UTC_
 
 <p>Researchers demonstrate that internal crystal structure is key in regulating generated light-induced current.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/crystal-design-controls-spin-polarized-photocurrent-in-2d-hybrid-perovskites/">Crystal Design Controls Spin-Polarized Photocurrent in 2D Hybrid Perovskites</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Northrop Grumman Rebrands Wideband GaN Technology as FORTITUDE, Targets RF System Integration](https://www.semiconductor-digest.com/northrop-grumman-rebrands-wideband-gan-technology-as-fortitude-targets-rf-system-integration/?utm_source=rss&utm_medium=rss&utm_campaign=northrop-grumman-rebrands-wideband-gan-technology-as-fortitude-targets-rf-system-integration)
-**Published:** Fri, 02 Oct 2026 20:47:36 +0000
-
-<p>A universal boost for today’s systems that delivers the speed tomorrow’s networks demand.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/northrop-grumman-rebrands-wideband-gan-technology-as-fortitude-targets-rf-system-integration/">Northrop Grumman Rebrands Wideband GaN Technology as FORTITUDE, Targets RF System Integration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [EMD Electronics Opens New R&D Facility in Wisconsin](https://www.semiconductor-digest.com/emd-electronics-opens-new-rd-facility-in-wisconsin/?utm_source=rss&utm_medium=rss&utm_campaign=emd-electronics-opens-new-rd-facility-in-wisconsin)
-**Published:** Fri, 02 Oct 2026 20:37:13 +0000
-
-<p>EMD Electronics opened new 38,000-square-foot research and development facility in Sheboygan Falls, WI.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/emd-electronics-opens-new-rd-facility-in-wisconsin/">EMD Electronics Opens New R&#038;D Facility in Wisconsin</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [What’s in the October Issue?](https://www.semiconductor-digest.com/whats-in-the-october-issue-6/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-october-issue-6)
-**Published:** Fri, 02 Oct 2026 15:26:28 +0000
-
-<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the October issue. If you are attending SEMICON West, pick up the October issue in print. You can find it at booth #3402 or in the publication bins. We hope to see you there!</p>
-<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-october-issue-6/">What&#8217;s in the October Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SignatureIP Unveils IP Library for Chiplet-based AI, HPC and Data Center Systems at AI Infra Summit 2026](https://www.semiconductor-digest.com/signatureip-unveils-ip-library-for-chiplet-based-ai-hpc-and-data-center-systems-at-ai-infra-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=signatureip-unveils-ip-library-for-chiplet-based-ai-hpc-and-data-center-systems-at-ai-infra-summit-2026)
-**Published:** Thu, 01 Oct 2026 18:13:41 +0000
-
-<p>SignatureIP today announced the general availability of a comprehensive library of Interconnect, Interface and System-on-Chip (SoC) Subsystem IP purpose-built for chiplet-based systems targeting artificial intelligence, high-performance computing (HPC) and data center applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/signatureip-unveils-ip-library-for-chiplet-based-ai-hpc-and-data-center-systems-at-ai-infra-summit-2026/">SignatureIP Unveils IP Library for Chiplet-based AI, HPC and Data Center Systems at AI Infra Summit 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMIFIVE, Mobilint Partner on LPDDR6/UCIe Robotics AI Chip](https://www.semiconductor-digest.com/semifive-mobilint-partner-on-lpddr6-ucie-robotics-ai-chip/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-mobilint-partner-on-lpddr6-ucie-robotics-ai-chip)
-**Published:** Thu, 01 Oct 2026 18:04:45 +0000
-
-<p>SEMIFIVE, a global provider of custom AI semiconductor (ASIC) solutions, announced today that it has signed a turnkey development contract with Mobilint, a South Korean AI semiconductor company, to develop an AI chip for robotics applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semifive-mobilint-partner-on-lpddr6-ucie-robotics-ai-chip/">SEMIFIVE, Mobilint Partner on LPDDR6/UCIe Robotics AI Chip</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
