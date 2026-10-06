@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-06 13:04 UTC_
+_Last updated: 2026-10-06 19:01 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -30,6 +30,46 @@ _Last updated: 2026-10-06 13:04 UTC_
 
 ---
 
+## [Qnity Develops 330°C Sealing Material for High-Temperature Chipmaking Processes](https://www.semiconductor-digest.com/qnity-develops-330c-sealing-material-for-high-temperature-chipmaking-processes/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-develops-330c-sealing-material-for-high-temperature-chipmaking-processes)
+**Published:** Tue, 06 Oct 2026 18:41:33 +0000
+
+<p>New Kalrez 7080 sealing solution strengthens an integrated portfolio of technologies designed to improve yield, reliability, and tool performance.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/qnity-develops-330c-sealing-material-for-high-temperature-chipmaking-processes/">Qnity Develops 330°C Sealing Material for High-Temperature Chipmaking Processes</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [GlobalFoundries to Industrialize Xanadu Quantum-Photonic Components on 300mm Line](https://www.semiconductor-digest.com/globalfoundries-to-industrialize-xanadu-quantum-photonic-components-on-300mm-line/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-to-industrialize-xanadu-quantum-photonic-components-on-300mm-line)
+**Published:** Tue, 06 Oct 2026 18:33:46 +0000
+
+<p>This partnership combines Xanadu’s existing expertise in ultra-low loss photonic design and process development with GF’s industry-leading photonics manufacturing prowess.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-to-industrialize-xanadu-quantum-photonic-components-on-300mm-line/">GlobalFoundries to Industrialize Xanadu Quantum-Photonic Components on 300mm Line</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Applied Materials, Intel Deepen R&D Collaboration on Transistor Scaling and Advanced Packaging](https://www.semiconductor-digest.com/applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging)
+**Published:** Tue, 06 Oct 2026 18:29:25 +0000
+
+<p>The collaboration will bring together cutting-edge capabilities from Applied’s EPIC Center in Silicon Valley and Intel’s R&#038;D campus in Hillsboro, Oregon to shorten time-to-market of advanced semiconductor technologies essential to AI computing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging/">Applied Materials, Intel Deepen R&#038;D Collaboration on Transistor Scaling and Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Teradyne Integrates Burn-In and System-Level Test for High-Power AI Chips](https://www.semiconductor-digest.com/teradyne-integrates-burn-in-and-system-level-test-for-high-power-ai-chips/?utm_source=rss&utm_medium=rss&utm_campaign=teradyne-integrates-burn-in-and-system-level-test-for-high-power-ai-chips)
+**Published:** Tue, 06 Oct 2026 18:24:13 +0000
+
+<p>Chipmakers can lower cost of test, factory floor space, and time to market for high-power AI, automotive, and other high-reliability devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/teradyne-integrates-burn-in-and-system-level-test-for-high-power-ai-chips/">Teradyne Integrates Burn-In and System-Level Test for High-Power AI Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Renesas Moves GaN Into 100 V Power Applications for AI Data Centers and Robotics](https://www.semiconductor-digest.com/renesas-moves-gan-into-100-v-power-applications-for-ai-data-centers-and-robotics/?utm_source=rss&utm_medium=rss&utm_campaign=renesas-moves-gan-into-100-v-power-applications-for-ai-data-centers-and-robotics)
+**Published:** Tue, 06 Oct 2026 18:15:57 +0000
+
+<p>Renesas Electronics Corporation, a supplier of advanced semiconductor solutions, has expanded its GaN portfolio into low-voltage applications with its first family of 100V enhancement mode (E-mode) GaN-based discrete power transistors.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/renesas-moves-gan-into-100-v-power-applications-for-ai-data-centers-and-robotics/">Renesas Moves GaN Into 100 V Power Applications for AI Data Centers and Robotics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [ZEISS Group Appoints Axel Christian as President of ZEISS North America](https://www.semiconductor-digest.com/zeiss-group-appoints-axel-christian-as-president-of-zeiss-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-group-appoints-axel-christian-as-president-of-zeiss-north-america)
 **Published:** Mon, 05 Oct 2026 19:25:01 +0000
 
@@ -43,46 +83,6 @@ _Last updated: 2026-10-06 13:04 UTC_
 
 <p>Transaction expands Infineon’s innovation footprint in India and further strengthens its global R&#038;D capabilities.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/infineon-completes-acquisition-of-c2i-semiconductors/">Infineon Completes Acquisition of C2i Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Magnachip Expands Gen6 Super-Junction MOSFET Line with 15 Devices](https://www.semiconductor-digest.com/magnachip-expands-gen6-super-junction-mosfet-line-with-15-devices/?utm_source=rss&utm_medium=rss&utm_campaign=magnachip-expands-gen6-super-junction-mosfet-line-with-15-devices)
-**Published:** Mon, 05 Oct 2026 19:18:51 +0000
-
-<p>Magnachip Semiconductor Corporation today announced the expansion of its power semiconductor portfolio with 15 new sixth-generation (Gen6) E6 super-junction (SJ) MOSFETs for consumer and computing power applications.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/magnachip-expands-gen6-super-junction-mosfet-line-with-15-devices/">Magnachip Expands Gen6 Super-Junction MOSFET Line with 15 Devices</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [JEOL Launches Low-Angle Ion-Milling SEM for Advanced-Chip Failure Analysis](https://www.semiconductor-digest.com/jeol-launches-low-angle-ion-milling-sem-for-advanced-chip-failure-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=jeol-launches-low-angle-ion-milling-sem-for-advanced-chip-failure-analysis)
-**Published:** Mon, 05 Oct 2026 19:16:24 +0000
-
-<p>JEOL Ltd. (President &#038; CEO Izumi Oi) announces the development of its new low‑angle ion‑milling scanning electron microscope, HAXIS, and will commence sales on October 5, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/jeol-launches-low-angle-ion-milling-sem-for-advanced-chip-failure-analysis/">JEOL Launches Low-Angle Ion-Milling SEM for Advanced-Chip Failure Analysis</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Rapidus Builds Design Ecosystem Around Planned 2nm Foundry](https://www.semiconductor-digest.com/rapidus-builds-design-ecosystem-around-planned-2nm-foundry/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-builds-design-ecosystem-around-planned-2nm-foundry)
-**Published:** Mon, 05 Oct 2026 19:13:54 +0000
-
-<p>As part of its first phase, Rapidus is announcing the formation of Design Solution Associates to help customers support early-stage design for Rapidus' advanced 2nm semiconductor foundry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/rapidus-builds-design-ecosystem-around-planned-2nm-foundry/">Rapidus Builds Design Ecosystem Around Planned 2nm Foundry</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Semiconductor Quantum-Dot Resonator Improves Single-Photon Quality for Quantum Systems](https://www.semiconductor-digest.com/semiconductor-quantum-dot-resonator-improves-single-photon-quality-for-quantum-systems/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-quantum-dot-resonator-improves-single-photon-quality-for-quantum-systems)
-**Published:** Fri, 02 Oct 2026 21:50:04 +0000
-
-<p>Working in close collaboration, researchers from Paderborn University, the University of Basel and Ruhr University Bochum have made a significant breakthrough in the field of quantum communication.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-quantum-dot-resonator-improves-single-photon-quality-for-quantum-systems/">Semiconductor Quantum-Dot Resonator Improves Single-Photon Quality for Quantum Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Crystal Design Controls Spin-Polarized Photocurrent in 2D Hybrid Perovskites](https://www.semiconductor-digest.com/crystal-design-controls-spin-polarized-photocurrent-in-2d-hybrid-perovskites/?utm_source=rss&utm_medium=rss&utm_campaign=crystal-design-controls-spin-polarized-photocurrent-in-2d-hybrid-perovskites)
-**Published:** Fri, 02 Oct 2026 20:59:56 +0000
-
-<p>Researchers demonstrate that internal crystal structure is key in regulating generated light-induced current.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/crystal-design-controls-spin-polarized-photocurrent-in-2d-hybrid-perovskites/">Crystal Design Controls Spin-Polarized Photocurrent in 2D Hybrid Perovskites</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
