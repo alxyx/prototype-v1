@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-06 00:15 UTC_
+_Last updated: 2026-10-06 13:04 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [AI Drives Semiconductor Innovation Beyond Scaling Into Advanced Packaging and Photonics](https://www.eetasia.com/ai-drives-semiconductor-innovation-beyond-scaling-into-advanced-packaging-and-photonics/)
+**Published:** Tue, 06 Oct 2026 04:08:55 +0000
+
+<p>AI is pushing semiconductor innovation beyond transistor scaling toward advanced packaging, photonics, thermal management and system integration.</p>
+<p>The post <a href="https://www.eetasia.com/ai-drives-semiconductor-innovation-beyond-scaling-into-advanced-packaging-and-photonics/">AI Drives Semiconductor Innovation Beyond Scaling Into Advanced Packaging and Photonics</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -19,14 +27,6 @@ _Last updated: 2026-10-06 00:15 UTC_
 
 <p>Infineon and Eaton are applying SiC devices to medium-voltage solid-state transformers for 800VDC data center architectures.</p>
 <p>The post <a href="https://www.eetasia.com/infineon-eaton-target-800vdc-ai-data-centers-with-sic-solid-state-transformers/">Infineon, Eaton Target 800VDC AI Data Centers with SiC Solid-state Transformers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Omdia Sees Four Forces Reshaping Technology Markets in 2027](https://www.eetasia.com/omdia-sees-four-forces-reshaping-technology-markets-in-2027/)
-**Published:** Thu, 01 Oct 2026 23:56:05 +0000
-
-<p>Omdia expects AI monetization, supply-chain volatility, digital sovereignty and physical AI to influence technology investment in 2027.</p>
-<p>The post <a href="https://www.eetasia.com/omdia-sees-four-forces-reshaping-technology-markets-in-2027/">Omdia Sees Four Forces Reshaping Technology Markets in 2027</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
