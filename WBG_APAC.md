@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-06 23:08 UTC_
+_Last updated: 2026-10-07 02:20 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Rapidus Builds Global Design Ecosystem for Advanced Semiconductor Production](https://www.eetasia.com/rapidus-builds-global-design-ecosystem-for-advanced-semiconductor-production/)
+**Published:** Tue, 06 Oct 2026 23:33:49 +0000
+
+<p>Rapidus is forming a global design network to connect customers with semiconductor design resources ahead of advanced-node manufacturing.</p>
+<p>The post <a href="https://www.eetasia.com/rapidus-builds-global-design-ecosystem-for-advanced-semiconductor-production/">Rapidus Builds Global Design Ecosystem for Advanced Semiconductor Production</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-10-06 23:08 UTC_
 
 <p>New role reflects the enduring and growing strategic significance of the region for ZEISS’ long-term roadmap.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/zeiss-group-appoints-axel-christian-as-president-of-zeiss-north-america/">ZEISS Group Appoints Axel Christian as President of ZEISS North America</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Infineon Completes Acquisition of C2i Semiconductors](https://www.semiconductor-digest.com/infineon-completes-acquisition-of-c2i-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-completes-acquisition-of-c2i-semiconductors)
-**Published:** Mon, 05 Oct 2026 19:22:44 +0000
-
-<p>Transaction expands Infineon’s innovation footprint in India and further strengthens its global R&#038;D capabilities.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/infineon-completes-acquisition-of-c2i-semiconductors/">Infineon Completes Acquisition of C2i Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
