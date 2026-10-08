@@ -1,6 +1,6 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-08 02:47 UTC_
+_Last updated: 2026-10-08 10:19 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -27,14 +27,6 @@ _Last updated: 2026-10-08 02:47 UTC_
 
 <p>Rapidus is forming a global design network to connect customers with semiconductor design resources ahead of advanced-node manufacturing.</p>
 <p>The post <a href="https://www.eetasia.com/rapidus-builds-global-design-ecosystem-for-advanced-semiconductor-production/">Rapidus Builds Global Design Ecosystem for Advanced Semiconductor Production</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [AI Drives Semiconductor Innovation Beyond Scaling Into Advanced Packaging and Photonics](https://www.eetasia.com/ai-drives-semiconductor-innovation-beyond-scaling-into-advanced-packaging-and-photonics/)
-**Published:** Tue, 06 Oct 2026 04:08:55 +0000
-
-<p>AI is pushing semiconductor innovation beyond transistor scaling toward advanced packaging, photonics, thermal management and system integration.</p>
-<p>The post <a href="https://www.eetasia.com/ai-drives-semiconductor-innovation-beyond-scaling-into-advanced-packaging-and-photonics/">AI Drives Semiconductor Innovation Beyond Scaling Into Advanced Packaging and Photonics</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-10-08 02:47 UTC_
 
 <p>This partnership combines Xanadu’s existing expertise in ultra-low loss photonic design and process development with GF’s industry-leading photonics manufacturing prowess.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-to-industrialize-xanadu-quantum-photonic-components-on-300mm-line/">GlobalFoundries to Industrialize Xanadu Quantum-Photonic Components on 300mm Line</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Applied Materials, Intel Deepen R&D Collaboration on Transistor Scaling and Advanced Packaging](https://www.semiconductor-digest.com/applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging)
+**Published:** Tue, 06 Oct 2026 18:29:25 +0000
+
+<p>The collaboration will bring together cutting-edge capabilities from Applied’s EPIC Center in Silicon Valley and Intel’s R&#038;D campus in Hillsboro, Oregon to shorten time-to-market of advanced semiconductor technologies essential to AI computing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging/">Applied Materials, Intel Deepen R&#038;D Collaboration on Transistor Scaling and Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
