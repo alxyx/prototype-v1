@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-10-07 23:01 UTC_
+_Last updated: 2026-10-08 02:47 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Renesas Adds 100V GaN FETs for AI and Industrial Power Conversion](https://www.eetasia.com/renesas-adds-100v-gan-fets-for-ai-and-industrial-power-conversion/)
+**Published:** Wed, 07 Oct 2026 23:18:08 +0000
+
+<p>Renesas' 100V GaN FETs target power conversion in AI data centers, robotics, and industrial systems.</p>
+<p>The post <a href="https://www.eetasia.com/renesas-adds-100v-gan-fets-for-ai-and-industrial-power-conversion/">Renesas Adds 100V GaN FETs for AI and Industrial Power Conversion</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Infineon Completes Acquisition of C2i Semiconductors](https://www.eetasia.com/infineon-completes-acquisition-of-c2i-semiconductors/)
+**Published:** Wed, 07 Oct 2026 23:14:04 +0000
+
+<p>Infineon adds C2i’s digital power expertise and Bengaluru engineering team to expand power solutions for AI infrastructure.</p>
+<p>The post <a href="https://www.eetasia.com/infineon-completes-acquisition-of-c2i-semiconductors/">Infineon Completes Acquisition of C2i Semiconductors</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -19,22 +35,6 @@ _Last updated: 2026-10-07 23:01 UTC_
 
 <p>AI is pushing semiconductor innovation beyond transistor scaling toward advanced packaging, photonics, thermal management and system integration.</p>
 <p>The post <a href="https://www.eetasia.com/ai-drives-semiconductor-innovation-beyond-scaling-into-advanced-packaging-and-photonics/">AI Drives Semiconductor Innovation Beyond Scaling Into Advanced Packaging and Photonics</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [E&R Engineering Expands Packaging Materials Production in Malaysia](https://www.eetasia.com/er-engineering-expands-packaging-materials-production-in-malaysia/)
-**Published:** Mon, 05 Oct 2026 23:20:05 +0000
-
-<p>E&#38;R Engineering will begin mass production at a new Melaka plant next year to support semiconductor and OSAT customers across Southeast Asia.</p>
-<p>The post <a href="https://www.eetasia.com/er-engineering-expands-packaging-materials-production-in-malaysia/">E&amp;R Engineering Expands Packaging Materials Production in Malaysia</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Infineon, Eaton Target 800VDC AI Data Centers with SiC Solid-state Transformers](https://www.eetasia.com/infineon-eaton-target-800vdc-ai-data-centers-with-sic-solid-state-transformers/)
-**Published:** Mon, 05 Oct 2026 23:18:05 +0000
-
-<p>Infineon and Eaton are applying SiC devices to medium-voltage solid-state transformers for 800VDC data center architectures.</p>
-<p>The post <a href="https://www.eetasia.com/infineon-eaton-target-800vdc-ai-data-centers-with-sic-solid-state-transformers/">Infineon, Eaton Target 800VDC AI Data Centers with SiC Solid-state Transformers</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
