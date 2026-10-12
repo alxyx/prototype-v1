@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-11 21:51 UTC_
+_Last updated: 2026-10-12 08:55 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Global Semiconductor Sales Hit $1T Milestone in August](https://www.eetasia.com/global-semiconductor-sales-hit-1t-milestone-in-august/)
+**Published:** Sun, 11 Oct 2026 23:09:59 +0000
+
+<p>Global semiconductor sales reached $159.7 billion during the month of August 2026, an increase of 8% compared to the July 2026 total of $147.9 billion and 144.3% more than the August 2025 total of $65.4 billion, according to the Semiconductor Industry Association (SIA). Monthly sales are compiled by the World Semiconductor Trade Statistics (WSTS) organization [&#8230;]</p>
+<p>The post <a href="https://www.eetasia.com/global-semiconductor-sales-hit-1t-milestone-in-august/">Global Semiconductor Sales Hit $1T Milestone in August</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [GlobalFoundries Expands Dresden Fab](https://www.eetasia.com/globalfoundries-expands-dresden-fab/)
+**Published:** Sun, 11 Oct 2026 23:02:27 +0000
+
+<p>GlobalFoundries is investing €1.1 billion in Dresden capacity expansion while developing FDX Fusion for energy-efficient Physical AI chips.</p>
+<p>The post <a href="https://www.eetasia.com/globalfoundries-expands-dresden-fab/">GlobalFoundries Expands Dresden Fab</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -14,19 +30,19 @@ _Last updated: 2026-10-11 21:51 UTC_
 
 ---
 
-## [Renesas Adds 100V GaN FETs for AI and Industrial Power Conversion](https://www.eetasia.com/renesas-adds-100v-gan-fets-for-ai-and-industrial-power-conversion/)
-**Published:** Wed, 07 Oct 2026 23:18:08 +0000
+## [Rapidus Launches CORE Ecosystem to Support 2nm Chip Development and Manufacturing](https://www.semiconductor-digest.com/rapidus-launches-core-ecosystem-to-support-2nm-chip-development-and-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=rapidus-launches-core-ecosystem-to-support-2nm-chip-development-and-manufacturing)
+**Published:** Mon, 12 Oct 2026 00:22:58 +0000
 
-<p>Renesas' 100V GaN FETs target power conversion in AI data centers, robotics, and industrial systems.</p>
-<p>The post <a href="https://www.eetasia.com/renesas-adds-100v-gan-fets-for-ai-and-industrial-power-conversion/">Renesas Adds 100V GaN FETs for AI and Industrial Power Conversion</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>As part of its first phase, Rapidus announced the formation of Design Solution Associates to help customers support early-stage design for Rapidus’ advanced 2nm semiconductor foundry.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/rapidus-launches-core-ecosystem-to-support-2nm-chip-development-and-manufacturing/">Rapidus Launches CORE Ecosystem to Support 2nm Chip Development and Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Infineon Completes Acquisition of C2i Semiconductors](https://www.eetasia.com/infineon-completes-acquisition-of-c2i-semiconductors/)
-**Published:** Wed, 07 Oct 2026 23:14:04 +0000
+## [Infineon Unveils 27 kW Power Supply for Next-Generation AI Servers](https://www.semiconductor-digest.com/infineon-unveils-27-kw-power-supply-for-next-generation-ai-servers/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-unveils-27-kw-power-supply-for-next-generation-ai-servers)
+**Published:** Mon, 12 Oct 2026 00:05:01 +0000
 
-<p>Infineon adds C2i’s digital power expertise and Bengaluru engineering team to expand power solutions for AI infrastructure.</p>
-<p>The post <a href="https://www.eetasia.com/infineon-completes-acquisition-of-c2i-semiconductors/">Infineon Completes Acquisition of C2i Semiconductors</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Artificial intelligence workloads are redefining the power requirements of modern data centers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/infineon-unveils-27-kw-power-supply-for-next-generation-ai-servers/">Infineon Unveils 27 kW Power Supply for Next-Generation AI Servers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-10-11 21:51 UTC_
 
 <p>MTCH3380P and MTCH3240P controllers enable fast touch acquisition and robust performance for complex interfaces, including display-free applications.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/microchip-introduces-parallel-sensing-touch-controllers-for-industrial-applications/">Microchip Introduces Parallel-Sensing Touch Controllers for Industrial Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Astera Labs Unveils PCIe 7 Connectivity Chips for Next-Generation AI Systems](https://www.semiconductor-digest.com/astera-labs-unveils-pcie-7-connectivity-chips-for-next-generation-ai-systems/?utm_source=rss&utm_medium=rss&utm_campaign=astera-labs-unveils-pcie-7-connectivity-chips-for-next-generation-ai-systems)
-**Published:** Thu, 08 Oct 2026 21:14:30 +0000
-
-<p>Purpose-built retimers, redrivers, cable modules, optical drivers, and optical transimpedance amplifiers (TIAs) to support diverse PCIe 7 connectivity in AI systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/astera-labs-unveils-pcie-7-connectivity-chips-for-next-generation-ai-systems/">Astera Labs Unveils PCIe 7 Connectivity Chips for Next-Generation AI Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [GlobalFoundries, TSMC Strike $2B Deal for U.S. AI Chip Packaging Components](https://www.semiconductor-digest.com/globalfoundries-tsmc-strike-2b-deal-for-u-s-ai-chip-packaging-components/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-tsmc-strike-2b-deal-for-u-s-ai-chip-packaging-components)
-**Published:** Thu, 08 Oct 2026 21:10:10 +0000
-
-<p>Multi-year $2 billion agreement will expand capacity for advanced packaging ecosystem and support growing demand for AI and high-performance computing technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/globalfoundries-tsmc-strike-2b-deal-for-u-s-ai-chip-packaging-components/">GlobalFoundries, TSMC Strike $2B Deal for U.S. AI Chip Packaging Components</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
