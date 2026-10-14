@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-14 07:21 UTC_
+_Last updated: 2026-10-14 18:31 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029](https://www.eetasia.com/semicon-west-2026-semi-forecasts-300mm-fab-equipment-spending-to-reach-227b-by-2029/)
+**Published:** Wed, 14 Oct 2026 07:28:28 +0000
+
+<p>Global 300mm fab investment is set to accelerate through 2029, driven by expanding semiconductor manufacturing capacity and demand.</p>
+<p>The post <a href="https://www.eetasia.com/semicon-west-2026-semi-forecasts-300mm-fab-equipment-spending-to-reach-227b-by-2029/">SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,6 +19,14 @@ _Last updated: 2026-10-14 07:21 UTC_
 
 <p>Rigaku will demo X-ray metrology tools for wafer characterization, contamination analysis, thin films and advanced packaging at SEMICON West.</p>
 <p>The post <a href="https://www.eetasia.com/rigaku-to-showcase-x-ray-metrology-for-semiconductor-manufacturing-at-semicon-west-2026/">Rigaku to Showcase X-Ray Metrology for Semiconductor Manufacturing at SEMICON West 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Show Daily 2026 — Day Two](https://www.semiconductor-digest.com/show-daily-2026-day-two/?utm_source=rss&utm_medium=rss&utm_campaign=show-daily-2026-day-two)
+**Published:** Wed, 14 Oct 2026 12:17:49 +0000
+
+<p>View or Download the SEMICON West Show Daily — Day One!</p>
+<p>The post <a href="https://www.semiconductor-digest.com/show-daily-2026-day-two/">Show Daily 2026 — Day Two</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-10-14 07:21 UTC_
 
 <p>Multi-year agreement expands dedicated capacity across Tower's global fab network to support the companies’ growth in optical and copper interconnects for next-generation AI infrastructure.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-and-semtech-expand-sige-manufacturing-partnership-for-ai-data-centers/">Tower Semiconductor and Semtech Expand SiGe Manufacturing Partnership for AI Data Centers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nikon Unveils Digital Lithography System for Advanced Semiconductor Packaging](https://www.semiconductor-digest.com/nikon-unveils-digital-lithography-system-for-advanced-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=nikon-unveils-digital-lithography-system-for-advanced-semiconductor-packaging)
-**Published:** Tue, 13 Oct 2026 17:38:13 +0000
-
-<p>Nikon Corporation will release the DSP-110 digital lithography system for semiconductor advanced packaging in April 2027.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nikon-unveils-digital-lithography-system-for-advanced-semiconductor-packaging/">Nikon Unveils Digital Lithography System for Advanced Semiconductor Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Show Daily 2026 — Day One](https://www.semiconductor-digest.com/show-daily-2026-day-one/?utm_source=rss&utm_medium=rss&utm_campaign=show-daily-2026-day-one)
-**Published:** Tue, 13 Oct 2026 14:40:51 +0000
-
-<p>View or Download the SEMICON West Show Daily — Day One!</p>
-<p>The post <a href="https://www.semiconductor-digest.com/show-daily-2026-day-one/">Show Daily 2026 — Day One</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
