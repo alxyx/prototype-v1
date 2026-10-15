@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-15 01:28 UTC_
+_Last updated: 2026-10-15 22:11 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing](https://www.eetasia.com/nvidia-expands-gpu-libraries-for-ai-driven-semiconductor-manufacturing/)
+**Published:** Thu, 15 Oct 2026 02:10:21 +0000
+
+<p>NVIDIA and industry partners are applying accelerated computing and AI agents to chip simulation, process optimization, inspection and fab automation.</p>
+<p>The post <a href="https://www.eetasia.com/nvidia-expands-gpu-libraries-for-ai-driven-semiconductor-manufacturing/">SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -22,67 +30,59 @@ _Last updated: 2026-10-15 01:28 UTC_
 
 ---
 
-## [SEMI Builds a Global Home for Advanced Packaging](https://www.semiconductor-digest.com/semi-builds-a-global-home-for-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=semi-builds-a-global-home-for-advanced-packaging)
-**Published:** Wed, 14 Oct 2026 21:49:30 +0000
+## [Nordson SonoFlex Wins 2026 Best of West Award at SEMICON West](https://www.semiconductor-digest.com/nordson-sonoflex-wins-2026-best-of-west-award-at-semicon-west/?utm_source=rss&utm_medium=rss&utm_campaign=nordson-sonoflex-wins-2026-best-of-west-award-at-semicon-west)
+**Published:** Thu, 15 Oct 2026 18:31:44 +0000
 
-<p>Advanced packaging has a bigger place at SEMICON West than ever, with three days of packaging content on this year’s program, and SEMI is building a global home for the topic through its Advanced Packaging and Heterogeneous Integration (APHI) technology coalition.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-builds-a-global-home-for-advanced-packaging/">SEMI Builds a Global Home for Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Scales Up Workforce Programs as U.S. Talent Gap Nears 200,000](https://www.semiconductor-digest.com/semi-scales-up-workforce-programs-as-u-s-talent-gap-nears-200000/?utm_source=rss&utm_medium=rss&utm_campaign=semi-scales-up-workforce-programs-as-u-s-talent-gap-nears-200000)
-**Published:** Wed, 14 Oct 2026 21:28:13 +0000
-
-<p>When SEMI asks member companies what could hold back their growth, the number one answer is talent, Joe Stockunas, president of SEMI Americas, said at Monday’s SEMICON West press conference.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-scales-up-workforce-programs-as-u-s-talent-gap-nears-200000/">SEMI Scales Up Workforce Programs as U.S. Talent Gap Nears 200,000</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>SEMI and Semiconductor Digest today announced that the SonoFlex Acoustic System from Nordson Test &#038; Inspection (Booth 5844) has won the Best of West award to be presented at SEMICON West 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nordson-sonoflex-wins-2026-best-of-west-award-at-semicon-west/">Nordson SonoFlex Wins 2026 Best of West Award at SEMICON West</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [ChipAgents, NVIDIA Launch Benchmark for Autonomous Chip Design](https://www.semiconductor-digest.com/chipagents-nvidia-launch-benchmark-for-autonomous-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=chipagents-nvidia-launch-benchmark-for-autonomous-chip-design)
-**Published:** Wed, 14 Oct 2026 20:42:25 +0000
+## [Great Lakes Semiconductor Launches Modular Fab and Packaging Project](https://www.semiconductor-digest.com/great-lakes-semiconductor-launches-modular-fab-and-packaging-project/?utm_source=rss&utm_medium=rss&utm_campaign=great-lakes-semiconductor-launches-modular-fab-and-packaging-project)
+**Published:** Thu, 15 Oct 2026 18:14:02 +0000
 
-<p>ChipAgents, the agentic AI platform for semiconductor engineering, today introduced Build-A-Chip-Bench, a benchmark built in collaboration with NVIDIA designed to test whether AI agents can carry an end-to-end digital chip-design task from specification through physical implementation and verified GDS; thus, measuring true progress toward semiconductor design superintelligence.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/chipagents-nvidia-launch-benchmark-for-autonomous-chip-design/">ChipAgents, NVIDIA Launch Benchmark for Autonomous Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nordson Debuts SonoFlex Acoustic Inspection System at SEMICON West](https://www.semiconductor-digest.com/nordson-debuts-sonoflex-acoustic-inspection-system-at-semicon-west/?utm_source=rss&utm_medium=rss&utm_campaign=nordson-debuts-sonoflex-acoustic-inspection-system-at-semicon-west)
-**Published:** Wed, 14 Oct 2026 19:53:49 +0000
-
-<p>Nordson Test &#038; Inspection, a global leader in inspection, metrology, and testing solutions, will showcase its comprehensive portfolio of industry-leading optical, X-ray, acoustic inspection, and metrology technologies powered by the Nordson Intelligence Ecosystem at SEMICON West 2026, October 13–15, in Booth 5844 at the Moscone Center in San Francisco, California.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nordson-debuts-sonoflex-acoustic-inspection-system-at-semicon-west/">Nordson Debuts SonoFlex Acoustic Inspection System at SEMICON West</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Great Lakes Semiconductor (GLS) today announced the first project on its Great American ChipForge platform, launched under the company's Innovation Funnel initiative.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/great-lakes-semiconductor-launches-modular-fab-and-packaging-project/">Great Lakes Semiconductor Launches Modular Fab and Packaging Project</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Siemens, NVIDIA Accelerate Computational Lithography Up to 12×](https://www.semiconductor-digest.com/siemens-transforms-computational-lithography-for-next-generation-ai-semiconductors-with-nvidia-culitho/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-transforms-computational-lithography-for-next-generation-ai-semiconductors-with-nvidia-culitho)
-**Published:** Wed, 14 Oct 2026 19:45:03 +0000
+## [NY Loves Nanotech Rebrands as Semiconductor Alliance NY](https://www.semiconductor-digest.com/ny-loves-nanotech-rebrands-as-semiconductor-alliance-ny/?utm_source=rss&utm_medium=rss&utm_campaign=ny-loves-nanotech-rebrands-as-semiconductor-alliance-ny)
+**Published:** Thu, 15 Oct 2026 15:48:01 +0000
 
-<p>Siemens today announced significant advances in its collaboration with NVIDIA to accelerate computational lithography workflows.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/siemens-transforms-computational-lithography-for-next-generation-ai-semiconductors-with-nvidia-culitho/">Siemens, NVIDIA Accelerate Computational Lithography Up to 12×</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Eliyan Introduces NuLight Optical Interconnect Chiplets](https://www.semiconductor-digest.com/eliyan-introduces-nulight-optical-interconnect-chiplets/?utm_source=rss&utm_medium=rss&utm_campaign=eliyan-introduces-nulight-optical-interconnect-chiplets)
-**Published:** Wed, 14 Oct 2026 18:43:54 +0000
-
-<p>Nexus and Oscar are Eliyan’s first NuLight chiplet products that enable optical connectivity designed for the high-bandwidth, extended reach, and low-power requirements of large AI scale-up and future scale-in systems at copper economics.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/eliyan-introduces-nulight-optical-interconnect-chiplets/">Eliyan Introduces NuLight Optical Interconnect Chiplets</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>New York’s 27-year-old semiconductor outreach consortium unveiled its new name at SEMICON West, swapping “nanotech” for a pitch built around the state’s growing chip ecosystem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ny-loves-nanotech-rebrands-as-semiconductor-alliance-ny/">NY Loves Nanotech Rebrands as Semiconductor Alliance NY</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [NVIDIA Launches Semiconductor Simulation Tools for AI-Defined Fabs](https://www.semiconductor-digest.com/nvidia-launches-semiconductor-simulation-tools-for-ai-defined-fabs/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-launches-semiconductor-simulation-tools-for-ai-defined-fabs)
-**Published:** Wed, 14 Oct 2026 18:39:30 +0000
+## [Wooptix Brings Astronomy Optics to Wafer Metrology](https://www.semiconductor-digest.com/wooptix-brings-astronomy-optics-to-wafer-metrology/?utm_source=rss&utm_medium=rss&utm_campaign=wooptix-brings-astronomy-optics-to-wafer-metrology)
+**Published:** Thu, 15 Oct 2026 15:45:13 +0000
 
-<p>NVIDIA today announced semiconductor leaders are adopting NVIDIA CUDA-X libraries — including the new NVIDIA cuPotential library, which developers can use to build AI agents that simulate how atoms and molecules interact — to advance AI-defined fabs.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nvidia-launches-semiconductor-simulation-tools-for-ai-defined-fabs/">NVIDIA Launches Semiconductor Simulation Tools for AI-Defined Fabs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Wavefront phase imaging captures 16 million data points in a single shot, aiming at in-line shape and stress measurement on every wafer</p>
+<p>The post <a href="https://www.semiconductor-digest.com/wooptix-brings-astronomy-optics-to-wafer-metrology/">Wooptix Brings Astronomy Optics to Wafer Metrology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [IBM and Siemens Collaborate on Next-Generation Nanostack Transistors](https://www.semiconductor-digest.com/ibm-and-siemens-collaborate-on-next-generation-nanostack-transistors/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-and-siemens-collaborate-on-next-generation-nanostack-transistors)
-**Published:** Wed, 14 Oct 2026 18:31:35 +0000
+## [VON ARDENNE Scales HiPIMS Sputtering from Wafers to Panels](https://www.semiconductor-digest.com/von-ardenne-scales-hipims-sputtering-from-wafers-to-panels/?utm_source=rss&utm_medium=rss&utm_campaign=von-ardenne-scales-hipims-sputtering-from-wafers-to-panels)
+**Published:** Thu, 15 Oct 2026 15:43:32 +0000
 
-<p>Collaboration aims to accelerate development of the manufacturing and design capabilities needed for future nanostack generations.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ibm-and-siemens-collaborate-on-next-generation-nanostack-transistors/">IBM and Siemens Collaborate on Next-Generation Nanostack Transistors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Inline, Lego-like deposition platforms honed in glass and solar target through-glass vias and an eventual shift to optical interposers</p>
+<p>The post <a href="https://www.semiconductor-digest.com/von-ardenne-scales-hipims-sputtering-from-wafers-to-panels/">VON ARDENNE Scales HiPIMS Sputtering from Wafers to Panels</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ZEISS SMT Expands from Lithography Optics into Advanced Packaging Process Control](https://www.semiconductor-digest.com/zeiss-smt-expands-from-lithography-optics-into-advanced-packaging-process-control/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-smt-expands-from-lithography-optics-into-advanced-packaging-process-control)
+**Published:** Thu, 15 Oct 2026 15:41:40 +0000
+
+<p>DUNE corrects wafer bow one wafer at a time, NLX brings X-ray inline, and mask tools get ready for High-NA's larger reticles</p>
+<p>The post <a href="https://www.semiconductor-digest.com/zeiss-smt-expands-from-lithography-optics-into-advanced-packaging-process-control/">ZEISS SMT Expands from Lithography Optics into Advanced Packaging Process Control</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ABM Maps the Six Phases of a Fab’s Life](https://www.semiconductor-digest.com/abm-maps-the-six-phases-of-a-fabs-life/?utm_source=rss&utm_medium=rss&utm_campaign=abm-maps-the-six-phases-of-a-fabs-life)
+**Published:** Thu, 15 Oct 2026 15:39:56 +0000
+
+<p>With WGNSTAR now part of ABM, the company says it can staff a fab from construction cleaning to decommissioning as U.S. projects multiply</p>
+<p>The post <a href="https://www.semiconductor-digest.com/abm-maps-the-six-phases-of-a-fabs-life/">ABM Maps the Six Phases of a Fab&#8217;s Life</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
