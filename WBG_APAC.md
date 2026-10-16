@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-16 00:22 UTC_
+_Last updated: 2026-10-16 11:01 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,14 +19,6 @@ _Last updated: 2026-10-16 00:22 UTC_
 
 <p>Global 300mm fab investment is set to accelerate through 2029, driven by expanding semiconductor manufacturing capacity and demand.</p>
 <p>The post <a href="https://www.eetasia.com/semicon-west-2026-semi-forecasts-300mm-fab-equipment-spending-to-reach-227b-by-2029/">SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Rigaku to Showcase X-Ray Metrology for Semiconductor Manufacturing at SEMICON West 2026](https://www.eetasia.com/rigaku-to-showcase-x-ray-metrology-for-semiconductor-manufacturing-at-semicon-west-2026/)
-**Published:** Mon, 12 Oct 2026 23:31:48 +0000
-
-<p>Rigaku will demo X-ray metrology tools for wafer characterization, contamination analysis, thin films and advanced packaging at SEMICON West.</p>
-<p>The post <a href="https://www.eetasia.com/rigaku-to-showcase-x-ray-metrology-for-semiconductor-manufacturing-at-semicon-west-2026/">Rigaku to Showcase X-Ray Metrology for Semiconductor Manufacturing at SEMICON West 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-10-16 00:22 UTC_
 
 <p>With WGNSTAR now part of ABM, the company says it can staff a fab from construction cleaning to decommissioning as U.S. projects multiply</p>
 <p>The post <a href="https://www.semiconductor-digest.com/abm-maps-the-six-phases-of-a-fabs-life/">ABM Maps the Six Phases of a Fab&#8217;s Life</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [HEIDENHAIN Brings Front-End Motion Control Precision to Advanced Packaging](https://www.semiconductor-digest.com/heidenhain-brings-front-end-motion-control-precision-to-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=heidenhain-brings-front-end-motion-control-precision-to-advanced-packaging)
+**Published:** Thu, 15 Oct 2026 15:38:31 +0000
+
+<p>New ETEL METIS HP air bearing stage uses multi-degree-of-freedom encoders to target maskless lithography and inspection on large panels</p>
+<p>The post <a href="https://www.semiconductor-digest.com/heidenhain-brings-front-end-motion-control-precision-to-advanced-packaging/">HEIDENHAIN Brings Front-End Motion Control Precision to Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
