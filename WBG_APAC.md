@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-19 19:16 UTC_
+_Last updated: 2026-10-19 23:33 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [HANMI Semiconductor Opens HANMI USA](https://www.semiconductor-digest.com/hanmi-semiconductor-opens-hanmi-usa/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-opens-hanmi-usa)
+**Published:** Mon, 19 Oct 2026 21:50:03 +0000
+
+<p>HANMI Semiconductor today announced that it has opened U.S. subsidiary HANMI USA, a major step in expanding its presence in the U.S. semiconductor market.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hanmi-semiconductor-opens-hanmi-usa/">HANMI Semiconductor Opens HANMI USA</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Electronic System Design Industry Posts $5.7 Billion in Revenue in Q2 2026, ESD Alliance Reports](https://www.semiconductor-digest.com/electronic-system-design-industry-posts-5-7-billion-in-revenue-in-q2-2026-esd-alliance-reports/?utm_source=rss&utm_medium=rss&utm_campaign=electronic-system-design-industry-posts-5-7-billion-in-revenue-in-q2-2026-esd-alliance-reports)
+**Published:** Mon, 19 Oct 2026 21:38:07 +0000
+
+<p>Electronic System Design (ESD) industry revenue increased 12.2% to $5,710.8 million in the second quarter of 2026 from the $5,089.4 million registered in the second quarter of 2025, the ESD Alliance, a SEMI Technology Coalition, announced today.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/electronic-system-design-industry-posts-5-7-billion-in-revenue-in-q2-2026-esd-alliance-reports/">Electronic System Design Industry Posts $5.7 Billion in Revenue in Q2 2026, ESD Alliance Reports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-10-19 19:16 UTC_
 
 <p>Inline, Lego-like deposition platforms honed in glass and solar target through-glass vias and an eventual shift to optical interposers</p>
 <p>The post <a href="https://www.semiconductor-digest.com/von-ardenne-scales-hipims-sputtering-from-wafers-to-panels/">VON ARDENNE Scales HiPIMS Sputtering from Wafers to Panels</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ZEISS SMT Expands from Lithography Optics into Advanced Packaging Process Control](https://www.semiconductor-digest.com/zeiss-smt-expands-from-lithography-optics-into-advanced-packaging-process-control/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-smt-expands-from-lithography-optics-into-advanced-packaging-process-control)
-**Published:** Thu, 15 Oct 2026 15:41:40 +0000
-
-<p>DUNE corrects wafer bow one wafer at a time, NLX brings X-ray inline, and mask tools get ready for High-NA's larger reticles</p>
-<p>The post <a href="https://www.semiconductor-digest.com/zeiss-smt-expands-from-lithography-optics-into-advanced-packaging-process-control/">ZEISS SMT Expands from Lithography Optics into Advanced Packaging Process Control</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ABM Maps the Six Phases of a Fab’s Life](https://www.semiconductor-digest.com/abm-maps-the-six-phases-of-a-fabs-life/?utm_source=rss&utm_medium=rss&utm_campaign=abm-maps-the-six-phases-of-a-fabs-life)
-**Published:** Thu, 15 Oct 2026 15:39:56 +0000
-
-<p>With WGNSTAR now part of ABM, the company says it can staff a fab from construction cleaning to decommissioning as U.S. projects multiply</p>
-<p>The post <a href="https://www.semiconductor-digest.com/abm-maps-the-six-phases-of-a-fabs-life/">ABM Maps the Six Phases of a Fab&#8217;s Life</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
