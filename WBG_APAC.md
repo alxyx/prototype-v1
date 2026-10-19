@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-19 12:30 UTC_
+_Last updated: 2026-10-19 19:16 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [The Workforce Behind the Roadmap](https://www.semiconductor-digest.com/the-workforce-behind-the-roadmap/?utm_source=rss&utm_medium=rss&utm_campaign=the-workforce-behind-the-roadmap)
+**Published:** Mon, 19 Oct 2026 14:01:13 +0000
+
+<p>For three years, every semiconductor conference has featured some version of the same slide: the industry doesn’t have enough people to build what it’s promising. This month, SEMI’s National Network for Microelectronics Education (NNME), backed by the National Science Foundation and the U.S. Department of Commerce, named its first Industry Advisory Committee to turn those warnings into a national strategy, against a projected U.S. shortfall of 127,000 to 157,000 workers by 2030.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-workforce-behind-the-roadmap/">The Workforce Behind the Roadmap</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Roseville Shows What It Takes to Build Semiconductor Capacity in Northern California](https://www.semiconductor-digest.com/roseville-shows-what-it-takes-to-build-semiconductor-capacity-in-northern-california/?utm_source=rss&utm_medium=rss&utm_campaign=roseville-shows-what-it-takes-to-build-semiconductor-capacity-in-northern-california)
+**Published:** Mon, 19 Oct 2026 13:56:18 +0000
+
+<p>When Bosch acquired the former TSI Semiconductors fab in Roseville, Calif., it chose to modernize a site with nearly 40 years of semiconductor manufacturing experience rather than build from scratch. Bosch is investing up to $2 billion to convert the facility to silicon carbide production, and sample production on 200mm wafers is now underway at what is Bosch’s first U.S. semiconductor site.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/roseville-shows-what-it-takes-to-build-semiconductor-capacity-in-northern-california/">Roseville Shows What It Takes to Build Semiconductor Capacity in Northern California</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-10-19 12:30 UTC_
 
 <p>With WGNSTAR now part of ABM, the company says it can staff a fab from construction cleaning to decommissioning as U.S. projects multiply</p>
 <p>The post <a href="https://www.semiconductor-digest.com/abm-maps-the-six-phases-of-a-fabs-life/">ABM Maps the Six Phases of a Fab&#8217;s Life</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [HEIDENHAIN Brings Front-End Motion Control Precision to Advanced Packaging](https://www.semiconductor-digest.com/heidenhain-brings-front-end-motion-control-precision-to-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=heidenhain-brings-front-end-motion-control-precision-to-advanced-packaging)
-**Published:** Thu, 15 Oct 2026 15:38:31 +0000
-
-<p>New ETEL METIS HP air bearing stage uses multi-degree-of-freedom encoders to target maskless lithography and inspection on large panels</p>
-<p>The post <a href="https://www.semiconductor-digest.com/heidenhain-brings-front-end-motion-control-precision-to-advanced-packaging/">HEIDENHAIN Brings Front-End Motion Control Precision to Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Advantest Readies Silicon Photonics Test for Volume Production](https://www.semiconductor-digest.com/advantest-readies-silicon-photonics-test-for-volume-production/?utm_source=rss&utm_medium=rss&utm_campaign=advantest-readies-silicon-photonics-test-for-volume-production)
-**Published:** Thu, 15 Oct 2026 14:12:28 +0000
-
-<p>V93000 integration with FormFactor's TRITON prober and a new turnkey optical test rack target the move from engineering to HVM</p>
-<p>The post <a href="https://www.semiconductor-digest.com/advantest-readies-silicon-photonics-test-for-volume-production/">Advantest Readies Silicon Photonics Test for Volume Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
