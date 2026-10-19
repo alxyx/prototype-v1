@@ -1,24 +1,8 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-18 22:28 UTC_
+_Last updated: 2026-10-19 06:06 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
-
----
-
-## [SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing](https://www.eetasia.com/nvidia-expands-gpu-libraries-for-ai-driven-semiconductor-manufacturing/)
-**Published:** Thu, 15 Oct 2026 02:10:21 +0000
-
-<p>NVIDIA and industry partners are applying accelerated computing and AI agents to chip simulation, process optimization, inspection and fab automation.</p>
-<p>The post <a href="https://www.eetasia.com/nvidia-expands-gpu-libraries-for-ai-driven-semiconductor-manufacturing/">SEMICON West 2026: NVIDIA Expands GPU Libraries for AI-driven Semiconductor Manufacturing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029](https://www.eetasia.com/semicon-west-2026-semi-forecasts-300mm-fab-equipment-spending-to-reach-227b-by-2029/)
-**Published:** Wed, 14 Oct 2026 07:28:28 +0000
-
-<p>Global 300mm fab investment is set to accelerate through 2029, driven by expanding semiconductor manufacturing capacity and demand.</p>
-<p>The post <a href="https://www.eetasia.com/semicon-west-2026-semi-forecasts-300mm-fab-equipment-spending-to-reach-227b-by-2029/">SEMICON West 2026: SEMI Forecasts 300mm Fab Equipment Spending to Reach $227B by 2029</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +67,22 @@ _Last updated: 2026-10-18 22:28 UTC_
 
 <p>With WGNSTAR now part of ABM, the company says it can staff a fab from construction cleaning to decommissioning as U.S. projects multiply</p>
 <p>The post <a href="https://www.semiconductor-digest.com/abm-maps-the-six-phases-of-a-fabs-life/">ABM Maps the Six Phases of a Fab&#8217;s Life</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [HEIDENHAIN Brings Front-End Motion Control Precision to Advanced Packaging](https://www.semiconductor-digest.com/heidenhain-brings-front-end-motion-control-precision-to-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=heidenhain-brings-front-end-motion-control-precision-to-advanced-packaging)
+**Published:** Thu, 15 Oct 2026 15:38:31 +0000
+
+<p>New ETEL METIS HP air bearing stage uses multi-degree-of-freedom encoders to target maskless lithography and inspection on large panels</p>
+<p>The post <a href="https://www.semiconductor-digest.com/heidenhain-brings-front-end-motion-control-precision-to-advanced-packaging/">HEIDENHAIN Brings Front-End Motion Control Precision to Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Advantest Readies Silicon Photonics Test for Volume Production](https://www.semiconductor-digest.com/advantest-readies-silicon-photonics-test-for-volume-production/?utm_source=rss&utm_medium=rss&utm_campaign=advantest-readies-silicon-photonics-test-for-volume-production)
+**Published:** Thu, 15 Oct 2026 14:12:28 +0000
+
+<p>V93000 integration with FormFactor's TRITON prober and a new turnkey optical test rack target the move from engineering to HVM</p>
+<p>The post <a href="https://www.semiconductor-digest.com/advantest-readies-silicon-photonics-test-for-volume-production/">Advantest Readies Silicon Photonics Test for Volume Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
