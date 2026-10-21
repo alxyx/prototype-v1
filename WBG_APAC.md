@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-21 07:31 UTC_
+_Last updated: 2026-10-21 13:48 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Did You Miss a SEMICON West Show Daily?](https://www.semiconductor-digest.com/did-you-miss-a-semicon-west-show-daily-2/?utm_source=rss&utm_medium=rss&utm_campaign=did-you-miss-a-semicon-west-show-daily-2)
+**Published:** Wed, 21 Oct 2026 13:05:45 +0000
+
+<p>Three days, one industry, and a lot happening on the show floor. If you couldn’t keep up with everything at SEMICON West’s San Francisco return, our Show Daily editions have the news, insights, and announcements you need.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/did-you-miss-a-semicon-west-show-daily-2/">Did You Miss a SEMICON West Show Daily?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-10-21 07:31 UTC_
 
 <p>A capacitor designed to be built into the PCB or package core supports the vertical power delivery that AI chips need, and a new 2 mm part is sampling</p>
 <p>The post <a href="https://www.semiconductor-digest.com/saras-micro-devices-embeds-capacitors-to-power-ai-accelerators/">Saras Micro Devices Embeds Capacitors to Power AI Accelerators</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nordson SonoFlex Wins 2026 Best of West Award at SEMICON West](https://www.semiconductor-digest.com/nordson-sonoflex-wins-2026-best-of-west-award-at-semicon-west/?utm_source=rss&utm_medium=rss&utm_campaign=nordson-sonoflex-wins-2026-best-of-west-award-at-semicon-west)
-**Published:** Thu, 15 Oct 2026 18:31:44 +0000
-
-<p>SEMI and Semiconductor Digest today announced that the SonoFlex Acoustic System from Nordson Test &#038; Inspection (Booth 5844) has won the Best of West award to be presented at SEMICON West 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nordson-sonoflex-wins-2026-best-of-west-award-at-semicon-west/">Nordson SonoFlex Wins 2026 Best of West Award at SEMICON West</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
