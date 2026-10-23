@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-23 07:15 UTC_
+_Last updated: 2026-10-23 13:24 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,14 @@ _Last updated: 2026-10-23 07:15 UTC_
 
 <p>ST's HELIX research program with NUS will explore how memory, processing and software can be designed together for real-time embedded AI.</p>
 <p>The post <a href="https://www.eetasia.com/stmicroelectronics-looks-to-memory-centric-designs-for-physical-ai/">STMicroelectronics Looks to Memory-centric Designs for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Gigaphoton Takes Its Lightsources Beyond the Scanner](https://www.semiconductor-digest.com/gigaphoton-takes-its-lightsources-beyond-the-scanner/?utm_source=rss&utm_medium=rss&utm_campaign=gigaphoton-takes-its-lightsources-beyond-the-scanner)
+**Published:** Fri, 23 Oct 2026 12:52:01 +0000
+
+<p>The excimer laser maker is applying its lithography know-how to micro-via drilling for advanced packaging, compact EUV sources for actinic mask inspection and 3D metrology, and on-site neon recycling to blunt the next rare-gas crisis.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/gigaphoton-takes-its-lightsources-beyond-the-scanner/">Gigaphoton Takes Its Lightsources Beyond the Scanner</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-10-23 07:15 UTC_
 
 <p>NVIDIA today announced plans with a group of supply chain partners to expand global manufacturing capacity to meet growing demand for its accelerated computing and full-stack AI factory platform.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout/">NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [STMicroelectronics Adds MasterGaN7 Devices to Integrated High-Efficiency Power Family](https://www.semiconductor-digest.com/stmicroelectronics-adds-mastergan7-devices-to-integrated-high-efficiency-power-family/?utm_source=rss&utm_medium=rss&utm_campaign=stmicroelectronics-adds-mastergan7-devices-to-integrated-high-efficiency-power-family)
-**Published:** Wed, 21 Oct 2026 20:45:24 +0000
-
-<p>STMicroelectronics has extended its MasterGaN integrated transistor/driver family with new MasterGaN7 devices that contain 650V enhancement-mode GaN transistors with 6A maximum current rating.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/stmicroelectronics-adds-mastergan7-devices-to-integrated-high-efficiency-power-family/">STMicroelectronics Adds MasterGaN7 Devices to Integrated High-Efficiency Power Family</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
