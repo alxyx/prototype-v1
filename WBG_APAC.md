@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-26 21:40 UTC_
+_Last updated: 2026-10-27 23:45 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue](https://www.eetasia.com/electronic-system-design-industry-posts-5-7b-in-2q-2026-revenue/)
+**Published:** Tue, 27 Oct 2026 02:51:59 +0000
+
+<p>Global electronic system design revenue increased as semiconductor IP, services and Asia-Pacific demand recorded double-digit growth.</p>
+<p>The post <a href="https://www.eetasia.com/electronic-system-design-industry-posts-5-7b-in-2q-2026-revenue/">Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -14,75 +22,67 @@ _Last updated: 2026-10-26 21:40 UTC_
 
 ---
 
-## [STMicroelectronics Looks to Memory-centric Designs for Physical AI](https://www.eetasia.com/stmicroelectronics-looks-to-memory-centric-designs-for-physical-ai/)
-**Published:** Thu, 22 Oct 2026 02:13:13 +0000
+## [AMHS Is Not Just Factory Logistics](https://www.semiconductor-digest.com/amhs-is-not-just-factory-logistics/?utm_source=rss&utm_medium=rss&utm_campaign=amhs-is-not-just-factory-logistics)
+**Published:** Tue, 27 Oct 2026 14:32:32 +0000
 
-<p>ST's HELIX research program with NUS will explore how memory, processing and software can be designed together for real-time embedded AI.</p>
-<p>The post <a href="https://www.eetasia.com/stmicroelectronics-looks-to-memory-centric-designs-for-physical-ai/">STMicroelectronics Looks to Memory-centric Designs for Physical AI</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Silicon Carbide and Gallium Nitride Play Growing Role in Electronics Design, Manufacturing and Supply-Chain Strategy](https://www.semiconductor-digest.com/silicon-carbide-and-gallium-nitride-play-growing-role-in-electronics-design-manufacturing-and-supply-chain-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-carbide-and-gallium-nitride-play-growing-role-in-electronics-design-manufacturing-and-supply-chain-strategy)
-**Published:** Mon, 26 Oct 2026 18:33:39 +0000
-
-<p>New research from the Global Electronics Association and Accuris launches a series examining technology trends shaping the electronics industry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/silicon-carbide-and-gallium-nitride-play-growing-role-in-electronics-design-manufacturing-and-supply-chain-strategy/">Silicon Carbide and Gallium Nitride Play Growing Role in Electronics Design, Manufacturing and Supply-Chain Strategy</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Automated material handling systems are usually treated as the fab’s logistics layer, moving lots between tools as quickly as possible. Dr. Moh Kolbehdari of Socionext America argues that view is becoming incomplete, because every wafer carrier holds material with a continuously developing manufacturing history.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/amhs-is-not-just-factory-logistics/">AMHS Is Not Just Factory Logistics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Cadence Unveils Domain-Specialized Maestro AI Models for Chip Design](https://www.semiconductor-digest.com/cadence-unveils-domain-specialized-maestro-ai-models-for-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-unveils-domain-specialized-maestro-ai-models-for-chip-design)
-**Published:** Mon, 26 Oct 2026 18:30:33 +0000
+## [Wafer Fab Equipment: A Booming Market Built on a Fragmenting Supply Chain](https://www.semiconductor-digest.com/wafer-fab-equipment-a-booming-market-built-on-a-fragmenting-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=wafer-fab-equipment-a-booming-market-built-on-a-fragmenting-supply-chain)
+**Published:** Tue, 27 Oct 2026 14:29:24 +0000
 
-<p>Cadence today announced the Maestro AI Model Portfolio, which powers Cadence AI Super Agents across semiconductor and system design workflows.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/cadence-unveils-domain-specialized-maestro-ai-models-for-chip-design/">Cadence Unveils Domain-Specialized Maestro AI Models for Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [From Fluid Handling to Dose Control: How Valve Technology Evolved from Process Component to Dose-Control Enabler](https://www.semiconductor-digest.com/from-fluid-handling-to-dose-control-how-valve-technology-evolved-from-process-component-to-dose-control-enabler/?utm_source=rss&utm_medium=rss&utm_campaign=from-fluid-handling-to-dose-control-how-valve-technology-evolved-from-process-component-to-dose-control-enabler)
-**Published:** Mon, 26 Oct 2026 13:38:43 +0000
-
-<p>As device architectures shrink and move into 3D, the process windows for atomic layer processes have narrowed to the point where valve performance has become a system-level concern. Jeff DeWitt of Swagelok traces how semiconductor fluid systems have evolved through three eras, purity, performance and precision, each driven by the industry’s most pressing process challenge at the time.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/from-fluid-handling-to-dose-control-how-valve-technology-evolved-from-process-component-to-dose-control-enabler/">From Fluid Handling to Dose Control: How Valve Technology Evolved from Process Component to Dose-Control Enabler</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Wafer fab equipment revenue reached $129 billion in 2025 and is forecast to approach $220 billion by 2031, a 9% CAGR, according to Yole Group’s Status of the Wafer Fab Equipment Industry 2026 report. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/wafer-fab-equipment-a-booming-market-built-on-a-fragmenting-supply-chain/">Wafer Fab Equipment: A Booming Market Built on a Fragmenting Supply Chain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [The High-Tech Workforce Has Changed, and Employers Need to Change With It](https://www.semiconductor-digest.com/the-high-tech-workforce-has-changed-and-employers-need-to-change-with-it/?utm_source=rss&utm_medium=rss&utm_campaign=the-high-tech-workforce-has-changed-and-employers-need-to-change-with-it)
-**Published:** Mon, 26 Oct 2026 13:34:36 +0000
+## [Back-End Equipment: From Volume Assembly to a Strategic Advanced Packaging Ecosystem](https://www.semiconductor-digest.com/back-end-equipment-from-volume-assembly-to-a-strategic-advanced-packaging-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=back-end-equipment-from-volume-assembly-to-a-strategic-advanced-packaging-ecosystem)
+**Published:** Tue, 27 Oct 2026 14:26:50 +0000
 
-<p> In a Show Daily interview, Tamara Ellestad, founder and CEO of VELO, a woman- and minority-owned staffing firm specializing in advanced manufacturing, says staffing has grown significantly over the last two years, and candidates with specialized skills such as tool installation now field multiple calls a day.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-high-tech-workforce-has-changed-and-employers-need-to-change-with-it/">The High-Tech Workforce Has Changed, and Employers Need to Change With It</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Taking a Holistic Approach to Co-Packaged Optics Manufacturing](https://www.semiconductor-digest.com/taking-a-holistic-approach-to-co-packaged-optics-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=taking-a-holistic-approach-to-co-packaged-optics-manufacturing)
-**Published:** Mon, 26 Oct 2026 13:31:48 +0000
-
-<p>As AI systems scale from individual processors to large clusters of accelerators, moving data between them has become a system-level challenge. Co-packaged optics (CPO) addresses it by integrating photonic devices in the same package as the processors or switch silicon they serve.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/taking-a-holistic-approach-to-co-packaged-optics-manufacturing/">Taking a Holistic Approach to Co-Packaged Optics Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>According to Yole Group’s Status of the Back-End Equipment Industry 2026 report, equipment revenue will grow from $8.1 billion in 2025 to $9.5 billion in 2026 and $10.6 billion in 2027.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/back-end-equipment-from-volume-assembly-to-a-strategic-advanced-packaging-ecosystem/">Back-End Equipment: From Volume Assembly to a Strategic Advanced Packaging Ecosystem</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Machine Learning Could Make Gas Purity Data Do More Than Pass or Fail](https://www.semiconductor-digest.com/machine-learning-could-make-gas-purity-data-do-more-than-pass-or-fail/?utm_source=rss&utm_medium=rss&utm_campaign=machine-learning-could-make-gas-purity-data-do-more-than-pass-or-fail)
-**Published:** Mon, 26 Oct 2026 13:28:49 +0000
+## [From Wafers to Panels: Overcoming Lithography Challenges in Advanced Packaging](https://www.semiconductor-digest.com/from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging)
+**Published:** Tue, 27 Oct 2026 14:04:55 +0000
 
-<p>At the point where ultra-high-purity gas passes from supplier to fab, a process analyzer’s main job is to confirm the gas meets specification, which makes the data stream “intentionally and ideally kind of boring,” says Jeff Wuenschell, gas analysis applications scientist at AMETEK Process Instruments.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/machine-learning-could-make-gas-purity-data-do-more-than-pass-or-fail/">Machine Learning Could Make Gas Purity Data Do More Than Pass or Fail</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Chemical-Resistant Coatings: A Critical Defense for Semiconductor Fabs](https://www.semiconductor-digest.com/chemical-resistant-coatings-a-critical-defense-for-semiconductor-fabs/?utm_source=rss&utm_medium=rss&utm_campaign=chemical-resistant-coatings-a-critical-defense-for-semiconductor-fabs)
-**Published:** Mon, 26 Oct 2026 13:17:47 +0000
-
-<p>Semiconductor facilities routinely handle aggressive acids, solvents and cleaning agents, and corrosion is a persistent threat to equipment, structural steel, concrete, walls and floors. Left unchecked, it can damage assets, generate contaminants and cause costly downtime.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/chemical-resistant-coatings-a-critical-defense-for-semiconductor-fabs/">Chemical-Resistant Coatings: A Critical Defense for Semiconductor Fabs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Unlike front-end lithography, packaging lithography typically works at feature sizes around 1 µm, so overlay accuracy, throughput and thermal stability matter more than ever-smaller CDs, and those demands grow as substrates move from 300mm wafers to panels as large as 600 x 600mm.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging/">From Wafers to Panels: Overcoming Lithography Challenges in Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Spotfire Puts AI Inside the Analysis for Yield Engineers](https://www.semiconductor-digest.com/spotfire-puts-ai-inside-the-analysis-for-yield-engineers/?utm_source=rss&utm_medium=rss&utm_campaign=spotfire-puts-ai-inside-the-analysis-for-yield-engineers)
-**Published:** Mon, 26 Oct 2026 13:15:12 +0000
+## [Has AI Shifted the Sustainability Balance from Chip Design to Manufacturing?](https://www.semiconductor-digest.com/has-ai-shifted-the-sustainability-balance-from-chip-design-to-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=has-ai-shifted-the-sustainability-balance-from-chip-design-to-manufacturing)
+**Published:** Tue, 27 Oct 2026 14:00:31 +0000
 
-<p>The AI boom shows up on both sides of Spotfire’s business. The companies making the chips behind AI data centers are Spotfire customers, and as they run their fabs flat out, they need faster decisions from their data. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/spotfire-puts-ai-inside-the-analysis-for-yield-engineers/">Spotfire Puts AI Inside the Analysis for Yield Engineers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>For decades, semiconductor sustainability was treated largely as a chip design problem: better performance per watt, specialized accelerators and smarter power management. With the AI build-out driving a wave of new fabs, John Blyler argues the burden is now shifting onto manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/has-ai-shifted-the-sustainability-balance-from-chip-design-to-manufacturing/">Has AI Shifted the Sustainability Balance from Chip Design to Manufacturing?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Why Is AI Finally Sticking Inside the Fab?](https://www.semiconductor-digest.com/why-is-ai-finally-sticking-inside-the-fab/?utm_source=rss&utm_medium=rss&utm_campaign=why-is-ai-finally-sticking-inside-the-fab)
+**Published:** Tue, 27 Oct 2026 13:58:03 +0000
+
+<p>Fabs never bought the pitch of a single, fab-wide AI platform, writes Mahima Sambre of Acumen Research and Consulting. What they are funding instead are narrow, deterministic tools, such as a defect classifier on one inspection tool or a virtual metrology model on one deposition step, deployed wherever yield loss is most expensive.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/why-is-ai-finally-sticking-inside-the-fab/">Why Is AI Finally Sticking Inside the Fab?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The Measurement Gap: Why Metrology and Inspection Is Outgrowing the Industry’s Ability to Supply It](https://www.semiconductor-digest.com/the-measurement-gap-why-metrology-and-inspection-is-outgrowing-the-industrys-ability-to-supply-it/?utm_source=rss&utm_medium=rss&utm_campaign=the-measurement-gap-why-metrology-and-inspection-is-outgrowing-the-industrys-ability-to-supply-it)
+**Published:** Tue, 27 Oct 2026 13:55:33 +0000
+
+<p>Wafer fab equipment spending is heading toward about $162 billion in 2026, up roughly 25%, and metrology and inspection now account for about 14% of it. Clara Grcevic of Yole Group explains why Yole has raised its 2031 forecast for the segment from $24.7 billion to $31.4 billion, a revision driven mostly by memory, which in turn is being driven by AI.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-measurement-gap-why-metrology-and-inspection-is-outgrowing-the-industrys-ability-to-supply-it/">The Measurement Gap: Why Metrology and Inspection Is Outgrowing the Industry’s Ability to Supply It</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Why SiC and GaN Need Their Own Qualification Standards](https://www.semiconductor-digest.com/why-sic-and-gan-need-their-own-qualification-standards/?utm_source=rss&utm_medium=rss&utm_campaign=why-sic-and-gan-need-their-own-qualification-standards)
+**Published:** Tue, 27 Oct 2026 13:53:11 +0000
+
+<p>Silicon carbide and gallium nitride power devices have moved quickly into EV inverters, onboard chargers, solar inverters and data center power supplies. But Dr. Pradyumna Gupta of Infinita Lab argues the qualification standards used to vouch for them, including JEDEC JESD47, AEC-Q101 and the JESD22 stress tests, were built around silicon failure modes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/why-sic-and-gan-need-their-own-qualification-standards/">Why SiC and GaN Need Their Own Qualification Standards</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
