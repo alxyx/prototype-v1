@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-27 23:45 UTC_
+_Last updated: 2026-10-28 04:29 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,14 +11,6 @@ _Last updated: 2026-10-27 23:45 UTC_
 
 <p>Global electronic system design revenue increased as semiconductor IP, services and Asia-Pacific demand recorded double-digit growth.</p>
 <p>The post <a href="https://www.eetasia.com/electronic-system-design-industry-posts-5-7b-in-2q-2026-revenue/">Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Infineon and Wolfspeed Ink Multi-year 200mm SiC Wafer Supply Deal](https://www.eetasia.com/infineon-and-wolfspeed-ink-multi-year-200mm-sic-wafer-supply-deal/)
-**Published:** Thu, 22 Oct 2026 02:48:52 +0000
-
-<p>The agreement shifts Infineon's existing supply relationship with Wolfspeed to larger-diameter substrates for SiC manufacturing.</p>
-<p>The post <a href="https://www.eetasia.com/infineon-and-wolfspeed-ink-multi-year-200mm-sic-wafer-supply-deal/">Infineon and Wolfspeed Ink Multi-year 200mm SiC Wafer Supply Deal</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-10-27 23:45 UTC_
 
 <p>Silicon carbide and gallium nitride power devices have moved quickly into EV inverters, onboard chargers, solar inverters and data center power supplies. But Dr. Pradyumna Gupta of Infinita Lab argues the qualification standards used to vouch for them, including JEDEC JESD47, AEC-Q101 and the JESD22 stress tests, were built around silicon failure modes.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/why-sic-and-gan-need-their-own-qualification-standards/">Why SiC and GaN Need Their Own Qualification Standards</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [How to Tackle Hidden Production Risks in Semiconductor Operations](https://www.semiconductor-digest.com/how-to-tackle-hidden-production-risks-in-semiconductor-operations/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-tackle-hidden-production-risks-in-semiconductor-operations)
+**Published:** Tue, 27 Oct 2026 13:24:41 +0000
+
+<p>Fabs apply enormous engineering discipline to their tools and recipes, but manual operations such as wafer lot packaging, reticle transport, preventive maintenance and parts cleaning get far less structured scrutiny, even though valuable material passes through human hands hundreds of times a day. Craig Walters of Kelly calls this the risk that hides in plain sight on the fab floor.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/how-to-tackle-hidden-production-risks-in-semiconductor-operations/">How to Tackle Hidden Production Risks in Semiconductor Operations</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
