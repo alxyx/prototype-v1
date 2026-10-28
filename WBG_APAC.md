@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-28 17:23 UTC_
+_Last updated: 2026-10-28 22:30 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,6 +11,22 @@ _Last updated: 2026-10-28 17:23 UTC_
 
 <p>Global electronic system design revenue increased as semiconductor IP, services and Asia-Pacific demand recorded double-digit growth.</p>
 <p>The post <a href="https://www.eetasia.com/electronic-system-design-industry-posts-5-7b-in-2q-2026-revenue/">Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [ChipAgents Expands Full-Stack Agentic AI Across Digital and Analog Chip Design](https://www.semiconductor-digest.com/chipagents-expands-full-stack-agentic-ai-across-digital-and-analog-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=chipagents-expands-full-stack-agentic-ai-across-digital-and-analog-chip-design)
+**Published:** Wed, 28 Oct 2026 18:49:24 +0000
+
+<p>ChipAgents, the category leader in agentic AI platforms for semiconductor design, announced the expansion of its AI-native engineering platform across digital and analog chip design, bringing more of the semiconductor development flow onto a shared agentic foundation.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/chipagents-expands-full-stack-agentic-ai-across-digital-and-analog-chip-design/">ChipAgents Expands Full-Stack Agentic AI Across Digital and Analog Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Lam and imec Expand Collaboration to Advance Manufacturability of Next-Gen 3D Integration Technologies](https://www.semiconductor-digest.com/lam-and-imec-expand-collaboration-to-advance-manufacturability-of-next-gen-3d-integration-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=lam-and-imec-expand-collaboration-to-advance-manufacturability-of-next-gen-3d-integration-technologies)
+**Published:** Wed, 28 Oct 2026 18:40:58 +0000
+
+<p>Lam has extended its long-standing strategic collaboration with imec, a world-leading research and innovation center in advanced semiconductor technologies, to include two new joint research and development focuses: enabling advanced 3D integration and advancing Aether® dry resist for future high-NA EUV patterning. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/lam-and-imec-expand-collaboration-to-advance-manufacturability-of-next-gen-3d-integration-technologies/">Lam and imec Expand Collaboration to Advance Manufacturability of Next-Gen 3D Integration Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-10-28 17:23 UTC_
 
 <p>According to Yole Group’s Status of the Back-End Equipment Industry 2026 report, equipment revenue will grow from $8.1 billion in 2025 to $9.5 billion in 2026 and $10.6 billion in 2027.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/back-end-equipment-from-volume-assembly-to-a-strategic-advanced-packaging-ecosystem/">Back-End Equipment: From Volume Assembly to a Strategic Advanced Packaging Ecosystem</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [From Wafers to Panels: Overcoming Lithography Challenges in Advanced Packaging](https://www.semiconductor-digest.com/from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging)
-**Published:** Tue, 27 Oct 2026 14:04:55 +0000
-
-<p>Unlike front-end lithography, packaging lithography typically works at feature sizes around 1 µm, so overlay accuracy, throughput and thermal stability matter more than ever-smaller CDs, and those demands grow as substrates move from 300mm wafers to panels as large as 600 x 600mm.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging/">From Wafers to Panels: Overcoming Lithography Challenges in Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Has AI Shifted the Sustainability Balance from Chip Design to Manufacturing?](https://www.semiconductor-digest.com/has-ai-shifted-the-sustainability-balance-from-chip-design-to-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=has-ai-shifted-the-sustainability-balance-from-chip-design-to-manufacturing)
-**Published:** Tue, 27 Oct 2026 14:00:31 +0000
-
-<p>For decades, semiconductor sustainability was treated largely as a chip design problem: better performance per watt, specialized accelerators and smarter power management. With the AI build-out driving a wave of new fabs, John Blyler argues the burden is now shifting onto manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/has-ai-shifted-the-sustainability-balance-from-chip-design-to-manufacturing/">Has AI Shifted the Sustainability Balance from Chip Design to Manufacturing?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
