@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-28 04:29 UTC_
+_Last updated: 2026-10-28 11:17 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,6 +11,30 @@ _Last updated: 2026-10-28 04:29 UTC_
 
 <p>Global electronic system design revenue increased as semiconductor IP, services and Asia-Pacific demand recorded double-digit growth.</p>
 <p>The post <a href="https://www.eetasia.com/electronic-system-design-industry-posts-5-7b-in-2q-2026-revenue/">Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [From Lab to Fab: The Rise of HiPIMS in Semiconductor Manufacturing](https://www.semiconductor-digest.com/from-lab-to-fab-the-rise-of-hipims-in-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=from-lab-to-fab-the-rise-of-hipims-in-semiconductor-manufacturing)
+**Published:** Wed, 28 Oct 2026 10:42:00 +0000
+
+<p>High-power impulse magnetron sputtering (HiPIMS) produces denser, better-adhering films than conventional sputtering, but scaling it to 200mm-plus substrates and inline production takes more than turning up the power. Authors from VON ARDENNE describe the engineering investment needed to move the technique from the lab into high-volume manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/from-lab-to-fab-the-rise-of-hipims-in-semiconductor-manufacturing/">From Lab to Fab: The Rise of HiPIMS in Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Enabling Next-Generation Plasma Dicing with Ultrasonic Spray Coating and Digital Lithography](https://www.semiconductor-digest.com/enabling-next-generation-plasma-dicing-with-ultrasonic-spray-coating-and-digital-lithography/?utm_source=rss&utm_medium=rss&utm_campaign=enabling-next-generation-plasma-dicing-with-ultrasonic-spray-coating-and-digital-lithography)
+**Published:** Wed, 28 Oct 2026 10:37:00 +0000
+
+<p>Plasma dicing offers clear advantages over saw and laser singulation for thin wafers, hybrid bonding and HBM: throughput that doesn’t depend on die count, dicing streets as narrow as 5 µm and less mechanical stress. But bumps, copper pillars and cavities make it hard to protect the die surface during plasma etching, and conventional spin coating struggles to cover that topography.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/enabling-next-generation-plasma-dicing-with-ultrasonic-spray-coating-and-digital-lithography/">Enabling Next-Generation Plasma Dicing with Ultrasonic Spray Coating and Digital Lithography</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Advanced Packaging Process Control Through Full-Field Wafer Shape Using WFPI](https://www.semiconductor-digest.com/advanced-packaging-process-control-through-full-field-wafer-shape-using-wfpi/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-packaging-process-control-through-full-field-wafer-shape-using-wfpi)
+**Published:** Wed, 28 Oct 2026 10:37:00 +0000
+
+<p>Backside power delivery networks and HBM stacks depend on wafer bonding with tight pitches and overlay budgets, and even small bonding-induced distortions can turn into yield loss in downstream CMP, lithography and stacking. Traditional metrology often can’t deliver fast, full-wafer, non-destructive measurements at the speed high-volume manufacturing requires.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/advanced-packaging-process-control-through-full-field-wafer-shape-using-wfpi/">Advanced Packaging Process Control Through Full-Field Wafer Shape Using WFPI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-10-28 04:29 UTC_
 
 <p>Fabs never bought the pitch of a single, fab-wide AI platform, writes Mahima Sambre of Acumen Research and Consulting. What they are funding instead are narrow, deterministic tools, such as a defect classifier on one inspection tool or a virtual metrology model on one deposition step, deployed wherever yield loss is most expensive.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/why-is-ai-finally-sticking-inside-the-fab/">Why Is AI Finally Sticking Inside the Fab?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [The Measurement Gap: Why Metrology and Inspection Is Outgrowing the Industry’s Ability to Supply It](https://www.semiconductor-digest.com/the-measurement-gap-why-metrology-and-inspection-is-outgrowing-the-industrys-ability-to-supply-it/?utm_source=rss&utm_medium=rss&utm_campaign=the-measurement-gap-why-metrology-and-inspection-is-outgrowing-the-industrys-ability-to-supply-it)
-**Published:** Tue, 27 Oct 2026 13:55:33 +0000
-
-<p>Wafer fab equipment spending is heading toward about $162 billion in 2026, up roughly 25%, and metrology and inspection now account for about 14% of it. Clara Grcevic of Yole Group explains why Yole has raised its 2031 forecast for the segment from $24.7 billion to $31.4 billion, a revision driven mostly by memory, which in turn is being driven by AI.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/the-measurement-gap-why-metrology-and-inspection-is-outgrowing-the-industrys-ability-to-supply-it/">The Measurement Gap: Why Metrology and Inspection Is Outgrowing the Industry’s Ability to Supply It</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Why SiC and GaN Need Their Own Qualification Standards](https://www.semiconductor-digest.com/why-sic-and-gan-need-their-own-qualification-standards/?utm_source=rss&utm_medium=rss&utm_campaign=why-sic-and-gan-need-their-own-qualification-standards)
-**Published:** Tue, 27 Oct 2026 13:53:11 +0000
-
-<p>Silicon carbide and gallium nitride power devices have moved quickly into EV inverters, onboard chargers, solar inverters and data center power supplies. But Dr. Pradyumna Gupta of Infinita Lab argues the qualification standards used to vouch for them, including JEDEC JESD47, AEC-Q101 and the JESD22 stress tests, were built around silicon failure modes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/why-sic-and-gan-need-their-own-qualification-standards/">Why SiC and GaN Need Their Own Qualification Standards</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [How to Tackle Hidden Production Risks in Semiconductor Operations](https://www.semiconductor-digest.com/how-to-tackle-hidden-production-risks-in-semiconductor-operations/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-tackle-hidden-production-risks-in-semiconductor-operations)
-**Published:** Tue, 27 Oct 2026 13:24:41 +0000
-
-<p>Fabs apply enormous engineering discipline to their tools and recipes, but manual operations such as wafer lot packaging, reticle transport, preventive maintenance and parts cleaning get far less structured scrutiny, even though valuable material passes through human hands hundreds of times a day. Craig Walters of Kelly calls this the risk that hides in plain sight on the fab floor.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/how-to-tackle-hidden-production-risks-in-semiconductor-operations/">How to Tackle Hidden Production Risks in Semiconductor Operations</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
