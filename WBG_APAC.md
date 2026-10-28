@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-28 11:17 UTC_
+_Last updated: 2026-10-28 17:23 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,6 +11,14 @@ _Last updated: 2026-10-28 11:17 UTC_
 
 <p>Global electronic system design revenue increased as semiconductor IP, services and Asia-Pacific demand recorded double-digit growth.</p>
 <p>The post <a href="https://www.eetasia.com/electronic-system-design-industry-posts-5-7b-in-2q-2026-revenue/">Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SEMI Scales Up Workforce Programs as U.S. Talent Gap Nears 200,000](https://www.semiconductor-digest.com/semi-scales-up-workforce-programs-as-u-s-talent-gap-nears-200000-2/?utm_source=rss&utm_medium=rss&utm_campaign=semi-scales-up-workforce-programs-as-u-s-talent-gap-nears-200000-2)
+**Published:** Wed, 28 Oct 2026 16:29:26 +0000
+
+<p>“Our industry in the U.S. is going to be almost 200,000 people short in the next few years,” said Shari Liss, SEMI’s vice president of global workforce development and initiatives.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-scales-up-workforce-programs-as-u-s-talent-gap-nears-200000-2/">SEMI Scales Up Workforce Programs as U.S. Talent Gap Nears 200,000</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-10-28 11:17 UTC_
 
 <p>For decades, semiconductor sustainability was treated largely as a chip design problem: better performance per watt, specialized accelerators and smarter power management. With the AI build-out driving a wave of new fabs, John Blyler argues the burden is now shifting onto manufacturing.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/has-ai-shifted-the-sustainability-balance-from-chip-design-to-manufacturing/">Has AI Shifted the Sustainability Balance from Chip Design to Manufacturing?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Why Is AI Finally Sticking Inside the Fab?](https://www.semiconductor-digest.com/why-is-ai-finally-sticking-inside-the-fab/?utm_source=rss&utm_medium=rss&utm_campaign=why-is-ai-finally-sticking-inside-the-fab)
-**Published:** Tue, 27 Oct 2026 13:58:03 +0000
-
-<p>Fabs never bought the pitch of a single, fab-wide AI platform, writes Mahima Sambre of Acumen Research and Consulting. What they are funding instead are narrow, deterministic tools, such as a defect classifier on one inspection tool or a virtual metrology model on one deposition step, deployed wherever yield loss is most expensive.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/why-is-ai-finally-sticking-inside-the-fab/">Why Is AI Finally Sticking Inside the Fab?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
