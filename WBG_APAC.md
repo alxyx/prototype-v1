@@ -1,16 +1,8 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-30 01:48 UTC_
+_Last updated: 2026-10-30 15:49 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
-
----
-
-## [Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue](https://www.eetasia.com/electronic-system-design-industry-posts-5-7b-in-2q-2026-revenue/)
-**Published:** Tue, 27 Oct 2026 02:51:59 +0000
-
-<p>Global electronic system design revenue increased as semiconductor IP, services and Asia-Pacific demand recorded double-digit growth.</p>
-<p>The post <a href="https://www.eetasia.com/electronic-system-design-industry-posts-5-7b-in-2q-2026-revenue/">Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-10-30 01:48 UTC_
 
 <p>Backside power delivery networks and HBM stacks depend on wafer bonding with tight pitches and overlay budgets, and even small bonding-induced distortions can turn into yield loss in downstream CMP, lithography and stacking. Traditional metrology often can’t deliver fast, full-wafer, non-destructive measurements at the speed high-volume manufacturing requires.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/advanced-packaging-process-control-through-full-field-wafer-shape-using-wfpi/">Advanced Packaging Process Control Through Full-Field Wafer Shape Using WFPI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Enabling Next-Generation Plasma Dicing with Ultrasonic Spray Coating and Digital Lithography](https://www.semiconductor-digest.com/enabling-next-generation-plasma-dicing-with-ultrasonic-spray-coating-and-digital-lithography/?utm_source=rss&utm_medium=rss&utm_campaign=enabling-next-generation-plasma-dicing-with-ultrasonic-spray-coating-and-digital-lithography)
+**Published:** Wed, 28 Oct 2026 10:37:00 +0000
+
+<p>Plasma dicing offers clear advantages over saw and laser singulation for thin wafers, hybrid bonding and HBM: throughput that doesn’t depend on die count, dicing streets as narrow as 5 µm and less mechanical stress. But bumps, copper pillars and cavities make it hard to protect the die surface during plasma etching, and conventional spin coating struggles to cover that topography.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/enabling-next-generation-plasma-dicing-with-ultrasonic-spray-coating-and-digital-lithography/">Enabling Next-Generation Plasma Dicing with Ultrasonic Spray Coating and Digital Lithography</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
