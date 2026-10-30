@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-10-29 02:28 UTC_
+_Last updated: 2026-10-30 01:48 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,6 +11,38 @@ _Last updated: 2026-10-29 02:28 UTC_
 
 <p>Global electronic system design revenue increased as semiconductor IP, services and Asia-Pacific demand recorded double-digit growth.</p>
 <p>The post <a href="https://www.eetasia.com/electronic-system-design-industry-posts-5-7b-in-2q-2026-revenue/">Electronic System Design Industry Posts $5.7B in 2Q 2026 Revenue</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Entrepix Introduces Head360 CMP Head Rebuild Services](https://www.semiconductor-digest.com/entrepix-introduces-head360-cmp-head-rebuild-services/?utm_source=rss&utm_medium=rss&utm_campaign=entrepix-introduces-head360-cmp-head-rebuild-services)
+**Published:** Thu, 29 Oct 2026 21:35:08 +0000
+
+<p>Comprehensive rebuild solution helps semiconductor manufacturers extend CMP head life and maintain equipment performance.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/entrepix-introduces-head360-cmp-head-rebuild-services/">Entrepix Introduces Head360 CMP Head Rebuild Services</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TANAKA and MEP to Establish Precious Metal Refining Joint Venture in Malaysia](https://www.semiconductor-digest.com/tanaka-and-mep-to-establish-precious-metal-refining-joint-venture-in-malaysia/?utm_source=rss&utm_medium=rss&utm_campaign=tanaka-and-mep-to-establish-precious-metal-refining-joint-venture-in-malaysia)
+**Published:** Thu, 29 Oct 2026 21:21:12 +0000
+
+<p>The new company will be established in Batu Kawan Industrial Park in Penang, Malaysia, with TANAKA’s holding a 66.7% stake and MEP holding a 33.3% stake.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tanaka-and-mep-to-establish-precious-metal-refining-joint-venture-in-malaysia/">TANAKA and MEP to Establish Precious Metal Refining Joint Venture in Malaysia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Sanjay Mehrotra, Chairman and CEO at Micron Technology, to Receive Global Semiconductor Alliance’s Highest Honor](https://www.semiconductor-digest.com/sanjay-mehrotra-chairman-and-ceo-at-micron-technology-to-receive-global-semiconductor-alliances-highest-honor/?utm_source=rss&utm_medium=rss&utm_campaign=sanjay-mehrotra-chairman-and-ceo-at-micron-technology-to-receive-global-semiconductor-alliances-highest-honor)
+**Published:** Thu, 29 Oct 2026 21:13:03 +0000
+
+<p>Global Semiconductor Alliance (GSA) announces it will honor Sanjay Mehrotra, Chairman and CEO at Micron Technology with its prestigious Dr. Morris Chang Exemplary Leadership Award at this year’s Annual Awards Celebration on Dec. 10, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sanjay-mehrotra-chairman-and-ceo-at-micron-technology-to-receive-global-semiconductor-alliances-highest-honor/">Sanjay Mehrotra, Chairman and CEO at Micron Technology, to Receive Global Semiconductor Alliance’s Highest Honor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Nagare Labs Emerges from Stealth to Break AI’s Memory Bottleneck](https://www.semiconductor-digest.com/nagare-labs-emerges-from-stealth-to-break-ais-memory-bottleneck/?utm_source=rss&utm_medium=rss&utm_campaign=nagare-labs-emerges-from-stealth-to-break-ais-memory-bottleneck)
+**Published:** Thu, 29 Oct 2026 20:38:40 +0000
+
+<p>Atlanta based spinout raises $5M from Playground Global to build a new memory tier.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nagare-labs-emerges-from-stealth-to-break-ais-memory-bottleneck/">Nagare Labs Emerges from Stealth to Break AI’s Memory Bottleneck</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -46,43 +78,11 @@ _Last updated: 2026-10-29 02:28 UTC_
 
 ---
 
-## [Enabling Next-Generation Plasma Dicing with Ultrasonic Spray Coating and Digital Lithography](https://www.semiconductor-digest.com/enabling-next-generation-plasma-dicing-with-ultrasonic-spray-coating-and-digital-lithography/?utm_source=rss&utm_medium=rss&utm_campaign=enabling-next-generation-plasma-dicing-with-ultrasonic-spray-coating-and-digital-lithography)
-**Published:** Wed, 28 Oct 2026 10:37:00 +0000
-
-<p>Plasma dicing offers clear advantages over saw and laser singulation for thin wafers, hybrid bonding and HBM: throughput that doesn’t depend on die count, dicing streets as narrow as 5 µm and less mechanical stress. But bumps, copper pillars and cavities make it hard to protect the die surface during plasma etching, and conventional spin coating struggles to cover that topography.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/enabling-next-generation-plasma-dicing-with-ultrasonic-spray-coating-and-digital-lithography/">Enabling Next-Generation Plasma Dicing with Ultrasonic Spray Coating and Digital Lithography</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
 ## [Advanced Packaging Process Control Through Full-Field Wafer Shape Using WFPI](https://www.semiconductor-digest.com/advanced-packaging-process-control-through-full-field-wafer-shape-using-wfpi/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-packaging-process-control-through-full-field-wafer-shape-using-wfpi)
 **Published:** Wed, 28 Oct 2026 10:37:00 +0000
 
 <p>Backside power delivery networks and HBM stacks depend on wafer bonding with tight pitches and overlay budgets, and even small bonding-induced distortions can turn into yield loss in downstream CMP, lithography and stacking. Traditional metrology often can’t deliver fast, full-wafer, non-destructive measurements at the speed high-volume manufacturing requires.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/advanced-packaging-process-control-through-full-field-wafer-shape-using-wfpi/">Advanced Packaging Process Control Through Full-Field Wafer Shape Using WFPI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AMHS Is Not Just Factory Logistics](https://www.semiconductor-digest.com/amhs-is-not-just-factory-logistics/?utm_source=rss&utm_medium=rss&utm_campaign=amhs-is-not-just-factory-logistics)
-**Published:** Tue, 27 Oct 2026 14:32:32 +0000
-
-<p>Automated material handling systems are usually treated as the fab’s logistics layer, moving lots between tools as quickly as possible. Dr. Moh Kolbehdari of Socionext America argues that view is becoming incomplete, because every wafer carrier holds material with a continuously developing manufacturing history.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/amhs-is-not-just-factory-logistics/">AMHS Is Not Just Factory Logistics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Wafer Fab Equipment: A Booming Market Built on a Fragmenting Supply Chain](https://www.semiconductor-digest.com/wafer-fab-equipment-a-booming-market-built-on-a-fragmenting-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=wafer-fab-equipment-a-booming-market-built-on-a-fragmenting-supply-chain)
-**Published:** Tue, 27 Oct 2026 14:29:24 +0000
-
-<p>Wafer fab equipment revenue reached $129 billion in 2025 and is forecast to approach $220 billion by 2031, a 9% CAGR, according to Yole Group’s Status of the Wafer Fab Equipment Industry 2026 report. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/wafer-fab-equipment-a-booming-market-built-on-a-fragmenting-supply-chain/">Wafer Fab Equipment: A Booming Market Built on a Fragmenting Supply Chain</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Back-End Equipment: From Volume Assembly to a Strategic Advanced Packaging Ecosystem](https://www.semiconductor-digest.com/back-end-equipment-from-volume-assembly-to-a-strategic-advanced-packaging-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=back-end-equipment-from-volume-assembly-to-a-strategic-advanced-packaging-ecosystem)
-**Published:** Tue, 27 Oct 2026 14:26:50 +0000
-
-<p>According to Yole Group’s Status of the Back-End Equipment Industry 2026 report, equipment revenue will grow from $8.1 billion in 2025 to $9.5 billion in 2026 and $10.6 billion in 2027.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/back-end-equipment-from-volume-assembly-to-a-strategic-advanced-packaging-ecosystem/">Back-End Equipment: From Volume Assembly to a Strategic Advanced Packaging Ecosystem</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
