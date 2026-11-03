@@ -1,8 +1,48 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-03 07:50 UTC_
+_Last updated: 2026-11-03 21:48 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [What’s in the November/December 2026 Issue?](https://www.semiconductor-digest.com/whats-in-the-november-december-2026-issue/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-november-december-2026-issue)
+**Published:** Tue, 03 Nov 2026 21:19:09 +0000
+
+<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the November/December issue. If you are attending SEMICON Europa, pick up an issue in print at the Tech Arena. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-november-december-2026-issue/">What&#8217;s in the November/December 2026 Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Bosch Establishes Dedicated Semiconductor Division to Strengthen Chip Business](https://www.semiconductor-digest.com/bosch-establishes-dedicated-semiconductor-division-to-strengthen-chip-business/?utm_source=rss&utm_medium=rss&utm_campaign=bosch-establishes-dedicated-semiconductor-division-to-strengthen-chip-business)
+**Published:** Tue, 03 Nov 2026 19:53:38 +0000
+
+<p>Effective January 1, 2028, Bosch will transfer its semiconductor operations to a new division called Semiconductors. The business will continue to be assigned to the Mobility business sector. Bosch’s semiconductor operations are currently part of its Mobility Electronics division.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/bosch-establishes-dedicated-semiconductor-division-to-strengthen-chip-business/">Bosch Establishes Dedicated Semiconductor Division to Strengthen Chip Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Entegris Enters Silicon Carbide and Diamond-Enabled Thermal Management Materials Market for AI Advanced Packaging](https://www.semiconductor-digest.com/entegris-enters-silicon-carbide-and-diamond-enabled-thermal-management-materials-market-for-ai-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=entegris-enters-silicon-carbide-and-diamond-enabled-thermal-management-materials-market-for-ai-advanced-packaging)
+**Published:** Tue, 03 Nov 2026 19:35:55 +0000
+
+<p>Entegris, Inc. today announced two important milestones in its strategic expansion into the market for silicon carbide (SiC) and diamond-enabled thermal management materials solutions for next-generation AI advanced packaging.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/entegris-enters-silicon-carbide-and-diamond-enabled-thermal-management-materials-market-for-ai-advanced-packaging/">Entegris Enters Silicon Carbide and Diamond-Enabled Thermal Management Materials Market for AI Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool](https://www.semiconductor-digest.com/acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool)
+**Published:** Tue, 03 Nov 2026 19:32:48 +0000
+
+<p>ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool/">ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Tower Semiconductor and Innolight Advance High-Performance Near-Package Optics for AI Infrastructure](https://www.semiconductor-digest.com/tower-semiconductor-and-innolight-advance-high-performance-near-package-optics-for-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-and-innolight-advance-high-performance-near-package-optics-for-ai-infrastructure)
+**Published:** Tue, 03 Nov 2026 19:25:52 +0000
+
+<p>Leveraging Tower's 200mm and 300mm Silicon Photonics platforms, the collaboration supports multiple generations of Near-Packaged Optics development for AI infrastructure.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-and-innolight-advance-high-performance-near-package-optics-for-ai-infrastructure/">Tower Semiconductor and Innolight Advance High-Performance Near-Package Optics for AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -43,46 +83,6 @@ _Last updated: 2026-11-03 07:50 UTC_
 
 <p>The new company will be established in Batu Kawan Industrial Park in Penang, Malaysia, with TANAKA’s holding a 66.7% stake and MEP holding a 33.3% stake.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/tanaka-and-mep-to-establish-precious-metal-refining-joint-venture-in-malaysia/">TANAKA and MEP to Establish Precious Metal Refining Joint Venture in Malaysia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Sanjay Mehrotra, Chairman and CEO at Micron Technology, to Receive Global Semiconductor Alliance’s Highest Honor](https://www.semiconductor-digest.com/sanjay-mehrotra-chairman-and-ceo-at-micron-technology-to-receive-global-semiconductor-alliances-highest-honor/?utm_source=rss&utm_medium=rss&utm_campaign=sanjay-mehrotra-chairman-and-ceo-at-micron-technology-to-receive-global-semiconductor-alliances-highest-honor)
-**Published:** Thu, 29 Oct 2026 21:13:03 +0000
-
-<p>Global Semiconductor Alliance (GSA) announces it will honor Sanjay Mehrotra, Chairman and CEO at Micron Technology with its prestigious Dr. Morris Chang Exemplary Leadership Award at this year’s Annual Awards Celebration on Dec. 10, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sanjay-mehrotra-chairman-and-ceo-at-micron-technology-to-receive-global-semiconductor-alliances-highest-honor/">Sanjay Mehrotra, Chairman and CEO at Micron Technology, to Receive Global Semiconductor Alliance’s Highest Honor</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Nagare Labs Emerges from Stealth to Break AI’s Memory Bottleneck](https://www.semiconductor-digest.com/nagare-labs-emerges-from-stealth-to-break-ais-memory-bottleneck/?utm_source=rss&utm_medium=rss&utm_campaign=nagare-labs-emerges-from-stealth-to-break-ais-memory-bottleneck)
-**Published:** Thu, 29 Oct 2026 20:38:40 +0000
-
-<p>Atlanta based spinout raises $5M from Playground Global to build a new memory tier.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nagare-labs-emerges-from-stealth-to-break-ais-memory-bottleneck/">Nagare Labs Emerges from Stealth to Break AI’s Memory Bottleneck</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ChipAgents Expands Full-Stack Agentic AI Across Digital and Analog Chip Design](https://www.semiconductor-digest.com/chipagents-expands-full-stack-agentic-ai-across-digital-and-analog-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=chipagents-expands-full-stack-agentic-ai-across-digital-and-analog-chip-design)
-**Published:** Wed, 28 Oct 2026 18:49:24 +0000
-
-<p>ChipAgents, the category leader in agentic AI platforms for semiconductor design, announced the expansion of its AI-native engineering platform across digital and analog chip design, bringing more of the semiconductor development flow onto a shared agentic foundation.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/chipagents-expands-full-stack-agentic-ai-across-digital-and-analog-chip-design/">ChipAgents Expands Full-Stack Agentic AI Across Digital and Analog Chip Design</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lam and imec Expand Collaboration to Advance Manufacturability of Next-Gen 3D Integration Technologies](https://www.semiconductor-digest.com/lam-and-imec-expand-collaboration-to-advance-manufacturability-of-next-gen-3d-integration-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=lam-and-imec-expand-collaboration-to-advance-manufacturability-of-next-gen-3d-integration-technologies)
-**Published:** Wed, 28 Oct 2026 18:40:58 +0000
-
-<p>Lam has extended its long-standing strategic collaboration with imec, a world-leading research and innovation center in advanced semiconductor technologies, to include two new joint research and development focuses: enabling advanced 3D integration and advancing Aether® dry resist for future high-NA EUV patterning. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/lam-and-imec-expand-collaboration-to-advance-manufacturability-of-next-gen-3d-integration-technologies/">Lam and imec Expand Collaboration to Advance Manufacturability of Next-Gen 3D Integration Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Scales Up Workforce Programs as U.S. Talent Gap Nears 200,000](https://www.semiconductor-digest.com/semi-scales-up-workforce-programs-as-u-s-talent-gap-nears-200000-2/?utm_source=rss&utm_medium=rss&utm_campaign=semi-scales-up-workforce-programs-as-u-s-talent-gap-nears-200000-2)
-**Published:** Wed, 28 Oct 2026 16:29:26 +0000
-
-<p>“Our industry in the U.S. is going to be almost 200,000 people short in the next few years,” said Shari Liss, SEMI’s vice president of global workforce development and initiatives.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-scales-up-workforce-programs-as-u-s-talent-gap-nears-200000-2/">SEMI Scales Up Workforce Programs as U.S. Talent Gap Nears 200,000</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
