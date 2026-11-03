@@ -1,8 +1,32 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-02 18:05 UTC_
+_Last updated: 2026-11-03 07:50 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [SEMI Foundation Recognizes FM Industries for Advancing Semiconductor Workforce Development](https://www.semiconductor-digest.com/semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development)
+**Published:** Mon, 02 Nov 2026 22:53:27 +0000
+
+<p>2026 Excellence in Achievement Award honors the company's leadership in expanding apprenticeships, investing in employee advancement, and strengthening the semiconductor workforce.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development/">SEMI Foundation Recognizes FM Industries for Advancing Semiconductor Workforce Development</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Laser Slicing of Large-Area Diamond Substrates](https://www.semiconductor-digest.com/laser-slicing-of-large-area-diamond-substrates/?utm_source=rss&utm_medium=rss&utm_campaign=laser-slicing-of-large-area-diamond-substrates)
+**Published:** Mon, 02 Nov 2026 22:42:06 +0000
+
+<p>Researchers investigate how ultrashort laser pulses can be used to slice diamond, with potential applications in optics, semiconductors, and power electronics.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/laser-slicing-of-large-area-diamond-substrates/">Laser Slicing of Large-Area Diamond Substrates</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [TechInsights Identifies Five Trends Reshaping the Semiconductor Market](https://www.semiconductor-digest.com/techinsights-identifies-five-trends-reshaping-the-semiconductor-market/?utm_source=rss&utm_medium=rss&utm_campaign=techinsights-identifies-five-trends-reshaping-the-semiconductor-market)
+**Published:** Mon, 02 Nov 2026 22:12:58 +0000
+
+<p>Outlook examines how AI-driven demand is reshaping supply, technology investment, sustainability and the products that reach consumers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/techinsights-identifies-five-trends-reshaping-the-semiconductor-market/">TechInsights Identifies Five Trends Reshaping the Semiconductor Market</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-11-02 18:05 UTC_
 
 <p>“Our industry in the U.S. is going to be almost 200,000 people short in the next few years,” said Shari Liss, SEMI’s vice president of global workforce development and initiatives.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semi-scales-up-workforce-programs-as-u-s-talent-gap-nears-200000-2/">SEMI Scales Up Workforce Programs as U.S. Talent Gap Nears 200,000</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [From Lab to Fab: The Rise of HiPIMS in Semiconductor Manufacturing](https://www.semiconductor-digest.com/from-lab-to-fab-the-rise-of-hipims-in-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=from-lab-to-fab-the-rise-of-hipims-in-semiconductor-manufacturing)
-**Published:** Wed, 28 Oct 2026 10:42:00 +0000
-
-<p>High-power impulse magnetron sputtering (HiPIMS) produces denser, better-adhering films than conventional sputtering, but scaling it to 200mm-plus substrates and inline production takes more than turning up the power. Authors from VON ARDENNE describe the engineering investment needed to move the technique from the lab into high-volume manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/from-lab-to-fab-the-rise-of-hipims-in-semiconductor-manufacturing/">From Lab to Fab: The Rise of HiPIMS in Semiconductor Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Advanced Packaging Process Control Through Full-Field Wafer Shape Using WFPI](https://www.semiconductor-digest.com/advanced-packaging-process-control-through-full-field-wafer-shape-using-wfpi/?utm_source=rss&utm_medium=rss&utm_campaign=advanced-packaging-process-control-through-full-field-wafer-shape-using-wfpi)
-**Published:** Wed, 28 Oct 2026 10:37:00 +0000
-
-<p>Backside power delivery networks and HBM stacks depend on wafer bonding with tight pitches and overlay budgets, and even small bonding-induced distortions can turn into yield loss in downstream CMP, lithography and stacking. Traditional metrology often can’t deliver fast, full-wafer, non-destructive measurements at the speed high-volume manufacturing requires.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/advanced-packaging-process-control-through-full-field-wafer-shape-using-wfpi/">Advanced Packaging Process Control Through Full-Field Wafer Shape Using WFPI</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Enabling Next-Generation Plasma Dicing with Ultrasonic Spray Coating and Digital Lithography](https://www.semiconductor-digest.com/enabling-next-generation-plasma-dicing-with-ultrasonic-spray-coating-and-digital-lithography/?utm_source=rss&utm_medium=rss&utm_campaign=enabling-next-generation-plasma-dicing-with-ultrasonic-spray-coating-and-digital-lithography)
-**Published:** Wed, 28 Oct 2026 10:37:00 +0000
-
-<p>Plasma dicing offers clear advantages over saw and laser singulation for thin wafers, hybrid bonding and HBM: throughput that doesn’t depend on die count, dicing streets as narrow as 5 µm and less mechanical stress. But bumps, copper pillars and cavities make it hard to protect the die surface during plasma etching, and conventional spin coating struggles to cover that topography.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/enabling-next-generation-plasma-dicing-with-ultrasonic-spray-coating-and-digital-lithography/">Enabling Next-Generation Plasma Dicing with Ultrasonic Spray Coating and Digital Lithography</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
