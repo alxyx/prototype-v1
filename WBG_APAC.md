@@ -1,8 +1,32 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-03 21:48 UTC_
+_Last updated: 2026-11-04 02:13 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Wolfspeed Intros Transparent SiC Substrates for AR, Quantum Computing](https://www.eetasia.com/wolfspeed-intros-transparent-sic-substrates-for-ar-quantum-computing/)
+**Published:** Tue, 03 Nov 2026 23:53:08 +0000
+
+<p>Optical-grade SiC substrates target AR waveguides and quantum applications, with development progressing toward larger wafers.</p>
+<p>The post <a href="https://www.eetasia.com/wolfspeed-intros-transparent-sic-substrates-for-ar-quantum-computing/">Wolfspeed Intros Transparent SiC Substrates for AR, Quantum Computing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Global Semiconductor Sales Up 24% to $517.7B in 3Q 2026](https://www.eetasia.com/global-semiconductor-sales-up-24-to-517-7b-in-3q-2026/)
+**Published:** Tue, 03 Nov 2026 23:42:41 +0000
+
+<p>Global semiconductor sales rose by 24.1% quarter-on-quarter in 3Q 2026, with September revenue reaching $172.6 billion, according to SIA.</p>
+<p>The post <a href="https://www.eetasia.com/global-semiconductor-sales-up-24-to-517-7b-in-3q-2026/">Global Semiconductor Sales Up 24% to $517.7B in 3Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Marvell to Expand AI Connectivity Portfolio with Lumentum Acquisition](https://www.eetasia.com/marvell-to-expand-ai-connectivity-portfolio-with-lumentum-acquisition/)
+**Published:** Tue, 03 Nov 2026 23:10:39 +0000
+
+<p>The acquisition combines optical and electrical interconnect technologies, laser manufacturing and advanced semiconductor capabilities for AI infrastructure.</p>
+<p>The post <a href="https://www.eetasia.com/marvell-to-expand-ai-connectivity-portfolio-with-lumentum-acquisition/">Marvell to Expand AI Connectivity Portfolio with Lumentum Acquisition</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-11-03 21:48 UTC_
 
 <p>Researchers investigate how ultrashort laser pulses can be used to slice diamond, with potential applications in optics, semiconductors, and power electronics.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/laser-slicing-of-large-area-diamond-substrates/">Laser Slicing of Large-Area Diamond Substrates</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TechInsights Identifies Five Trends Reshaping the Semiconductor Market](https://www.semiconductor-digest.com/techinsights-identifies-five-trends-reshaping-the-semiconductor-market/?utm_source=rss&utm_medium=rss&utm_campaign=techinsights-identifies-five-trends-reshaping-the-semiconductor-market)
-**Published:** Mon, 02 Nov 2026 22:12:58 +0000
-
-<p>Outlook examines how AI-driven demand is reshaping supply, technology investment, sustainability and the products that reach consumers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/techinsights-identifies-five-trends-reshaping-the-semiconductor-market/">TechInsights Identifies Five Trends Reshaping the Semiconductor Market</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Entrepix Introduces Head360 CMP Head Rebuild Services](https://www.semiconductor-digest.com/entrepix-introduces-head360-cmp-head-rebuild-services/?utm_source=rss&utm_medium=rss&utm_campaign=entrepix-introduces-head360-cmp-head-rebuild-services)
-**Published:** Thu, 29 Oct 2026 21:35:08 +0000
-
-<p>Comprehensive rebuild solution helps semiconductor manufacturers extend CMP head life and maintain equipment performance.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/entrepix-introduces-head360-cmp-head-rebuild-services/">Entrepix Introduces Head360 CMP Head Rebuild Services</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [TANAKA and MEP to Establish Precious Metal Refining Joint Venture in Malaysia](https://www.semiconductor-digest.com/tanaka-and-mep-to-establish-precious-metal-refining-joint-venture-in-malaysia/?utm_source=rss&utm_medium=rss&utm_campaign=tanaka-and-mep-to-establish-precious-metal-refining-joint-venture-in-malaysia)
-**Published:** Thu, 29 Oct 2026 21:21:12 +0000
-
-<p>The new company will be established in Batu Kawan Industrial Park in Penang, Malaysia, with TANAKA’s holding a 66.7% stake and MEP holding a 33.3% stake.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tanaka-and-mep-to-establish-precious-metal-refining-joint-venture-in-malaysia/">TANAKA and MEP to Establish Precious Metal Refining Joint Venture in Malaysia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
