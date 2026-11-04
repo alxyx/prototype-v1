@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-04 02:13 UTC_
+_Last updated: 2026-11-04 17:12 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research](https://www.eetasia.com/synopsys-joins-nus-testbed-for-tropical-data-center-cooling-research/)
+**Published:** Wed, 04 Nov 2026 07:29:37 +0000
+
+<p>The collaboration will combine multiphysics simulation, digital twins and physical testing to improve cooling efficiency in AI data centers.</p>
+<p>The post <a href="https://www.eetasia.com/synopsys-joins-nus-testbed-for-tropical-data-center-cooling-research/">Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-11-04 02:13 UTC_
 
 <p>2026 Excellence in Achievement Award honors the company's leadership in expanding apprenticeships, investing in employee advancement, and strengthening the semiconductor workforce.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development/">SEMI Foundation Recognizes FM Industries for Advancing Semiconductor Workforce Development</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Laser Slicing of Large-Area Diamond Substrates](https://www.semiconductor-digest.com/laser-slicing-of-large-area-diamond-substrates/?utm_source=rss&utm_medium=rss&utm_campaign=laser-slicing-of-large-area-diamond-substrates)
-**Published:** Mon, 02 Nov 2026 22:42:06 +0000
-
-<p>Researchers investigate how ultrashort laser pulses can be used to slice diamond, with potential applications in optics, semiconductors, and power electronics.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/laser-slicing-of-large-area-diamond-substrates/">Laser Slicing of Large-Area Diamond Substrates</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
