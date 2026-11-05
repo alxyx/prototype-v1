@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-04 17:12 UTC_
+_Last updated: 2026-11-05 04:00 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Seoul Semiconductor Begins Mass Production of Rare-earth-free White Micro LEDs](https://www.eetasia.com/seoul-semiconductor-begins-mass-production-of-rare-earth-free-white-micro-leds/)
+**Published:** Thu, 05 Nov 2026 03:00:08 +0000
+
+<p>WICOP 3 technology produces white light without rare earths or packaging, targeting lighting, AR displays and optical communications.</p>
+<p>The post <a href="https://www.eetasia.com/seoul-semiconductor-begins-mass-production-of-rare-earth-free-white-micro-leds/">Seoul Semiconductor Begins Mass Production of Rare-earth-free White Micro LEDs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Engineering Physical AI for Real-World Deployment](https://www.eetasia.com/engineering-physical-ai-for-real-world-deployment/)
+**Published:** Thu, 05 Nov 2026 02:16:16 +0000
+
+<p>Physical AI deployment depends on balancing computing performance, energy efficiency, system integration, safety and scalability.</p>
+<p>The post <a href="https://www.eetasia.com/engineering-physical-ai-for-real-world-deployment/">Engineering Physical AI for Real-World Deployment</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -38,51 +54,35 @@ _Last updated: 2026-11-04 17:12 UTC_
 
 ---
 
-## [What’s in the November/December 2026 Issue?](https://www.semiconductor-digest.com/whats-in-the-november-december-2026-issue/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-november-december-2026-issue)
-**Published:** Tue, 03 Nov 2026 21:19:09 +0000
+## [Semiconductor Market Continues to Accelerate in Q3 2026](https://www.semiconductor-digest.com/semiconductor-market-continues-to-accelerate-in-q3-2026/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-market-continues-to-accelerate-in-q3-2026)
+**Published:** Wed, 04 Nov 2026 20:10:45 +0000
 
-<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the November/December issue. If you are attending SEMICON Europa, pick up an issue in print at the Tech Arena. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-november-december-2026-issue/">What&#8217;s in the November/December 2026 Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Bosch Establishes Dedicated Semiconductor Division to Strengthen Chip Business](https://www.semiconductor-digest.com/bosch-establishes-dedicated-semiconductor-division-to-strengthen-chip-business/?utm_source=rss&utm_medium=rss&utm_campaign=bosch-establishes-dedicated-semiconductor-division-to-strengthen-chip-business)
-**Published:** Tue, 03 Nov 2026 19:53:38 +0000
-
-<p>Effective January 1, 2028, Bosch will transfer its semiconductor operations to a new division called Semiconductors. The business will continue to be assigned to the Mobility business sector. Bosch’s semiconductor operations are currently part of its Mobility Electronics division.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/bosch-establishes-dedicated-semiconductor-division-to-strengthen-chip-business/">Bosch Establishes Dedicated Semiconductor Division to Strengthen Chip Business</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>The European Semiconductor Industry Association (ESIA) announced today that global semiconductor sales reached USD 517.7 billion in Q3 2026, an increase of 146.8% compared to Q3 2025.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-market-continues-to-accelerate-in-q3-2026/">Semiconductor Market Continues to Accelerate in Q3 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Entegris Enters Silicon Carbide and Diamond-Enabled Thermal Management Materials Market for AI Advanced Packaging](https://www.semiconductor-digest.com/entegris-enters-silicon-carbide-and-diamond-enabled-thermal-management-materials-market-for-ai-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=entegris-enters-silicon-carbide-and-diamond-enabled-thermal-management-materials-market-for-ai-advanced-packaging)
-**Published:** Tue, 03 Nov 2026 19:35:55 +0000
+## [Valens Semiconductor Introduces the VS6310 Chipset](https://www.semiconductor-digest.com/valens-semiconductor-introduces-the-vs6310-chipset/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-introduces-the-vs6310-chipset)
+**Published:** Wed, 04 Nov 2026 20:08:34 +0000
 
-<p>Entegris, Inc. today announced two important milestones in its strategic expansion into the market for silicon carbide (SiC) and diamond-enabled thermal management materials solutions for next-generation AI advanced packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/entegris-enters-silicon-carbide-and-diamond-enabled-thermal-management-materials-market-for-ai-advanced-packaging/">Entegris Enters Silicon Carbide and Diamond-Enabled Thermal Management Materials Market for AI Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool](https://www.semiconductor-digest.com/acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool)
-**Published:** Tue, 03 Nov 2026 19:32:48 +0000
-
-<p>ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool/">ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Low-power chipset enables manufacturers to integrate USB3 extension into a variety of conference room peripherals, reducing the need for external extender boxes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-introduces-the-vs6310-chipset/">Valens Semiconductor Introduces the VS6310 Chipset</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Tower Semiconductor and Innolight Advance High-Performance Near-Package Optics for AI Infrastructure](https://www.semiconductor-digest.com/tower-semiconductor-and-innolight-advance-high-performance-near-package-optics-for-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=tower-semiconductor-and-innolight-advance-high-performance-near-package-optics-for-ai-infrastructure)
-**Published:** Tue, 03 Nov 2026 19:25:52 +0000
+## [Worldwide Silicon Wafer Shipments Increase 13.4% Year-on-Year in Q3 2026, SEMI Reports](https://www.semiconductor-digest.com/worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports)
+**Published:** Wed, 04 Nov 2026 20:06:27 +0000
 
-<p>Leveraging Tower's 200mm and 300mm Silicon Photonics platforms, the collaboration supports multiple generations of Near-Packaged Optics development for AI infrastructure.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/tower-semiconductor-and-innolight-advance-high-performance-near-package-optics-for-ai-infrastructure/">Tower Semiconductor and Innolight Advance High-Performance Near-Package Optics for AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Shipments increased 5.1% quarter-over-quarter from the 3,573 MSI recorded during the second quarter of 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports/">Worldwide Silicon Wafer Shipments Increase 13.4% Year-on-Year in Q3 2026, SEMI Reports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [SEMI Foundation Recognizes FM Industries for Advancing Semiconductor Workforce Development](https://www.semiconductor-digest.com/semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development)
-**Published:** Mon, 02 Nov 2026 22:53:27 +0000
+## [xMEMS Labs Advances Edge AI with Solid-State Cooling and Audio](https://www.semiconductor-digest.com/xmems-labs-advances-edge-ai-with-solid-state-cooling-and-audio/?utm_source=rss&utm_medium=rss&utm_campaign=xmems-labs-advances-edge-ai-with-solid-state-cooling-and-audio)
+**Published:** Wed, 04 Nov 2026 19:54:25 +0000
 
-<p>2026 Excellence in Achievement Award honors the company's leadership in expanding apprenticeships, investing in employee advancement, and strengthening the semiconductor workforce.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-foundation-recognizes-fm-industries-for-advancing-semiconductor-workforce-development/">SEMI Foundation Recognizes FM Industries for Advancing Semiconductor Workforce Development</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>xMEMS Labs, the pioneer of solid-state MEMS speakers and breakthrough μCooling fan-on-a-chip technology, today announced its CES 2027 demonstrations.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/xmems-labs-advances-edge-ai-with-solid-state-cooling-and-audio/">xMEMS Labs Advances Edge AI with Solid-State Cooling and Audio</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
