@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-05 04:00 UTC_
+_Last updated: 2026-11-05 19:51 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -46,14 +46,6 @@ _Last updated: 2026-11-05 04:00 UTC_
 
 ---
 
-## [Marvell to Expand AI Connectivity Portfolio with Lumentum Acquisition](https://www.eetasia.com/marvell-to-expand-ai-connectivity-portfolio-with-lumentum-acquisition/)
-**Published:** Tue, 03 Nov 2026 23:10:39 +0000
-
-<p>The acquisition combines optical and electrical interconnect technologies, laser manufacturing and advanced semiconductor capabilities for AI infrastructure.</p>
-<p>The post <a href="https://www.eetasia.com/marvell-to-expand-ai-connectivity-portfolio-with-lumentum-acquisition/">Marvell to Expand AI Connectivity Portfolio with Lumentum Acquisition</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
 ## [Semiconductor Market Continues to Accelerate in Q3 2026](https://www.semiconductor-digest.com/semiconductor-market-continues-to-accelerate-in-q3-2026/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-market-continues-to-accelerate-in-q3-2026)
 **Published:** Wed, 04 Nov 2026 20:10:45 +0000
 
@@ -83,6 +75,14 @@ _Last updated: 2026-11-05 04:00 UTC_
 
 <p>xMEMS Labs, the pioneer of solid-state MEMS speakers and breakthrough μCooling fan-on-a-chip technology, today announced its CES 2027 demonstrations.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/xmems-labs-advances-edge-ai-with-solid-state-cooling-and-audio/">xMEMS Labs Advances Edge AI with Solid-State Cooling and Audio</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [What’s in the November/December 2026 Issue?](https://www.semiconductor-digest.com/whats-in-the-november-december-2026-issue/?utm_source=rss&utm_medium=rss&utm_campaign=whats-in-the-november-december-2026-issue)
+**Published:** Tue, 03 Nov 2026 21:19:09 +0000
+
+<p>Each issue of Semiconductor Digest has articles found only in the magazine. Click on the links to read the articles in the November/December issue. If you are attending SEMICON Europa, pick up an issue in print at the Tech Arena. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/whats-in-the-november-december-2026-issue/">What&#8217;s in the November/December 2026 Issue?</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
