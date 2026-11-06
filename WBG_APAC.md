@@ -1,48 +1,32 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-06 08:37 UTC_
+_Last updated: 2026-11-06 15:55 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
 ---
 
-## [From AI That Answers to AI That Acts](https://www.eetasia.com/embeddedblog-from-ai-that-answers-to-ai-that-acts/)
-**Published:** Fri, 06 Nov 2026 07:22:18 +0000
+## [Enabling Physical AI Agents with Lemonade](https://www.eetasia.com/embeddedblog-enabling-physical-ai-agents-with-lemonade/)
+**Published:** Fri, 06 Nov 2026 12:32:18 +0000
 
-<p>Why physical AI requires a new definition of performance – one built around the whole system, not peak compute.</p>
-<p>The post <a href="https://www.eetasia.com/embeddedblog-from-ai-that-answers-to-ai-that-acts/">From AI That Answers to AI That Acts</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Infinitesima Marks 25 Years with Focus on 3D Semiconductor Metrology](https://www.eetasia.com/infinitesima-marks-25-years-with-focus-on-3d-semiconductor-metrology/)
-**Published:** Fri, 06 Nov 2026 04:01:34 +0000
-
-<p>Infinitesima refreshes its brand as advanced packaging and three-dimensional chip architectures increase measurement requirements.</p>
-<p>The post <a href="https://www.eetasia.com/infinitesima-marks-25-years-with-focus-on-3d-semiconductor-metrology/">Infinitesima Marks 25 Years with Focus on 3D Semiconductor Metrology</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Run a vision-language agent that controls a simulated 7-DOF Panda arm — entirely on-device. RAI + Lemonade + O3DE + ROS 2 Jazzy on Ryzen AI Max+ let you pick, place, and sort objects via natural language, no fine-tuning, no cloud.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-enabling-physical-ai-agents-with-lemonade/">Enabling Physical AI Agents with Lemonade</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
-## [Analog Devices Completes Acquisition of Alif Semiconductor](https://www.eetasia.com/analog-devices-completes-acquisition-of-alif-semiconductor/)
-**Published:** Fri, 06 Nov 2026 03:01:57 +0000
+## [Bosch to Establish Dedicated Semiconductor Division in 2028](https://www.eetasia.com/bosch-to-establish-dedicated-semiconductor-division-in-2028/)
+**Published:** Fri, 06 Nov 2026 10:49:45 +0000
 
-<p>Acquisition adds AI-native microcontrollers and fusion processors to ADI's sensing, processing and connectivity portfolio.</p>
-<p>The post <a href="https://www.eetasia.com/analog-devices-completes-acquisition-of-alif-semiconductor/">Analog Devices Completes Acquisition of Alif Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Seoul Semiconductor Begins Mass Production of Rare-earth-free White Micro LEDs](https://www.eetasia.com/seoul-semiconductor-begins-mass-production-of-rare-earth-free-white-micro-leds/)
-**Published:** Thu, 05 Nov 2026 03:00:08 +0000
-
-<p>WICOP 3 technology produces white light without rare earths or packaging, targeting lighting, AR displays and optical communications.</p>
-<p>The post <a href="https://www.eetasia.com/seoul-semiconductor-begins-mass-production-of-rare-earth-free-white-micro-leds/">Seoul Semiconductor Begins Mass Production of Rare-earth-free White Micro LEDs</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>New division will target growth in automotive, robotics and AI infrastructure, with semiconductor sales targeted at €5 billion by 2030.</p>
+<p>The post <a href="https://www.eetasia.com/bosch-to-establish-dedicated-semiconductor-division-in-2028/">Bosch to Establish Dedicated Semiconductor Division in 2028</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
-## [Engineering Physical AI for Real-World Deployment](https://www.eetasia.com/engineering-physical-ai-for-real-world-deployment/)
-**Published:** Thu, 05 Nov 2026 02:16:16 +0000
+## [AMD Sampling Versal AI Core Adaptive SoC in Enhanced Space-Grade Package for the Most Demanding Missions](https://www.eetasia.com/embeddedblog-amd-sampling-versal-ai-core-adaptive-soc-in-enhanced-space-grade-package-for-the-most-demanding-missions/)
+**Published:** Fri, 06 Nov 2026 10:05:04 +0000
 
-<p>Physical AI deployment depends on balancing computing performance, energy efficiency, system integration, safety and scalability.</p>
-<p>The post <a href="https://www.eetasia.com/engineering-physical-ai-for-real-world-deployment/">Engineering Physical AI for Real-World Deployment</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>AMD samples the Versal AI Core XQRVC1902 in an enhanced space-grade lidless organic package — built for 15-year missions and testing to MIL-PRF-38535 Class Y. Pin-compatible with VC1902, it brings adaptive AI compute to GEO, cislunar, and deep-space payloads without sacrificing reliability.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-amd-sampling-versal-ai-core-adaptive-soc-in-enhanced-space-grade-package-for-the-most-demanding-missions/">AMD Sampling Versal AI Core Adaptive SoC in Enhanced Space-Grade Package for the Most Demanding Missions</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +67,22 @@ _Last updated: 2026-11-06 08:37 UTC_
 
 <p>The European Semiconductor Industry Association (ESIA) announced today that global semiconductor sales reached USD 517.7 billion in Q3 2026, an increase of 146.8% compared to Q3 2025.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semiconductor-market-continues-to-accelerate-in-q3-2026/">Semiconductor Market Continues to Accelerate in Q3 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Valens Semiconductor Introduces the VS6310 Chipset](https://www.semiconductor-digest.com/valens-semiconductor-introduces-the-vs6310-chipset/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-introduces-the-vs6310-chipset)
+**Published:** Wed, 04 Nov 2026 20:08:34 +0000
+
+<p>Low-power chipset enables manufacturers to integrate USB3 extension into a variety of conference room peripherals, reducing the need for external extender boxes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-introduces-the-vs6310-chipset/">Valens Semiconductor Introduces the VS6310 Chipset</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Worldwide Silicon Wafer Shipments Increase 13.4% Year-on-Year in Q3 2026, SEMI Reports](https://www.semiconductor-digest.com/worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports)
+**Published:** Wed, 04 Nov 2026 20:06:27 +0000
+
+<p>Shipments increased 5.1% quarter-over-quarter from the 3,573 MSI recorded during the second quarter of 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports/">Worldwide Silicon Wafer Shipments Increase 13.4% Year-on-Year in Q3 2026, SEMI Reports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
