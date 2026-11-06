@@ -1,6 +1,6 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-11-06 15:55 UTC_
+_Last updated: 2026-11-06 22:07 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -30,6 +30,38 @@ _Last updated: 2026-11-06 15:55 UTC_
 
 ---
 
+## [Micron Announces Board of Directors Retirement](https://www.semiconductor-digest.com/micron-announces-board-of-directors-retirement/?utm_source=rss&utm_medium=rss&utm_campaign=micron-announces-board-of-directors-retirement)
+**Published:** Fri, 06 Nov 2026 16:15:18 +0000
+
+<p>Micron Technology, Inc. today announced that Linnie M. Haynesworth has informed the Company that she will retire from its board of directors at the annual shareholders meeting expected to be held on January 14, 2027.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-announces-board-of-directors-retirement/">Micron Announces Board of Directors Retirement</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Eulitha Ramps Up Deliveries of Advanced Lithography Systems](https://www.semiconductor-digest.com/eulitha-ramps-up-deliveries-of-advanced-lithography-systems/?utm_source=rss&utm_medium=rss&utm_campaign=eulitha-ramps-up-deliveries-of-advanced-lithography-systems)
+**Published:** Fri, 06 Nov 2026 16:12:32 +0000
+
+<p>Eulitha AG today announced deliveries of multiple automated tools to foundries for the production of InP DFB lasers to be used in AI data centers.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/eulitha-ramps-up-deliveries-of-advanced-lithography-systems/">Eulitha Ramps Up Deliveries of Advanced Lithography Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Hanyang University Researchers Gain Control Over Where Semiconductor Crystals First Form](https://www.semiconductor-digest.com/hanyang-university-researchers-gain-control-over-where-semiconductor-crystals-first-form/?utm_source=rss&utm_medium=rss&utm_campaign=hanyang-university-researchers-gain-control-over-where-semiconductor-crystals-first-form)
+**Published:** Fri, 06 Nov 2026 16:05:05 +0000
+
+<p>The method guides single crystals to begin growing in predefined central regions.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hanyang-university-researchers-gain-control-over-where-semiconductor-crystals-first-form/">Hanyang University Researchers Gain Control Over Where Semiconductor Crystals First Form</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Diamond Foundry Announces First-Ever D200mm Single-Crystal Diamond](https://www.semiconductor-digest.com/diamond-foundry-announces-first-ever-d200mm-single-crystal-diamond/?utm_source=rss&utm_medium=rss&utm_campaign=diamond-foundry-announces-first-ever-d200mm-single-crystal-diamond)
+**Published:** Fri, 06 Nov 2026 16:03:48 +0000
+
+<p>Breakthrough culminates 25 years of scientific pursuit and establishes a new scale for single-crystal diamond.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/diamond-foundry-announces-first-ever-d200mm-single-crystal-diamond/">Diamond Foundry Announces First-Ever D200mm Single-Crystal Diamond</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [Macronix’s sNOVA Technology Recognized with IEEE Milestone Award](https://www.semiconductor-digest.com/macronixs-snova-technology-recognized-with-ieee-milestone-award/?utm_source=rss&utm_medium=rss&utm_campaign=macronixs-snova-technology-recognized-with-ieee-milestone-award)
 **Published:** Thu, 05 Nov 2026 22:42:44 +0000
 
@@ -51,38 +83,6 @@ _Last updated: 2026-11-06 15:55 UTC_
 
 <p>The Global Semiconductor Alliance (GSA) is pleased to announce its 2026 award nominees. The prestigious awards will be presented at the GSA Awards Celebration on Thursday, Dec. 10, 2026. This year’s program will celebrate the achievements of the semiconductor industry.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-alliance-announces-2026-award-nominees/">Global Semiconductor Alliance Announces 2026 Award Nominees</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Entegris Expands Partnership with Kioxia](https://www.semiconductor-digest.com/entegris-expands-partnership-with-kioxia/?utm_source=rss&utm_medium=rss&utm_campaign=entegris-expands-partnership-with-kioxia)
-**Published:** Thu, 05 Nov 2026 22:21:41 +0000
-
-<p>Entegris, Inc. today announced an expansion of its strategic partnership with Kioxia Corporation to accelerate materials innovation for future generations of BiCS FLASH 3D flash memory and next-generation computing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/entegris-expands-partnership-with-kioxia/">Entegris Expands Partnership with Kioxia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Semiconductor Market Continues to Accelerate in Q3 2026](https://www.semiconductor-digest.com/semiconductor-market-continues-to-accelerate-in-q3-2026/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-market-continues-to-accelerate-in-q3-2026)
-**Published:** Wed, 04 Nov 2026 20:10:45 +0000
-
-<p>The European Semiconductor Industry Association (ESIA) announced today that global semiconductor sales reached USD 517.7 billion in Q3 2026, an increase of 146.8% compared to Q3 2025.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-market-continues-to-accelerate-in-q3-2026/">Semiconductor Market Continues to Accelerate in Q3 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Valens Semiconductor Introduces the VS6310 Chipset](https://www.semiconductor-digest.com/valens-semiconductor-introduces-the-vs6310-chipset/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-introduces-the-vs6310-chipset)
-**Published:** Wed, 04 Nov 2026 20:08:34 +0000
-
-<p>Low-power chipset enables manufacturers to integrate USB3 extension into a variety of conference room peripherals, reducing the need for external extender boxes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/valens-semiconductor-introduces-the-vs6310-chipset/">Valens Semiconductor Introduces the VS6310 Chipset</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Worldwide Silicon Wafer Shipments Increase 13.4% Year-on-Year in Q3 2026, SEMI Reports](https://www.semiconductor-digest.com/worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports)
-**Published:** Wed, 04 Nov 2026 20:06:27 +0000
-
-<p>Shipments increased 5.1% quarter-over-quarter from the 3,573 MSI recorded during the second quarter of 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports/">Worldwide Silicon Wafer Shipments Increase 13.4% Year-on-Year in Q3 2026, SEMI Reports</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
