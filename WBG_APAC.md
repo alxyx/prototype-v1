@@ -1,8 +1,32 @@
-# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
+# 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/13)
 
-_Last updated: 2026-11-06 01:00 UTC_
+_Last updated: 2026-11-06 08:37 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [From AI That Answers to AI That Acts](https://www.eetasia.com/embeddedblog-from-ai-that-answers-to-ai-that-acts/)
+**Published:** Fri, 06 Nov 2026 07:22:18 +0000
+
+<p>Why physical AI requires a new definition of performance – one built around the whole system, not peak compute.</p>
+<p>The post <a href="https://www.eetasia.com/embeddedblog-from-ai-that-answers-to-ai-that-acts/">From AI That Answers to AI That Acts</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Infinitesima Marks 25 Years with Focus on 3D Semiconductor Metrology](https://www.eetasia.com/infinitesima-marks-25-years-with-focus-on-3d-semiconductor-metrology/)
+**Published:** Fri, 06 Nov 2026 04:01:34 +0000
+
+<p>Infinitesima refreshes its brand as advanced packaging and three-dimensional chip architectures increase measurement requirements.</p>
+<p>The post <a href="https://www.eetasia.com/infinitesima-marks-25-years-with-focus-on-3d-semiconductor-metrology/">Infinitesima Marks 25 Years with Focus on 3D Semiconductor Metrology</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Analog Devices Completes Acquisition of Alif Semiconductor](https://www.eetasia.com/analog-devices-completes-acquisition-of-alif-semiconductor/)
+**Published:** Fri, 06 Nov 2026 03:01:57 +0000
+
+<p>Acquisition adds AI-native microcontrollers and fusion processors to ADI's sensing, processing and connectivity portfolio.</p>
+<p>The post <a href="https://www.eetasia.com/analog-devices-completes-acquisition-of-alif-semiconductor/">Analog Devices Completes Acquisition of Alif Semiconductor</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -19,30 +43,6 @@ _Last updated: 2026-11-06 01:00 UTC_
 
 <p>Physical AI deployment depends on balancing computing performance, energy efficiency, system integration, safety and scalability.</p>
 <p>The post <a href="https://www.eetasia.com/engineering-physical-ai-for-real-world-deployment/">Engineering Physical AI for Real-World Deployment</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research](https://www.eetasia.com/synopsys-joins-nus-testbed-for-tropical-data-center-cooling-research/)
-**Published:** Wed, 04 Nov 2026 07:29:37 +0000
-
-<p>The collaboration will combine multiphysics simulation, digital twins and physical testing to improve cooling efficiency in AI data centers.</p>
-<p>The post <a href="https://www.eetasia.com/synopsys-joins-nus-testbed-for-tropical-data-center-cooling-research/">Synopsys Joins NUS Testbed for Tropical Data Center Cooling Research</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Wolfspeed Intros Transparent SiC Substrates for AR, Quantum Computing](https://www.eetasia.com/wolfspeed-intros-transparent-sic-substrates-for-ar-quantum-computing/)
-**Published:** Tue, 03 Nov 2026 23:53:08 +0000
-
-<p>Optical-grade SiC substrates target AR waveguides and quantum applications, with development progressing toward larger wafers.</p>
-<p>The post <a href="https://www.eetasia.com/wolfspeed-intros-transparent-sic-substrates-for-ar-quantum-computing/">Wolfspeed Intros Transparent SiC Substrates for AR, Quantum Computing</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Global Semiconductor Sales Up 24% to $517.7B in 3Q 2026](https://www.eetasia.com/global-semiconductor-sales-up-24-to-517-7b-in-3q-2026/)
-**Published:** Tue, 03 Nov 2026 23:42:41 +0000
-
-<p>Global semiconductor sales rose by 24.1% quarter-on-quarter in 3Q 2026, with September revenue reaching $172.6 billion, according to SIA.</p>
-<p>The post <a href="https://www.eetasia.com/global-semiconductor-sales-up-24-to-517-7b-in-3q-2026/">Global Semiconductor Sales Up 24% to $517.7B in 3Q 2026</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
