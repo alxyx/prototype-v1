@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-09 09:26 UTC_
+_Last updated: 2026-11-10 03:25 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [AI Chip Advances Put Semiconductor Materials and Packaging in Focus](https://www.eetasia.com/ai-chip-advances-put-semiconductor-materials-and-packaging-in-focus/)
+**Published:** Tue, 10 Nov 2026 02:44:44 +0000
+
+<p>Rising AI chip performance demands are driving advances in materials engineering, manufacturing equipment and advanced semiconductor packaging technologies.</p>
+<p>The post <a href="https://www.eetasia.com/ai-chip-advances-put-semiconductor-materials-and-packaging-in-focus/">AI Chip Advances Put Semiconductor Materials and Packaging in Focus</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -22,67 +30,59 @@ _Last updated: 2026-11-09 09:26 UTC_
 
 ---
 
-## [Micron Announces Board of Directors Retirement](https://www.semiconductor-digest.com/micron-announces-board-of-directors-retirement/?utm_source=rss&utm_medium=rss&utm_campaign=micron-announces-board-of-directors-retirement)
-**Published:** Fri, 06 Nov 2026 16:15:18 +0000
+## [Infineon Processes Functional Power Devices on 300mm SiC Wafers](https://www.semiconductor-digest.com/infineon-processes-functional-power-devices-on-300mm-sic-wafers/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-processes-functional-power-devices-on-300mm-sic-wafers)
+**Published:** Tue, 10 Nov 2026 01:04:14 +0000
 
-<p>Micron Technology, Inc. today announced that Linnie M. Haynesworth has informed the Company that she will retire from its board of directors at the annual shareholders meeting expected to be held on January 14, 2027.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-announces-board-of-directors-retirement/">Micron Announces Board of Directors Retirement</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Eulitha Ramps Up Deliveries of Advanced Lithography Systems](https://www.semiconductor-digest.com/eulitha-ramps-up-deliveries-of-advanced-lithography-systems/?utm_source=rss&utm_medium=rss&utm_campaign=eulitha-ramps-up-deliveries-of-advanced-lithography-systems)
-**Published:** Fri, 06 Nov 2026 16:12:32 +0000
-
-<p>Eulitha AG today announced deliveries of multiple automated tools to foundries for the production of InP DFB lasers to be used in AI data centers.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/eulitha-ramps-up-deliveries-of-advanced-lithography-systems/">Eulitha Ramps Up Deliveries of Advanced Lithography Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Infineon Technologies AG has successfully processed 300mm silicon carbide wafers into functional power devices at its fab in Villach, Austria.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/infineon-processes-functional-power-devices-on-300mm-sic-wafers/">Infineon Processes Functional Power Devices on 300mm SiC Wafers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Hanyang University Researchers Gain Control Over Where Semiconductor Crystals First Form](https://www.semiconductor-digest.com/hanyang-university-researchers-gain-control-over-where-semiconductor-crystals-first-form/?utm_source=rss&utm_medium=rss&utm_campaign=hanyang-university-researchers-gain-control-over-where-semiconductor-crystals-first-form)
-**Published:** Fri, 06 Nov 2026 16:05:05 +0000
+## [Fraunhofer IPMS Highlights Semiconductor Technology Developments at SEMICON Europa](https://www.semiconductor-digest.com/fraunhofer-ipms-highlights-semiconductor-technology-developments-at-semicon-europa/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-ipms-highlights-semiconductor-technology-developments-at-semicon-europa)
+**Published:** Tue, 10 Nov 2026 00:51:55 +0000
 
-<p>The method guides single crystals to begin growing in predefined central regions.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/hanyang-university-researchers-gain-control-over-where-semiconductor-crystals-first-form/">Hanyang University Researchers Gain Control Over Where Semiconductor Crystals First Form</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Diamond Foundry Announces First-Ever D200mm Single-Crystal Diamond](https://www.semiconductor-digest.com/diamond-foundry-announces-first-ever-d200mm-single-crystal-diamond/?utm_source=rss&utm_medium=rss&utm_campaign=diamond-foundry-announces-first-ever-d200mm-single-crystal-diamond)
-**Published:** Fri, 06 Nov 2026 16:03:48 +0000
-
-<p>Breakthrough culminates 25 years of scientific pursuit and establishes a new scale for single-crystal diamond.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/diamond-foundry-announces-first-ever-d200mm-single-crystal-diamond/">Diamond Foundry Announces First-Ever D200mm Single-Crystal Diamond</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>At SEMICON Europa 2026, the Fraunhofer Institute for Photonic Microsystems IPMS will showcase current research results and technological developments for the semiconductor industry.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/fraunhofer-ipms-highlights-semiconductor-technology-developments-at-semicon-europa/">Fraunhofer IPMS Highlights Semiconductor Technology Developments at SEMICON Europa</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Macronix’s sNOVA Technology Recognized with IEEE Milestone Award](https://www.semiconductor-digest.com/macronixs-snova-technology-recognized-with-ieee-milestone-award/?utm_source=rss&utm_medium=rss&utm_campaign=macronixs-snova-technology-recognized-with-ieee-milestone-award)
-**Published:** Thu, 05 Nov 2026 22:42:44 +0000
+## [SEMI Foundation Launches Global Chip the Future Challenge](https://www.semiconductor-digest.com/semi-foundation-launches-global-chip-the-future-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-launches-global-chip-the-future-challenge)
+**Published:** Tue, 10 Nov 2026 00:32:15 +0000
 
-<p>Macronix International Co., Ltd., a integrated device manufacturer in the non-volatile memory (NVM) market, today announced its independently developed industrial production optimization platform, the sNOVA system, has been awarded the IEEE Milestone Award, making Macronix the first semiconductor company in Taiwan to receive this prestigious honor.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/macronixs-snova-technology-recognized-with-ieee-milestone-award/">Macronix&#8217;s sNOVA Technology Recognized with IEEE Milestone Award</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Marvell and Lumentum Announce Combination](https://www.semiconductor-digest.com/marvell-and-lumentum-announce-combination/?utm_source=rss&utm_medium=rss&utm_campaign=marvell-and-lumentum-announce-combination)
-**Published:** Thu, 05 Nov 2026 22:35:54 +0000
-
-<p>Marvell Technology, Inc. and Lumentum today announced that they have entered into a definitive agreement for Marvell to acquire Lumentum in an all-stock transaction.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/marvell-and-lumentum-announce-combination/">Marvell and Lumentum Announce Combination</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>New global competition invites university students to develop research and solutions addressing real-world semiconductor challenges.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semi-foundation-launches-global-chip-the-future-challenge/">SEMI Foundation Launches Global Chip the Future Challenge</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Global Semiconductor Alliance Announces 2026 Award Nominees](https://www.semiconductor-digest.com/global-semiconductor-alliance-announces-2026-award-nominees/?utm_source=rss&utm_medium=rss&utm_campaign=global-semiconductor-alliance-announces-2026-award-nominees)
-**Published:** Thu, 05 Nov 2026 22:28:23 +0000
+## [Semiconductor Companies Get Tough on AI Investment, but Measuring Returns Remains a Challenge](https://www.semiconductor-digest.com/semiconductor-companies-get-tough-on-ai-investment-but-measuring-returns-remains-a-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-companies-get-tough-on-ai-investment-but-measuring-returns-remains-a-challenge)
+**Published:** Mon, 09 Nov 2026 21:31:27 +0000
 
-<p>The Global Semiconductor Alliance (GSA) is pleased to announce its 2026 award nominees. The prestigious awards will be presented at the GSA Awards Celebration on Thursday, Dec. 10, 2026. This year’s program will celebrate the achievements of the semiconductor industry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/global-semiconductor-alliance-announces-2026-award-nominees/">Global Semiconductor Alliance Announces 2026 Award Nominees</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>HTEC research finds semiconductor companies are ahead in scaling AI, yet fragmented measurement is making it harder to connect engineering gains to business outcomes.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-companies-get-tough-on-ai-investment-but-measuring-returns-remains-a-challenge/">Semiconductor Companies Get Tough on AI Investment, but Measuring Returns Remains a Challenge</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Entegris Expands Partnership with Kioxia](https://www.semiconductor-digest.com/entegris-expands-partnership-with-kioxia/?utm_source=rss&utm_medium=rss&utm_campaign=entegris-expands-partnership-with-kioxia)
-**Published:** Thu, 05 Nov 2026 22:21:41 +0000
+## [Mixx Technologies Backs Open Standards for Near-Package Optical Connectivity](https://www.semiconductor-digest.com/mixx-technologies-backs-open-standards-for-near-package-optical-connectivity/?utm_source=rss&utm_medium=rss&utm_campaign=mixx-technologies-backs-open-standards-for-near-package-optical-connectivity)
+**Published:** Mon, 09 Nov 2026 21:26:47 +0000
 
-<p>Entegris, Inc. today announced an expansion of its strategic partnership with Kioxia Corporation to accelerate materials innovation for future generations of BiCS FLASH 3D flash memory and next-generation computing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/entegris-expands-partnership-with-kioxia/">Entegris Expands Partnership with Kioxia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>Mixx Technologies, Inc. today set out its view of high-density optical scale-up as a member of the Expanded Beam Optics Multi-Source Agreement (EBO MSA) and a contributing member of the Open CPX MSA.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/mixx-technologies-backs-open-standards-for-near-package-optical-connectivity/">Mixx Technologies Backs Open Standards for Near-Package Optical Connectivity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [EV Group Advances Qubit Scaling Through Semiconductor Packaging Technology](https://www.semiconductor-digest.com/ev-group-advances-qubit-scaling-through-semiconductor-packaging-technology/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-advances-qubit-scaling-through-semiconductor-packaging-technology)
+**Published:** Mon, 09 Nov 2026 21:24:25 +0000
+
+<p>EV Group today announced that it is supporting quantum chip developers and manufacturers in addressing the complex manufacturing requirements associated with scaling quantum computing systems.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ev-group-advances-qubit-scaling-through-semiconductor-packaging-technology/">EV Group Advances Qubit Scaling Through Semiconductor Packaging Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SCHMID to Supply Equipment for Advanced Packaging Facility in South Asia](https://www.semiconductor-digest.com/schmid-to-supply-equipment-for-advanced-packaging-facility-in-south-asia/?utm_source=rss&utm_medium=rss&utm_campaign=schmid-to-supply-equipment-for-advanced-packaging-facility-in-south-asia)
+**Published:** Mon, 09 Nov 2026 21:17:35 +0000
+
+<p>Order marks an important step on the industry’s path from pilot lines to volume manufacturing of glass core substrates for AI and high-performance computing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/schmid-to-supply-equipment-for-advanced-packaging-facility-in-south-asia/">SCHMID to Supply Equipment for Advanced Packaging Facility in South Asia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
