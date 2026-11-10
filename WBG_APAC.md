@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-10 03:25 UTC_
+_Last updated: 2026-11-10 12:26 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Diamond Foundry Reports 200mm Single-crystal Diamond Wafer Milestone](https://www.eetasia.com/diamond-foundry-reports-200mm-single-crystal-diamond-wafer-milestone/)
+**Published:** Tue, 10 Nov 2026 03:59:00 +0000
+
+<p>The 200mm crystal could broaden diamond's role in semiconductor thermal management and advanced electronics.</p>
+<p>The post <a href="https://www.eetasia.com/diamond-foundry-reports-200mm-single-crystal-diamond-wafer-milestone/">Diamond Foundry Reports 200mm Single-crystal Diamond Wafer Milestone</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,22 +19,6 @@ _Last updated: 2026-11-10 03:25 UTC_
 
 <p>Rising AI chip performance demands are driving advances in materials engineering, manufacturing equipment and advanced semiconductor packaging technologies.</p>
 <p>The post <a href="https://www.eetasia.com/ai-chip-advances-put-semiconductor-materials-and-packaging-in-focus/">AI Chip Advances Put Semiconductor Materials and Packaging in Focus</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [US Semiconductor Expansion Hinges on Fab Efficiency, Supply Chain Coordination](https://www.eetasia.com/us-semiconductor-expansion-hinges-on-fab-efficiency-supply-chain-coordination/)
-**Published:** Mon, 09 Nov 2026 02:11:00 +0000
-
-<p>US semiconductor investment is accelerating, but permitting, workforce shortages, and manufacturing efficiency remain key challenges.</p>
-<p>The post <a href="https://www.eetasia.com/us-semiconductor-expansion-hinges-on-fab-efficiency-supply-chain-coordination/">US Semiconductor Expansion Hinges on Fab Efficiency, Supply Chain Coordination</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Enabling Physical AI Agents with Lemonade](https://www.eetasia.com/embeddedblog-enabling-physical-ai-agents-with-lemonade/)
-**Published:** Fri, 06 Nov 2026 12:32:18 +0000
-
-<p>Run a vision-language agent that controls a simulated 7-DOF Panda arm — entirely on-device. RAI + Lemonade + O3DE + ROS 2 Jazzy on Ryzen AI Max+ let you pick, place, and sort objects via natural language, no fine-tuning, no cloud.</p>
-<p>The post <a href="https://www.eetasia.com/embeddedblog-enabling-physical-ai-agents-with-lemonade/">Enabling Physical AI Agents with Lemonade</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -83,6 +75,14 @@ _Last updated: 2026-11-10 03:25 UTC_
 
 <p>Order marks an important step on the industry’s path from pilot lines to volume manufacturing of glass core substrates for AI and high-performance computing.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/schmid-to-supply-equipment-for-advanced-packaging-facility-in-south-asia/">SCHMID to Supply Equipment for Advanced Packaging Facility in South Asia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Micron Announces Board of Directors Retirement](https://www.semiconductor-digest.com/micron-announces-board-of-directors-retirement/?utm_source=rss&utm_medium=rss&utm_campaign=micron-announces-board-of-directors-retirement)
+**Published:** Fri, 06 Nov 2026 16:15:18 +0000
+
+<p>Micron Technology, Inc. today announced that Linnie M. Haynesworth has informed the Company that she will retire from its board of directors at the annual shareholders meeting expected to be held on January 14, 2027.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/micron-announces-board-of-directors-retirement/">Micron Announces Board of Directors Retirement</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
