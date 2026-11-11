@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-10 12:26 UTC_
+_Last updated: 2026-11-11 02:28 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,46 @@ _Last updated: 2026-11-10 12:26 UTC_
 
 <p>Rising AI chip performance demands are driving advances in materials engineering, manufacturing equipment and advanced semiconductor packaging technologies.</p>
 <p>The post <a href="https://www.eetasia.com/ai-chip-advances-put-semiconductor-materials-and-packaging-in-focus/">AI Chip Advances Put Semiconductor Materials and Packaging in Focus</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Nordson Electronics Solutions Wins The 2026 Global Technology Award for the MARCH ExoSPHERE Plasma Treatment System](https://www.semiconductor-digest.com/nordson-electronics-solutions-wins-the-2026-global-technology-award-for-the-march-exosphere-plasma-treatment-system/?utm_source=rss&utm_medium=rss&utm_campaign=nordson-electronics-solutions-wins-the-2026-global-technology-award-for-the-march-exosphere-plasma-treatment-system)
+**Published:** Tue, 10 Nov 2026 22:23:54 +0000
+
+<p>Nordson Electronics Solutions accepted the 2026 Global Technology Award in the Plasma Systems category for their new, MARCH ExoSPHERE plasma treatment system.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/nordson-electronics-solutions-wins-the-2026-global-technology-award-for-the-march-exosphere-plasma-treatment-system/">Nordson Electronics Solutions Wins The 2026 Global Technology Award for the MARCH ExoSPHERE Plasma Treatment System</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ACM Research Enhances Single-Wafer Hot SPM System with Sulfuric Acid Recycle Capability](https://www.semiconductor-digest.com/acm-research-enhances-single-wafer-hot-spm-system-with-sulfuric-acid-recycle-capability/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-enhances-single-wafer-hot-spm-system-with-sulfuric-acid-recycle-capability)
+**Published:** Tue, 10 Nov 2026 22:16:46 +0000
+
+<p>New capability delivers a 70% sulfuric acid recycle rate while maintaining stringent particle control; System validated across more than 50 process layers at a foundry customer.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/acm-research-enhances-single-wafer-hot-spm-system-with-sulfuric-acid-recycle-capability/">ACM Research Enhances Single-Wafer Hot SPM System with Sulfuric Acid Recycle Capability</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Helion Signs Letter of Intent For $175 Million CHIPS Award to Advance U.S. High Voltage Semiconductor R&D](https://www.semiconductor-digest.com/helion-signs-letter-of-intent-for-175-million-chips-award-to-advance-u-s-high-voltage-semiconductor-rd/?utm_source=rss&utm_medium=rss&utm_campaign=helion-signs-letter-of-intent-for-175-million-chips-award-to-advance-u-s-high-voltage-semiconductor-rd)
+**Published:** Tue, 10 Nov 2026 22:14:40 +0000
+
+<p>Funds will support next-generation semiconductor research and development in Everett, Washington, enabling substantial power module manufacturing capability in Washington state.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/helion-signs-letter-of-intent-for-175-million-chips-award-to-advance-u-s-high-voltage-semiconductor-rd/">Helion Signs Letter of Intent For $175 Million CHIPS Award to Advance U.S. High Voltage Semiconductor R&#038;D</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [The Next Level of Efficiency in Chip Manufacturing Is Taking Shape Below the Cleanroom](https://www.semiconductor-digest.com/the-next-level-of-efficiency-in-chip-manufacturing-is-taking-shape-below-the-cleanroom/?utm_source=rss&utm_medium=rss&utm_campaign=the-next-level-of-efficiency-in-chip-manufacturing-is-taking-shape-below-the-cleanroom)
+**Published:** Tue, 10 Nov 2026 22:12:17 +0000
+
+<p>With Subfab NetZero, DAS Environmental Experts introduces a holistic approach to reducing emissions and operating costs. The new ALCEA waste gas abatement system for NOx treatment expands the company’s portfolio. The first installations are already in place at semiconductor manufacturers in Taiwan.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/the-next-level-of-efficiency-in-chip-manufacturing-is-taking-shape-below-the-cleanroom/">The Next Level of Efficiency in Chip Manufacturing Is Taking Shape Below the Cleanroom</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [CEA-Leti Launches SubFAB Labs with ISRL to Speed Adoption of Lower-Impact Chip Manufacturing Technologies](https://www.semiconductor-digest.com/cea-leti-launches-subfab-labs-with-isrl-to-speed-adoption-of-lower-impact-chip-manufacturing-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=cea-leti-launches-subfab-labs-with-isrl-to-speed-adoption-of-lower-impact-chip-manufacturing-technologies)
+**Published:** Tue, 10 Nov 2026 22:00:25 +0000
+
+<p>CEA-Leti today launched SubFAB Labs, a joint program with International SubFAB Research Labs (ISRL) that gives the semiconductor industry a pre-industrial environment to test, validate and qualify technologies that reduce the environmental impact of chip manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/cea-leti-launches-subfab-labs-with-isrl-to-speed-adoption-of-lower-impact-chip-manufacturing-technologies/">CEA-Leti Launches SubFAB Labs with ISRL to Speed Adoption of Lower-Impact Chip Manufacturing Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -43,46 +83,6 @@ _Last updated: 2026-11-10 12:26 UTC_
 
 <p>New global competition invites university students to develop research and solutions addressing real-world semiconductor challenges.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/semi-foundation-launches-global-chip-the-future-challenge/">SEMI Foundation Launches Global Chip the Future Challenge</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Semiconductor Companies Get Tough on AI Investment, but Measuring Returns Remains a Challenge](https://www.semiconductor-digest.com/semiconductor-companies-get-tough-on-ai-investment-but-measuring-returns-remains-a-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-companies-get-tough-on-ai-investment-but-measuring-returns-remains-a-challenge)
-**Published:** Mon, 09 Nov 2026 21:31:27 +0000
-
-<p>HTEC research finds semiconductor companies are ahead in scaling AI, yet fragmented measurement is making it harder to connect engineering gains to business outcomes.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semiconductor-companies-get-tough-on-ai-investment-but-measuring-returns-remains-a-challenge/">Semiconductor Companies Get Tough on AI Investment, but Measuring Returns Remains a Challenge</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Mixx Technologies Backs Open Standards for Near-Package Optical Connectivity](https://www.semiconductor-digest.com/mixx-technologies-backs-open-standards-for-near-package-optical-connectivity/?utm_source=rss&utm_medium=rss&utm_campaign=mixx-technologies-backs-open-standards-for-near-package-optical-connectivity)
-**Published:** Mon, 09 Nov 2026 21:26:47 +0000
-
-<p>Mixx Technologies, Inc. today set out its view of high-density optical scale-up as a member of the Expanded Beam Optics Multi-Source Agreement (EBO MSA) and a contributing member of the Open CPX MSA.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/mixx-technologies-backs-open-standards-for-near-package-optical-connectivity/">Mixx Technologies Backs Open Standards for Near-Package Optical Connectivity</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [EV Group Advances Qubit Scaling Through Semiconductor Packaging Technology](https://www.semiconductor-digest.com/ev-group-advances-qubit-scaling-through-semiconductor-packaging-technology/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-advances-qubit-scaling-through-semiconductor-packaging-technology)
-**Published:** Mon, 09 Nov 2026 21:24:25 +0000
-
-<p>EV Group today announced that it is supporting quantum chip developers and manufacturers in addressing the complex manufacturing requirements associated with scaling quantum computing systems.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ev-group-advances-qubit-scaling-through-semiconductor-packaging-technology/">EV Group Advances Qubit Scaling Through Semiconductor Packaging Technology</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SCHMID to Supply Equipment for Advanced Packaging Facility in South Asia](https://www.semiconductor-digest.com/schmid-to-supply-equipment-for-advanced-packaging-facility-in-south-asia/?utm_source=rss&utm_medium=rss&utm_campaign=schmid-to-supply-equipment-for-advanced-packaging-facility-in-south-asia)
-**Published:** Mon, 09 Nov 2026 21:17:35 +0000
-
-<p>Order marks an important step on the industry’s path from pilot lines to volume manufacturing of glass core substrates for AI and high-performance computing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/schmid-to-supply-equipment-for-advanced-packaging-facility-in-south-asia/">SCHMID to Supply Equipment for Advanced Packaging Facility in South Asia</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Micron Announces Board of Directors Retirement](https://www.semiconductor-digest.com/micron-announces-board-of-directors-retirement/?utm_source=rss&utm_medium=rss&utm_campaign=micron-announces-board-of-directors-retirement)
-**Published:** Fri, 06 Nov 2026 16:15:18 +0000
-
-<p>Micron Technology, Inc. today announced that Linnie M. Haynesworth has informed the Company that she will retire from its board of directors at the annual shareholders meeting expected to be held on January 14, 2027.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/micron-announces-board-of-directors-retirement/">Micron Announces Board of Directors Retirement</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
