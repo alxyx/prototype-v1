@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-11 02:28 UTC_
+_Last updated: 2026-11-11 09:40 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,30 @@ _Last updated: 2026-11-11 02:28 UTC_
 
 <p>Rising AI chip performance demands are driving advances in materials engineering, manufacturing equipment and advanced semiconductor packaging technologies.</p>
 <p>The post <a href="https://www.eetasia.com/ai-chip-advances-put-semiconductor-materials-and-packaging-in-focus/">AI Chip Advances Put Semiconductor Materials and Packaging in Focus</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [ICsense Reports Record Growth as Demand Rises for Specialized Medical ASICs](https://www.semiconductor-digest.com/icsense-reports-record-growth-as-demand-rises-for-specialized-medical-asics/?utm_source=rss&utm_medium=rss&utm_campaign=icsense-reports-record-growth-as-demand-rises-for-specialized-medical-asics)
+**Published:** Wed, 11 Nov 2026 02:02:05 +0000
+
+<p>Belgian semiconductor company ICsense reported a record year, with revenue rising 30% and profits increasing by more than 50%, driven in part by growing demand for custom chips used in brain-computer interfaces and implantable medical devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/icsense-reports-record-growth-as-demand-rises-for-specialized-medical-asics/">ICsense Reports Record Growth as Demand Rises for Specialized Medical ASICs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Finetech Expands its Portfolio for Volume Production](https://www.semiconductor-digest.com/finetech-expands-its-portfolio-for-volume-production/?utm_source=rss&utm_medium=rss&utm_campaign=finetech-expands-its-portfolio-for-volume-production)
+**Published:** Wed, 11 Nov 2026 01:56:00 +0000
+
+<p>Finetech, a supplier of high-precision die bonding systems for advanced packaging and heterogeneous integration, is expanding its management team: André Thiemann became Co-CEO on November 1.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/finetech-expands-its-portfolio-for-volume-production/">Finetech Expands its Portfolio for Volume Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Hummink Unveils the BIRD Module at SEMICON Europa 2026](https://www.semiconductor-digest.com/hummink-unveils-the-bird-module-at-semicon-europa-2026/?utm_source=rss&utm_medium=rss&utm_campaign=hummink-unveils-the-bird-module-at-semicon-europa-2026)
+**Published:** Wed, 11 Nov 2026 01:52:50 +0000
+
+<p>As advanced packaging plays an increasingly important role in the performance and miniaturization of electronic components, manufacturers face growing challenges in terms of yield, precision, and integration.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/hummink-unveils-the-bird-module-at-semicon-europa-2026/">Hummink Unveils the BIRD Module at SEMICON Europa 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-11-11 02:28 UTC_
 
 <p>CEA-Leti today launched SubFAB Labs, a joint program with International SubFAB Research Labs (ISRL) that gives the semiconductor industry a pre-industrial environment to test, validate and qualify technologies that reduce the environmental impact of chip manufacturing.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/cea-leti-launches-subfab-labs-with-isrl-to-speed-adoption-of-lower-impact-chip-manufacturing-technologies/">CEA-Leti Launches SubFAB Labs with ISRL to Speed Adoption of Lower-Impact Chip Manufacturing Technologies</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Infineon Processes Functional Power Devices on 300mm SiC Wafers](https://www.semiconductor-digest.com/infineon-processes-functional-power-devices-on-300mm-sic-wafers/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-processes-functional-power-devices-on-300mm-sic-wafers)
-**Published:** Tue, 10 Nov 2026 01:04:14 +0000
-
-<p>Infineon Technologies AG has successfully processed 300mm silicon carbide wafers into functional power devices at its fab in Villach, Austria.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/infineon-processes-functional-power-devices-on-300mm-sic-wafers/">Infineon Processes Functional Power Devices on 300mm SiC Wafers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Fraunhofer IPMS Highlights Semiconductor Technology Developments at SEMICON Europa](https://www.semiconductor-digest.com/fraunhofer-ipms-highlights-semiconductor-technology-developments-at-semicon-europa/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-ipms-highlights-semiconductor-technology-developments-at-semicon-europa)
-**Published:** Tue, 10 Nov 2026 00:51:55 +0000
-
-<p>At SEMICON Europa 2026, the Fraunhofer Institute for Photonic Microsystems IPMS will showcase current research results and technological developments for the semiconductor industry.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/fraunhofer-ipms-highlights-semiconductor-technology-developments-at-semicon-europa/">Fraunhofer IPMS Highlights Semiconductor Technology Developments at SEMICON Europa</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SEMI Foundation Launches Global Chip the Future Challenge](https://www.semiconductor-digest.com/semi-foundation-launches-global-chip-the-future-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-launches-global-chip-the-future-challenge)
-**Published:** Tue, 10 Nov 2026 00:32:15 +0000
-
-<p>New global competition invites university students to develop research and solutions addressing real-world semiconductor challenges.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/semi-foundation-launches-global-chip-the-future-challenge/">SEMI Foundation Launches Global Chip the Future Challenge</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
