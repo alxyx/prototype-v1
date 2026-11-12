@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-12 15:40 UTC_
+_Last updated: 2026-11-12 23:50 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [imec and ASRA Release Joint Architectural Requirements for Interoperable Automotive Chiplets](https://www.semiconductor-digest.com/imec-and-asra-release-joint-architectural-requirements-for-interoperable-automotive-chiplets/?utm_source=rss&utm_medium=rss&utm_campaign=imec-and-asra-release-joint-architectural-requirements-for-interoperable-automotive-chiplets)
+**Published:** Thu, 12 Nov 2026 21:44:29 +0000
+
+<p>Automotive Chiplet Interoperability Requirement (ACIR) document complements existing standards by establishing a common set of architectural requirements for an open, multi-vendor automotive chiplet ecosystem.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/imec-and-asra-release-joint-architectural-requirements-for-interoperable-automotive-chiplets/">imec and ASRA Release Joint Architectural Requirements for Interoperable Automotive Chiplets</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Texas Tech Receives $19 Million Grant to Further Semiconductor Innovation](https://www.semiconductor-digest.com/texas-tech-receives-19-million-grant-to-further-semiconductor-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=texas-tech-receives-19-million-grant-to-further-semiconductor-innovation)
+**Published:** Thu, 12 Nov 2026 21:36:25 +0000
+
+<p>The grant will support Texas Tech’s next-generation computing cluster as the university pushes and transforms semiconductor development. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/texas-tech-receives-19-million-grant-to-further-semiconductor-innovation/">Texas Tech Receives $19 Million Grant to Further Semiconductor Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-11-12 15:40 UTC_
 
 <p>Critical Manufacturing today announced new capabilities for its MES-powered Industrial Operations Platform, introducing a catalog of purpose-built AI agents that answer questions and build dashboards on the same governed data model that runs manufacturing execution.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/critical-manufacturing-expands-industrial-operations-platform-with-purpose-built-ai-agents/">Critical Manufacturing Expands Industrial Operations Platform with Purpose-Built AI Agents</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ICsense Reports Record Growth as Demand Rises for Specialized Medical ASICs](https://www.semiconductor-digest.com/icsense-reports-record-growth-as-demand-rises-for-specialized-medical-asics/?utm_source=rss&utm_medium=rss&utm_campaign=icsense-reports-record-growth-as-demand-rises-for-specialized-medical-asics)
-**Published:** Wed, 11 Nov 2026 02:02:05 +0000
-
-<p>Belgian semiconductor company ICsense reported a record year, with revenue rising 30% and profits increasing by more than 50%, driven in part by growing demand for custom chips used in brain-computer interfaces and implantable medical devices.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/icsense-reports-record-growth-as-demand-rises-for-specialized-medical-asics/">ICsense Reports Record Growth as Demand Rises for Specialized Medical ASICs</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Finetech Expands its Portfolio for Volume Production](https://www.semiconductor-digest.com/finetech-expands-its-portfolio-for-volume-production/?utm_source=rss&utm_medium=rss&utm_campaign=finetech-expands-its-portfolio-for-volume-production)
-**Published:** Wed, 11 Nov 2026 01:56:00 +0000
-
-<p>Finetech, a supplier of high-precision die bonding systems for advanced packaging and heterogeneous integration, is expanding its management team: André Thiemann became Co-CEO on November 1.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/finetech-expands-its-portfolio-for-volume-production/">Finetech Expands its Portfolio for Volume Production</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
