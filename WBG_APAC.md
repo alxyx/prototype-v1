@@ -1,8 +1,56 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-12 23:50 UTC_
+_Last updated: 2026-11-13 19:12 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Mouser’s Latest Series Examines Chiplets, Photonics and Emerging Technologies Beyond Moore’s Law](https://www.eetasia.com/mousers-latest-series-examines-chiplets-photonics-and-emerging-technologies-beyond-moores-law/)
+**Published:** Fri, 13 Nov 2026 07:37:16 +0000
+
+<p>Latest technology series examines semiconductor scaling limits and alternative approaches to improving computing performance and efficiency.</p>
+<p>The post <a href="https://www.eetasia.com/mousers-latest-series-examines-chiplets-photonics-and-emerging-technologies-beyond-moores-law/">Mouser&#8217;s Latest Series Examines Chiplets, Photonics and Emerging Technologies Beyond Moore&#8217;s Law</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Teledyne Vision Solutions Demonstrates Single-Pass 300mm Wafer Inspection](https://www.semiconductor-digest.com/teledyne-vision-solutions-demonstrates-single-pass-300mm-wafer-inspection/?utm_source=rss&utm_medium=rss&utm_campaign=teledyne-vision-solutions-demonstrates-single-pass-300mm-wafer-inspection)
+**Published:** Thu, 12 Nov 2026 23:04:57 +0000
+
+<p>Teledyne Vision Solutions showcases advanced imaging technologies for semiconductor inspection at SEMICON Europa 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/teledyne-vision-solutions-demonstrates-single-pass-300mm-wafer-inspection/">Teledyne Vision Solutions Demonstrates Single-Pass 300mm Wafer Inspection</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ViTrox Reports Nearly 200 AI-Powered X-Ray Inspection Systems Deployed](https://www.semiconductor-digest.com/vitrox-reports-nearly-200-ai-powered-x-ray-inspection-systems-deployed/?utm_source=rss&utm_medium=rss&utm_campaign=vitrox-reports-nearly-200-ai-powered-x-ray-inspection-systems-deployed)
+**Published:** Thu, 12 Nov 2026 23:02:06 +0000
+
+<p>ViTrox will demonstrate a curated line-up of its flagship AI-driven inspection technologies, spanning front-end SMT assembly through to back-end semiconductor and advanced packaging.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/vitrox-reports-nearly-200-ai-powered-x-ray-inspection-systems-deployed/">ViTrox Reports Nearly 200 AI-Powered X-Ray Inspection Systems Deployed</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Almere, Flevoland and Q.ANT Team Up for Computing with Light](https://www.semiconductor-digest.com/almere-flevoland-and-q-ant-team-up-for-computing-with-light/?utm_source=rss&utm_medium=rss&utm_campaign=almere-flevoland-and-q-ant-team-up-for-computing-with-light)
+**Published:** Thu, 12 Nov 2026 22:57:34 +0000
+
+<p>German leader in photonic AI chips signs Memorandum of Understanding with Innovally and Horizon Flevoland at SEMICON Europa.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/almere-flevoland-and-q-ant-team-up-for-computing-with-light/">Almere, Flevoland and Q.ANT Team Up for Computing with Light</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Aeluma Orders AIXTRON MOCVD System to Expand Photonics Manufacturing](https://www.semiconductor-digest.com/aeluma-orders-aixtron-mocvd-system-to-expand-photonics-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=aeluma-orders-aixtron-mocvd-system-to-expand-photonics-manufacturing)
+**Published:** Thu, 12 Nov 2026 22:27:38 +0000
+
+<p>The tool will support advanced development and the expansion of manufacturing capacity for Aeluma’s non-indium-phosphide (non-InP) photonics platform.  </p>
+<p>The post <a href="https://www.semiconductor-digest.com/aeluma-orders-aixtron-mocvd-system-to-expand-photonics-manufacturing/">Aeluma Orders AIXTRON MOCVD System to Expand Photonics Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Thermo Fisher Scientific Reports Multiple Installations of Optis FIB-SEM Systems](https://www.semiconductor-digest.com/thermo-fisher-scientific-reports-multiple-installations-of-optis-fib-sem-systems/?utm_source=rss&utm_medium=rss&utm_campaign=thermo-fisher-scientific-reports-multiple-installations-of-optis-fib-sem-systems)
+**Published:** Thu, 12 Nov 2026 22:26:17 +0000
+
+<p>Thermo Fisher Scientific Inc. today announced that it has completed multiple installations of the Thermo Scientific Optis focused ion beam-scanning electron microscope (FIB-SEM).</p>
+<p>The post <a href="https://www.semiconductor-digest.com/thermo-fisher-scientific-reports-multiple-installations-of-optis-fib-sem-systems/">Thermo Fisher Scientific Reports Multiple Installations of Optis FIB-SEM Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -35,54 +83,6 @@ _Last updated: 2026-11-12 23:50 UTC_
 
 <p>Brewer Science, Inc. will be showcasing its latest innovations in material solutions enabling next-generation technology at SEMICON Europa 2026.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/brewer-science-to-showcase-advanced-materials-innovation-at-semicon-europa-2026/">Brewer Science to Showcase Advanced Materials Innovation at SEMICON Europa 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Topco Scientific Establishes Dresden Hub, Makes SEMICON Europa Debut](https://www.semiconductor-digest.com/topco-scientific-establishes-dresden-hub-makes-semicon-europa-debut/?utm_source=rss&utm_medium=rss&utm_campaign=topco-scientific-establishes-dresden-hub-makes-semicon-europa-debut)
-**Published:** Wed, 11 Nov 2026 19:17:20 +0000
-
-<p>Driven by the European Chips Act and the trend toward localized semiconductor manufacturing, demand for materials, equipment, and technical services in Europe has attracted growing attention.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/topco-scientific-establishes-dresden-hub-makes-semicon-europa-debut/">Topco Scientific Establishes Dresden Hub, Makes SEMICON Europa Debut</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Sivers Semiconductors Announces Strategic Agreement with WT Microelectronics](https://www.semiconductor-digest.com/sivers-semiconductors-announces-strategic-agreement-with-wt-microelectronics/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-announces-strategic-agreement-with-wt-microelectronics)
-**Published:** Wed, 11 Nov 2026 18:53:39 +0000
-
-<p>Sivers Semiconductors AB today announced a global distribution agreement with WT Microelectronics Co., Ltd., a world-leading electronics and semiconductors distributor.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/sivers-semiconductors-announces-strategic-agreement-with-wt-microelectronics/">Sivers Semiconductors Announces Strategic Agreement with WT Microelectronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [esmo Launches Vulcon Contactors for Semiconductor Final Test](https://www.semiconductor-digest.com/esmo-launches-vulcon-contactors-for-semiconductor-final-test/?utm_source=rss&utm_medium=rss&utm_campaign=esmo-launches-vulcon-contactors-for-semiconductor-final-test)
-**Published:** Wed, 11 Nov 2026 18:45:45 +0000
-
-<p>esmo group (esmo), a global supplier of manipulators, docking and interfacing components, and handling systems for the semiconductor industry, introduces Vulcon, a family of contactors developed for semiconductor final test.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/esmo-launches-vulcon-contactors-for-semiconductor-final-test/">esmo Launches Vulcon Contactors for Semiconductor Final Test</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Elmos Semiconductor Reports Double-Digit Revenue Growth in Q3 2026](https://www.semiconductor-digest.com/elmos-semiconductor-reports-double-digit-revenue-growth-in-q3-2026/?utm_source=rss&utm_medium=rss&utm_campaign=elmos-semiconductor-reports-double-digit-revenue-growth-in-q3-2026)
-**Published:** Wed, 11 Nov 2026 18:34:16 +0000
-
-<p>Sales grow by more than 18% to 166.7 million Euro in Q3 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/elmos-semiconductor-reports-double-digit-revenue-growth-in-q3-2026/">Elmos Semiconductor Reports Double-Digit Revenue Growth in Q3 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [imec Advances Silicon Interposer Platform for European Chiplet Development](https://www.semiconductor-digest.com/imec-advances-silicon-interposer-platform-for-european-chiplet-development/?utm_source=rss&utm_medium=rss&utm_campaign=imec-advances-silicon-interposer-platform-for-european-chiplet-development)
-**Published:** Wed, 11 Nov 2026 18:32:19 +0000
-
-<p>This week at SEMICON Europa 2026, imec announced that it delivered the baseline flows for the silicon interposer platform being developed within the NanoIC pilot line.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/imec-advances-silicon-interposer-platform-for-european-chiplet-development/">imec Advances Silicon Interposer Platform for European Chiplet Development</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Critical Manufacturing Expands Industrial Operations Platform with Purpose-Built AI Agents](https://www.semiconductor-digest.com/critical-manufacturing-expands-industrial-operations-platform-with-purpose-built-ai-agents/?utm_source=rss&utm_medium=rss&utm_campaign=critical-manufacturing-expands-industrial-operations-platform-with-purpose-built-ai-agents)
-**Published:** Wed, 11 Nov 2026 16:58:29 +0000
-
-<p>Critical Manufacturing today announced new capabilities for its MES-powered Industrial Operations Platform, introducing a catalog of purpose-built AI agents that answer questions and build dashboards on the same governed data model that runs manufacturing execution.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/critical-manufacturing-expands-industrial-operations-platform-with-purpose-built-ai-agents/">Critical Manufacturing Expands Industrial Operations Platform with Purpose-Built AI Agents</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
