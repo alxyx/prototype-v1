@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-13 19:12 UTC_
+_Last updated: 2026-11-14 01:34 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,6 +11,22 @@ _Last updated: 2026-11-13 19:12 UTC_
 
 <p>Latest technology series examines semiconductor scaling limits and alternative approaches to improving computing performance and efficiency.</p>
 <p>The post <a href="https://www.eetasia.com/mousers-latest-series-examines-chiplets-photonics-and-emerging-technologies-beyond-moores-law/">Mouser&#8217;s Latest Series Examines Chiplets, Photonics and Emerging Technologies Beyond Moore&#8217;s Law</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [New Insights Into a Promising Material for Next-Generation Electronics](https://www.semiconductor-digest.com/new-insights-into-a-promising-material-for-next-generation-electronics/?utm_source=rss&utm_medium=rss&utm_campaign=new-insights-into-a-promising-material-for-next-generation-electronics)
+**Published:** Fri, 13 Nov 2026 18:32:36 +0000
+
+<p>Better electron transport without degrading heat transfer offers a promising path for next-generation power electronic devices.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/new-insights-into-a-promising-material-for-next-generation-electronics/">New Insights Into a Promising Material for Next-Generation Electronics</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Applies Materials Introduces VeritySEM 20; Adds Intel to EPIC Center Partnerships](https://www.semiconductor-digest.com/applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships)
+**Published:** Fri, 13 Nov 2026 18:27:10 +0000
+
+<p>Applied Materials, Inc. (NASDAQ: AMAT) today reported results for its fourth quarter and fiscal year ended Oct. 25, 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships/">Applies Materials Introduces VeritySEM 20; Adds Intel to EPIC Center Partnerships</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-11-13 19:12 UTC_
 
 <p>The grant will support Texas Tech’s next-generation computing cluster as the university pushes and transforms semiconductor development. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/texas-tech-receives-19-million-grant-to-further-semiconductor-innovation/">Texas Tech Receives $19 Million Grant to Further Semiconductor Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Technic Showcases Copper Plating Chemistries for Advanced Packaging](https://www.semiconductor-digest.com/technic-showcases-copper-plating-chemistries-for-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=technic-showcases-copper-plating-chemistries-for-advanced-packaging)
-**Published:** Wed, 11 Nov 2026 19:23:08 +0000
-
-<p>Technic will participate in SEMICON Europa 2026, taking place November 10–13, 2026, at Messe München in Munich, Germany.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/technic-showcases-copper-plating-chemistries-for-advanced-packaging/">Technic Showcases Copper Plating Chemistries for Advanced Packaging</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Brewer Science to Showcase Advanced Materials Innovation at SEMICON Europa 2026](https://www.semiconductor-digest.com/brewer-science-to-showcase-advanced-materials-innovation-at-semicon-europa-2026/?utm_source=rss&utm_medium=rss&utm_campaign=brewer-science-to-showcase-advanced-materials-innovation-at-semicon-europa-2026)
-**Published:** Wed, 11 Nov 2026 19:20:52 +0000
-
-<p>Brewer Science, Inc. will be showcasing its latest innovations in material solutions enabling next-generation technology at SEMICON Europa 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/brewer-science-to-showcase-advanced-materials-innovation-at-semicon-europa-2026/">Brewer Science to Showcase Advanced Materials Innovation at SEMICON Europa 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
