@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-16 02:32 UTC_
+_Last updated: 2026-11-16 05:48 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [How Statistical Analysis Improved Semiconductor Manufacturing at Macronix](https://www.eetasia.com/how-statistical-analysis-improved-semiconductor-manufacturing-at-macronix/)
+**Published:** Mon, 16 Nov 2026 02:16:06 +0000
+
+<p>Collecting data is only the first step. Its real value comes from using it to improve manufacturing.</p>
+<p>The post <a href="https://www.eetasia.com/how-statistical-analysis-improved-semiconductor-manufacturing-at-macronix/">How Statistical Analysis Improved Semiconductor Manufacturing at Macronix</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-11-16 02:32 UTC_
 
 <p>Automotive Chiplet Interoperability Requirement (ACIR) document complements existing standards by establishing a common set of architectural requirements for an open, multi-vendor automotive chiplet ecosystem.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/imec-and-asra-release-joint-architectural-requirements-for-interoperable-automotive-chiplets/">imec and ASRA Release Joint Architectural Requirements for Interoperable Automotive Chiplets</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Texas Tech Receives $19 Million Grant to Further Semiconductor Innovation](https://www.semiconductor-digest.com/texas-tech-receives-19-million-grant-to-further-semiconductor-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=texas-tech-receives-19-million-grant-to-further-semiconductor-innovation)
-**Published:** Thu, 12 Nov 2026 21:36:25 +0000
-
-<p>The grant will support Texas Tech’s next-generation computing cluster as the university pushes and transforms semiconductor development. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/texas-tech-receives-19-million-grant-to-further-semiconductor-innovation/">Texas Tech Receives $19 Million Grant to Further Semiconductor Innovation</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
