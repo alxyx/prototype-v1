@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-17 00:29 UTC_
+_Last updated: 2026-11-17 08:00 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Vietnam and South Korea Sign Eight Agreements on AI and Semiconductor Cooperation](https://www.eetasia.com/vietnam-and-south-korea-sign-eight-agreements-on-ai-and-semiconductor-cooperation/)
+**Published:** Tue, 17 Nov 2026 02:33:52 +0000
+
+<p>VKAISS 2026 brought together more than 400 delegates, with agreements covering supply chains, technology development and workforce training.</p>
+<p>The post <a href="https://www.eetasia.com/vietnam-and-south-korea-sign-eight-agreements-on-ai-and-semiconductor-cooperation/">Vietnam and South Korea Sign Eight Agreements on AI and Semiconductor Cooperation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,14 +19,6 @@ _Last updated: 2026-11-17 00:29 UTC_
 
 <p>Collecting data is only the first step. Its real value comes from using it to improve manufacturing.</p>
 <p>The post <a href="https://www.eetasia.com/how-statistical-analysis-improved-semiconductor-manufacturing-at-macronix/">How Statistical Analysis Improved Semiconductor Manufacturing at Macronix</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Mouser’s Latest Series Examines Chiplets, Photonics and Emerging Technologies Beyond Moore’s Law](https://www.eetasia.com/mousers-latest-series-examines-chiplets-photonics-and-emerging-technologies-beyond-moores-law/)
-**Published:** Fri, 13 Nov 2026 07:37:16 +0000
-
-<p>Latest technology series examines semiconductor scaling limits and alternative approaches to improving computing performance and efficiency.</p>
-<p>The post <a href="https://www.eetasia.com/mousers-latest-series-examines-chiplets-photonics-and-emerging-technologies-beyond-moores-law/">Mouser&#8217;s Latest Series Examines Chiplets, Photonics and Emerging Technologies Beyond Moore&#8217;s Law</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
