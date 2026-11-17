@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-16 14:18 UTC_
+_Last updated: 2026-11-17 00:29 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -22,6 +22,22 @@ _Last updated: 2026-11-16 14:18 UTC_
 
 ---
 
+## [Siemens to Acquire Lauterbach to Expand Semiconductor Design and Verification](https://www.semiconductor-digest.com/siemens-to-acquire-lauterbach-to-expand-semiconductor-design-and-verification/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-to-acquire-lauterbach-to-expand-semiconductor-design-and-verification)
+**Published:** Mon, 16 Nov 2026 22:27:45 +0000
+
+<p>Siemens has signed an agreement to acquire Lauterbach, a leading provider of debug and trace solutions for embedded software and complex system-on-chip (SoC) architectures.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-to-acquire-lauterbach-to-expand-semiconductor-design-and-verification/">Siemens to Acquire Lauterbach to Expand Semiconductor Design and Verification</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [EV Group Wins Austrian National Innovation Award for Third Time](https://www.semiconductor-digest.com/ev-group-wins-austrian-national-innovation-award-for-third-time/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-wins-austrian-national-innovation-award-for-third-time)
+**Published:** Mon, 16 Nov 2026 22:19:31 +0000
+
+<p>EVG project “IR LayerRelease Technology Revolutionizes Microchip Scaling” honored with the country’s highest official award for innovative companies.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/ev-group-wins-austrian-national-innovation-award-for-third-time/">EV Group Wins Austrian National Innovation Award for Third Time</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
 ## [New Insights Into a Promising Material for Next-Generation Electronics](https://www.semiconductor-digest.com/new-insights-into-a-promising-material-for-next-generation-electronics/?utm_source=rss&utm_medium=rss&utm_campaign=new-insights-into-a-promising-material-for-next-generation-electronics)
 **Published:** Fri, 13 Nov 2026 18:32:36 +0000
 
@@ -30,11 +46,11 @@ _Last updated: 2026-11-16 14:18 UTC_
 
 ---
 
-## [Applies Materials Introduces VeritySEM 20; Adds Intel to EPIC Center Partnerships](https://www.semiconductor-digest.com/applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships)
+## [Applied Materials Introduces VeritySEM 20; Adds Intel to EPIC Center Partnerships](https://www.semiconductor-digest.com/applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships)
 **Published:** Fri, 13 Nov 2026 18:27:10 +0000
 
 <p>Applied Materials, Inc. (NASDAQ: AMAT) today reported results for its fourth quarter and fiscal year ended Oct. 25, 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships/">Applies Materials Introduces VeritySEM 20; Adds Intel to EPIC Center Partnerships</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships/">Applied Materials Introduces VeritySEM 20; Adds Intel to EPIC Center Partnerships</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -67,22 +83,6 @@ _Last updated: 2026-11-16 14:18 UTC_
 
 <p>The tool will support advanced development and the expansion of manufacturing capacity for Aeluma’s non-indium-phosphide (non-InP) photonics platform.  </p>
 <p>The post <a href="https://www.semiconductor-digest.com/aeluma-orders-aixtron-mocvd-system-to-expand-photonics-manufacturing/">Aeluma Orders AIXTRON MOCVD System to Expand Photonics Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Thermo Fisher Scientific Reports Multiple Installations of Optis FIB-SEM Systems](https://www.semiconductor-digest.com/thermo-fisher-scientific-reports-multiple-installations-of-optis-fib-sem-systems/?utm_source=rss&utm_medium=rss&utm_campaign=thermo-fisher-scientific-reports-multiple-installations-of-optis-fib-sem-systems)
-**Published:** Thu, 12 Nov 2026 22:26:17 +0000
-
-<p>Thermo Fisher Scientific Inc. today announced that it has completed multiple installations of the Thermo Scientific Optis focused ion beam-scanning electron microscope (FIB-SEM).</p>
-<p>The post <a href="https://www.semiconductor-digest.com/thermo-fisher-scientific-reports-multiple-installations-of-optis-fib-sem-systems/">Thermo Fisher Scientific Reports Multiple Installations of Optis FIB-SEM Systems</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [imec and ASRA Release Joint Architectural Requirements for Interoperable Automotive Chiplets](https://www.semiconductor-digest.com/imec-and-asra-release-joint-architectural-requirements-for-interoperable-automotive-chiplets/?utm_source=rss&utm_medium=rss&utm_campaign=imec-and-asra-release-joint-architectural-requirements-for-interoperable-automotive-chiplets)
-**Published:** Thu, 12 Nov 2026 21:44:29 +0000
-
-<p>Automotive Chiplet Interoperability Requirement (ACIR) document complements existing standards by establishing a common set of architectural requirements for an open, multi-vendor automotive chiplet ecosystem.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/imec-and-asra-release-joint-architectural-requirements-for-interoperable-automotive-chiplets/">imec and ASRA Release Joint Architectural Requirements for Interoperable Automotive Chiplets</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
