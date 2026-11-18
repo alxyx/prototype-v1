@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-17 08:00 UTC_
+_Last updated: 2026-11-18 01:48 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,30 @@ _Last updated: 2026-11-17 08:00 UTC_
 
 <p>Collecting data is only the first step. Its real value comes from using it to improve manufacturing.</p>
 <p>The post <a href="https://www.eetasia.com/how-statistical-analysis-improved-semiconductor-manufacturing-at-macronix/">How Statistical Analysis Improved Semiconductor Manufacturing at Macronix</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [Lambda Announces World’s First Large-Scale CPO Deployment of NVIDIA Photonics Switches](https://www.semiconductor-digest.com/lambda-announces-worlds-first-large-scale-cpo-deployment-of-nvidia-photonics-switches/?utm_source=rss&utm_medium=rss&utm_campaign=lambda-announces-worlds-first-large-scale-cpo-deployment-of-nvidia-photonics-switches)
+**Published:** Tue, 17 Nov 2026 21:15:42 +0000
+
+<p>Lambda, the Superintelligence Cloud, today announced the world’s first large-scale deployment of co-packaged optics (CPO) networking, connecting 10,000+ NVIDIA Blackwell Ultra GPUs using NVIDIA Photonics networking switches at its Quebec campus.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lambda-announces-worlds-first-large-scale-cpo-deployment-of-nvidia-photonics-switches/">Lambda Announces World’s First Large-Scale CPO Deployment of NVIDIA Photonics Switches</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ACM Research Expands U.S. Operations with Oregon R&D and Manufacturing Facility](https://www.semiconductor-digest.com/acm-research-expands-u-s-operations-with-oregon-rd-and-manufacturing-facility/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-expands-u-s-operations-with-oregon-rd-and-manufacturing-facility)
+**Published:** Tue, 17 Nov 2026 20:57:37 +0000
+
+<p>Facility strengthens U.S. capabilities, enhances support for North American customers and brings more jobs to the region.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/acm-research-expands-u-s-operations-with-oregon-rd-and-manufacturing-facility/">ACM Research Expands U.S. Operations with Oregon R&#038;D and Manufacturing Facility</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Siemens to Acquire Breker Verification Systems to Expand System-on-Chip Verification Portfolio](https://www.semiconductor-digest.com/siemens-to-acquire-breker-verification-systems-to-expand-system-on-chip-verification-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-to-acquire-breker-verification-systems-to-expand-system-on-chip-verification-portfolio)
+**Published:** Tue, 17 Nov 2026 20:43:52 +0000
+
+<p>Siemens has signed an agreement to acquire Breker Verification Systems, Inc., expanding Siemens' EDA AI-assisted verification portfolio with unique system-on-chip-level technologies that help semiconductor teams accelerate the verification of increasingly complex SoC architectures. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/siemens-to-acquire-breker-verification-systems-to-expand-system-on-chip-verification-portfolio/">Siemens to Acquire Breker Verification Systems to Expand System-on-Chip Verification Portfolio</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-11-17 08:00 UTC_
 
 <p>Teledyne Vision Solutions showcases advanced imaging technologies for semiconductor inspection at SEMICON Europa 2026.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/teledyne-vision-solutions-demonstrates-single-pass-300mm-wafer-inspection/">Teledyne Vision Solutions Demonstrates Single-Pass 300mm Wafer Inspection</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ViTrox Reports Nearly 200 AI-Powered X-Ray Inspection Systems Deployed](https://www.semiconductor-digest.com/vitrox-reports-nearly-200-ai-powered-x-ray-inspection-systems-deployed/?utm_source=rss&utm_medium=rss&utm_campaign=vitrox-reports-nearly-200-ai-powered-x-ray-inspection-systems-deployed)
-**Published:** Thu, 12 Nov 2026 23:02:06 +0000
-
-<p>ViTrox will demonstrate a curated line-up of its flagship AI-driven inspection technologies, spanning front-end SMT assembly through to back-end semiconductor and advanced packaging.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/vitrox-reports-nearly-200-ai-powered-x-ray-inspection-systems-deployed/">ViTrox Reports Nearly 200 AI-Powered X-Ray Inspection Systems Deployed</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Almere, Flevoland and Q.ANT Team Up for Computing with Light](https://www.semiconductor-digest.com/almere-flevoland-and-q-ant-team-up-for-computing-with-light/?utm_source=rss&utm_medium=rss&utm_campaign=almere-flevoland-and-q-ant-team-up-for-computing-with-light)
-**Published:** Thu, 12 Nov 2026 22:57:34 +0000
-
-<p>German leader in photonic AI chips signs Memorandum of Understanding with Innovally and Horizon Flevoland at SEMICON Europa.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/almere-flevoland-and-q-ant-team-up-for-computing-with-light/">Almere, Flevoland and Q.ANT Team Up for Computing with Light</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Aeluma Orders AIXTRON MOCVD System to Expand Photonics Manufacturing](https://www.semiconductor-digest.com/aeluma-orders-aixtron-mocvd-system-to-expand-photonics-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=aeluma-orders-aixtron-mocvd-system-to-expand-photonics-manufacturing)
-**Published:** Thu, 12 Nov 2026 22:27:38 +0000
-
-<p>The tool will support advanced development and the expansion of manufacturing capacity for Aeluma’s non-indium-phosphide (non-InP) photonics platform.  </p>
-<p>The post <a href="https://www.semiconductor-digest.com/aeluma-orders-aixtron-mocvd-system-to-expand-photonics-manufacturing/">Aeluma Orders AIXTRON MOCVD System to Expand Photonics Manufacturing</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
