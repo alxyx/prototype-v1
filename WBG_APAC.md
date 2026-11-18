@@ -1,8 +1,24 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-18 01:48 UTC_
+_Last updated: 2026-11-18 07:51 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Semiconductor Equipment Market Forecast to Reach $372B by 2033](https://www.eetasia.com/semiconductor-equipment-market-forecast-to-reach-372b-by-2033/)
+**Published:** Wed, 18 Nov 2026 00:38:24 +0000
+
+<p>MarketsandMarkets projects 10.6% annual growth, driven by investments in advanced logic, memory, AI chips and packaging.</p>
+<p>The post <a href="https://www.eetasia.com/semiconductor-equipment-market-forecast-to-reach-372b-by-2033/">Semiconductor Equipment Market Forecast to Reach $372B by 2033</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [How AI Chip Manufacturing is Changing Seal Selection](https://www.eetasia.com/how-ai-chip-manufacturing-is-changing-seal-selection/)
+**Published:** Wed, 18 Nov 2026 00:04:03 +0000
+
+<p>AI processors, high-bandwidth memory and advanced packaging are placing tighter demands on semiconductor equipment. Selecting reliable seals requires engineers to account for process chemistry, cleaning exposure and mechanical behavior, then verify performance in the installed geometry.</p>
+<p>The post <a href="https://www.eetasia.com/how-ai-chip-manufacturing-is-changing-seal-selection/">How AI Chip Manufacturing is Changing Seal Selection</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,14 +27,6 @@ _Last updated: 2026-11-18 01:48 UTC_
 
 <p>VKAISS 2026 brought together more than 400 delegates, with agreements covering supply chains, technology development and workforce training.</p>
 <p>The post <a href="https://www.eetasia.com/vietnam-and-south-korea-sign-eight-agreements-on-ai-and-semiconductor-cooperation/">Vietnam and South Korea Sign Eight Agreements on AI and Semiconductor Cooperation</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [How Statistical Analysis Improved Semiconductor Manufacturing at Macronix](https://www.eetasia.com/how-statistical-analysis-improved-semiconductor-manufacturing-at-macronix/)
-**Published:** Mon, 16 Nov 2026 02:16:06 +0000
-
-<p>Collecting data is only the first step. Its real value comes from using it to improve manufacturing.</p>
-<p>The post <a href="https://www.eetasia.com/how-statistical-analysis-improved-semiconductor-manufacturing-at-macronix/">How Statistical Analysis Improved Semiconductor Manufacturing at Macronix</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-11-18 01:48 UTC_
 
 <p>Applied Materials, Inc. (NASDAQ: AMAT) today reported results for its fourth quarter and fiscal year ended Oct. 25, 2026.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships/">Applied Materials Introduces VeritySEM 20; Adds Intel to EPIC Center Partnerships</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Teledyne Vision Solutions Demonstrates Single-Pass 300mm Wafer Inspection](https://www.semiconductor-digest.com/teledyne-vision-solutions-demonstrates-single-pass-300mm-wafer-inspection/?utm_source=rss&utm_medium=rss&utm_campaign=teledyne-vision-solutions-demonstrates-single-pass-300mm-wafer-inspection)
-**Published:** Thu, 12 Nov 2026 23:04:57 +0000
-
-<p>Teledyne Vision Solutions showcases advanced imaging technologies for semiconductor inspection at SEMICON Europa 2026.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/teledyne-vision-solutions-demonstrates-single-pass-300mm-wafer-inspection/">Teledyne Vision Solutions Demonstrates Single-Pass 300mm Wafer Inspection</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
