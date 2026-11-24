@@ -1,24 +1,48 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-24 00:14 UTC_
+_Last updated: 2026-11-24 23:10 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
 ---
 
-## [Strengthening Singapore’s Semiconductor Ecosystem: Why Advanced Precious Metal Materials Matter](https://www.eetasia.com/strengthening-singapores-semiconductor-ecosystem-why-advanced-precious-metal-materials-matter/)
-**Published:** Mon, 23 Nov 2026 01:30:01 +0000
+## [Shining a Light on Electron Behavior in Stacked Semiconductors](https://www.semiconductor-digest.com/shining-a-light-on-electron-behavior-in-stacked-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=shining-a-light-on-electron-behavior-in-stacked-semiconductors)
+**Published:** Tue, 24 Nov 2026 19:02:45 +0000
 
-<p>Singapore's semiconductor competitiveness increasingly depends on materials expertise, advanced packaging, manufacturing reliability and supply-chain resilience.</p>
-<p>The post <a href="https://www.eetasia.com/strengthening-singapores-semiconductor-ecosystem-why-advanced-precious-metal-materials-matter/">Strengthening Singapore&#8217;s Semiconductor Ecosystem: Why Advanced Precious Metal Materials Matter</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Stacking semiconductors — the chips that power phones, computers and so much more — enables quicker signal movement with less energy, but how does the process actually work?</p>
+<p>The post <a href="https://www.semiconductor-digest.com/shining-a-light-on-electron-behavior-in-stacked-semiconductors/">Shining a Light on Electron Behavior in Stacked Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
-## [Staera Semiconductor Raises $4.6M for Integrated Optical Interconnect Technology](https://www.eetasia.com/staera-semiconductor-raises-4-6m-for-integrated-optical-interconnect-technology/)
-**Published:** Thu, 19 Nov 2026 03:53:41 +0000
+## [Festo and NOCTI Announce New Cleanroom Certification for Semiconductor Manufacturing Training](https://www.semiconductor-digest.com/festo-and-nocti-announce-new-cleanroom-certification-for-semiconductor-manufacturing-training/?utm_source=rss&utm_medium=rss&utm_campaign=festo-and-nocti-announce-new-cleanroom-certification-for-semiconductor-manufacturing-training)
+**Published:** Tue, 24 Nov 2026 18:56:46 +0000
 
-<p>Staera is developing wafer-fabricated optical links to reduce power consumption and data-transfer bottlenecks in AI systems.</p>
-<p>The post <a href="https://www.eetasia.com/staera-semiconductor-raises-4-6m-for-integrated-optical-interconnect-technology/">Staera Semiconductor Raises $4.6M for Integrated Optical Interconnect Technology</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+<p>Festo Didactic, a global leader in technical education and industrial training, and NOCTI, a leading third-party provider of industry credentials for career and technical education programs across the U.S., have announced the development of a specialized Cleanroom Certification for semiconductor manufacturing training. </p>
+<p>The post <a href="https://www.semiconductor-digest.com/festo-and-nocti-announce-new-cleanroom-certification-for-semiconductor-manufacturing-training/">Festo and NOCTI Announce New Cleanroom Certification for Semiconductor Manufacturing Training</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Large XY Stage with 360x360mm Aperture Brings Nanometer Precision to Semiconductor Metrology and Wafer Inspection](https://www.semiconductor-digest.com/large-xy-stage-with-360x360mm-aperture-brings-nanometer-precision-to-semiconductor-metrology-and-wafer-inspection/?utm_source=rss&utm_medium=rss&utm_campaign=large-xy-stage-with-360x360mm-aperture-brings-nanometer-precision-to-semiconductor-metrology-and-wafer-inspection)
+**Published:** Tue, 24 Nov 2026 18:51:51 +0000
+
+<p>Smaller features, tighter tolerances and higher throughput are raising the bar for the motion systems inside wafer inspection and metrology tools.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/large-xy-stage-with-360x360mm-aperture-brings-nanometer-precision-to-semiconductor-metrology-and-wafer-inspection/">Large XY Stage with 360x360mm Aperture Brings Nanometer Precision to Semiconductor Metrology and Wafer Inspection</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AIXTRON and Nokia Expand Collaboration to Scale InP Photonics for AI Infrastructure](https://www.semiconductor-digest.com/aixtron-and-nokia-expand-collaboration-to-scale-inp-photonics-for-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=aixtron-and-nokia-expand-collaboration-to-scale-inp-photonics-for-ai-infrastructure)
+**Published:** Tue, 24 Nov 2026 18:47:33 +0000
+
+<p>AIXTRON SE today announced that Nokia has placed several repeat orders for AIXTRON’s G10-AsP systems, with deliveries scheduled throughout 2027.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/aixtron-and-nokia-expand-collaboration-to-scale-inp-photonics-for-ai-infrastructure/">AIXTRON and Nokia Expand Collaboration to Scale InP Photonics for AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [AlixLabs Demonstrates Advanced Via Patterning for Future DRAM Applications](https://www.semiconductor-digest.com/alixlabs-demonstrates-advanced-via-patterning-for-future-dram-applications/?utm_source=rss&utm_medium=rss&utm_campaign=alixlabs-demonstrates-advanced-via-patterning-for-future-dram-applications)
+**Published:** Tue, 24 Nov 2026 17:53:50 +0000
+
+<p>AlixLabs, a Swedish semiconductor equipment company specializing in atomic layer etching (ALE), today announced promising preliminary results demonstrating the potential of its proprietary etching technology for advanced DRAM manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/alixlabs-demonstrates-advanced-via-patterning-for-future-dram-applications/">AlixLabs Demonstrates Advanced Via Patterning for Future DRAM Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -59,30 +83,6 @@ _Last updated: 2026-11-24 00:14 UTC_
 
 <p>The Semiconductor Industry Association today announced that Cirrus Logic President and CEO John Forsyth has been elected Chair of the SIA Board of Directors. Tom Caulfield, Executive Chairman of GlobalFoundries (NASDAQ: GFS), was elected Vice Chair.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/john-forsyth-cirrus-logic-president-and-ceo-elected-chair-of-semiconductor-industry-association/">John Forsyth, Cirrus Logic President and CEO, Elected Chair of Semiconductor Industry Association</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [World’s First Mass Production of Ultrahigh-Mobility Oxide Technology Paves the Way for a New Generation of Displays](https://www.semiconductor-digest.com/worlds-first-mass-production-of-ultrahigh-mobility-oxide-technology-paves-the-way-for-a-new-generation-of-displays/?utm_source=rss&utm_medium=rss&utm_campaign=worlds-first-mass-production-of-ultrahigh-mobility-oxide-technology-paves-the-way-for-a-new-generation-of-displays)
-**Published:** Fri, 20 Nov 2026 21:04:17 +0000
-
-<p>TCL CSOT became the world's first to achieve mass production of ultrahigh-mobility oxide technology (electron mobility of ~50 cm² V⁻¹ s⁻¹) on an 8.6-generation line.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/worlds-first-mass-production-of-ultrahigh-mobility-oxide-technology-paves-the-way-for-a-new-generation-of-displays/">World&#8217;s First Mass Production of Ultrahigh-Mobility Oxide Technology Paves the Way for a New Generation of Displays</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Foundry-Compatible SiGe Trap-Rich Layer Technology Advances Next-Generation RF-SOI and FDSOI Platforms  Share](https://www.semiconductor-digest.com/foundry-compatible-sige-trap-rich-layer-technology-advances-next-generation-rf-soi-and-fdsoi-platforms-share/?utm_source=rss&utm_medium=rss&utm_campaign=foundry-compatible-sige-trap-rich-layer-technology-advances-next-generation-rf-soi-and-fdsoi-platforms-share)
-**Published:** Fri, 20 Nov 2026 21:00:21 +0000
-
-<p>Acorn Technologies, Inc., a semiconductor technology innovator focused on advanced process and device IP, today announced the results of its research collaboration with Jean-Pierre Raskin, PhD.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/foundry-compatible-sige-trap-rich-layer-technology-advances-next-generation-rf-soi-and-fdsoi-platforms-share/">Foundry-Compatible SiGe Trap-Rich Layer Technology Advances Next-Generation RF-SOI and FDSOI Platforms  Share</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Boston Dynamics & GlobalFoundries Expand Robotics Collaboration](https://www.semiconductor-digest.com/boston-dynamics-globalfoundries-expand-robotics-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=boston-dynamics-globalfoundries-expand-robotics-collaboration)
-**Published:** Thu, 19 Nov 2026 23:34:24 +0000
-
-<p>Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries(opens in new tab) (GF), a manufacturer of essential semiconductors, today announced an expansion of their collaboration to deploy Spot for autonomous enterprise asset management across GF’s global semiconductor fabs. </p>
-<p>The post <a href="https://www.semiconductor-digest.com/boston-dynamics-globalfoundries-expand-robotics-collaboration/">Boston Dynamics &#038; GlobalFoundries Expand Robotics Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
