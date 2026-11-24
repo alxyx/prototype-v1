@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-23 13:30 UTC_
+_Last updated: 2026-11-24 00:14 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -19,6 +19,38 @@ _Last updated: 2026-11-23 13:30 UTC_
 
 <p>Staera is developing wafer-fabricated optical links to reduce power consumption and data-transfer bottlenecks in AI systems.</p>
 <p>The post <a href="https://www.eetasia.com/staera-semiconductor-raises-4-6m-for-integrated-optical-interconnect-technology/">Staera Semiconductor Raises $4.6M for Integrated Optical Interconnect Technology</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [PFN and SEMIFIVE Collaborate to Develop the MN-Core L2000 Series of Next-Generation AI Inference Chips](https://www.semiconductor-digest.com/pfn-and-semifive-collaborate-to-develop-the-mn-core-l2000-series-of-next-generation-ai-inference-chips/?utm_source=rss&utm_medium=rss&utm_campaign=pfn-and-semifive-collaborate-to-develop-the-mn-core-l2000-series-of-next-generation-ai-inference-chips)
+**Published:** Mon, 23 Nov 2026 22:35:05 +0000
+
+<p>Preferred Networks, Inc. and SEMIFIVE Inc. today announced a collaboration to develop the MN-Core L2000 Series, PFN's next-generation of chips designed specifically for AI inference.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/pfn-and-semifive-collaborate-to-develop-the-mn-core-l2000-series-of-next-generation-ai-inference-chips/">PFN and SEMIFIVE Collaborate to Develop the MN-Core L2000 Series of Next-Generation AI Inference Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Lam Research, University at Albany Partner to Develop Future Semiconductor Engineers](https://www.semiconductor-digest.com/lam-research-university-at-albany-partner-to-develop-future-semiconductor-engineers/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-university-at-albany-partner-to-develop-future-semiconductor-engineers)
+**Published:** Mon, 23 Nov 2026 22:28:46 +0000
+
+<p>As the semiconductor industry races to meet growing demand for skilled engineering talent, Lam Research Corp. and the University at Albany (UAlbany), a public research university in the State University of New York system, today announced that they are collaborating to help prepare aspiring engineers for careers in semiconductor manufacturing.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/lam-research-university-at-albany-partner-to-develop-future-semiconductor-engineers/">Lam Research, University at Albany Partner to Develop Future Semiconductor Engineers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [SCHMID Launches QuantumLine P+ for Void-Free Bottom-Up Copper Filling of Through-Glass Vias](https://www.semiconductor-digest.com/schmid-launches-quantumline-p-for-void-free-bottom-up-copper-filling-of-through-glass-vias/?utm_source=rss&utm_medium=rss&utm_campaign=schmid-launches-quantumline-p-for-void-free-bottom-up-copper-filling-of-through-glass-vias)
+**Published:** Mon, 23 Nov 2026 22:21:23 +0000
+
+<p>SCHMID Group N.V., a global provider of advanced manufacturing equipment and solutions for the electronics industry, today announced the launch of QuantumLine P+.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/schmid-launches-quantumline-p-for-void-free-bottom-up-copper-filling-of-through-glass-vias/">SCHMID Launches QuantumLine P+ for Void-Free Bottom-Up Copper Filling of Through-Glass Vias</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [ASU-led SWAP Hub Receives $11.4M for Next Phase of National Security Microelectronics Work](https://www.semiconductor-digest.com/asu-led-swap-hub-receives-11-4m-for-next-phase-of-national-security-microelectronics-work/?utm_source=rss&utm_medium=rss&utm_campaign=asu-led-swap-hub-receives-11-4m-for-next-phase-of-national-security-microelectronics-work)
+**Published:** Mon, 23 Nov 2026 22:17:34 +0000
+
+<p>The Southwest Advanced Prototyping (SWAP) Hub, led by Arizona State University, will receive $11.4 million in new operating support through the U.S. Department of Defense Microelectronics Commons, positioning the hub for its next phase of national security microelectronics work.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/asu-led-swap-hub-receives-11-4m-for-next-phase-of-national-security-microelectronics-work/">ASU-led SWAP Hub Receives $11.4M for Next Phase of National Security Microelectronics Work</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -51,38 +83,6 @@ _Last updated: 2026-11-23 13:30 UTC_
 
 <p>Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries(opens in new tab) (GF), a manufacturer of essential semiconductors, today announced an expansion of their collaboration to deploy Spot for autonomous enterprise asset management across GF’s global semiconductor fabs. </p>
 <p>The post <a href="https://www.semiconductor-digest.com/boston-dynamics-globalfoundries-expand-robotics-collaboration/">Boston Dynamics &#038; GlobalFoundries Expand Robotics Collaboration</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Construction of a New Plant for ALD Materials for Advanced Semiconductors](https://www.semiconductor-digest.com/construction-of-a-new-plant-for-ald-materials-for-advanced-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=construction-of-a-new-plant-for-ald-materials-for-advanced-semiconductors)
-**Published:** Thu, 19 Nov 2026 23:32:33 +0000
-
-<p>The semiconductor market continues to grow, driven in part by the expanding use of generative AI. In logic ICs, which perform computing and control functions, transistor structures are becoming increasingly 3D and complex in addition to continued scaling, requiring even more advanced thin-film deposition technologies.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/construction-of-a-new-plant-for-ald-materials-for-advanced-semiconductors/">Construction of a New Plant for ALD Materials for Advanced Semiconductors</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Ecolab Launches Liquid Cooling Ecosystem to Shape the Industry’s Most Efficient AI Infrastructure](https://www.semiconductor-digest.com/ecolab-launches-liquid-cooling-ecosystem-to-shape-the-industrys-most-efficient-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=ecolab-launches-liquid-cooling-ecosystem-to-shape-the-industrys-most-efficient-ai-infrastructure)
-**Published:** Thu, 19 Nov 2026 22:15:17 +0000
-
-<p>Ecolab today announced it is convening an open AI infrastructure ecosystem to solve the data center industry’s need for faster next-generation data center development.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/ecolab-launches-liquid-cooling-ecosystem-to-shape-the-industrys-most-efficient-ai-infrastructure/">Ecolab Launches Liquid Cooling Ecosystem to Shape the Industry’s Most Efficient AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [EUV Tech Appoints Dr. Ted Liang as Strategic Technology Fellow](https://www.semiconductor-digest.com/euv-tech-appoints-dr-ted-liang-as-strategic-technology-fellow/?utm_source=rss&utm_medium=rss&utm_campaign=euv-tech-appoints-dr-ted-liang-as-strategic-technology-fellow)
-**Published:** Thu, 19 Nov 2026 22:04:51 +0000
-
-<p>Former Intel and Lasertec engineering leader brings extensive EUV mask expertise to advance metrology development and customer adoption.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/euv-tech-appoints-dr-ted-liang-as-strategic-technology-fellow/">EUV Tech Appoints Dr. Ted Liang as Strategic Technology Fellow</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout](https://www.semiconductor-digest.com/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout)
-**Published:** Wed, 18 Nov 2026 23:56:49 +0000
-
-<p>NVIDIA today announced expanded commitments with supply chain partners to support sustainable long-term growth, aligning supply and manufacturing capacity with demand for its accelerated computing and AI infrastructure platforms.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout/">NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
