@@ -1,6 +1,6 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-25 04:15 UTC_
+_Last updated: 2026-11-25 23:43 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
 
@@ -11,6 +11,38 @@ _Last updated: 2026-11-25 04:15 UTC_
 
 <p>Edge AI is broadening Asia's semiconductor opportunity across sensors, power, RF, packaging and embedded computing.</p>
 <p>The post <a href="https://www.eetasia.com/edge-ai-opens-opportunities-for-asias-semiconductor-industry/">Edge AI Opens Opportunities for Asia&#8217;s Semiconductor Industry</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
+
+---
+
+## [SIA Applauds Introduction of Bipartisan Legislation to Extend Semiconductor Investment Credit](https://www.semiconductor-digest.com/sia-applauds-introduction-of-bipartisan-legislation-to-extend-semiconductor-investment-credit/?utm_source=rss&utm_medium=rss&utm_campaign=sia-applauds-introduction-of-bipartisan-legislation-to-extend-semiconductor-investment-credit)
+**Published:** Wed, 25 Nov 2026 20:42:57 +0000
+
+<p>The credit is currently set to expire at the end of 2026.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/sia-applauds-introduction-of-bipartisan-legislation-to-extend-semiconductor-investment-credit/">SIA Applauds Introduction of Bipartisan Legislation to Extend Semiconductor Investment Credit</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Indium Corporation to Showcase Advanced Packaging Materials at EPTC 2026](https://www.semiconductor-digest.com/indium-corporation-to-showcase-advanced-packaging-materials-at-eptc-2026/?utm_source=rss&utm_medium=rss&utm_campaign=indium-corporation-to-showcase-advanced-packaging-materials-at-eptc-2026)
+**Published:** Wed, 25 Nov 2026 20:40:33 +0000
+
+<p>As a provider of high-reliability materials for power electronics, Indium Corporation will showcase its AI-enabling portfolio of solutions at the Electronics Packaging Technology Conference (EPTC), December 1-4, in Singapore.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/indium-corporation-to-showcase-advanced-packaging-materials-at-eptc-2026/">Indium Corporation to Showcase Advanced Packaging Materials at EPTC 2026</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [STMicroelectronics Introduces Miniature Time-of-Flight Sensor With 8-Meter Range](https://www.semiconductor-digest.com/stmicroelectronics-introduces-miniature-time-of-flight-sensor-with-8-meter-range/?utm_source=rss&utm_medium=rss&utm_campaign=stmicroelectronics-introduces-miniature-time-of-flight-sensor-with-8-meter-range)
+**Published:** Wed, 25 Nov 2026 20:36:39 +0000
+
+<p>The new sensor addresses a clear market need: extended range capability without compromising battery life, and smaller product size for better design flexibility.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/stmicroelectronics-introduces-miniature-time-of-flight-sensor-with-8-meter-range/">STMicroelectronics Introduces Miniature Time-of-Flight Sensor With 8-Meter Range</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
+
+---
+
+## [Seoul Semiconductor Enables Beyond-OLED Picture Quality with LCD](https://www.semiconductor-digest.com/seoul-semiconductor-enables-beyond-oled-picture-quality-with-lcd/?utm_source=rss&utm_medium=rss&utm_campaign=seoul-semiconductor-enables-beyond-oled-picture-quality-with-lcd)
+**Published:** Wed, 25 Nov 2026 20:27:00 +0000
+
+<p>Seoul Semiconductor Co., Ltd., a global opto-semiconductor company, today announced that its 'WICOP Pixel'—the world's first package-free technology, developed by its subsidiary Seoul Viosys —arranges RGB chips at an ultra-fine pitch of several tens of micrometers (µm) to render tens of thousands of colors.</p>
+<p>The post <a href="https://www.semiconductor-digest.com/seoul-semiconductor-enables-beyond-oled-picture-quality-with-lcd/">Seoul Semiconductor Enables Beyond-OLED Picture Quality with LCD</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
@@ -51,38 +83,6 @@ _Last updated: 2026-11-25 04:15 UTC_
 
 <p>AlixLabs, a Swedish semiconductor equipment company specializing in atomic layer etching (ALE), today announced promising preliminary results demonstrating the potential of its proprietary etching technology for advanced DRAM manufacturing.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/alixlabs-demonstrates-advanced-via-patterning-for-future-dram-applications/">AlixLabs Demonstrates Advanced Via Patterning for Future DRAM Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [PFN and SEMIFIVE Collaborate to Develop the MN-Core L2000 Series of Next-Generation AI Inference Chips](https://www.semiconductor-digest.com/pfn-and-semifive-collaborate-to-develop-the-mn-core-l2000-series-of-next-generation-ai-inference-chips/?utm_source=rss&utm_medium=rss&utm_campaign=pfn-and-semifive-collaborate-to-develop-the-mn-core-l2000-series-of-next-generation-ai-inference-chips)
-**Published:** Mon, 23 Nov 2026 22:35:05 +0000
-
-<p>Preferred Networks, Inc. and SEMIFIVE Inc. today announced a collaboration to develop the MN-Core L2000 Series, PFN's next-generation of chips designed specifically for AI inference.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/pfn-and-semifive-collaborate-to-develop-the-mn-core-l2000-series-of-next-generation-ai-inference-chips/">PFN and SEMIFIVE Collaborate to Develop the MN-Core L2000 Series of Next-Generation AI Inference Chips</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [Lam Research, University at Albany Partner to Develop Future Semiconductor Engineers](https://www.semiconductor-digest.com/lam-research-university-at-albany-partner-to-develop-future-semiconductor-engineers/?utm_source=rss&utm_medium=rss&utm_campaign=lam-research-university-at-albany-partner-to-develop-future-semiconductor-engineers)
-**Published:** Mon, 23 Nov 2026 22:28:46 +0000
-
-<p>As the semiconductor industry races to meet growing demand for skilled engineering talent, Lam Research Corp. and the University at Albany (UAlbany), a public research university in the State University of New York system, today announced that they are collaborating to help prepare aspiring engineers for careers in semiconductor manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/lam-research-university-at-albany-partner-to-develop-future-semiconductor-engineers/">Lam Research, University at Albany Partner to Develop Future Semiconductor Engineers</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [SCHMID Launches QuantumLine P+ for Void-Free Bottom-Up Copper Filling of Through-Glass Vias](https://www.semiconductor-digest.com/schmid-launches-quantumline-p-for-void-free-bottom-up-copper-filling-of-through-glass-vias/?utm_source=rss&utm_medium=rss&utm_campaign=schmid-launches-quantumline-p-for-void-free-bottom-up-copper-filling-of-through-glass-vias)
-**Published:** Mon, 23 Nov 2026 22:21:23 +0000
-
-<p>SCHMID Group N.V., a global provider of advanced manufacturing equipment and solutions for the electronics industry, today announced the launch of QuantumLine P+.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/schmid-launches-quantumline-p-for-void-free-bottom-up-copper-filling-of-through-glass-vias/">SCHMID Launches QuantumLine P+ for Void-Free Bottom-Up Copper Filling of Through-Glass Vias</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [ASU-led SWAP Hub Receives $11.4M for Next Phase of National Security Microelectronics Work](https://www.semiconductor-digest.com/asu-led-swap-hub-receives-11-4m-for-next-phase-of-national-security-microelectronics-work/?utm_source=rss&utm_medium=rss&utm_campaign=asu-led-swap-hub-receives-11-4m-for-next-phase-of-national-security-microelectronics-work)
-**Published:** Mon, 23 Nov 2026 22:17:34 +0000
-
-<p>The Southwest Advanced Prototyping (SWAP) Hub, led by Arizona State University, will receive $11.4 million in new operating support through the U.S. Department of Defense Microelectronics Commons, positioning the hub for its next phase of national security microelectronics work.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/asu-led-swap-hub-receives-11-4m-for-next-phase-of-national-security-microelectronics-work/">ASU-led SWAP Hub Receives $11.4M for Next Phase of National Security Microelectronics Work</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
