@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-24 23:10 UTC_
+_Last updated: 2026-11-25 04:15 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Edge AI Opens Opportunities for Asia’s Semiconductor Industry](https://www.eetasia.com/edge-ai-opens-opportunities-for-asias-semiconductor-industry/)
+**Published:** Wed, 25 Nov 2026 03:02:58 +0000
+
+<p>Edge AI is broadening Asia's semiconductor opportunity across sensors, power, RF, packaging and embedded computing.</p>
+<p>The post <a href="https://www.eetasia.com/edge-ai-opens-opportunities-for-asias-semiconductor-industry/">Edge AI Opens Opportunities for Asia&#8217;s Semiconductor Industry</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-11-24 23:10 UTC_
 
 <p>The Southwest Advanced Prototyping (SWAP) Hub, led by Arizona State University, will receive $11.4 million in new operating support through the U.S. Department of Defense Microelectronics Commons, positioning the hub for its next phase of national security microelectronics work.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/asu-led-swap-hub-receives-11-4m-for-next-phase-of-national-security-microelectronics-work/">ASU-led SWAP Hub Receives $11.4M for Next Phase of National Security Microelectronics Work</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [John Forsyth, Cirrus Logic President and CEO, Elected Chair of Semiconductor Industry Association](https://www.semiconductor-digest.com/john-forsyth-cirrus-logic-president-and-ceo-elected-chair-of-semiconductor-industry-association/?utm_source=rss&utm_medium=rss&utm_campaign=john-forsyth-cirrus-logic-president-and-ceo-elected-chair-of-semiconductor-industry-association)
-**Published:** Fri, 20 Nov 2026 21:13:42 +0000
-
-<p>The Semiconductor Industry Association today announced that Cirrus Logic President and CEO John Forsyth has been elected Chair of the SIA Board of Directors. Tom Caulfield, Executive Chairman of GlobalFoundries (NASDAQ: GFS), was elected Vice Chair.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/john-forsyth-cirrus-logic-president-and-ceo-elected-chair-of-semiconductor-industry-association/">John Forsyth, Cirrus Logic President and CEO, Elected Chair of Semiconductor Industry Association</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
