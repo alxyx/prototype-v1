@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-25 23:43 UTC_
+_Last updated: 2026-11-27 00:17 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Seoul Semiconductor Ramps Up Production of RGB LCD Backlight Technology](https://www.eetasia.com/seoul-semiconductor-ramps-up-production-of-rgb-lcd-backlight-technology/)
+**Published:** Thu, 26 Nov 2026 02:53:34 +0000
+
+<p>WICOP Pixel uses package-free RGB chips to improve LCD color reproduction and brightness while targeting premium television applications.</p>
+<p>The post <a href="https://www.eetasia.com/seoul-semiconductor-ramps-up-production-of-rgb-lcd-backlight-technology/">Seoul Semiconductor Ramps Up Production of RGB LCD Backlight Technology</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -75,14 +83,6 @@ _Last updated: 2026-11-25 23:43 UTC_
 
 <p>AIXTRON SE today announced that Nokia has placed several repeat orders for AIXTRON’s G10-AsP systems, with deliveries scheduled throughout 2027.</p>
 <p>The post <a href="https://www.semiconductor-digest.com/aixtron-and-nokia-expand-collaboration-to-scale-inp-photonics-for-ai-infrastructure/">AIXTRON and Nokia Expand Collaboration to Scale InP Photonics for AI Infrastructure</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
-
----
-
-## [AlixLabs Demonstrates Advanced Via Patterning for Future DRAM Applications](https://www.semiconductor-digest.com/alixlabs-demonstrates-advanced-via-patterning-for-future-dram-applications/?utm_source=rss&utm_medium=rss&utm_campaign=alixlabs-demonstrates-advanced-via-patterning-for-future-dram-applications)
-**Published:** Tue, 24 Nov 2026 17:53:50 +0000
-
-<p>AlixLabs, a Swedish semiconductor equipment company specializing in atomic layer etching (ALE), today announced promising preliminary results demonstrating the potential of its proprietary etching technology for advanced DRAM manufacturing.</p>
-<p>The post <a href="https://www.semiconductor-digest.com/alixlabs-demonstrates-advanced-via-patterning-for-future-dram-applications/">AlixLabs Demonstrates Advanced Via Patterning for Future DRAM Applications</a> appeared first on <a href="https://www.semiconductor-digest.com">Semiconductor Digest</a>.</p>
 
 ---
 
