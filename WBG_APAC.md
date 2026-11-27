@@ -1,8 +1,16 @@
 # 🌏 Wide Bandgap Semiconductor Updates - APAC Region (Page 1/12)
 
-_Last updated: 2026-11-27 00:17 UTC_
+_Last updated: 2026-11-27 07:46 UTC_
 
 [Next Page ⏩](WBG_APAC_page_2.md)
+
+---
+
+## [Neuranics Advances £13.1M Magnetic Sensor Manufacturing Project in Glasgow](https://www.eetasia.com/neuranics-advances-13-1m-magnetic-sensor-manufacturing-project-in-glasgow/)
+**Published:** Fri, 27 Nov 2026 01:39:31 +0000
+
+<p>A new ion beam etch facility will support magnetic sensor fabrication, semiconductor manufacturing capacity and more than 100 jobs.</p>
+<p>The post <a href="https://www.eetasia.com/neuranics-advances-13-1m-magnetic-sensor-manufacturing-project-in-glasgow/">Neuranics Advances £13.1M Magnetic Sensor Manufacturing Project in Glasgow</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
@@ -11,14 +19,6 @@ _Last updated: 2026-11-27 00:17 UTC_
 
 <p>WICOP Pixel uses package-free RGB chips to improve LCD color reproduction and brightness while targeting premium television applications.</p>
 <p>The post <a href="https://www.eetasia.com/seoul-semiconductor-ramps-up-production-of-rgb-lcd-backlight-technology/">Seoul Semiconductor Ramps Up Production of RGB LCD Backlight Technology</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
-
----
-
-## [Edge AI Opens Opportunities for Asia’s Semiconductor Industry](https://www.eetasia.com/edge-ai-opens-opportunities-for-asias-semiconductor-industry/)
-**Published:** Wed, 25 Nov 2026 03:02:58 +0000
-
-<p>Edge AI is broadening Asia's semiconductor opportunity across sensors, power, RF, packaging and embedded computing.</p>
-<p>The post <a href="https://www.eetasia.com/edge-ai-opens-opportunities-for-asias-semiconductor-industry/">Edge AI Opens Opportunities for Asia&#8217;s Semiconductor Industry</a> appeared first on <a href="https://www.eetasia.com">EE Times Asia</a>.</p>
 
 ---
 
